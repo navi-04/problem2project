@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem to Pattern</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <!-- Add the scroll-to-top button -->
+    <button id="scrollToTop" class="fixed bottom-8 right-8 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300 opacity-0 invisible">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
+        </svg>
+    </button>
+
+    <div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100">
+        <div class="text-center px-4">
+            <h1 class="text-5xl font-bold text-gray-900 mb-4">Problem to Pattern</h1>
+            <p class="text-xl text-gray-600 mb-8">A repository of open-source problem statements & ideas</p>
+            <div class="space-x-4">
+                <a href="#categories" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">Find Your Problems</a>
+                <a href="about.html" class="bg-gray-600 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition duration-300">About Us</a>
+            </div>
+        </div>
+    </div>
+
+    <section id="categories" class="h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-16 flex items-center">
+        <div class="container mx-auto px-4">
+            <h2 class="text-4xl font-bold text-center mb-12">Categories</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-h-[70vh] overflow-y-auto px-4">
+                <!-- Category buttons with adjusted styles -->
+                <button onclick="toggleKeywords('programming')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Programming / Algorithms (incl. project ideas)</button>
+                <button onclick="toggleKeywords('math')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Math (algebra / calculus / discrete) </button>
+                <button onclick="toggleKeywords('physics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Physics</button>
+                <button onclick="toggleKeywords('chemistry')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Chemistry</button>
+                <button onclick="toggleKeywords('biology')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Biology / Life sciences</button>
+                <button onclick="toggleKeywords('data-science')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Data science / ML</button>
+                <button onclick="toggleKeywords('electronics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Electronics / EE </button>
+                <button onclick="toggleKeywords('robotics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Robotics / Control</button>
+                <button onclick="toggleKeywords('mechanical')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Mechanical / Design </button>
+                <button onclick="toggleKeywords('civil')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Civil / Environment </button>
+                <button onclick="toggleKeywords('healthcare')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Healthcare / Public health  </button>
+                <button onclick="toggleKeywords('ux')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  UX & Product design  </button>
+                <button onclick="toggleKeywords('business')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Business case studies / entrepreneurship  </button>
+                <button onclick="toggleKeywords('security')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Security / Cryptography </button>
+                <button onclick="toggleKeywords('iot')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  IoT  </button>
+                <button onclick="toggleKeywords('education')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Education / Pedagogy problems  </button>
+                <button onclick="toggleKeywords('energy')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Energy / Sustainability  </button>
+                <button onclick="toggleKeywords('agriculture')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Agriculture / Food tech </button>
+                <button onclick="toggleKeywords('legal')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Legal / Policy puzzles  </button>
+                <button onclick="toggleKeywords('social-impact')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Social impact / Civic tech</button>
+            </div>
+            
+            <!-- Keywords container -->
+            <div id="keywords-container" class="mt-8 hidden">
+                <h3 class="text-2xl font-semibold mb-4">Related Keywords</h3>
+                <div id="keywords-list" class="flex flex-wrap gap-3">
+                    <!-- Keywords will be populated by script.js -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="problems" class="min-h-screen bg-gray-50 py-16 hidden">
+        <div class="container mx-auto px-4">
+            <h2 class="text-4xl font-bold text-center mb-12">Problem Statements</h2>
+            <div id="problems-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Problem cards will be added here -->
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="bg-white py-16">
+        <div class="container mx-auto px-4 max-w-lg">
+            <h2 class="text-4xl font-bold text-center mb-12">Contact Us</h2>
+            <form id="contactForm" class="space-y-6">
+                <div>
+                    <label for="name" class="block text-gray-700 mb-2">Name</label>
+                    <input type="text" id="name" name="name" required 
+                        class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:border-blue-500">
+                </div>
+                <div>
+                    <label for="email" class="block text-gray-700 mb-2">Email</label>
+                    <input type="email" id="email" name="email" required 
+                        class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:border-blue-500">
+                </div>
+                <div>
+                    <label for="message" class="block text-gray-700 mb-2">Message</label>
+                    <textarea id="message" name="message" rows="4" required 
+                        class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:border-blue-500"></textarea>
+                </div>
+                <button type="submit" 
+                    class="w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">
+                    Send
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <script>
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        function toggleKeywords(category) {
+            const container = document.getElementById('keywords-container');
+            const list = document.getElementById('keywords-list');
+            const problemsSection = document.getElementById('problems');
+            list.innerHTML = '';
+
+            // Sample keywords for each category
+            const keywords = {
+                programming: ['Data Structures', 'Algorithms', 'LeetCode Problems'],
+                math: ['Linear Algebra', 'Calculus', 'Statistics'],
+                physics: ['Quantum Mechanics', 'Thermodynamics', 'Optics'],
+                chemistry: ['Organic Chemistry', 'Inorganic Chemistry', 'Physical Chemistry'],
+                biology: ['Cell Biology', 'Genetics', 'Microbiology'],
+                'data-science': ['Pandas', 'NumPy', 'Machine Learning'],
+                electronics: ['Circuit Design', 'Signal Processing', 'Microcontrollers'],
+                robotics: ['Kinematics', 'Dynamics', 'Control Systems'],
+                mechanical: ['Thermodynamics', 'Fluid Mechanics', 'Heat Transfer'],
+                civil: ['Structural Analysis', 'Geotechnical Engineering', 'Transportation Engineering'],
+                healthcare: ['Telemedicine', 'EHR', 'Wearable Health Tech'],
+                ux: ['User Research', 'Prototyping', 'Usability Testing'],
+                business: ['Market Analysis', 'Business Strategy', 'Entrepreneurship'],
+                security: ['Network Security', 'Cryptography', 'Risk Management'],
+                iot: ['Smart Homes', 'Wearable Devices', 'Industrial IoT'],
+                education: ['E-learning', 'STEM', 'Educational Apps'],
+                energy: ['Renewable Energy', 'Energy Storage', 'Smart Grids'],
+                agriculture: ['Hydroponics', 'Crop Rotation', 'Organic Farming'],
+                legal: ['Intellectual Property', 'Contract Law', 'Corporate Law'],
+                'social-impact': ['Community Service', 'Non-profit Management', 'Social Entrepreneurship']
+            };
+
+            if (keywords[category]) {
+                container.classList.remove('hidden');
+                keywords[category].forEach(keyword => {
+                    const span = document.createElement('span');
+                    span.className = 'bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm';
+                    span.innerText = keyword;
+                    list.appendChild(span);
+                });
+
+                // Load and display problems
+                fetch('problems_full.json')
+                    .then(response => response.json())
+                    .then(problems => {
+                        const problemsGrid = document.getElementById('problems-grid');
+                        problemsGrid.innerHTML = '';
+
+                        // Filter problems based on category
+                        const filteredProblems = problems.filter(p => p.domain.toLowerCase().includes(category.toLowerCase()));
+
+                        if (filteredProblems.length > 0) {
+                            problemsSection.classList.remove('hidden');
+                            filteredProblems.forEach(problem => {
+                                const card = document.createElement('div');
+                                card.className = 'bg-white p-6 rounded-lg shadow-lg';
+                                card.innerHTML = `
+                                    <h3 class="text-xl font-semibold mb-3">${problem.title}</h3>
+                                    <p class="text-gray-600 mb-4">${problem.description}</p>
+                                    <div class="flex flex-wrap gap-2">
+                                        ${problem.keywords.map(kw => 
+                                            `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
+                                        ).join('')}
+                                    </div>
+                                `;
+                                problemsGrid.appendChild(card);
+                            });
+                        } else {
+                            problemsSection.classList.add('hidden');
+                        }
+                    })
+                    .catch(error => console.error('Error loading problems:', error));
+            } else {
+                container.classList.add('hidden');
+            }
+        }
+
+        // Add scroll-to-top button functionality
+        const scrollToTopButton = document.getElementById('scrollToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                scrollToTopButton.classList.remove('opacity-0', 'invisible');
+                scrollToTopButton.classList.add('opacity-100');
+            } else {
+                scrollToTopButton.classList.add('opacity-0', 'invisible');
+                scrollToTopButton.classList.remove('opacity-100');
+            }
+        });
+
+        scrollToTopButton.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+</body>
+</html>

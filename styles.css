@@ -1,0 +1,38 @@
+.container {
+    margin: 20px;
+    padding: 20px;
+}
+
+.category-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.category-btn:hover {
+    background-color: #45a049;
+}
+
+.keywords-container {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.keywords-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.keyword-tag {
+    background-color: #e9ecef;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+}

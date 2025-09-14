@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Recursion to Iteration Converter",
+    "domain": "Programming / Algorithms",
+    "description": "Many beginners face stack overflow errors due to deep recursion. The project aims to build a system that automatically converts recursive solutions into efficient iterative versions while preserving logic. It should also suggest tail recursion optimizations.as",
+    "keywords": [
+      "Recursion",
+      "Iteration",
+      "Optimization",
+      "Algorithms"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Real-Time Code Performance Profiler",
+    "domain": "Programming / Algorithms",
+    "description": "Students often write code without knowing which part is slowing execution. The challenge is to design a tool that highlights \u201cslow spots\u201d in real-time, showing time taken by loops, functions, and I/O. It should provide hints on reducing complexity.",
+    "keywords": [
+      "Profiling",
+      "Performance",
+      "Algorithms",
+      "Debugging"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Memory-Efficient Data Structure Advisor",
+    "domain": "Programming / Algorithms",
+    "description": "Choosing the wrong data structure often causes excessive memory usage. This project involves building an AI-powered advisor that suggests the most memory-efficient data structure based on the problem type and code submitted.",
+    "keywords": [
+      "Data Structures",
+      "Optimization",
+      "AI",
+      "Algorithms"
+    ]
+  },
+  {
+  "id": 4,
+    "title": "Infinite Loop Detector and Fixer",
+    "domain": "Programming / Algorithms",
+    "description": "Infinite loops are a common bug in programming. The challenge is to design a system that detects potential infinite loops in code and suggests fixes like exit conditions, iteration limits, or alternative approaches.",
+    "keywords": [
+      "Debugging",
+      "Loops",
+      "AI",
+      "Error Detection"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Automated Test Case Generator for Algorithms",
+    "domain": "Programming / Algorithms",
+    "description": "Testing algorithms manually is time-consuming. The project aims to build a system that automatically generates diverse test cases, including edge cases, based on the given problem and code.",
+    "keywords": [
+      "Test Cases",
+      "Algorithms",
+      "Automation",
+      "Debugging"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Graph Algorithm Visual Debugger",
+    "domain": "Programming / Algorithms",
+    "description": "Graph-based algorithms are often difficult to debug. This system would visualize the step-by-step execution of graph algorithms (DFS, BFS, Dijkstra, etc.), showing traversal order, edge relaxations, and shortest path updates.",
+    "keywords": [
+      "Graphs",
+      "Visualization",
+      "Algorithms",
+      "Debugging"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Adaptive Sorting Algorithm Selector",
+    "domain": "Programming / Algorithms",       
+    "description": "Different sorting algorithms perform better in different cases. The project is to build an intelligent system that analyzes input data patterns and automatically selects the best sorting algorithm.",
+    "keywords": [
+      "Sorting",
+      "Optimization",
+      "Algorithms",
+      "AI"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Competitive Coding AI Hints Generator",
+    "domain": "Programming / Algorithms",
+    "description": "Instead of giving direct solutions, this tool would provide structured hints (e.g., \u201cTry using binary search instead of linear search\u201d) to guide students towards solving problems independently.",
+    "keywords": [
+      "Competitive Programming",
+      "AI",
+      "Algorithms",
+      "Learning"
+    ]
+  },
+  { 
+    "id": 9,
+    "title": "Code Translation Across Languages",
+    "domain": "Programming / Algorithms",
+    "description": "Programmers often need to switch between languages (C++, Python, Java). The project involves building an AI that translates algorithms between languages while preserving logic and efficiency.",
+    "keywords": [
+      "Programming Languages",
+      "Algorithms",
+      "AI",
+      "Translation"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "AI Tutor for Greedy Algorithms",          
+    "domain": "Programming / Algorithms",
+    "description": "Greedy algorithms confuse beginners, especially when they fail for certain cases. The project is to design an AI tutor that tests greedy approaches, explains why they fail or succeed, and guides toward correct reasoning.",
+    "keywords": [
+      "Greedy",
+      "Algorithms",
+      "AI Tutor",     
+      "Learning"
+    ]
+  }
+ 
+    
+]
