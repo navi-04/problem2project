@@ -78,6 +78,24 @@
         </div>
     </section>
 
+    <!-- Problem Details Modal -->
+    <div id="problemModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
+        <div class="bg-white rounded-lg w-11/12 md:w-3/4 lg:w-2/3 max-h-[90vh] overflow-y-auto">
+            <div class="p-6">
+                <div class="flex justify-between items-center mb-6">
+                    <h3 id="modalTitle" class="text-2xl font-bold text-gray-900"></h3>
+                    <button onclick="closeModal()" class="text-gray-500 hover:text-gray-700 transition-colors">
+                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </button>
+                </div>
+                <p id="modalDescription" class="text-gray-600 mb-6"></p>
+                <div id="modalKeywords" class="flex flex-wrap gap-2"></div>
+            </div>
+        </div>
+    </div>
+
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white mt-16">
         <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
@@ -233,16 +251,17 @@
                     if (filteredProblems.length > 0) {
                         filteredProblems.forEach(problem => {
                             const card = document.createElement('div');
-                            card.className = 'bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow';
+                            card.className = 'bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow cursor-pointer';
                             card.innerHTML = `
                                 <h3 class="text-xl font-semibold mb-3">${problem.title}</h3>
-                                <p class="text-gray-600 mb-4">${problem.description}</p>
+                                <p class="text-gray-600 mb-4">${problem.description.substring(0, 150)}...</p>
                                 <div class="flex flex-wrap gap-2">
                                     ${problem.keywords.map(kw => 
                                         `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
                                     ).join('')}
                                 </div>
                             `;
+                            card.addEventListener('click', () => showProblemDetails(problem));
                             problemsGrid.appendChild(card);
                         });
                     } else {
@@ -279,6 +298,45 @@
                 top: 0,
                 behavior: 'smooth'
             });
+        });
+
+        // Add these new functions for modal functionality
+        function showProblemDetails(problem) {
+            const modal = document.getElementById('problemModal');
+            const title = document.getElementById('modalTitle');
+            const description = document.getElementById('modalDescription');
+            const keywords = document.getElementById('modalKeywords');
+
+            title.textContent = problem.title;
+            description.textContent = problem.description;
+            keywords.innerHTML = problem.keywords.map(kw => 
+                `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
+            ).join('');
+
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('problemModal');
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Close modal when clicking outside
+        document.getElementById('problemModal').addEventListener('click', (e) => {
+            if (e.target === e.currentTarget) {
+                closeModal();
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
         });
     </script>
 </body>
