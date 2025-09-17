@@ -65,6 +65,13 @@
     <section id="problems" class="min-h-screen bg-gray-50 py-16 hidden">
         <div class="container mx-auto px-4">
             <h2 class="text-4xl font-bold text-center mb-12">Problem Statements</h2>
+            <div id="loading" class="text-center hidden">
+                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto"></div>
+                <p class="mt-4 text-gray-600">Loading problems...</p>
+            </div>
+            <div id="no-problems" class="text-center hidden">
+                <p class="text-xl text-gray-600">No problems found for this category.</p>
+            </div>
             <div id="problems-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Problem cards will be added here -->
             </div>
@@ -99,6 +106,30 @@
     </section>
 
     <script>
+        // Define keywords object
+        const keywords = {
+            'programming': ['Algorithms', 'Data Structures', 'Web Development', 'Mobile Apps', 'Software Architecture'],
+            'math': ['Algebra', 'Calculus', 'Statistics', 'Number Theory', 'Discrete Mathematics'],
+            'physics': ['Mechanics', 'Quantum Physics', 'Thermodynamics', 'Optics', 'Electronics'],
+            'chemistry': ['Organic Chemistry', 'Inorganic Chemistry', 'Physical Chemistry', 'Biochemistry'],
+            'biology': ['Genetics', 'Microbiology', 'Ecology', 'Cell Biology', 'Evolution'],
+            'data-science': ['Machine Learning', 'Data Analysis', 'Big Data', 'Neural Networks', 'Statistics'],
+            'electronics': ['Circuit Design', 'Microcontrollers', 'Digital Systems', 'Power Electronics'],
+            'robotics': ['Control Systems', 'Automation', 'Sensors', 'Actuators', 'Robot Design'],
+            'mechanical': ['CAD', 'Manufacturing', 'Material Science', 'Dynamics', 'Thermodynamics'],
+            'civil': ['Structural Engineering', 'Environmental', 'Construction', 'Urban Planning'],
+            'healthcare': ['Medical Devices', 'Public Health', 'Healthcare IT', 'Biomedical'],
+            'ux': ['User Research', 'Interface Design', 'Usability', 'Prototyping'],
+            'business': ['Marketing', 'Finance', 'Operations', 'Strategy', 'Entrepreneurship'],
+            'security': ['Cryptography', 'Network Security', 'Cybersecurity', 'Privacy'],
+            'iot': ['Sensors', 'Embedded Systems', 'Networking', 'Cloud Integration'],
+            'education': ['Learning Systems', 'Educational Technology', 'Pedagogy', 'Assessment'],
+            'energy': ['Renewable Energy', 'Power Systems', 'Energy Efficiency', 'Sustainability'],
+            'agriculture': ['Farming Technology', 'Crop Science', 'Agricultural Systems', 'Food Processing'],
+            'legal': ['Legal Tech', 'Compliance', 'Regulatory', 'Policy Analysis'],
+            'social-impact': ['Community Development', 'Social Innovation', 'Nonprofit Tech', 'Civic Solutions']
+        };
+
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
@@ -108,79 +139,103 @@
             });
         });
 
+        // Update the toggleKeywords function
         function toggleKeywords(category) {
             const container = document.getElementById('keywords-container');
             const list = document.getElementById('keywords-list');
             const problemsSection = document.getElementById('problems');
+            const loadingElement = document.getElementById('loading');
+            const noProblemsElement = document.getElementById('no-problems');
+            const problemsGrid = document.getElementById('problems-grid');
+
+            // Show the containers and reset state
+            container.classList.remove('hidden');
+            problemsSection.classList.remove('hidden');
             list.innerHTML = '';
+            problemsGrid.innerHTML = '';
+            loadingElement.classList.remove('hidden');
+            noProblemsElement.classList.add('hidden');
+            problemsGrid.classList.add('hidden');
 
-            // Sample keywords for each category
-            const keywords = {
-                programming: ['Data Structures', 'Algorithms', 'LeetCode Problems'],
-                math: ['Linear Algebra', 'Calculus', 'Statistics'],
-                physics: ['Quantum Mechanics', 'Thermodynamics', 'Optics'],
-                chemistry: ['Organic Chemistry', 'Inorganic Chemistry', 'Physical Chemistry'],
-                biology: ['Cell Biology', 'Genetics', 'Microbiology'],
-                'data-science': ['Pandas', 'NumPy', 'Machine Learning'],
-                electronics: ['Circuit Design', 'Signal Processing', 'Microcontrollers'],
-                robotics: ['Kinematics', 'Dynamics', 'Control Systems'],
-                mechanical: ['Thermodynamics', 'Fluid Mechanics', 'Heat Transfer'],
-                civil: ['Structural Analysis', 'Geotechnical Engineering', 'Transportation Engineering'],
-                healthcare: ['Telemedicine', 'EHR', 'Wearable Health Tech'],
-                ux: ['User Research', 'Prototyping', 'Usability Testing'],
-                business: ['Market Analysis', 'Business Strategy', 'Entrepreneurship'],
-                security: ['Network Security', 'Cryptography', 'Risk Management'],
-                iot: ['Smart Homes', 'Wearable Devices', 'Industrial IoT'],
-                education: ['E-learning', 'STEM', 'Educational Apps'],
-                energy: ['Renewable Energy', 'Energy Storage', 'Smart Grids'],
-                agriculture: ['Hydroponics', 'Crop Rotation', 'Organic Farming'],
-                legal: ['Intellectual Property', 'Contract Law', 'Corporate Law'],
-                'social-impact': ['Community Service', 'Non-profit Management', 'Social Entrepreneurship']
-            };
-
+            // Display keywords
             if (keywords[category]) {
-                container.classList.remove('hidden');
                 keywords[category].forEach(keyword => {
                     const span = document.createElement('span');
-                    span.className = 'bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm';
+                    span.className = 'bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors';
                     span.innerText = keyword;
                     list.appendChild(span);
                 });
-
-                // Load and display problems
-                fetch('problems_full.json')
-                    .then(response => response.json())
-                    .then(problems => {
-                        const problemsGrid = document.getElementById('problems-grid');
-                        problemsGrid.innerHTML = '';
-
-                        // Filter problems based on category
-                        const filteredProblems = problems.filter(p => p.domain.toLowerCase().includes(category.toLowerCase()));
-
-                        if (filteredProblems.length > 0) {
-                            problemsSection.classList.remove('hidden');
-                            filteredProblems.forEach(problem => {
-                                const card = document.createElement('div');
-                                card.className = 'bg-white p-6 rounded-lg shadow-lg';
-                                card.innerHTML = `
-                                    <h3 class="text-xl font-semibold mb-3">${problem.title}</h3>
-                                    <p class="text-gray-600 mb-4">${problem.description}</p>
-                                    <div class="flex flex-wrap gap-2">
-                                        ${problem.keywords.map(kw => 
-                                            `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
-                                        ).join('')}
-                                    </div>
-                                `;
-                                problemsGrid.appendChild(card);
-                            });
-                        } else {
-                            problemsSection.classList.add('hidden');
-                        }
-                    })
-                    .catch(error => console.error('Error loading problems:', error));
-            } else {
-                container.classList.add('hidden');
             }
+
+            // Map category to domain number
+            const categoryToDomainNumber = {
+                'programming': '1',
+                'math': '2',
+                'physics': '3',
+                'chemistry': '4',
+                'biology': '5',
+                'data-science': '6',
+                'electronics': '7',
+                'robotics': '8',
+                'mechanical': '9',
+                'civil': '10',
+                'healthcare': '11',
+                'ux': '12',
+                'business': '13',
+                'security': '14',
+                'iot': '15',
+                'education': '16',
+                'energy': '17',
+                'agriculture': '18',
+                'legal': '19',
+                'social-impact': '20'
+            };
+
+            // Fetch problems
+            fetch('problems_full.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to fetch problems');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    loadingElement.classList.add('hidden');
+                    problemsGrid.classList.remove('hidden');
+
+                    // Filter problems by domain number
+                    const domainNumber = categoryToDomainNumber[category];
+                    const filteredProblems = data.problems.filter(p => p.domain === domainNumber);
+
+                    if (filteredProblems.length > 0) {
+                        filteredProblems.forEach(problem => {
+                            const card = document.createElement('div');
+                            card.className = 'bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow';
+                            card.innerHTML = `
+                                <h3 class="text-xl font-semibold mb-3">${problem.title}</h3>
+                                <p class="text-gray-600 mb-4">${problem.description}</p>
+                                <div class="flex flex-wrap gap-2">
+                                    ${problem.keywords.map(kw => 
+                                        `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
+                                    ).join('')}
+                                </div>
+                            `;
+                            problemsGrid.appendChild(card);
+                        });
+                    } else {
+                        noProblemsElement.classList.remove('hidden');
+                        noProblemsElement.innerHTML = `<p class="text-xl text-gray-600">No problems found for ${category}</p>`;
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    loadingElement.classList.add('hidden');
+                    noProblemsElement.classList.remove('hidden');
+                    noProblemsElement.innerHTML = `
+                        <p class="text-xl text-red-600">Error loading problems: ${error.message}</p>
+                        <p class="mt-2 text-gray-600">Please check the console for details.</p>
+                    `;
+                });
         }
 
         // Add scroll-to-top button functionality
