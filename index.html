@@ -5,8 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Problem to Pattern</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Add Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
 </head>
 <body class="bg-gray-100">
+    <!-- Navigation Bar -->
+    <nav class="fixed w-full top-0 left-0 z-50 bg-white/80 backdrop-blur-sm shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="/" class="flex-shrink-0">
+                        <span class="text-2xl font-bold text-blue-600">P2P</span>
+                    </a>
+                </div>
+                
+                <!-- Desktop menu -->
+                <div class="hidden md:flex md:items-center md:space-x-8">
+                    <a href="/" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
+                    <a href="/about" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
+                    <a href="#categories" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Categories</a>
+                    <a href="/contact" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-button" class="text-gray-600 hover:text-blue-600">
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile menu -->
+            <div id="mobile-menu" class="hidden md:hidden pb-4">
+                <div class="flex flex-col space-y-2">
+                    <a href="/" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
+                    <a href="/about" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
+                    <a href="#categories" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Categories</a>
+                    <a href="/contact" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
     <!-- Add the scroll-to-top button -->
     <button id="scrollToTop" class="fixed bottom-8 right-8 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300 opacity-0 invisible">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -14,48 +57,217 @@
         </svg>
     </button>
 
-    <div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100">
-        <div class="text-center px-4">
-            <h1 class="text-5xl font-bold text-gray-900 mb-4">Problem to Pattern</h1>
-            <p class="text-xl text-gray-600 mb-8">A repository of open-source problem statements & ideas</p>
-            <div class="space-x-4">
-                <a href="#categories" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">Find Your Problems</a>
-                <a href="about.html" class="bg-gray-600 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition duration-300">About Us</a>
+    <!-- Updated Hero Section -->
+    <div class="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
+        <!-- Animated background patterns -->
+        <div class="absolute inset-0 bg-gradient-to-br from-blue-50 to-indigo-100">
+            <div class="absolute inset-0 bg-grid-pattern opacity-10"></div>
+            <div class="absolute right-0 top-0 w-96 h-96 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"></div>
+            <div class="absolute left-0 bottom-0 w-96 h-96 bg-indigo-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"></div>
+        </div>
+
+        <!-- Floating elements -->
+        <div class="absolute inset-0 overflow-hidden pointer-events-none">
+            <div class="floating-icon left-[10%] top-[20%]">⚡</div>
+            <div class="floating-icon right-[15%] top-[30%]">💡</div>
+            <div class="floating-icon left-[20%] bottom-[20%]">🔍</div>
+            <div class="floating-icon right-[25%] bottom-[30%]">🎯</div>
+        </div>
+
+        <!-- Main content -->
+        <div class="relative text-center px-4 z-10" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+            <h1 class="text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                Problem to Pattern
+            </h1>
+            <p class="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed">
+                Discover innovative solutions to real-world challenges. Join our community of problem solvers and make a difference.
+            </p>
+            <div class="space-x-4 relative">
+                <a href="#categories" class="inline-flex items-center px-8 py-4 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 text-white transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/50">
+                    <span class="mr-2">Find Your Problems</span>
+                    <svg class="w-5 h-5 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+                    </svg>
+                </a>
+                <a href="about.html" class="inline-flex items-center px-8 py-4 rounded-lg bg-white/80 backdrop-blur-sm text-gray-700 border-2 border-gray-200 hover:border-blue-500 transform hover:scale-105 transition-all duration-300">
+                    <span>About Us</span>
+                </a>
             </div>
         </div>
     </div>
 
-    <section id="categories" class="h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-16 flex items-center">
+    <section id="categories" class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-16 flex items-center">
         <div class="container mx-auto px-4">
-            <h2 class="text-4xl font-bold text-center mb-12">Categories</h2>
+            <h2 class="text-4xl font-bold text-center mb-4 text-gray-800">Explore Categories</h2>
+            <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">Discover problem statements across various domains and contribute to innovative solutions</p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-h-[70vh] overflow-y-auto px-4">
-                <!-- Category buttons with adjusted styles -->
-                <button onclick="toggleKeywords('programming')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Programming / Algorithms (incl. project ideas)</button>
-                <button onclick="toggleKeywords('math')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Math (algebra / calculus / discrete) </button>
-                <button onclick="toggleKeywords('physics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Physics</button>
-                <button onclick="toggleKeywords('chemistry')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Chemistry</button>
-                <button onclick="toggleKeywords('biology')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Biology / Life sciences</button>
-                <button onclick="toggleKeywords('data-science')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Data science / ML</button>
-                <button onclick="toggleKeywords('electronics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Electronics / EE </button>
-                <button onclick="toggleKeywords('robotics')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Robotics / Control</button>
-                <button onclick="toggleKeywords('mechanical')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Mechanical / Design </button>
-                <button onclick="toggleKeywords('civil')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Civil / Environment </button>
-                <button onclick="toggleKeywords('healthcare')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">Healthcare / Public health  </button>
-                <button onclick="toggleKeywords('ux')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  UX & Product design  </button>
-                <button onclick="toggleKeywords('business')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Business case studies / entrepreneurship  </button>
-                <button onclick="toggleKeywords('security')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Security / Cryptography </button>
-                <button onclick="toggleKeywords('iot')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  IoT  </button>
-                <button onclick="toggleKeywords('education')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Education / Pedagogy problems  </button>
-                <button onclick="toggleKeywords('energy')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Energy / Sustainability  </button>
-                <button onclick="toggleKeywords('agriculture')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Agriculture / Food tech </button>
-                <button onclick="toggleKeywords('legal')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl">  Legal / Policy puzzles  </button>
-                <button onclick="toggleKeywords('social-impact')" class="category-btn bg-white/80 backdrop-blur-sm border-2 border-blue-500 text-blue-500 px-6 py-6 rounded-xl hover:bg-blue-50 transition duration-300 shadow-lg hover:shadow-xl"> Social impact / Civic tech</button>
+                <!-- Updated category buttons with icons and better hover effects -->
+                <button onclick="toggleKeywords('programming')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-code text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Programming & Algorithms</h3>
+                        <p class="text-sm opacity-75 mt-2">Including project ideas & development</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('math')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-square-root-alt text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Mathematics</h3>
+                        <p class="text-sm opacity-75 mt-2">Algebra, Calculus & Discrete Math</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('physics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-atom text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Physics</h3>
+                        <p class="text-sm opacity-75 mt-2">Mechanics, Quantum Physics & Thermodynamics</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('chemistry')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-flask text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Chemistry</h3>
+                        <p class="text-sm opacity-75 mt-2">Organic, Inorganic & Physical Chemistry</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('biology')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-leaf text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Biology & Life Sciences</h3>
+                        <p class="text-sm opacity-75 mt-2">Genetics, Microbiology & Ecology</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('data-science')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-database text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Data Science & ML</h3>
+                        <p class="text-sm opacity-75 mt-2">Machine Learning, Data Analysis & AI</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('electronics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-bolt text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Electronics & EE</h3>
+                        <p class="text-sm opacity-75 mt-2">Circuit Design, Microcontrollers & Robotics</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('robotics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-robot text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Robotics & Control</h3>
+                        <p class="text-sm opacity-75 mt-2">Automation, Sensors & Actuators</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('mechanical')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-cogs text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Mechanical & Design</h3>
+                        <p class="text-sm opacity-75 mt-2">CAD, Manufacturing & Material Science</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('civil')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-building text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Civil & Environmental</h3>
+                        <p class="text-sm opacity-75 mt-2">Structural Engineering & Urban Planning</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('healthcare')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-heartbeat text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Healthcare & Public Health</h3>
+                        <p class="text-sm opacity-75 mt-2">Medical Devices, IT & Biomedical</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('ux')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-paint-brush text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">UX & Product Design</h3>
+                        <p class="text-sm opacity-75 mt-2">User Research, Interface Design & Prototyping</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('business')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-briefcase text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Business & Entrepreneurship</h3>
+                        <p class="text-sm opacity-75 mt-2">Marketing, Finance, Operations & Strategy</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('security')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-lock text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Security & Cryptography</h3>
+                        <p class="text-sm opacity-75 mt-2">Network Security, Cybersecurity & Privacy</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('iot')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-sitemap text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">IoT & Embedded Systems</h3>
+                        <p class="text-sm opacity-75 mt-2">Sensors, Networking & Cloud Integration</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('education')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-book-open text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Education & Pedagogy</h3>
+                        <p class="text-sm opacity-75 mt-2">Learning Systems, EdTech & Assessment</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('energy')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-bolt text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Energy & Sustainability</h3>
+                        <p class="text-sm opacity-75 mt-2">Renewable Energy, Power Systems & Efficiency</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('agriculture')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-tractor text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Agriculture & Food Tech</h3>
+                        <p class="text-sm opacity-75 mt-2">Farming Technology, Crop Science & Processing</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('legal')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-gavel text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Legal & Policy Puzzles</h3>
+                        <p class="text-sm opacity-75 mt-2">Legal Tech, Compliance & Regulatory</p>
+                    </div>
+                </button>
+                <button onclick="toggleKeywords('social-impact')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="relative z-10">
+                        <i class="fas fa-users text-2xl mb-3"></i>
+                        <h3 class="font-semibold text-lg">Social Impact & Civic Tech</h3>
+                        <p class="text-sm opacity-75 mt-2">Community Development, Social Innovation</p>
+                    </div>
+                </button>
             </div>
             
-            <!-- Keywords container -->
-            <div id="keywords-container" class="mt-8 hidden">
-                <h3 class="text-2xl font-semibold mb-4">Related Keywords</h3>
-                <div id="keywords-list" class="flex flex-wrap gap-3">
+            <!-- Updated keywords container with animation -->
+            <div id="keywords-container" class="mt-8 hidden animate-fadeIn">
+                <h3 class="text-2xl font-semibold mb-4 text-center">Popular Topics</h3>
+                <div id="keywords-list" class="flex flex-wrap gap-3 justify-center">
                     <!-- Keywords will be populated by script.js -->
                 </div>
             </div>
@@ -338,6 +550,79 @@
                 closeModal();
             }
         });
+
+        tailwind.config = {
+            theme: {
+                extend: {
+                    animation: {
+                        'fadeIn': 'fadeIn 0.5s ease-in-out',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0', transform: 'translateY(10px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        }
+                    }
+                }
+            }
+        }
+
+        // Initialize vanilla-tilt
+        VanillaTilt.init(document.querySelector("[data-tilt]"), {
+            max: 5,
+            speed: 400,
+            glare: true,
+            "max-glare": 0.2
+        });
+
+        document.getElementById('mobile-menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const mobileMenu = document.getElementById('mobile-menu');
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            
+            if (!mobileMenuButton.contains(e.target) && !mobileMenu.contains(e.target)) {
+                mobileMenu.classList.add('hidden');
+            }
+        });
     </script>
+
+    <style>
+        .bg-grid-pattern {
+            background-image: radial-gradient(circle, #3b82f6 1px, transparent 1px);
+            background-size: 30px 30px;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(10deg); }
+            100% { transform: translateY(0px) rotate(0deg); }
+        }
+
+        .floating-icon {
+            position: absolute;
+            font-size: 2rem;
+            animation: float 6s ease-in-out infinite;
+            opacity: 0.5;
+        }
+
+        @keyframes blob {
+            0% { transform: translate(0, 0) scale(1); }
+            33% { transform: translate(30px, -50px) scale(1.1); }
+            66% { transform: translate(-20px, 20px) scale(0.9); }
+            100% { transform: translate(0, 0) scale(1); }
+        }
+
+        .animate-blob {
+            animation: blob 7s infinite;
+        }
+
+        .animation-delay-2000 {
+            animation-delay: 2s;
+        }
+    </style>
 </body>
 </html>
