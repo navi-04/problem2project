@@ -9,6 +9,7 @@ class Problem2Patent {
         this.currentView = 'grid';
         this.domains = {};
         this.bookmarkedProblems = this.getBookmarkedProblems();
+        this.ignoreNextHashChange = false; // Flag to prevent automatic reopening
         this.init();
     }
 
@@ -126,6 +127,10 @@ class Problem2Patent {
         
         // Hash change handling for shared links
         window.addEventListener('hashchange', () => {
+            if (this.ignoreNextHashChange) {
+                this.ignoreNextHashChange = false;
+                return;
+            }
             this.handleSharedProblemLink();
         });
     }
@@ -684,6 +689,13 @@ class Problem2Patent {
         modal.classList.add('hidden');
         document.body.style.overflow = 'auto';
         this.currentProblem = null;
+        
+        // Clear the hash to prevent reopening when navigating back
+        if (window.location.hash.startsWith('#problem-')) {
+            this.ignoreNextHashChange = true;
+            // Use replaceState to avoid adding to browser history
+            window.history.replaceState('', document.title, window.location.pathname + window.location.search);
+        }
     }
 
     performGlobalSearch(query) {
@@ -912,6 +924,12 @@ class Problem2Patent {
             const problem = this.allProblems.find(p => p.id.toString() === problemId);
             
             if (problem) {
+                // Check if modal is already open with the same problem
+                const modal = document.getElementById('problemModal');
+                if (!modal.classList.contains('hidden') && this.currentProblem && this.currentProblem.id.toString() === problemId) {
+                    return; // Don't reopen the same problem
+                }
+                
                 // Wait a bit for the UI to be ready, then show the problem
                 setTimeout(() => {
                     this.showProblemDetails(problem);
