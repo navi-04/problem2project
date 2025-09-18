@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Problem2Patent | Get In Touch</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 font-inter">
+    <!-- Navigation -->
+    <nav class="fixed w-full top-0 left-0 z-40 bg-white/90 backdrop-blur-md shadow-lg border-b border-white/20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="index.html" class="flex items-center space-x-2">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Patent</span>
+                    </a>
+                </div>
+                
+                <!-- Desktop menu -->
+                <div class="hidden md:flex md:items-center md:space-x-8">
+                    <a href="index.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Home</a>
+                    <a href="index.html#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Explore</a>
+                    <a href="about.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">About</a>
+                    <a href="contact.html" class="nav-link text-blue-600 px-3 py-2 transition-all duration-300 font-semibold">Contact</a>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-button" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile menu -->
+            <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-gray-200 mt-4">
+                <div class="flex flex-col space-y-2 pt-4">
+                    <a href="index.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
+                    <a href="index.html#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Explore</a>
+                    <a href="about.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
+                    <a href="contact.html" class="nav-link text-blue-600 px-3 py-2 transition-colors font-semibold">Contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative pt-24 pb-20 overflow-hidden">
+        <!-- Background Elements -->
+        <div class="absolute inset-0">
+            <div class="absolute inset-0 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50"></div>
+            <div class="floating-shape w-64 h-64 bg-gradient-to-br from-blue-400/20 to-indigo-500/20 rounded-full blur-xl top-20 -left-32"></div>
+            <div class="floating-shape w-96 h-96 bg-gradient-to-br from-purple-400/20 to-pink-500/20 rounded-full blur-xl bottom-20 -right-48 animation-delay-2000"></div>
+        </div>
+
+        <div class="relative z-10 container mx-auto px-4">
+            <div class="max-w-4xl mx-auto text-center">
+                <div class="animate-fade-in-up">
+                    <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+                        <span class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
+                            Get In
+                        </span>
+                        <br>
+                        <span class="text-gray-800">Touch</span>
+                    </h1>
+                    <p class="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+                        Have questions, ideas, or want to collaborate? We'd love to hear from you. 
+                        Let's build the future of innovation together.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="max-w-6xl mx-auto">
+                <div class="grid lg:grid-cols-2 gap-16">
+                    <!-- Contact Form -->
+                    <div class="animate-slide-in-left">
+                        <div class="card p-8">
+                            <h2 class="text-3xl font-bold text-gray-900 mb-6">Send Us a Message</h2>
+                            <form id="contactForm" class="space-y-6">
+                                <div class="grid md:grid-cols-2 gap-6">
+                                    <div>
+                                        <label for="firstName" class="block text-sm font-semibold text-gray-700 mb-2">First Name *</label>
+                                        <input type="text" id="firstName" name="firstName" required
+                                               class="input-enhanced w-full focus-ring">
+                                    </div>
+                                    <div>
+                                        <label for="lastName" class="block text-sm font-semibold text-gray-700 mb-2">Last Name *</label>
+                                        <input type="text" id="lastName" name="lastName" required
+                                               class="input-enhanced w-full focus-ring">
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <label for="email" class="block text-sm font-semibold text-gray-700 mb-2">Email Address *</label>
+                                    <input type="email" id="email" name="email" required
+                                           class="input-enhanced w-full focus-ring">
+                                </div>
+
+                                <div>
+                                    <label for="organization" class="block text-sm font-semibold text-gray-700 mb-2">Organization/Company</label>
+                                    <input type="text" id="organization" name="organization"
+                                           class="input-enhanced w-full focus-ring">
+                                </div>
+
+                                <div>
+                                    <label for="subject" class="block text-sm font-semibold text-gray-700 mb-2">Subject *</label>
+                                    <select id="subject" name="subject" required
+                                            class="input-enhanced w-full focus-ring">
+                                        <option value="">Select a topic...</option>
+                                        <option value="general">General Inquiry</option>
+                                        <option value="collaboration">Collaboration Opportunity</option>
+                                        <option value="feedback">Feedback & Suggestions</option>
+                                        <option value="bug-report">Bug Report</option>
+                                        <option value="feature-request">Feature Request</option>
+                                        <option value="partnership">Partnership</option>
+                                        <option value="media">Media & Press</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+
+                                <div>
+                                    <label for="message" class="block text-sm font-semibold text-gray-700 mb-2">Message *</label>
+                                    <textarea id="message" name="message" rows="6" required
+                                              placeholder="Tell us about your inquiry, ideas, or how we can help you..."
+                                              class="input-enhanced w-full focus-ring resize-none"></textarea>
+                                </div>
+
+                                <div class="flex items-center">
+                                    <input type="checkbox" id="newsletter" name="newsletter" 
+                                           class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500">
+                                    <label for="newsletter" class="ml-2 text-sm text-gray-600">
+                                        Subscribe to our newsletter for updates and insights
+                                    </label>
+                                </div>
+
+                                <button type="submit" class="w-full btn-primary">
+                                    <i class="fas fa-paper-plane mr-2"></i>
+                                    Send Message
+                                </button>
+                            </form>
+
+                            <!-- Success/Error Messages -->
+                            <div id="form-success" class="hidden mt-6 p-4 bg-green-100 border border-green-400 text-green-700 rounded-lg">
+                                <div class="flex items-center">
+                                    <i class="fas fa-check-circle mr-2"></i>
+                                    <span>Thank you! Your message has been sent successfully.</span>
+                                </div>
+                            </div>
+
+                            <div id="form-error" class="hidden mt-6 p-4 bg-red-100 border border-red-400 text-red-700 rounded-lg">
+                                <div class="flex items-center">
+                                    <i class="fas fa-exclamation-circle mr-2"></i>
+                                    <span>There was an error sending your message. Please try again.</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Contact Information -->
+                    <div class="animate-slide-in-right">
+                        <div class="space-y-8">
+                            <!-- Contact Methods -->
+                            <div class="card p-8">
+                                <h3 class="text-2xl font-bold text-gray-900 mb-6">Contact Information</h3>
+                                
+                                <div class="space-y-6">
+                                    <div class="flex items-start space-x-4">
+                                        <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                                            <i class="fas fa-envelope text-blue-600"></i>
+                                        </div>
+                                        <div>
+                                            <h4 class="font-semibold text-gray-900">Email</h4>
+                                            <p class="text-gray-600">hello@problem2patent.com</p>
+                                            <p class="text-sm text-gray-500 mt-1">We typically respond within 24 hours</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="flex items-start space-x-4">
+                                        <div class="w-12 h-12 bg-emerald-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                                            <i class="fab fa-github text-emerald-600"></i>
+                                        </div>
+                                        <div>
+                                            <h4 class="font-semibold text-gray-900">Open Source</h4>
+                                            <p class="text-gray-600">github.com/problem2patent</p>
+                                            <p class="text-sm text-gray-500 mt-1">Contribute to our open-source project</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="flex items-start space-x-4">
+                                        <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                                            <i class="fab fa-discord text-purple-600"></i>
+                                        </div>
+                                        <div>
+                                            <h4 class="font-semibold text-gray-900">Community</h4>
+                                            <p class="text-gray-600">Join our Discord server</p>
+                                            <p class="text-sm text-gray-500 mt-1">Connect with fellow innovators</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="flex items-start space-x-4">
+                                        <div class="w-12 h-12 bg-cyan-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                                            <i class="fab fa-twitter text-cyan-600"></i>
+                                        </div>
+                                        <div>
+                                            <h4 class="font-semibold text-gray-900">Social Media</h4>
+                                            <p class="text-gray-600">@problem2patent</p>
+                                            <p class="text-sm text-gray-500 mt-1">Follow us for updates and insights</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Office Hours -->
+                            <div class="card p-8">
+                                <h3 class="text-2xl font-bold text-gray-900 mb-6">Support Hours</h3>
+                                
+                                <div class="space-y-4">
+                                    <div class="flex justify-between items-center py-2 border-b border-gray-100">
+                                        <span class="font-medium text-gray-700">Monday - Friday</span>
+                                        <span class="text-gray-600">9:00 AM - 6:00 PM (UTC)</span>
+                                    </div>
+                                    <div class="flex justify-between items-center py-2 border-b border-gray-100">
+                                        <span class="font-medium text-gray-700">Saturday</span>
+                                        <span class="text-gray-600">10:00 AM - 4:00 PM (UTC)</span>
+                                    </div>
+                                    <div class="flex justify-between items-center py-2">
+                                        <span class="font-medium text-gray-700">Sunday</span>
+                                        <span class="text-gray-600">Closed</span>
+                                    </div>
+                                </div>
+
+                                <div class="mt-6 p-4 bg-blue-50 rounded-lg">
+                                    <p class="text-sm text-blue-800">
+                                        <i class="fas fa-info-circle mr-2"></i>
+                                        For urgent technical issues, please use GitHub issues for faster community support.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Section -->
+                            <div class="card p-8">
+                                <h3 class="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h3>
+                                
+                                <div class="space-y-4">
+                                    <details class="group">
+                                        <summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+                                            <span>How can I contribute problems to the platform?</span>
+                                            <span class="transition group-open:rotate-180">
+                                                <i class="fas fa-chevron-down"></i>
+                                            </span>
+                                        </summary>
+                                        <p class="text-gray-600 mt-3 text-sm">
+                                            Currently, we're working on community submission features. For now, please reach out via email with your problem statements, and our team will review them for inclusion.
+                                        </p>
+                                    </details>
+
+                                    <details class="group">
+                                        <summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+                                            <span>Is the platform free to use?</span>
+                                            <span class="transition group-open:rotate-180">
+                                                <i class="fas fa-chevron-down"></i>
+                                            </span>
+                                        </summary>
+                                        <p class="text-gray-600 mt-3 text-sm">
+                                            Yes! Problem2Patent is completely free to use and open-source. We believe in democratizing access to innovation opportunities.
+                                        </p>
+                                    </details>
+
+                                    <details class="group">
+                                        <summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+                                            <span>Can I use this for commercial purposes?</span>
+                                            <span class="transition group-open:rotate-180">
+                                                <i class="fas fa-chevron-down"></i>
+                                            </span>
+                                        </summary>
+                                        <p class="text-gray-600 mt-3 text-sm">
+                                            Yes, our content is available under Creative Commons Attribution 4.0 License, which allows commercial use with proper attribution.
+                                        </p>
+                                    </details>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-20 bg-gradient-to-br from-blue-600 to-indigo-700">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">
+                    Start Exploring Today
+                </h2>
+                <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
+                    While you're here, why not explore some of the amazing problems waiting to be solved?
+                </p>
+                
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="index.html#categories" class="px-8 py-4 bg-white text-blue-600 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:shadow-lg">
+                        <i class="fas fa-search mr-2"></i>
+                        Browse Problems
+                    </a>
+                    <a href="about.html" class="px-8 py-4 bg-white/20 backdrop-blur-sm border-2 border-white/30 text-white rounded-xl font-semibold text-lg hover:bg-white/30 transition-all duration-300">
+                        <i class="fas fa-info-circle mr-2"></i>
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+                <!-- Brand -->
+                <div class="col-span-1 md:col-span-2">
+                    <div class="flex items-center space-x-2 mb-4">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold">Problem2Patent</span>
+                    </div>
+                    <p class="text-gray-400 max-w-md">
+                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                    </p>
+                    <div class="flex space-x-4 mt-6">
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-github text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-discord text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div>
+                    <h3 class="font-semibold mb-4">Explore</h3>
+                    <ul class="space-y-2">
+                        <li><a href="index.html#categories" class="text-gray-400 hover:text-white transition-colors">Categories</a></li>
+                        <li><a href="index.html" class="text-gray-400 hover:text-white transition-colors">Random Problem</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Trending</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Featured</a></li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div>
+                    <h3 class="font-semibold mb-4">Resources</h3>
+                    <ul class="space-y-2">
+                        <li><a href="about.html" class="text-gray-400 hover:text-white transition-colors">About</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">API</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
+                        <li><a href="contact.html" class="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Copyright -->
+            <div class="border-t border-gray-800 pt-8 text-center">
+                <p class="text-gray-400">
+                    © 2024 Problem2Patent. Open source under MIT License.
+                    Built with ❤️ for innovators worldwide.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu functionality
+        document.getElementById('mobile-menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const mobileMenu = document.getElementById('mobile-menu');
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            
+            if (!mobileMenuButton.contains(e.target) && !mobileMenu.contains(e.target)) {
+                mobileMenu.classList.add('hidden');
+            }
+        });
+
+        // Form handling
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form data
+            const formData = new FormData(this);
+            const data = {
+                firstName: formData.get('firstName'),
+                lastName: formData.get('lastName'),
+                email: formData.get('email'),
+                organization: formData.get('organization'),
+                subject: formData.get('subject'),
+                message: formData.get('message'),
+                newsletter: formData.get('newsletter') === 'on'
+            };
+
+            // Simulate form submission
+            const submitBtn = this.querySelector('button[type="submit"]');
+            const originalText = submitBtn.innerHTML;
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Sending...';
+            submitBtn.disabled = true;
+
+            // Simulate API call
+            setTimeout(() => {
+                // Show success message
+                document.getElementById('form-success').classList.remove('hidden');
+                document.getElementById('form-error').classList.add('hidden');
+                
+                // Reset form
+                this.reset();
+                
+                // Reset button
+                submitBtn.innerHTML = originalText;
+                submitBtn.disabled = false;
+
+                // Hide success message after 5 seconds
+                setTimeout(() => {
+                    document.getElementById('form-success').classList.add('hidden');
+                }, 5000);
+            }, 2000);
+        });
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+        // Add scroll animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('animate-fade-in-up');
+                }
+            });
+        }, observerOptions);
+
+        // Observe elements for animation
+        document.querySelectorAll('.card, .animate-fade-in-up, .animate-slide-in-left, .animate-slide-in-right').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>

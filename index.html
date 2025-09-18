@@ -3,35 +3,102 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Problem to Pattern</title>
+    <title>Problem2Patent - Discover Innovation Opportunities</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Add Font Awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        /* Additional styles for dynamic content */
+        .category-card:hover .text-slate-600 { color: rgb(71 85 105); }
+        .category-card:hover .text-amber-600 { color: rgb(217 119 6); }
+        .category-card:hover .text-teal-600 { color: rgb(13 148 136); }
+        .category-card:hover .text-violet-600 { color: rgb(124 58 237); }
+        .category-card:hover .text-lime-600 { color: rgb(101 163 13); }
+        .category-card:hover .text-rose-600 { color: rgb(225 29 72); }
+        .category-card:hover .text-gray-600 { color: rgb(75 85 99); }
+        .category-card:hover .text-sky-600 { color: rgb(2 132 199); }
+        .category-card:hover .text-zinc-600 { color: rgb(82 82 91); }
+        .category-card:hover .text-stone-600 { color: rgb(87 83 78); }
+        
+        .group:hover .group-hover\:text-slate-500 { color: rgb(100 116 139); }
+        .group:hover .group-hover\:text-amber-500 { color: rgb(245 158 11); }
+        .group:hover .group-hover\:text-teal-500 { color: rgb(20 184 166); }
+        .group:hover .group-hover\:text-violet-500 { color: rgb(139 92 246); }
+        .group:hover .group-hover\:text-lime-500 { color: rgb(132 204 22); }
+        .group:hover .group-hover\:text-rose-500 { color: rgb(244 63 94); }
+        .group:hover .group-hover\:text-gray-500 { color: rgb(107 114 128); }
+        .group:hover .group-hover\:text-sky-500 { color: rgb(14 165 233); }
+        .group:hover .group-hover\:text-zinc-500 { color: rgb(113 113 122); }
+        .group:hover .group-hover\:text-stone-500 { color: rgb(120 113 108); }
+        
+        /* Custom scrollbar for better UX */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 8px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f5f9;
+            border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+    </style>
 </head>
-<body class="bg-gray-100">
+<<body class="bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 font-inter">
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="fixed inset-0 bg-gradient-to-br from-blue-600 to-indigo-700 z-50 flex items-center justify-center">
+        <div class="text-center text-white">
+            <div class="relative">
+                <div class="w-20 h-20 border-4 border-white/20 border-t-white rounded-full animate-spin mx-auto mb-4"></div>
+                <div class="absolute inset-0 w-20 h-20 border-4 border-transparent border-r-white/40 rounded-full animate-spin animation-delay-300 mx-auto"></div>
+            </div>
+            <h2 class="text-2xl font-bold mb-2">Problem2Patent</h2>
+            <p class="text-blue-100">Loading innovation opportunities...</p>
+        </div>
+    </div>
+
     <!-- Navigation Bar -->
-    <nav class="fixed w-full top-0 left-0 z-50 bg-white/80 backdrop-blur-sm shadow-sm">
+    <nav class="fixed w-full top-0 left-0 z-40 bg-white/90 backdrop-blur-md shadow-lg border-b border-white/20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
-                    <a href="/" class="flex-shrink-0">
-                        <span class="text-2xl font-bold text-blue-600">P2P</span>
+                    <a href="/" class="flex items-center space-x-2">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Patent</span>
                     </a>
                 </div>
                 
                 <!-- Desktop menu -->
                 <div class="hidden md:flex md:items-center md:space-x-8">
-                    <a href="/" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
-                    <a href="/about" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
-                    <a href="#categories" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Categories</a>
-                    <a href="/contact" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
+                    <a href="#home" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Home</a>
+                    <a href="#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Explore</a>
+                    <a href="about.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">About</a>
+                    <a href="contact.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Contact</a>
+                    <button id="search-toggle" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <i class="fas fa-search text-gray-600"></i>
+                    </button>
+                    <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <i class="fas fa-moon text-gray-600"></i>
+                    </button>
                 </div>
 
                 <!-- Mobile menu button -->
-                <div class="md:hidden flex items-center">
-                    <button id="mobile-menu-button" class="text-gray-600 hover:text-blue-600">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <div class="md:hidden flex items-center space-x-2">
+                    <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <i class="fas fa-search text-gray-600"></i>
+                    </button>
+                    <button id="mobile-menu-button" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                         </svg>
                     </button>
@@ -39,590 +106,425 @@
             </div>
 
             <!-- Mobile menu -->
-            <div id="mobile-menu" class="hidden md:hidden pb-4">
-                <div class="flex flex-col space-y-2">
-                    <a href="/" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
-                    <a href="/about" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
-                    <a href="#categories" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Categories</a>
-                    <a href="/contact" class="text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
+            <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-gray-200 mt-4">
+                <div class="flex flex-col space-y-2 pt-4">
+                    <a href="#home" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
+                    <a href="#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Explore</a>
+                    <a href="about.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">About</a>
+                    <a href="contact.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
                 </div>
             </div>
         </div>
     </nav>
 
-    <!-- Add the scroll-to-top button -->
-    <button id="scrollToTop" class="fixed bottom-8 right-8 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300 opacity-0 invisible">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
-        </svg>
-    </button>
-
-    <!-- Updated Hero Section -->
-    <div class="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
-        <!-- Animated background patterns -->
-        <div class="absolute inset-0 bg-gradient-to-br from-blue-50 to-indigo-100">
-            <div class="absolute inset-0 bg-grid-pattern opacity-10"></div>
-            <div class="absolute right-0 top-0 w-96 h-96 bg-blue-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"></div>
-            <div class="absolute left-0 bottom-0 w-96 h-96 bg-indigo-400 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"></div>
-        </div>
-
-        <!-- Floating elements -->
-        <div class="absolute inset-0 overflow-hidden pointer-events-none">
-            <div class="floating-icon left-[10%] top-[20%]">⚡</div>
-            <div class="floating-icon right-[15%] top-[30%]">💡</div>
-            <div class="floating-icon left-[20%] bottom-[20%]">🔍</div>
-            <div class="floating-icon right-[25%] bottom-[30%]">🎯</div>
-        </div>
-
-        <!-- Main content -->
-        <div class="relative text-center px-4 z-10" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
-            <h1 class="text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                Problem to Pattern
-            </h1>
-            <p class="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed">
-                Discover innovative solutions to real-world challenges. Join our community of problem solvers and make a difference.
-            </p>
-            <div class="space-x-4 relative">
-                <a href="#categories" class="inline-flex items-center px-8 py-4 rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 text-white transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/50">
-                    <span class="mr-2">Find Your Problems</span>
-                    <svg class="w-5 h-5 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
-                    </svg>
-                </a>
-                <a href="about.html" class="inline-flex items-center px-8 py-4 rounded-lg bg-white/80 backdrop-blur-sm text-gray-700 border-2 border-gray-200 hover:border-blue-500 transform hover:scale-105 transition-all duration-300">
-                    <span>About Us</span>
-                </a>
-            </div>
-        </div>
-    </div>
-
-    <section id="categories" class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-16 flex items-center">
-        <div class="container mx-auto px-4">
-            <h2 class="text-4xl font-bold text-center mb-4 text-gray-800">Explore Categories</h2>
-            <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">Discover problem statements across various domains and contribute to innovative solutions</p>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-h-[70vh] overflow-y-auto px-4">
-                <!-- Updated category buttons with icons and better hover effects -->
-                <button onclick="toggleKeywords('programming')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-code text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Programming & Algorithms</h3>
-                        <p class="text-sm opacity-75 mt-2">Including project ideas & development</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('math')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-square-root-alt text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Mathematics</h3>
-                        <p class="text-sm opacity-75 mt-2">Algebra, Calculus & Discrete Math</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('physics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-atom text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Physics</h3>
-                        <p class="text-sm opacity-75 mt-2">Mechanics, Quantum Physics & Thermodynamics</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('chemistry')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-flask text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Chemistry</h3>
-                        <p class="text-sm opacity-75 mt-2">Organic, Inorganic & Physical Chemistry</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('biology')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-leaf text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Biology & Life Sciences</h3>
-                        <p class="text-sm opacity-75 mt-2">Genetics, Microbiology & Ecology</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('data-science')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-database text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Data Science & ML</h3>
-                        <p class="text-sm opacity-75 mt-2">Machine Learning, Data Analysis & AI</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('electronics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-bolt text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Electronics & EE</h3>
-                        <p class="text-sm opacity-75 mt-2">Circuit Design, Microcontrollers & Robotics</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('robotics')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-robot text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Robotics & Control</h3>
-                        <p class="text-sm opacity-75 mt-2">Automation, Sensors & Actuators</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('mechanical')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-cogs text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Mechanical & Design</h3>
-                        <p class="text-sm opacity-75 mt-2">CAD, Manufacturing & Material Science</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('civil')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-building text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Civil & Environmental</h3>
-                        <p class="text-sm opacity-75 mt-2">Structural Engineering & Urban Planning</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('healthcare')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-heartbeat text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Healthcare & Public Health</h3>
-                        <p class="text-sm opacity-75 mt-2">Medical Devices, IT & Biomedical</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('ux')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-paint-brush text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">UX & Product Design</h3>
-                        <p class="text-sm opacity-75 mt-2">User Research, Interface Design & Prototyping</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('business')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-briefcase text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Business & Entrepreneurship</h3>
-                        <p class="text-sm opacity-75 mt-2">Marketing, Finance, Operations & Strategy</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('security')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-lock text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Security & Cryptography</h3>
-                        <p class="text-sm opacity-75 mt-2">Network Security, Cybersecurity & Privacy</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('iot')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-sitemap text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">IoT & Embedded Systems</h3>
-                        <p class="text-sm opacity-75 mt-2">Sensors, Networking & Cloud Integration</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('education')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-book-open text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Education & Pedagogy</h3>
-                        <p class="text-sm opacity-75 mt-2">Learning Systems, EdTech & Assessment</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('energy')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-bolt text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Energy & Sustainability</h3>
-                        <p class="text-sm opacity-75 mt-2">Renewable Energy, Power Systems & Efficiency</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('agriculture')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-tractor text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Agriculture & Food Tech</h3>
-                        <p class="text-sm opacity-75 mt-2">Farming Technology, Crop Science & Processing</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('legal')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-gavel text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Legal & Policy Puzzles</h3>
-                        <p class="text-sm opacity-75 mt-2">Legal Tech, Compliance & Regulatory</p>
-                    </div>
-                </button>
-                <button onclick="toggleKeywords('social-impact')" class="group category-btn relative overflow-hidden bg-white/90 backdrop-blur-sm border-2 border-blue-500 text-blue-500 p-6 rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-                    <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="relative z-10">
-                        <i class="fas fa-users text-2xl mb-3"></i>
-                        <h3 class="font-semibold text-lg">Social Impact & Civic Tech</h3>
-                        <p class="text-sm opacity-75 mt-2">Community Development, Social Innovation</p>
-                    </div>
-                </button>
-            </div>
-            
-            <!-- Updated keywords container with animation -->
-            <div id="keywords-container" class="mt-8 hidden animate-fadeIn">
-                <h3 class="text-2xl font-semibold mb-4 text-center">Popular Topics</h3>
-                <div id="keywords-list" class="flex flex-wrap gap-3 justify-center">
-                    <!-- Keywords will be populated by script.js -->
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="problems" class="min-h-screen bg-gray-50 py-16 hidden">
-        <div class="container mx-auto px-4">
-            <h2 class="text-4xl font-bold text-center mb-12">Problem Statements</h2>
-            <div id="loading" class="text-center hidden">
-                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto"></div>
-                <p class="mt-4 text-gray-600">Loading problems...</p>
-            </div>
-            <div id="no-problems" class="text-center hidden">
-                <p class="text-xl text-gray-600">No problems found for this category.</p>
-            </div>
-            <div id="problems-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Problem cards will be added here -->
-            </div>
-        </div>
-    </section>
-
-    <!-- Problem Details Modal -->
-    <div id="problemModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
-        <div class="bg-white rounded-lg w-11/12 md:w-3/4 lg:w-2/3 max-h-[90vh] overflow-y-auto">
-            <div class="p-6">
-                <div class="flex justify-between items-center mb-6">
-                    <h3 id="modalTitle" class="text-2xl font-bold text-gray-900"></h3>
-                    <button onclick="closeModal()" class="text-gray-500 hover:text-gray-700 transition-colors">
-                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-                        </svg>
+    <!-- Search Overlay -->
+    <div id="search-overlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 hidden">
+        <div class="flex items-start justify-center pt-20 px-4">
+            <div class="bg-white rounded-2xl w-full max-w-2xl p-6 shadow-2xl">
+                <div class="flex items-center space-x-4 mb-6">
+                    <i class="fas fa-search text-gray-400"></i>
+                    <input type="text" id="global-search" placeholder="Search problems, domains, keywords..." 
+                           class="flex-1 text-lg outline-none">
+                    <button id="search-close" class="p-2 hover:bg-gray-100 rounded-lg transition-colors">
+                        <i class="fas fa-times text-gray-400"></i>
                     </button>
                 </div>
-                <p id="modalDescription" class="text-gray-600 mb-6"></p>
-                <div id="modalKeywords" class="flex flex-wrap gap-2"></div>
+                <div id="search-suggestions" class="space-y-2">
+                    <p class="text-sm text-gray-500 mb-3">Try searching for:</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors search-suggestion">AI</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors search-suggestion">Machine Learning</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors search-suggestion">Sustainability</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors search-suggestion">Healthcare</span>
+                    </div>
+                </div>
+                <div id="search-results" class="hidden mt-6">
+                    <h3 class="font-semibold mb-3">Search Results</h3>
+                    <div id="search-results-list" class="space-y-3 max-h-60 overflow-y-auto">
+                        <!-- Search results will be populated here -->
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <!-- Footer Section -->
-    <footer class="bg-gray-800 text-white mt-16">
-        <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-                <!-- About Section -->
-                <div class="col-span-1 md:col-span-2">
-                    <h3 class="text-lg font-semibold mb-4">About OpenProblemHub</h3>
-                    <p class="text-gray-300">A platform for sharing and discovering real-world problems that need innovative solutions. Join our community of problem solvers and make a difference.</p>
-                </div>
+    <!-- Scroll-to-top button -->
+    <button id="scrollToTop" class="fixed bottom-8 right-8 bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-3 rounded-full shadow-lg hover:shadow-xl transform hover:scale-110 transition-all duration-300 opacity-0 invisible z-30">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- Hero Section -->
+    <section id="home" class="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
+        <!-- Animated background -->
+        <div class="absolute inset-0">
+            <div class="absolute inset-0 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50"></div>
+            <div class="absolute inset-0 bg-grid-pattern opacity-5"></div>
+            
+            <!-- Floating geometric shapes -->
+            <div class="floating-shape w-64 h-64 bg-gradient-to-br from-blue-400/20 to-indigo-500/20 rounded-full blur-xl top-20 -left-32"></div>
+            <div class="floating-shape w-96 h-96 bg-gradient-to-br from-purple-400/20 to-pink-500/20 rounded-full blur-xl bottom-20 -right-48 animation-delay-2000"></div>
+            <div class="floating-shape w-48 h-48 bg-gradient-to-br from-cyan-400/20 to-blue-500/20 rounded-full blur-xl top-1/2 left-1/4 animation-delay-4000"></div>
+        </div>
+
+        <!-- Hero Content -->
+        <div class="relative z-10 text-center px-4 max-w-6xl mx-auto">
+            <div class="animate-fade-in-up">
+                <h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+                    <span class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
+                        Discover Innovation
+                    </span>
+                    <br>
+                    <span class="text-gray-800">Opportunities</span>
+                </h1>
+                <p class="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+                    Explore curated problem statements across 20+ domains. From AI to sustainability, 
+                    find challenges that matter and drive meaningful innovation.
+                </p>
                 
-                <!-- Quick Links -->
-                <div class="col-span-1">
-                    <h3 class="text-lg font-semibold mb-4">Quick Links</h3>
-                    <ul class="space-y-2">
-                        <li><a href="index.html" class="text-gray-300 hover:text-white">Home</a></li>
-                        <li><a href="problem.html" class="text-gray-300 hover:text-white">Browse Problems</a></li>
-                        <li><a href="about.html" class="text-gray-300 hover:text-white">About Us</a></li>
-                    </ul>
+                <!-- CTA Buttons -->
+                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+                    <a href="#categories" class="group relative px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold text-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 overflow-hidden">
+                        <span class="relative z-10 flex items-center">
+                            Explore Problems
+                            <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform"></i>
+                        </span>
+                        <div class="absolute inset-0 bg-gradient-to-r from-indigo-600 to-purple-600 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                    </a>
+                    <button onclick="showRandomProblem()" class="px-8 py-4 bg-white/80 backdrop-blur-sm border-2 border-gray-200 text-gray-700 rounded-xl font-semibold text-lg hover:border-blue-500 hover:text-blue-600 transition-all duration-300 hover:shadow-lg">
+                        <i class="fas fa-random mr-2"></i>
+                        Random Problem
+                    </button>
                 </div>
-                
-                <!-- Connect -->
-                <div class="col-span-1">
-                    <h3 class="text-lg font-semibold mb-4">Connect</h3>
-                    <div class="flex space-x-4">
-                        <a href="#" class="text-gray-300 hover:text-white">
-                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
-                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
-                            </svg>
-                        </a>
-                        <a href="#" class="text-gray-300 hover:text-white">
-                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
-                                <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
-                            </svg>
-                        </a>
-                        <a href="#" class="text-gray-300 hover:text-white">
-                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
-                                <path d="M12 0C5.373 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.6.11.819-.26.819-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.217.694.825.577C20.565 21.796 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
-                            </svg>
-                        </a>
+
+                <!-- Stats -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600" id="total-problems">1000+</div>
+                        <div class="text-gray-600">Problems</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-indigo-600">20+</div>
+                        <div class="text-gray-600">Domains</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-purple-600">500+</div>
+                        <div class="text-gray-600">Keywords</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-pink-600">24/7</div>
+                        <div class="text-gray-600">Available</div>
                     </div>
                 </div>
             </div>
-            
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section id="categories" class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                    Explore Problem <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Domains</span>
+                </h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                    Discover challenges across diverse fields and find opportunities that align with your expertise and interests.
+                </p>
+            </div>
+
+            <!-- Filter and Sort Controls -->
+            <div class="flex flex-col md:flex-row gap-4 mb-12 max-w-4xl mx-auto">
+                <div class="flex-1">
+                    <input type="text" id="category-search" placeholder="Search categories..." 
+                           class="w-full px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all">
+                </div>
+                <select id="sort-categories" class="px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+                    <option value="name">Sort by Name</option>
+                    <option value="problems">Sort by Problem Count</option>
+                </select>
+                <button id="view-toggle" class="px-6 py-3 bg-gray-100 hover:bg-gray-200 rounded-xl transition-colors">
+                    <i class="fas fa-th-large"></i>
+                </button>
+            </div>
+
+            <!-- Categories Grid -->
+            <div id="categories-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 max-h-[70vh] overflow-y-auto custom-scrollbar">
+                <!-- Categories will be dynamically generated here -->
+            </div>
+
+            <!-- Selected Category Keywords -->
+            <div id="keywords-container" class="mt-12 hidden animate-fade-in">
+                <div class="bg-gray-50 rounded-2xl p-8">
+                    <h3 class="text-2xl font-bold text-gray-900 mb-6 text-center">
+                        Popular Topics in <span id="selected-category-name" class="text-blue-600"></span>
+                    </h3>
+                    <div id="keywords-list" class="flex flex-wrap gap-3 justify-center">
+                        <!-- Keywords will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problems Section -->
+    <section id="problems" class="py-20 bg-gradient-to-br from-gray-50 to-blue-50 hidden">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-gray-900 mb-4">
+                    Problems in <span id="current-category" class="text-blue-600"></span>
+                </h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">
+                    Explore innovative challenges and opportunities in this domain
+                </p>
+            </div>
+
+            <!-- Problems Filter and Sort -->
+            <div class="flex flex-col md:flex-row gap-4 mb-8 max-w-4xl mx-auto">
+                <div class="flex-1">
+                    <input type="text" id="problems-search" placeholder="Search problems..." 
+                           class="w-full px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+                </div>
+                <select id="problems-sort" class="px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500">
+                    <option value="relevance">Sort by Relevance</option>
+                    <option value="title">Sort by Title</option>
+                    <option value="keywords">Sort by Keywords</option>
+                </select>
+                <div class="flex gap-2">
+                    <button id="grid-view" class="px-4 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors">
+                        <i class="fas fa-th-large"></i>
+                    </button>
+                    <button id="list-view" class="px-4 py-3 bg-gray-200 text-gray-600 rounded-xl hover:bg-gray-300 transition-colors">
+                        <i class="fas fa-list"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading" class="text-center hidden">
+                <div class="inline-flex items-center space-x-4">
+                    <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+                    <p class="text-gray-600">Loading problems...</p>
+                </div>
+            </div>
+
+            <!-- No Problems State -->
+            <div id="no-problems" class="text-center hidden">
+                <div class="max-w-md mx-auto">
+                    <i class="fas fa-search text-6xl text-gray-300 mb-4"></i>
+                    <h3 class="text-xl font-semibold text-gray-700 mb-2">No problems found</h3>
+                    <p class="text-gray-500">Try adjusting your search or explore other categories.</p>
+                </div>
+            </div>
+
+            <!-- Problems Grid -->
+            <div id="problems-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Problem cards will be populated here -->
+            </div>
+
+            <!-- Load More Button -->
+            <div class="text-center mt-12">
+                <button id="load-more" class="hidden px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all duration-300">
+                    Load More Problems
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Modal -->
+    <div id="problemModal" class="fixed inset-0 bg-black/50 backdrop-blur-sm hidden items-center justify-center z-50 p-4">
+        <div class="bg-white rounded-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden shadow-2xl">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between p-6 border-b border-gray-200">
+                <div class="flex items-center space-x-3">
+                    <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
+                        <i class="fas fa-lightbulb text-white text-sm"></i>
+                    </div>
+                    <h3 id="modalTitle" class="text-2xl font-bold text-gray-900"></h3>
+                </div>
+                <div class="flex items-center space-x-2">
+                    <button id="bookmark-btn" class="p-2 hover:bg-gray-100 rounded-lg transition-colors" title="Bookmark">
+                        <i class="far fa-bookmark text-gray-500"></i>
+                    </button>
+                    <button id="share-btn" class="p-2 hover:bg-gray-100 rounded-lg transition-colors" title="Share">
+                        <i class="fas fa-share-alt text-gray-500"></i>
+                    </button>
+                    <button onclick="closeModal()" class="p-2 hover:bg-gray-100 rounded-lg transition-colors">
+                        <i class="fas fa-times text-gray-500"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Modal Content -->
+            <div class="p-6 overflow-y-auto max-h-[70vh]">
+                <div class="prose max-w-none">
+                    <p id="modalDescription" class="text-gray-700 text-lg leading-relaxed mb-6"></p>
+                    
+                    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 mb-6">
+                        <h4 class="font-semibold text-gray-900 mb-3">Keywords & Topics</h4>
+                        <div id="modalKeywords" class="flex flex-wrap gap-2">
+                            <!-- Keywords will be populated here -->
+                        </div>
+                    </div>
+
+                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                        <div class="bg-gray-50 rounded-xl p-4">
+                            <h4 class="font-semibold text-gray-900 mb-2">Domain</h4>
+                            <p id="modalDomain" class="text-gray-600"></p>
+                        </div>
+                        <div class="bg-gray-50 rounded-xl p-4">
+                            <h4 class="font-semibold text-gray-900 mb-2">Problem ID</h4>
+                            <p id="modalId" class="text-gray-600"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="p-6 border-t border-gray-200 bg-gray-50">
+                <div class="flex flex-col sm:flex-row gap-3">
+                    <button class="flex-1 px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all">
+                        <i class="fas fa-lightbulb mr-2"></i>
+                        Start Working on This
+                    </button>
+                    <button onclick="showRelatedProblems()" class="flex-1 px-6 py-3 bg-white border-2 border-gray-200 text-gray-700 rounded-xl font-semibold hover:border-blue-500 transition-all">
+                        <i class="fas fa-link mr-2"></i>
+                        Find Related Problems
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-gradient-to-br from-blue-600 to-indigo-700">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">
+                    Ready to Make an Impact?
+                </h2>
+                <p class="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">
+                    Join our community of innovators and problem solvers. Share your ideas, collaborate, and create solutions that matter.
+                </p>
+
+                <div class="grid md:grid-cols-2 gap-8 mb-12">
+                    <!-- Contact Form -->
+                    <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8">
+                        <h3 class="text-2xl font-bold text-white mb-6">Get In Touch</h3>
+                        <form id="contactForm" class="space-y-4">
+                            <div>
+                                <input type="text" name="name" placeholder="Your Name" required
+                                       class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent">
+                            </div>
+                            <div>
+                                <input type="email" name="email" placeholder="Your Email" required
+                                       class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent">
+                            </div>
+                            <div>
+                                <textarea name="message" rows="4" placeholder="Your Message" required
+                                          class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent resize-none"></textarea>
+                            </div>
+                            <button type="submit" class="w-full px-6 py-3 bg-white text-blue-600 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
+                                Send Message
+                            </button>
+                        </form>
+                    </div>
+
+                    <!-- Contact Info -->
+                    <div class="space-y-8">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <i class="fas fa-envelope text-2xl text-white"></i>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Email Us</h4>
+                            <p class="text-blue-100">hello@problem2patent.com</p>
+                        </div>
+
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <i class="fab fa-github text-2xl text-white"></i>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Contribute</h4>
+                            <p class="text-blue-100">Fork us on GitHub</p>
+                        </div>
+
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <i class="fas fa-users text-2xl text-white"></i>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Community</h4>
+                            <p class="text-blue-100">Join our Discord</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+                <!-- Brand -->
+                <div class="col-span-1 md:col-span-2">
+                    <div class="flex items-center space-x-2 mb-4">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold">Problem2Patent</span>
+                    </div>
+                    <p class="text-gray-400 max-w-md">
+                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                    </p>
+                    <div class="flex space-x-4 mt-6">
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-github text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-discord text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div>
+                    <h3 class="font-semibold mb-4">Explore</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#categories" class="text-gray-400 hover:text-white transition-colors">Categories</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Random Problem</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Trending</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Featured</a></li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div>
+                    <h3 class="font-semibold mb-4">Resources</h3>
+                    <ul class="space-y-2">
+                        <li><a href="about.html" class="text-gray-400 hover:text-white transition-colors">About</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">API</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
+                        <li><a href="#contact" class="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+
             <!-- Copyright -->
-            <div class="border-t border-gray-700 mt-8 pt-8 text-center">
-                <p class="text-gray-300">&copy; 2024 OpenProblemHub. All rights reserved.</p>
+            <div class="border-t border-gray-800 pt-8 text-center">
+                <p class="text-gray-400">
+                    © 2024 Problem2Patent. Open source under MIT License.
+                    Built with ❤️ for innovators worldwide.
+                </p>
             </div>
         </div>
     </footer>
 
-    <script>
-        // Define keywords object
-        const keywords = {
-            'programming': ['Algorithms', 'Data Structures', 'Web Development', 'Mobile Apps', 'Software Architecture'],
-            'math': ['Algebra', 'Calculus', 'Statistics', 'Number Theory', 'Discrete Mathematics'],
-            'physics': ['Mechanics', 'Quantum Physics', 'Thermodynamics', 'Optics', 'Electronics'],
-            'chemistry': ['Organic Chemistry', 'Inorganic Chemistry', 'Physical Chemistry', 'Biochemistry'],
-            'biology': ['Genetics', 'Microbiology', 'Ecology', 'Cell Biology', 'Evolution'],
-            'data-science': ['Machine Learning', 'Data Analysis', 'Big Data', 'Neural Networks', 'Statistics'],
-            'electronics': ['Circuit Design', 'Microcontrollers', 'Digital Systems', 'Power Electronics'],
-            'robotics': ['Control Systems', 'Automation', 'Sensors', 'Actuators', 'Robot Design'],
-            'mechanical': ['CAD', 'Manufacturing', 'Material Science', 'Dynamics', 'Thermodynamics'],
-            'civil': ['Structural Engineering', 'Environmental', 'Construction', 'Urban Planning'],
-            'healthcare': ['Medical Devices', 'Public Health', 'Healthcare IT', 'Biomedical'],
-            'ux': ['User Research', 'Interface Design', 'Usability', 'Prototyping'],
-            'business': ['Marketing', 'Finance', 'Operations', 'Strategy', 'Entrepreneurship'],
-            'security': ['Cryptography', 'Network Security', 'Cybersecurity', 'Privacy'],
-            'iot': ['Sensors', 'Embedded Systems', 'Networking', 'Cloud Integration'],
-            'education': ['Learning Systems', 'Educational Technology', 'Pedagogy', 'Assessment'],
-            'energy': ['Renewable Energy', 'Power Systems', 'Energy Efficiency', 'Sustainability'],
-            'agriculture': ['Farming Technology', 'Crop Science', 'Agricultural Systems', 'Food Processing'],
-            'legal': ['Legal Tech', 'Compliance', 'Regulatory', 'Policy Analysis'],
-            'social-impact': ['Community Development', 'Social Innovation', 'Nonprofit Tech', 'Civic Solutions']
-        };
-
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                document.querySelector(this.getAttribute('href')).scrollIntoView({
-                    behavior: 'smooth'
-                });
-            });
-        });
-
-        // Update the toggleKeywords function
-        function toggleKeywords(category) {
-            const container = document.getElementById('keywords-container');
-            const list = document.getElementById('keywords-list');
-            const problemsSection = document.getElementById('problems');
-            const loadingElement = document.getElementById('loading');
-            const noProblemsElement = document.getElementById('no-problems');
-            const problemsGrid = document.getElementById('problems-grid');
-
-            // Show the containers and reset state
-            container.classList.remove('hidden');
-            problemsSection.classList.remove('hidden');
-            list.innerHTML = '';
-            problemsGrid.innerHTML = '';
-            loadingElement.classList.remove('hidden');
-            noProblemsElement.classList.add('hidden');
-            problemsGrid.classList.add('hidden');
-
-            // Display keywords
-            if (keywords[category]) {
-                keywords[category].forEach(keyword => {
-                    const span = document.createElement('span');
-                    span.className = 'bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm cursor-pointer hover:bg-blue-200 transition-colors';
-                    span.innerText = keyword;
-                    list.appendChild(span);
-                });
-            }
-
-            // Map category to domain number
-            const categoryToDomainNumber = {
-                'programming': '1',
-                'math': '2',
-                'physics': '3',
-                'chemistry': '4',
-                'biology': '5',
-                'data-science': '6',
-                'electronics': '7',
-                'robotics': '8',
-                'mechanical': '9',
-                'civil': '10',
-                'healthcare': '11',
-                'ux': '12',
-                'business': '13',
-                'security': '14',
-                'iot': '15',
-                'education': '16',
-                'energy': '17',
-                'agriculture': '18',
-                'legal': '19',
-                'social-impact': '20'
-            };
-
-            // Fetch problems
-            fetch('problems_full.json')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to fetch problems');
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    loadingElement.classList.add('hidden');
-                    problemsGrid.classList.remove('hidden');
-
-                    // Filter problems by domain number
-                    const domainNumber = categoryToDomainNumber[category];
-                    const filteredProblems = data.problems.filter(p => p.domain === domainNumber);
-
-                    if (filteredProblems.length > 0) {
-                        filteredProblems.forEach(problem => {
-                            const card = document.createElement('div');
-                            card.className = 'bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow cursor-pointer';
-                            card.innerHTML = `
-                                <h3 class="text-xl font-semibold mb-3">${problem.title}</h3>
-                                <p class="text-gray-600 mb-4">${problem.description.substring(0, 150)}...</p>
-                                <div class="flex flex-wrap gap-2">
-                                    ${problem.keywords.map(kw => 
-                                        `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
-                                    ).join('')}
-                                </div>
-                            `;
-                            card.addEventListener('click', () => showProblemDetails(problem));
-                            problemsGrid.appendChild(card);
-                        });
-                    } else {
-                        noProblemsElement.classList.remove('hidden');
-                        noProblemsElement.innerHTML = `<p class="text-xl text-gray-600">No problems found for ${category}</p>`;
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    loadingElement.classList.add('hidden');
-                    noProblemsElement.classList.remove('hidden');
-                    noProblemsElement.innerHTML = `
-                        <p class="text-xl text-red-600">Error loading problems: ${error.message}</p>
-                        <p class="mt-2 text-gray-600">Please check the console for details.</p>
-                    `;
-                });
-        }
-
-        // Add scroll-to-top button functionality
-        const scrollToTopButton = document.getElementById('scrollToTop');
-
-        window.addEventListener('scroll', () => {
-            if (window.scrollY > 300) {
-                scrollToTopButton.classList.remove('opacity-0', 'invisible');
-                scrollToTopButton.classList.add('opacity-100');
-            } else {
-                scrollToTopButton.classList.add('opacity-0', 'invisible');
-                scrollToTopButton.classList.remove('opacity-100');
-            }
-        });
-
-        scrollToTopButton.addEventListener('click', () => {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
-            });
-        });
-
-        // Add these new functions for modal functionality
-        function showProblemDetails(problem) {
-            const modal = document.getElementById('problemModal');
-            const title = document.getElementById('modalTitle');
-            const description = document.getElementById('modalDescription');
-            const keywords = document.getElementById('modalKeywords');
-
-            title.textContent = problem.title;
-            description.textContent = problem.description;
-            keywords.innerHTML = problem.keywords.map(kw => 
-                `<span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-sm">${kw}</span>`
-            ).join('');
-
-            modal.classList.remove('hidden');
-            modal.classList.add('flex');
-            document.body.style.overflow = 'hidden';
-        }
-
-        function closeModal() {
-            const modal = document.getElementById('problemModal');
-            modal.classList.add('hidden');
-            modal.classList.remove('flex');
-            document.body.style.overflow = 'auto';
-        }
-
-        // Close modal when clicking outside
-        document.getElementById('problemModal').addEventListener('click', (e) => {
-            if (e.target === e.currentTarget) {
-                closeModal();
-            }
-        });
-
-        // Close modal with Escape key
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') {
-                closeModal();
-            }
-        });
-
-        tailwind.config = {
-            theme: {
-                extend: {
-                    animation: {
-                        'fadeIn': 'fadeIn 0.5s ease-in-out',
-                    },
-                    keyframes: {
-                        fadeIn: {
-                            '0%': { opacity: '0', transform: 'translateY(10px)' },
-                            '100%': { opacity: '1', transform: 'translateY(0)' },
-                        }
-                    }
-                }
-            }
-        }
-
-        // Initialize vanilla-tilt
-        VanillaTilt.init(document.querySelector("[data-tilt]"), {
-            max: 5,
-            speed: 400,
-            glare: true,
-            "max-glare": 0.2
-        });
-
-        document.getElementById('mobile-menu-button').addEventListener('click', function() {
-            document.getElementById('mobile-menu').classList.toggle('hidden');
-        });
-
-        // Close mobile menu when clicking outside
-        document.addEventListener('click', function(e) {
-            const mobileMenu = document.getElementById('mobile-menu');
-            const mobileMenuButton = document.getElementById('mobile-menu-button');
-            
-            if (!mobileMenuButton.contains(e.target) && !mobileMenu.contains(e.target)) {
-                mobileMenu.classList.add('hidden');
-            }
-        });
-    </script>
-
-    <style>
-        .bg-grid-pattern {
-            background-image: radial-gradient(circle, #3b82f6 1px, transparent 1px);
-            background-size: 30px 30px;
-        }
-
-        @keyframes float {
-            0% { transform: translateY(0px) rotate(0deg); }
-            50% { transform: translateY(-20px) rotate(10deg); }
-            100% { transform: translateY(0px) rotate(0deg); }
-        }
-
-        .floating-icon {
-            position: absolute;
-            font-size: 2rem;
-            animation: float 6s ease-in-out infinite;
-            opacity: 0.5;
-        }
-
-        @keyframes blob {
-            0% { transform: translate(0, 0) scale(1); }
-            33% { transform: translate(30px, -50px) scale(1.1); }
-            66% { transform: translate(-20px, 20px) scale(0.9); }
-            100% { transform: translate(0, 0) scale(1); }
-        }
-
-        .animate-blob {
-            animation: blob 7s infinite;
-        }
-
-        .animation-delay-2000 {
-            animation-delay: 2s;
-        }
-    </style>
+    <!-- Include JavaScript -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

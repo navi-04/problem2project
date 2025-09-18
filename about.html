@@ -3,120 +3,472 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Problem to Pattern</title>
+    <title>About - Problem2Patent | Discover Innovation Opportunities</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
-<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
+<body class="bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 font-inter">
     <!-- Navigation -->
-    <nav class="bg-white shadow-lg">
-        <div class="container mx-auto px-6 py-4">
-            <div class="flex items-center justify-between">
-                <a href="index.html" class="text-2xl font-bold text-blue-600">Problem to Pattern</a>
-                <a href="index.html" class="text-gray-600 hover:text-blue-600 transition-colors">Home</a>
+    <nav class="fixed w-full top-0 left-0 z-40 bg-white/90 backdrop-blur-md shadow-lg border-b border-white/20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="index.html" class="flex items-center space-x-2">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Patent</span>
+                    </a>
+                </div>
+                
+                <!-- Desktop menu -->
+                <div class="hidden md:flex md:items-center md:space-x-8">
+                    <a href="index.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Home</a>
+                    <a href="index.html#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Explore</a>
+                    <a href="about.html" class="nav-link text-blue-600 px-3 py-2 transition-all duration-300 font-semibold">About</a>
+                    <a href="index.html#contact" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-all duration-300">Contact</a>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-button" class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
+                        <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile menu -->
+            <div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-gray-200 mt-4">
+                <div class="flex flex-col space-y-2 pt-4">
+                    <a href="index.html" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Home</a>
+                    <a href="index.html#categories" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Explore</a>
+                    <a href="about.html" class="nav-link text-blue-600 px-3 py-2 transition-colors font-semibold">About</a>
+                    <a href="index.html#contact" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2 transition-colors">Contact</a>
+                </div>
             </div>
         </div>
     </nav>
 
-    <div class="container mx-auto px-4 py-12">
-        <div class="max-w-4xl mx-auto space-y-12">
-            <!-- Hero Section -->
-            <div class="text-center mb-16">
-                <h1 class="text-5xl font-bold text-gray-900 mb-4">About Problem to Pattern</h1>
-                <p class="text-xl text-gray-600">Empowering innovation through open-source problem solving</p>
-            </div>
-
-            <!-- Mission Section -->
-            <section class="bg-white rounded-xl shadow-lg p-8 mb-8">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">Our Mission</h2>
-                <p class="text-gray-600 leading-relaxed">
-                    Problem to Pattern aims to create a collaborative ecosystem where innovators, researchers, and problem solvers can discover, share, and tackle real-world challenges across various domains. We believe in the power of open innovation and collective intelligence to drive meaningful solutions.
-                </p>
-            </section>
-
-            <!-- Features Section -->
-            <section class="bg-white rounded-xl shadow-lg p-8 mb-8">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">What We Offer</h2>
-                <div class="grid md:grid-cols-2 gap-6">
-                    <div class="space-y-4">
-                        <h3 class="text-xl font-semibold text-blue-600">Current Features</h3>
-                        <ul class="space-y-3 text-gray-600">
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"/>
-                                </svg>
-                                Curated problem statements across multiple domains
-                            </li>
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"/>
-                                </svg>
-                                Category-based problem exploration
-                            </li>
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"/>
-                                </svg>
-                                Expert-verified content
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="space-y-4">
-                        <h3 class="text-xl font-semibold text-blue-600">Coming Soon</h3>
-                        <ul class="space-y-3 text-gray-600">
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M10 2a8 8 0 100 16 8 8 0 000-16zm0 14a6 6 0 110-12 6 6 0 010 12z"/>
-                                </svg>
-                                Community problem submissions
-                            </li>
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M10 2a8 8 0 100 16 8 8 0 000-16zm0 14a6 6 0 110-12 6 6 0 010 12z"/>
-                                </svg>
-                                AI-powered search and recommendations
-                            </li>
-                            <li class="flex items-center">
-                                <svg class="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                    <path d="M10 2a8 8 0 100 16 8 8 0 000-16zm0 14a6 6 0 110-12 6 6 0 010 12z"/>
-                                </svg>
-                                Collaborative problem-solving tools
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Community Guidelines -->
-            <section class="bg-white rounded-xl shadow-lg p-8 mb-8">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">Community Guidelines</h2>
-                <div class="prose text-gray-600">
-                    <ul class="space-y-4">
-                        <li>All content is shared under Creative Commons Attribution 4.0 International License</li>
-                        <li>We encourage respectful and constructive collaboration</li>
-                        <li>Attribution is given to original problem contributors when known</li>
-                        <li>We maintain high standards for problem quality and relevance</li>
-                    </ul>
-                </div>
-            </section>
-
-            <!-- Contact Section -->
-            <section class="bg-white rounded-xl shadow-lg p-8">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">Get Involved</h2>
-                <p class="text-gray-600 mb-6">
-                    Want to contribute or have questions? We'd love to hear from you.
-                </p>
-                <a href="index.html#contact" class="inline-block bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors">
-                    Contact Us
-                </a>
-            </section>
+    <!-- Hero Section -->
+    <section class="relative pt-24 pb-20 overflow-hidden">
+        <!-- Background Elements -->
+        <div class="absolute inset-0">
+            <div class="absolute inset-0 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50"></div>
+            <div class="floating-shape w-64 h-64 bg-gradient-to-br from-blue-400/20 to-indigo-500/20 rounded-full blur-xl top-20 -left-32"></div>
+            <div class="floating-shape w-96 h-96 bg-gradient-to-br from-purple-400/20 to-pink-500/20 rounded-full blur-xl bottom-20 -right-48 animation-delay-2000"></div>
         </div>
-    </div>
+
+        <div class="relative z-10 container mx-auto px-4">
+            <div class="max-w-4xl mx-auto text-center">
+                <div class="animate-fade-in-up">
+                    <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+                        <span class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
+                            About
+                        </span>
+                        <br>
+                        <span class="text-gray-800">Problem2Patent</span>
+                    </h1>
+                    <p class="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+                        Empowering innovation through open-source problem discovery. 
+                        Connecting brilliant minds with meaningful challenges across diverse domains.
+                    </p>
+                </div>
+
+                <!-- Stats -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16 animate-fade-in-up animation-delay-300">
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600">1000+</div>
+                        <div class="text-gray-600">Problems</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-indigo-600">20+</div>
+                        <div class="text-gray-600">Domains</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-purple-600">Open Source</div>
+                        <div class="text-gray-600">Community</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-pink-600">Global</div>
+                        <div class="text-gray-600">Impact</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="max-w-6xl mx-auto">
+                <div class="grid lg:grid-cols-2 gap-16 items-center">
+                    <div class="animate-slide-in-left">
+                        <h2 class="text-4xl font-bold text-gray-900 mb-6">
+                            Our <span class="text-blue-600">Mission</span>
+                        </h2>
+                        <p class="text-lg text-gray-600 mb-6 leading-relaxed">
+                            Problem2Patent bridges the gap between real-world challenges and innovative solutions. 
+                            We believe that the most groundbreaking inventions start with clearly defined problems.
+                        </p>
+                        <p class="text-lg text-gray-600 mb-8 leading-relaxed">
+                            Our platform democratizes access to diverse problem statements across 20+ domains, 
+                            fostering a collaborative ecosystem where researchers, entrepreneurs, and innovators 
+                            can discover opportunities that align with their expertise and passion.
+                        </p>
+                        
+                        <div class="space-y-4">
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
+                                    <i class="fas fa-check text-blue-600"></i>
+                                </div>
+                                <span class="text-gray-700">Curated problem statements from industry experts</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
+                                    <i class="fas fa-check text-blue-600"></i>
+                                </div>
+                                <span class="text-gray-700">Cross-disciplinary innovation opportunities</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
+                                    <i class="fas fa-check text-blue-600"></i>
+                                </div>
+                                <span class="text-gray-700">Open-source community collaboration</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="animate-slide-in-right">
+                        <div class="relative">
+                            <div class="bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl p-8 text-white">
+                                <div class="text-center mb-6">
+                                    <i class="fas fa-lightbulb text-4xl mb-4 opacity-80"></i>
+                                    <h3 class="text-2xl font-bold">Innovation Journey</h3>
+                                </div>
+                                
+                                <div class="space-y-6">
+                                    <div class="flex items-center space-x-4">
+                                        <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center">
+                                            <span class="text-sm font-bold">1</span>
+                                        </div>
+                                        <span>Discover Problems</span>
+                                    </div>
+                                    <div class="flex items-center space-x-4">
+                                        <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center">
+                                            <span class="text-sm font-bold">2</span>
+                                        </div>
+                                        <span>Analyze & Research</span>
+                                    </div>
+                                    <div class="flex items-center space-x-4">
+                                        <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center">
+                                            <span class="text-sm font-bold">3</span>
+                                        </div>
+                                        <span>Develop Solutions</span>
+                                    </div>
+                                    <div class="flex items-center space-x-4">
+                                        <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center">
+                                            <span class="text-sm font-bold">4</span>
+                                        </div>
+                                        <span>Create Impact</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Floating elements -->
+                            <div class="absolute -top-4 -right-4 w-16 h-16 bg-yellow-400 rounded-full opacity-20 animate-float"></div>
+                            <div class="absolute -bottom-4 -left-4 w-12 h-12 bg-pink-400 rounded-full opacity-20 animate-float animation-delay-1000"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-20 bg-gradient-to-br from-gray-50 to-blue-50">
+        <div class="container mx-auto px-4">
+            <div class="max-w-6xl mx-auto">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold text-gray-900 mb-6">
+                        Platform <span class="text-blue-600">Features</span>
+                    </h2>
+                    <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                        Discover powerful tools and features designed to accelerate your innovation journey.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Feature 1 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up">
+                        <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-search text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Smart Search & Discovery</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Advanced search capabilities with keyword filtering, domain categorization, 
+                            and intelligent recommendations to find the perfect problems for your expertise.
+                        </p>
+                    </div>
+
+                    <!-- Feature 2 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-300">
+                        <div class="w-12 h-12 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-layer-group text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">20+ Domain Categories</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Explore challenges across diverse fields including AI/ML, healthcare, sustainability, 
+                            robotics, and many more specialized domains.
+                        </p>
+                    </div>
+
+                    <!-- Feature 3 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-500">
+                        <div class="w-12 h-12 bg-gradient-to-br from-purple-500 to-violet-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-bookmark text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Bookmark & Organize</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Save interesting problems, create custom collections, and track your progress 
+                            on multiple innovation projects simultaneously.
+                        </p>
+                    </div>
+
+                    <!-- Feature 4 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-700">
+                        <div class="w-12 h-12 bg-gradient-to-br from-orange-500 to-red-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-share-alt text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Collaborative Sharing</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Share problems with your team, collaborate on solutions, and build 
+                            a network of like-minded innovators and researchers.
+                        </p>
+                    </div>
+
+                    <!-- Feature 5 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1000">
+                        <div class="w-12 h-12 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-code-branch text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Open Source Ecosystem</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Built on open-source principles with transparent data, community contributions, 
+                            and accessible APIs for researchers and developers.
+                        </p>
+                    </div>
+
+                    <!-- Feature 6 -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1000">
+                        <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-rose-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-chart-line text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Impact Tracking</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Monitor the real-world impact of solutions developed through our platform 
+                            and celebrate successful innovations with the community.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="max-w-6xl mx-auto">
+                <div class="text-center mb-16">
+                    <h2 class="text-4xl font-bold text-gray-900 mb-6">
+                        Our <span class="text-blue-600">Vision</span>
+                    </h2>
+                    <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+                        We envision a world where innovation is democratized, where anyone with curiosity 
+                        and determination can discover meaningful problems to solve and create lasting impact.
+                    </p>
+                </div>
+
+                <div class="grid lg:grid-cols-3 gap-8 mb-16">
+                    <div class="text-center card-gradient card">
+                        <div class="w-16 h-16 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <i class="fas fa-globe text-white text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Global Reach</h3>
+                        <p class="text-gray-600">
+                            Connecting innovators worldwide to solve challenges that transcend borders 
+                            and create universal impact.
+                        </p>
+                    </div>
+
+                    <div class="text-center card-gradient card">
+                        <div class="w-16 h-16 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <i class="fas fa-users text-white text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Community First</h3>
+                        <p class="text-gray-600">
+                            Building an inclusive community where diverse perspectives and expertise 
+                            come together to tackle complex challenges.
+                        </p>
+                    </div>
+
+                    <div class="text-center card-gradient card">
+                        <div class="w-16 h-16 bg-gradient-to-br from-purple-500 to-violet-600 rounded-full flex items-center justify-center mx-auto mb-6">
+                            <i class="fas fa-rocket text-white text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Innovation Acceleration</h3>
+                        <p class="text-gray-600">
+                            Accelerating the journey from problem identification to solution implementation 
+                            through structured discovery and collaboration.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-20 bg-gradient-to-br from-blue-600 to-indigo-700">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">
+                    Ready to Start Innovating?
+                </h2>
+                <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
+                    Join thousands of innovators already using Problem2Patent to discover 
+                    and solve meaningful challenges.
+                </p>
+                
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="index.html#categories" class="px-8 py-4 bg-white text-blue-600 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:shadow-lg">
+                        <i class="fas fa-search mr-2"></i>
+                        Explore Problems
+                    </a>
+                    <a href="index.html#contact" class="px-8 py-4 bg-white/20 backdrop-blur-sm border-2 border-white/30 text-white rounded-xl font-semibold text-lg hover:bg-white/30 transition-all duration-300">
+                        <i class="fas fa-envelope mr-2"></i>
+                        Get In Touch
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white py-8 mt-12">
-        <div class="container mx-auto px-4 text-center">
-            <p>© 2024 Problem to Pattern. All rights reserved.</p>
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+                <!-- Brand -->
+                <div class="col-span-1 md:col-span-2">
+                    <div class="flex items-center space-x-2 mb-4">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        </div>
+                        <span class="text-xl font-bold">Problem2Patent</span>
+                    </div>
+                    <p class="text-gray-400 max-w-md">
+                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                    </p>
+                    <div class="flex space-x-4 mt-6">
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-github text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-discord text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div>
+                    <h3 class="font-semibold mb-4">Explore</h3>
+                    <ul class="space-y-2">
+                        <li><a href="index.html#categories" class="text-gray-400 hover:text-white transition-colors">Categories</a></li>
+                        <li><a href="index.html" class="text-gray-400 hover:text-white transition-colors">Random Problem</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Trending</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Featured</a></li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div>
+                    <h3 class="font-semibold mb-4">Resources</h3>
+                    <ul class="space-y-2">
+                        <li><a href="about.html" class="text-gray-400 hover:text-white transition-colors">About</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">API</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
+                        <li><a href="index.html#contact" class="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Copyright -->
+            <div class="border-t border-gray-800 pt-8 text-center">
+                <p class="text-gray-400">
+                    © 2024 Problem2Patent. Open source under MIT License.
+                    Built with ❤️ for innovators worldwide.
+                </p>
+            </div>
         </div>
     </footer>
+
+    <script>
+        // Mobile menu functionality
+        document.getElementById('mobile-menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const mobileMenu = document.getElementById('mobile-menu');
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            
+            if (!mobileMenuButton.contains(e.target) && !mobileMenu.contains(e.target)) {
+                mobileMenu.classList.add('hidden');
+            }
+        });
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+        // Add scroll animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('animate-fade-in-up');
+                }
+            });
+        }, observerOptions);
+
+        // Observe elements for animation
+        document.querySelectorAll('.card, .animate-fade-in-up, .animate-slide-in-left, .animate-slide-in-right').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
 </body>
 </html>
