@@ -579,35 +579,87 @@ class Problem2Patent {
         const description = document.getElementById('modalDescription');
         const keywords = document.getElementById('modalKeywords');
         const domain = document.getElementById('modalDomain');
+        const domainBadge = document.getElementById('modalDomainBadge');
         const id = document.getElementById('modalId');
+
+        // Get domain information
+        const domainInfo = DOMAINS[problem.domain] || { shortName: 'Unknown Domain', category: 'unknown' };
 
         title.textContent = problem.title;
         description.textContent = problem.description;
-        domain.textContent = this.domains[problem.domain] || 'Unknown Domain';
-        id.textContent = `#${problem.id}`;
+        domain.textContent = domainInfo.shortName;
+        domainBadge.textContent = `${domainInfo.category} • Problem #${problem.id}`;
+        id.textContent = problem.id;
 
+        // Generate keywords with dark mode support
         keywords.innerHTML = problem.keywords.map(kw => 
-            `<span class="px-3 py-2 bg-gradient-to-r from-blue-100 to-indigo-100 text-blue-800 rounded-full text-sm font-medium">${kw}</span>`
+            `<span class="px-4 py-2 bg-gradient-to-r from-blue-100 to-indigo-100 dark:from-blue-900/50 dark:to-indigo-900/50 text-blue-800 dark:text-blue-200 rounded-full text-sm font-medium hover:shadow-md transition-shadow">${kw}</span>`
         ).join('');
 
         // Update bookmark button
         const bookmarkBtn = document.getElementById('bookmark-btn');
         const isBookmarked = this.bookmarkedProblems.includes(problem.id);
-        bookmarkBtn.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-500'}"></i>`;
+        bookmarkBtn.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'} mr-2"></i>
+                                <span class="text-sm font-medium text-gray-700 dark:text-gray-300">${isBookmarked ? 'Bookmarked' : 'Bookmark'}</span>`;
         bookmarkBtn.dataset.problemId = problem.id;
 
+        // Generate dynamic reference links
+        this.generateReferenceLinks(problem);
+
+        // Show modal as full screen
         modal.classList.remove('hidden');
-        modal.classList.add('flex');
         document.body.style.overflow = 'hidden';
 
         // Store current problem for sharing
         this.currentProblem = problem;
     }
 
+    generateReferenceLinks(problem) {
+        // Create search queries based on problem keywords and title
+        const searchTerms = encodeURIComponent(`${problem.title} ${problem.keywords.slice(0, 3).join(' ')}`);
+        const domainTerms = encodeURIComponent(`${problem.domain} ${problem.keywords[0] || ''}`);
+        
+        // Update all reference links with dynamic URLs
+        const referenceLinks = document.querySelectorAll('.reference-link');
+        
+        if (referenceLinks.length >= 8) {
+            // Google Scholar
+            referenceLinks[0].href = `https://scholar.google.com/scholar?q=${searchTerms}`;
+            referenceLinks[0].target = '_blank';
+            
+            // Wikipedia
+            referenceLinks[1].href = `https://en.wikipedia.org/wiki/Special:Search?search=${searchTerms}`;
+            referenceLinks[1].target = '_blank';
+            
+            // Reddit
+            referenceLinks[2].href = `https://www.reddit.com/search/?q=${searchTerms}&type=link`;
+            referenceLinks[2].target = '_blank';
+            
+            // Google Patents
+            referenceLinks[3].href = `https://patents.google.com/?q=${searchTerms}`;
+            referenceLinks[3].target = '_blank';
+            
+            // USPTO Database
+            referenceLinks[4].href = `https://ppubs.uspto.gov/dirsearch-public/searches/searchss?query=${searchTerms}`;
+            referenceLinks[4].target = '_blank';
+            
+            // GitHub
+            referenceLinks[5].href = `https://github.com/search?q=${searchTerms}&type=repositories`;
+            referenceLinks[5].target = '_blank';
+            
+            // Stack Overflow
+            referenceLinks[6].href = `https://stackoverflow.com/search?q=${searchTerms}`;
+            referenceLinks[6].target = '_blank';
+            
+            // TechCrunch
+            referenceLinks[7].href = `https://search.techcrunch.com/search?query=${domainTerms}`;
+            referenceLinks[7].target = '_blank';
+        }
+    }
+
     closeModal() {
         const modal = document.getElementById('problemModal');
         modal.classList.add('hidden');
-        modal.classList.remove('flex');
         document.body.style.overflow = 'auto';
         this.currentProblem = null;
     }

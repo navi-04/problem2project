@@ -73,6 +73,29 @@
         .custom-scrollbar::-webkit-scrollbar-thumb:hover {
             background: #94a3b8;
         }
+        
+        /* Full-screen modal scrollbar */
+        #problemModal .overflow-y-auto::-webkit-scrollbar {
+            width: 6px;
+        }
+        #problemModal .overflow-y-auto::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        #problemModal .overflow-y-auto::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 3px;
+        }
+        #problemModal .overflow-y-auto::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+        
+        /* Dark mode scrollbar for modal */
+        .dark #problemModal .overflow-y-auto::-webkit-scrollbar-thumb {
+            background: #4b5563;
+        }
+        .dark #problemModal .overflow-y-auto::-webkit-scrollbar-thumb:hover {
+            background: #6b7280;
+        }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
             background: #9ca3af;
         }
@@ -355,69 +378,236 @@
         </div>
     </section>
 
-    <!-- Problem Modal -->
-    <div id="problemModal" class="fixed inset-0 bg-black/50 backdrop-blur-sm hidden items-center justify-center z-50 p-4">
-        <div class="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden shadow-2xl transition-colors duration-300">
-            <!-- Modal Header -->
-            <div class="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700">
+    <!-- Problem Full-Screen Panel -->
+    <div id="problemModal" class="fixed inset-0 bg-white dark:bg-gray-900 hidden z-50 overflow-hidden transition-colors duration-300">
+        <!-- Header Bar -->
+        <div class="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900">
+            <div class="flex items-center space-x-4">
+                <button onclick="closeModal()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+                    <i class="fas fa-arrow-left text-gray-600 dark:text-gray-400"></i>
+                </button>
                 <div class="flex items-center space-x-3">
-                    <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
-                        <i class="fas fa-lightbulb text-white text-sm"></i>
+                    <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
+                        <i class="fas fa-lightbulb text-white text-lg"></i>
                     </div>
-                    <h3 id="modalTitle" class="text-2xl font-bold text-gray-900 dark:text-gray-100"></h3>
-                </div>
-                <div class="flex items-center space-x-2">
-                    <button id="bookmark-btn" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors" title="Bookmark">
-                        <i class="far fa-bookmark text-gray-500 dark:text-gray-400"></i>
-                    </button>
-                    <button id="share-btn" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors" title="Share">
-                        <i class="fas fa-share-alt text-gray-500 dark:text-gray-400"></i>
-                    </button>
-                    <button onclick="closeModal()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors">
-                        <i class="fas fa-times text-gray-500 dark:text-gray-400"></i>
-                    </button>
+                    <div>
+                        <h1 id="modalTitle" class="text-2xl font-bold text-gray-900 dark:text-gray-100"></h1>
+                        <p id="modalDomainBadge" class="text-sm text-gray-500 dark:text-gray-400"></p>
+                    </div>
                 </div>
             </div>
+            <div class="flex items-center space-x-3">
+                <button id="bookmark-btn" class="px-4 py-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors" title="Bookmark">
+                    <i class="far fa-bookmark text-gray-600 dark:text-gray-400 mr-2"></i>
+                    <span class="text-sm font-medium text-gray-700 dark:text-gray-300">Bookmark</span>
+                </button>
+                <button id="share-btn" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors" title="Share">
+                    <i class="fas fa-share-alt mr-2"></i>
+                    <span class="text-sm font-medium">Share</span>
+                </button>
+            </div>
+        </div>
 
-            <!-- Modal Content -->
-            <div class="p-6 overflow-y-auto max-h-[70vh]">
-                <div class="prose max-w-none">
-                    <p id="modalDescription" class="text-gray-700 dark:text-gray-300 text-lg leading-relaxed mb-6"></p>
-                    
-                    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-xl p-6 mb-6">
-                        <h4 class="font-semibold text-gray-900 dark:text-gray-100 mb-3">Keywords & Topics</h4>
-                        <div id="modalKeywords" class="flex flex-wrap gap-2">
+        <!-- Main Content -->
+        <div class="flex h-[calc(100vh-80px)]">
+            <!-- Left Panel - Problem Details -->
+            <div class="flex-1 overflow-y-auto p-8">
+                <div class="max-w-4xl mx-auto">
+                    <!-- Problem Description -->
+                    <div class="mb-8">
+                        <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-4">Problem Description</h2>
+                        <div class="prose prose-lg max-w-none dark:prose-invert">
+                            <p id="modalDescription" class="text-gray-700 dark:text-gray-300 leading-relaxed"></p>
+                        </div>
+                    </div>
+
+                    <!-- Keywords & Topics -->
+                    <div class="mb-8">
+                        <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-4">Keywords & Topics</h2>
+                        <div id="modalKeywords" class="flex flex-wrap gap-3">
                             <!-- Keywords will be populated here -->
                         </div>
                     </div>
 
-                    <div class="grid md:grid-cols-2 gap-6 mb-6">
-                        <div class="bg-gray-50 dark:bg-gray-700/50 rounded-xl p-4">
-                            <h4 class="font-semibold text-gray-900 dark:text-gray-100 mb-2">Domain</h4>
+                    <!-- Problem Details Grid -->
+                    <div class="grid md:grid-cols-2 gap-6 mb-8">
+                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6">
+                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center">
+                                <i class="fas fa-tag text-blue-500 mr-2"></i>
+                                Domain
+                            </h3>
                             <p id="modalDomain" class="text-gray-600 dark:text-gray-300"></p>
                         </div>
-                        <div class="bg-gray-50 dark:bg-gray-700/50 rounded-xl p-4">
-                            <h4 class="font-semibold text-gray-900 dark:text-gray-100 mb-2">Problem ID</h4>
-                            <p id="modalId" class="text-gray-600 dark:text-gray-300"></p>
+                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6">
+                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center">
+                                <i class="fas fa-hashtag text-green-500 mr-2"></i>
+                                Problem ID
+                            </h3>
+                            <p id="modalId" class="text-gray-600 dark:text-gray-300 font-mono"></p>
                         </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="flex flex-col sm:flex-row gap-4 mb-8">
+                        <button class="flex-1 px-6 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all">
+                            <i class="fas fa-rocket mr-2"></i>
+                            Start Working on This Problem
+                        </button>
+                        <button onclick="showRelatedProblems()" class="flex-1 px-6 py-4 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-xl font-semibold hover:border-blue-500 dark:hover:border-blue-400 transition-all">
+                            <i class="fas fa-link mr-2"></i>
+                            Find Related Problems
+                        </button>
                     </div>
                 </div>
             </div>
 
-            <!-- Modal Footer -->
-            <div class="p-6 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50">
-                <div class="flex flex-col sm:flex-row gap-3">
-                    <button class="flex-1 px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all">
-                        <i class="fas fa-lightbulb mr-2"></i>
-                        Start Working on This
-                    </button>
-                    <button onclick="showRelatedProblems()" class="flex-1 px-6 py-3 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-xl font-semibold hover:border-blue-500 dark:hover:border-blue-400 transition-all">
-                        <i class="fas fa-link mr-2"></i>
-                        Find Related Problems
-                    </button>
+            <!-- Right Panel - Reference Links -->
+            <div class="w-96 border-l border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 overflow-y-auto">
+                <div class="p-6">
+                    <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-6 flex items-center">
+                        <i class="fas fa-external-link-alt text-blue-500 mr-2"></i>
+                        Reference Links
+                    </h2>
+
+                    <!-- Research Resources -->
+                    <div class="mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Research Resources</h3>
+                        <div class="space-y-3">
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-red-100 dark:bg-red-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-google text-red-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Google Scholar</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Academic research papers</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-wikipedia-w text-blue-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Wikipedia</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Background information</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-reddit text-orange-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Reddit Discussions</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Community insights</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Patent Research -->
+                    <div class="mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Patent Research</h3>
+                        <div class="space-y-3">
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-purple-100 dark:bg-purple-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-file-alt text-purple-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Google Patents</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Existing patents database</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-balance-scale text-green-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">USPTO Database</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Official patent records</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Developer Resources -->
+                    <div class="mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Developer Resources</h3>
+                        <div class="space-y-3">
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-gray-100 dark:bg-gray-600 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-github text-gray-700 dark:text-gray-300 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">GitHub Projects</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Open source solutions</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-stack-overflow text-orange-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Stack Overflow</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Technical discussions</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Industry News -->
+                    <div class="mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Industry News</h3>
+                        <div class="space-y-3">
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-yellow-100 dark:bg-yellow-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-newspaper text-yellow-600 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">TechCrunch</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Latest tech news</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-3">
+                                    <div class="w-8 h-8 bg-indigo-100 dark:bg-indigo-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-chart-line text-indigo-500 text-sm"></i>
+                                    </div>
+                                    <div class="flex-1">
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Market Reports</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">Industry analysis</p>
+                                    </div>
+                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+    </div>
     </section>
 
     <!-- Contact Section -->
@@ -542,7 +732,7 @@
             <!-- Copyright -->
             <div class="border-t border-gray-800 dark:border-gray-700 pt-8 text-center">
                 <p class="text-gray-400 dark:text-gray-500">
-                    © 2024 Problem2Patent. Open source under MIT License.
+                    © 2025 Fewinfos. Open source under MIT License.
                     Built with ❤️ for innovators worldwide.
                 </p>
             </div>
