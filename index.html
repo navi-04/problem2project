@@ -99,6 +99,33 @@
         .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
             background: #9ca3af;
         }
+        
+        /* Mobile touch targets */
+        @media (max-width: 768px) {
+            .nav-link {
+                min-height: 44px;
+                display: flex;
+                align-items: center;
+            }
+            
+            button {
+                min-height: 44px;
+                min-width: 44px;
+            }
+            
+            input, select {
+                min-height: 44px;
+            }
+        }
+        
+        /* Mobile scroll-to-top positioning */
+        @media (max-width: 640px) {
+            #scrollToTop {
+                bottom: 1rem;
+                right: 1rem;
+                padding: 0.75rem;
+            }
+        }
     </style>
 </head>
 <<body class="bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 font-inter transition-colors duration-300">
@@ -146,6 +173,9 @@
                     <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
                         <i class="fas fa-search text-gray-600 dark:text-gray-400"></i>
                     </button>
+                    <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+                        <i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>
+                    </button>
                     <button id="mobile-menu-button" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
                         <svg class="h-6 w-6 text-gray-600 dark:text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -168,12 +198,12 @@
 
     <!-- Search Overlay -->
     <div id="search-overlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 hidden">
-        <div class="flex items-start justify-center pt-20 px-4">
-            <div class="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-2xl p-6 shadow-2xl transition-colors duration-300">
-                <div class="flex items-center space-x-4 mb-6">
+        <div class="flex items-start justify-center pt-16 sm:pt-20 px-4">
+            <div class="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-2xl p-4 sm:p-6 shadow-2xl transition-colors duration-300">
+                <div class="flex items-center space-x-3 sm:space-x-4 mb-4 sm:mb-6">
                     <i class="fas fa-search text-gray-400 dark:text-gray-500"></i>
                     <input type="text" id="global-search" placeholder="Search problems, domains, keywords..." 
-                           class="flex-1 text-lg outline-none bg-transparent text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400">
+                           class="flex-1 text-base sm:text-lg outline-none bg-transparent text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400">
                     <button id="search-close" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors">
                         <i class="fas fa-times text-gray-400 dark:text-gray-500"></i>
                     </button>
@@ -187,7 +217,7 @@
                         <span class="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm cursor-pointer hover:bg-blue-200 dark:hover:bg-blue-800 transition-colors search-suggestion">Healthcare</span>
                     </div>
                 </div>
-                <div id="search-results" class="hidden mt-6">
+                <div id="search-results" class="hidden mt-4 sm:mt-6">
                     <h3 class="font-semibold mb-3 text-gray-900 dark:text-gray-100">Search Results</h3>
                     <div id="search-results-list" class="space-y-3 max-h-60 overflow-y-auto">
                         <!-- Search results will be populated here -->
@@ -216,52 +246,52 @@
         </div>
 
         <!-- Hero Content -->
-        <div class="relative z-10 text-center px-4 max-w-6xl mx-auto">
+        <div class="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
             <div class="animate-fade-in-up">
-                <h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+                <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
                     <span class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
                         Discover Innovation
                     </span>
                     <br>
                     <span class="text-gray-800 dark:text-gray-200">Opportunities</span>
                 </h1>
-                <p class="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-                    Explore curated problem statements across 20+ domains. From AI to sustainability, 
+                <p class="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed px-4 sm:px-0">
+                    Explore curated problem statements across 32+ domains. From AI to sustainability, 
                     find challenges that matter and drive meaningful innovation.
                 </p>
                 
                 <!-- CTA Buttons -->
-                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-                    <a href="#categories" class="group relative px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold text-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 overflow-hidden">
-                        <span class="relative z-10 flex items-center">
+                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 px-4 sm:px-0">
+                    <a href="#categories" class="group relative w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold text-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 overflow-hidden">
+                        <span class="relative z-10 flex items-center justify-center">
                             Explore Problems
                             <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform"></i>
                         </span>
                         <div class="absolute inset-0 bg-gradient-to-r from-indigo-600 to-purple-600 opacity-0 group-hover:opacity-100 transition-opacity"></div>
                     </a>
-                    <button onclick="showRandomProblem()" class="px-8 py-4 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-200 rounded-xl font-semibold text-lg hover:border-blue-500 dark:hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300 hover:shadow-lg">
+                    <button onclick="showRandomProblem()" class="w-full sm:w-auto px-8 py-4 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-200 rounded-xl font-semibold text-lg hover:border-blue-500 dark:hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300 hover:shadow-lg">
                         <i class="fas fa-random mr-2"></i>
                         Random Problem
                     </button>
                 </div>
 
                 <!-- Stats -->
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 max-w-4xl mx-auto px-4 sm:px-0">
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-blue-600" id="total-problems">1000+</div>
-                        <div class="text-gray-600 dark:text-gray-400">Problems</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-blue-600" id="total-problems">2000+</div>
+                        <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Problems</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-indigo-600">20+</div>
-                        <div class="text-gray-600 dark:text-gray-400">Domains</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600">32+</div>
+                        <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Domains</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-purple-600">500+</div>
-                        <div class="text-gray-600 dark:text-gray-400">Keywords</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-purple-600">500+</div>
+                        <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Keywords</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-gray-600 dark:text-gray-400">24/7</div>
-                        <div class="text-gray-600 dark:text-gray-400">Available</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-gray-600 dark:text-gray-400">24/7</div>
+                        <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Available</div>
                     </div>
                 </div>
             </div>
@@ -269,34 +299,36 @@
     </section>
 
     <!-- Categories Section -->
-    <section id="categories" class="py-20 bg-white dark:bg-gray-900 transition-colors duration-300">
-        <div class="container mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-6">
+    <section id="categories" class="py-16 sm:py-20 bg-white dark:bg-gray-900 transition-colors duration-300">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12 sm:mb-16">
+                <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4 sm:mb-6 px-4 sm:px-0">
                     Explore Problem <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Domains</span>
                 </h2>
-                <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+                <p class="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto px-4 sm:px-0">
                     Discover challenges across diverse fields and find opportunities that align with your expertise and interests.
                 </p>
             </div>
 
             <!-- Filter and Sort Controls -->
-            <div class="flex flex-col md:flex-row gap-4 mb-12 max-w-4xl mx-auto">
+            <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-8 sm:mb-12 max-w-4xl mx-auto">
                 <div class="flex-1">
                     <input type="text" id="category-search" placeholder="Search categories..." 
-                           class="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all">
+                           class="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all text-base">
                 </div>
-                <select id="sort-categories" class="px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent">
-                    <option value="name">Sort by Name</option>
-                    <option value="problems">Sort by Problem Count</option>
-                </select>
-                <button id="view-toggle" class="px-6 py-3 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-xl transition-colors">
-                    <i class="fas fa-th-large"></i>
-                </button>
+                <div class="flex gap-3 sm:gap-4">
+                    <select id="sort-categories" class="flex-1 sm:flex-none px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-base">
+                        <option value="name">Sort by Name</option>
+                        <option value="problems">Sort by Problem Count</option>
+                    </select>
+                    <button id="view-toggle" class="px-4 sm:px-6 py-3 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-xl transition-colors">
+                        <i class="fas fa-th-large"></i>
+                    </button>
+                </div>
             </div>
 
             <!-- Categories Grid -->
-            <div id="categories-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 max-h-[70vh] overflow-y-auto custom-scrollbar">
+            <div id="categories-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 max-h-[70vh] overflow-y-auto custom-scrollbar">
                 <!-- Categories will be dynamically generated here -->
             </div>
 
@@ -381,79 +413,85 @@
     <!-- Problem Full-Screen Panel -->
     <div id="problemModal" class="fixed inset-0 bg-white dark:bg-gray-900 hidden z-50 overflow-hidden transition-colors duration-300">
         <!-- Header Bar -->
-        <div class="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900">
-            <div class="flex items-center space-x-4">
-                <button onclick="closeModal()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+        <div class="flex items-center justify-between p-4 sm:p-6 border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900">
+            <div class="flex items-center space-x-2 sm:space-x-4 flex-1 min-w-0">
+                <button onclick="closeModal()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors flex-shrink-0">
                     <i class="fas fa-arrow-left text-gray-600 dark:text-gray-400"></i>
                 </button>
-                <div class="flex items-center space-x-3">
-                    <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
-                        <i class="fas fa-lightbulb text-white text-lg"></i>
+                <div class="flex items-center space-x-2 sm:space-x-3 min-w-0 flex-1">
+                    <div class="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <i class="fas fa-lightbulb text-white text-sm sm:text-lg"></i>
                     </div>
-                    <div>
-                        <h1 id="modalTitle" class="text-2xl font-bold text-gray-900 dark:text-gray-100"></h1>
-                        <p id="modalDomainBadge" class="text-sm text-gray-500 dark:text-gray-400"></p>
+                    <div class="min-w-0 flex-1">
+                        <h1 id="modalTitle" class="text-lg sm:text-2xl font-bold text-gray-900 dark:text-gray-100 truncate"></h1>
+                        <p id="modalDomainBadge" class="text-xs sm:text-sm text-gray-500 dark:text-gray-400 truncate"></p>
                     </div>
                 </div>
             </div>
-            <div class="flex items-center space-x-3">
-                <button id="bookmark-btn" class="px-4 py-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors" title="Bookmark">
+            <div class="flex items-center space-x-2 sm:space-x-3 flex-shrink-0">
+                <button id="bookmark-btn" class="hidden sm:flex px-4 py-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors items-center" title="Bookmark">
                     <i class="far fa-bookmark text-gray-600 dark:text-gray-400 mr-2"></i>
                     <span class="text-sm font-medium text-gray-700 dark:text-gray-300">Bookmark</span>
                 </button>
-                <button id="share-btn" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors" title="Share">
+                <button id="bookmark-btn-mobile" class="sm:hidden p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors" title="Bookmark">
+                    <i class="far fa-bookmark text-gray-600 dark:text-gray-400"></i>
+                </button>
+                <button id="share-btn" class="hidden sm:flex px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors items-center" title="Share">
                     <i class="fas fa-share-alt mr-2"></i>
                     <span class="text-sm font-medium">Share</span>
+                </button>
+                <button id="share-btn-mobile" class="sm:hidden p-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors" title="Share">
+                    <i class="fas fa-share-alt"></i>
                 </button>
             </div>
         </div>
 
         <!-- Main Content -->
-        <div class="flex h-[calc(100vh-80px)]">
+        <div class="flex flex-col lg:flex-row h-[calc(100vh-64px)] sm:h-[calc(100vh-80px)]">
             <!-- Left Panel - Problem Details -->
-            <div class="flex-1 overflow-y-auto p-8">
+            <div class="flex-1 overflow-y-auto p-4 sm:p-8 lg:order-1">
                 <div class="max-w-4xl mx-auto">
                     <!-- Problem Description -->
-                    <div class="mb-8">
-                        <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-4">Problem Description</h2>
-                        <div class="prose prose-lg max-w-none dark:prose-invert">
-                            <p id="modalDescription" class="text-gray-700 dark:text-gray-300 leading-relaxed"></p>
+                    <div class="mb-6 sm:mb-8">
+                        <h2 class="text-lg sm:text-xl font-bold text-gray-900 dark:text-gray-100 mb-3 sm:mb-4">Problem Description</h2>
+                        <div class="prose prose-sm sm:prose-lg max-w-none dark:prose-invert">
+                            <p id="modalDescription" class="text-gray-700 dark:text-gray-300 leading-relaxed text-sm sm:text-base"></p>
                         </div>
                     </div>
 
                     <!-- Keywords & Topics -->
-                    <div class="mb-8">
-                        <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-4">Keywords & Topics</h2>
-                        <div id="modalKeywords" class="flex flex-wrap gap-3">
+                    <div class="mb-6 sm:mb-8">
+                        <h2 class="text-lg sm:text-xl font-bold text-gray-900 dark:text-gray-100 mb-3 sm:mb-4">Keywords & Topics</h2>
+                        <div id="modalKeywords" class="flex flex-wrap gap-2 sm:gap-3">
                             <!-- Keywords will be populated here -->
                         </div>
                     </div>
 
                     <!-- Problem Details Grid -->
-                    <div class="grid md:grid-cols-2 gap-6 mb-8">
-                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6">
-                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6 mb-6 sm:mb-8">
+                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 sm:p-6">
+                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-2 sm:mb-3 flex items-center text-sm sm:text-base">
                                 <i class="fas fa-tag text-blue-500 mr-2"></i>
                                 Domain
                             </h3>
-                            <p id="modalDomain" class="text-gray-600 dark:text-gray-300"></p>
+                            <p id="modalDomain" class="text-gray-600 dark:text-gray-300 text-sm sm:text-base"></p>
                         </div>
-                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6">
-                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center">
+                        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 sm:p-6">
+                            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-2 sm:mb-3 flex items-center text-sm sm:text-base">
                                 <i class="fas fa-hashtag text-green-500 mr-2"></i>
                                 Problem ID
                             </h3>
-                            <p id="modalId" class="text-gray-600 dark:text-gray-300 font-mono"></p>
+                            <p id="modalId" class="text-gray-600 dark:text-gray-300 font-mono text-sm sm:text-base"></p>
                         </div>
                     </div>
 
                     <!-- Action Buttons -->
-                    <div class="flex flex-col sm:flex-row gap-4 mb-8">
-                        <button class="flex-1 px-6 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all">
+                    <div class="flex flex-col gap-3 sm:gap-4 mb-6 sm:mb-8">
+                        <!-- <button class="w-full px-6 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-xl font-semibold hover:shadow-lg transition-all text-sm sm:text-base">
                             <i class="fas fa-rocket mr-2"></i>
                             Start Working on This Problem
-                        </button>
-                        <button onclick="showRelatedProblems()" class="flex-1 px-6 py-4 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-xl font-semibold hover:border-blue-500 dark:hover:border-blue-400 transition-all">
+                        </button> -->
+                        <button onclick="showRelatedProblems()" class="w-full px-6 py-3 sm:py-4 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-xl font-semibold hover:border-blue-500 dark:hover:border-blue-400 transition-all text-sm sm:text-base">
                             <i class="fas fa-link mr-2"></i>
                             Find Related Problems
                         </button>
@@ -461,50 +499,50 @@
                 </div>
             </div>
 
-            <!-- Right Panel - Reference Links -->
-            <div class="w-96 border-l border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 overflow-y-auto">
-                <div class="p-6">
-                    <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-6 flex items-center">
+            <!-- Right Panel - Reference Links (Mobile: below content, Desktop: side panel) -->
+            <div class="lg:w-96 lg:border-l border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 overflow-y-auto lg:order-2">
+                <div class="p-4 lg:p-6">
+                    <h2 class="text-lg lg:text-xl font-bold text-gray-900 dark:text-gray-100 mb-4 lg:mb-6 flex items-center">
                         <i class="fas fa-external-link-alt text-blue-500 mr-2"></i>
                         Reference Links
                     </h2>
 
                     <!-- Research Resources -->
-                    <div class="mb-6">
-                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Research Resources</h3>
-                        <div class="space-y-3">
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-red-100 dark:bg-red-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fab fa-google text-red-500 text-sm"></i>
+                    <div class="mb-4 lg:mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3 text-sm lg:text-base">Research Resources</h3>
+                        <div class="space-y-2 lg:space-y-3">
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-red-100 dark:bg-red-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-google text-red-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Google Scholar</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Academic research papers</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">Google Scholar</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Academic research papers</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
                             </a>
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fab fa-wikipedia-w text-blue-500 text-sm"></i>
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-wikipedia-w text-blue-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Wikipedia</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Background information</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">Wikipedia</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Background information</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
                             </a>
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fab fa-reddit text-orange-500 text-sm"></i>
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-reddit text-orange-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Reddit Discussions</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Community insights</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">Reddit Discussions</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Community insights</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
@@ -513,29 +551,29 @@
                     </div>
 
                     <!-- Patent Research -->
-                    <div class="mb-6">
-                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Patent Research</h3>
-                        <div class="space-y-3">
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-purple-100 dark:bg-purple-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fas fa-file-alt text-purple-500 text-sm"></i>
+                    <div class="mb-4 lg:mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3 text-sm lg:text-base">Patent Research</h3>
+                        <div class="space-y-2 lg:space-y-3">
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-purple-100 dark:bg-purple-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-file-alt text-purple-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Google Patents</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Existing patents database</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">Google Patents</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Existing patents database</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
                             </a>
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fas fa-balance-scale text-green-500 text-sm"></i>
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-balance-scale text-green-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">USPTO Database</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Official patent records</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">USPTO Database</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Official patent records</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
@@ -544,60 +582,29 @@
                     </div>
 
                     <!-- Developer Resources -->
-                    <div class="mb-6">
-                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Developer Resources</h3>
-                        <div class="space-y-3">
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-gray-100 dark:bg-gray-600 rounded-lg flex items-center justify-center">
-                                        <i class="fab fa-github text-gray-700 dark:text-gray-300 text-sm"></i>
+                    <div class="mb-4 lg:mb-6">
+                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3 text-sm lg:text-base">Developer Resources</h3>
+                        <div class="space-y-2 lg:space-y-3">
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-gray-100 dark:bg-gray-600 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-github text-gray-700 dark:text-gray-300 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">GitHub Projects</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Open source solutions</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">GitHub Projects</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Open source solutions</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>
                             </a>
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fab fa-stack-overflow text-orange-500 text-sm"></i>
+                            <a class="reference-link block p-2 lg:p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
+                                <div class="flex items-center space-x-2 lg:space-x-3">
+                                    <div class="w-6 h-6 lg:w-8 lg:h-8 bg-orange-100 dark:bg-orange-900/30 rounded-lg flex items-center justify-center">
+                                        <i class="fab fa-stack-overflow text-orange-500 text-xs lg:text-sm"></i>
                                     </div>
                                     <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Stack Overflow</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Technical discussions</p>
-                                    </div>
-                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Industry News -->
-                    <div class="mb-6">
-                        <h3 class="font-semibold text-gray-800 dark:text-gray-200 mb-3">Industry News</h3>
-                        <div class="space-y-3">
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-yellow-100 dark:bg-yellow-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fas fa-newspaper text-yellow-600 text-sm"></i>
-                                    </div>
-                                    <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">TechCrunch</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Latest tech news</p>
-                                    </div>
-                                    <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
-                                </div>
-                            </a>
-                            <a href="#" class="reference-link block p-3 bg-white dark:bg-gray-700 rounded-lg hover:shadow-md transition-all border border-gray-200 dark:border-gray-600 hover:border-blue-300 dark:hover:border-blue-500">
-                                <div class="flex items-center space-x-3">
-                                    <div class="w-8 h-8 bg-indigo-100 dark:bg-indigo-900/30 rounded-lg flex items-center justify-center">
-                                        <i class="fas fa-chart-line text-indigo-500 text-sm"></i>
-                                    </div>
-                                    <div class="flex-1">
-                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-sm">Market Reports</p>
-                                        <p class="text-xs text-gray-500 dark:text-gray-400">Industry analysis</p>
+                                        <p class="font-medium text-gray-900 dark:text-gray-100 text-xs lg:text-sm">Stack Overflow</p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden lg:block">Technical discussions</p>
                                     </div>
                                     <i class="fas fa-external-link-alt text-gray-400 text-xs"></i>
                                 </div>

@@ -307,9 +307,15 @@ class Problem2Patent {
     }
 
     setupUtilities() {
-        // Theme toggle (placeholder for future implementation)
+        // Theme toggle for desktop
         const themeToggle = document.getElementById('theme-toggle');
         themeToggle?.addEventListener('click', () => {
+            this.toggleTheme();
+        });
+
+        // Theme toggle for mobile
+        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
+        themeToggleMobile?.addEventListener('click', () => {
             this.toggleTheme();
         });
 
@@ -596,12 +602,23 @@ class Problem2Patent {
             `<span class="px-4 py-2 bg-gradient-to-r from-blue-100 to-indigo-100 dark:from-blue-900/50 dark:to-indigo-900/50 text-blue-800 dark:text-blue-200 rounded-full text-sm font-medium hover:shadow-md transition-shadow">${kw}</span>`
         ).join('');
 
-        // Update bookmark button
+        // Update bookmark buttons (both desktop and mobile)
         const bookmarkBtn = document.getElementById('bookmark-btn');
+        const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
         const isBookmarked = this.bookmarkedProblems.includes(problem.id);
-        bookmarkBtn.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'} mr-2"></i>
-                                <span class="text-sm font-medium text-gray-700 dark:text-gray-300">${isBookmarked ? 'Bookmarked' : 'Bookmark'}</span>`;
-        bookmarkBtn.dataset.problemId = problem.id;
+        
+        // Update desktop bookmark button
+        if (bookmarkBtn) {
+            bookmarkBtn.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'} mr-2"></i>
+                                    <span class="text-sm font-medium text-gray-700 dark:text-gray-300">${isBookmarked ? 'Bookmarked' : 'Bookmark'}</span>`;
+            bookmarkBtn.dataset.problemId = problem.id;
+        }
+        
+        // Update mobile bookmark button
+        if (bookmarkBtnMobile) {
+            bookmarkBtnMobile.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'}"></i>`;
+            bookmarkBtnMobile.dataset.problemId = problem.id;
+        }
 
         // Generate dynamic reference links
         this.generateReferenceLinks(problem);
@@ -651,9 +668,7 @@ class Problem2Patent {
             referenceLinks[6].href = `https://stackoverflow.com/search?q=${searchTerms}`;
             referenceLinks[6].target = '_blank';
             
-            // TechCrunch
-            referenceLinks[7].href = `https://search.techcrunch.com/search?query=${domainTerms}`;
-            referenceLinks[7].target = '_blank';
+
         }
     }
 
@@ -877,33 +892,63 @@ class Problem2Patent {
     toggleTheme() {
         const html = document.documentElement;
         const themeToggle = document.getElementById('theme-toggle');
+        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
         const currentTheme = localStorage.getItem('theme');
         
         if (currentTheme === 'dark') {
             html.classList.remove('dark');
             localStorage.setItem('theme', 'light');
-            themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600"></i>';
+            // Update desktop button
+            if (themeToggle) {
+                themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+            }
+            // Update mobile button
+            if (themeToggleMobile) {
+                themeToggleMobile.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+            }
         } else {
             html.classList.add('dark');
             localStorage.setItem('theme', 'dark');
-            themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            // Update desktop button
+            if (themeToggle) {
+                themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            }
+            // Update mobile button
+            if (themeToggleMobile) {
+                themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            }
         }
     }
 
     initializeTheme() {
         const html = document.documentElement;
         const themeToggle = document.getElementById('theme-toggle');
+        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
         const savedTheme = localStorage.getItem('theme');
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         
         if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
             html.classList.add('dark');
             localStorage.setItem('theme', 'dark');
-            themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            // Update desktop button
+            if (themeToggle) {
+                themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            }
+            // Update mobile button
+            if (themeToggleMobile) {
+                themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            }
         } else {
             html.classList.remove('dark');
             localStorage.setItem('theme', 'light');
-            themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600"></i>';
+            // Update desktop button
+            if (themeToggle) {
+                themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+            }
+            // Update mobile button
+            if (themeToggleMobile) {
+                themeToggleMobile.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+            }
         }
     }
 
