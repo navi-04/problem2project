@@ -14,6 +14,8 @@ class Problem2Patent {
 
     async init() {
         try {
+            // Initialize theme first
+            this.initializeTheme();
             // Load problems data using the data manager
             await loadProblemsData();
             this.loadData();
@@ -64,17 +66,17 @@ class Problem2Patent {
         cardDiv.setAttribute('data-domain', domainId);
 
         cardDiv.innerHTML = `
-            <div class="relative overflow-hidden bg-gradient-to-br ${domainInfo.gradient} rounded-2xl p-6 h-full cursor-pointer transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-${domainInfo.color}-100 hover:border-${domainInfo.color}-300">
-                <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-${domainInfo.color}-400/10 to-${domainInfo.color === 'yellow' ? 'amber' : domainInfo.color}-400/10 rounded-full -translate-y-16 translate-x-16"></div>
+            <div class="relative overflow-hidden bg-gradient-to-br ${domainInfo.gradient} dark:from-gray-800 dark:to-gray-700 rounded-2xl p-6 h-full cursor-pointer transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-${domainInfo.color}-100 dark:border-gray-600 hover:border-${domainInfo.color}-300 dark:hover:border-${domainInfo.color}-400">
+                <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-${domainInfo.color}-400/10 to-${domainInfo.color === 'yellow' ? 'amber' : domainInfo.color}-400/10 dark:from-${domainInfo.color}-400/20 dark:to-${domainInfo.color === 'yellow' ? 'amber' : domainInfo.color}-400/20 rounded-full -translate-y-16 translate-x-16"></div>
                 <div class="relative z-10">
                     <div class="w-12 h-12 bg-gradient-to-br ${domainInfo.iconGradient} rounded-xl flex items-center justify-center mb-4">
                         <i class="${domainInfo.icon} text-white text-xl"></i>
                     </div>
-                    <h3 class="font-bold text-lg text-gray-900 mb-2">${domainInfo.shortName}</h3>
-                    <p class="text-gray-600 text-sm mb-4">${domainInfo.description}</p>
+                    <h3 class="font-bold text-lg text-gray-900 dark:text-gray-100 mb-2">${domainInfo.shortName}</h3>
+                    <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${domainInfo.description}</p>
                     <div class="flex items-center justify-between">
-                        <span class="text-${domainInfo.textColor} font-semibold" id="count-${domainId}">0 problems</span>
-                        <i class="fas fa-arrow-right text-gray-400 group-hover:text-${domainInfo.textColor.replace('-600', '-500')} group-hover:translate-x-1 transition-all"></i>
+                        <span class="text-${domainInfo.textColor} dark:text-${domainInfo.textColor.replace('-600', '-400')} font-semibold" id="count-${domainId}">0 problems</span>
+                        <i class="fas fa-arrow-right text-gray-400 dark:text-gray-500 group-hover:text-${domainInfo.textColor.replace('-600', '-500')} dark:group-hover:text-${domainInfo.textColor.replace('-600', '-400')} group-hover:translate-x-1 transition-all"></i>
                     </div>
                 </div>
             </div>
@@ -474,7 +476,7 @@ class Problem2Patent {
         const isBookmarked = this.bookmarkedProblems.includes(problem.id);
         
         if (this.currentView === 'list') {
-            card.className = 'problem-card bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 hover:border-blue-200';
+            card.className = 'problem-card bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 dark:border-gray-700 hover:border-blue-200 dark:hover:border-blue-500';
             card.innerHTML = `
                 <div class="flex items-start justify-between">
                     <div class="flex-1">
@@ -483,58 +485,58 @@ class Problem2Patent {
                                 <i class="fas fa-lightbulb text-white text-sm"></i>
                             </div>
                             <div>
-                                <h3 class="text-xl font-bold text-gray-900">${problem.title}</h3>
-                                <p class="text-sm text-gray-500">Problem #${problem.id}</p>
+                                <h3 class="text-xl font-bold text-gray-900 dark:text-gray-100">${problem.title}</h3>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">Problem #${problem.id}</p>
                             </div>
                         </div>
-                        <p class="text-gray-600 mb-4 line-clamp-2">${problem.description}</p>
+                        <p class="text-gray-600 dark:text-gray-300 mb-4 line-clamp-2">${problem.description}</p>
                         <div class="flex flex-wrap gap-2">
                             ${problem.keywords.slice(0, 4).map(kw => 
-                                `<span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">${kw}</span>`
+                                `<span class="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm">${kw}</span>`
                             ).join('')}
-                            ${problem.keywords.length > 4 ? `<span class="px-3 py-1 bg-gray-100 text-gray-600 rounded-full text-sm">+${problem.keywords.length - 4} more</span>` : ''}
+                            ${problem.keywords.length > 4 ? `<span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 rounded-full text-sm">+${problem.keywords.length - 4} more</span>` : ''}
                         </div>
                     </div>
                     <div class="flex flex-col space-y-2 ml-4">
-                        <button class="bookmark-btn p-2 hover:bg-gray-100 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400'}" data-problem-id="${problem.id}">
+                        <button class="bookmark-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400 dark:text-gray-500'}" data-problem-id="${problem.id}">
                             <i class="fas fa-bookmark"></i>
                         </button>
-                        <button class="share-btn p-2 hover:bg-gray-100 rounded-lg transition-colors text-gray-400">
+                        <button class="share-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors text-gray-400 dark:text-gray-500">
                             <i class="fas fa-share-alt"></i>
                         </button>
                     </div>
                 </div>
             `;
         } else {
-            card.className = 'problem-card group bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 hover:border-blue-200 hover:-translate-y-1';
+            card.className = 'problem-card group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 dark:border-gray-700 hover:border-blue-200 dark:hover:border-blue-500 hover:-translate-y-1';
             card.innerHTML = `
                 <div class="flex items-start justify-between mb-4">
                     <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center">
                         <i class="fas fa-lightbulb text-white"></i>
                     </div>
                     <div class="flex space-x-1">
-                        <button class="bookmark-btn p-2 hover:bg-gray-100 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400'}" data-problem-id="${problem.id}">
+                        <button class="bookmark-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400 dark:text-gray-500'}" data-problem-id="${problem.id}">
                             <i class="fas fa-bookmark text-sm"></i>
                         </button>
-                        <button class="share-btn p-2 hover:bg-gray-100 rounded-lg transition-colors text-gray-400">
+                        <button class="share-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors text-gray-400 dark:text-gray-500">
                             <i class="fas fa-share-alt text-sm"></i>
                         </button>
                     </div>
                 </div>
                 
-                <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">${problem.title}</h3>
-                <p class="text-gray-600 mb-4 line-clamp-3">${problem.description}</p>
+                <h3 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-3 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">${problem.title}</h3>
+                <p class="text-gray-600 dark:text-gray-300 mb-4 line-clamp-3">${problem.description}</p>
                 
                 <div class="flex flex-wrap gap-2 mb-4">
                     ${problem.keywords.slice(0, 3).map(kw => 
-                        `<span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">${kw}</span>`
+                        `<span class="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm">${kw}</span>`
                     ).join('')}
-                    ${problem.keywords.length > 3 ? `<span class="px-3 py-1 bg-gray-100 text-gray-600 rounded-full text-sm">+${problem.keywords.length - 3}</span>` : ''}
+                    ${problem.keywords.length > 3 ? `<span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 rounded-full text-sm">+${problem.keywords.length - 3}</span>` : ''}
                 </div>
                 
                 <div class="flex items-center justify-between">
-                    <span class="text-sm text-gray-500">Problem #${problem.id}</span>
-                    <i class="fas fa-arrow-right text-gray-400 group-hover:text-blue-500 group-hover:translate-x-1 transition-all"></i>
+                    <span class="text-sm text-gray-500 dark:text-gray-400">Problem #${problem.id}</span>
+                    <i class="fas fa-arrow-right text-gray-400 dark:text-gray-500 group-hover:text-blue-500 dark:group-hover:text-blue-400 group-hover:translate-x-1 transition-all"></i>
                 </div>
             `;
         }
@@ -821,16 +823,35 @@ class Problem2Patent {
     }
 
     toggleTheme() {
-        // Placeholder for dark/light theme toggle
-        const body = document.body;
+        const html = document.documentElement;
         const themeToggle = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme');
         
-        if (body.classList.contains('dark-theme')) {
-            body.classList.remove('dark-theme');
+        if (currentTheme === 'dark') {
+            html.classList.remove('dark');
+            localStorage.setItem('theme', 'light');
             themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600"></i>';
         } else {
-            body.classList.add('dark-theme');
-            themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-500"></i>';
+            html.classList.add('dark');
+            localStorage.setItem('theme', 'dark');
+            themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+        }
+    }
+
+    initializeTheme() {
+        const html = document.documentElement;
+        const themeToggle = document.getElementById('theme-toggle');
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+            html.classList.add('dark');
+            localStorage.setItem('theme', 'dark');
+            themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+        } else {
+            html.classList.remove('dark');
+            localStorage.setItem('theme', 'light');
+            themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600"></i>';
         }
     }
 
