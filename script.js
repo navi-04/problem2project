@@ -24,6 +24,8 @@ class Problem2Patent {
             this.updateProblemCounts();
             this.hideLoadingScreen();
             this.setupIntersectionObserver();
+            // Handle shared problem links
+            this.handleSharedProblemLink();
         } catch (error) {
             console.error('Failed to initialize application:', error);
             this.hideLoadingScreen();
@@ -121,6 +123,11 @@ class Problem2Patent {
         
         // Utility functions
         this.setupUtilities();
+        
+        // Hash change handling for shared links
+        window.addEventListener('hashchange', () => {
+            this.handleSharedProblemLink();
+        });
     }
 
     setupNavigation() {
@@ -814,31 +821,37 @@ class Problem2Patent {
     shareProblem() {
         if (!this.currentProblem) return;
         
+        // Create clean base URL without any existing hash
+        const baseUrl = window.location.origin + window.location.pathname;
+        const shareUrl = `${baseUrl}#problem-${this.currentProblem.id}`;
+        
         if (navigator.share) {
             navigator.share({
                 title: this.currentProblem.title,
                 text: this.currentProblem.description,
-                url: window.location.href + `#problem-${this.currentProblem.id}`
+                url: shareUrl
             });
         } else {
             // Fallback to clipboard
-            const url = window.location.href + `#problem-${this.currentProblem.id}`;
-            navigator.clipboard.writeText(url).then(() => {
+            navigator.clipboard.writeText(shareUrl).then(() => {
                 alert('Problem link copied to clipboard!');
             });
         }
     }
 
     shareSpecificProblem(problem) {
+        // Create clean base URL without any existing hash
+        const baseUrl = window.location.origin + window.location.pathname;
+        const shareUrl = `${baseUrl}#problem-${problem.id}`;
+        
         if (navigator.share) {
             navigator.share({
                 title: problem.title,
                 text: problem.description,
-                url: window.location.href + `#problem-${problem.id}`
+                url: shareUrl
             });
         } else {
-            const url = window.location.href + `#problem-${problem.id}`;
-            navigator.clipboard.writeText(url).then(() => {
+            navigator.clipboard.writeText(shareUrl).then(() => {
                 alert('Problem link copied to clipboard!');
             });
         }
@@ -887,6 +900,26 @@ class Problem2Patent {
             alert(`Thank you ${data.name}! Your message has been sent. We'll get back to you soon.`);
             form.reset();
         }, 1000);
+    }
+
+    handleSharedProblemLink() {
+        // Check if there's a hash in the URL for a shared problem
+        const hash = window.location.hash;
+        if (hash && hash.startsWith('#problem-')) {
+            const problemId = hash.substring(9); // Remove '#problem-' prefix
+            
+            // Find the problem by ID
+            const problem = this.allProblems.find(p => p.id.toString() === problemId);
+            
+            if (problem) {
+                // Wait a bit for the UI to be ready, then show the problem
+                setTimeout(() => {
+                    this.showProblemDetails(problem);
+                }, 500);
+            } else {
+                console.warn(`Problem with ID ${problemId} not found`);
+            }
+        }
     }
 
     toggleTheme() {
