@@ -2767,43 +2767,708 @@ const PROBLEMS_DATA = {
 
 // CHEMISTRY (Domain 4) - 60+ problems
 {
-            "id": 301,
-            "title": "Molecular Structure Predictor",
-            "domain": "4",
-            "description": "Develop an AI system that predicts 3D molecular structures from chemical formulas and analyzes their properties and potential reactions.",
-            "keywords": ["Molecular Modeling", "Structure Prediction", "AI", "Chemical Properties"]
-        },
-        {
-            "id": 302,
-            "title": "Chemical Reaction Pathway Optimizer",
-            "domain": "4",
-            "description": "Create a tool that finds optimal reaction pathways for chemical synthesis, considering yield, cost, environmental impact, and safety.",
-            "keywords": ["Chemical Synthesis", "Optimization", "Green Chemistry", "Reaction Pathways"]
-        },
-        {
-            "id": 303,
-            "title": "Spectroscopy Data Analyzer",
-            "domain": "4",
-            "description": "Build an intelligent system that analyzes spectroscopic data (NMR, IR, MS) to identify unknown compounds and suggest structural information.",
-            "keywords": ["Spectroscopy", "Data Analysis", "Compound Identification", "Structure Elucidation"]
-        },
-        {
-            "id": 304,
-            "title": "Lab Safety Risk Assessment Tool",
-            "domain": "4",
-            "description": "Design a comprehensive tool that assesses chemical safety risks in laboratory environments and provides safety recommendations and protocols.",
-            "keywords": ["Lab Safety", "Risk Assessment", "Chemical Hazards", "Safety Protocols"]
-        },
-        {
-            "id": 305,
-            "title": "Polymer Properties Predictor",
-            "domain": "4",
-            "description": "Create a machine learning system that predicts polymer properties based on monomer structures and synthesis conditions.",
-            "keywords": ["Polymer Science", "Property Prediction", "Machine Learning", "Materials"]
-        },
+    "id": 301,
+    "title": "Molecular Structure Predictor",
+    "domain": "Chemistry / Computational Chemistry",
+    "description": "Predict 3D molecular structures from chemical formulas, visualize bond angles, and analyze stereochemistry interactively for research and learning purposes.",
+    "keywords": ["Molecular Modeling", "Structure Prediction", "AI", "Chemical Properties"]
+},
+{
+    "id": 302,
+    "title": "Chemical Reaction Pathway Optimizer",
+    "domain": "Chemical Engineering / Computational Chemistry",
+    "description": "Find optimal chemical synthesis pathways by analyzing yield, cost, safety, and environmental impact using AI-powered simulations.",
+    "keywords": ["Chemical Synthesis", "Optimization", "Green Chemistry", "Reaction Pathways"]
+},
+{
+    "id": 303,
+    "title": "Spectroscopy Data Analyzer",
+    "domain": "Analytical Chemistry / AI",
+    "description": "Analyze spectroscopy data (NMR, IR, MS) to identify compounds, suggest structures, and interpret key functional groups automatically.",
+    "keywords": ["Spectroscopy", "Data Analysis", "Compound Identification", "Structure Elucidation"]
+},
+{
+    "id": 304,
+    "title": "Lab Safety Risk Assessment Tool",
+    "domain": "Chemical Safety / AI",
+    "description": "Evaluate chemical inventories and lab setups to predict hazards, generate risk scores, and suggest preventive safety protocols.",
+    "keywords": ["Lab Safety", "Risk Assessment", "Chemical Hazards", "Safety Protocols"]
+},
+{
+    "id": 305,
+    "title": "Polymer Properties Predictor",
+    "domain": "Materials Science / Polymer Chemistry",
+    "description": "Predict thermal, mechanical, and chemical properties of polymers based on monomer composition and synthesis conditions.",
+    "keywords": ["Polymer Science", "Property Prediction", "Machine Learning", "Materials"]
+},
+{
+    "id": 306,
+    "title": "Chemical Process Optimization Engine",
+    "domain": "Industrial Chemistry / Process Engineering",
+    "description": "Optimize chemical manufacturing processes for energy efficiency, yield improvement, and waste reduction through AI simulations.",
+    "keywords": ["Process Optimization", "Green Chemistry", "Manufacturing", "Efficiency"]
+},
+{
+    "id": 307,
+    "title": "Crystallography Structure Solver",
+    "domain": "Materials Science / Crystallography",
+    "description": "Solve crystal structures from X-ray diffraction patterns and visualize atomic arrangements in 3D.",
+    "keywords": ["Crystallography", "X-ray Diffraction", "Structure Determination", "Computational Chemistry"]
+},
+{
+    "id": 308,
+    "title": "Drug Metabolism Predictor",
+    "domain": "Pharmaceutical Chemistry / Computational Biology",
+    "description": "Predict how drugs metabolize in the body, identify metabolites, and estimate half-lives using AI.",
+    "keywords": ["Drug Metabolism", "Pharmacokinetics", "AI", "Pharmaceutical Chemistry"]
+},
+{
+    "id": 309,
+    "title": "AI-Powered Reaction Simulator",
+    "domain": "Chemistry / Computational Chemistry",
+    "description": "Simulate chemical reactions with AI by analyzing reactants and predicting products and mechanisms step by step.",
+    "keywords": ["Chemistry", "Reactions", "AI", "Visualization"]
+},
+{
+    "id": 310,
+    "title": "Smart Periodic Table Assistant",
+    "domain": "Chemistry / Education Technology",
+    "description": "Use AI to explain periodic trends, compare elements, and generate interactive quizzes on element properties.",
+    "keywords": ["Periodic Table", "Trends", "AI", "Learning"]
+},
+{
+    "id": 311,
+    "title": "Green Chemistry Analyzer",
+    "domain": "Environmental Chemistry",
+    "description": "Evaluate chemical reactions based on sustainability principles like atom economy, energy efficiency, and waste reduction.",
+    "keywords": ["Green Chemistry", "Sustainability", "Analysis", "Environment"]
+},
+{
+    "id": 312,
+    "title": "AI Tutor for Organic Mechanisms",
+    "domain": "Organic Chemistry / AI Education",
+    "description": "Guide students step by step through organic reaction mechanisms, illustrating electron movement and reaction pathways.",
+    "keywords": ["Organic Chemistry", "Mechanisms", "AI Tutor", "Education"]
+},
+{
+    "id": 313,
+    "title": "Molecular Property Predictor",
+    "domain": "Physical Chemistry / Machine Learning",
+    "description": "Predict properties like boiling point, solubility, or polarity using machine learning on molecular descriptors.",
+    "keywords": ["Chemistry", "Machine Learning", "Molecular Properties", "Prediction"]
+},
+{
+    "id": 314,
+    "title": "Virtual Chemistry Lab",
+    "domain": "Chemistry / Education Technology",
+    "description": "Perform digital lab experiments safely, observe reactions, and measure results without physical chemicals.",
+    "keywords": ["Virtual Lab", "Chemistry Education", "Safety", "Simulation"]
+},
+{
+    "id": 315,
+    "title": "Smart Stoichiometry Solver",
+    "domain": "Chemistry / Algorithms",
+    "description": "Automatically balance chemical equations and generate step-by-step stoichiometry calculations with explanations.",
+    "keywords": ["Stoichiometry", "Balancing", "Equations", "Algorithms"]
+},
+{
+    "id": 316,
+    "title": "AI-Based Spectroscopy Analyzer",
+    "domain": "Analytical Chemistry / AI",
+    "description": "Interpret spectroscopy data and suggest possible molecular structures while teaching peak interpretation.",
+    "keywords": ["Spectroscopy", "AI", "Structure Prediction", "Analytical Chemistry"]
+},
+{
+    "id": 317,
+    "title": "Pollution Impact Predictor",
+    "domain": "Environmental Chemistry",
+    "description": "Simulate the spread, persistence, and degradation of pollutants in soil, water, and air over time.",
+    "keywords": ["Pollution", "Simulation", "Environmental Chemistry", "Sustainability"]
+},
+{
+    "id": 318,
+    "title": "Drug Molecule Interaction Visualizer",
+    "domain": "Medicinal Chemistry / Computational Chemistry",
+    "description": "Simulate drug-protein interactions, visualize molecular docking, and study binding in 3D.",
+    "keywords": ["Drug Design", "Molecular Docking", "Medicinal Chemistry", "Visualization"]
+},
+{
+    "id": 319,
+    "title": "Chemistry Quiz Generator using AI",
+    "domain": "Chemistry / Education Technology",
+    "description": "Generate AI-based quizzes with multiple difficulty levels for various chemistry topics, including MCQs and numerical problems.",
+    "keywords": ["AI", "Quiz Generator", "Chemistry Education", "Assessment"]
+},
+{
+    "id": 320,
+    "title": "Reaction Kinetics Simulator",
+    "domain": "Physical Chemistry",
+    "description": "Simulate reaction kinetics by varying temperature, concentration, and catalyst to observe rate changes.",
+    "keywords": ["Reaction Kinetics", "Simulation", "Physical Chemistry"]
+},
+{
+    "id": 321,
+    "title": "Wastewater Chemical Analyzer",
+    "domain": "Environmental / Analytical Chemistry",
+    "description": "Analyze water samples, identify pollutants, and recommend purification techniques based on chemical properties.",
+    "keywords": ["Wastewater", "Pollution", "Chemistry", "Analysis"]
+},
+{
+    "id": 322,
+    "title": "Interactive Crystallography Explorer",
+    "domain": "Inorganic Chemistry / Materials Science",
+    "description": "Explore crystal structures, lattice arrangements, and X-ray diffraction patterns in 3D interactively.",
+    "keywords": ["Crystallography", "Visualization", "Materials Science", "Inorganic Chemistry"]
+},
+{
+    "id": 323,
+    "title": "AI-Powered Titration Assistant",
+    "domain": "Analytical Chemistry / Education",
+    "description": "Simulate acid-base and redox titrations, guide students to equivalence points, and explain calculations.",
+    "keywords": ["Titration", "AI", "Simulation", "Chemistry Education"]
+},
+{
+    "id": 324,
+    "title": "Chemical Hazard Prediction Tool",
+    "domain": "Industrial Chemistry / Safety",
+    "description": "Predict toxicity, flammability, and reactivity of chemicals using molecular data and historical records.",
+    "keywords": ["Chemical Safety", "Prediction", "Toxicity", "Industrial Chemistry"]
+},
+{
+    "id": 325,
+    "title": "Isotope Decay Simulator",
+    "domain": "Nuclear Chemistry / Education",
+    "description": "Model radioactive decay, half-life, and nuclear transmutations interactively with variable parameters.",
+    "keywords": ["Nuclear Chemistry", "Isotopes", "Simulation", "Half-Life"]
+},
+{
+    "id": 326,
+    "title": "Food Chemistry Analyzer",
+    "domain": "Applied Chemistry / Food Science",
+    "description": "Analyze food composition, identify additives, and provide nutritional and chemical stability insights.",
+    "keywords": ["Food Chemistry", "Nutrition", "Analysis", "Applied Chemistry"]
+},
+{
+    "id": 327,
+    "title": "Climate-Chemistry Interaction Model",
+    "domain": "Atmospheric Chemistry",
+    "description": "Simulate chemical interactions in the atmosphere and their effect on climate, greenhouse gases, and pollutants.",
+    "keywords": ["Atmospheric Chemistry", "Climate", "Simulation", "Environment"]
+},
+{
+    "id": 328,
+    "title": "Interactive Polymer Builder",
+    "domain": "Polymer Chemistry / Materials Science",
+    "description": "Build monomers, simulate polymerization, and visualize polymer structures and properties interactively.",
+    "keywords": ["Polymers", "Simulation", "Chemistry Education", "Materials"]
+},
+{
+    "id": 329,
+    "title": "Smart Lab Notebook for Chemists",
+    "domain": "Chemistry / Research Tools",
+    "description": "Log experiments digitally, convert units, visualize molecules, and provide automated safety warnings.",
+    "keywords": ["Lab Notebook", "Chemistry", "Automation", "Research Tools"]
+},
+{
+    "id": 330,
+    "title": "AI Catalyst Finder",
+    "domain": "Catalysis / Computational Chemistry",
+    "description": "Predict suitable catalysts for reactions, estimate efficiency, and suggest cost-effective alternatives using AI.",
+    "keywords": ["Catalysis", "AI", "Chemistry", "Prediction"]
+},
+{
+    "id": 331,
+    "title": "AI-Assisted Enzyme Design",
+    "domain": "Biochemistry / Computational Chemistry",
+    "description": "Design novel enzymes with enhanced activity or specificity using AI models that predict protein folding, active site geometry, and substrate interactions.",
+    "keywords": ["Biochemistry", "Enzyme Design", "AI", "Protein Engineering"]
+},
+{
+    "id": 332,
+    "title": "Photovoltaic Material Predictor",
+    "domain": "Materials Chemistry / Renewable Energy",
+    "description": "Use machine learning to predict the efficiency and stability of novel photovoltaic materials for solar energy applications.",
+    "keywords": ["Materials Chemistry", "Machine Learning", "Photovoltaics", "Energy"]
+},
+{
+    "id": 333,
+    "title": "AI-Based Chemical Toxicity Predictor",
+    "domain": "Environmental Chemistry / AI",
+    "description": "Predict toxicity and environmental impact of new chemicals using AI models trained on molecular structure and historical toxicological data.",
+    "keywords": ["Environmental Chemistry", "Toxicity Prediction", "AI", "Safety"]
+},
+{
+    "id": 334,
+    "title": "Dynamic Molecular Interaction Simulator",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Simulate interactions between multiple molecules in solution, predicting hydrogen bonding, aggregation, and complex formation in real time.",
+    "keywords": ["Physical Chemistry", "Molecular Interactions", "Simulation", "Computational Chemistry"]
+},
+{
+    "id": 335,
+    "title": "AI-Powered Battery Electrolyte Designer",
+    "domain": "Electrochemistry / Materials Science",
+    "description": "Design optimized electrolytes for batteries and supercapacitors, predicting conductivity, stability, and energy density using AI.",
+    "keywords": ["Electrochemistry", "Materials Science", "AI", "Energy Storage"]
+},
+{
+    "id": 336,
+    "title": "Virtual Chemical Waste Management Tool",
+    "domain": "Industrial Chemistry / Environmental Science",
+    "description": "Simulate chemical waste treatment processes, predict by-products, and suggest environmentally safe disposal or recycling strategies.",
+    "keywords": ["Industrial Chemistry", "Waste Management", "Simulation", "Environmental Safety"]
+},
+{
+    "id": 337,
+    "title": "Smart Chemical Reaction Tracker",
+    "domain": "Analytical Chemistry / AI",
+    "description": "Monitor and predict reaction progress in real time by analyzing chemical data streams from sensors and lab equipment using AI.",
+    "keywords": ["Analytical Chemistry", "Reaction Monitoring", "AI", "Data Analysis"]
+},
+{
+    "id": 338,
+    "title": "AI-Powered Cosmetic Ingredient Analyzer",
+    "domain": "Cosmetic Chemistry / AI",
+    "description": "Predict the stability, efficacy, and potential allergenicity of cosmetic formulations based on chemical composition using AI models.",
+    "keywords": ["Cosmetic Chemistry", "AI", "Formulation Analysis", "Prediction"]
+},
+{
+    "id": 339,
+    "title": "Interactive Redox Reaction Simulator",
+    "domain": "Inorganic Chemistry / Education",
+    "description": "Visualize oxidation-reduction reactions interactively, showing electron transfer, oxidation states, and potential energy changes step by step.",
+    "keywords": ["Redox Reactions", "Simulation", "Education", "Inorganic Chemistry"]
+},
+{
+    "id": 340,
+    "title": "AI-Driven Polymer Crosslinking Predictor",
+    "domain": "Polymer Chemistry / Materials Science",
+    "description": "Predict polymer crosslinking density and its effect on mechanical, thermal, and chemical properties using AI models.",
+    "keywords": ["Polymer Chemistry", "Materials Science", "AI", "Property Prediction"]
+},
+{
+    "id": 341,
+    "title": "Smart Microplastic Detection Tool",
+    "domain": "Environmental Chemistry / Analytical Chemistry",
+    "description": "Develop a tool to detect and quantify microplastics in water and soil, predicting environmental accumulation and degradation.",
+    "keywords": ["Microplastics", "Detection", "Environmental Chemistry", "Analytical Chemistry"]
+},
+{
+    "id": 342,
+    "title": "AI-Powered Drug Interaction Predictor",
+    "domain": "Pharmaceutical Chemistry / Computational Biology",
+    "description": "Predict potential drug-drug interactions and metabolic conflicts using molecular data and AI modeling.",
+    "keywords": ["Pharmaceutical Chemistry", "AI", "Drug Interactions", "Pharmacology"]
+},
+{
+    "id": 343,
+    "title": "Smart Food Additive Stability Simulator",
+    "domain": "Food Chemistry / Computational Chemistry",
+    "description": "Simulate the chemical stability of food additives under different conditions such as heat, light, and pH using AI-based predictive models.",
+    "keywords": ["Food Chemistry", "Additive Stability", "Simulation", "AI"]
+},
+{
+    "id": 344,
+    "title": "AI-Based Catalyst Efficiency Predictor",
+    "domain": "Catalysis / Materials Science",
+    "description": "Predict catalyst activity and selectivity for chemical reactions, optimizing for yield, cost, and environmental impact using AI.",
+    "keywords": ["Catalysis", "AI", "Reaction Optimization", "Materials Science"]
+},
+{
+    "id": 345,
+    "title": "Interactive Electrochemical Cell Simulator",
+    "domain": "Electrochemistry / Education",
+    "description": "Simulate galvanic and electrolytic cells interactively, allowing users to change electrodes, electrolytes, and conditions to observe voltage and current changes.",
+    "keywords": ["Electrochemistry", "Simulation", "Education", "Interactive Learning"]
+},
+{
+    "id": 346,
+    "title": "AI-Driven Green Solvent Optimizer",
+    "domain": "Green Chemistry / Computational Chemistry",
+    "description": "Identify environmentally friendly solvents for chemical reactions while maintaining efficiency, cost-effectiveness, and safety using AI models.",
+    "keywords": ["Green Chemistry", "AI", "Solvent Design", "Sustainability"]
+},
+{
+    "id": 347,
+    "title": "Photochemical Reaction Pathway Simulator",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Simulate photochemical reactions under different wavelengths and light intensities, visualizing excited states, reaction pathways, and energy transitions.",
+    "keywords": ["Photochemistry", "Simulation", "Physical Chemistry", "Visualization"]
+},
+{
+    "id": 348,
+    "title": "Smart Alloy Property Predictor",
+    "domain": "Materials Chemistry / Computational Modeling",
+    "description": "Predict mechanical, thermal, and corrosion resistance properties of new alloys using AI and molecular simulation techniques.",
+    "keywords": ["Alloy Design", "Materials Science", "AI", "Property Prediction"]
+},
+{
+    "id": 349,
+    "title": "AI-Based Atmospheric Chemical Interaction Model",
+    "domain": "Atmospheric Chemistry / Environmental Science",
+    "description": "Simulate chemical interactions of pollutants, aerosols, and greenhouse gases in the atmosphere to predict environmental and climate impact.",
+    "keywords": ["Atmospheric Chemistry", "AI", "Environmental Simulation", "Climate"]
+},
+{
+    "id": 350,
+    "title": "Interactive Nanomaterial Property Explorer",
+    "domain": "Nanochemistry / Materials Science",
+    "description": "Visualize nanoscale materials and predict their optical, electronic, and mechanical properties interactively using computational tools.",
+    "keywords": ["Nanochemistry", "Materials Science", "Simulation", "Visualization"]
+},
+{
+    "id": 351,
+    "title": "AI-Powered Enzyme-Substrate Interaction Predictor",
+    "domain": "Biochemistry / Computational Chemistry",
+    "description": "Predict enzyme-substrate interactions using AI to design enzymes with higher specificity and catalytic efficiency.",
+    "keywords": ["Enzyme Design", "AI", "Biochemistry", "Protein Engineering"]
+},
+{
+    "id": 352,
+    "title": "Smart Photocatalyst Efficiency Analyzer",
+    "domain": "Physical Chemistry / Materials Science",
+    "description": "Analyze and predict the efficiency of photocatalysts for environmental applications like pollutant degradation using AI.",
+    "keywords": ["Photocatalysis", "Materials Science", "AI", "Environmental Chemistry"]
+},
+{
+    "id": 353,
+    "title": "AI-Driven Synthetic Pathway Designer",
+    "domain": "Organic Chemistry / Computational Chemistry",
+    "description": "Design optimal synthetic pathways for target molecules considering cost, safety, yield, and environmental impact using AI.",
+    "keywords": ["Organic Chemistry", "AI", "Synthetic Chemistry", "Pathway Optimization"]
+},
+{
+    "id": 354,
+    "title": "Interactive Biopolymer Visualizer",
+    "domain": "Polymer Chemistry / Education",
+    "description": "Visualize structure, folding, and physical properties of biopolymers like proteins, nucleic acids, and polysaccharides in 3D.",
+    "keywords": ["Biopolymers", "Visualization", "Polymer Chemistry", "Education"]
+},
+{
+    "id": 355,
+    "title": "AI-Based Food Additive Interaction Predictor",
+    "domain": "Food Chemistry / AI",
+    "description": "Predict interactions between food additives and nutrients, assessing stability, flavor compatibility, and potential hazards.",
+    "keywords": ["Food Chemistry", "AI", "Additive Interaction", "Prediction"]
+},
+{
+    "id": 356,
+    "title": "Smart Catalyst Lifetime Predictor",
+    "domain": "Catalysis / Materials Chemistry",
+    "description": "Predict the operational lifetime and deactivation pathways of catalysts under different reaction conditions using AI.",
+    "keywords": ["Catalysis", "AI", "Materials Chemistry", "Reaction Optimization"]
+},
+{
+    "id": 357,
+    "title": "AI-Powered Solubility Prediction Tool",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Predict solubility of novel compounds in multiple solvents and under varying temperature and pressure conditions using AI.",
+    "keywords": ["Solubility", "Physical Chemistry", "AI", "Computational Chemistry"]
+},
+{
+    "id": 358,
+    "title": "Virtual Chemical Toxicology Lab",
+    "domain": "Environmental Chemistry / Education",
+    "description": "Simulate chemical toxicity effects on biological systems and ecosystems to teach safe chemical handling and hazard assessment.",
+    "keywords": ["Toxicology", "Simulation", "Environmental Chemistry", "Education"]
+},
+{
+    "id": 359,
+    "title": "Interactive Electrochemical Sensor Simulator",
+    "domain": "Electrochemistry / Analytical Chemistry",
+    "description": "Simulate the response of electrochemical sensors for detecting ions or pollutants under different conditions in real-time.",
+    "keywords": ["Electrochemistry", "Sensors", "Simulation", "Analytical Chemistry"]
+},
+{
+    "id": 360,
+    "title": "AI-Powered Drug Solubility Predictor",
+    "domain": "Pharmaceutical Chemistry / Computational Chemistry",
+    "description": "Predict solubility, dissolution rate, and bioavailability of drug candidates using molecular descriptors and AI models.",
+    "keywords": ["Drug Design", "AI", "Pharmaceutical Chemistry", "Solubility Prediction"]
+},
+{
+    "id": 361,
+    "title": "Smart Microbial Metabolism Simulator",
+    "domain": "Biochemistry / Computational Biology",
+    "description": "Simulate microbial metabolism and predict product formation under various nutrient and environmental conditions.",
+    "keywords": ["Microbiology", "Metabolism", "Simulation", "AI"]
+},
+{
+    "id": 362,
+    "title": "Interactive Molecular Orbital Visualizer",
+    "domain": "Theoretical Chemistry / Education",
+    "description": "Visualize molecular orbitals, electron density, and energy levels for molecules interactively to aid in understanding quantum chemistry.",
+    "keywords": ["Quantum Chemistry", "Visualization", "Education", "Molecular Orbitals"]
+},
+{
+    "id": 363,
+    "title": "AI-Powered Green Solvent Selector",
+    "domain": "Green Chemistry / AI",
+    "description": "Select environmentally friendly solvents for chemical reactions while optimizing yield, safety, and cost using AI predictions.",
+    "keywords": ["Green Chemistry", "AI", "Solvent Design", "Sustainability"]
+},
+{
+    "id": 364,
+    "title": "Interactive Chemical Equilibrium Simulator",
+    "domain": "Physical Chemistry / Education",
+    "description": "Simulate and visualize chemical equilibria in real-time, allowing manipulation of concentration, temperature, and pressure.",
+    "keywords": ["Chemical Equilibrium", "Simulation", "Physical Chemistry", "Education"]
+},
+{
+    "id": 365,
+    "title": "AI-Powered Alloy Property Optimizer",
+    "domain": "Materials Chemistry / Computational Chemistry",
+    "description": "Predict mechanical, thermal, and corrosion resistance properties of new metal alloys using AI and computational models.",
+    "keywords": ["Alloy Design", "AI", "Materials Chemistry", "Property Prediction"]
+},
+{
+    "id": 366,
+    "title": "Smart Nanoparticle Toxicity Predictor",
+    "domain": "Nanochemistry / Environmental Science",
+    "description": "Predict potential toxicity of nanoparticles in biological and environmental systems using molecular descriptors and AI.",
+    "keywords": ["Nanochemistry", "Toxicity", "AI", "Environmental Chemistry"]
+},
+{
+    "id": 367,
+    "title": "AI-Based Reaction Kinetics Predictor",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Predict rate constants, reaction mechanisms, and intermediates of chemical reactions using AI and computational models.",
+    "keywords": ["Reaction Kinetics", "AI", "Physical Chemistry", "Simulation"]
+},
+{
+    "id": 368,
+    "title": "Interactive Biochemical Pathway Explorer",
+    "domain": "Biochemistry / Education",
+    "description": "Explore complex biochemical pathways interactively, visualizing metabolites, enzymes, and regulatory interactions in real-time.",
+    "keywords": ["Biochemistry", "Pathways", "Visualization", "Education"]
+},
+{
+    "id": 369,
+    "title": "Smart Battery Material Simulator",
+    "domain": "Electrochemistry / Materials Science",
+    "description": "Simulate performance, energy density, and degradation of novel battery materials under different charging/discharging cycles.",
+    "keywords": ["Electrochemistry", "Battery Materials", "Simulation", "Materials Science"]
+},
+{
+    "id": 370,
+    "title": "AI-Powered Agrochemical Optimizer",
+    "domain": "Agricultural Chemistry / AI",
+    "description": "Optimize pesticide or fertilizer composition for effectiveness and environmental safety using AI modeling of chemical interactions.",
+    "keywords": ["Agricultural Chemistry", "AI", "Optimization", "Environmental Safety"]
+},
+{
+    "id": 371,
+    "title": "Smart Photochemical Reaction Simulator",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Simulate photochemical reactions under varying light wavelengths and intensities, visualizing intermediates and energy changes.",
+    "keywords": ["Photochemistry", "Simulation", "Physical Chemistry", "Visualization"]
+},
+{
+    "id": 372,
+    "title": "AI-Based Protein Stability Predictor",
+    "domain": "Biochemistry / Computational Biology",
+    "description": "Predict stability and folding patterns of proteins under different pH, temperature, and solvent conditions using AI.",
+    "keywords": ["Protein Chemistry", "AI", "Biochemistry", "Stability Prediction"]
+},
+{
+    "id": 373,
+    "title": "Interactive Polymerization Visualizer",
+    "domain": "Polymer Chemistry / Education",
+    "description": "Simulate polymerization reactions, chain growth, and property evolution interactively for different monomer types.",
+    "keywords": ["Polymer Chemistry", "Simulation", "Visualization", "Education"]
+},
+{
+    "id": 374,
+    "title": "Smart Microbial Biosensor Design",
+    "domain": "Biochemistry / Environmental Science",
+    "description": "Design microbial biosensors for detecting environmental pollutants, optimizing sensitivity and specificity using AI models.",
+    "keywords": ["Biosensors", "Microbiology", "AI", "Environmental Chemistry"]
+},
+{
+    "id": 375,
+    "title": "AI-Powered Pharmaceutical Stability Predictor",
+    "domain": "Pharmaceutical Chemistry / AI",
+    "description": "Predict chemical and physical stability of drug formulations under different storage conditions using AI-based modeling.",
+    "keywords": ["Pharmaceutical Chemistry", "AI", "Drug Stability", "Prediction"]
+},
+{
+    "id": 376,
+    "title": "Interactive Molecular Docking Simulator",
+    "domain": "Computational Chemistry / Education",
+    "description": "Visualize molecular docking of ligands and proteins interactively, predicting binding affinity and interactions in 3D.",
+    "keywords": ["Molecular Docking", "Simulation", "Computational Chemistry", "Education"]
+},
+{
+    "id": 377,
+    "title": "Smart Biodegradation Pathway Predictor",
+    "domain": "Environmental Chemistry / Biochemistry",
+    "description": "Predict microbial and chemical degradation pathways of pollutants in soil and water environments using AI models.",
+    "keywords": ["Biodegradation", "Environmental Chemistry", "AI", "Pathway Predictioon"]
+},
+{
+    "id": 378,
+    "title": "AI-Powered Enzyme Evolution Simulator",
+    "domain": "Biochemistry / Computational Chemistry",
+    "description": "Simulate directed evolution of enzymes in silico, predicting mutations that improve activity, stability, or substrate specificity.",
+    "keywords": ["Enzyme Engineering", "AI", "Biochemistry", "Simulation"]
+},
+{
+    "id": 379,
+    "title": "Smart Nanocatalyst Design Platform",
+    "domain": "Nanochemistry / Materials Science",
+    "description": "Design nanoscale catalysts for chemical reactions, predicting surface activity, selectivity, and stability using computational tools.",
+    "keywords": ["Nanochemistry", "Catalysis", "AI", "Materials Science"]
+},
+{
+    "id": 380,
+    "title": "AI-Based Solvent-Free Reaction Optimizer",
+    "domain": "Green Chemistry / Organic Chemistry",
+    "description": "Optimize solvent-free chemical reactions for yield and efficiency, predicting reaction pathways and energy profiles using AI.",
+    "keywords": ["Green Chemistry", "AI", "Organic Chemistry", "Reaction Optimization"]
+},
+{
+    "id": 381,
+    "title": "Interactive Protein-Ligand Binding Explorer",
+    "domain": "Biochemistry / Computational Biology",
+    "description": "Visualize and predict binding interactions between proteins and ligands, including hydrogen bonding, hydrophobic interactions, and conformational changes.",
+    "keywords": ["Protein Chemistry", "Molecular Docking", "Simulation", "AI"]
+},
+{
+    "id": 382,
+    "title": "AI-Powered Environmental Pollutant Degrader",
+    "domain": "Environmental Chemistry / Biochemistry",
+    "description": "Predict microbial or chemical pathways for degradation of novel environmental pollutants in soil or water using AI.",
+    "keywords": ["Environmental Chemistry", "Biodegradation", "AI", "Pollutant Analysis"]
+},
+{
+    "id": 383,
+    "title": "Smart Photovoltaic Polymer Designer",
+    "domain": "Materials Chemistry / Renewable Energy",
+    "description": "Design polymeric materials for solar cells and predict their efficiency, stability, and light absorption properties using AI.",
+    "keywords": ["Polymer Chemistry", "Renewable Energy", "AI", "Materials Science"]
+},
+{
+    "id": 384,
+    "title": "AI-Based Toxic Gas Detector Simulation",
+    "domain": "Analytical Chemistry / Environmental Safety",
+    "description": "Simulate chemical sensors for detecting toxic gases, predicting sensitivity, selectivity, and response time using AI models.",
+    "keywords": ["Analytical Chemistry", "Sensors", "AI", "Environmental Safety"]
+},
+{
+    "id": 385,
+    "title": "Interactive Molecular Crystal Structure Explorer",
+    "domain": "Crystallography / Materials Science",
+    "description": "Visualize molecular crystal packing, lattice parameters, and defects in 3D, aiding material design and structural analysis.",
+    "keywords": ["Crystallography", "Materials Science", "Visualization", "Simulation"]
+},
+{
+    "id": 386,
+    "title": "AI-Powered Food Preservation Predictor",
+    "domain": "Food Chemistry / AI",
+    "description": "Predict chemical stability and spoilage rates of food under various storage conditions, using molecular data and AI models.",
+    "keywords": ["Food Chemistry", "AI", "Preservation", "Simulation"]
+},
+{
+    "id": 387,
+    "title": "Smart Polymer Recycling Optimizer",
+    "domain": "Environmental Chemistry / Materials Science",
+    "description": "Predict optimal recycling pathways for polymers, including depolymerization, energy efficiency, and environmental impact using AI.",
+    "keywords": ["Polymer Chemistry", "Recycling", "AI", "Environmental Sustainability"]
+},
+{
+    "id": 388,
+    "title": "Interactive Acid-Base Titration Simulator",
+    "domain": "Analytical Chemistry / Education",
+    "description": "Simulate titrations with real-time pH curves, buffer effects, and equivalence point detection for educational purposes.",
+    "keywords": ["Titration", "Simulation", "Analytical Chemistry", "Education"]
+},
+{
+    "id": 389,
+    "title": "AI-Powered Reaction Energy Predictor",
+    "domain": "Physical Chemistry / Computational Chemistry",
+    "description": "Predict energy changes and feasibility of chemical reactions using AI models trained on thermodynamic data.",
+    "keywords": ["Physical Chemistry", "AI", "Reaction Energy", "Prediction"]
+},
+{
+    "id": 390,
+    "title": "Smart Biopolymer Degradation Simulator",
+    "domain": "Polymer Chemistry / Environmental Chemistry",
+    "description": "Simulate the degradation of natural and synthetic biopolymers under different environmental conditions, predicting rate and byproducts.",
+    "keywords": ["Biopolymers", "Degradation", "Simulation", "Environmental Chemistry"]
+},
+{
+    "id": 391,
+    "title": "AI-Based Catalytic Reaction Pathway Optimizer",
+    "domain": "Catalysis / Computational Chemistry",
+    "description": "Predict optimal reaction pathways and catalyst selection for multi-step reactions to maximize yield and minimize by-products using AI.",
+    "keywords": ["Catalysis", "AI", "Reaction Optimization", "Computational Chemistry"]
+},
+{
+    "id": 392,
+    "title": "Interactive Nanozyme Activity Visualizer",
+    "domain": "Nanochemistry / Biochemistry",
+    "description": "Visualize and predict enzyme-like activity of nanomaterials under different substrate and environmental conditions.",
+    "keywords": ["Nanochemistry", "Biochemistry", "Simulation", "Visualization"]
+},
+{
+    "id": 393,
+    "title": "Smart Pharmaceutical Formulation Predictor",
+    "domain": "Pharmaceutical Chemistry / AI",
+    "description": "Predict chemical compatibility, stability, and efficacy of multi-component drug formulations using AI.",
+    "keywords": ["Pharmaceutical Chemistry", "AI", "Formulation", "Prediction"]
+},
+{
+    "id": 394,
+    "title": "AI-Powered Water Contaminant Analyzer",
+    "domain": "Environmental Chemistry / Analytical Chemistry",
+    "description": "Detect and predict behavior of chemical contaminants in water systems, including degradation pathways and environmental impact using AI.",
+    "keywords": ["Environmental Chemistry", "AI", "Water Analysis", "Contaminants"]
+},
+{
+    "id": 395,
+    "title": "Interactive Molecular Orbital Energy Simulator",
+    "domain": "Theoretical Chemistry / Education",
+    "description": "Simulate and visualize molecular orbital energy levels and electron density distribution for molecules in 3D.",
+    "keywords": ["Quantum Chemistry", "Simulation", "Molecular Orbitals", "Education"]
+},
+{
+    "id": 396,
+    "title": "Smart Agrochemical Stability Predictor",
+    "domain": "Agricultural Chemistry / AI",
+    "description": "Predict chemical stability and degradation of pesticides and fertilizers under different environmental conditions using AI.",
+    "keywords": ["Agricultural Chemistry", "AI", "Stability", "Prediction"]
+},
+{
+    "id": 397,
+    "title": "AI-Powered Photovoltaic Efficiency Analyzer",
+    "domain": "Materials Chemistry / Renewable Energy",
+    "description": "Predict solar cell material efficiency, stability, and light absorption properties using AI models.",
+    "keywords": ["Materials Chemistry", "AI", "Photovoltaics", "Energy"]
+},
+{
+    "id": 398,
+    "title": "Interactive Protein Folding Simulator",
+    "domain": "Biochemistry / Computational Biology",
+    "description": "Visualize protein folding dynamics and predict misfolding events interactively to study stability and function.",
+    "keywords": ["Protein Chemistry", "Simulation", "Folding Dynamics", "Biochemistry"]
+},
+{
+    "id": 399,
+    "title": "Smart Atmospheric Pollutant Reaction Predictor",
+    "domain": "Atmospheric Chemistry / AI",
+    "description": "Predict chemical reactions of atmospheric pollutants and their impact on climate and air quality using AI.",
+    "keywords": ["Atmospheric Chemistry", "AI", "Pollutants", "Simulation"]
+},
+{
+    "id": 400,
+    "title": "AI-Based Biodegradable Plastic Design Tool",
+    "domain": "Polymer Chemistry / Environmental Chemistry",
+    "description": "Design biodegradable plastics with predicted mechanical and degradation properties using AI models trained on polymer structures.",
+    "keywords": ["Polymer Chemistry", "Biodegradable Plastics", "AI", "Environmental Chemistry"]
+},
 
-        // BIOLOGY & LIFE SCIENCES (Domain 5) - 90+ problems
-        {
+// BIOLOGY & LIFE SCIENCES (Domain 5) - 90+ problems
+{
             "id": 401,
             "title": "DNA Sequence Analysis Pipeline",
             "domain": "5",
@@ -3156,30 +3821,6 @@ const PROBLEMS_DATA = {
         },
 
         
-        // Continue adding problems for all domains...
-        // Chemistry - Additional problems
-        {
-            "id": 306,
-            "title": "Chemical Process Optimization Engine",
-            "domain": "4",
-            "description": "Develop a system that optimizes chemical manufacturing processes for yield, energy efficiency, and waste reduction.",
-            "keywords": ["Process Optimization", "Green Chemistry", "Manufacturing", "Efficiency"]
-        },
-        {
-            "id": 307,
-            "title": "Crystallography Structure Solver",
-            "domain": "4",
-            "description": "Create a tool that solves crystal structures from X-ray diffraction data using advanced computational methods.",
-            "keywords": ["Crystallography", "X-ray Diffraction", "Structure Determination", "Computational Chemistry"]
-        },
-        {
-            "id": 308,
-            "title": "Drug Metabolism Predictor",
-            "domain": "4",
-            "description": "Build an AI system that predicts how drugs are metabolized in the human body and identifies potential metabolites.",
-            "keywords": ["Drug Metabolism", "Pharmacokinetics", "AI", "Pharmaceutical Chemistry"]
-        },
-
         // Biology - Additional problems
         {
             "id": 406,
