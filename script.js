@@ -297,15 +297,49 @@ class Problem2Patent {
             }
         });
 
-        // Bookmark functionality
+        // Bookmark functionality (desktop)
         const bookmarkBtn = document.getElementById('bookmark-btn');
         bookmarkBtn?.addEventListener('click', () => {
             this.toggleBookmark();
         });
 
-        // Share functionality
+        // Bookmark functionality (mobile)
+        const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
+        console.log('Mobile bookmark button found:', bookmarkBtnMobile);
+        bookmarkBtnMobile?.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('Mobile bookmark clicked');
+            this.toggleBookmark();
+        });
+        // Add touch event for better mobile responsiveness
+        bookmarkBtnMobile?.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('Mobile bookmark touched');
+            this.toggleBookmark();
+        });
+
+        // Share functionality (desktop)
         const shareBtn = document.getElementById('share-btn');
         shareBtn?.addEventListener('click', () => {
+            this.shareProblem();
+        });
+
+        // Share functionality (mobile)
+        const shareBtnMobile = document.getElementById('share-btn-mobile');
+        console.log('Mobile share button found:', shareBtnMobile);
+        shareBtnMobile?.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('Mobile share clicked');
+            this.shareProblem();
+        });
+        // Add touch event for better mobile responsiveness
+        shareBtnMobile?.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('Mobile share touched');
             this.shareProblem();
         });
     }
@@ -796,13 +830,28 @@ class Problem2Patent {
         
         const problemId = this.currentProblem.id;
         const bookmarkBtn = document.getElementById('bookmark-btn');
+        const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
         
         if (this.bookmarkedProblems.includes(problemId)) {
             this.bookmarkedProblems = this.bookmarkedProblems.filter(id => id !== problemId);
-            bookmarkBtn.innerHTML = '<i class="far fa-bookmark text-gray-500"></i>';
+            // Update desktop button
+            if (bookmarkBtn) {
+                bookmarkBtn.innerHTML = '<i class="far fa-bookmark text-gray-600 dark:text-gray-400 mr-2"></i><span class="text-sm font-medium text-gray-700 dark:text-gray-300">Bookmark</span>';
+            }
+            // Update mobile button
+            if (bookmarkBtnMobile) {
+                bookmarkBtnMobile.innerHTML = '<i class="far fa-bookmark text-gray-600 dark:text-gray-400"></i>';
+            }
         } else {
             this.bookmarkedProblems.push(problemId);
-            bookmarkBtn.innerHTML = '<i class="fas fa-bookmark text-yellow-500"></i>';
+            // Update desktop button
+            if (bookmarkBtn) {
+                bookmarkBtn.innerHTML = '<i class="fas fa-bookmark text-yellow-500 mr-2"></i><span class="text-sm font-medium text-gray-700 dark:text-gray-300">Bookmarked</span>';
+            }
+            // Update mobile button
+            if (bookmarkBtnMobile) {
+                bookmarkBtnMobile.innerHTML = '<i class="fas fa-bookmark text-yellow-500"></i>';
+            }
         }
         
         this.saveBookmarks();
