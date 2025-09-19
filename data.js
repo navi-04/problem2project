@@ -730,6 +730,637 @@ const PROBLEMS_DATA = {
             "description": "Create a tool that automatically generates comprehensive API documentation from code, including examples, parameter descriptions, and usage patterns.",
             "keywords": ["Documentation", "API", "Automation", "Code Analysis"]
         },
+        {
+            "id": 11,
+            "title": "Quantum-Inspired Classical Algorithm Optimizer",
+            "domain": "1",
+            "description": "Develop a system that applies quantum computing principles like superposition and entanglement concepts to optimize classical algorithms, potentially discovering new parallel processing patterns and optimization strategies.",
+            "keywords": ["Quantum Computing", "Algorithm Optimization", "Parallel Processing", "Innovation"]
+        },
+        {
+            "id": 12,
+            "title": "Emotional Intelligence Code Analyzer",
+            "domain": "1",
+            "description": "Create an AI system that analyzes code for 'emotional' patterns - stress indicators like nested complexity, anxiety patterns in error handling, and suggests refactoring for better developer mental health and code maintainability.",
+            "keywords": ["Developer Wellness", "Code Psychology", "Mental Health", "Refactoring"]
+        },
+        {
+            "id": 13,
+            "title": "Biometric-Adaptive Programming Environment",
+            "domain": "1",
+            "description": "Design a coding environment that adapts to developer's biometric data (heart rate, eye strain, typing patterns) to optimize IDE settings, suggest breaks, and adjust code complexity recommendations in real-time.",
+            "keywords": ["Biometrics", "Adaptive UI", "Health Monitoring", "Personalization"]
+        },
+        {
+            "id": 14,
+            "title": "Temporal Code Version Predictor",
+            "domain": "1",
+            "description": "Build a machine learning system that predicts how code will evolve over time, suggesting preemptive refactoring and architecture changes based on historical patterns and project trajectory analysis.",
+            "keywords": ["Predictive Analytics", "Code Evolution", "Machine Learning", "Architecture"]
+        },
+        {
+            "id": 15,
+            "title": "Swarm Intelligence Code Optimizer",
+            "domain": "1",
+            "description": "Implement a system inspired by ant colonies and bee swarms that collectively optimizes codebases through distributed micro-improvements, where each 'agent' focuses on specific optimization aspects.",
+            "keywords": ["Swarm Intelligence", "Distributed Computing", "Bio-Inspired", "Collective Optimization"]
+        },
+        {
+            "id": 16,
+            "title": "Holographic Code Visualization System",
+            "domain": "1",
+            "description": "Create a 3D holographic interface for visualizing complex code structures, data flows, and algorithm execution paths, enabling developers to 'walk through' their code in virtual space for better understanding.",
+            "keywords": ["3D Visualization", "Holographic Interface", "Immersive Development", "Spatial Computing"]
+        },
+        {
+            "id": 17,
+            "title": "Musical Algorithm Composer",
+            "domain": "1",
+            "description": "Develop a system that converts algorithmic patterns into musical compositions, helping developers understand algorithm behavior through auditory feedback and creating unique 'algorithm symphonies'.",
+            "keywords": ["Sonification", "Algorithm Visualization", "Audio Feedback", "Creative Computing"]
+        },
+        {
+            "id": 18,
+            "title": "Blockchain-Based Code Integrity Validator",
+            "domain": "1",
+            "description": "Design a decentralized system using blockchain to verify code integrity, track authorship, prevent plagiarism, and create an immutable history of code contributions across projects.",
+            "keywords": ["Blockchain", "Code Integrity", "Decentralized Systems", "Authentication"]
+        },
+        {
+            "id": 19,
+            "title": "Neural Network Code Pattern Discoverer",
+            "domain": "1",
+            "description": "Build a deep learning system that discovers hidden patterns in successful codebases, identifying novel design patterns and anti-patterns that traditional static analysis might miss.",
+            "keywords": ["Deep Learning", "Pattern Recognition", "Code Analysis", "Design Patterns"]
+        },
+        {
+            "id": 20,
+            "title": "Genetic Programming Evolution Engine",
+            "domain": "1",
+            "description": "Create a system that uses genetic algorithms to evolve optimal code solutions by crossbreeding successful algorithms, mutating inefficient parts, and selecting for performance and maintainability.",
+            "keywords": ["Genetic Algorithms", "Evolutionary Computing", "Auto-Programming", "Optimization"]
+        },
+        {
+            "id": 21,
+            "title": "Cognitive Load Measurement Tool",
+            "domain": "1",
+            "description": "Develop a system that measures the cognitive load of code by analyzing complexity, readability, and mental model requirements, suggesting simplifications to reduce developer cognitive burden.",
+            "keywords": ["Cognitive Science", "Code Readability", "Human Factors", "Usability"]
+        },
+        {
+            "id": 22,
+            "title": "Metaphor-Based Code Explanation Generator",
+            "domain": "1",
+            "description": "Build an AI that explains complex algorithms using real-world metaphors and analogies, making difficult programming concepts accessible to beginners through relatable comparisons.",
+            "keywords": ["Educational Technology", "Metaphorical Learning", "AI Explanation", "Accessibility"]
+        },
+        {
+            "id": 23,
+            "title": "Fractal Code Architecture Analyzer",
+            "domain": "1",
+            "description": "Create a tool that identifies fractal patterns in code architecture, detecting self-similar structures and suggesting how to leverage these patterns for better modularity and scalability.",
+            "keywords": ["Fractal Geometry", "Architecture Analysis", "Modularity", "Scalability"]
+        },
+        {
+            "id": 24,
+            "title": "Quantum Error Correction Code Validator",
+            "domain": "1",
+            "description": "Develop a system that applies quantum error correction principles to classical code, detecting and correcting logical errors through redundancy patterns and probabilistic verification methods.",
+            "keywords": ["Error Correction", "Quantum Principles", "Fault Tolerance", "Reliability"]
+        },
+        {
+            "id": 25,
+            "title": "Synaptic Code Connection Mapper",
+            "domain": "1",
+            "description": "Design a brain-inspired system that maps connections between code components like neural synapses, identifying critical pathways and suggesting optimizations based on connection strength and frequency.",
+            "keywords": ["Neural Networks", "Code Connectivity", "Brain-Inspired Computing", "Dependency Analysis"]
+        },
+        {
+            "id": 26,
+            "title": "Ecosystem-Based Code Health Monitor",
+            "domain": "1",
+            "description": "Build a system that treats codebases like biological ecosystems, monitoring the health of different components, identifying invasive patterns, and maintaining balance between various code 'species'.",
+            "keywords": ["Ecosystem Modeling", "Code Health", "Biological Algorithms", "System Balance"]
+        },
+        {
+            "id": 27,
+            "title": "Dimensional Code Complexity Reducer",
+            "domain": "1",
+            "description": "Create a tool that applies dimensional reduction techniques from data science to simplify high-dimensional code problems, finding the essential features while maintaining functionality.",
+            "keywords": ["Dimensional Reduction", "Complexity Management", "Feature Selection", "Simplification"]
+        },
+        {
+            "id": 28,
+            "title": "Sentiment-Driven Code Refactoring Engine",
+            "domain": "1",
+            "description": "Develop an AI that analyzes the 'sentiment' of code comments, variable names, and structure to suggest refactoring that improves both technical quality and developer emotional connection to the code.",
+            "keywords": ["Sentiment Analysis", "Code Emotions", "Developer Experience", "Refactoring"]
+        },
+        {
+            "id": 29,
+            "title": "Crystalline Code Structure Generator",
+            "domain": "1",
+            "description": "Build a system inspired by crystal formation that organizes code into perfect geometric structures, optimizing for symmetry, stability, and growth patterns in software architecture.",
+            "keywords": ["Crystal Structure", "Geometric Programming", "Architectural Patterns", "Self-Organization"]
+        },
+        {
+            "id": 30,
+            "title": "Linguistic Code Translation Enhancer",
+            "domain": "1",
+            "description": "Create an advanced system that doesn't just translate code between languages but also adapts cultural programming paradigms, idioms, and philosophical approaches inherent to different programming communities.",
+            "keywords": ["Cultural Programming", "Language Philosophy", "Paradigm Translation", "Cross-Cultural Development"]
+        },
+        {
+            "id": 31,
+            "title": "Magnetic Field Code Optimizer",
+            "domain": "1",
+            "description": "Develop a physics-inspired system that treats code components as magnetic particles, optimizing code organization by simulating attractive and repulsive forces between related and unrelated components.",
+            "keywords": ["Physics Simulation", "Force-Based Layout", "Component Organization", "Magnetic Algorithms"]
+        },
+        {
+            "id": 32,
+            "title": "Dream-Logic Algorithm Designer",
+            "domain": "1",
+            "description": "Build an AI system that applies dream-like logic patterns to solve computational problems, using non-linear associations, symbolic reasoning, and subconscious pattern matching for creative algorithm design.",
+            "keywords": ["Dream Logic", "Non-Linear Computing", "Symbolic AI", "Creative Problem Solving"]
+        },
+        {
+            "id": 33,
+            "title": "Telepathic Code Collaboration Platform",
+            "domain": "1",
+            "description": "Design a system that uses advanced prediction and pattern recognition to anticipate developer intentions, enabling seamless collaboration where the system predicts and pre-implements likely next steps.",
+            "keywords": ["Predictive Coding", "Intention Recognition", "Seamless Collaboration", "Anticipatory Systems"]
+        },
+        {
+            "id": 34,
+            "title": "Alchemical Code Transformation Engine",
+            "domain": "1",
+            "description": "Create a system inspired by medieval alchemy that transforms 'base' code into 'gold' through a series of mystical but algorithmically sound transformations, turning inefficient code into optimized solutions.",
+            "keywords": ["Alchemical Processes", "Code Transformation", "Metaphorical Computing", "Optimization Rituals"]
+        },
+        {
+            "id": 35,
+            "title": "Consciousness-Level Code Evaluator",
+            "domain": "1",
+            "description": "Develop a system that evaluates code based on different levels of 'consciousness' - from instinctive (basic functionality) to enlightened (elegant, maintainable, and philosophically sound) code.",
+            "keywords": ["Consciousness Levels", "Code Philosophy", "Enlightened Programming", "Awareness Metrics"]
+        },
+        {
+            "id": 36,
+            "title": "Algorithm Efficiency Predictor",
+            "domain": "1",
+            "description": "Before running code, the system predicts whether the algorithm will pass given constraints by analyzing loops, recursions, and input size limits. This prevents wasted attempts in contests.",
+            "keywords": ["Complexity", "Prediction", "Algorithms", "Competitive Programming"]
+        },
+        {
+            "id": 37,
+            "title": "Parallelization Advisor for Algorithms",
+            "domain": "1",
+            "description": "Students rarely know which parts of their algorithm can be parallelized. The project is to design a tool that highlights independent computations and suggests multi-threading opportunities.",
+            "keywords": ["Parallelization", "Algorithms", "Optimization", "Multi-threading"]
+        },
+        {
+            "id": 38,
+            "title": "AI Mentor for Dynamic Memory Allocation",
+            "domain": "1",
+            "description": "Beginners often misuse memory allocation, causing leaks and segmentation faults. The project is to build an AI tool that checks memory handling in programs and suggests safe allocation, deallocation, or use of smart pointers.",
+            "keywords": ["Memory Management", "Algorithms", "Debugging", "Smart Pointers"]
+        },
+        {
+            "id": 39,
+            "title": "Automated Code Pattern Miner",
+            "domain": "1",
+            "description": "This project focuses on mining patterns from a large set of codes to identify commonly used algorithmic tricks (like two-pointers, prefix sums). It can suggest similar strategies when detecting related problems.",
+            "keywords": ["Pattern Mining", "Algorithms", "AI", "Problem Solving"]
+        },
+        {
+            "id": 40,
+            "title": "AI Assistant for Divide and Conquer Algorithms",
+            "domain": "1",
+            "description": "Divide and Conquer often confuses students due to subproblem breakdown. This tool will guide users through splitting problems into subproblems, visualizing recursion trees, and merging solutions.",
+            "keywords": ["Divide and Conquer", "Algorithms", "Visualization", "AI Tutor"]
+        },
+        {
+            "id": 41,
+            "title": "Code Dry-Run Simulator",
+            "domain": "1",
+            "description": "Many beginners fail to trace logic manually. This project is to build an interactive simulator that executes code line by line, showing variable updates and stack changes, mimicking how the program runs internally.",
+            "keywords": ["Debugging", "Simulation", "Algorithms", "Learning"]
+        },
+        {
+            "id": 42,
+            "title": "Big-O Complexity Visual Estimator",
+            "domain": "1",
+            "description": "Instead of manual analysis, this tool predicts the Big-O complexity of submitted code by inspecting nested loops, recursion depth, and data structures used, and provides a visual plot of runtime growth.",
+            "keywords": ["Complexity", "Big-O", "Algorithms", "Analysis"]
+        },
+        {
+            "id": 43,
+            "title": "AI Assistant for Backtracking Algorithms",
+            "domain": "1",
+            "description": "Backtracking problems like N-Queens confuse learners due to state-space exploration. This tool would visualize decision trees, highlight pruning opportunities, and explain why certain branches fail.",
+            "keywords": ["Backtracking", "Algorithms", "AI", "Visualization"]
+        },
+        {
+            "id": 44,
+            "title": "Bug Pattern Recommender for Beginners",
+            "domain": "1",
+            "description": "Most beginners repeat a small set of logical mistakes (off-by-one, wrong loop boundaries, missing return). This project builds an AI that automatically detects such bug patterns and recommends corrections.",
+            "keywords": ["Debugging", "Algorithms", "AI", "Beginner Support"]
+        },
+        {
+            "id": 45,
+            "title": "AI Code Explainer for Students",
+            "domain": "1",
+            "description": "Understanding other people's code is difficult. This project aims to build an AI system that takes raw code and generates plain English explanations for each step, variable, and function.",
+            "keywords": ["Code Explanation", "NLP", "Algorithms", "AI"]
+        },
+        {
+            "id": 46,
+            "title": "Space-Time Tradeoff Analyzer",
+            "domain": "1",
+            "description": "Many problems can be solved faster by using more memory (e.g., memoization, hashmaps). This system suggests alternative implementations balancing speed vs. memory for a given algorithm.",
+            "keywords": ["Optimization", "Algorithms", "Space-Time Tradeoff", "Memory"]
+        },
+        {
+            "id": 47,
+            "title": "AI-Generated Pseudocode Converter",
+            "domain": "1",
+            "description": "Students often jump straight to coding without understanding logic. This project generates human-readable pseudocode from raw code, helping learners grasp algorithm flow before coding.",
+            "keywords": ["Pseudocode", "Algorithms", "AI", "Education"]
+        },
+        {
+            "id": 48,
+            "title": "Code Edge-Case Checker",
+            "domain": "1",
+            "description": "Beginners often miss edge cases like empty inputs, maximum values, or negative numbers. The project is to design a tool that automatically suggests missing test cases based on input constraints.",
+            "keywords": ["Testing", "Debugging", "Algorithms", "Edge Cases"]
+        },
+        {
+            "id": 49,
+            "title": "AI Algorithm Comparator",
+            "domain": "1",
+            "description": "Given a problem statement, this system compares multiple algorithms (brute force, optimized, heuristic) and highlights their tradeoffs in runtime, space, and readability.",
+            "keywords": ["Algorithm Comparison", "AI", "Optimization", "Analysis"]
+        },
+        {
+            "id": 50,
+            "title": "AI Mentor for Divide-and-Optimize Problems",
+            "domain": "1",
+            "description": "Many real-world optimization problems can't be solved exactly. This project guides students on using approximation algorithms, heuristics, or greedy strategies for such problems.",
+            "keywords": ["Optimization", "Approximation", "Algorithms", "AI"]
+        },
+        {
+            "id": 51,
+            "title": "Runtime Bottleneck Predictor",
+            "domain": "1",
+            "description": "The tool identifies which part of the code will likely cause timeouts before execution by analyzing loop nesting, recursion depth, and data size growth.",
+            "keywords": ["Bottlenecks", "Runtime Analysis", "Algorithms", "Performance"]
+        },
+        {
+            "id": 52,
+            "title": "Code-to-Math Formula Mapper",
+            "domain": "1",
+            "description": "Math-based problems (like combinatorics or number theory) are often hidden in code. The challenge is to design a system that extracts mathematical expressions from code logic.",
+            "keywords": ["Algorithms", "Mathematics", "Code Analysis", "Formula Extraction"]
+        },
+        {
+            "id": 53,
+            "title": "Adaptive Problem Difficulty Estimator",
+            "domain": "1",
+            "description": "Based on a code submission, this project predicts how hard the problem was (easy, medium, hard) by analyzing the algorithmic techniques applied and the complexity of implementation.",
+            "keywords": ["Algorithms", "AI", "Problem Difficulty", "Competitive Programming"]
+        },
+        {
+            "id": 54,
+            "title": "Bug Fix Explanation Generator",
+            "domain": "1",
+            "description": "Instead of just correcting bugs, this AI system explains why the bug occurred and why the fix works, making debugging more educational.",
+            "keywords": ["Debugging", "Algorithms", "AI", "Error Explanation"]
+        },
+        {
+            "id": 55,
+            "title": "Multi-Language Algorithm Playground",
+            "domain": "1",
+            "description": "The project involves designing a playground where users can implement the same algorithm in different languages (C++, Python, Java) and see how runtime and memory usage differ.",
+            "keywords": ["Programming Languages", "Algorithms", "Learning Tool", "Performance Comparison"]
+        },
+        {
+            "id": 56,
+            "title": "Cryptographic Code Obfuscation Engine",
+            "domain": "1",
+            "description": "Develop a system that transforms readable code into cryptographically secure obfuscated versions while maintaining functionality, protecting intellectual property and preventing reverse engineering attacks.",
+            "keywords": ["Cryptography", "Obfuscation", "Security", "Intellectual Property"]
+        },
+        {
+            "id": 57,
+            "title": "Seismic Code Vulnerability Scanner",
+            "domain": "1",
+            "description": "Build a tool that detects potential security vulnerabilities in code by simulating seismic-like stress tests, identifying weak points that could be exploited by malicious actors.",
+            "keywords": ["Security", "Vulnerability", "Stress Testing", "Malware Prevention"]
+        },
+        {
+            "id": 58,
+            "title": "Botanical Growth Pattern Code Organizer",
+            "domain": "1",
+            "description": "Create a system inspired by plant growth patterns that organizes code repositories according to natural branching principles, optimizing for organic scalability and sustainable development.",
+            "keywords": ["Botanical Computing", "Organic Architecture", "Scalability", "Repository Management"]
+        },
+        {
+            "id": 59,
+            "title": "Thermodynamic Code Energy Calculator",
+            "domain": "1",
+            "description": "Design a tool that calculates the 'entropy' and 'energy' of codebases using thermodynamic principles, identifying areas of high disorder and suggesting entropy-reducing refactoring strategies.",
+            "keywords": ["Thermodynamics", "Entropy", "Energy Modeling", "Code Physics"]
+        },
+        {
+            "id": 60,
+            "title": "Astronomical Code Constellation Mapper",
+            "domain": "1",
+            "description": "Build a system that maps code dependencies as stellar constellations, identifying gravitational relationships between components and predicting orbital decay of unused modules.",
+            "keywords": ["Astronomy", "Constellation Mapping", "Dependency Tracking", "Module Lifecycle"]
+        },
+        {
+            "id": 61,
+            "title": "Metamorphic Code Evolution Tracker",
+            "domain": "1",
+            "description": "Develop a system that tracks code metamorphosis over time, similar to butterfly lifecycle stages, identifying transformation patterns and predicting evolutionary pathways.",
+            "keywords": ["Metamorphosis", "Evolution Tracking", "Lifecycle Management", "Transformation Patterns"]
+        },
+        {
+            "id": 62,
+            "title": "Quantum Entanglement Code Synchronizer",
+            "domain": "1",
+            "description": "Create a tool that maintains synchronized states between distributed code components using quantum entanglement principles, ensuring instantaneous consistency across multiple systems.",
+            "keywords": ["Quantum Mechanics", "Entanglement", "Synchronization", "Distributed Systems"]
+        },
+        {
+            "id": 63,
+            "title": "Archaeological Code Artifact Excavator",
+            "domain": "1",
+            "description": "Build a system that excavates buried code artifacts from legacy systems, reconstructing historical development patterns and preserving ancient programming wisdom for modern use.",
+            "keywords": ["Archaeology", "Legacy Systems", "Historical Analysis", "Code Preservation"]
+        },
+        {
+            "id": 64,
+            "title": "Molecular Bonding Code Composer",
+            "domain": "1",
+            "description": "Design a tool that combines code modules using molecular bonding principles, creating stable compound applications with predictable chemical-like properties and reactions.",
+            "keywords": ["Molecular Chemistry", "Code Bonding", "Compound Applications", "Chemical Properties"]
+        },
+        {
+            "id": 65,
+            "title": "Tectonic Plate Code Architecture Shifter",
+            "domain": "1",
+            "description": "Develop a system that manages large-scale architectural changes in codebases like tectonic plate movements, predicting earthquake-like disruptions and managing continental drift of features.",
+            "keywords": ["Geology", "Tectonic Movement", "Architecture Migration", "Feature Drift"]
+        },
+        {
+            "id": 66,
+            "title": "Origami Code Folding Optimizer",
+            "domain": "1",
+            "description": "Create a tool that applies origami folding principles to compress and structure code, finding elegant ways to fold complex logic into compact, beautiful, and maintainable forms.",
+            "keywords": ["Origami", "Code Folding", "Geometric Programming", "Elegant Design"]
+        },
+        {
+            "id": 67,
+            "title": "Ecosystem Predator-Prey Code Balancer",
+            "domain": "1",
+            "description": "Build a system that maintains balance in code ecosystems by modeling predator-prey relationships between different code components, preventing any single element from dominating the system.",
+            "keywords": ["Ecosystem Balance", "Predator-Prey Models", "Component Relationships", "System Equilibrium"]
+        },
+        {
+            "id": 68,
+            "title": "Magnetic Resonance Code Scanner",
+            "domain": "1",
+            "description": "Design a tool that uses magnetic resonance imaging principles to scan codebases, creating detailed internal images that reveal hidden structures and anomalies invisible to surface analysis.",
+            "keywords": ["Magnetic Resonance", "Internal Scanning", "Hidden Structures", "Deep Analysis"]
+        },
+        {
+            "id": 69,
+            "title": "Linguistic Phonetics Code Pronunciation Guide",
+            "domain": "1",
+            "description": "Develop a system that creates phonetic guides for code pronunciation, helping teams establish consistent verbal communication about complex variable names and function calls.",
+            "keywords": ["Phonetics", "Pronunciation", "Team Communication", "Verbal Coding"]
+        },
+        {
+            "id": 70,
+            "title": "Gravitational Wave Code Detector",
+            "domain": "1",
+            "description": "Create a tool that detects 'gravitational waves' in code - subtle ripples caused by distant changes that propagate through the codebase and affect seemingly unrelated components.",
+            "keywords": ["Gravitational Waves", "Change Propagation", "Distant Effects", "Ripple Detection"]
+        },
+        {
+            "id": 71,
+            "title": "Photosynthesis Code Energy Converter",
+            "domain": "1",
+            "description": "Build a system that converts 'raw sunlight' (user requirements) into usable code energy through photosynthesis-like processes, optimizing the conversion of business needs into technical solutions.",
+            "keywords": ["Photosynthesis", "Energy Conversion", "Requirement Processing", "Business Translation"]
+        },
+        {
+            "id": 72,
+            "title": "Cardiac Rhythm Code Heartbeat Monitor",
+            "domain": "1",
+            "description": "Design a tool that monitors the 'heartbeat' of applications, detecting arrhythmias in execution patterns and suggesting interventions to maintain healthy system rhythms.",
+            "keywords": ["Cardiac Monitoring", "Heartbeat Analysis", "System Health", "Rhythm Detection"]
+        },
+        {
+            "id": 73,
+            "title": "Archaeological Stratigraphy Code Layer Analyzer",
+            "domain": "1",
+            "description": "Develop a system that analyzes code layers like archaeological strata, understanding the historical context of each layer and how they interact across different time periods.",
+            "keywords": ["Stratigraphy", "Layer Analysis", "Historical Context", "Time-based Architecture"]
+        },
+        {
+            "id": 74,
+            "title": "Migratory Pattern Code Movement Tracker",
+            "domain": "1",
+            "description": "Create a tool that tracks the seasonal migration patterns of code components, predicting when and where different modules will be most active and planning resource allocation accordingly.",
+            "keywords": ["Migration Patterns", "Seasonal Activity", "Resource Planning", "Component Movement"]
+        },
+        {
+            "id": 75,
+            "title": "Crystallography Code Structure Analyzer",
+            "domain": "1",
+            "description": "Build a system that analyzes code structure using crystallography principles, identifying crystal defects in architecture and suggesting how to grow perfect code crystals.",
+            "keywords": ["Crystallography", "Crystal Defects", "Structure Analysis", "Perfect Formation"]
+        },
+        {
+            "id": 76,
+            "title": "Atmospheric Pressure Code Stress Gauge",
+            "domain": "1",
+            "description": "Design a tool that measures atmospheric pressure in code environments, detecting high-pressure zones that could lead to system storms and suggesting pressure relief mechanisms.",
+            "keywords": ["Atmospheric Pressure", "Stress Measurement", "System Storms", "Pressure Relief"]
+        },
+        {
+            "id": 77,
+            "title": "Bioluminescent Code Illumination System",
+            "domain": "1",
+            "description": "Develop a system that makes code 'glow' with bioluminescent-like markers, highlighting important pathways and creating beautiful, naturally-lit code landscapes for better navigation.",
+            "keywords": ["Bioluminescence", "Code Illumination", "Pathway Highlighting", "Natural Lighting"]
+        },
+        {
+            "id": 78,
+            "title": "Topographical Code Elevation Mapper",
+            "domain": "1",
+            "description": "Create a tool that generates topographical maps of codebases, showing elevation changes in complexity and identifying mountain peaks of difficulty and valleys of simplicity.",
+            "keywords": ["Topography", "Elevation Mapping", "Complexity Terrain", "Difficulty Peaks"]
+        },
+        {
+            "id": 79,
+            "title": "Electromagnetic Spectrum Code Frequency Analyzer",
+            "domain": "1",
+            "description": "Build a system that analyzes code across different electromagnetic spectrum frequencies, detecting infrared (hidden) code, ultraviolet (dangerous) patterns, and visible light (obvious) structures.",
+            "keywords": ["Electromagnetic Spectrum", "Frequency Analysis", "Hidden Patterns", "Multi-spectrum Detection"]
+        },
+        {
+            "id": 80,
+            "title": "Hydrological Code Flow Basin Designer",
+            "domain": "1",
+            "description": "Design a tool that models code flow like water through watersheds, identifying drainage basins where data naturally flows and predicting flood zones during high-load periods.",
+            "keywords": ["Hydrology", "Water Flow", "Drainage Basins", "Flood Prediction"]
+        },
+        {
+            "id": 81,
+            "title": "Smart Code Refactoring Assistant",
+            "domain": "1",
+            "description": "Build an AI-powered tool that suggests code refactoring opportunities to improve readability, maintainability, and performance.",
+            "keywords": ["Refactoring", "Code Quality", "AI", "Maintenance"]
+        },
+        {
+            "id": 82,
+            "title": "Version Control Merge Conflict Resolver",
+            "domain": "1",
+            "description": "Create an intelligent system that automatically resolves merge conflicts in version control systems using semantic analysis.",
+            "keywords": ["Version Control", "Merge Conflicts", "Automation", "Semantic Analysis"]
+        },
+        {
+            "id": 83,
+            "title": "Code Pattern Recognition Engine",
+            "domain": "1",
+            "description": "Develop a system that identifies common design patterns and anti-patterns in codebases and suggests improvements.",
+            "keywords": ["Design Patterns", "Code Analysis", "Best Practices", "Architecture"]
+        },
+        {
+            "id": 84,
+            "title": "Dynamic Load Balancer Optimizer",
+            "domain": "1",
+            "description": "Build a system that dynamically optimizes load balancing strategies based on real-time traffic patterns and server performance.",
+            "keywords": ["Load Balancing", "Performance Optimization", "Distributed Systems", "Traffic Management"]
+        },
+        {
+            "id": 85,
+            "title": "API Rate Limiting Intelligent System",
+            "domain": "1",
+            "description": "Create an adaptive API rate limiting system that adjusts limits based on user behavior, system load, and business priorities.",
+            "keywords": ["API Management", "Rate Limiting", "System Performance", "Adaptive Systems"]
+        },
+        {
+            "id": 86,
+            "title": "Code Review Automation Tool",
+            "domain": "1",
+            "description": "Create a tool that automates code reviews using machine learning to identify potential issues and suggest improvements.",
+            "keywords": ["Code Review", "Automation", "Machine Learning", "Quality Assurance"]
+        },
+        {
+            "id": 87,
+            "title": "Automated Testing Framework",
+            "domain": "1",
+            "description": "Develop a framework that automatically generates and executes tests for software applications, ensuring high coverage and reliability.",
+            "keywords": ["Testing", "Automation", "Software Quality", "Framework"]
+        },
+        {
+           "id": 88,
+           "title": "Infinite Loop Detection Engine",
+           "domain": "1",
+           "description": "Develop an AI-powered system that analyzes running code to detect infinite loops and suggest corrections in real-time.",
+           "keywords": ["Debugging", "Infinite Loop", "AI Detection", "Code Safety"]
+        },
+        {
+             "id": 89,
+             "title": "Recursion-to-Iteration Converter", 
+             "domain": "1",
+             "description": "Build a tool that automatically converts recursive algorithms into efficient iterative solutions without losing functionality.",
+             "keywords": ["Recursion", "Iteration", "Code Transformation", "Optimization"]
+        },
+       {
+           "id": 90,
+           "title": "Pseudocode-to-Code Compiler",
+           "domain": "1",
+           "description": "Develop a compiler that translates structured pseudocode directly into optimized executable code.",
+           "keywords": ["Pseudocode", "Compiler", "Automation", "Programming Tools"]
+       },
+{
+    "id": 91,
+    "title": "Bug Severity Classifier",
+    "domain": "1",
+    "description": "Implement a system that classifies detected bugs based on severity, potential impact, and urgency of resolution.",
+    "keywords": ["Bug Tracking", "Debugging", "AI Classification", "Software Quality"]
+},
+{
+    "id": 92,
+    "title": "AI Code Review Assistant",
+    "domain": "1",
+    "description": "Build an AI system that reviews submitted code, identifies bad practices, and provides suggestions for improvement.",
+    "keywords": ["Code Review", "AI Mentor", "Programming Best Practices"]
+},
+{
+    "id": 93,
+    "title": "Code Similarity Analyzer",
+    "domain": "1",
+    "description": "Develop a system to detect structural and functional similarities between two codebases for plagiarism and refactoring insights.",
+    "keywords": ["Code Comparison", "Plagiarism Detection", "Refactoring"]
+},
+{
+    "id": 94,
+    "title": "Deadlock Resolution System",
+    "domain": "1",
+    "description": "Create a runtime analyzer that identifies potential deadlocks in concurrent code and suggests resolution strategies.",
+    "keywords": ["Concurrency", "Deadlock", "Multithreading", "Debugging"]
+},
+{
+    "id": 95,
+    "title": "Automated Test Case Generator",
+    "domain": "1",
+    "description": "Design a system that automatically generates unit test cases by analyzing function signatures and program logic.",
+    "keywords": ["Testing", "Automation", "Unit Tests", "Quality Assurance"]
+},
+{
+    "id": 96,
+    "title": "Code Obfuscator and De-Obfuscator",
+    "domain": "1",
+    "description": "Build a system that can obfuscate code for security purposes and de-obfuscate it for debugging or learning.",
+    "keywords": ["Obfuscation", "De-Obfuscation", "Security", "Code Protection"]
+},
+{
+    "id": 97,
+    "title": "Memory Leak Finder",
+    "domain": "1",
+    "description": "Develop an intelligent analyzer that detects memory leaks in code and suggests optimal fixes.",
+    "keywords": ["Memory Management", "Debugging", "Performance"]
+},
+{
+    "id": 98,
+    "title": "Cross-Language Code Translator",
+    "domain": "1",
+    "description": "Design a translation engine that converts code written in one language to another while preserving logic and efficiency.",
+    "keywords": ["Code Translation", "Multi-Language", "Cross-Platform Development"]
+},
+{
+    "id": 99,
+    "title": "Algorithm Visualizer",
+    "domain": "1",
+    "description": "Create a visualization tool that shows step-by-step execution of algorithms to aid learning and debugging.",
+    "keywords": ["Algorithms", "Visualization", "Education", "Debugging"]
+},
+{
+    "id": 100,
+    "title": "Self-Healing Code System",
+    "domain": "1",
+    "description": "Implement a system where code can detect its own errors during runtime and automatically apply predefined fixes.",
+    "keywords": ["Self-Healing Systems", "Automation", "AI Debugging", "Resilient Code"]
+}
+
 
         // MATHEMATICS (Domain 2) - 80+ problems
         {
@@ -1197,41 +1828,7 @@ const PROBLEMS_DATA = {
 
         // Continue with more problems to reach 2000+ total
         // Programming & Algorithms - Additional problems
-        {
-            "id": 11,
-            "title": "Smart Code Refactoring Assistant",
-            "domain": "1",
-            "description": "Build an AI-powered tool that suggests code refactoring opportunities to improve readability, maintainability, and performance.",
-            "keywords": ["Refactoring", "Code Quality", "AI", "Maintenance"]
-        },
-        {
-            "id": 12,
-            "title": "Version Control Merge Conflict Resolver",
-            "domain": "1",
-            "description": "Create an intelligent system that automatically resolves merge conflicts in version control systems using semantic analysis.",
-            "keywords": ["Version Control", "Merge Conflicts", "Automation", "Semantic Analysis"]
-        },
-        {
-            "id": 13,
-            "title": "Code Pattern Recognition Engine",
-            "domain": "1",
-            "description": "Develop a system that identifies common design patterns and anti-patterns in codebases and suggests improvements.",
-            "keywords": ["Design Patterns", "Code Analysis", "Best Practices", "Architecture"]
-        },
-        {
-            "id": 14,
-            "title": "Dynamic Load Balancer Optimizer",
-            "domain": "1",
-            "description": "Build a system that dynamically optimizes load balancing strategies based on real-time traffic patterns and server performance.",
-            "keywords": ["Load Balancing", "Performance Optimization", "Distributed Systems", "Traffic Management"]
-        },
-        {
-            "id": 15,
-            "title": "API Rate Limiting Intelligent System",
-            "domain": "1",
-            "description": "Create an adaptive API rate limiting system that adjusts limits based on user behavior, system load, and business priorities.",
-            "keywords": ["API Management", "Rate Limiting", "System Performance", "Adaptive Systems"]
-        },
+        
 
         // Mathematics - Additional problems
         {
