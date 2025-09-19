@@ -1,7 +1,7 @@
-// Problem2Patent - Modern JavaScript Application
+// Problem2Project - Modern JavaScript Application
 // Enhanced functionality for problem discovery and exploration
 
-class Problem2Patent {
+class Problem2Project {
     constructor() {
         this.problems = [];
         this.allProblems = [];
@@ -717,11 +717,13 @@ class Problem2Patent {
         
         // Update all reference links with dynamic URLs
         const referenceLinks = document.querySelectorAll('.reference-link');
+        console.log('Found reference links:', referenceLinks.length);
         
-        if (referenceLinks.length >= 8) {
+        if (referenceLinks.length >= 7) {
             // Google Scholar
             referenceLinks[0].href = `https://scholar.google.com/scholar?q=${searchTerms}`;
             referenceLinks[0].target = '_blank';
+            console.log('Set Google Scholar link:', referenceLinks[0].href);
             
             // Wikipedia
             referenceLinks[1].href = `https://en.wikipedia.org/wiki/Special:Search?search=${searchTerms}`;
@@ -747,7 +749,15 @@ class Problem2Patent {
             referenceLinks[6].href = `https://stackoverflow.com/search?q=${searchTerms}`;
             referenceLinks[6].target = '_blank';
             
-
+            // ArXiv (if there's a 7th link)
+            if (referenceLinks.length >= 8) {
+                referenceLinks[7].href = `https://arxiv.org/search/?query=${searchTerms}`;
+                referenceLinks[7].target = '_blank';
+            }
+            
+            console.log('All reference links configured successfully');
+        } else {
+            console.warn('Not enough reference links found:', referenceLinks.length);
         }
     }
 
@@ -1165,11 +1175,11 @@ class Problem2Patent {
             
             return `
                 <div class="p-3 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors cursor-pointer" 
-                     onclick="window.problem2patent.openBookmarkedProblem('${problem.id}')">
+                     onclick="window.problem2project.openBookmarkedProblem('${problem.id}')">
                     <h4 class="font-medium text-gray-900 dark:text-gray-100 text-sm mb-1 line-clamp-2">${problem.title}</h4>
                     <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
                         <span>${domainInfo.shortName}</span>
-                        <button onclick="event.stopPropagation(); window.problem2patent.removeBookmark('${problem.id}')" 
+                        <button onclick="event.stopPropagation(); window.problem2project.removeBookmark('${problem.id}')" 
                                 class="text-red-500 hover:text-red-700 transition-colors">
                             <i class="fas fa-trash text-xs"></i>
                         </button>
@@ -1279,12 +1289,12 @@ class Problem2Patent {
 
 // Initialize the application when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    window.problem2patent = new Problem2Patent();
+    window.problem2project = new Problem2Project();
 });
 
 // Global functions for backward compatibility
 window.toggleKeywords = (category) => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     const domainMap = {
         'programming': '1',
         'math': '2',
@@ -1312,11 +1322,11 @@ window.toggleKeywords = (category) => {
 };
 
 window.showProblemDetails = (problem) => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     app.showProblemDetails(problem);
 };
 
 window.closeModal = () => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     app.closeModal();
 };
