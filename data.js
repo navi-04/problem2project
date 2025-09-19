@@ -1397,7 +1397,672 @@ const PROBLEMS_DATA = {
             "description": "Create an intelligent tutoring system that guides students through complex matrix operations, eigenvalue problems, and linear transformations with step-by-step explanations.",
             "keywords": ["Linear Algebra", "Matrix Operations", "Tutoring", "Education"]
         },
-
+        {
+            "id": 106,
+            "title": "Mathematical Formula Solver with Steps",
+            "domain": "2",
+            "description": "Develop a system that not only solves complex mathematical formulas but also shows detailed step-by-step solutions with explanations.",
+            "keywords": ["Formula Solving", "Step-by-step", "Education", "Problem Solving"]
+        },
+        {
+            "id": 107,
+            "title": "Graph Theory Visualization Tool",
+            "domain": "2",
+            "description": "Create an interactive tool for visualizing graph theory concepts including shortest paths, minimum spanning trees, and network flows.",
+            "keywords": ["Graph Theory", "Visualization", "Networks", "Algorithms"]
+        },
+        {
+            "id": 108,
+            "title": "Differential Equation Solver Suite",
+            "domain": "2",
+            "description": "Build a comprehensive suite for solving various types of differential equations with visualization of solutions and phase portraits.",
+            "keywords": ["Differential Equations", "Numerical Methods", "Visualization", "Mathematical Modeling"]
+        },
+        {
+            "id": 109,
+            "title": "Optimization Problem Generator",
+            "domain": "2",
+            "description": "Design a system that generates optimization problems with varying difficulty levels for educational and research purposes.",
+            "keywords": ["Optimization", "Problem Generation", "Education", "Research"]
+        },
+        {
+            "id": 110,
+            "title": "Bayesian Inference Calculator",
+            "domain": "2",
+            "description": "Create a tool that performs Bayesian inference calculations with prior/posterior visualization and hypothesis testing.",
+            "keywords": ["Bayesian Statistics", "Inference", "Probability", "Hypothesis Testing"]
+        },
+        {
+            "id": 111,
+            "title": "Fractal Geometry Explorer",
+            "domain": "2",
+            "description": "Develop an interactive system that generates, visualizes, and explains fractals with step-by-step mathematical derivations and zoom-based exploration.",
+            "keywords": ["Fractals", "Geometry", "Visualization", "Mathematical Exploration"]
+        },
+        {
+            "id": 112,
+            "title": "AI-Powered Proof Simplifier",
+            "domain": "2",
+            "description": "Create an AI system that takes long mathematical proofs and suggests simplified or alternative approaches while preserving logical correctness.",
+            "keywords": ["Proof Simplification", "AI", "Logic", "Mathematics"]
+        },
+        {
+            "id": 113,
+            "title": "Topology Concept Visualizer",
+            "domain": "2",
+            "description": "Design a visual learning tool for topology concepts like homeomorphisms, open sets, and continuous functions with interactive 3D manipulation.",
+            "keywords": ["Topology", "Visualization", "3D Models", "Education"]
+        },
+        {
+            "id": 114,
+            "title": "Game-Theory Strategy Simulator",
+            "domain": "2",
+            "description": "Build a simulator that models real-world strategic interactions using game theory, allowing users to test payoff matrices and Nash equilibria.",
+            "keywords": ["Game Theory", "Simulation", "Strategy", "Mathematical Modeling"]
+        },
+        {
+            "id": 115,
+            "title": "Chaos Theory Dynamics Visualizer",
+            "domain": "2",
+            "description": "Develop a tool to explore chaos theory through visualization of logistic maps, strange attractors, and sensitivity to initial conditions.",
+            "keywords": ["Chaos Theory", "Nonlinear Dynamics", "Visualization", "Mathematical Exploration"]
+        },
+        {
+            "id": 116,
+            "title": "Cryptographic Math Playground",
+            "domain": "2",
+            "description": "Create a system that demonstrates the mathematics behind cryptography including modular exponentiation, RSA, and elliptic curve operations.",
+            "keywords": ["Cryptography", "Number Theory", "Elliptic Curves", "Education"]
+        },
+        {
+            "id": 117,
+            "title": "Combinatorics Problem Generator",
+            "domain": "2",
+            "description": "Build a generator that creates combinatorial problems such as permutations, combinations, and partitions with instant solution verification.",
+            "keywords": ["Combinatorics", "Problem Generation", "Mathematical Puzzles", "Education"]
+        },
+        {
+            "id": 118,
+            "title": "Probability Distribution Explorer",
+            "domain": "2",
+            "description": "Design an interactive explorer that lets users visualize and compare probability distributions, including their real-world applications.",
+            "keywords": ["Probability", "Statistics", "Distributions", "Visualization"]
+        },
+        {
+            "id": 119,
+            "title": "Infinity and Limits Learning Tool",
+            "domain": "2",
+            "description": "Develop a system to teach mathematical infinity and limits through animations, paradoxes, and step-by-step calculus applications.",
+            "keywords": ["Infinity", "Limits", "Calculus", "Education"]
+        },
+        {
+            "id": 120,
+            "title": "Symbolic Algebra Manipulation AI",
+            "domain": "2",
+            "description": "Create an AI that manipulates algebraic expressions symbolically, offering alternative simplifications and transformations with explanations.",
+            "keywords": ["Algebra", "Symbolic Manipulation", "AI", "Education"]
+        },
+        {
+            "id": 121,
+            "title": "Fourier Transform Visual Learning Lab",
+            "domain": "2",
+            "description": "Develop an interactive platform to visualize Fourier transforms, frequency analysis, and signal decomposition in both math and real-world contexts.",
+            "keywords": ["Fourier Analysis", "Signals", "Visualization", "Mathematical Modeling"]
+        },
+        {
+            "id": 122,
+            "title": "Mathematical Puzzle Creator",
+            "domain": "2",
+            "description": "Build a tool that generates unique math-based puzzles such as magic squares, Sudoku variants, and logic riddles with automatic solutions.",
+            "keywords": ["Puzzles", "Logic", "Recreational Mathematics", "Problem Solving"]
+        },
+        {
+            "id": 123,
+            "title": "Abstract Algebra Concept Explorer",
+            "domain": "2",
+            "description": "Create an educational system to explore algebraic structures like groups, rings, and fields with interactive visual demonstrations.",
+            "keywords": ["Abstract Algebra", "Groups", "Rings", "Fields"]
+        },
+        {
+            "id": 124,
+            "title": "Geometric Construction AI Assistant",
+            "domain": "2",
+            "description": "Design an AI tool that guides students in classical geometric constructions using compass-and-straightedge rules with step verification.",
+            "keywords": ["Geometry", "Constructions", "AI Assistance", "Education"]
+        },
+        {
+            "id": 125,
+            "title": "Real-Life Math Problem Modeler",
+            "domain": "2",
+            "description": "Develop a system that converts real-world scenarios into mathematical models, helping students practice applied problem-solving.",
+            "keywords": ["Applied Mathematics", "Modeling", "Education", "Problem Solving"]
+        },
+        {
+            "id": 126,
+            "title": "Vector Calculus Flow Simulator",
+            "domain": "2",
+            "description": "Create a simulator to visualize vector fields, divergence, curl, and flux integrals with 3D representations of physical phenomena.",
+            "keywords": ["Vector Calculus", "Visualization", "Simulation", "Physics"]
+        },
+        {
+            "id": 127,
+            "title": "Mathematical Paradox Explorer",
+            "domain": "2",
+            "description": "Build an interactive tool to demonstrate famous mathematical paradoxes, explain their logic, and engage users in resolving apparent contradictions.",
+            "keywords": ["Paradoxes", "Logic", "Mathematical Exploration", "Education"]
+        },
+        {
+            "id": 128,
+            "title": "Algorithmic Complexity Visualizer",
+            "domain": "2",
+            "description": "Develop a visual system to teach algorithmic complexity analysis with mathematical foundations of Big-O, Big-Theta, and Big-Omega notations.",
+            "keywords": ["Complexity", "Algorithms", "Visualization", "Mathematical Analysis"]
+        },
+        {
+            "id": 129,
+            "title": "Set Theory Interactive Playground",
+            "domain": "2",
+            "description": "Create a playground for set theory that demonstrates unions, intersections, power sets, and cardinalities with interactive Venn diagrams.",
+            "keywords": ["Set Theory", "Logic", "Visualization", "Education"]
+        },
+        {
+            "id": 130,
+            "title": "Mathematical History Timeline Explorer",
+            "domain": "2",
+            "description": "Design an interactive timeline showing the evolution of mathematical discoveries with problem examples and their modern relevance.",
+            "keywords": ["Mathematics History", "Education", "Timeline", "Discovery"]
+        },
+        {
+            "id": 131,
+            "title": "Mathematical Illusion Analyzer",
+            "domain": "2",
+            "description": "Create a system that mathematically explains famous visual illusions using geometry, trigonometry, and perspective principles.",
+            "keywords": ["Geometry", "Perception", "Illusions", "Mathematical Analysis"]
+        },
+        {
+            "id": 132,
+            "title": "Quantum Probability Simulator",
+            "domain": "2",
+            "description": "Develop a platform that models quantum probability concepts like superposition and entanglement using mathematical formalism.",
+            "keywords": ["Quantum Mathematics", "Probability", "Simulation", "Education"]
+        },
+        {
+            "id": 133,
+            "title": "Infinite Series Convergence Explorer",
+            "domain": "2",
+            "description": "Build a system that lets students experiment with infinite series and visually see convergence, divergence, and rate of approximation.",
+            "keywords": ["Infinite Series", "Convergence", "Calculus", "Visualization"]
+        },
+        {
+            "id": 134,
+            "title": "Mathematical Knot Theory Lab",
+            "domain": "2",
+            "description": "Design an interactive lab to explore knot theory, visualizing invariants like the Jones polynomial and knot equivalence classes.",
+            "keywords": ["Knot Theory", "Topology", "Visualization", "Mathematical Exploration"]
+        },
+        {
+            "id": 135,
+            "title": "Ethnomathematics Explorer",
+            "domain": "2",
+            "description": "Create a tool that explores mathematical concepts discovered in diverse cultures, connecting indigenous methods with modern mathematics.",
+            "keywords": ["Ethnomathematics", "Cultural Mathematics", "History", "Education"]
+        },
+        {
+            "id": 136,
+            "title": "Mathematics of Music Analyzer",
+            "domain": "2",
+            "description": "Build a system that reveals mathematical patterns in music such as harmonic ratios, Fourier decomposition of sound, and rhythm cycles.",
+            "keywords": ["Music", "Mathematics", "Harmonics", "Fourier Analysis"]
+        },
+        {
+            "id": 137,
+            "title": "Hyperbolic Geometry Playground",
+            "domain": "2",
+            "description": "Develop an interactive playground to explore non-Euclidean geometries, with tessellations and models of hyperbolic space.",
+            "keywords": ["Hyperbolic Geometry", "Non-Euclidean", "Tessellations", "Visualization"]
+        },
+        {
+            "id": 138,
+            "title": "Mathematical Fairness Evaluator",
+            "domain": "2",
+            "description": "Design a system that mathematically evaluates fairness in decision-making systems using game theory, probability, and optimization.",
+            "keywords": ["Fairness", "Optimization", "Game Theory", "Probability"]
+        },
+        {
+            "id": 139,
+            "title": "Dimension Theory Explorer",
+            "domain": "2",
+            "description": "Create an interactive tool to explore mathematical concepts of dimension, including fractal dimensions and Hilbert space dimensions.",
+            "keywords": ["Dimension Theory", "Fractals", "Topology", "Education"]
+        },
+        {
+            "id": 140,
+            "title": "Random Walks Simulator",
+            "domain": "2",
+            "description": "Develop a simulator for random walks on lines, planes, and graphs, with connections to probability theory and Markov chains.",
+            "keywords": ["Random Walks", "Probability", "Stochastic Processes", "Visualization"]
+        },
+        {
+            "id": 141,
+            "title": "Symmetry and Group Action Explorer",
+            "domain": "2",
+            "description": "Build a system to demonstrate group actions on geometric objects, connecting symmetry, transformations, and abstract algebra.",
+            "keywords": ["Symmetry", "Group Theory", "Geometry", "Mathematics"]
+        },
+        {
+            "id": 142,
+            "title": "Mathematics of Voting Systems",
+            "domain": "2",
+            "description": "Design a tool that analyzes different voting systems mathematically, exploring paradoxes like Arrow’s theorem and strategic manipulation.",
+            "keywords": ["Voting Systems", "Game Theory", "Mathematical Analysis", "Fairness"]
+        },
+        {
+            "id": 143,
+            "title": "Prime Gaps Analyzer",
+            "domain": "2",
+            "description": "Create a system to study gaps between consecutive prime numbers, offering statistical visualizations and heuristic models.",
+            "keywords": ["Prime Numbers", "Number Theory", "Patterns", "Mathematical Research"]
+        },
+        {
+            "id": 144,
+            "title": "Mathematics of Friction and Motion",
+            "domain": "2",
+            "description": "Develop a problem-based tool connecting mathematical models of friction, motion, and energy dissipation in physics contexts.",
+            "keywords": ["Mechanics", "Physics", "Differential Equations", "Applied Mathematics"]
+        },
+        {
+            "id": 145,
+            "title": "Nonlinear Optimization Challenge Generator",
+            "domain": "2",
+            "description": "Build a system that generates novel nonlinear optimization challenges with adjustable constraints and real-world applications.",
+            "keywords": ["Optimization", "Nonlinear Mathematics", "Problem Generation", "Mathematical Modeling"]
+        },
+        {
+            "id": 146,
+            "title": "Mathematics of Networks and Epidemics",
+            "domain": "2",
+            "description": "Create a tool that models epidemic spread using network theory, differential equations, and probability for mathematical insight.",
+            "keywords": ["Epidemics", "Networks", "Differential Equations", "Mathematical Modeling"]
+        },
+        {
+            "id": 147,
+            "title": "Time Complexity Proof Explorer",
+            "domain": "2",
+            "description": "Design a platform that teaches students how to mathematically prove the complexity of algorithms step by step with guided hints.",
+            "keywords": ["Complexity Theory", "Algorithms", "Proofs", "Mathematics"]
+        },
+        {
+            "id": 148,
+            "title": "Topology of Surfaces Visual Lab",
+            "domain": "2",
+            "description": "Develop a lab where users can explore classification of surfaces like Möbius strips, Klein bottles, and tori through interactive manipulation.",
+            "keywords": ["Topology", "Surfaces", "Visualization", "Mathematical Exploration"]
+        },
+        {
+            "id": 149,
+            "title": "Mathematical Storytelling Engine",
+            "domain": "2",
+            "description": "Create a system that converts mathematical proofs or concepts into interactive stories or narratives for better conceptual understanding.",
+            "keywords": ["Mathematics Education", "Storytelling", "Proofs", "Engagement"]
+        },
+        {
+            "id": 150,
+            "title": "Cognitive Math Error Analyzer",
+            "domain": "2",
+            "description": "Build an AI tool that detects common reasoning errors in solving math problems and explains the underlying misconceptions.",
+            "keywords": ["Error Detection", "Education", "Cognitive Mathematics", "AI Assistance"]
+        },
+        {
+            "id": 151,
+            "title": "Polynomial Identity Explorer",
+            "domain": "2",
+            "description": "Develop an interactive system that generates and proves non-trivial polynomial identities with visualization of algebraic expansions.",
+            "keywords": ["Algebra", "Polynomials", "Symbolic Computation", "Proofs"]
+        },
+        {
+            "id": 152,
+            "title": "Infinite Dimensional Calculus Simulator",
+            "domain": "2",
+            "description": "Build a platform that introduces calculus concepts in infinite-dimensional spaces, connecting to functional analysis and applications.",
+            "keywords": ["Calculus", "Functional Analysis", "Infinite Dimensions", "Mathematical Modeling"]
+        },
+        {
+            "id": 153,
+            "title": "Discrete Math Cryptopuzzle Generator",
+            "domain": "2",
+            "description": "Create a generator of logic and graph-based cryptopuzzles rooted in discrete mathematics with automated solution verification.",
+            "keywords": ["Discrete Math", "Puzzles", "Graph Theory", "Logic"]
+        },
+        {
+            "id": 154,
+            "title": "Twin Prime Conjecture Visual Lab",
+            "domain": "2",
+            "description": "Design a tool that visualizes twin prime pairs, analyzes prime gaps, and offers conjecture-based insights for research learning.",
+            "keywords": ["Number Theory", "Prime Numbers", "Conjectures", "Visualization"]
+        },
+        {
+            "id": 155,
+            "title": "Resampling Statistics Playground",
+            "domain": "2",
+            "description": "Build a platform where students can explore bootstrapping and permutation tests with live datasets and step-by-step explanations.",
+            "keywords": ["Statistics", "Resampling", "Bootstrapping", "Data Analysis"]
+        },
+        {
+            "id": 156,
+            "title": "Probability Paradox Explorer",
+            "domain": "2",
+            "description": "Develop a system that demonstrates famous probability paradoxes like Monty Hall and Bertrand’s box paradox with mathematical proofs.",
+            "keywords": ["Probability", "Paradoxes", "Logic", "Mathematical Reasoning"]
+        },
+        {
+            "id": 157,
+            "title": "Eigenvalue Applications Visualizer",
+            "domain": "2",
+            "description": "Create an interactive tool showing real-world applications of eigenvalues in stability analysis, vibrations, and machine learning.",
+            "keywords": ["Linear Algebra", "Eigenvalues", "Applications", "Visualization"]
+        },
+        {
+            "id": 158,
+            "title": "Nonlinear Differential Chaos Simulator",
+            "domain": "2",
+            "description": "Build a simulator for nonlinear differential equations that shows chaotic dynamics, bifurcation diagrams, and attractor patterns.",
+            "keywords": ["Differential Equations", "Nonlinear Systems", "Chaos", "Mathematical Modeling"]
+        },
+        {
+            "id": 159,
+            "title": "Real-World Optimization Case Library",
+            "domain": "2",
+            "description": "Design a library of interactive optimization problems from supply chains, energy, and transport with adjustable parameters.",
+            "keywords": ["Optimization", "Operations Research", "Mathematical Modeling", "Case Studies"]
+        },
+        {
+            "id": 160,
+            "title": "Disaster Prediction Math Modeler",
+            "domain": "2",
+            "description": "Develop a modeling system that uses differential equations and probability to mathematically analyze disaster spread and mitigation.",
+            "keywords": ["Mathematical Modeling", "Disasters", "Differential Equations", "Probability"]
+        },
+        {
+            "id": 161,
+            "title": "Computational Complexity Playground",
+            "domain": "2",
+            "description": "Create a hands-on system that allows students to experiment with computational hardness, NP-complete reductions, and algorithms.",
+            "keywords": ["Computational Mathematics", "Complexity Theory", "Algorithms", "Discrete Math"]
+        },
+        {
+            "id": 162,
+            "title": "Logic Circuit to Proof Converter",
+            "domain": "2",
+            "description": "Build a system that translates logic circuits into formal logical proofs, bridging computer engineering with pure logic.",
+            "keywords": ["Logic", "Proofs", "Discrete Math", "Computational Mathematics"]
+        },
+        {
+            "id": 163,
+            "title": "Abstract Algebra Symmetry Finder",
+            "domain": "2",
+            "description": "Design an application that detects hidden algebraic symmetry structures in equations or datasets automatically.",
+            "keywords": ["Algebra", "Symmetry", "Group Theory", "Mathematical Discovery"]
+        },
+        {
+            "id": 164,
+            "title": "Multivariable Calculus Field Lab",
+            "domain": "2",
+            "description": "Develop a tool to explore gradient, divergence, and curl in real-world physical fields like fluid flow and electromagnetism.",
+            "keywords": ["Calculus", "Vector Fields", "Multivariable", "Applications"]
+        },
+        {
+            "id": 165,
+            "title": "Graph Coloring Challenge Creator",
+            "domain": "2",
+            "description": "Build a challenge-based generator for graph coloring problems with increasing difficulty and connections to scheduling theory.",
+            "keywords": ["Discrete Math", "Graph Theory", "Optimization", "Combinatorics"]
+        },
+        {
+            "id": 166,
+            "title": "Prime-Based Cryptographic Explorer",
+            "domain": "2",
+            "description": "Create a tool that demonstrates how number theory underpins cryptography with RSA, elliptic curves, and lattice-based methods.",
+            "keywords": ["Number Theory", "Cryptography", "Algebra", "Security"]
+        },
+        {
+            "id": 167,
+            "title": "Bayesian Statistics Tutor",
+            "domain": "2",
+            "description": "Develop a tutor that explains Bayesian inference visually, including priors, likelihood updates, and posterior distributions.",
+            "keywords": ["Statistics", "Bayesian Inference", "Probability", "Education"]
+        },
+        {
+            "id": 168,
+            "title": "Markov Chain Scenario Simulator",
+            "domain": "2",
+            "description": "Design a scenario-based simulator for real-world Markov chain models such as weather prediction, queues, and board games.",
+            "keywords": ["Probability", "Markov Chains", "Stochastic Processes", "Modeling"]
+        },
+        {
+            "id": 169,
+            "title": "Sparse Matrix Computation Lab",
+            "domain": "2",
+            "description": "Build a lab for experimenting with sparse matrix techniques used in big data, machine learning, and scientific computing.",
+            "keywords": ["Linear Algebra", "Sparse Matrices", "Computational Mathematics", "Big Data"]
+        },
+        {
+            "id": 170,
+            "title": "Logic Puzzle Proof Generator",
+            "domain": "2",
+            "description": "Develop a generator that transforms classic logic puzzles into formal proofs, making reasoning transparent and step-based.",
+            "keywords": ["Logic", "Puzzles", "Proofs", "Discrete Math"]
+        },
+        {
+            "id": 171,
+            "title": "Algebraic Geometry Curve Explorer",
+            "domain": "2",
+            "description": "Develop an interactive tool that visualizes algebraic curves and surfaces, exploring intersections, singularities, and varieties.",
+            "keywords": ["Algebra", "Algebraic Geometry", "Curves", "Surfaces"]
+        },
+        {
+            "id": 172,
+            "title": "Stochastic Calculus Playground",
+            "domain": "2",
+            "description": "Create a simulator that introduces stochastic integrals and Brownian motion with applications in finance and physics.",
+            "keywords": ["Calculus", "Stochastic Processes", "Brownian Motion", "Mathematical Modeling"]
+        },
+        {
+            "id": 173,
+            "title": "Combinatorial Explosion Visualizer",
+            "domain": "2",
+            "description": "Build a system that demonstrates how solution spaces grow combinatorially in puzzles, optimization, and graph problems.",
+            "keywords": ["Discrete Math", "Combinatorics", "Complexity", "Visualization"]
+        },
+        {
+            "id": 174,
+            "title": "Modular Arithmetic Cryptanalysis Lab",
+            "domain": "2",
+            "description": "Design a lab where students test modular arithmetic principles for breaking simple cryptosystems and creating new ones.",
+            "keywords": ["Number Theory", "Modular Arithmetic", "Cryptography", "Mathematics"]
+        },
+        {
+            "id": 175,
+            "title": "Statistical Anomaly Detector",
+            "domain": "2",
+            "description": "Create a tool that mathematically identifies anomalies in datasets using robust statistical tests and visualization.",
+            "keywords": ["Statistics", "Anomaly Detection", "Data Analysis", "Mathematical Modeling"]
+        },
+        {
+            "id": 176,
+            "title": "Probability Distribution Composer",
+            "domain": "2",
+            "description": "Develop a system where users can combine, transform, and visualize probability distributions to create new ones.",
+            "keywords": ["Probability", "Distributions", "Mathematical Exploration", "Simulation"]
+        },
+        {
+            "id": 177,
+            "title": "Tensor Algebra Applications Lab",
+            "domain": "2",
+            "description": "Build a platform for exploring tensor operations and their roles in physics, relativity, and machine learning mathematics.",
+            "keywords": ["Linear Algebra", "Tensors", "Physics", "Mathematical Modeling"]
+        },
+        {
+            "id": 178,
+            "title": "Delay Differential Equation Simulator",
+            "domain": "2",
+            "description": "Create a simulator that solves and visualizes delay differential equations, showing memory effects in dynamic systems.",
+            "keywords": ["Differential Equations", "Dynamics", "Simulation", "Mathematical Modeling"]
+        },
+        {
+            "id": 179,
+            "title": "Swarm Optimization Simulator",
+            "domain": "2",
+            "description": "Design an optimization tool inspired by swarm intelligence, comparing its mathematical performance to classical methods.",
+            "keywords": ["Optimization", "Swarm Intelligence", "Algorithms", "Mathematics"]
+        },
+        {
+            "id": 180,
+            "title": "Multi-Scale Modeling Explorer",
+            "domain": "2",
+            "description": "Develop a platform that connects microscopic and macroscopic models using mathematics for biology, physics, and economics.",
+            "keywords": ["Mathematical Modeling", "Multi-Scale Systems", "Applications", "Computation"]
+        },
+        {
+            "id": 181,
+            "title": "Symbolic-Numeric Hybrid Solver",
+            "domain": "2",
+            "description": "Build a solver that combines symbolic manipulation with numerical approximation for problems unsolvable by one method alone.",
+            "keywords": ["Computational Mathematics", "Hybrid Methods", "Problem Solving", "Algorithms"]
+        },
+        {
+            "id": 182,
+            "title": "Intuitionistic Logic Playground",
+            "domain": "2",
+            "description": "Create a tool that introduces constructive proofs and intuitionistic logic as alternatives to classical logic frameworks.",
+            "keywords": ["Logic", "Proofs", "Intuitionism", "Mathematical Foundations"]
+        },
+        {
+            "id": 183,
+            "title": "Algebra of Symmetries in Art",
+            "domain": "2",
+            "description": "Design an application that detects and explains symmetry groups within artworks, tilings, and cultural patterns.",
+            "keywords": ["Algebra", "Symmetry", "Art", "Group Theory"]
+        },
+        {
+            "id": 184,
+            "title": "Fractional Calculus Lab",
+            "domain": "2",
+            "description": "Build a system for experimenting with fractional derivatives and integrals and their applications in modeling memory-dependent systems.",
+            "keywords": ["Calculus", "Fractional Derivatives", "Differential Equations", "Mathematical Modeling"]
+        },
+        {
+            "id": 185,
+            "title": "Discrete Structures in Biology",
+            "domain": "2",
+            "description": "Create a tool that applies discrete math structures such as trees, automata, and sequences to model biological processes.",
+            "keywords": ["Discrete Math", "Biology", "Mathematical Modeling", "Computation"]
+        },
+        {
+            "id": 186,
+            "title": "Diophantine Equation Solver Suite",
+            "domain": "2",
+            "description": "Develop a suite that attempts to solve or approximate integer solutions for Diophantine equations with visual explanations.",
+            "keywords": ["Number Theory", "Diophantine Equations", "Algebra", "Mathematical Problem Solving"]
+        },
+        {
+            "id": 187,
+            "title": "Causal Inference Statistics Lab",
+            "domain": "2",
+            "description": "Build a platform that teaches causal inference through statistics, counterfactual reasoning, and graph-based models.",
+            "keywords": ["Statistics", "Causality", "Inference", "Data Analysis"]
+        },
+        {
+            "id": 188,
+            "title": "Probability in Infinite Games",
+            "domain": "2",
+            "description": "Design a simulator that explores infinite games with probability-driven outcomes and paradoxical win/lose conditions.",
+            "keywords": ["Probability", "Game Theory", "Infinity", "Mathematical Exploration"]
+        },
+        {
+            "id": 189,
+            "title": "Quantum Linear Algebra Lab",
+            "domain": "2",
+            "description": "Create an educational tool that shows how linear algebra underpins quantum mechanics, focusing on operators and eigenstates.",
+            "keywords": ["Linear Algebra", "Quantum Mathematics", "Eigenstates", "Physics"]
+        },
+        {
+            "id": 190,
+            "title": "Proof Complexity Analyzer",
+            "domain": "2",
+            "description": "Develop a system that measures and compares the complexity of different proofs of the same theorem, ranking them by elegance.",
+            "keywords": ["Logic", "Proof Complexity", "Mathematical Reasoning", "Education"]
+        },
+        {
+    "id": 191,
+    "title": "Adaptive Algebra Problem Sculptor",
+    "domain": "2",
+    "description": "Design a system that sculpts personalized algebra problems in real-time, adapting to the learner’s mistakes and progressively building mastery.",
+    "keywords": ["Algebra", "Education", "Adaptive Learning", "Problem Generation"]
+},
+{
+    "id": 192,
+    "title": "Calculus in Motion",
+    "domain": "2",
+    "description": "Build a real-time motion simulator where users can manipulate velocity and acceleration functions to see calculus concepts like derivatives and integrals unfold dynamically.",
+    "keywords": ["Calculus", "Simulation", "Visualization", "Physics"]
+},
+{
+    "id": 193,
+    "title": "Discrete Math Puzzle Universe",
+    "domain": "2",
+    "description": "Create a gamified universe of logic and graph-based puzzles that scale in complexity, illustrating core discrete mathematics principles through challenges.",
+    "keywords": ["Discrete Math", "Logic", "Puzzles", "Gamification"]
+},
+{
+    "id": 194,
+    "title": "Number Theory Harmony Visualizer",
+    "domain": "2",
+    "description": "Develop a visual system that transforms number theory relationships (divisibility, modular congruence) into harmonic patterns of music and art.",
+    "keywords": ["Number Theory", "Visualization", "Art", "Patterns"]
+},
+{
+    "id": 195,
+    "title": "Statistical Simulation Sandbox",
+    "domain": "2",
+    "description": "Build a sandbox where students design experiments, collect synthetic data, and observe how statistical laws like the Central Limit Theorem emerge naturally.",
+    "keywords": ["Statistics", "Simulation", "Education", "Data Analysis"]
+},
+{
+    "id": 196,
+    "title": "Probability Universe Explorer",
+    "domain": "2",
+    "description": "Design an exploratory engine where users tweak random variables to see how probability distributions evolve across multiple interacting systems.",
+    "keywords": ["Probability", "Random Variables", "Distributions", "Visualization"]
+},
+{
+    "id": 197,
+    "title": "AI Linear Algebra Mentor",
+    "domain": "2",
+    "description": "Create an intelligent mentor that not only solves linear algebra problems but generates geometric analogies and 3D visual explanations for concepts like eigenvectors.",
+    "keywords": ["Linear Algebra", "AI Tutor", "Visualization", "Education"]
+},
+{
+    "id": 198,
+    "title": "Differential Equation Chaos Explorer",
+    "domain": "2",
+    "description": "Develop a system to simulate chaotic behaviors in differential equations, letting users explore attractors, bifurcations, and sensitivity to initial conditions.",
+    "keywords": ["Differential Equations", "Chaos", "Simulation", "Modeling"]
+},
+{
+    "id": 199,
+    "title": "Optimization in the Wild",
+    "domain": "2",
+    "description": "Create a problem-solving lab where users apply optimization techniques to real-world inspired challenges like traffic flow, diet planning, and resource allocation.",
+    "keywords": ["Optimization", "Applied Mathematics", "Problem Solving", "Education"]
+},
+{
+    "id": 200,
+    "title": "Computational Math Thought Experiment Generator",
+    "domain": "2",
+    "description": "Design a system that automatically generates computationally intensive thought experiments blending mathematics, logic, and algorithmic puzzles for exploration.",
+    "keywords": ["Computational Mathematics", "Logic", "Algorithms", "Problem Generation"]
+}
+    
         // PHYSICS (Domain 3) - 70+ problems
         {
             "id": 201,
@@ -1434,6 +2099,7 @@ const PROBLEMS_DATA = {
             "description": "Build a comprehensive platform for simulating optical systems, including ray tracing, interference patterns, and lens design optimization.",
             "keywords": ["Optics", "Ray Tracing", "Simulation", "Lens Design"]
         },
+        
 
         // CHEMISTRY (Domain 4) - 60+ problems
         {
@@ -1825,47 +2491,6 @@ const PROBLEMS_DATA = {
             "keywords": ["Quantum Cryptography", "Security", "Quantum Resistance", "Protocol Design"]
         },
 
-        // Continue with more problems to reach 2000+ total
-        // Programming & Algorithms - Additional problems
-        
-
-        // Mathematics - Additional problems
-        {
-            "id": 106,
-            "title": "Mathematical Formula Solver with Steps",
-            "domain": "2",
-            "description": "Develop a system that not only solves complex mathematical formulas but also shows detailed step-by-step solutions with explanations.",
-            "keywords": ["Formula Solving", "Step-by-step", "Education", "Problem Solving"]
-        },
-        {
-            "id": 107,
-            "title": "Graph Theory Visualization Tool",
-            "domain": "2",
-            "description": "Create an interactive tool for visualizing graph theory concepts including shortest paths, minimum spanning trees, and network flows.",
-            "keywords": ["Graph Theory", "Visualization", "Networks", "Algorithms"]
-        },
-        {
-            "id": 108,
-            "title": "Differential Equation Solver Suite",
-            "domain": "2",
-            "description": "Build a comprehensive suite for solving various types of differential equations with visualization of solutions and phase portraits.",
-            "keywords": ["Differential Equations", "Numerical Methods", "Visualization", "Mathematical Modeling"]
-        },
-        {
-            "id": 109,
-            "title": "Optimization Problem Generator",
-            "domain": "2",
-            "description": "Design a system that generates optimization problems with varying difficulty levels for educational and research purposes.",
-            "keywords": ["Optimization", "Problem Generation", "Education", "Research"]
-        },
-        {
-            "id": 110,
-            "title": "Bayesian Inference Calculator",
-            "domain": "2",
-            "description": "Create a tool that performs Bayesian inference calculations with prior/posterior visualization and hypothesis testing.",
-            "keywords": ["Bayesian Statistics", "Inference", "Probability", "Hypothesis Testing"]
-        },
-
         // Physics - Additional problems
         {
             "id": 206,
@@ -1904,9 +2529,6 @@ const PROBLEMS_DATA = {
         },
 
         // Continue adding problems for all domains...
-        // Due to length constraints, I'll add a representative sample for each domain
-        // In a real implementation, this would continue to 2000+ problems
-
         // Chemistry - Additional problems
         {
             "id": 306,
