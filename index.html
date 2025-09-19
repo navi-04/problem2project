@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Problem2Patent - Discover Innovation Opportunities</title>
+    <title>Problem2Project - Discover Innovation Opportunities</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -160,7 +160,7 @@
                 <div class="w-20 h-20 border-4 border-white/20 border-t-white rounded-full animate-spin mx-auto mb-4"></div>
                 <div class="absolute inset-0 w-20 h-20 border-4 border-transparent border-r-white/40 rounded-full animate-spin animation-delay-300 mx-auto"></div>
             </div>
-            <h2 class="text-2xl font-bold mb-2">Problem2Patent</h2>
+            <h2 class="text-2xl font-bold mb-2">Problem2Project</h2>
             <p class="text-blue-100">Loading innovation opportunities...</p>
         </div>
     </div>
@@ -174,7 +174,7 @@
                         <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
                             <i class="fas fa-lightbulb text-white text-sm"></i>
                         </div>
-                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Patent</span>
+                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
                     </a>
                 </div>
                 
@@ -182,6 +182,27 @@
                 <div class="hidden md:flex md:items-center md:space-x-8">
                     <a href="#home" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">Home</a>
                     <a href="#categories" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">Explore</a>
+                    
+                    <!-- Bookmarks Dropdown -->
+                    <div class="relative">
+                        <button id="bookmarks-toggle" class="flex items-center text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">
+                            <i class="fas fa-bookmark mr-2"></i>
+                            <span>Bookmarks</span>
+                            <span id="bookmarks-count" class="ml-1 px-2 py-1 bg-blue-600 text-white text-xs rounded-full hidden">0</span>
+                            <i class="fas fa-chevron-down ml-2 text-xs"></i>
+                        </button>
+                        
+                        <!-- Bookmarks Dropdown -->
+                        <div id="bookmarks-dropdown" class="absolute right-0 top-full mt-2 w-80 bg-white dark:bg-gray-800 rounded-xl shadow-xl border border-gray-200 dark:border-gray-700 hidden z-50">
+                            <div class="p-4">
+                                <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-3">Bookmarked Problems</h3>
+                                <div id="bookmarks-list" class="space-y-2 max-h-64 overflow-y-auto">
+                                    <p class="text-gray-500 dark:text-gray-400 text-sm text-center py-8">No bookmarked problems yet</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <a href="about.html" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">About</a>
                     <a href="contact.html" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">Contact</a>
                     <button id="search-toggle" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
@@ -194,6 +215,10 @@
 
                 <!-- Mobile menu button -->
                 <div class="md:hidden flex items-center space-x-2">
+                    <button id="bookmarks-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors relative">
+                        <i class="fas fa-bookmark text-gray-600 dark:text-gray-400"></i>
+                        <span id="bookmarks-count-mobile" class="absolute -top-1 -right-1 px-1.5 py-0.5 bg-blue-600 text-white text-xs rounded-full hidden">0</span>
+                    </button>
                     <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
                         <i class="fas fa-search text-gray-600 dark:text-gray-400"></i>
                     </button>
@@ -246,6 +271,26 @@
                     <div id="search-results-list" class="space-y-3 max-h-60 overflow-y-auto">
                         <!-- Search results will be populated here -->
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bookmarks Overlay (Mobile) -->
+    <div id="bookmarks-overlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 hidden md:hidden">
+        <div class="flex items-start justify-center pt-16 sm:pt-20 px-4">
+            <div class="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-lg p-4 sm:p-6 shadow-2xl transition-colors duration-300">
+                <div class="flex items-center justify-between mb-4 sm:mb-6">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 flex items-center">
+                        <i class="fas fa-bookmark text-blue-600 mr-2"></i>
+                        Bookmarked Problems
+                    </h3>
+                    <button id="bookmarks-close" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors">
+                        <i class="fas fa-times text-gray-400 dark:text-gray-500"></i>
+                    </button>
+                </div>
+                <div id="bookmarks-list-mobile" class="space-y-3 max-h-80 overflow-y-auto">
+                    <p class="text-gray-500 dark:text-gray-400 text-sm text-center py-8">No bookmarked problems yet</p>
                 </div>
             </div>
         </div>
@@ -682,7 +727,7 @@
                                 <i class="fas fa-envelope text-2xl text-white"></i>
                             </div>
                             <h4 class="text-xl font-semibold text-white mb-2">Email Us</h4>
-                            <p class="text-blue-100">hello@problem2patent.com</p>
+                            <p class="text-blue-100">hello@problem2project.com</p>
                         </div>
 
                         <div class="text-center">
@@ -716,7 +761,7 @@
                         <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
                             <i class="fas fa-lightbulb text-white text-sm"></i>
                         </div>
-                        <span class="text-xl font-bold">Problem2Patent</span>
+                        <span class="text-xl font-bold">Problem2Project</span>
                     </div>
                     <p class="text-gray-400 dark:text-gray-500 max-w-md">
                         Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.

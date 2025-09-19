@@ -1,7 +1,7 @@
-// Problem2Patent - Modern JavaScript Application
+// Problem2Project - Modern JavaScript Application
 // Enhanced functionality for problem discovery and exploration
 
-class Problem2Patent {
+class Problem2Project {
     constructor() {
         this.problems = [];
         this.allProblems = [];
@@ -25,6 +25,11 @@ class Problem2Patent {
             this.updateProblemCounts();
             this.hideLoadingScreen();
             this.setupIntersectionObserver();
+            // Initialize bookmarks with a small delay to ensure DOM is ready
+            setTimeout(() => {
+                this.updateBookmarkCounts();
+                this.updateBookmarkLists();
+            }, 100);
             // Handle shared problem links
             this.handleSharedProblemLink();
         } catch (error) {
@@ -305,18 +310,15 @@ class Problem2Patent {
 
         // Bookmark functionality (mobile)
         const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
-        console.log('Mobile bookmark button found:', bookmarkBtnMobile);
         bookmarkBtnMobile?.addEventListener('click', (e) => {
             e.preventDefault();
             e.stopPropagation();
-            console.log('Mobile bookmark clicked');
             this.toggleBookmark();
         });
         // Add touch event for better mobile responsiveness
         bookmarkBtnMobile?.addEventListener('touchend', (e) => {
             e.preventDefault();
             e.stopPropagation();
-            console.log('Mobile bookmark touched');
             this.toggleBookmark();
         });
 
@@ -328,18 +330,15 @@ class Problem2Patent {
 
         // Share functionality (mobile)
         const shareBtnMobile = document.getElementById('share-btn-mobile');
-        console.log('Mobile share button found:', shareBtnMobile);
         shareBtnMobile?.addEventListener('click', (e) => {
             e.preventDefault();
             e.stopPropagation();
-            console.log('Mobile share clicked');
             this.shareProblem();
         });
         // Add touch event for better mobile responsiveness
         shareBtnMobile?.addEventListener('touchend', (e) => {
             e.preventDefault();
             e.stopPropagation();
-            console.log('Mobile share touched');
             this.shareProblem();
         });
     }
@@ -363,6 +362,40 @@ class Problem2Patent {
         const themeToggleMobile = document.getElementById('theme-toggle-mobile');
         themeToggleMobile?.addEventListener('click', () => {
             this.toggleTheme();
+        });
+
+        // Bookmarks dropdown for desktop
+        const bookmarksToggle = document.getElementById('bookmarks-toggle');
+        const bookmarksDropdown = document.getElementById('bookmarks-dropdown');
+        bookmarksToggle?.addEventListener('click', (e) => {
+            e.stopPropagation();
+            this.toggleBookmarksDropdown();
+        });
+
+        // Bookmarks overlay for mobile
+        const bookmarksToggleMobile = document.getElementById('bookmarks-toggle-mobile');
+        const bookmarksOverlay = document.getElementById('bookmarks-overlay');
+        const bookmarksClose = document.getElementById('bookmarks-close');
+        
+        bookmarksToggleMobile?.addEventListener('click', () => {
+            this.showBookmarksOverlay();
+        });
+        
+        bookmarksClose?.addEventListener('click', () => {
+            this.hideBookmarksOverlay();
+        });
+        
+        bookmarksOverlay?.addEventListener('click', (e) => {
+            if (e.target === bookmarksOverlay) {
+                this.hideBookmarksOverlay();
+            }
+        });
+
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('#bookmarks-toggle') && !e.target.closest('#bookmarks-dropdown')) {
+                this.hideBookmarksDropdown();
+            }
         });
 
         // Random problem button
@@ -525,7 +558,7 @@ class Problem2Patent {
 
     createProblemCard(problem, index) {
         const card = document.createElement('div');
-        const isBookmarked = this.bookmarkedProblems.includes(problem.id);
+        const isBookmarked = this.bookmarkedProblems.includes(problem.id.toString());
         
         if (this.currentView === 'list') {
             card.className = 'problem-card bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 dark:border-gray-700 hover:border-blue-200 dark:hover:border-blue-500';
@@ -651,19 +684,19 @@ class Problem2Patent {
         // Update bookmark buttons (both desktop and mobile)
         const bookmarkBtn = document.getElementById('bookmark-btn');
         const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
-        const isBookmarked = this.bookmarkedProblems.includes(problem.id);
+        const isBookmarked = this.bookmarkedProblems.includes(problem.id.toString());
         
         // Update desktop bookmark button
         if (bookmarkBtn) {
             bookmarkBtn.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'} mr-2"></i>
                                     <span class="text-sm font-medium text-gray-700 dark:text-gray-300">${isBookmarked ? 'Bookmarked' : 'Bookmark'}</span>`;
-            bookmarkBtn.dataset.problemId = problem.id;
+            bookmarkBtn.dataset.problemId = problem.id.toString();
         }
         
         // Update mobile bookmark button
         if (bookmarkBtnMobile) {
             bookmarkBtnMobile.innerHTML = `<i class="fa${isBookmarked ? 's' : 'r'} fa-bookmark text-${isBookmarked ? 'yellow-500' : 'gray-600 dark:text-gray-400'}"></i>`;
-            bookmarkBtnMobile.dataset.problemId = problem.id;
+            bookmarkBtnMobile.dataset.problemId = problem.id.toString();
         }
 
         // Generate dynamic reference links
@@ -684,11 +717,13 @@ class Problem2Patent {
         
         // Update all reference links with dynamic URLs
         const referenceLinks = document.querySelectorAll('.reference-link');
+        console.log('Found reference links:', referenceLinks.length);
         
-        if (referenceLinks.length >= 8) {
+        if (referenceLinks.length >= 7) {
             // Google Scholar
             referenceLinks[0].href = `https://scholar.google.com/scholar?q=${searchTerms}`;
             referenceLinks[0].target = '_blank';
+            console.log('Set Google Scholar link:', referenceLinks[0].href);
             
             // Wikipedia
             referenceLinks[1].href = `https://en.wikipedia.org/wiki/Special:Search?search=${searchTerms}`;
@@ -714,7 +749,15 @@ class Problem2Patent {
             referenceLinks[6].href = `https://stackoverflow.com/search?q=${searchTerms}`;
             referenceLinks[6].target = '_blank';
             
-
+            // ArXiv (if there's a 7th link)
+            if (referenceLinks.length >= 8) {
+                referenceLinks[7].href = `https://arxiv.org/search/?query=${searchTerms}`;
+                referenceLinks[7].target = '_blank';
+            }
+            
+            console.log('All reference links configured successfully');
+        } else {
+            console.warn('Not enough reference links found:', referenceLinks.length);
         }
     }
 
@@ -828,7 +871,7 @@ class Problem2Patent {
     toggleBookmark() {
         if (!this.currentProblem) return;
         
-        const problemId = this.currentProblem.id;
+        const problemId = this.currentProblem.id.toString();
         const bookmarkBtn = document.getElementById('bookmark-btn');
         const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
         
@@ -855,20 +898,27 @@ class Problem2Patent {
         }
         
         this.saveBookmarks();
+        this.updateBookmarkCounts();
+        this.updateBookmarkLists();
+        this.refreshProblemCardsBookmarkState();
     }
 
     toggleBookmarkFromCard(problemId, button) {
-        if (this.bookmarkedProblems.includes(problemId)) {
-            this.bookmarkedProblems = this.bookmarkedProblems.filter(id => id !== problemId);
+        const id = problemId.toString();
+        if (this.bookmarkedProblems.includes(id)) {
+            this.bookmarkedProblems = this.bookmarkedProblems.filter(bookmarkId => bookmarkId !== id);
             button.classList.remove('text-yellow-500');
             button.classList.add('text-gray-400');
         } else {
-            this.bookmarkedProblems.push(problemId);
+            this.bookmarkedProblems.push(id);
             button.classList.remove('text-gray-400');
             button.classList.add('text-yellow-500');
         }
         
         this.saveBookmarks();
+        this.updateBookmarkCounts();
+        this.updateBookmarkLists();
+        this.refreshProblemCardsBookmarkState();
     }
 
     getBookmarkedProblems() {
@@ -1088,16 +1138,163 @@ class Problem2Patent {
         // Placeholder for pagination
         console.log('Loading more problems...');
     }
+
+    // Bookmarks functionality
+    updateBookmarkCounts() {
+        const count = this.bookmarkedProblems.length;
+        const countElement = document.getElementById('bookmarks-count');
+        const countElementMobile = document.getElementById('bookmarks-count-mobile');
+        
+        if (count > 0) {
+            countElement?.classList.remove('hidden');
+            countElementMobile?.classList.remove('hidden');
+            if (countElement) countElement.textContent = count;
+            if (countElementMobile) countElementMobile.textContent = count;
+        } else {
+            countElement?.classList.add('hidden');
+            countElementMobile?.classList.add('hidden');
+        }
+    }
+
+    updateBookmarkLists() {
+        const bookmarksList = document.getElementById('bookmarks-list');
+        const bookmarksListMobile = document.getElementById('bookmarks-list-mobile');
+        
+        if (this.bookmarkedProblems.length === 0) {
+            const emptyMessage = '<p class="text-gray-500 dark:text-gray-400 text-sm text-center py-8">No bookmarked problems yet</p>';
+            if (bookmarksList) bookmarksList.innerHTML = emptyMessage;
+            if (bookmarksListMobile) bookmarksListMobile.innerHTML = emptyMessage;
+            return;
+        }
+
+        const bookmarkedItems = this.bookmarkedProblems.map(problemId => {
+            const problem = this.allProblems.find(p => p.id.toString() === problemId.toString());
+            if (!problem) return '';
+
+            const domainInfo = DOMAINS[problem.domain] || { shortName: 'Unknown', category: 'unknown' };
+            
+            return `
+                <div class="p-3 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors cursor-pointer" 
+                     onclick="window.problem2project.openBookmarkedProblem('${problem.id}')">
+                    <h4 class="font-medium text-gray-900 dark:text-gray-100 text-sm mb-1 line-clamp-2">${problem.title}</h4>
+                    <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+                        <span>${domainInfo.shortName}</span>
+                        <button onclick="event.stopPropagation(); window.problem2project.removeBookmark('${problem.id}')" 
+                                class="text-red-500 hover:text-red-700 transition-colors">
+                            <i class="fas fa-trash text-xs"></i>
+                        </button>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        if (bookmarksList) bookmarksList.innerHTML = bookmarkedItems;
+        if (bookmarksListMobile) bookmarksListMobile.innerHTML = bookmarkedItems;
+    }
+
+    toggleBookmarksDropdown() {
+        const dropdown = document.getElementById('bookmarks-dropdown');
+        if (dropdown) {
+            dropdown.classList.toggle('hidden');
+            if (!dropdown.classList.contains('hidden')) {
+                this.updateBookmarkLists();
+            }
+        }
+    }
+
+    hideBookmarksDropdown() {
+        const dropdown = document.getElementById('bookmarks-dropdown');
+        dropdown?.classList.add('hidden');
+    }
+
+    showBookmarksOverlay() {
+        const overlay = document.getElementById('bookmarks-overlay');
+        if (overlay) {
+            overlay.classList.remove('hidden');
+            this.updateBookmarkLists();
+        }
+    }
+
+    hideBookmarksOverlay() {
+        const overlay = document.getElementById('bookmarks-overlay');
+        overlay?.classList.add('hidden');
+    }
+
+    openBookmarkedProblem(problemId) {
+        const problem = this.allProblems.find(p => p.id.toString() === problemId.toString());
+        if (problem) {
+            this.hideBookmarksDropdown();
+            this.hideBookmarksOverlay();
+            this.showProblemDetails(problem);
+        }
+    }
+
+    removeBookmark(problemId) {
+        this.bookmarkedProblems = this.bookmarkedProblems.filter(id => id.toString() !== problemId.toString());
+        this.saveBookmarks();
+        this.updateBookmarkCounts();
+        this.updateBookmarkLists();
+        this.refreshProblemCardsBookmarkState();
+        
+        // Update the bookmark button if this problem is currently being viewed
+        if (this.currentProblem && this.currentProblem.id.toString() === problemId.toString()) {
+            const bookmarkBtn = document.getElementById('bookmark-btn');
+            const bookmarkBtnMobile = document.getElementById('bookmark-btn-mobile');
+            
+            if (bookmarkBtn) {
+                bookmarkBtn.innerHTML = '<i class="far fa-bookmark text-gray-600 dark:text-gray-400 mr-2"></i><span class="text-sm font-medium text-gray-700 dark:text-gray-300">Bookmark</span>';
+            }
+            if (bookmarkBtnMobile) {
+                bookmarkBtnMobile.innerHTML = '<i class="far fa-bookmark text-gray-600 dark:text-gray-400"></i>';
+            }
+        }
+    }
+
+    refreshProblemCardsBookmarkState() {
+        // Update all visible problem cards to reflect current bookmark state
+        const problemCards = document.querySelectorAll('.problem-card');
+        
+        problemCards.forEach(card => {
+            const bookmarkBtn = card.querySelector('.bookmark-btn');
+            if (bookmarkBtn) {
+                const problemId = bookmarkBtn.dataset.problemId;
+                if (problemId) {
+                    const isBookmarked = this.bookmarkedProblems.includes(problemId.toString());
+                    
+                    // Update button appearance
+                    if (isBookmarked) {
+                        bookmarkBtn.classList.remove('text-gray-400', 'dark:text-gray-500');
+                        bookmarkBtn.classList.add('text-yellow-500');
+                    } else {
+                        bookmarkBtn.classList.remove('text-yellow-500');
+                        bookmarkBtn.classList.add('text-gray-400', 'dark:text-gray-500');
+                    }
+                    
+                    // Update icon
+                    const icon = bookmarkBtn.querySelector('i');
+                    if (icon) {
+                        if (isBookmarked) {
+                            icon.classList.remove('far');
+                            icon.classList.add('fas');
+                        } else {
+                            icon.classList.remove('fas');
+                            icon.classList.add('far');
+                        }
+                    }
+                }
+            }
+        });
+    }
 }
 
 // Initialize the application when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    new Problem2Patent();
+    window.problem2project = new Problem2Project();
 });
 
 // Global functions for backward compatibility
 window.toggleKeywords = (category) => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     const domainMap = {
         'programming': '1',
         'math': '2',
@@ -1125,11 +1322,11 @@ window.toggleKeywords = (category) => {
 };
 
 window.showProblemDetails = (problem) => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     app.showProblemDetails(problem);
 };
 
 window.closeModal = () => {
-    const app = window.problem2patent || new Problem2Patent();
+    const app = window.problem2project || new Problem2Project();
     app.closeModal();
 };
