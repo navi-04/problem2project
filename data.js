@@ -1359,11 +1359,10 @@ const PROBLEMS_DATA = {
     "domain": "1",
     "description": "Implement a system where code can detect its own errors during runtime and automatically apply predefined fixes.",
     "keywords": ["Self-Healing Systems", "Automation", "AI Debugging", "Resilient Code"]
-}
+},
 
-
-        // MATHEMATICS (Domain 2) - 80+ problems
-        {
+// MATHEMATICS (Domain 2) - 80+ problems
+{
             "id": 101,
             "title": "Interactive Mathematical Proof Validator",
             "domain": "2",
