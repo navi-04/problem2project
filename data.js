@@ -2099,6 +2099,673 @@ const PROBLEMS_DATA = {
             "description": "Build a comprehensive platform for simulating optical systems, including ray tracing, interference patterns, and lens design optimization.",
             "keywords": ["Optics", "Ray Tracing", "Simulation", "Lens Design"]
         },
+        {
+            "id": 206,
+            "title": "Gravitational Wave Detector Simulator",
+            "domain": "3",
+            "description": "Build a simulator that models gravitational wave detection systems and helps analyze LIGO-type experimental data.",
+            "keywords": ["Gravitational Waves", "Detector Simulation", "LIGO", "Experimental Physics"]
+        },
+        {
+            "id": 207,
+            "title": "Plasma Physics Simulation Engine",
+            "domain": "3",
+            "description": "Develop a simulation engine for plasma physics phenomena including magnetic confinement and fusion reactions.",
+            "keywords": ["Plasma Physics", "Fusion Energy", "Magnetic Confinement", "Simulation"]
+        },
+        {
+            "id": 208,
+            "title": "Astrophysics Data Analysis Pipeline",
+            "domain": "3",
+            "description": "Create a comprehensive pipeline for analyzing astronomical data including image processing and spectral analysis.",
+            "keywords": ["Astrophysics", "Data Analysis", "Image Processing", "Spectroscopy"]
+        },
+        {
+            "id": 209,
+            "title": "Fluid Dynamics Visualizer",
+            "domain": "3",
+            "description": "Design an advanced tool for visualizing fluid flow patterns, turbulence, and aerodynamic properties in 3D.",
+            "keywords": ["Fluid Dynamics", "CFD", "Visualization", "Aerodynamics"]
+        },
+        {
+            "id": 210,
+            "title": "Nuclear Physics Decay Calculator",
+            "domain": "3",
+            "description": "Build a calculator that models radioactive decay chains and nuclear reaction cross-sections with uncertainty analysis.",
+            "keywords": ["Nuclear Physics", "Radioactive Decay", "Nuclear Reactions", "Uncertainty Analysis"]
+        },
+        {
+    "id": 211,
+    "title": "Virtual Physics Lab Simulator",
+    "domain": "3",
+    "description": "Create an online interactive physics lab that allows students to perform virtual experiments, manipulate variables, and visualize real-time results in mechanics, optics, and electromagnetism.",
+    "keywords": ["Physics", "Simulation", "Education", "Virtual Lab", "Experimentation"]
+},
+{
+    "id": 212,
+    "title": "AI-Powered Physics Tutor",
+    "domain": "3",
+    "description": "Design an AI tutor that uses natural language processing to answer physics questions, explain concepts step by step, and generate adaptive practice problems with personalized feedback.",
+    "keywords": ["Physics", "AI", "NLP", "Education", "Adaptive Learning"]
+},
+{
+    "id": 213,
+    "title": "Real-Time Physics Problem Solver",
+    "domain": "3",
+    "description": "Develop a system that converts plain-text physics problems into mathematical equations using symbolic computation, providing structured solutions across domains like kinematics, thermodynamics, and quantum mechanics.",
+    "keywords": ["Physics", "Problem Solving", "Computation", "Symbolic Math", "Automation"]
+},
+{
+    "id": 214,
+    "title": "Physics-Based Game Engine for Learning",
+    "domain": "3",
+    "description": "Build a game engine where real-world physics laws drive interactive scenarios such as projectile motion, collisions, and fluid dynamics, making learning fun and engaging.",
+    "keywords": ["Physics", "Game Development", "Simulation", "Education", "Engagement"]
+},
+{
+    "id": 215,
+    "title": "Smart Physics Formula Explorer",
+    "domain": "3",
+    "description": "Develop a tool where students can input problem parameters and receive relevant physics formulas, their derivations, and applications, with connections to related formulas.",
+    "keywords": ["Physics", "Knowledge Base", "Formula Explorer", "Education", "Problem Solving"]
+},
+{
+    "id": 216,
+    "title": "IoT-Based Physics Data Logger",
+    "domain": "3",
+    "description": "Design an IoT-enabled system that collects experimental physics data such as temperature, pressure, and motion in real-time, storing it in the cloud with visualization tools for analysis.",
+    "keywords": ["Physics", "IoT", "Data Logging", "Sensors", "Experimentation"]
+},
+{
+    "id": 217,
+    "title": "Quantum Mechanics Visualizer",
+    "domain": "3",
+    "description": "Create an interactive visualization platform that simulates quantum phenomena such as wave-particle duality, superposition, and wave functions in real time.",
+    "keywords": ["Physics", "Quantum Mechanics", "Visualization", "Simulation", "Education"]
+},
+{
+    "id": 218,
+    "title": "Physics Equation Converter",
+    "domain": "3",
+    "description": "Build a tool that converts physics equations between different unit systems like SI, CGS, and Imperial units while ensuring accuracy and consistency.",
+    "keywords": ["Physics", "Unit Conversion", "Equations", "Computation", "Education"]
+},
+{
+    "id": 219,
+    "title": "AI-Based Physics Research Paper Summarizer",
+    "domain": "3",
+    "description": "Develop an AI system that summarizes complex physics research papers by extracting equations, key results, and methods for easier understanding.",
+    "keywords": ["Physics", "AI", "Research", "NLP", "Summarization"]
+},
+{
+    "id": 220,
+    "title": "Physics Formula Recognition Tool",
+    "domain": "3",
+    "description": "Create an image recognition tool that scans handwritten or textbook physics formulas, recognizes them, and provides explanations and applications.",
+    "keywords": ["Physics", "OCR", "Image Processing", "Formula Recognition", "Education"]
+},
+{
+    "id": 221,
+    "title": "Relativity Simulator",
+    "domain": "3",
+    "description": "Design a simulator to demonstrate relativity concepts such as time dilation, length contraction, and spacetime curvature based on velocity and gravitational inputs.",
+    "keywords": ["Physics", "Relativity", "Simulation", "Education", "Visualization"]
+},
+{
+    "id": 222,
+    "title": "Physics Experiment Error Analyzer",
+    "domain": "3",
+    "description": "Build a tool that analyzes raw experimental data, calculates uncertainties, and provides suggestions to minimize experimental errors.",
+    "keywords": ["Physics", "Data Analysis", "Error Detection", "Experimentation", "Statistics"]
+},
+{
+    "id": 223,
+    "title": "Interactive Circuit Designer",
+    "domain": "3",
+    "description": "Create a drag-and-drop circuit simulator that models resistance, current, and voltage in real time for electronics learning.",
+    "keywords": ["Physics", "Circuits", "Electronics", "Simulation", "Education"]
+},
+{
+    "id": 224,
+    "title": "Climate Physics Simulator",
+    "domain": "3",
+    "description": "Develop a simulator that models climate physics processes such as greenhouse effect, energy balance, and CO2 variations to study climate change impact.",
+    "keywords": ["Physics", "Climate", "Simulation", "Environmental Science", "Energy Balance"]
+},
+{
+    "id": 225,
+    "title": "Motion Tracking Physics App",
+    "domain": "3",
+    "description": "Design a mobile app that uses a smartphone camera to track moving objects, calculate velocity and acceleration, and visualize results with real-time graphs.",
+    "keywords": ["Physics", "Motion", "Computer Vision", "Tracking", "Kinematics"]
+},
+{
+    "id": 226,
+    "title": "Physics Problem Generator",
+    "domain": "3",
+    "description": "Create an AI-powered tool that generates unique, solvable physics problems across domains with hints and solutions for practice.",
+    "keywords": ["Physics", "AI", "Education", "Practice", "Problem Solving"]
+},
+{
+    "id": 227,
+    "title": "Gravitational Field Visualizer",
+    "domain": "3",
+    "description": "Develop a 3D visualization tool that lets users place masses and observe gravitational fields, equipotential surfaces, and orbital paths.",
+    "keywords": ["Physics", "Gravitation", "Visualization", "Simulation", "3D"]
+},
+{
+    "id": 228,
+    "title": "Smart Physics Quiz System",
+    "domain": "3",
+    "description": "Build an adaptive quiz system that adjusts difficulty based on student performance and provides conceptual feedback with AI-generated questions.",
+    "keywords": ["Physics", "Education", "AI", "Quiz", "Adaptive Learning"]
+},
+{
+    "id": 229,
+    "title": "Energy Conservation Analyzer",
+    "domain": "3",
+    "description": "Design a system that models energy transformations and checks for conservation across kinetic, potential, and thermal forms in physical systems.",
+    "keywords": ["Physics", "Energy", "Thermodynamics", "Mechanics", "Simulation"]
+},
+{
+    "id": 230,
+    "title": "AR-Based Physics Lab Assistant",
+    "domain": "3",
+    "description": "Create an AR app that overlays safety tips, experiment instructions, and measurement guides in real-time during physics experiments.",
+    "keywords": ["Physics", "AR", "Education", "Lab Assistant", "Visualization"]
+},
+{
+    "id": 231,
+    "title": "Physics Knowledge Graph",
+    "domain": "3",
+    "description": "Develop a knowledge graph connecting physics concepts, laws, and formulas, enabling interactive exploration of relationships.",
+    "keywords": ["Physics", "Knowledge Graph", "Concept Mapping", "Education", "AI"]
+},
+{
+    "id": 232,
+    "title": "Nuclear Physics Simulator",
+    "domain": "3",
+    "description": "Design a simulator that models nuclear fission, fusion, and radioactive decay processes safely for interactive learning.",
+    "keywords": ["Physics", "Nuclear", "Simulation", "Education", "Energy"]
+},
+{
+    "id": 233,
+    "title": "Physics Homework Checker",
+    "domain": "3",
+    "description": "Build an AI system that verifies physics homework answers, identifies mistakes in steps, and provides hints instead of full solutions.",
+    "keywords": ["Physics", "AI", "Education", "Homework", "Error Detection"]
+},
+{
+    "id": 234,
+    "title": "Astronomy Physics Explorer",
+    "domain": "3",
+    "description": "Create an interactive platform that visualizes celestial mechanics, planetary motion, black holes, and galaxy dynamics using accurate physics models.",
+    "keywords": ["Physics", "Astronomy", "Space", "Visualization", "Simulation"]
+},
+{
+    "id": 235,
+    "title": "Acoustic Physics Analyzer",
+    "domain": "3",
+    "description": "Design a tool that records and analyzes sound waves, visualizing properties such as frequency, amplitude, and resonance in real-time.",
+    "keywords": ["Physics", "Sound", "Acoustics", "Signal Processing", "Visualization"]
+},
+{
+    "id": 236,
+    "title": "Magnetic Field Visualizer",
+    "domain": "3",
+    "description": "Develop an interactive simulator where users can place magnets, currents, or coils and observe resulting magnetic fields, forces, and induced effects.",
+    "keywords": ["Physics", "Magnetism", "Electromagnetism", "Visualization", "Simulation"]
+},
+{
+    "id": 237,
+    "title": "Thermal Physics Lab Simulator",
+    "domain": "3",
+    "description": "Build a virtual lab that models heat transfer mechanisms such as conduction, convection, and radiation with customizable materials and heat sources.",
+    "keywords": ["Physics", "Thermodynamics", "Heat Transfer", "Simulation", "Education"]
+},
+{
+    "id": 238,
+    "title": "Particle Physics Explorer",
+    "domain": "3",
+    "description": "Design an educational tool that simulates particle collisions, decay processes, and conservation laws using simplified yet accurate models.",
+    "keywords": ["Physics", "Particle Physics", "Simulation", "High-Energy", "Education"]
+},
+{
+    "id": 239,
+    "title": "Physics Concept Checker",
+    "domain": "3",
+    "description": "Create an AI-powered system that evaluates student explanations of physics concepts, detects misconceptions, and provides corrective feedback.",
+    "keywords": ["Physics", "AI", "Concept Understanding", "Education", "Feedback"]
+},
+{
+    "id": 240,
+    "title": "Physics Gesture Learning App",
+    "domain": "3",
+    "description": "Develop a mobile app that teaches physics concepts through gestures, allowing students to physically demonstrate vectors, rotations, or wave motions with their hands.",
+    "keywords": ["Physics", "Education", "Gestures", "Motion Tracking", "Learning"]
+},
+{
+    "id": 241,
+    "title": "AI-Powered Lab Report Generator",
+    "domain": "3",
+    "description": "Create an AI tool that generates structured lab reports by analyzing raw experimental data, graphs, and student notes, ensuring accuracy and reducing manual effort.",
+    "keywords": ["Physics", "AI", "Lab Report", "Automation", "Education"]
+},
+{
+    "id": 242,
+    "title": "Physics Sandbox for Creativity",
+    "domain": "3",
+    "description": "Design a virtual sandbox where users can combine objects, forces, and materials to create and test imaginative physics scenarios in real-time.",
+    "keywords": ["Physics", "Creativity", "Simulation", "Sandbox", "Experimentation"]
+},
+{
+    "id": 243,
+    "title": "Wearable Physics Tracker",
+    "domain": "3",
+    "description": "Build a wearable device that tracks physical movement, acceleration, and force applied during daily activities, turning real-life actions into physics experiments.",
+    "keywords": ["Physics", "Wearable", "Sensors", "Experimentation", "Data Collection"]
+},
+{
+    "id": 244,
+    "title": "Physics VR Time Machine",
+    "domain": "3",
+    "description": "Create a VR platform that lets users travel through historical physics experiments, experiencing discoveries like Galileo’s motion studies or Faraday’s electromagnetic induction in immersive environments.",
+    "keywords": ["Physics", "VR", "History", "Immersion", "Education"]
+},
+{
+    "id": 245,
+    "title": "Physics Voice Query Assistant",
+    "domain": "3",
+    "description": "Develop a voice-enabled assistant that answers spoken physics questions with real-time visualizations and step-by-step explanations.",
+    "keywords": ["Physics", "Voice Assistant", "NLP", "Education", "Visualization"]
+},
+{
+    "id": 246,
+    "title": "Interactive Dark Matter Explorer",
+    "domain": "3",
+    "description": "Design an interactive tool that simulates dark matter distribution in galaxies, helping learners explore gravitational lensing and hidden mass effects.",
+    "keywords": ["Physics", "Dark Matter", "Astrophysics", "Simulation", "Visualization"]
+},
+{
+    "id": 247,
+    "title": "Physics Hologram Classroom",
+    "domain": "3",
+    "description": "Create a holographic system that projects 3D physics demonstrations, such as field lines or wave interference, into real classrooms for interactive teaching.",
+    "keywords": ["Physics", "Holograms", "3D Visualization", "Education", "Classroom"]
+},
+{
+    "id": 248,
+    "title": "Physics Robotics Playground",
+    "domain": "3",
+    "description": "Build a robotics-based environment where students program small robots to demonstrate Newton’s laws, collisions, and energy transfer.",
+    "keywords": ["Physics", "Robotics", "Education", "Experimentation", "Automation"]
+},
+{
+    "id": 249,
+    "title": "Physics Storytelling Engine",
+    "domain": "3",
+    "description": "Design an interactive storytelling platform that embeds physics concepts into narratives, turning abstract ideas into engaging, story-driven experiences.",
+    "keywords": ["Physics", "Storytelling", "Education", "Engagement", "Creativity"]
+},
+{
+    "id": 250,
+    "title": "Physics Eye-Tracking Tutor",
+    "domain": "3",
+    "description": "Develop a tutoring system that uses eye-tracking to monitor where students focus while solving physics problems, detecting misconceptions and guiding attention.",
+    "keywords": ["Physics", "Eye Tracking", "AI", "Adaptive Learning", "Education"]
+},
+{
+    "id": 251,
+    "title": "Physics Climate Intervention Simulator",
+    "domain": "3",
+    "description": "Create a simulator that models geoengineering techniques such as solar reflectors and carbon capture, analyzing their physics-based impacts on Earth’s systems.",
+    "keywords": ["Physics", "Climate", "Geoengineering", "Simulation", "Environmental Science"]
+},
+{
+    "id": 252,
+    "title": "Physics Music Analyzer",
+    "domain": "3",
+    "description": "Build a system that analyzes musical sounds from a physics perspective, visualizing harmonics, resonance, and standing waves for educational use.",
+    "keywords": ["Physics", "Music", "Acoustics", "Wave Analysis", "Education"]
+},
+{
+    "id": 253,
+    "title": "Physics Sports Performance Analyzer",
+    "domain": "3",
+    "description": "Design an application that analyzes sports movements using physics laws, calculating parameters like force, momentum, and energy efficiency for athletes.",
+    "keywords": ["Physics", "Sports", "Kinematics", "Performance", "Analysis"]
+},
+{
+    "id": 254,
+    "title": "Physics Crowd Dynamics Simulator",
+    "domain": "3",
+    "description": "Develop a simulator that models crowd behavior using fluid dynamics and force-based physics, useful for studying safety in public spaces.",
+    "keywords": ["Physics", "Crowd Simulation", "Fluid Dynamics", "Safety", "Modeling"]
+},
+{
+    "id": 255,
+    "title": "Physics Biomechanics Explorer",
+    "domain": "3",
+    "description": "Create a system that models human body movement with physics-based biomechanics, analyzing forces in walking, running, or lifting.",
+    "keywords": ["Physics", "Biomechanics", "Human Motion", "Kinetics", "Simulation"]
+},
+{
+    "id": 256,
+    "title": "Physics Drone Lab",
+    "domain": "3",
+    "description": "Design a drone-based platform where students conduct experiments on aerodynamics, lift, drag, and flight stability in real-world conditions.",
+    "keywords": ["Physics", "Drones", "Aerodynamics", "Education", "Experimentation"]
+},
+{
+    "id": 257,
+    "title": "Physics Augmented Textbook",
+    "domain": "3",
+    "description": "Create an AR-enabled textbook where students scan pages to see interactive physics simulations and visualizations overlayed on diagrams.",
+    "keywords": ["Physics", "AR", "Textbook", "Education", "Visualization"]
+},
+{
+    "id": 258,
+    "title": "Physics Chaos Theory Simulator",
+    "domain": "3",
+    "description": "Develop a tool that models chaotic systems such as double pendulums or weather dynamics, demonstrating sensitivity to initial conditions.",
+    "keywords": ["Physics", "Chaos Theory", "Nonlinear Systems", "Simulation", "Visualization"]
+},
+{
+    "id": 259,
+    "title": "Physics Brainwave Analyzer",
+    "domain": "3",
+    "description": "Design a system that measures brainwave signals during physics problem-solving tasks, analyzing cognitive load and engagement levels.",
+    "keywords": ["Physics", "Brainwave Analysis", "Cognition", "Education", "Neuroscience"]
+},
+{
+    "id": 260,
+    "title": "Physics Data Sonification Tool",
+    "domain": "3",
+    "description": "Create a tool that converts physics experiment data into sound patterns, enabling learners to perceive physical laws through auditory feedback.",
+    "keywords": ["Physics", "Sonification", "Data Analysis", "Education", "Visualization"]
+},
+{
+    "id": 261,
+    "title": "Quantum AI Experiment Planner",
+    "domain": "3",
+    "description": "Develop a platform that uses AI to design and simulate quantum experiments, optimizing qubit interactions and visualizing outcomes before real implementation.",
+    "keywords": ["Physics", "Quantum Mechanics", "AI", "Simulation", "Experimentation"]
+},
+{
+    "id": 262,
+    "title": "Astro-Bio Physics Simulator",
+    "domain": "3",
+    "description": "Create a simulator that models how extreme astrophysical environments, like neutron stars or black holes, affect biological systems at molecular and cellular levels.",
+    "keywords": ["Physics", "Astrophysics", "Biophysics", "Simulation", "Research"]
+},
+{
+    "id": 263,
+    "title": "Nano-Scale Physics Lab",
+    "domain": "3",
+    "description": "Build a virtual lab for simulating nanoscale physics experiments, including particle behavior, quantum tunneling, and nanomaterial interactions.",
+    "keywords": ["Physics", "Nanotechnology", "Simulation", "Quantum", "Education"]
+},
+{
+    "id": 264,
+    "title": "Plasma Jet Simulation Platform",
+    "domain": "3",
+    "description": "Design a tool to simulate plasma jets for fusion research, visualizing magnetic confinement, plasma flow, and energy transfer in real-time.",
+    "keywords": ["Physics", "Plasma Physics", "Simulation", "Fusion", "Visualization"]
+},
+{
+    "id": 265,
+    "title": "Gravitational Anomaly Explorer",
+    "domain": "3",
+    "description": "Develop a simulator to study theoretical gravitational anomalies, wormholes, and spacetime distortions, allowing manipulation of mass and energy inputs.",
+    "keywords": ["Physics", "Gravitation", "Simulation", "Relativity", "Exploration"]
+},
+{
+    "id": 266,
+    "title": "AI-Powered Particle Accelerator Designer",
+    "domain": "3",
+    "description": "Create an AI tool to design particle accelerator experiments, predicting collision outcomes and optimizing beam parameters for high-energy physics research.",
+    "keywords": ["Physics", "Particle Physics", "AI", "Simulation", "Research"]
+},
+{
+    "id": 267,
+    "title": "Quantum Entanglement Visualizer",
+    "domain": "3",
+    "description": "Design a visualization platform that demonstrates quantum entanglement interactions, correlations between qubits, and real-time measurement effects.",
+    "keywords": ["Physics", "Quantum Mechanics", "Visualization", "Simulation", "Education"]
+},
+{
+    "id": 268,
+    "title": "Space Weather Physics Simulator",
+    "domain": "3",
+    "description": "Develop a system to simulate solar storms, cosmic radiation, and magnetic field interactions with Earth's atmosphere, studying effects on satellites and electronics.",
+    "keywords": ["Physics", "Space Physics", "Simulation", "Astrophysics", "Environmental"]
+},
+{
+    "id": 269,
+    "title": "Photonic Circuit Simulator",
+    "domain": "3",
+    "description": "Create a virtual environment to design and test photonic circuits, exploring light propagation, interference, and quantum communication systems.",
+    "keywords": ["Physics", "Photonics", "Simulation", "Quantum", "Circuit Design"]
+},
+{
+    "id": 270,
+    "title": "Acoustic Levitation Experimenter",
+    "domain": "3",
+    "description": "Build a tool that simulates acoustic levitation of small objects, studying wave patterns, resonance effects, and energy distribution in 3D space.",
+    "keywords": ["Physics", "Acoustics", "Simulation", "Wave Physics", "Education"]
+},
+{
+    "id": 271,
+    "title": "Quantum Thermodynamics Simulator",
+    "domain": "3",
+    "description": "Develop a simulator that models energy transfer, entropy, and thermal fluctuations at the quantum level for research and educational purposes.",
+    "keywords": ["Physics", "Quantum Mechanics", "Thermodynamics", "Simulation", "Research"]
+},
+{
+    "id": 272,
+    "title": "Astrophysical Fluid Dynamics Explorer",
+    "domain": "3",
+    "description": "Create a simulation tool for studying gas and plasma flows in stars, accretion disks, and galaxies using advanced fluid dynamics models.",
+    "keywords": ["Physics", "Astrophysics", "Fluid Dynamics", "Simulation", "Research"]
+},
+{
+    "id": 273,
+    "title": "Magneto-Optical Trap Simulator",
+    "domain": "3",
+    "description": "Design a simulator to model the trapping and cooling of atoms using magnetic and optical fields, visualizing atomic behavior and energy states.",
+    "keywords": ["Physics", "Quantum Mechanics", "Optics", "Simulation", "Education"]
+},
+{
+    "id": 274,
+    "title": "Extreme Environment Materials Lab",
+    "domain": "3",
+    "description": "Develop a virtual lab to test material properties under extreme pressures, temperatures, and radiation, predicting structural and thermal behavior.",
+    "keywords": ["Physics", "Materials Science", "Simulation", "Extreme Environments", "Research"]
+},
+{
+    "id": 275,
+    "title": "Gravitational Wave Interaction Simulator",
+    "domain": "3",
+    "description": "Build a tool that simulates interactions of gravitational waves with matter and spacetime, allowing users to visualize distortions and energy propagation.",
+    "keywords": ["Physics", "Gravitational Waves", "Simulation", "Relativity", "Visualization"]
+},
+{
+    "id": 276,
+    "title": "Quantum Randomness Analyzer",
+    "domain": "3",
+    "description": "Design a system that studies quantum randomness in measurements, exploring probability distributions, correlations, and implications for cryptography.",
+    "keywords": ["Physics", "Quantum Mechanics", "Randomness", "Analysis", "Simulation"]
+},
+{
+    "id": 277,
+    "title": "Exoplanet Physics Explorer",
+    "domain": "3",
+    "description": "Develop an interactive tool to simulate exoplanet environments, including gravitational effects, orbital dynamics, and atmospheric physics for research and education.",
+    "keywords": ["Physics", "Astrophysics", "Simulation", "Exoplanets", "Visualization"]
+},
+{
+    "id": 278,
+    "title": "High-Energy Plasma Collider Simulator",
+    "domain": "3",
+    "description": "Create a simulator to model high-energy plasma collisions, magnetic confinement, and energy dispersion for advanced fusion research studies.",
+    "keywords": ["Physics", "Plasma Physics", "Simulation", "Fusion", "Research"]
+},
+{
+    "id": 279,
+    "title": "Topological Quantum Matter Explorer",
+    "domain": "3",
+    "description": "Design a tool that visualizes topological states of matter, edge modes, and quasiparticle interactions for educational and research purposes.",
+    "keywords": ["Physics", "Quantum Mechanics", "Topological Matter", "Simulation", "Visualization"]
+},
+{
+    "id": 280,
+    "title": "Astro-Geophysics Simulator",
+    "domain": "3",
+    "description": "Develop a platform to study interactions between planetary magnetic fields, solar wind, and tectonic physics, simulating global geophysical phenomena.",
+    "keywords": ["Physics", "Astrophysics", "Geophysics", "Simulation", "Research"]
+},
+{
+    "id": 281,
+    "title": "Quantum Gravity Visualizer",
+    "domain": "3",
+    "description": "Develop a simulation platform to visualize quantum gravity effects at microscopic and cosmological scales, exploring interactions between spacetime and quantum fields.",
+    "keywords": ["Physics", "Quantum Gravity", "Simulation", "Visualization", "Research"]
+},
+{
+    "id": 282,
+    "title": "AI-Enhanced Particle Decay Predictor",
+    "domain": "3",
+    "description": "Create an AI system that predicts particle decay outcomes in high-energy collisions, modeling probabilities and visualizing complex decay chains.",
+    "keywords": ["Physics", "Particle Physics", "AI", "Simulation", "Prediction"]
+},
+{
+    "id": 283,
+    "title": "Interstellar Radiation Physics Simulator",
+    "domain": "3",
+    "description": "Design a tool that simulates cosmic radiation interactions with spacecraft and planetary atmospheres, aiding research in space travel and safety.",
+    "keywords": ["Physics", "Astrophysics", "Radiation", "Simulation", "Space"]
+},
+{
+    "id": 284,
+    "title": "Quantum Sensor Network Designer",
+    "domain": "3",
+    "description": "Develop a platform to design and optimize networks of quantum sensors for measuring gravitational fields, magnetic fields, or atomic transitions with high precision.",
+    "keywords": ["Physics", "Quantum Mechanics", "Sensors", "AI", "Simulation"]
+},
+{
+    "id": 285,
+    "title": "Cosmic String Interaction Explorer",
+    "domain": "3",
+    "description": "Build a simulator to study theoretical cosmic string dynamics, gravitational lensing effects, and potential observable signatures in the universe.",
+    "keywords": ["Physics", "Cosmology", "Simulation", "Visualization", "Research"]
+},
+{
+    "id": 286,
+    "title": "AI-Guided Fusion Reactor Optimizer",
+    "domain": "3",
+    "description": "Create a system that uses AI to optimize magnetic confinement and plasma stability in fusion reactors, simulating energy output and containment efficiency.",
+    "keywords": ["Physics", "Fusion", "Plasma", "AI", "Simulation"]
+},
+{
+    "id": 287,
+    "title": "Quantum Cryptography Lab Simulator",
+    "domain": "3",
+    "description": "Design an interactive platform for testing quantum key distribution protocols, entanglement-based communication, and security analysis in simulated networks.",
+    "keywords": ["Physics", "Quantum Mechanics", "Cryptography", "Simulation", "Education"]
+},
+{
+    "id": 288,
+    "title": "Neutron Star Interior Explorer",
+    "domain": "3",
+    "description": "Develop a simulation that models neutron star interiors, including extreme densities, magnetic fields, and nuclear matter behavior under relativistic conditions.",
+    "keywords": ["Physics", "Astrophysics", "Simulation", "Neutron Stars", "Research"]
+},
+{
+    "id": 289,
+    "title": "AI-Driven Quantum Material Designer",
+    "domain": "3",
+    "description": "Create a platform that uses AI to predict and design quantum materials with specific electronic, magnetic, or topological properties for advanced research.",
+    "keywords": ["Physics", "Quantum Mechanics", "Materials Science", "AI", "Simulation"]
+},
+{
+    "id": 290,
+    "title": "Black Hole Accretion Simulator",
+    "domain": "3",
+    "description": "Build a simulator to study matter accretion around black holes, including relativistic jets, event horizon dynamics, and gravitational wave emission.",
+    "keywords": ["Physics", "Astrophysics", "Black Holes", "Simulation", "Visualization"]
+},
+{
+    "id": 291,
+    "title": "Quantum Tunneling Lab",
+    "domain": "3",
+    "description": "Design a virtual lab that models tunneling phenomena in particles and electrons, visualizing probability distributions and energy barrier interactions.",
+    "keywords": ["Physics", "Quantum Mechanics", "Simulation", "Education", "Experimentation"]
+},
+{
+    "id": 292,
+    "title": "Astro-Magnetic Field Explorer",
+    "domain": "3",
+    "description": "Develop a tool to simulate magnetic field interactions in stars, planets, and galaxies, studying effects on charged particles and plasma behavior.",
+    "keywords": ["Physics", "Astrophysics", "Magnetism", "Simulation", "Visualization"]
+},
+{
+    "id": 293,
+    "title": "AI-Powered Quantum Control Simulator",
+    "domain": "3",
+    "description": "Create a platform that uses AI to optimize control sequences in quantum systems, enhancing stability, entanglement, and computational accuracy.",
+    "keywords": ["Physics", "Quantum Mechanics", "AI", "Simulation", "Research"]
+},
+{
+    "id": 294,
+    "title": "Extreme Weather Physics Simulator",
+    "domain": "3",
+    "description": "Design a system to model tornadoes, hurricanes, and lightning, visualizing airflow, pressure dynamics, and thermodynamic interactions for educational use.",
+    "keywords": ["Physics", "Environmental Science", "Simulation", "Weather", "Visualization"]
+},
+{
+    "id": 295,
+    "title": "Optomechanical Quantum System Explorer",
+    "domain": "3",
+    "description": "Develop a simulator for optomechanical systems, studying interactions between light and mechanical oscillators at quantum scales.",
+    "keywords": ["Physics", "Quantum Mechanics", "Optomechanics", "Simulation", "Research"]
+},
+{
+    "id": 296,
+    "title": "Intergalactic Gas Flow Simulator",
+    "domain": "3",
+    "description": "Build a tool to visualize gas dynamics between galaxies, including shock waves, turbulence, and gravitational interactions on cosmic scales.",
+    "keywords": ["Physics", "Astrophysics", "Fluid Dynamics", "Simulation", "Visualization"]
+},
+{
+    "id": 297,
+    "title": "Quantum Phase Transition Explorer",
+    "domain": "3",
+    "description": "Create a platform to study quantum phase transitions, critical points, and order parameters in condensed matter systems with interactive visualizations.",
+    "keywords": ["Physics", "Quantum Mechanics", "Condensed Matter", "Simulation", "Visualization"]
+},
+{
+    "id": 298,
+    "title": "AI-Guided Space Propulsion Designer",
+    "domain": "3",
+    "description": "Design a system that uses AI to optimize advanced propulsion methods, such as ion drives or plasma thrusters, simulating thrust, energy consumption, and efficiency.",
+    "keywords": ["Physics", "Space", "AI", "Propulsion", "Simulation"]
+},
+{
+    "id": 299,
+    "title": "Multi-Dimensional Quantum Simulation",
+    "domain": "3",
+    "description": "Develop a simulator that models multi-dimensional quantum systems, visualizing entanglement, superposition, and energy evolution in higher-dimensional spaces.",
+    "keywords": ["Physics", "Quantum Mechanics", "Simulation", "Education", "Research"]
+},
+{
+    "id": 300,
+    "title": "Cosmic Ray Interaction Explorer",
+    "domain": "3",
+    "description": "Create a tool to simulate cosmic ray interactions with Earth's atmosphere and spacecraft, studying particle showers, radiation effects, and energy distribution.",
+    "keywords": ["Physics", "Astrophysics", "Cosmic Rays", "Simulation", "Research"]
+}
+
+
         
 
         // CHEMISTRY (Domain 4) - 60+ problems
@@ -2491,43 +3158,7 @@ const PROBLEMS_DATA = {
             "keywords": ["Quantum Cryptography", "Security", "Quantum Resistance", "Protocol Design"]
         },
 
-        // Physics - Additional problems
-        {
-            "id": 206,
-            "title": "Gravitational Wave Detector Simulator",
-            "domain": "3",
-            "description": "Build a simulator that models gravitational wave detection systems and helps analyze LIGO-type experimental data.",
-            "keywords": ["Gravitational Waves", "Detector Simulation", "LIGO", "Experimental Physics"]
-        },
-        {
-            "id": 207,
-            "title": "Plasma Physics Simulation Engine",
-            "domain": "3",
-            "description": "Develop a simulation engine for plasma physics phenomena including magnetic confinement and fusion reactions.",
-            "keywords": ["Plasma Physics", "Fusion Energy", "Magnetic Confinement", "Simulation"]
-        },
-        {
-            "id": 208,
-            "title": "Astrophysics Data Analysis Pipeline",
-            "domain": "3",
-            "description": "Create a comprehensive pipeline for analyzing astronomical data including image processing and spectral analysis.",
-            "keywords": ["Astrophysics", "Data Analysis", "Image Processing", "Spectroscopy"]
-        },
-        {
-            "id": 209,
-            "title": "Fluid Dynamics Visualizer",
-            "domain": "3",
-            "description": "Design an advanced tool for visualizing fluid flow patterns, turbulence, and aerodynamic properties in 3D.",
-            "keywords": ["Fluid Dynamics", "CFD", "Visualization", "Aerodynamics"]
-        },
-        {
-            "id": 210,
-            "title": "Nuclear Physics Decay Calculator",
-            "domain": "3",
-            "description": "Build a calculator that models radioactive decay chains and nuclear reaction cross-sections with uncertainty analysis.",
-            "keywords": ["Nuclear Physics", "Radioactive Decay", "Nuclear Reactions", "Uncertainty Analysis"]
-        },
-
+        
         // Continue adding problems for all domains...
         // Chemistry - Additional problems
         {
