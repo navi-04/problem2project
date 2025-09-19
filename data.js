@@ -2763,13 +2763,10 @@ const PROBLEMS_DATA = {
     "domain": "3",
     "description": "Create a tool to simulate cosmic ray interactions with Earth's atmosphere and spacecraft, studying particle showers, radiation effects, and energy distribution.",
     "keywords": ["Physics", "Astrophysics", "Cosmic Rays", "Simulation", "Research"]
-}
+},
 
-
-        
-
-        // CHEMISTRY (Domain 4) - 60+ problems
-        {
+// CHEMISTRY (Domain 4) - 60+ problems
+{
             "id": 301,
             "title": "Molecular Structure Predictor",
             "domain": "4",
