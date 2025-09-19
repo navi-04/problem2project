@@ -2061,10 +2061,10 @@ const PROBLEMS_DATA = {
     "domain": "2",
     "description": "Design a system that automatically generates computationally intensive thought experiments blending mathematics, logic, and algorithmic puzzles for exploration.",
     "keywords": ["Computational Mathematics", "Logic", "Algorithms", "Problem Generation"]
-}
-    
-        // PHYSICS (Domain 3) - 70+ problems
-        {
+},
+
+// PHYSICS (Domain 3) - 70+ problems
+{
             "id": 201,
             "title": "Quantum State Simulator for Education",
             "domain": "3",
