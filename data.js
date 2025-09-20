@@ -4205,6 +4205,671 @@ const PROBLEMS_DATA = {
             "description": "Create an automated machine learning system that generates optimal ML pipelines for given datasets and problem types.",
             "keywords": ["AutoML", "Pipeline Optimization", "Automation", "Model Selection"]
         },
+        {
+            "id": 506,
+            "title": "Graph Neural Network Framework",
+            "domain": "6",
+            "description": "Develop a framework for graph neural networks that handles various graph types and learning tasks efficiently.",
+            "keywords": ["Graph Neural Networks", "Deep Learning", "Graph Analysis", "Framework"]
+        },
+        {
+            "id": 507,
+            "title": "Time Series Forecasting Suite",
+            "domain": "6",
+            "description": "Create a comprehensive suite for time series analysis and forecasting with multiple algorithms and uncertainty quantification.",
+            "keywords": ["Time Series", "Forecasting", "Uncertainty Quantification", "Predictive Analytics"]
+        },
+        {
+            "id": 508,
+            "title": "Causal Inference Engine",
+            "domain": "6",
+            "description": "Build a system that identifies causal relationships from observational data using advanced causal inference methods.",
+            "keywords": ["Causal Inference", "Causal Discovery", "Observational Data", "Statistical Methods"]
+        },
+        {
+"id": 509,
+"title": "Federated Genomics Privacy Framework",
+"domain": "6",
+"description": "Design a federated learning framework for multi-institutional genomics research that preserves patient privacy while enabling collaborative discovery of rare genetic variants across populations.",
+"keywords": ["Federated Learning", "Genetics", "Privacy", "Collaborative Research"]
+},
+{
+"id": 510,
+"title": "Distributed Microbiome Learning System",
+"domain": "6",
+"description": "Develop a secure federated system for training models on distributed microbiome datasets from different geographic regions without sharing sensitive bacterial composition data.",
+"keywords": ["Federated Learning", "Microbiology", "Distributed Systems", "Privacy"]
+},
+{
+"id": 511,
+"title": "Protein Folding Explanation Dashboard",
+"domain": "6",
+"description": "Create an explainable AI dashboard that translates complex neural network predictions about protein folding into interpretable structural biology insights for pharmaceutical researchers.",
+"keywords": ["Explainable AI", "Molecular Biology", "Protein Structure", "Biotechnology"]
+},
+{
+"id": 512,
+"title": "Phylogenetic Reasoning Interpreter",
+"domain": "6",
+"description": "Design an interpretability framework that explains how deep learning models identify evolutionary relationships in phylogenetic trees for biologists.",
+"keywords": ["Explainable AI", "Evolution", "Phylogenetics", "Model Interpretability"]
+},
+{
+"id": 513,
+"title": "Cellular Metabolism Anomaly Monitor",
+"domain": "6",
+"description": "Build a real-time anomaly detection system for monitoring cellular metabolism in bioreactor systems, identifying deviations indicating contamination or metabolic stress.",
+"keywords": ["Real-Time Analytics", "Cell Biology", "Anomaly Detection", "Biotechnology"]
+},
+{
+"id": 514,
+"title": "Ecological Sensor Network Guardian",
+"domain": "6",
+"description": "Develop a streaming analytics platform that detects unusual patterns in ecological sensor networks, identifying environmental threats or species migration anomalies.",
+"keywords": ["Streaming Data", "Ecology", "Environmental Monitoring", "Anomaly Detection"]
+},
+{
+"id": 515,
+"title": "Multi-Modal Drug Response Predictor",
+"domain": "6",
+"description": "Design a multi-modal learning system integrating microscopy images, gene expression data, and protein networks to predict cellular responses to pharmaceutical compounds.",
+"keywords": ["Multi-Modal Learning", "Pharmacology", "Cell Biology", "Drug Discovery"]
+},
+{
+"id": 516,
+"title": "Behavioral Ecology Integration Platform",
+"domain": "6",
+"description": "Create a platform combining animal vocalizations, GPS tracking, and environmental sensors to study behavioral ecology patterns using multi-modal analysis.",
+"keywords": ["Multi-Modal Learning", "Ecology", "Animal Behavior", "Environmental Science"]
+},
+{
+"id": 517,
+"title": "Genomic AutoML Optimization Suite",
+"domain": "6",
+"description": "Develop an AutoML system specifically for genomic data that automatically selects optimal feature engineering techniques for genetic association studies.",
+"keywords": ["AutoML", "Genetics", "Feature Engineering", "Bioinformatics"]
+},
+{
+"id": 518,
+"title": "Single-Cell RNA Pipeline Generator",
+"domain": "6",
+"description": "Build an automated pipeline generator creating custom ML workflows for analyzing single-cell RNA sequencing data across different tissue types and conditions.",
+"keywords": ["AutoML", "Molecular Biology", "Single-Cell Analysis", "Pipeline Automation"]
+},
+{
+"id": 519,
+"title": "Protein Interaction Network Analyzer",
+"domain": "6",
+"description": "Construct a GNN framework for modeling protein-protein interaction networks that predicts functional impact of mutations on cellular pathways.",
+"keywords": ["Graph Neural Networks", "Systems Biology", "Protein Networks", "Mutation Analysis"]
+},
+{
+"id": 520,
+"title": "Ecosystem Stability Prediction Engine",
+"domain": "6",
+"description": "Design a graph neural network system for analyzing ecological food webs that predicts ecosystem stability under climate change scenarios.",
+"keywords": ["Graph Neural Networks", "Ecology", "Climate Change", "Ecosystem Modeling"]
+},
+{
+"id": 521,
+"title": "Seizure Prediction Forecasting System",
+"domain": "6",
+"description": "Create a forecasting suite for predicting seizure onset in epilepsy patients using multi-channel EEG data with uncertainty quantification for clinical decisions.",
+"keywords": ["Time Series Forecasting", "Neuroscience", "Medical Applications", "Uncertainty Quantification"]
+},
+{
+"id": 522,
+"title": "Circadian Rhythm Disruption Tracker",
+"domain": "6",
+"description": "Develop a time series analysis platform for tracking circadian rhythm disruptions in shift workers using continuous physiological monitoring data.",
+"keywords": ["Time Series Analysis", "Neuroscience", "Physiological Monitoring", "Health Analytics"]
+},
+{
+"id": 523,
+"title": "Gene Regulatory Network Discovery",
+"domain": "6",
+"description": "Build a causal inference engine that identifies regulatory relationships in gene expression networks from transcriptomic data across developmental stages.",
+"keywords": ["Causal Inference", "Molecular Biology", "Gene Expression", "Developmental Biology"]
+},
+{
+"id": 524,
+"title": "Environmental Immunology Causal Engine",
+"domain": "6",
+"description": "Design a system for discovering causal relationships between environmental factors and immunological responses using large-scale population health datasets.",
+"keywords": ["Causal Inference", "Immunology", "Environmental Health", "Population Studies"]
+},
+{
+"id": 525,
+"title": "Federated Disease Transmission Modeler",
+"domain": "6",
+"description": "Combine federated learning with graph neural networks to study disease transmission patterns across hospital networks while maintaining patient confidentiality.",
+"keywords": ["Federated Learning", "Graph Neural Networks", "Epidemiology", "Healthcare Privacy"]
+},
+{
+"id": 526,
+"title": "Explainable Drug Efficacy Predictor",
+"domain": "6",
+"description": "Create an explainable multi-modal system integrating pharmacological data, molecular structures, and clinical outcomes to predict drug efficacy with interpretable reasoning.",
+"keywords": ["Explainable AI", "Multi-Modal Learning", "Pharmacology", "Drug Development"]
+},
+{
+"id": 527,
+"title": "Laboratory Culture Anomaly Detector",
+"domain": "6",
+"description": "Develop a real-time anomaly detection framework for identifying unusual bacterial growth patterns in laboratory cultures using computer vision and time series analysis.",
+"keywords": ["Real-Time Analytics", "Microbiology", "Computer Vision", "Laboratory Automation"]
+},
+{
+"id": 528,
+"title": "Neurodegenerative Biomarker AutoDiscovery",
+"domain": "6",
+"description": "Design an AutoML-powered causal inference system that automatically discovers biomarkers for neurodegenerative diseases from longitudinal patient data.",
+"keywords": ["AutoML", "Causal Inference", "Neuroscience", "Biomarker Discovery"]
+},
+{
+"id": 529,
+"title": "Conservation Genetics Federated Platform",
+"domain": "6",
+"description": "Apply federated learning to collaborative analysis of endangered species genetic diversity without sharing location-sensitive conservation data.",
+"keywords": ["Federated Learning", "Genetics", "Conservation Biology", "Privacy Protection"]
+},
+{
+"id": 530,
+"title": "Gut Microbiome Personalization Engine",
+"domain": "6",
+"description": "Create a graph neural network framework for modeling human gut microbiome that predicts personalized responses to dietary interventions.",
+"keywords": ["Graph Neural Networks", "Microbiology", "Personalized Medicine", "Nutrition Science"]
+},
+{
+"id": 531,
+"title": "CRISPR Outcome Explanation System",
+"domain": "6",
+"description": "Develop an explainable AI system for interpreting CRISPR gene editing outcomes that provides mechanistic insights into off-target effects.",
+"keywords": ["Explainable AI", "Biotechnology", "Gene Editing", "Molecular Biology"]
+},
+{
+"id": 532,
+"title": "Sustainable Agriculture Multi-Modal Platform",
+"domain": "6",
+"description": "Design a multi-modal learning platform combining satellite imagery, soil microbiome data, and crop yield information to optimize sustainable agriculture practices.",
+"keywords": ["Multi-Modal Learning", "Ecology", "Agriculture Technology", "Environmental Science"]
+},
+{
+"id": 533,
+"title": "Antibiotic Resistance Forecasting System",
+"domain": "6",
+"description": "Build a time series forecasting system for predicting antibiotic resistance emergence patterns in hospital environments with uncertainty quantification for infection control.",
+"keywords": ["Time Series Forecasting", "Microbiology", "Healthcare Analytics", "Resistance Modeling"]
+},
+{
+"id": 534,
+"title": "Synthetic Biology Circuit Designer",
+"domain": "6",
+"description": "Develop an AI system that designs optimal genetic circuits for synthetic biology applications, predicting circuit behavior and optimizing for desired cellular outputs.",
+"keywords": ["Synthetic Biology", "Circuit Design", "Genetic Engineering", "Optimization"]
+},
+{
+"id": 535,
+"title": "Epigenetic Landscape Mapper",
+"domain": "6",
+"description": "Create a deep learning framework that maps epigenetic modifications across cell lineages to predict cellular differentiation trajectories and reprogramming potential.",
+"keywords": ["Epigenetics", "Cell Differentiation", "Deep Learning", "Developmental Biology"]
+},
+{
+"id": 536,
+"title": "Metabolic Flux Optimization Engine",
+"domain": "6",
+"description": "Build an AI system that optimizes metabolic flux distributions in engineered organisms for maximum production of target compounds in biotechnology applications.",
+"keywords": ["Metabolic Engineering", "Flux Analysis", "Biotechnology", "Optimization"]
+},
+{
+"id": 537,
+"title": "Viral Evolution Prediction Platform",
+"domain": "6",
+"description": "Design a machine learning system that predicts viral mutation patterns and evolutionary trajectories to anticipate vaccine resistance and pandemic preparedness.",
+"keywords": ["Viral Evolution", "Mutation Prediction", "Vaccine Design", "Pandemic Preparedness"]
+},
+{
+"id": 538,
+"title": "Tissue Morphogenesis Simulator",
+"domain": "6",
+"description": "Develop a physics-informed neural network that simulates tissue development and morphogenesis processes for regenerative medicine applications.",
+"keywords": ["Morphogenesis", "Physics-Informed ML", "Tissue Engineering", "Regenerative Medicine"]
+},
+{
+"id": 539,
+"title": "Molecular Dynamics Accelerator",
+"domain": "6",
+"description": "Create a neural network framework that accelerates molecular dynamics simulations while maintaining accuracy for drug discovery and protein design.",
+"keywords": ["Molecular Dynamics", "Simulation Acceleration", "Drug Discovery", "Computational Chemistry"]
+},
+{
+"id": 540,
+"title": "Chromatin Structure Decoder",
+"domain": "6",
+"description": "Build a transformer-based model that decodes 3D chromatin structure from Hi-C data to predict gene regulation and chromatin interactions.",
+"keywords": ["Chromatin Structure", "Hi-C Analysis", "Gene Regulation", "Transformer Networks"]
+},
+{
+"id": 541,
+"title": "Organoid Development Tracker",
+"domain": "6",
+"description": "Design a computer vision system that tracks organoid development in real-time, predicting developmental outcomes and identifying optimal culture conditions.",
+"keywords": ["Organoid Culture", "Computer Vision", "Developmental Tracking", "Cell Culture Optimization"]
+},
+{
+"id": 542,
+"title": "Enzyme Function Predictor",
+"domain": "6",
+"description": "Develop a multi-scale neural network that predicts enzyme function and catalytic efficiency from protein sequence and structure data.",
+"keywords": ["Enzyme Engineering", "Function Prediction", "Protein Design", "Catalysis"]
+},
+{
+"id": 543,
+"title": "Bacterial Communication Decoder",
+"domain": "6",
+"description": "Create an AI system that decodes bacterial quorum sensing signals and predicts collective behavior in microbial communities.",
+"keywords": ["Quorum Sensing", "Microbial Communication", "Collective Behavior", "Signal Processing"]
+},
+{
+"id": 544,
+"title": "Immunotherapy Response Predictor",
+"domain": "6",
+"description": "Build a personalized medicine platform that predicts patient responses to immunotherapy treatments using multi-omics data integration.",
+"keywords": ["Immunotherapy", "Personalized Medicine", "Multi-Omics", "Treatment Response"]
+},
+{
+"id": 545,
+"title": "Biodegradation Pathway Designer",
+"domain": "6",
+"description": "Design an AI system that identifies and designs novel biodegradation pathways for environmental pollutants using metabolic network analysis.",
+"keywords": ["Biodegradation", "Environmental Remediation", "Metabolic Networks", "Pathway Design"]
+},
+{
+"id": 546,
+"title": "Neural Circuit Reconstruction Engine",
+"domain": "6",
+"description": "Develop a deep learning framework that reconstructs neural circuit connectivity from calcium imaging and electrophysiology data.",
+"keywords": ["Neural Circuits", "Connectomics", "Calcium Imaging", "Circuit Reconstruction"]
+},
+{
+"id": 547,
+"title": "Plant Stress Response Predictor",
+"domain": "6",
+"description": "Create a machine learning system that predicts plant stress responses to environmental changes using hyperspectral imaging and genomic data.",
+"keywords": ["Plant Biology", "Stress Response", "Hyperspectral Imaging", "Environmental Adaptation"]
+},
+{
+"id": 548,
+"title": "Membrane Protein Folding Simulator",
+"domain": "6",
+"description": "Build a specialized neural network that predicts membrane protein folding and insertion mechanisms for drug target identification.",
+"keywords": ["Membrane Proteins", "Protein Folding", "Drug Targets", "Structural Biology"]
+},
+{
+"id": 549,
+"title": "Microbiome-Host Interaction Modeler",
+"domain": "6",
+"description": "Design a graph-based learning system that models complex interactions between host immune system and microbiome for therapeutic intervention design.",
+"keywords": ["Host-Microbiome Interaction", "Immune System", "Graph Learning", "Therapeutic Design"]
+},
+{
+"id": 550,
+"title": "Cancer Metastasis Trajectory Predictor",
+"domain": "6",
+"description": "Develop a spatiotemporal neural network that predicts cancer metastasis patterns and trajectories using imaging and genomic data.",
+"keywords": ["Cancer Metastasis", "Spatiotemporal Analysis", "Medical Imaging", "Oncology"]
+},
+{
+"id": 551,
+"title": "Biofilm Formation Prevention System",
+"domain": "6",
+"description": "Create an AI-driven system that predicts biofilm formation conditions and designs intervention strategies for medical device infections.",
+"keywords": ["Biofilm Formation", "Infection Prevention", "Medical Devices", "Antimicrobial Strategies"]
+},
+{
+"id": 552,
+"title": "Genetic Code Expansion Designer",
+"domain": "6",
+"description": "Build a machine learning platform that designs novel amino acids and tRNA synthetases for expanding the genetic code in synthetic biology.",
+"keywords": ["Genetic Code Expansion", "Amino Acid Design", "Synthetic Biology", "Protein Engineering"]
+},
+{
+"id": 553,
+"title": "Mitochondrial Dysfunction Analyzer",
+"domain": "6",
+"description": "Develop a deep learning system that analyzes mitochondrial dynamics and predicts cellular energy dysfunction in disease states.",
+"keywords": ["Mitochondrial Biology", "Energy Metabolism", "Disease Mechanisms", "Cellular Dynamics"]
+},
+{
+"id": 554,
+"title": "Pollinator Network Optimizer",
+"domain": "6",
+"description": "Design an AI system that optimizes plant-pollinator networks for ecosystem resilience and agricultural productivity using ecological modeling.",
+"keywords": ["Pollinator Networks", "Ecosystem Resilience", "Agricultural Optimization", "Ecological Modeling"]
+},
+{
+"id": 555,
+"title": "Protein Allostery Predictor",
+"domain": "6",
+"description": "Create a neural network that predicts allosteric sites and mechanisms in proteins for targeted drug design and protein engineering.",
+"keywords": ["Protein Allostery", "Drug Design", "Protein Engineering", "Allosteric Regulation"]
+},
+{
+"id": 556,
+"title": "Bacterial Resistance Evolution Tracker",
+"domain": "6",
+"description": "Build a phylodynamic modeling system that tracks antibiotic resistance evolution in bacterial populations across healthcare networks.",
+"keywords": ["Phylodynamics", "Resistance Evolution", "Healthcare Networks", "Bacterial Genetics"]
+},
+{
+"id": 557,
+"title": "Stem Cell Differentiation Controller",
+"domain": "6",
+"description": "Develop an AI system that controls stem cell differentiation through optimal growth factor cocktail design and timing protocols.",
+"keywords": ["Stem Cell Biology", "Differentiation Control", "Growth Factors", "Protocol Optimization"]
+},
+{
+"id": 558,
+"title": "Coral Reef Resilience Predictor",
+"domain": "6",
+"description": "Design a machine learning platform that predicts coral reef resilience to bleaching events using environmental sensors and genetic diversity data.",
+"keywords": ["Coral Biology", "Climate Resilience", "Marine Ecology", "Conservation Biology"]
+},
+{
+"id": 559,
+"title": "Neurotransmitter Dynamics Simulator",
+"domain": "6",
+"description": "Create a computational model that simulates neurotransmitter release and reuptake dynamics for neurological drug development.",
+"keywords": ["Neurotransmitter Dynamics", "Synaptic Transmission", "Drug Development", "Neurochemistry"]
+},
+{
+"id": 560,
+"title": "Microbial Fuel Cell Optimizer",
+"domain": "6",
+"description": "Build an AI system that optimizes microbial fuel cell performance by predicting optimal microbial community compositions and operating conditions.",
+"keywords": ["Microbial Fuel Cells", "Bioelectricity", "Microbial Communities", "Renewable Energy"]
+},
+{
+"id": 561,
+"title": "DNA Origami Structure Designer",
+"domain": "6",
+"description": "Develop a machine learning framework that designs complex DNA origami structures for targeted drug delivery and biosensing applications.",
+"keywords": ["DNA Origami", "Nanotechnology", "Drug Delivery", "Biosensors"]
+},
+{
+"id": 562,
+"title": "Cellular Reprogramming Pathway Finder",
+"domain": "6",
+"description": "Create an AI system that discovers optimal cellular reprogramming pathways for converting one cell type to another with minimal intermediate states.",
+"keywords": ["Cellular Reprogramming", "Cell Fate Conversion", "Transcription Factors", "Regenerative Medicine"]
+},
+{
+"id": 563,
+"title": "Bioluminescence Engineering Platform",
+"domain": "6",
+"description": "Design a machine learning system that engineers novel bioluminescent systems for biosensing and biomedical imaging applications.",
+"keywords": ["Bioluminescence", "Biosensing", "Biomedical Imaging", "Enzyme Engineering"]
+},
+{
+"id": 564,
+"title": "Extremophile Adaptation Predictor",
+"domain": "6",
+"description": "Build an AI system that predicts genetic modifications needed for organisms to survive in extreme environments, enabling astrobiology and terraforming research.",
+"keywords": ["Extremophiles", "Astrobiology", "Genetic Adaptation", "Environmental Extremes"]
+},
+{
+"id": 565,
+"title": "Protein Liquid-Liquid Phase Separator",
+"domain": "6",
+"description": "Develop a deep learning model that predicts protein liquid-liquid phase separation behavior for understanding cellular compartmentalization and disease mechanisms.",
+"keywords": ["Phase Separation", "Protein Aggregation", "Cellular Compartments", "Biophysics"]
+},
+{
+"id": 566,
+"title": "Biorhythm Synchronization Engine",
+"domain": "6",
+"description": "Create an AI system that models and predicts circadian rhythm synchronization across multiple organ systems for chronotherapy optimization.",
+"keywords": ["Circadian Biology", "Chronotherapy", "Multi-Organ Systems", "Biorhythms"]
+},
+{
+"id": 567,
+"title": "Ribosome Engineering Designer",
+"domain": "6",
+"description": "Design a machine learning platform that engineers custom ribosomes with altered decoding properties for producing non-natural proteins.",
+"keywords": ["Ribosome Engineering", "Protein Synthesis", "Non-Natural Proteins", "Translation Control"]
+},
+{
+"id": 568,
+"title": "Cellular Aging Reversal Predictor",
+"domain": "6",
+"description": "Build an AI system that predicts optimal intervention strategies for reversing cellular aging processes using epigenetic reprogramming.",
+"keywords": ["Cellular Aging", "Epigenetic Reprogramming", "Longevity Research", "Age Reversal"]
+},
+{
+"id": 569,
+"title": "Horizontal Gene Transfer Tracker",
+"domain": "6",
+"description": "Develop a phylogenetic AI that tracks horizontal gene transfer events across microbial communities and predicts future transfer patterns.",
+"keywords": ["Horizontal Gene Transfer", "Microbial Evolution", "Phylogenetics", "Gene Flow"]
+},
+{
+"id": 570,
+"title": "Biocomputing Logic Gate Designer",
+"domain": "6",
+"description": "Create a machine learning system that designs biological logic gates using DNA, RNA, and protein components for cellular computing applications.",
+"keywords": ["Biocomputing", "Logic Gates", "Cellular Computing", "Biological Circuits"]
+},
+{
+"id": 571,
+"title": "Tissue Mechanical Property Predictor",
+"domain": "6",
+"description": "Build an AI system that predicts tissue mechanical properties from cellular composition and ECM structure for biomaterial design.",
+"keywords": ["Tissue Mechanics", "Extracellular Matrix", "Biomaterials", "Mechanical Properties"]
+},
+{
+"id": 572,
+"title": "Symbiotic Relationship Optimizer",
+"domain": "6",
+"description": "Design a machine learning platform that optimizes symbiotic relationships between different species for enhanced agricultural and ecological outcomes.",
+"keywords": ["Symbiosis", "Species Interactions", "Agricultural Enhancement", "Ecological Optimization"]
+},
+{
+"id": 573,
+"title": "Protein Moonlighting Function Discoverer",
+"domain": "6",
+"description": "Develop an AI system that discovers hidden moonlighting functions of proteins by analyzing multi-contextual expression and interaction data.",
+"keywords": ["Protein Moonlighting", "Multi-Function Proteins", "Hidden Functions", "Protein Analysis"]
+},
+{
+"id": 574,
+"title": "Cellular Memory Storage System",
+"domain": "6",
+"description": "Create a machine learning framework that designs biological memory storage systems using DNA methylation and histone modifications.",
+"keywords": ["Biological Memory", "DNA Methylation", "Histone Modifications", "Information Storage"]
+},
+{
+"id": 575,
+"title": "Biomineralization Process Controller",
+"domain": "6",
+"description": "Build an AI system that controls biomineralization processes for creating novel bio-inspired materials with specific properties.",
+"keywords": ["Biomineralization", "Bio-Inspired Materials", "Material Properties", "Mineral Formation"]
+},
+{
+"id": 576,
+"title": "Gut-Brain Axis Communication Decoder",
+"domain": "6",
+"description": "Design a neural network that decodes bidirectional communication signals between gut microbiome and brain for neurological intervention design.",
+"keywords": ["Gut-Brain Axis", "Microbiome-Brain Communication", "Neurological Interventions", "Bidirectional Signaling"]
+},
+{
+"id": 577,
+"title": "Hibernation Mechanism Simulator",
+"domain": "6",
+"description": "Develop an AI system that simulates hibernation mechanisms in mammals for applications in space travel and medical preservation.",
+"keywords": ["Hibernation Biology", "Metabolic Suppression", "Space Medicine", "Preservation Technology"]
+},
+{
+"id": 578,
+"title": "Autophagy Quality Control Optimizer",
+"domain": "6",
+"description": "Create a machine learning system that optimizes autophagy pathways for enhanced cellular quality control and disease prevention.",
+"keywords": ["Autophagy", "Cellular Quality Control", "Protein Degradation", "Disease Prevention"]
+},
+{
+"id": 579,
+"title": "Bioluminescent Timing Circuit Designer",
+"domain": "6",
+"description": "Build an AI platform that designs bioluminescent timing circuits for synchronized biological processes and optogenetic control.",
+"keywords": ["Bioluminescent Circuits", "Biological Timing", "Optogenetics", "Synchronized Processes"]
+},
+{
+"id": 580,
+"title": "Cellular Stress Integration Analyzer",
+"domain": "6",
+"description": "Design a multi-modal AI that analyzes how cells integrate multiple stress signals to make survival vs. death decisions.",
+"keywords": ["Cellular Stress", "Signal Integration", "Cell Death", "Survival Mechanisms"]
+},
+{
+"id": 581,
+"title": "Biofilm Communication Network Mapper",
+"domain": "6",
+"description": "Develop a graph neural network that maps communication networks within biofilms to design targeted disruption strategies.",
+"keywords": ["Biofilm Networks", "Microbial Communication", "Network Disruption", "Antimicrobial Strategies"]
+},
+{
+"id": 582,
+"title": "Evolutionary Constraint Predictor",
+"domain": "6",
+"description": "Create an AI system that predicts evolutionary constraints on protein sequences and structures for directed evolution experiments.",
+"keywords": ["Evolutionary Constraints", "Directed Evolution", "Protein Evolution", "Sequence Constraints"]
+},
+{
+"id": 583,
+"title": "Organelle Trafficking Controller",
+"domain": "6",
+"description": "Build a machine learning system that predicts and controls organelle trafficking patterns for optimizing cellular function.",
+"keywords": ["Organelle Trafficking", "Cellular Transport", "Intracellular Dynamics", "Cellular Optimization"]
+},
+{
+"id": 584,
+"title": "Prion Propagation Prevention System",
+"domain": "6",
+"description": "Design an AI platform that predicts prion propagation mechanisms and designs intervention strategies for neurodegenerative diseases.",
+"keywords": ["Prion Biology", "Protein Misfolding", "Neurodegenerative Diseases", "Propagation Prevention"]
+},
+{
+"id": 585,
+"title": "Cellular Reprogramming Cocktail Optimizer",
+"domain": "6",
+"description": "Develop a reinforcement learning system that optimizes small molecule cocktails for efficient cellular reprogramming.",
+"keywords": ["Small Molecule Reprogramming", "Cocktail Optimization", "Reinforcement Learning", "Cell Conversion"]
+},
+{
+"id": 586,
+"title": "Biomolecular Condensate Designer",
+"domain": "6",
+"description": "Create an AI system that designs artificial biomolecular condensates with specific properties for cellular engineering applications.",
+"keywords": ["Biomolecular Condensates", "Phase Separation Engineering", "Cellular Engineering", "Artificial Organelles"]
+},
+{
+"id": 587,
+"title": "Microbial Electrochemistry Optimizer",
+"domain": "6",
+"description": "Build a machine learning platform that optimizes microbial electrochemical systems for enhanced electron transfer and energy production.",
+"keywords": ["Microbial Electrochemistry", "Electron Transfer", "Bioelectrochemistry", "Energy Harvesting"]
+},
+{
+"id": 588,
+"title": "Cellular Senescence Reversal Engine",
+"domain": "6",
+"description": "Design an AI system that identifies optimal strategies for reversing cellular senescence while maintaining genomic stability.",
+"keywords": ["Cellular Senescence", "Senescence Reversal", "Genomic Stability", "Anti-Aging Therapeutics"]
+},
+{
+"id": 589,
+"title": "Biological Clock Synchronizer",
+"domain": "6",
+"description": "Develop a neural network that synchronizes biological clocks across different tissues for optimized physiological coordination.",
+"keywords": ["Biological Clocks", "Tissue Synchronization", "Physiological Coordination", "Temporal Biology"]
+},
+{
+"id": 590,
+"title": "Protein Conformational Switch Designer",
+"domain": "6",
+"description": "Create a machine learning system that designs protein conformational switches for controllable biological functions.",
+"keywords": ["Conformational Switches", "Protein Design", "Controllable Functions", "Allosteric Control"]
+},
+{
+"id": 591,
+"title": "Cellular Computation Network Builder",
+"domain": "6",
+"description": "Build an AI platform that designs cellular computation networks using signaling pathways for biological information processing.",
+"keywords": ["Cellular Computation", "Signaling Networks", "Information Processing", "Biological Computing"]
+},
+{
+"id": 592,
+"title": "Tissue Regeneration Blueprint Generator",
+"domain": "6",
+"description": "Design a machine learning system that generates tissue regeneration blueprints by analyzing developmental programs and injury responses.",
+"keywords": ["Tissue Regeneration", "Developmental Programs", "Injury Response", "Regenerative Blueprints"]
+},
+{
+"id": 593,
+"title": "Bacterial Persistence State Predictor",
+"domain": "6",
+"description": "Develop an AI system that predicts bacterial persistence states and designs strategies to prevent antibiotic tolerance.",
+"keywords": ["Bacterial Persistence", "Antibiotic Tolerance", "Dormant States", "Persistence Prevention"]
+},
+{
+"id": 594,
+"title": "Chromatin Loop Formation Controller",
+"domain": "6",
+"description": "Create a machine learning framework that predicts and controls chromatin loop formation for targeted gene regulation.",
+"keywords": ["Chromatin Loops", "Gene Regulation", "Chromatin Architecture", "Epigenetic Control"]
+},
+{
+"id": 595,
+"title": "Cellular Energy Distribution Optimizer",
+"domain": "6",
+"description": "Build an AI system that optimizes cellular energy distribution across different metabolic processes for enhanced cellular performance.",
+"keywords": ["Energy Distribution", "Metabolic Optimization", "Cellular Performance", "Energy Management"]
+},
+{
+"id": 596,
+"title": "Biocontainment System Designer",
+"domain": "6",
+"description": "Design a machine learning platform that creates robust biocontainment systems for genetically modified organisms using kill switches.",
+"keywords": ["Biocontainment", "Kill Switches", "GMO Safety", "Containment Systems"]
+},
+{
+"id": 597,
+"title": "Protein Folding Chaperone Engineer",
+"domain": "6",
+"description": "Develop an AI system that engineers custom molecular chaperones for assisting specific protein folding processes.",
+"keywords": ["Molecular Chaperones", "Protein Folding Assistance", "Chaperone Engineering", "Folding Optimization"]
+},
+{
+"id": 598,
+"title": "Cellular Decision Tree Mapper",
+"domain": "6",
+"description": "Create a machine learning framework that maps cellular decision-making processes during development and stress responses.",
+"keywords": ["Cellular Decision Making", "Developmental Decisions", "Stress Response", "Decision Mapping"]
+},
+{
+"id": 599,
+"title": "Biofilm Architecture Controller",
+"domain": "6",
+"description": "Build an AI system that controls biofilm architectural development for optimized industrial biotechnology applications.",
+"keywords": ["Biofilm Architecture", "Industrial Biotechnology", "Structural Control", "Microbial Engineering"]
+},
+{
+"id": 600,
+"title": "Cellular Information Storage Maximizer",
+"domain": "6",
+"description": "Design a machine learning platform that maximizes information storage capacity in biological systems using DNA, RNA, and protein modifications.",
+"keywords": ["Information Storage", "DNA Computing", "Biological Data Storage", "Storage Maximization"]
+}
 
         // Add more problems for remaining domains...
         // Due to length constraints, I'll add representative problems for each new domain
@@ -4490,27 +5155,7 @@ const PROBLEMS_DATA = {
 
 
         // Data Science & ML - Additional problems
-        {
-            "id": 506,
-            "title": "Graph Neural Network Framework",
-            "domain": "6",
-            "description": "Develop a framework for graph neural networks that handles various graph types and learning tasks efficiently.",
-            "keywords": ["Graph Neural Networks", "Deep Learning", "Graph Analysis", "Framework"]
-        },
-        {
-            "id": 507,
-            "title": "Time Series Forecasting Suite",
-            "domain": "6",
-            "description": "Create a comprehensive suite for time series analysis and forecasting with multiple algorithms and uncertainty quantification.",
-            "keywords": ["Time Series", "Forecasting", "Uncertainty Quantification", "Predictive Analytics"]
-        },
-        {
-            "id": 508,
-            "title": "Causal Inference Engine",
-            "domain": "6",
-            "description": "Build a system that identifies causal relationships from observational data using advanced causal inference methods.",
-            "keywords": ["Causal Inference", "Causal Discovery", "Observational Data", "Statistical Methods"]
-        },
+        
 
         // Continue with more domains and reach 2000+ problems total
         // Electronics (Domain 7)
