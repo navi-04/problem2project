@@ -7676,10 +7676,9 @@ const PROBLEMS_DATA = {
   "domain": "10",
   "description": "Design urban roads integrated with vegetation and natural filtration systems to manage runoff and improve aesthetics.",
   "keywords": ["Transportation", "Urban Planning", "Environmental Engineering", "Sustainability"]
-}
+},
 
-//HEALTH & PUBLIC HEALTH
-
+// HEALTH & PUBLIC HEALTH
 {
   "id": 1001,
   "title": "AI-Driven Early Disease Detection Wearable",
@@ -8379,9 +8378,7 @@ const PROBLEMS_DATA = {
   "domain": "Healthcare & Public Health",
   "description": "Design a platform that analyzes patient data to provide personalized health risk assessments and recommendations.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
-}
-
-
+},
 
 // AEROSPACE & AVIATION (Domain 21)
 {
