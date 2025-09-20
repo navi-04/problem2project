@@ -7676,7 +7676,712 @@ const PROBLEMS_DATA = {
   "domain": "10",
   "description": "Design urban roads integrated with vegetation and natural filtration systems to manage runoff and improve aesthetics.",
   "keywords": ["Transportation", "Urban Planning", "Environmental Engineering", "Sustainability"]
+}
+
+//HEALTH & PUBLIC HEALTH
+
+{
+  "id": 1001,
+  "title": "AI-Driven Early Disease Detection Wearable",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that uses AI to continuously monitor vital signs and detect early onset of chronic diseases.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
+{
+  "id": 1002,
+  "title": "Telemedicine VR Consultation Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a VR-based telemedicine system that allows immersive doctor-patient consultations with real-time biometric feedback.",
+  "keywords": ["Telemedicine", "Digital Health", "Health IT", "Medical Imaging"]
+},
+{
+  "id": 1003,
+  "title": "Predictive Epidemic Spread Model Using Social Data",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a predictive system combining epidemiological data and social media trends to forecast outbreaks and guide public health interventions.",
+  "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
+},
+{
+  "id": 1004,
+  "title": "Smart Prosthetic Limb with Neural Feedback",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a prosthetic limb that integrates neural sensors to provide users with real-time tactile and motion feedback.",
+  "keywords": ["Medical Devices", "Biomedical Engineering", "Health IT", "Digital Health"]
+},
+{
+  "id": 1005,
+  "title": "AI-Powered Drug Interaction Alert System",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a system that uses AI to analyze patient prescriptions and medical history to alert healthcare providers of potential adverse drug interactions.",
+  "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
+},
+{
+  "id": 1006,
+  "title": "Personalized Mental Health Chatbot",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a chatbot that uses AI and patient behavioral data to provide tailored mental health guidance and coping strategies.",
+  "keywords": ["Digital Health", "Health IT", "Public Health", "Healthcare Analytics"]
+},
+{
+  "id": 1007,
+  "title": "Portable AI Diagnostic Ultrasound",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a compact, AI-assisted ultrasound device for remote areas that can provide instant diagnostics and imaging analysis.",
+  "keywords": ["Medical Devices", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1008,
+  "title": "Blockchain-Based Patient Data Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Implement a secure blockchain system for storing and sharing patient records across hospitals while maintaining privacy and compliance.",
+  "keywords": ["Health IT", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1009,
+  "title": "AI-Enhanced Tele-Rehabilitation Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a remote rehabilitation system using AI to monitor patient exercises and provide corrective feedback to optimize recovery.",
+  "keywords": ["Telemedicine", "Healthcare Analytics", "Digital Health", "Medical Devices"]
+},
+{
+  "id": 1010,
+  "title": "Genomic Data Integration for Personalized Medicine",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a platform that integrates genomic data with patient health records to recommend personalized treatments and drug regimens.",
+  "keywords": ["Biomedical Engineering", "Healthcare Analytics", "Clinical Research", "Drug Discovery"]
+},
+{
+  "id": 1011,
+  "title": "Wearable Continuous Glucose Monitor with AI Alerts",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable device that tracks glucose levels continuously and sends AI-based alerts for abnormal readings.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1012,
+  "title": "Remote Cardiac Monitoring System",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a telemedicine-enabled cardiac monitoring system for early detection of arrhythmias and heart failure symptoms.",
+  "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
+},
+{
+  "id": 1013,
+  "title": "AI-Powered Epidemic Risk Mapping",
+  "domain": "Healthcare & Public Health",
+  "description": "Build a platform that uses AI to map high-risk epidemic zones based on health, mobility, and environmental data.",
+  "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
+},
+{
+  "id": 1014,
+  "title": "3D-Printed Biocompatible Implants",
+  "domain": "Healthcare & Public Health",
+  "description": "Create custom 3D-printed implants that are biocompatible and tailored to patient anatomy using imaging data.",
+  "keywords": ["Biomedical Engineering", "Medical Devices", "Medical Imaging", "Digital Health"]
+},
+{
+  "id": 1015,
+  "title": "AI-Based Personalized Drug Dosage System",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a system that calculates personalized drug doses based on patient genetics, metabolism, and health data.",
+  "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
+},
+{
+  "id": 1016,
+  "title": "Telemedicine Platform for Rural Maternal Care",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telemedicine platform to provide remote prenatal and postnatal care for rural populations.",
+  "keywords": ["Telemedicine", "Public Health", "Health IT", "Digital Health"]
+},
+{
+  "id": 1017,
+  "title": "AI-Assisted Cancer Screening Tool",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that analyzes imaging data to detect early-stage cancers with higher accuracy.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1018,
+  "title": "Wearable Mental Health Monitoring System",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a wearable device that tracks mood, sleep, and activity patterns to provide early warning signs of mental health issues.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1019,
+  "title": "Smart Hospital Resource Optimization Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Implement a platform that uses AI to optimize allocation of beds, staff, and medical resources in hospitals.",
+  "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
+},
+{
+  "id": 1020,
+  "title": "Blockchain-Based Clinical Trial Data Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a secure blockchain system for storing and sharing clinical trial data to enhance transparency and reproducibility.",
+  "keywords": ["Clinical Research", "Health IT", "Healthcare Analytics", "Digital Health"]
+},
+{
+  "id": 1021,
+  "title": "AI-Powered Nutritional Recommendation System",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a platform that provides personalized dietary recommendations based on health records and lifestyle data.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
+},
+{
+  "id": 1022,
+  "title": "Remote Sleep Disorder Diagnostic Tool",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a telemedicine device that monitors sleep patterns and detects sleep disorders remotely.",
+  "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
+},
+{
+  "id": 1023,
+  "title": "AI-Assisted Rehabilitation Exoskeleton",
+  "domain": "Healthcare & Public Health",
+  "description": "Create an exoskeleton system that provides AI-guided physical therapy for patients with mobility impairments.",
+  "keywords": ["Medical Devices", "Biomedical Engineering", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1024,
+  "title": "Predictive Analytics for Hospital Readmissions",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a predictive system that identifies patients at risk of readmission using healthcare data and AI.",
+  "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
+},
+{
+  "id": 1025,
+  "title": "AI-Driven Personalized Vaccination Planner",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a system that recommends personalized vaccination schedules based on individual health profiles and epidemiological data.",
+  "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Health IT"]
+},
+{
+  "id": 1026,
+  "title": "Smart Inhaler with Usage Analytics",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a connected inhaler device that tracks usage patterns and provides analytics to patients and healthcare providers.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1027,
+  "title": "Telepathology for Remote Diagnosis",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telepathology platform that allows pathologists to examine digital slides remotely for faster diagnoses.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
+},
+{
+  "id": 1028,
+  "title": "AI-Based Rare Disease Identification System",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI tool that analyzes symptoms and genetic data to identify rare diseases earlier than conventional methods.",
+  "keywords": ["Clinical Research", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1029,
+  "title": "Wearable Blood Pressure Monitor with Trend Analysis",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a wearable device that monitors blood pressure continuously and uses AI to detect abnormal trends.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1030,
+  "title": "AI-Powered Radiology Workflow Optimizer",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a system that uses AI to prioritize and optimize radiology imaging workflows for faster diagnoses.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Health IT", "Digital Health"]
+},
+{
+  "id": 1031,
+  "title": "Smart Contact Lens for Glucose Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a contact lens that continuously measures glucose levels and transmits the data to a mobile app for real-time monitoring.",
+  "keywords": ["Medical Devices", "Digital Health", "Biomedical Engineering", "Healthcare Analytics"]
+},
+{
+  "id": 1032,
+  "title": "AI-Assisted Stroke Rehabilitation Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a tele-rehabilitation platform that uses AI to monitor stroke patients’ exercises and provide adaptive therapy guidance.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1033,
+  "title": "Personalized Telehealth Nutrition Coaching",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telehealth platform that provides personalized nutrition coaching based on patient health metrics and lifestyle data.",
+  "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1034,
+  "title": "AI-Based Diagnostic Support for Rare Cancers",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI tool that assists clinicians in diagnosing rare cancers using imaging data and patient history.",
+  "keywords": ["Medical Imaging", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1035,
+  "title": "Remote Pulmonary Function Monitoring Device",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a portable device that remotely monitors pulmonary function and sends alerts for abnormal respiratory patterns.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Telemedicine"]
+},
+{
+  "id": 1036,
+  "title": "AI-Enhanced Pandemic Response Simulator",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a simulation platform that uses AI to model pandemic scenarios and guide public health decision-making.",
+  "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
+},
+{
+  "id": 1037,
+  "title": "Smart Wearable for Post-Surgical Recovery",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable device that tracks patient vitals and mobility post-surgery, providing recovery insights to clinicians.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1038,
+  "title": "Telemedicine Platform for Chronic Disease Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine system for continuous monitoring and management of chronic diseases like diabetes and hypertension.",
+  "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
+},
+{
+  "id": 1039,
+  "title": "AI-Powered Early Sepsis Detection System",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI-driven system that analyzes patient vitals and lab results to detect sepsis early in hospital settings.",
+  "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Clinical Research"]
+},
+{
+  "id": 1040,
+  "title": "Blockchain-Enabled Vaccine Supply Chain Tracker",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a blockchain system to securely track vaccine distribution and ensure authenticity and proper storage conditions.",
+  "keywords": ["Health IT", "Public Health", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1041,
+  "title": "Smart Wearable for Detecting Sleep Apnea",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that continuously monitors breathing patterns and identifies signs of sleep apnea.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1042,
+  "title": "AI-Assisted Remote Orthopedic Assessment",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform that uses AI to assess orthopedic injuries through imaging and motion capture data.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
+},
+{
+  "id": 1043,
+  "title": "Predictive Analytics for Hospital Resource Allocation",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that predicts hospital resource needs to optimize staffing, equipment, and bed allocation.",
+  "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
+},
+{
+  "id": 1044,
+  "title": "AI-Based Dermatology Diagnostic Tool",
+  "domain": "Healthcare & Public Health",
+  "description": "Design an AI tool that analyzes skin images to detect dermatological conditions with high accuracy.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1045,
+  "title": "Smart Pill Dispenser with Adherence Tracking",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a connected pill dispenser that tracks medication adherence and sends alerts to patients and caregivers.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Health IT"]
+},
+{
+  "id": 1046,
+  "title": "Telemedicine Platform for Remote Physiotherapy",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a telemedicine system that enables remote physiotherapy sessions with real-time motion tracking and guidance.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1047,
+  "title": "AI-Powered Early Detection of Neurological Disorders",
+  "domain": "Healthcare & Public Health",
+  "description": "Create an AI system that analyzes patient data and imaging to detect early signs of neurological disorders.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1048,
+  "title": "Wearable Stress and Heart Rate Variability Monitor",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable that tracks stress levels using heart rate variability and provides feedback for stress management.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1049,
+  "title": "AI-Based Clinical Decision Support for ICU",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a decision support system that uses AI to provide real-time recommendations for critical care patients in ICUs.",
+  "keywords": ["Healthcare Analytics", "Clinical Research", "Health IT", "Digital Health"]
+},
+{
+  "id": 1050,
+  "title": "Remote Rehabilitation Robot with Telemonitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a robotic rehabilitation system that allows remote physiotherapy with real-time monitoring and AI feedback.",
+  "keywords": ["Medical Devices", "Telemedicine", "Digital Health", "Biomedical Engineering"]
+},
+{
+  "id": 1051,
+  "title": "AI-Enabled Early Detection of Diabetic Retinopathy",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that analyzes retinal images to detect diabetic retinopathy at its earliest stages.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1052,
+  "title": "Telemedicine-Based Geriatric Care System",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform tailored for elderly patients, providing remote monitoring and personalized care plans.",
+  "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
+},
+{
+  "id": 1053,
+  "title": "Smart Wearable for Continuous Cardiac Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable device that continuously monitors heart rate, rhythm, and oxygen levels to detect cardiac anomalies.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1054,
+  "title": "AI-Assisted Personalized Cancer Therapy Planner",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a platform that recommends personalized cancer treatments based on genomic data, imaging, and patient history.",
+  "keywords": ["Drug Discovery", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1055,
+  "title": "Remote Patient Monitoring for Respiratory Diseases",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine-enabled system that monitors respiratory parameters and alerts healthcare providers for anomalies.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1056,
+  "title": "AI-Powered Mental Health Risk Assessment",
+  "domain": "Healthcare & Public Health",
+  "description": "Design an AI platform that evaluates behavioral and physiological data to assess mental health risks in individuals.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
+},
+{
+  "id": 1057,
+  "title": "Blockchain-Enabled Patient Consent Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Implement a blockchain system for secure management of patient consent for treatments and data sharing.",
+  "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
+},
+{
+  "id": 1058,
+  "title": "Wearable Device for Continuous Oxygen Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that continuously monitors blood oxygen levels and alerts users to hypoxia events.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1059,
+  "title": "AI-Assisted Remote Rehabilitation for Stroke Patients",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a tele-rehabilitation platform that uses AI to guide stroke patients through exercises and monitor progress remotely.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1060,
+  "title": "Predictive Analytics for Hospital Infection Control",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that predicts potential hospital-acquired infections and recommends preventive measures.",
+  "keywords": ["Healthcare Analytics", "Public Health", "Health IT", "Digital Health"]
+},
+{
+  "id": 1061,
+  "title": "AI-Based Early Detection of Parkinson’s Disease",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a platform that uses patient movement and speech patterns to detect early signs of Parkinson’s disease.",
+  "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Devices", "Digital Health"]
+},
+{
+  "id": 1062,
+  "title": "Telemedicine Platform for Remote Dermatology",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a telemedicine system allowing dermatologists to diagnose skin conditions remotely using high-resolution imaging.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
+},
+{
+  "id": 1063,
+  "title": "Smart Wearable for Continuous Hydration Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a wearable device that monitors hydration levels and alerts users to maintain optimal fluid intake.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1064,
+  "title": "AI-Powered Early Detection of Alzheimer’s Disease",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a platform that analyzes cognitive tests and imaging data to identify early signs of Alzheimer’s disease.",
+  "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Imaging", "Digital Health"]
+},
+{
+  "id": 1065,
+  "title": "Remote Tele-Ophthalmology for Rural Areas",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telemedicine system that provides eye care services and diagnostics to underserved rural populations.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Public Health"]
+},
+{
+  "id": 1066,
+  "title": "AI-Enhanced Medication Management Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create an AI system that monitors patient prescriptions, detects potential drug conflicts, and optimizes treatment plans.",
+  "keywords": ["Health IT", "Healthcare Analytics", "Digital Health", "Clinical Research"]
+},
+{
+  "id": 1067,
+  "title": "Wearable System for Continuous Pain Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that tracks pain levels and physiological signals, providing feedback to patients and clinicians.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1068,
+  "title": "AI-Powered Remote Pediatric Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telemedicine platform that monitors vital signs and growth metrics in children remotely, with AI analysis for early warning.",
+  "keywords": ["Telemedicine", "Health IT", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1069,
+  "title": "Predictive Analytics for Chronic Kidney Disease",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that predicts progression of chronic kidney disease based on lab results and lifestyle data.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
+},
+{
+  "id": 1070,
+  "title": "Telemedicine-Enabled Remote Physical Therapy Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform allowing patients to perform guided physical therapy exercises remotely with AI feedback.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1071,
+  "title": "AI-Based Detection of Sleep Disorders from Wearable Data",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that analyzes sleep patterns collected from wearables to detect disorders like insomnia or sleep apnea.",
+  "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Biomedical Engineering"]
+},
+{
+  "id": 1072,
+  "title": "Remote Tele-ENT Diagnostic Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform that allows ENT specialists to perform remote examinations and provide diagnostics for ear, nose, and throat conditions.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
+},
+{
+  "id": 1073,
+  "title": "Wearable System for Detecting Early-Onset Arthritis",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable device that monitors joint movements and inflammation indicators to detect early-onset arthritis.",
+  "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
+},
+{
+  "id": 1074,
+  "title": "AI-Assisted Personalized Oncology Care",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a platform that uses patient data and genomics to provide personalized oncology treatment recommendations.",
+  "keywords": ["Drug Discovery", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1075,
+  "title": "Telemedicine Platform for Remote Pulmonology Care",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a system that allows pulmonologists to remotely monitor lung function and provide consultations to patients in remote locations.",
+  "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
+},
+{
+  "id": 1076,
+  "title": "AI-Powered Cardiovascular Risk Assessment Tool",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a tool that analyzes lifestyle, lab, and wearable data to provide early cardiovascular risk assessments.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
+},
+{
+  "id": 1077,
+  "title": "Blockchain-Based Secure Medical Imaging Repository",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a blockchain-enabled platform for secure storage and sharing of medical imaging data across hospitals.",
+  "keywords": ["Medical Imaging", "Health IT", "Digital Health", "Clinical Research"]
+},
+{
+  "id": 1078,
+  "title": "Smart Wearable for Continuous Blood Pressure Tracking",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that continuously monitors blood pressure and alerts users and doctors for abnormal readings.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1079,
+  "title": "Telemedicine-Based Remote Nutritional Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a platform that allows dietitians to monitor patients’ nutritional intake and health remotely.",
+  "keywords": ["Telemedicine", "Digital Health", "Health IT", "Public Health"]
+},
+{
+  "id": 1080,
+  "title": "AI-Assisted Early Detection of Liver Diseases",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that analyzes lab results and imaging data to detect liver diseases at early stages.",
+  "keywords": ["Healthcare Analytics", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1081,
+  "title": "Wearable Device for Real-Time Stress Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a wearable that monitors physiological stress indicators and provides real-time feedback for stress reduction.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1082,
+  "title": "Remote AI-Based Orthopedic Surgery Planning",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform that uses AI to assist in pre-operative planning and simulations for orthopedic surgeries.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1083,
+  "title": "AI-Powered Early Detection of Kidney Disease",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a predictive system that analyzes lab results and patient data to detect kidney disease at an early stage.",
+  "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Digital Health", "Clinical Research"]
+},
+{
+  "id": 1084,
+  "title": "Smart Inhaler with AI Usage Analytics",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a connected inhaler that tracks medication use and provides AI-generated insights to optimize asthma management.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1085,
+  "title": "Telemedicine Platform for Remote Cardiac Rehab",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a system enabling patients to undergo cardiac rehabilitation remotely with AI-monitored exercises.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1086,
+  "title": "AI-Based Detection of Gastrointestinal Disorders",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a platform that uses patient imaging and clinical data to detect gastrointestinal disorders early.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
+},
+{
+  "id": 1087,
+  "title": "Wearable Device for Real-Time Hydration Alerts",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that monitors hydration levels continuously and sends alerts for timely water intake.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1088,
+  "title": "AI-Assisted Remote Pediatric Vaccination Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine platform that tracks pediatric vaccination schedules and compliance remotely using AI.",
+  "keywords": ["Telemedicine", "Public Health", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1089,
+  "title": "Predictive Analytics for ICU Patient Outcomes",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop an AI system that predicts outcomes and complications in ICU patients to support clinical decision-making.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Clinical Research", "Health IT"]
+},
+{
+  "id": 1090,
+  "title": "Telemedicine-Enabled Remote Diabetes Management",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a platform that allows remote monitoring and management of diabetic patients’ blood sugar and lifestyle habits.",
+  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
+},
+{
+  "id": 1091,
+  "title": "AI-Based Early Detection of Lung Diseases",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a predictive system that uses imaging and clinical data to detect lung diseases early.",
+  "keywords": ["Medical Imaging", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
+},
+{
+  "id": 1092,
+  "title": "Wearable Device for Monitoring Pediatric Vital Signs",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a wearable system that continuously tracks pediatric vital signs and sends alerts for abnormal readings.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
+},
+{
+  "id": 1093,
+  "title": "AI-Assisted Tele-Neurology Platform",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a telemedicine platform that enables remote neurological assessments using AI analysis of patient data.",
+  "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Digital Health"]
+},
+{
+  "id": 1094,
+  "title": "Smart Wearable for Blood Glucose Trend Prediction",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable device that predicts future blood glucose trends using AI and patient data.",
+  "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
+},
+{
+  "id": 1095,
+  "title": "AI-Based Remote Monitoring of Heart Failure Patients",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a telemedicine system that monitors heart failure patients remotely and predicts potential complications.",
+  "keywords": ["Telemedicine", "Healthcare Analytics", "Medical Devices", "Digital Health"]
+},
+{
+  "id": 1096,
+  "title": "Blockchain-Based Secure Medical Records Sharing",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a blockchain system for secure sharing of medical records across healthcare providers while ensuring privacy.",
+  "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
+},
+{
+  "id": 1097,
+  "title": "AI-Powered Predictive Model for Chronic Pain",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a system that predicts chronic pain flare-ups based on patient data and wearable signals.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Medical Devices"]
+},
+{
+  "id": 1098,
+  "title": "Telemedicine Platform for Remote Oncology Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Create a system for remote monitoring of oncology patients, including vitals, medication adherence, and symptom tracking.",
+  "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Medical Devices"]
+},
+{
+  "id": 1099,
+  "title": "Wearable Device for Continuous Respiratory Monitoring",
+  "domain": "Healthcare & Public Health",
+  "description": "Develop a wearable system that tracks breathing patterns continuously and alerts for abnormalities.",
+  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
+},
+{
+  "id": 1100,
+  "title": "AI-Enabled Personalized Health Risk Assessment",
+  "domain": "Healthcare & Public Health",
+  "description": "Design a platform that analyzes patient data to provide personalized health risk assessments and recommendations.",
+  "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
+}
+
+
 
 // AEROSPACE & AVIATION (Domain 21)
 {
