@@ -3503,6 +3503,672 @@ const PROBLEMS_DATA = {
             "description": "Build a platform for analyzing microbiome data, identifying bacterial communities, and correlating with health outcomes.",
             "keywords": ["Microbiome", "Bacterial Analysis", "Health Outcomes", "Data Analysis"]
         },
+                {
+            "id": 406,
+            "title": "CRISPR Gene Editing Designer",
+            "domain": "5",
+            "description": "Design a tool that helps researchers design CRISPR experiments with optimal guide RNAs and minimal off-target effects.",
+            "keywords": ["CRISPR", "Gene Editing", "Guide RNA Design", "Biotechnology"]
+        },
+        {
+            "id": 407,
+            "title": "Phylogenetic Tree Constructor",
+            "domain": "5",
+            "description": "Create a system that constructs evolutionary trees from genetic data using various algorithmic approaches.",
+            "keywords": ["Phylogenetics", "Evolution", "Genetic Analysis", "Tree Construction"]
+        },
+        {
+            "id": 408,
+            "title": "Single Cell RNA-seq Analyzer",
+            "domain": "5",
+            "description": "Build a comprehensive platform for analyzing single-cell RNA sequencing data with clustering and trajectory analysis.",
+            "keywords": ["Single Cell Analysis", "RNA-seq", "Cell Biology", "Genomics"]
+        },
+        {
+            "id": 409,
+            "title": "Quantum Biology State Predictor",
+            "domain": "5",
+            "description": "Develop a system that models quantum coherence effects in biological processes like photosynthesis and enzyme catalysis, predicting quantum tunneling probabilities.",
+            "keywords": ["Quantum Biology", "Coherence Effects", "Enzyme Catalysis", "Quantum Tunneling"]
+        },
+        {
+            "id": 410,
+            "title": "Synthetic Biology Circuit Designer",
+            "domain": "5",
+            "description": "Create an AI-powered tool that designs biological circuits using engineered genetic components to perform computational tasks within living cells.",
+            "keywords": ["Synthetic Biology", "Genetic Circuits", "Biocomputing", "Living Systems"]
+        },
+        {
+            "id": 411,
+            "title": "Exoplanet Life Detection Algorithm",
+            "domain": "5",
+            "description": "Build a system that analyzes atmospheric composition data from exoplanets to identify potential biosignatures and assess habitability probability.",
+            "keywords": ["Astrobiology", "Exoplanets", "Biosignatures", "Atmospheric Analysis"]
+        },
+        {
+            "id": 412,
+            "title": "Biorhythm Synchronization Predictor",
+            "domain": "5",
+            "description": "Design a platform that models circadian rhythms across multiple organisms and predicts optimal timing for medical interventions.",
+            "keywords": ["Circadian Biology", "Biorhythms", "Chronotherapy", "Systems Biology"]
+        },
+        {
+            "id": 413,
+            "title": "Morphogenetic Field Simulator",
+            "domain": "5",
+            "description": "Create a 3D simulation system that models developmental biology processes and tissue morphogenesis using field theory principles.",
+            "keywords": ["Developmental Biology", "Morphogenesis", "Field Theory", "Tissue Engineering"]
+        },
+        {
+            "id": 414,
+            "title": "Extremophile Adaptation Engine",
+            "domain": "5",
+            "description": "Build a predictive system that identifies genetic modifications needed for organisms to survive in extreme environments like space or deep ocean trenches.",
+            "keywords": ["Extremophiles", "Genetic Adaptation", "Extreme Environments", "Space Biology"]
+        },
+        {
+            "id": 415,
+            "title": "Consciousness Emergence Mapper",
+            "domain": "5",
+            "description": "Develop a framework that analyzes neural complexity metrics across species to identify potential consciousness emergence thresholds.",
+            "keywords": ["Consciousness", "Neural Complexity", "Comparative Neuroscience", "Emergence"]
+        },
+        {
+            "id": 416,
+            "title": "Biological Information Storage System",
+            "domain": "5",
+            "description": "Design a system that encodes digital information into DNA sequences with error correction and develops optimal retrieval algorithms.",
+            "keywords": ["DNA Storage", "Information Theory", "Biological Computing", "Data Encoding"]
+        },
+        {
+            "id": 417,
+            "title": "Senescence Reversal Predictor",
+            "domain": "5",
+            "description": "Create an AI system that identifies cellular aging markers and predicts which interventions might reverse senescence processes.",
+            "keywords": ["Aging", "Senescence", "Cellular Rejuvenation", "Longevity Research"]
+        },
+        {
+            "id": 418,
+            "title": "Swarm Intelligence Decoder",
+            "domain": "5",
+            "description": "Build a platform that analyzes collective behavior patterns in biological swarms and extracts underlying decision-making algorithms.",
+            "keywords": ["Swarm Intelligence", "Collective Behavior", "Emergent Properties", "Behavioral Analysis"]
+        },
+        {
+            "id": 419,
+            "title": "Epigenetic Memory Tracer",
+            "domain": "5",
+            "description": "Develop a system that tracks epigenetic modifications across generations and predicts inherited trait expression patterns.",
+            "keywords": ["Epigenetics", "Transgenerational Inheritance", "Gene Expression", "Memory"]
+        },
+        {
+            "id": 420,
+            "title": "Bioluminescence Communication Decoder",
+            "domain": "5",
+            "description": "Create a tool that analyzes bioluminescent patterns in marine organisms and decodes potential communication signals.",
+            "keywords": ["Bioluminescence", "Marine Biology", "Communication", "Signal Processing"]
+        },
+        {
+            "id": 421,
+            "title": "Symbiosis Optimization Engine",
+            "domain": "5",
+            "description": "Design a system that models mutualistic relationships and predicts optimal symbiotic partnerships for enhanced ecosystem function.",
+            "keywords": ["Symbiosis", "Mutualism", "Ecosystem Optimization", "Partnership Dynamics"]
+        },
+        {
+            "id": 422,
+            "title": "Biological Clock Synchronizer",
+            "domain": "5",
+            "description": "Build a platform that analyzes molecular clocks across different biological systems and develops synchronization protocols.",
+            "keywords": ["Molecular Clocks", "Biological Timing", "Synchronization", "Temporal Biology"]
+        },
+        {
+            "id": 423,
+            "title": "Metamorphosis Process Optimizer",
+            "domain": "5",
+            "description": "Create a system that models complete metamorphosis processes and identifies optimization strategies for biotechnology applications.",
+            "keywords": ["Metamorphosis", "Developmental Biology", "Process Optimization", "Biotechnology"]
+        },
+        {
+            "id": 424,
+            "title": "Biological Radar System Analyzer",
+            "domain": "5",
+            "description": "Develop tools to analyze echolocation and biosonar systems in animals, extracting principles for bio-inspired technologies.",
+            "keywords": ["Biosonar", "Echolocation", "Bio-inspired Technology", "Sensory Systems"]
+        },
+        {
+            "id": 425,
+            "title": "Genetic Algorithm Evolution Simulator",
+            "domain": "5",
+            "description": "Build a system that simulates evolutionary processes using genetic algorithms and predicts future evolutionary trajectories.",
+            "keywords": ["Evolution Simulation", "Genetic Algorithms", "Evolutionary Prediction", "Computational Biology"]
+        },
+        {
+            "id": 426,
+            "title": "Bioenergetics Optimization Calculator",
+            "domain": "5",
+            "description": "Create a platform that analyzes energy flow in biological systems and identifies optimization strategies for metabolic efficiency.",
+            "keywords": ["Bioenergetics", "Metabolic Efficiency", "Energy Flow", "Systems Biology"]
+        },
+        {
+            "id": 427,
+            "title": "Cellular Memory Storage Analyzer",
+            "domain": "5",
+            "description": "Design a system that investigates how cells store and retrieve information, mapping cellular memory mechanisms.",
+            "keywords": ["Cellular Memory", "Information Storage", "Cell Biology", "Memory Mechanisms"]
+        },
+        {
+            "id": 428,
+            "title": "Bioacoustic Pattern Recognition Engine",
+            "domain": "5",
+            "description": "Build an AI system that analyzes complex animal vocalizations and identifies species-specific communication patterns and meanings.",
+            "keywords": ["Bioacoustics", "Animal Communication", "Pattern Recognition", "Vocal Analysis"]
+        },
+        {
+            "id": 429,
+            "title": "Regenerative Medicine Pathway Mapper",
+            "domain": "5",
+            "description": "Develop a system that maps cellular reprogramming pathways for tissue regeneration and organ reconstruction applications.",
+            "keywords": ["Regenerative Medicine", "Cellular Reprogramming", "Tissue Engineering", "Pathway Mapping"]
+        },
+        {
+            "id": 430,
+            "title": "Biological Quantum Sensor Designer",
+            "domain": "5",
+            "description": "Create tools to analyze quantum sensing mechanisms in biology and design bio-inspired quantum sensors for various applications.",
+            "keywords": ["Quantum Sensing", "Biological Sensors", "Quantum Biology", "Bio-inspired Design"]
+        },
+        {
+            "id": 431,
+            "title": "Microgravity Biology Predictor",
+            "domain": "5",
+            "description": "Build a system that predicts how biological processes change in microgravity environments and designs countermeasures.",
+            "keywords": ["Space Biology", "Microgravity", "Biological Adaptation", "Space Medicine"]
+        },
+        {
+            "id": 432,
+            "title": "Biological Network Topology Analyzer",
+            "domain": "5",
+            "description": "Design a platform that analyzes the topological properties of biological networks and identifies critical control nodes.",
+            "keywords": ["Network Topology", "Systems Biology", "Control Theory", "Network Analysis"]
+        },
+        {
+            "id": 433,
+            "title": "Enzyme Evolution Accelerator",
+            "domain": "5",
+            "description": "Create an AI-driven system that predicts evolutionary trajectories for enzymes and accelerates directed evolution experiments.",
+            "keywords": ["Enzyme Evolution", "Directed Evolution", "Protein Engineering", "Evolutionary Prediction"]
+        },
+        {
+            "id": 434,
+            "title": "Biological Cryptography Decoder",
+            "domain": "5",
+            "description": "Develop tools to identify and decode potential cryptographic mechanisms in biological communication systems.",
+            "keywords": ["Biological Cryptography", "Secure Communication", "Biological Codes", "Information Security"]
+        },
+        {
+            "id": 435,
+            "title": "Synthetic Organelle Designer",
+            "domain": "5",
+            "description": "Build a system that designs synthetic organelles with novel functions for enhanced cellular capabilities.",
+            "keywords": ["Synthetic Biology", "Organelle Design", "Cellular Engineering", "Synthetic Organelles"]
+        },
+        {
+            "id": 436,
+            "title": "Biological Fractal Pattern Analyzer",
+            "domain": "5",
+            "description": "Create a platform that analyzes fractal patterns in biological structures and predicts functional relationships.",
+            "keywords": ["Fractals", "Biological Patterns", "Mathematical Biology", "Structural Analysis"]
+        },
+        {
+            "id": 437,
+            "title": "Cross-Kingdom Communication Detector",
+            "domain": "5",
+            "description": "Design a system that identifies potential communication mechanisms between different biological kingdoms (plants, animals, fungi, bacteria).",
+            "keywords": ["Inter-kingdom Communication", "Cross-kingdom Signaling", "Biological Communication", "Multi-kingdom Interactions"]
+        },
+        {
+            "id": 438,
+            "title": "Biological Hologram Generator",
+            "domain": "5",
+            "description": "Develop a system that creates holographic representations of biological structures for enhanced visualization and analysis.",
+            "keywords": ["Biological Holography", "3D Visualization", "Structural Biology", "Holographic Display"]
+        },
+        {
+            "id": 439,
+            "title": "Adaptive Immunity Algorithm Designer",
+            "domain": "5",
+            "description": "Build an AI system that mimics adaptive immune system learning algorithms for enhanced pathogen recognition and response.",
+            "keywords": ["Adaptive Immunity", "Machine Learning", "Pathogen Recognition", "Immune Algorithms"]
+        },
+        {
+            "id": 440,
+            "title": "Biological Time Travel Simulator",
+            "domain": "5",
+            "description": "Create a system that reverse-engineers evolutionary history and predicts ancestral biological states from modern data.",
+            "keywords": ["Evolutionary History", "Ancestral Reconstruction", "Time Simulation", "Phylogenetic Analysis"]
+        },
+        {
+            "id": 441,
+            "title": "Xenobiology Compatibility Assessor",
+            "domain": "5",
+            "description": "Design tools to assess compatibility between Earth-based and hypothetical alien biological systems.",
+            "keywords": ["Xenobiology", "Alien Life", "Biological Compatibility", "Astrobiology"]
+        },
+        {
+            "id": 442,
+            "title": "Biological Metamaterial Designer",
+            "domain": "5",
+            "description": "Develop a system that designs biological structures with metamaterial properties for novel optical and mechanical behaviors.",
+            "keywords": ["Biological Metamaterials", "Bio-inspired Materials", "Optical Properties", "Mechanical Engineering"]
+        },
+        {
+            "id": 443,
+            "title": "Consciousness Transfer Protocol Designer",
+            "domain": "5",
+            "description": "Build a theoretical framework for analyzing consciousness patterns and designing potential transfer protocols between biological systems.",
+            "keywords": ["Consciousness Transfer", "Neural Patterns", "Cognitive Science", "Theoretical Biology"]
+        },
+        {
+            "id": 444,
+            "title": "Biological Quantum Computer Builder",
+            "domain": "5",
+            "description": "Create a system that designs quantum computing architectures using biological components like DNA, proteins, or cellular structures.",
+            "keywords": ["Biological Quantum Computing", "DNA Computing", "Protein Computing", "Bio-quantum Systems"]
+        },
+        {
+            "id": 445,
+            "title": "Ecosystem Time Machine",
+            "domain": "5",
+            "description": "Design a platform that reconstructs historical ecosystem states and predicts future ecological configurations under various scenarios.",
+            "keywords": ["Ecosystem Reconstruction", "Ecological Forecasting", "Historical Ecology", "Environmental Prediction"]
+        },
+        {
+            "id": 446,
+            "title": "Biological Error Correction System",
+            "domain": "5",
+            "description": "Build a system that analyzes biological error correction mechanisms and designs enhanced error correction for synthetic biology applications.",
+            "keywords": ["Error Correction", "Biological Fidelity", "Synthetic Biology", "Information Theory"]
+        },
+        {
+            "id": 447,
+            "title": "Multi-Dimensional Life Form Analyzer",
+            "domain": "5",
+            "description": "Create tools to analyze hypothetical life forms that might exist in higher-dimensional spaces and their biological constraints.",
+            "keywords": ["Multi-dimensional Biology", "Theoretical Life", "Dimensional Analysis", "Mathematical Biology"]
+        },
+        {
+            "id": 448,
+            "title": "Biological Wormhole Generator",
+            "domain": "5",
+            "description": "Design a theoretical system that uses biological processes to create space-time distortions for faster-than-light biological communication.",
+            "keywords": ["Biological Wormholes", "Space-time Biology", "Quantum Communication", "Theoretical Physics"]
+        },
+        {
+            "id": 449,
+            "title": "Living Architecture Designer",
+            "domain": "5",
+            "description": "Build a platform that designs self-constructing and self-maintaining architectural structures using engineered biological systems.",
+            "keywords": ["Living Architecture", "Bio-construction", "Self-assembly", "Synthetic Biology"]
+        },
+        {
+            "id": 450,
+            "title": "Biological Perpetual Motion Analyzer",
+            "domain": "5",
+            "description": "Create a system that analyzes biological processes for maximum energy efficiency and designs theoretical perpetual biological systems.",
+            "keywords": ["Perpetual Motion", "Energy Efficiency", "Thermodynamics", "Biological Systems"]
+        },
+    {
+        "id": 451,
+        "title": "Cellular Music Composition Engine",
+        "domain": "5",
+        "description": "Design a system that translates cellular activity patterns into musical compositions, revealing hidden rhythms in biological processes.",
+        "keywords": ["Cellular Rhythms", "Bio-music", "Pattern Translation", "Biological Harmonics"]
+    },
+    {
+        "id": 452,
+        "title": "Mitochondrial Communication Network Mapper",
+        "domain": "5",
+        "description": "Build a platform that analyzes inter-mitochondrial communication and maps energy distribution networks within cells.",
+        "keywords": ["Mitochondrial Networks", "Cellular Energy", "Organelle Communication", "Energy Distribution"]
+    },
+    {
+        "id": 453,
+        "title": "Biological Shape-Shifting Predictor",
+        "domain": "5",
+        "description": "Create a system that predicts and models dynamic shape changes in organisms and designs programmable shape-shifting bio-materials.",
+        "keywords": ["Shape-shifting", "Dynamic Morphology", "Bio-materials", "Programmable Biology"]
+    },
+    {
+        "id": 454,
+        "title": "Underwater Plant Communication Analyzer",
+        "domain": "5",
+        "description": "Develop tools to decode chemical and electrical signals between aquatic plants and map underwater botanical networks.",
+        "keywords": ["Aquatic Plants", "Chemical Signaling", "Underwater Networks", "Plant Communication"]
+    },
+    {
+        "id": 455,
+        "title": "Biological Compass Calibrator",
+        "domain": "5",
+        "description": "Build a system that analyzes magnetic navigation in various species and designs enhanced bio-inspired navigation systems.",
+        "keywords": ["Magnetic Navigation", "Bio-compass", "Animal Navigation", "Magnetic Fields"]
+    },
+    {
+        "id": 456,
+        "title": "Tissue Memory Storage System",
+        "domain": "5",
+        "description": "Create a platform that investigates how tissues store mechanical and chemical memories and applies this for bio-storage applications.",
+        "keywords": ["Tissue Memory", "Mechanical Memory", "Bio-storage", "Tissue Engineering"]
+    },
+    {
+        "id": 457,
+        "title": "Bacterial Democracy Simulator",
+        "domain": "5",
+        "description": "Design a system that models decision-making processes in bacterial colonies and applies collective intelligence principles.",
+        "keywords": ["Bacterial Decision-making", "Collective Intelligence", "Quorum Sensing", "Microbial Democracy"]
+    },
+    {
+        "id": 458,
+        "title": "Living Color Palette Generator",
+        "domain": "5",
+        "description": "Build an AI system that analyzes color production in nature and designs programmable biological pigmentation systems.",
+        "keywords": ["Biological Pigments", "Color Generation", "Programmable Pigmentation", "Natural Colors"]
+    },
+    {
+        "id": 459,
+        "title": "Cellular Age Reversal Timer",
+        "domain": "5",
+        "description": "Create a system that tracks cellular aging markers in real-time and predicts optimal intervention timing for age reversal.",
+        "keywords": ["Cellular Aging", "Age Reversal", "Real-time Monitoring", "Intervention Timing"]
+    },
+    {
+        "id": 460,
+        "title": "Bio-Electric Circuit Designer",
+        "domain": "5",
+        "description": "Develop a platform that designs electrical circuits using living tissues and optimizes bio-electrical signal processing.",
+        "keywords": ["Bio-electricity", "Living Circuits", "Tissue Electronics", "Bio-electrical Processing"]
+    },
+    {
+        "id": 461,
+        "title": "Hibernation State Controller",
+        "domain": "5",
+        "description": "Build a system that analyzes hibernation mechanisms and designs controlled suspended animation protocols for various applications.",
+        "keywords": ["Hibernation", "Suspended Animation", "Metabolic Control", "Dormancy States"]
+    },
+    {
+        "id": 462,
+        "title": "Biological Antenna Array Optimizer",
+        "domain": "5",
+        "description": "Create tools that analyze natural antenna structures in organisms and optimize bio-inspired communication arrays.",
+        "keywords": ["Biological Antennas", "Communication Arrays", "Bio-inspired Design", "Signal Reception"]
+    },
+    {
+        "id": 463,
+        "title": "Cellular Telepathy Detector",
+        "domain": "5",
+        "description": "Design a system that investigates potential quantum entanglement between cells and tests for non-local cellular communication.",
+        "keywords": ["Cellular Communication", "Quantum Entanglement", "Non-local Effects", "Cellular Telepathy"]
+    },
+    {
+        "id": 464,
+        "title": "Bio-Mechanical Gear System Analyzer",
+        "domain": "5",
+        "description": "Build a platform that studies mechanical gear-like structures in nature and designs improved bio-mechanical systems.",
+        "keywords": ["Bio-mechanics", "Natural Gears", "Mechanical Systems", "Bio-inspired Mechanisms"]
+    },
+    {
+        "id": 465,
+        "title": "Symbiotic AI Integration Platform",
+        "domain": "5",
+        "description": "Create a system that facilitates seamless integration between artificial intelligence and biological neural networks.",
+        "keywords": ["AI-Biology Integration", "Neural Interfaces", "Symbiotic AI", "Bio-AI Fusion"]
+    },
+    {
+        "id": 466,
+        "title": "Biological Weather Prediction Engine",
+        "domain": "5",
+        "description": "Develop a system that uses biological indicators from multiple species to predict weather patterns and climate changes.",
+        "keywords": ["Bio-indicators", "Weather Prediction", "Climate Sensing", "Biological Meteorology"]
+    },
+    {
+        "id": 467,
+        "title": "Cellular 3D Printer Controller",
+        "domain": "5",
+        "description": "Build a platform that controls cellular self-assembly processes to create complex 3D biological structures on demand.",
+        "keywords": ["Cellular Assembly", "Bio-3D Printing", "Self-organization", "Tissue Construction"]
+    },
+    {
+        "id": 468,
+        "title": "Biological Firewall Designer",
+        "domain": "5",
+        "description": "Create a system that designs biological security mechanisms to protect organisms from harmful genetic modifications or infections.",
+        "keywords": ["Biological Security", "Genetic Firewall", "Bio-protection", "Immune Enhancement"]
+    },
+    {
+        "id": 469,
+        "title": "Multi-Species Translation Interface",
+        "domain": "5",
+        "description": "Design an AI system that translates communication signals between different species and facilitates inter-species dialogue.",
+        "keywords": ["Inter-species Communication", "Translation Interface", "Multi-species Dialogue", "Communication Translation"]
+    },
+    {
+        "id": 470,
+        "title": "Biological Stress Test Simulator",
+        "domain": "5",
+        "description": "Build a platform that simulates extreme stress conditions and predicts biological adaptation strategies.",
+        "keywords": ["Stress Testing", "Adaptation Strategies", "Extreme Conditions", "Biological Resilience"]
+    },
+    {
+        "id": 471,
+        "title": "Living Memory Palace Builder",
+        "domain": "5",
+        "description": "Create a system that constructs biological memory storage networks using interconnected neural or cellular structures.",
+        "keywords": ["Memory Networks", "Biological Storage", "Neural Architecture", "Living Memory"]
+    },
+    {
+        "id": 472,
+        "title": "Ecological Sound Healing Designer",
+        "domain": "5",
+        "description": "Develop a platform that analyzes healing frequencies in nature and designs sound therapy protocols based on natural acoustic patterns.",
+        "keywords": ["Sound Healing", "Natural Frequencies", "Acoustic Therapy", "Bio-acoustics"]
+    },
+    {
+        "id": 473,
+        "title": "Cellular Origami Folder",
+        "domain": "5",
+        "description": "Build a system that controls cellular folding patterns to create complex origami-like biological structures with specific functions.",
+        "keywords": ["Cellular Folding", "Bio-origami", "Structural Control", "Functional Geometry"]
+    },
+    {
+        "id": 474,
+        "title": "Biological Puzzle Solver Network",
+        "domain": "5",
+        "description": "Create an AI system that uses distributed biological computing to solve complex mathematical and logical puzzles.",
+        "keywords": ["Biological Computing", "Distributed Processing", "Bio-algorithms", "Puzzle Solving"]
+    },
+    {
+        "id": 475,
+        "title": "Living Ecosystem Backup System",
+        "domain": "5",
+        "description": "Design a platform that creates digital-biological hybrid backups of entire ecosystems for restoration purposes.",
+        "keywords": ["Ecosystem Backup", "Digital-Bio Hybrid", "Ecosystem Restoration", "Conservation Technology"]
+    },
+    {
+        "id": 476,
+        "title": "Biological Mood Ring Analyzer",
+        "domain": "5",
+        "description": "Build a system that interprets biological mood indicators across species and creates real-time emotional state mapping.",
+        "keywords": ["Mood Detection", "Emotional States", "Bio-indicators", "Cross-species Emotions"]
+    },
+    {
+        "id": 477,
+        "title": "Cellular Time Capsule Creator",
+        "domain": "5",
+        "description": "Create a system that encodes and preserves information within cellular structures for long-term storage and future retrieval.",
+        "keywords": ["Cellular Storage", "Time Capsules", "Information Preservation", "Long-term Storage"]
+    },
+    {
+        "id": 478,
+        "title": "Bio-Luminescent Display Designer",
+        "domain": "5",
+        "description": "Develop a platform that creates programmable bio-luminescent displays using engineered organisms for communication and art.",
+        "keywords": ["Bio-luminescence", "Living Displays", "Programmable Light", "Bio-art"]
+    },
+    {
+        "id": 479,
+        "title": "Biological Dream Recorder",
+        "domain": "5",
+        "description": "Design a system that captures and analyzes dream-like states in various organisms and maps unconscious biological processes.",
+        "keywords": ["Dream States", "Unconscious Processes", "Sleep Biology", "Neural Dreams"]
+    },
+    {
+        "id": 480,
+        "title": "Living Building Material Generator",
+        "domain": "5",
+        "description": "Build a platform that grows and shapes living materials for construction, creating self-healing and adaptive building components.",
+        "keywords": ["Living Materials", "Bio-construction", "Self-healing Materials", "Adaptive Architecture"]
+    },
+    {
+        "id": 481,
+        "title": "Biological Password System Designer",
+        "domain": "5",
+        "description": "Create a security system that uses unique biological patterns as unbreakable passwords and authentication methods.",
+        "keywords": ["Bio-passwords", "Biological Security", "Authentication Systems", "Bio-metrics"]
+    },
+    {
+        "id": 482,
+        "title": "Cellular Social Network Mapper",
+        "domain": "5",
+        "description": "Develop tools that map social interactions between cells and analyze cellular community structures and hierarchies.",
+        "keywords": ["Cellular Social Networks", "Cell Communication", "Community Structure", "Cellular Hierarchies"]
+    },
+    {
+        "id": 483,
+        "title": "Bio-Magnetic Field Generator",
+        "domain": "5",
+        "description": "Build a system that harnesses biological processes to generate controlled magnetic fields for various technological applications.",
+        "keywords": ["Bio-magnetism", "Magnetic Field Generation", "Biological Fields", "Magnetic Technology"]
+    },
+    {
+        "id": 484,
+        "title": "Living Sensor Network Deployer",
+        "domain": "5",
+        "description": "Create a platform that deploys networks of living organisms as distributed environmental sensors with self-maintenance capabilities.",
+        "keywords": ["Living Sensors", "Distributed Networks", "Environmental Monitoring", "Self-maintaining Systems"]
+    },
+    {
+        "id": 485,
+        "title": "Biological Emotion Synthesizer",
+        "domain": "5",
+        "description": "Design a system that artificially generates and controls emotional states in biological systems for therapeutic applications.",
+        "keywords": ["Emotion Synthesis", "Artificial Emotions", "Therapeutic Applications", "Emotional Control"]
+    },
+    {
+        "id": 486,
+        "title": "Cellular Game Engine Developer",
+        "domain": "5",
+        "description": "Build a platform that uses cellular processes to create living games where cells act as players, pieces, and game mechanics.",
+        "keywords": ["Cellular Games", "Living Game Mechanics", "Bio-gaming", "Interactive Biology"]
+    },
+    {
+        "id": 487,
+        "title": "Bio-Rhythmic Energy Harvester",
+        "domain": "5",
+        "description": "Create a system that captures energy from natural biological rhythms and converts it into usable power for micro-devices.",
+        "keywords": ["Bio-energy Harvesting", "Rhythmic Energy", "Micro-power", "Biological Batteries"]
+    },
+    {
+        "id": 488,
+        "title": "Living Jewelry Designer Platform",
+        "domain": "5",
+        "description": "Develop a system that creates living, responsive jewelry using engineered organisms that react to the wearer's biological state.",
+        "keywords": ["Living Jewelry", "Responsive Materials", "Bio-fashion", "Wearable Biology"]
+    },
+    {
+        "id": 489,
+        "title": "Cellular Voting System Organizer",
+        "domain": "5",
+        "description": "Build a platform that organizes democratic decision-making processes using cellular communities with transparent voting mechanisms.",
+        "keywords": ["Cellular Democracy", "Bio-voting", "Collective Decisions", "Democratic Biology"]
+    },
+    {
+        "id": 490,
+        "title": "Biological Twin Digital Creator",
+        "domain": "5",
+        "description": "Create a system that generates perfect digital twins of biological organisms with real-time synchronization and predictive capabilities.",
+        "keywords": ["Digital Twins", "Bio-digital Sync", "Predictive Biology", "Virtual Organisms"]
+    },
+    {
+        "id": 491,
+        "title": "Ecosystem Personality Profiler",
+        "domain": "5",
+        "description": "Design tools that identify and analyze personality-like characteristics in entire ecosystems and predict behavioral patterns.",
+        "keywords": ["Ecosystem Personality", "Environmental Behavior", "Ecological Psychology", "System Characteristics"]
+    },
+    {
+        "id": 492,
+        "title": "Bio-Holographic Storage System",
+        "domain": "5",
+        "description": "Build a platform that stores information in three-dimensional biological holograms with massive storage density and error correction.",
+        "keywords": ["Holographic Storage", "3D Bio-storage", "Information Density", "Bio-holograms"]
+    },
+    {
+        "id": 493,
+        "title": "Living Art Gallery Curator",
+        "domain": "5",
+        "description": "Create a system that grows and maintains living artworks that evolve over time, creating dynamic biological art exhibitions.",
+        "keywords": ["Living Art", "Bio-art Curation", "Evolving Artworks", "Dynamic Exhibitions"]
+    },
+    {
+        "id": 494,
+        "title": "Cellular Orchestra Conductor",
+        "domain": "5",
+        "description": "Develop a platform that conducts symphonies of cellular activities, creating coordinated biological performances with precise timing.",
+        "keywords": ["Cellular Symphony", "Bio-orchestration", "Coordinated Biology", "Biological Performance"]
+    },
+    {
+        "id": 495,
+        "title": "Bio-Fractal Architecture Designer",
+        "domain": "5",
+        "description": "Build a system that designs self-similar biological structures with fractal properties for enhanced functionality and aesthetics.",
+        "keywords": ["Bio-fractals", "Self-similar Structures", "Fractal Biology", "Recursive Architecture"]
+    },
+    {
+        "id": 496,
+        "title": "Living Telescope Array Builder",
+        "domain": "5",
+        "description": "Create a platform that grows and maintains biological telescope arrays using light-sensitive organisms for enhanced astronomical observation.",
+        "keywords": ["Bio-telescopes", "Living Optics", "Astronomical Biology", "Organic Sensors"]
+    },
+    {
+        "id": 497,
+        "title": "Biological Time Zone Synchronizer",
+        "domain": "5",
+        "description": "Design a system that synchronizes biological clocks across different time zones and species for coordinated global biological activities.",
+        "keywords": ["Time Synchronization", "Global Bio-clocks", "Coordinated Biology", "Temporal Networks"]
+    },
+    {
+        "id": 498,
+        "title": "Cellular Language Translator",
+        "domain": "5",
+        "description": "Build an AI system that translates between different cellular communication languages and facilitates inter-cellular dialogue.",
+        "keywords": ["Cellular Languages", "Bio-translation", "Inter-cellular Communication", "Molecular Linguistics"]
+    },
+    {
+        "id": 499,
+        "title": "Living Maze Generator",
+        "domain": "5",
+        "description": "Create a platform that grows dynamic, self-reconfiguring biological mazes that adapt and change their structure over time.",
+        "keywords": ["Living Mazes", "Dynamic Structures", "Adaptive Architecture", "Bio-puzzles"]
+    },
+    {
+        "id": 500,
+        "title": "Biological Happiness Optimizer",
+        "domain": "5",
+        "description": "Develop a system that measures and optimizes happiness levels in biological systems using natural well-being indicators.",
+        "keywords": ["Biological Happiness", "Well-being Optimization", "Natural Indicators", "Bio-wellness"]
+    }
+
 
         // DATA SCIENCE & ML (Domain 6) - 120+ problems
         {
@@ -3822,27 +4488,7 @@ const PROBLEMS_DATA = {
 
         
         // Biology - Additional problems
-        {
-            "id": 406,
-            "title": "CRISPR Gene Editing Designer",
-            "domain": "5",
-            "description": "Design a tool that helps researchers design CRISPR experiments with optimal guide RNAs and minimal off-target effects.",
-            "keywords": ["CRISPR", "Gene Editing", "Guide RNA Design", "Biotechnology"]
-        },
-        {
-            "id": 407,
-            "title": "Phylogenetic Tree Constructor",
-            "domain": "5",
-            "description": "Create a system that constructs evolutionary trees from genetic data using various algorithmic approaches.",
-            "keywords": ["Phylogenetics", "Evolution", "Genetic Analysis", "Tree Construction"]
-        },
-        {
-            "id": 408,
-            "title": "Single Cell RNA-seq Analyzer",
-            "domain": "5",
-            "description": "Build a comprehensive platform for analyzing single-cell RNA sequencing data with clustering and trajectory analysis.",
-            "keywords": ["Single Cell Analysis", "RNA-seq", "Cell Biology", "Genomics"]
-        },
+
 
         // Data Science & ML - Additional problems
         {
