@@ -4869,13 +4869,13 @@ const PROBLEMS_DATA = {
 "domain": "6",
 "description": "Design a machine learning platform that maximizes information storage capacity in biological systems using DNA, RNA, and protein modifications.",
 "keywords": ["Information Storage", "DNA Computing", "Biological Data Storage", "Storage Maximization"]
-}
+},
 
-        // Add more problems for remaining domains...
-        // Due to length constraints, I'll add representative problems for each new domain
+// Add more problems for remaining domains...
+// Due to length constraints, I'll add representative problems for each new domain
 
-        // AEROSPACE & AVIATION (Domain 21)
-        {
+// AEROSPACE & AVIATION (Domain 21)
+{
             "id": 2101,
             "title": "Satellite Constellation Optimizer",
             "domain": "21",
