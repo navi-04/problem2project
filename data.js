@@ -6974,8 +6974,7 @@ const PROBLEMS_DATA = {
   "domain": "9",
   "description": "Design compact self-balancing delivery robots that use gyroscopic systems for stability in narrow urban environments.",
   "keywords": ["Delivery Robots", "Self-Balancing", "Gyroscope", "Mechanical Systems"]
-}
-
+},
 
 // AEROSPACE & AVIATION (Domain 21)
 {
