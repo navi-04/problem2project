@@ -4869,9 +4869,9 @@ const PROBLEMS_DATA = {
 "domain": "6",
 "description": "Design a machine learning platform that maximizes information storage capacity in biological systems using DNA, RNA, and protein modifications.",
 "keywords": ["Information Storage", "DNA Computing", "Biological Data Storage", "Storage Maximization"]
-}
+},
 // Electronics (Domain 7)
-        {
+{
             "id": 601,
             "title": "PCB Layout Optimizer",
             "domain": "7",
@@ -5570,10 +5570,10 @@ const PROBLEMS_DATA = {
 "domain": "7",
 "description": "Build quantum dot-based luminescent solar concentrators for enhanced photovoltaic efficiency and building integration.",
 "keywords": ["Quantum Dot Concentrators", "Luminescent Solar", "Enhanced Efficiency", "Building Integration"]
-}
+},
 
- // Robotics (Domain 8)
-        {
+// Robotics (Domain 8)
+{
             "id": 701,
             "title": "Swarm Robotics Coordination Algorithm",
             "domain": "8",
@@ -6265,15 +6265,14 @@ const PROBLEMS_DATA = {
 "domain": "8",
 "description": "Design flying robots that use atmospheric ion thrusters for silent, propeller-free aerial mobility.",
 "keywords": ["Ion Thrusters", "Silent Flight", "Aerial Robotics", "Propeller-Free Mobility"]
-}
+},
 {
 "id": 800,
 "title": "Quantum Foam Explorer Robot",
 "domain": "8",
 "description": "Develop conceptual robotic probes capable of interacting with quantum foam fluctuations at the Planck scale to study spacetime fabric directly.",
 "keywords": ["Quantum Foam", "Spacetime Exploration", "Planck Scale", "Fundamental Physics Robotics"]
-}
-
+},
 
 // AEROSPACE & AVIATION (Domain 21)
 {
