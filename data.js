@@ -4869,10 +4869,1411 @@ const PROBLEMS_DATA = {
 "domain": "6",
 "description": "Design a machine learning platform that maximizes information storage capacity in biological systems using DNA, RNA, and protein modifications.",
 "keywords": ["Information Storage", "DNA Computing", "Biological Data Storage", "Storage Maximization"]
+}
+// Electronics (Domain 7)
+        {
+            "id": 601,
+            "title": "PCB Layout Optimizer",
+            "domain": "7",
+            "description": "Develop an AI-powered tool that optimizes PCB layouts for signal integrity, thermal management, and manufacturing constraints.",
+            "keywords": ["PCB Design", "Layout Optimization", "Signal Integrity", "Manufacturing"]
+        },
+        {
+            "id": 602,
+            "title": "RF Antenna Design Assistant",
+            "domain": "7",
+            "description": "Create a system that assists in designing RF antennas with optimal radiation patterns and impedance matching.",
+            "keywords": ["RF Design", "Antenna Design", "Radiation Patterns", "Impedance Matching"]
+        },
+        {
+"id": 603,
+"title": "Neuromorphic Chip Architecture Designer",
+"domain": "7",
+"description": "Design AI-powered neuromorphic processors that mimic brain neural networks for ultra-low power edge computing and real-time learning applications.",
+"keywords": ["Neuromorphic Computing", "Brain-Inspired Circuits", "Edge AI", "Ultra-Low Power"]
 },
+{
+"id": 604,
+"title": "Quantum-Classical Interface Controller",
+"domain": "7",
+"description": "Develop control systems for quantum-classical hybrid processors that manage qubit coherence and classical computation integration.",
+"keywords": ["Quantum Computing", "Hybrid Systems", "Qubit Control", "Coherence Management"]
+},
+{
+"id": 605,
+"title": "Self-Healing Circuit Designer",
+"domain": "7",
+"description": "Create circuits with autonomous fault detection and self-repair capabilities using redundant pathways and adaptive routing algorithms.",
+"keywords": ["Self-Healing Circuits", "Fault Tolerance", "Adaptive Routing", "Autonomous Repair"]
+},
+{
+"id": 606,
+"title": "Photonic-Electronic Hybrid Processor",
+"domain": "7",
+"description": "Build hybrid systems combining photonic and electronic components for high-speed optical computing and data transmission.",
+"keywords": ["Photonic Computing", "Optical Circuits", "Hybrid Processing", "High-Speed Data"]
+},
+{
+"id": 607,
+"title": "Flexible Electronics Strain Predictor",
+"domain": "7",
+"description": "Develop AI models that predict mechanical strain effects on flexible electronic devices and optimize for durability.",
+"keywords": ["Flexible Electronics", "Strain Analysis", "Mechanical Durability", "Wearable Devices"]
+},
+{
+"id": 608,
+"title": "Memristor Array Controller",
+"domain": "7",
+"description": "Design control systems for memristor-based computing arrays that enable in-memory processing and neuromorphic applications.",
+"keywords": ["Memristors", "In-Memory Computing", "Non-Volatile Memory", "Analog Computing"]
+},
+{
+"id": 609,
+"title": "Terahertz Circuit Simulator",
+"domain": "7",
+"description": "Create simulation tools for terahertz frequency circuits used in 6G communications and high-resolution imaging systems.",
+"keywords": ["Terahertz Electronics", "6G Communications", "High-Frequency Circuits", "THz Imaging"]
+},
+{
+"id": 610,
+"title": "Spin Electronics Logic Designer",
+"domain": "7",
+"description": "Develop spintronics-based logic circuits that use electron spin for ultra-low power computation and non-volatile memory.",
+"keywords": ["Spintronics", "Spin Logic", "Non-Volatile Logic", "Magnetic Electronics"]
+},
+{
+"id": 611,
+"title": "DNA Storage Interface Controller",
+"domain": "7",
+"description": "Build electronic interfaces for DNA-based data storage systems that manage encoding, error correction, and retrieval processes.",
+"keywords": ["DNA Storage", "Biological Computing", "Error Correction", "Data Encoding"]
+},
+{
+"id": 612,
+"title": "Ambient Energy Harvesting Optimizer",
+"domain": "7",
+"description": "Design intelligent systems that optimize energy harvesting from multiple ambient sources for self-powered IoT devices.",
+"keywords": ["Energy Harvesting", "Ambient Energy", "Self-Powered Systems", "IoT Devices"]
+},
+{
+"id": 613,
+"title": "Metamaterial Antenna Synthesizer",
+"domain": "7",
+"description": "Create AI tools that synthesize metamaterial structures for antennas with programmable radiation characteristics and beam steering.",
+"keywords": ["Metamaterials", "Programmable Antennas", "Beam Steering", "Electromagnetic Design"]
+},
+{
+"id": 614,
+"title": "Cryogenic Electronics Controller",
+"domain": "7",
+"description": "Develop control electronics that operate at cryogenic temperatures for quantum computing and superconducting circuit applications.",
+"keywords": ["Cryogenic Electronics", "Quantum Control", "Superconducting Circuits", "Ultra-Low Temperature"]
+},
+{
+"id": 615,
+"title": "Bioelectronic Interface Designer",
+"domain": "7",
+"description": "Design biocompatible electronic interfaces for neural implants and biological signal monitoring with minimal tissue damage.",
+"keywords": ["Bioelectronics", "Neural Interfaces", "Biocompatibility", "Implantable Devices"]
+},
+{
+"id": 616,
+"title": "Molecular Electronics Simulator",
+"domain": "7",
+"description": "Build simulation tools for molecular-scale electronics using individual molecules as circuit components for ultra-miniaturization.",
+"keywords": ["Molecular Electronics", "Single Molecule Devices", "Quantum Transport", "Nano-Scale Circuits"]
+},
+{
+"id": 617,
+"title": "Plasmonics Circuit Designer",
+"domain": "7",
+"description": "Create plasmonic circuits that manipulate light at nanoscale for ultra-fast optical computing and sensing applications.",
+"keywords": ["Plasmonics", "Optical Computing", "Nanophotonics", "Light Manipulation"]
+},
+{
+"id": 618,
+"title": "Thermal Management AI System",
+"domain": "7",
+"description": "Develop AI-driven thermal management systems that predict and prevent hotspots in high-power electronic devices.",
+"keywords": ["Thermal Management", "Hotspot Prevention", "Power Electronics", "Heat Dissipation"]
+},
+{
+"id": 619,
+"title": "Reconfigurable Hardware Optimizer",
+"domain": "7",
+"description": "Build systems that dynamically reconfigure FPGA architectures for optimal performance across different computational tasks.",
+"keywords": ["Reconfigurable Computing", "FPGA Optimization", "Dynamic Reconfiguration", "Hardware Adaptation"]
+},
+{
+"id": 620,
+"title": "Superconducting Logic Controller",
+"domain": "7",
+"description": "Design control systems for superconducting logic circuits that operate with zero electrical resistance and ultra-high speed.",
+"keywords": ["Superconducting Logic", "Zero Resistance", "Ultra-High Speed", "Josephson Junctions"]
+},
+{
+"id": 621,
+"title": "Organic Electronics Optimizer",
+"domain": "7",
+"description": "Create optimization tools for organic semiconductor devices including OLEDs, organic solar cells, and printed electronics.",
+"keywords": ["Organic Electronics", "OLEDs", "Organic Semiconductors", "Printed Electronics"]
+},
+{
+"id": 622,
+"title": "Wireless Power Transfer Designer",
+"domain": "7",
+"description": "Develop efficient wireless power transfer systems with adaptive coupling and multi-device charging capabilities.",
+"keywords": ["Wireless Power", "Inductive Coupling", "Multi-Device Charging", "Power Transfer Efficiency"]
+},
+{
+"id": 623,
+"title": "Graphene Electronics Simulator",
+"domain": "7",
+"description": "Build simulation tools for graphene-based electronic devices exploring unique properties of 2D materials in circuits.",
+"keywords": ["Graphene Electronics", "2D Materials", "Carbon Nanoelectronics", "Novel Materials"]
+},
+{
+"id": 624,
+"title": "Quantum Dot Array Controller",
+"domain": "7",
+"description": "Design control systems for quantum dot arrays used in quantum computing qubits and single-photon sources.",
+"keywords": ["Quantum Dots", "Qubit Control", "Single Photon Sources", "Quantum Arrays"]
+},
+{
+"id": 625,
+"title": "Electrochromic Display Designer",
+"domain": "7",
+"description": "Create intelligent electrochromic display systems with adaptive color changing and ultra-low power consumption.",
+"keywords": ["Electrochromic Displays", "Adaptive Displays", "Color Changing", "Ultra-Low Power"]
+},
+{
+"id": 626,
+"title": "Piezoelectric Energy System",
+"domain": "7",
+"description": "Develop piezoelectric-based energy harvesting and actuation systems for self-powered sensors and micro-robotics.",
+"keywords": ["Piezoelectric Systems", "Energy Harvesting", "Self-Powered Sensors", "Micro-Actuation"]
+},
+{
+"id": 627,
+"title": "Biomimetic Sensor Array",
+"domain": "7",
+"description": "Design sensor arrays inspired by biological sensory systems for enhanced environmental monitoring and robotics.",
+"keywords": ["Biomimetic Sensors", "Bio-Inspired Design", "Environmental Monitoring", "Artificial Senses"]
+},
+{
+"id": 628,
+"title": "Optogenetic Control Interface",
+"domain": "7",
+"description": "Build electronic interfaces for optogenetic control systems that precisely manipulate biological processes using light.",
+"keywords": ["Optogenetics", "Light Control", "Biological Interfaces", "Precise Stimulation"]
+},
+{
+"id": 629,
+"title": "Phase-Change Memory Controller",
+"domain": "7",
+"description": "Develop control systems for phase-change memory devices that enable ultra-fast switching and multi-level storage.",
+"keywords": ["Phase-Change Memory", "Ultra-Fast Switching", "Multi-Level Storage", "Non-Volatile Memory"]
+},
+{
+"id": 630,
+"title": "Electrochemical Transistor Designer",
+"domain": "7",
+"description": "Create electrochemical transistors for bioelectronics applications that interface directly with biological systems.",
+"keywords": ["Electrochemical Transistors", "Bioelectronics", "Ion Channels", "Biological Interfaces"]
+},
+{
+"id": 631,
+"title": "Magnetic Domain Logic System",
+"domain": "7",
+"description": "Design logic circuits using magnetic domain walls for ultra-low power computation and non-volatile processing.",
+"keywords": ["Magnetic Logic", "Domain Wall Computing", "Non-Volatile Processing", "Magnetic Memory"]
+},
+{
+"id": 632,
+"title": "Atmospheric Plasma Generator",
+"domain": "7",
+"description": "Develop atmospheric pressure plasma generation systems for surface treatment and sterilization applications.",
+"keywords": ["Atmospheric Plasma", "Surface Treatment", "Sterilization", "Plasma Electronics"]
+},
+{
+"id": 633,
+"title": "Silicon Photonics Interconnect",
+"domain": "7",
+"description": "Build silicon photonics-based interconnect systems for high-bandwidth chip-to-chip communication.",
+"keywords": ["Silicon Photonics", "Optical Interconnects", "High Bandwidth", "Chip Communication"]
+},
+{
+"id": 634,
+"title": "Ferroelectric Memory Optimizer",
+"domain": "7",
+"description": "Create optimization systems for ferroelectric memory devices with enhanced endurance and switching speed.",
+"keywords": ["Ferroelectric Memory", "Memory Optimization", "Endurance Enhancement", "Fast Switching"]
+},
+{
+"id": 635,
+"title": "Topological Insulator Device",
+"domain": "7",
+"description": "Design electronic devices using topological insulators for fault-tolerant quantum computing and spintronics.",
+"keywords": ["Topological Insulators", "Fault-Tolerant Computing", "Quantum Devices", "Exotic Materials"]
+},
+{
+"id": 636,
+"title": "Microfluidic Electronics Integrator",
+"domain": "7",
+"description": "Integrate microfluidic systems with electronics for lab-on-chip devices and biological analysis platforms.",
+"keywords": ["Microfluidics", "Lab-on-Chip", "Integrated Systems", "Biological Analysis"]
+},
+{
+"id": 637,
+"title": "Acoustic Wave Device Designer",
+"domain": "7",
+"description": "Develop surface acoustic wave devices for wireless sensing, signal processing, and communication applications.",
+"keywords": ["Acoustic Wave Devices", "Wireless Sensing", "SAW Filters", "Acoustic Electronics"]
+},
+{
+"id": 638,
+"title": "Stretchable Electronics Controller",
+"domain": "7",
+"description": "Create control systems for stretchable electronics that maintain functionality under extreme mechanical deformation.",
+"keywords": ["Stretchable Electronics", "Mechanical Deformation", "Flexible Control", "Wearable Technology"]
+},
+{
+"id": 639,
+"title": "Electrospinning Process Controller",
+"domain": "7",
+"description": "Design process control systems for electrospinning of conductive nanofibers for flexible electronic applications.",
+"keywords": ["Electrospinning", "Conductive Nanofibers", "Process Control", "Flexible Manufacturing"]
+},
+{
+"id": 640,
+"title": "Quantum Error Correction Hardware",
+"domain": "7",
+"description": "Build dedicated hardware for quantum error correction that protects quantum information from decoherence.",
+"keywords": ["Quantum Error Correction", "Decoherence Protection", "Quantum Hardware", "Error Mitigation"]
+},
+{
+"id": 641,
+"title": "Bioimpedance Measurement System",
+"domain": "7",
+"description": "Develop high-precision bioimpedance measurement systems for non-invasive health monitoring and tissue characterization.",
+"keywords": ["Bioimpedance", "Health Monitoring", "Non-Invasive Measurement", "Tissue Analysis"]
+},
+{
+"id": 642,
+"title": "Electroactive Polymer Actuator",
+"domain": "7",
+"description": "Create electroactive polymer-based actuators that mimic muscle movement for soft robotics applications.",
+"keywords": ["Electroactive Polymers", "Artificial Muscles", "Soft Robotics", "Bio-Inspired Actuation"]
+},
+{
+"id": 643,
+"title": "Single-Electron Transistor Array",
+"domain": "7",
+"description": "Design arrays of single-electron transistors for ultra-sensitive electrometry and quantum dot cellular automata.",
+"keywords": ["Single-Electron Devices", "Quantum Dots", "Ultra-Sensitive Detection", "Cellular Automata"]
+},
+{
+"id": 644,
+"title": "Magnetoresistive Sensor Optimizer",
+"domain": "7",
+"description": "Optimize magnetoresistive sensors for enhanced sensitivity in magnetic field detection and data storage applications.",
+"keywords": ["Magnetoresistive Sensors", "Magnetic Field Detection", "High Sensitivity", "Data Storage"]
+},
+{
+"id": 645,
+"title": "Thermoelectric Generator Designer",
+"domain": "7",
+"description": "Design thermoelectric generators that convert waste heat into electrical power for energy harvesting applications.",
+"keywords": ["Thermoelectric Generation", "Waste Heat Recovery", "Energy Harvesting", "Power Generation"]
+},
+{
+"id": 646,
+"title": "Liquid Crystal Display Controller",
+"domain": "7",
+"description": "Create advanced LCD controllers with adaptive brightness, color accuracy, and power optimization features.",
+"keywords": ["LCD Control", "Adaptive Brightness", "Color Accuracy", "Display Optimization"]
+},
+{
+"id": 647,
+"title": "Electrochemical Sensor Array",
+"domain": "7",
+"description": "Develop electrochemical sensor arrays for multi-analyte detection in environmental and biomedical applications.",
+"keywords": ["Electrochemical Sensors", "Multi-Analyte Detection", "Environmental Monitoring", "Biomedical Sensing"]
+},
+{
+"id": 648,
+"title": "Spin Wave Computing System",
+"domain": "7",
+"description": "Build computing systems based on spin waves for ultra-low power signal processing and analog computation.",
+"keywords": ["Spin Wave Computing", "Magnonic Devices", "Analog Computing", "Ultra-Low Power"]
+},
+{
+"id": 649,
+"title": "Optoelectronic Neural Interface",
+"domain": "7",
+"description": "Design optoelectronic interfaces for high-resolution neural stimulation and recording in brain-computer interfaces.",
+"keywords": ["Optoelectronics", "Neural Interfaces", "Brain-Computer Interface", "High-Resolution Stimulation"]
+},
+{
+"id": 650,
+"title": "Tribological Energy Harvester",
+"domain": "7",
+"description": "Create triboelectric nanogenerators that harvest energy from mechanical friction and movement.",
+"keywords": ["Tribological Energy", "Nanogenerators", "Friction Harvesting", "Mechanical Energy"]
+},
+{
+"id": 651,
+"title": "Photovoltaic-Thermoelectric Hybrid",
+"domain": "7",
+"description": "Develop hybrid systems combining photovoltaic and thermoelectric effects for enhanced solar energy conversion.",
+"keywords": ["Hybrid Energy Conversion", "Photovoltaic-Thermoelectric", "Solar Energy", "Multi-Physics Systems"]
+},
+{
+"id": 652,
+"title": "Electrochromic Smart Window Controller",
+"domain": "7",
+"description": "Design intelligent control systems for electrochromic smart windows with automated tinting and energy optimization.",
+"keywords": ["Smart Windows", "Electrochromic Control", "Automated Tinting", "Energy Efficiency"]
+},
+{
+"id": 653,
+"title": "Resistive Switching Memory Designer",
+"domain": "7",
+"description": "Create resistive switching memory devices with improved retention, endurance, and multilevel storage capabilities.",
+"keywords": ["Resistive Switching", "Non-Volatile Memory", "Multilevel Storage", "Memory Endurance"]
+},
+{
+"id": 654,
+"title": "Electromagnetic Cloaking Device",
+"domain": "7",
+"description": "Design metamaterial-based electromagnetic cloaking devices for stealth applications and electromagnetic compatibility.",
+"keywords": ["Electromagnetic Cloaking", "Metamaterials", "Stealth Technology", "EM Shielding"]
+},
+{
+"id": 655,
+"title": "Biomolecular Electronics Interface",
+"domain": "7",
+"description": "Build electronic interfaces that directly interact with biomolecules for DNA sequencing and protein analysis.",
+"keywords": ["Biomolecular Electronics", "DNA Sequencing", "Protein Analysis", "Molecular Interfaces"]
+},
+{
+"id": 656,
+"title": "Microwave Power Transmission System",
+"domain": "7",
+"description": "Develop microwave-based wireless power transmission systems for satellite power delivery and remote charging.",
+"keywords": ["Microwave Power", "Wireless Transmission", "Satellite Systems", "Remote Charging"]
+},
+{
+"id": 657,
+"title": "Ionic Transistor Designer",
+"domain": "7",
+"description": "Create ionic transistors that control ion flow for biocompatible electronics and neuromorphic computing.",
+"keywords": ["Ionic Transistors", "Ion Control", "Biocompatible Electronics", "Ionic Computing"]
+},
+{
+"id": 658,
+"title": "Perovskite Solar Cell Optimizer",
+"domain": "7",
+"description": "Optimize perovskite solar cell structures for enhanced efficiency, stability, and manufacturing scalability.",
+"keywords": ["Perovskite Solar Cells", "Efficiency Optimization", "Stability Enhancement", "Scalable Manufacturing"]
+},
+{
+"id": 659,
+"title": "Electrowetting Display Controller",
+"domain": "7",
+"description": "Design control systems for electrowetting displays with fast switching, high contrast, and color reproduction.",
+"keywords": ["Electrowetting Displays", "Fast Switching", "High Contrast", "Color Reproduction"]
+},
+{
+"id": 660,
+"title": "Magnetic Levitation Controller",
+"domain": "7",
+"description": "Create magnetic levitation control systems for frictionless bearings and contactless positioning applications.",
+"keywords": ["Magnetic Levitation", "Frictionless Systems", "Contactless Positioning", "Maglev Control"]
+},
+{
+"id": 661,
+"title": "Quantum Cascade Laser Designer",
+"domain": "7",
+"description": "Design quantum cascade lasers for mid-infrared applications including gas sensing and spectroscopy.",
+"keywords": ["Quantum Cascade Lasers", "Mid-Infrared", "Gas Sensing", "Spectroscopy Applications"]
+},
+{
+"id": 662,
+"title": "Magnetocaloric Cooling System",
+"domain": "7",
+"description": "Develop magnetocaloric effect-based cooling systems for efficient refrigeration without harmful gases.",
+"keywords": ["Magnetocaloric Effect", "Magnetic Cooling", "Efficient Refrigeration", "Environmental Cooling"]
+},
+{
+"id": 663,
+"title": "Electroadhesion Gripper Controller",
+"domain": "7",
+"description": "Create electroadhesion-based gripping systems for robotic manipulation of diverse materials and surfaces.",
+"keywords": ["Electroadhesion", "Robotic Gripping", "Surface Adhesion", "Material Handling"]
+},
+{
+"id": 664,
+"title": "Photonic Crystal Waveguide Designer",
+"domain": "7",
+"description": "Design photonic crystal waveguides for ultra-compact optical circuits and enhanced light-matter interaction.",
+"keywords": ["Photonic Crystals", "Optical Waveguides", "Compact Optics", "Light-Matter Interaction"]
+},
+{
+"id": 665,
+"title": "Electrospray Ionization Controller",
+"domain": "7",
+"description": "Develop control systems for electrospray ionization processes used in mass spectrometry and material deposition.",
+"keywords": ["Electrospray Ionization", "Mass Spectrometry", "Material Deposition", "Process Control"]
+},
+{
+"id": 666,
+"title": "Vanadium Dioxide Switch Designer",
+"domain": "7",
+"description": "Create electronic switches using vanadium dioxide's metal-insulator transition for ultra-fast switching applications.",
+"keywords": ["Vanadium Dioxide", "Metal-Insulator Transition", "Ultra-Fast Switching", "Phase Change Electronics"]
+},
+{
+"id": 667,
+"title": "Acoustic Metamaterial Filter",
+"domain": "7",
+"description": "Design acoustic metamaterial filters for noise cancellation and selective sound transmission applications.",
+"keywords": ["Acoustic Metamaterials", "Noise Cancellation", "Sound Filtering", "Acoustic Control"]
+},
+{
+"id": 668,
+"title": "Electroretinography Signal Processor",
+"domain": "7",
+"description": "Build signal processing systems for electroretinography to diagnose retinal diseases and visual impairments.",
+"keywords": ["Electroretinography", "Retinal Diagnostics", "Visual Impairment", "Biomedical Signal Processing"]
+},
+{
+"id": 669,
+"title": "Multiferroic Device Designer",
+"domain": "7",
+"description": "Create multiferroic devices that couple magnetic and electric properties for novel memory and sensor applications.",
+"keywords": ["Multiferroics", "Magnetoelectric Coupling", "Novel Memory", "Multi-State Devices"]
+},
+{
+"id": 670,
+"title": "Plasma Sterilization System",
+"domain": "7",
+"description": "Develop low-temperature plasma systems for sterilization of medical devices and food preservation applications.",
+"keywords": ["Plasma Sterilization", "Medical Devices", "Food Preservation", "Low-Temperature Plasma"]
+},
+{
+"id": 671,
+"title": "Electrokinetic Particle Manipulator",
+"domain": "7",
+"description": "Design electrokinetic systems for precise manipulation and sorting of particles in microfluidic applications.",
+"keywords": ["Electrokinetics", "Particle Manipulation", "Microfluidics", "Cell Sorting"]
+},
+{
+"id": 672,
+"title": "Solid-State Battery Controller",
+"domain": "7",
+"description": "Create control systems for solid-state batteries with enhanced safety, charging speed, and energy density.",
+"keywords": ["Solid-State Batteries", "Battery Management", "Fast Charging", "Energy Density"]
+},
+{
+"id": 673,
+"title": "Metamaterial Absorber Designer",
+"domain": "7",
+"description": "Design metamaterial absorbers for electromagnetic wave absorption across multiple frequency bands.",
+"keywords": ["Metamaterial Absorbers", "EM Wave Absorption", "Broadband Absorption", "Stealth Applications"]
+},
+{
+"id": 674,
+"title": "Electrochemical Machining Controller",
+"domain": "7",
+"description": "Develop precision control systems for electrochemical machining of complex geometries and hard materials.",
+"keywords": ["Electrochemical Machining", "Precision Manufacturing", "Complex Geometries", "Hard Materials"]
+},
+{
+"id": 675,
+"title": "Organic Field-Effect Transistor Optimizer",
+"domain": "7",
+"description": "Optimize organic field-effect transistors for flexible displays, sensors, and low-cost electronics applications.",
+"keywords": ["Organic FETs", "Flexible Electronics", "Low-Cost Manufacturing", "Organic Semiconductors"]
+},
+{
+"id": 676,
+"title": "Electrophoretic Display Controller",
+"domain": "7",
+"description": "Create control systems for electrophoretic displays with improved refresh rates and color capabilities.",
+"keywords": ["Electrophoretic Displays", "E-Paper", "Refresh Rate", "Color E-Ink"]
+},
+{
+"id": 677,
+"title": "Magnetic Field Sensor Array",
+"domain": "7",
+"description": "Design highly sensitive magnetic field sensor arrays for navigation, geology, and medical imaging applications.",
+"keywords": ["Magnetic Sensors", "High Sensitivity", "Navigation Systems", "Medical Imaging"]
+},
+{
+"id": 678,
+"title": "Electrochemical Energy Storage Optimizer",
+"domain": "7",
+"description": "Optimize electrochemical energy storage systems for grid-scale applications and renewable energy integration.",
+"keywords": ["Electrochemical Storage", "Grid-Scale Energy", "Renewable Integration", "Energy Management"]
+},
+{
+"id": 679,
+"title": "Supercapacitor-Battery Hybrid System",
+"domain": "7",
+"description": "Develop hybrid energy storage combining supercapacitors and batteries for optimal power and energy density.",
+"keywords": ["Hybrid Energy Storage", "Supercapacitors", "Power Density", "Energy Management"]
+},
+{
+"id": 680,
+"title": "Electrostatically Actuated MEMS",
+"domain": "7",
+"description": "Design electrostatically actuated MEMS devices for precision positioning and micro-manipulation applications.",
+"keywords": ["Electrostatic Actuation", "MEMS Devices", "Precision Positioning", "Micro-Manipulation"]
+},
+{
+"id": 681,
+"title": "Photonic Quantum Computer Interface",
+"domain": "7",
+"description": "Build interfaces for photonic quantum computers that manage photon generation, routing, and detection.",
+"keywords": ["Photonic Quantum Computing", "Photon Management", "Quantum Interfaces", "Optical Quantum Systems"]
+},
+{
+"id": 682,
+"title": "Electrochromic Energy Storage Device",
+"domain": "7",
+"description": "Create devices that combine electrochromic color changing with energy storage for smart window applications.",
+"keywords": ["Electrochromic Storage", "Smart Windows", "Energy Storage", "Color-Changing Devices"]
+},
+{
+"id": 683,
+"title": "Magnetoplasmonics Sensor Designer",
+"domain": "7",
+"description": "Design magnetoplasmonic sensors that combine magnetic and plasmonic effects for enhanced biosensing.",
+"keywords": ["Magnetoplasmonics", "Enhanced Biosensing", "Magnetic Plasmonics", "Sensor Enhancement"]
+},
+{
+"id": 684,
+"title": "Electrofluidic Valve Controller",
+"domain": "7",
+"description": "Develop electrofluidic valve systems for precise fluid control in lab-on-chip and microfluidic applications.",
+"keywords": ["Electrofluidic Valves", "Fluid Control", "Lab-on-Chip", "Microfluidic Systems"]
+},
+{
+"id": 685,
+"title": "Photoacoustic Signal Generator",
+"domain": "7",
+"description": "Create photoacoustic signal generation systems for medical imaging and non-destructive testing applications.",
+"keywords": ["Photoacoustic Imaging", "Medical Imaging", "Non-Destructive Testing", "Acoustic Generation"]
+},
+{
+"id": 686,
+"title": "Electroactive Paper Display",
+"domain": "7",
+"description": "Design electroactive paper displays that change shape and color for interactive flexible display applications.",
+"keywords": ["Electroactive Paper", "Shape-Changing Displays", "Flexible Interfaces", "Interactive Paper"]
+},
+{
+"id": 687,
+"title": "Magnetic Particle Imaging System",
+"domain": "7",
+"description": "Build magnetic particle imaging systems for tracer-free medical imaging with high spatial and temporal resolution.",
+"keywords": ["Magnetic Particle Imaging", "Tracer-Free Imaging", "High Resolution", "Medical Diagnostics"]
+},
+{
+"id": 688,
+"title": "Electrochemical pH Sensor Array",
+"domain": "7",
+"description": "Develop high-precision electrochemical pH sensor arrays for environmental monitoring and bioprocess control.",
+"keywords": ["pH Sensors", "Environmental Monitoring", "Bioprocess Control", "Electrochemical Sensing"]
+},
+{
+"id": 689,
+"title": "Liquid Metal Circuit Designer",
+"domain": "7",
+"description": "Create reconfigurable circuits using liquid metal conductors for adaptive electronics and self-healing systems.",
+"keywords": ["Liquid Metal Circuits", "Reconfigurable Electronics", "Adaptive Systems", "Self-Healing Circuits"]
+},
+{
+"id": 690,
+"title": "Ferrofluid Display Controller",
+"domain": "7",
+"description": "Design magnetic field control systems for ferrofluid displays that create dynamic 3D visualizations and interactive art installations.",
+"keywords": ["Ferrofluid Displays", "Magnetic Control", "3D Visualization", "Interactive Art"]
+},
+{
+"id": 691,
+"title": "Electrochemical Neural Stimulator",
+"domain": "7",
+"description": "Create electrochemical neural stimulation devices that deliver precise ionic currents for treating neurological disorders.",
+"keywords": ["Electrochemical Stimulation", "Neural Therapy", "Ionic Currents", "Neurological Treatment"]
+},
+{
+"id": 692,
+"title": "Photonic Time Crystal Generator",
+"domain": "7",
+"description": "Build photonic time crystal systems that exhibit temporal periodicity for novel optical computing and signal processing.",
+"keywords": ["Photonic Time Crystals", "Temporal Periodicity", "Optical Computing", "Novel Photonics"]
+},
+{
+"id": 693,
+"title": "Electrostatically Levitated Sensor",
+"domain": "7",
+"description": "Develop electrostatically levitated sensors for ultra-sensitive force detection and gravitational wave measurement.",
+"keywords": ["Electrostatic Levitation", "Ultra-Sensitive Detection", "Force Measurement", "Gravitational Sensors"]
+},
+{
+"id": 694,
+"title": "Biomagnetic Field Detector",
+"domain": "7",
+"description": "Design ultra-sensitive detectors for biomagnetic fields generated by neural activity and cardiac function.",
+"keywords": ["Biomagnetic Detection", "Neural Activity", "Cardiac Monitoring", "Ultra-Sensitive Magnetometry"]
+},
+{
+"id": 695,
+"title": "Electrochemical Transistor Matrix",
+"domain": "7",
+"description": "Create matrices of electrochemical transistors for brain-like computing using ionic signal processing.",
+"keywords": ["Electrochemical Transistors", "Ionic Computing", "Brain-Like Processing", "Neuromorphic Arrays"]
+},
+{
+"id": 696,
+"title": "Plasma-Enhanced CVD Controller",
+"domain": "7",
+"description": "Build advanced control systems for plasma-enhanced chemical vapor deposition of novel 2D materials and heterostructures.",
+"keywords": ["Plasma-Enhanced CVD", "2D Materials", "Heterostructures", "Advanced Manufacturing"]
+},
+{
+"id": 697,
+"title": "Electrohydrodynamic Printer",
+"domain": "7",
+"description": "Develop electrohydrodynamic printing systems for sub-micron feature fabrication in flexible electronics.",
+"keywords": ["Electrohydrodynamic Printing", "Sub-Micron Features", "Flexible Manufacturing", "Precision Printing"]
+},
+{
+"id": 698,
+"title": "Magnetic Domain Memory Designer",
+"domain": "7",
+"description": "Design memory devices using magnetic domain configurations for ultra-high density data storage applications.",
+"keywords": ["Magnetic Domain Memory", "Ultra-High Density", "Domain Configuration", "Advanced Storage"]
+},
+{
+"id": 699,
+"title": "Electrochemical Impedance Analyzer",
+"domain": "7",
+"description": "Create real-time electrochemical impedance analyzers for battery health monitoring and corrosion detection.",
+"keywords": ["Electrochemical Impedance", "Battery Health", "Corrosion Detection", "Real-Time Analysis"]
+},
+{
+"id": 700,
+"title": "Quantum Dot Solar Concentrator",
+"domain": "7",
+"description": "Build quantum dot-based luminescent solar concentrators for enhanced photovoltaic efficiency and building integration.",
+"keywords": ["Quantum Dot Concentrators", "Luminescent Solar", "Enhanced Efficiency", "Building Integration"]
+}
 
-// Add more problems for remaining domains...
-// Due to length constraints, I'll add representative problems for each new domain
+ // Robotics (Domain 8)
+        {
+            "id": 701,
+            "title": "Swarm Robotics Coordination Algorithm",
+            "domain": "8",
+            "description": "Design algorithms for coordinating large swarms of robots to accomplish complex tasks collaboratively.",
+            "keywords": ["Swarm Robotics", "Multi-Agent Systems", "Coordination", "Collective Intelligence"]
+        },
+        {
+            "id": 702,
+            "title": "Robotic Manipulation Planning",
+            "domain": "8",
+            "description": "Build a system that plans complex manipulation tasks for robotic arms in cluttered environments.",
+            "keywords": ["Manipulation Planning", "Motion Planning", "Robotic Arms", "Path Planning"]
+        },
+        {
+"id": 703,
+"title": "Morphing Robot Body Controller",
+"domain": "8",
+"description": "Develop control systems for robots that can dynamically change their physical structure and morphology for task-specific optimization.",
+"keywords": ["Morphing Robots", "Dynamic Structure", "Adaptive Morphology", "Reconfigurable Systems"]
+},
+{
+"id": 704,
+"title": "Liquid Robot Navigation System",
+"domain": "8",
+"description": "Create navigation algorithms for liquid-state robots that can flow through confined spaces and reform into solid structures.",
+"keywords": ["Liquid Robotics", "Phase Transition", "Confined Navigation", "Shape-Shifting"]
+},
+{
+"id": 705,
+"title": "Quantum Sensor Fusion Engine",
+"domain": "8",
+"description": "Build sensor fusion systems using quantum sensors for ultra-precise robotic localization and environmental mapping.",
+"keywords": ["Quantum Sensors", "Ultra-Precise Localization", "Quantum Navigation", "Advanced Sensing"]
+},
+{
+"id": 706,
+"title": "Magnetic Field Robot Controller",
+"domain": "8",
+"description": "Design robots that use magnetic field manipulation for contactless actuation and precision control in medical environments.",
+"keywords": ["Magnetic Actuation", "Contactless Control", "Medical Robotics", "Magnetic Navigation"]
+},
+{
+"id": 707,
+"title": "Cellular Automata Swarm Coordinator",
+"domain": "8",
+"description": "Develop swarm coordination using cellular automata principles for emergent collective behaviors and pattern formation.",
+"keywords": ["Cellular Automata", "Emergent Behavior", "Pattern Formation", "Collective Intelligence"]
+},
+{
+"id": 708,
+"title": "Soft Robot Pneumatic Brain",
+"domain": "8",
+"description": "Create pneumatic control systems that serve as computational units for soft robots using fluidic logic.",
+"keywords": ["Pneumatic Computing", "Fluidic Logic", "Soft Robotics", "Pneumatic Control"]
+},
+{
+"id": 709,
+"title": "Origami Robot Folding Planner",
+"domain": "8",
+"description": "Build planning systems for robots that can fold themselves into different configurations using origami principles.",
+"keywords": ["Origami Robotics", "Self-Folding", "Geometric Planning", "Reconfigurable Design"]
+},
+{
+"id": 710,
+"title": "Bioelectric Robot Controller",
+"domain": "8",
+"description": "Design control systems using bioelectric signals from living tissues integrated into robotic systems.",
+"keywords": ["Bioelectric Control", "Living Tissue Integration", "Bio-Robotic Systems", "Biological Interfaces"]
+},
+{
+"id": 711,
+"title": "Plasma Jet Robotic Actuator",
+"domain": "8",
+"description": "Develop plasma jet-based actuators for high-speed robotic movements and atmospheric flight control.",
+"keywords": ["Plasma Actuators", "High-Speed Movement", "Atmospheric Flight", "Plasma Propulsion"]
+},
+{
+"id": 712,
+"title": "Granular Media Robot Navigator",
+"domain": "8",
+"description": "Create robots that can navigate through granular media using undulatory locomotion and particle flow dynamics.",
+"keywords": ["Granular Media", "Undulatory Locomotion", "Particle Dynamics", "Subsurface Navigation"]
+},
+{
+"id": 713,
+"title": "Electroadhesive Climbing Controller",
+"domain": "8",
+"description": "Build control systems for robots that climb vertical surfaces using electroadhesive gripping technology.",
+"keywords": ["Electroadhesion", "Vertical Climbing", "Surface Adhesion", "Climbing Robots"]
+},
+{
+"id": 714,
+"title": "Metamaterial Structure Robot",
+"domain": "8",
+"description": "Design robots with metamaterial structures that can alter their mechanical properties dynamically.",
+"keywords": ["Metamaterial Robotics", "Dynamic Properties", "Programmable Matter", "Adaptive Structures"]
+},
+{
+"id": 715,
+"title": "Quantum Entangled Robot Coordinator",
+"domain": "8",
+"description": "Develop quantum entanglement-based communication systems for instantaneous coordination between distant robots.",
+"keywords": ["Quantum Entanglement", "Instantaneous Communication", "Quantum Robotics", "Distributed Systems"]
+},
+{
+"id": 716,
+"title": "DNA-Driven Molecular Robot",
+"domain": "8",
+"description": "Create molecular-scale robots powered by DNA strand displacement reactions for cellular-level operations.",
+"keywords": ["DNA Robotics", "Molecular Machines", "Strand Displacement", "Cellular Operations"]
+},
+{
+"id": 717,
+"title": "Ferrofluid Shape Controller",
+"domain": "8",
+"description": "Build robots that control ferrofluid shapes using magnetic fields for adaptive manipulation and sensing.",
+"keywords": ["Ferrofluid Control", "Magnetic Shaping", "Adaptive Manipulation", "Fluid Robotics"]
+},
+{
+"id": 718,
+"title": "Optogenetic Robot Controller",
+"domain": "8",
+"description": "Design robotic systems controlled by optogenetic signals for precise biological integration and control.",
+"keywords": ["Optogenetic Control", "Light-Based Control", "Biological Integration", "Precise Actuation"]
+},
+{
+"id": 719,
+"title": "Phase-Change Actuation System",
+"domain": "8",
+"description": "Develop actuators using phase-change materials for high-force, compact robotic actuation systems.",
+"keywords": ["Phase-Change Actuators", "High-Force Systems", "Compact Design", "Material Transformation"]
+},
+{
+"id": 720,
+"title": "Acoustic Levitation Robot Platform",
+"domain": "8",
+"description": "Create robotic platforms that use acoustic levitation for contactless manipulation and assembly tasks.",
+"keywords": ["Acoustic Levitation", "Contactless Manipulation", "Assembly Robotics", "Levitation Control"]
+},
+{
+"id": 721,
+"title": "Muscle-Powered Robot Designer",
+"domain": "8",
+"description": "Build robots powered by engineered muscle tissue for natural movement and biological compatibility.",
+"keywords": ["Muscle-Powered Robots", "Engineered Tissue", "Biological Actuation", "Bio-Integrated Systems"]
+},
+{
+"id": 722,
+"title": "Electromagnetic Induction Navigator",
+"domain": "8",
+"description": "Design navigation systems using electromagnetic induction for underground and underwater robotic exploration.",
+"keywords": ["Electromagnetic Navigation", "Underground Exploration", "Underwater Robotics", "Induction Sensing"]
+},
+{
+"id": 723,
+"title": "Self-Assembling Robot Swarm",
+"domain": "8",
+"description": "Develop robot swarms that can autonomously assemble into larger functional structures and disassemble on demand.",
+"keywords": ["Self-Assembly", "Modular Robotics", "Structural Formation", "Autonomous Assembly"]
+},
+{
+"id": 724,
+"title": "Thermally Actuated Micro-Robot",
+"domain": "8",
+"description": "Create micro-robots actuated by thermal gradients for medical drug delivery and minimally invasive procedures.",
+"keywords": ["Thermal Actuation", "Micro-Robotics", "Drug Delivery", "Medical Applications"]
+},
+{
+"id": 725,
+"title": "Gravitational Anomaly Detector Robot",
+"domain": "8",
+"description": "Build autonomous robots equipped with gravitometers for detecting gravitational anomalies in geological surveys.",
+"keywords": ["Gravitational Detection", "Geological Surveys", "Autonomous Sensing", "Anomaly Detection"]
+},
+{
+"id": 726,
+"title": "Electroactive Polymer Skin System",
+"domain": "8",
+"description": "Design robotic skin using electroactive polymers that provide tactile sensing and shape-changing capabilities.",
+"keywords": ["Electroactive Skin", "Tactile Sensing", "Shape-Changing", "Artificial Skin"]
+},
+{
+"id": 727,
+"title": "Quantum Tunneling Sensor Robot",
+"domain": "8",
+"description": "Develop robots with quantum tunneling sensors for ultra-sensitive detection of minute physical changes.",
+"keywords": ["Quantum Tunneling", "Ultra-Sensitive Detection", "Quantum Sensing", "Physical Measurement"]
+},
+{
+"id": 728,
+"title": "Biomimetic Ciliary Propulsion System",
+"domain": "8",
+"description": "Create propulsion systems mimicking biological cilia for efficient movement in viscous environments.",
+"keywords": ["Ciliary Propulsion", "Biomimetic Design", "Viscous Navigation", "Biological Inspiration"]
+},
+{
+"id": 729,
+"title": "Magneto-Rheological Fluid Controller",
+"domain": "8",
+"description": "Build control systems using magneto-rheological fluids for variable stiffness joints and adaptive damping.",
+"keywords": ["Magneto-Rheological Fluids", "Variable Stiffness", "Adaptive Damping", "Smart Materials"]
+},
+{
+"id": 730,
+"title": "Crystalline Robot Self-Healer",
+"domain": "8",
+"description": "Design robots with crystalline structures that can self-repair damage through controlled crystallization processes.",
+"keywords": ["Self-Healing Robots", "Crystalline Structures", "Damage Repair", "Autonomous Recovery"]
+},
+{
+"id": 731,
+"title": "Photosynthetic Energy Robot",
+"domain": "8",
+"description": "Develop robots that harvest energy through artificial photosynthesis for extended autonomous operation.",
+"keywords": ["Artificial Photosynthesis", "Energy Harvesting", "Autonomous Operation", "Bio-Inspired Power"]
+},
+{
+"id": 732,
+"title": "Supercritical Fluid Jet Controller",
+"domain": "8",
+"description": "Create propulsion systems using supercritical fluid jets for precise maneuvering in space environments.",
+"keywords": ["Supercritical Fluids", "Space Propulsion", "Precise Maneuvering", "Fluid Dynamics"]
+},
+{
+"id": 733,
+"title": "Holographic Display Robot Interface",
+"domain": "8",
+"description": "Build human-robot interfaces using holographic displays for intuitive 3D interaction and visualization.",
+"keywords": ["Holographic Interface", "3D Interaction", "Human-Robot Interface", "Visual Communication"]
+},
+{
+"id": 734,
+"title": "Enzymatic Reaction Robot Controller",
+"domain": "8",
+"description": "Design control systems based on enzymatic reactions for biochemically-driven robotic actuation.",
+"keywords": ["Enzymatic Control", "Biochemical Actuation", "Biological Computing", "Enzyme-Driven Systems"]
+},
+{
+"id": 735,
+"title": "Magnetic Flux Pinning Levitator",
+"domain": "8",
+"description": "Develop levitation systems using magnetic flux pinning in superconductors for frictionless robotic movement.",
+"keywords": ["Flux Pinning", "Superconductor Levitation", "Frictionless Movement", "Magnetic Levitation"]
+},
+{
+"id": 736,
+"title": "Electrochemical Gradient Navigator",
+"domain": "8",
+"description": "Create navigation systems that use electrochemical gradients for autonomous guidance in biological environments.",
+"keywords": ["Electrochemical Navigation", "Gradient Following", "Biological Environments", "Chemical Guidance"]
+},
+{
+"id": 737,
+"title": "Programmable Matter Robot Builder",
+"domain": "8",
+"description": "Build robots using programmable matter that can reconfigure into any desired shape or tool on command.",
+"keywords": ["Programmable Matter", "Shape Reconfiguration", "Adaptive Tools", "Material Programming"]
+},
+{
+"id": 738,
+"title": "Bioluminescent Communication Robot",
+"domain": "8",
+"description": "Design robots that communicate using bioluminescent signals for covert operations and underwater missions.",
+"keywords": ["Bioluminescent Communication", "Covert Operations", "Underwater Robotics", "Biological Signaling"]
+},
+{
+"id": 739,
+"title": "Atmospheric Plasma Wing Controller",
+"domain": "8",
+"description": "Develop flight control systems using atmospheric plasma generation for enhanced aerodynamic control.",
+"keywords": ["Plasma Wing Control", "Aerodynamic Enhancement", "Flight Control", "Atmospheric Plasma"]
+},
+{
+"id": 740,
+"title": "Metamorphic Rock Drilling Robot",
+"domain": "8",
+"description": "Create specialized drilling robots for metamorphic rock exploration using adaptive drilling strategies.",
+"keywords": ["Metamorphic Drilling", "Adaptive Strategies", "Rock Exploration", "Geological Robotics"]
+},
+{
+"id": 741,
+"title": "Liquid Crystal Display Skin Robot",
+"domain": "8",
+"description": "Build robots with liquid crystal display skin for dynamic camouflage and visual communication capabilities.",
+"keywords": ["LCD Skin", "Dynamic Camouflage", "Visual Communication", "Adaptive Appearance"]
+},
+{
+"id": 742,
+"title": "Piezoelectric Walking Controller",
+"domain": "8",
+"description": "Design walking robots powered entirely by piezoelectric energy harvesting from their own movement.",
+"keywords": ["Piezoelectric Power", "Self-Powered Walking", "Energy Harvesting", "Sustainable Robotics"]
+},
+{
+"id": 743,
+"title": "Molecular Imprinting Sensor Robot",
+"domain": "8",
+"description": "Develop robots with molecular imprinting sensors for selective detection and collection of specific molecules.",
+"keywords": ["Molecular Imprinting", "Selective Detection", "Molecular Recognition", "Chemical Sensing"]
+},
+{
+"id": 744,
+"title": "Cytoplasmic Streaming Propulsion",
+"domain": "8",
+"description": "Create propulsion systems mimicking cytoplasmic streaming for efficient movement in microfluidic environments.",
+"keywords": ["Cytoplasmic Streaming", "Microfluidic Propulsion", "Biological Mimicry", "Cellular Mechanics"]
+},
+{
+"id": 745,
+"title": "Electrostatic Dust Shield Robot",
+"domain": "8",
+"description": "Build robots with electrostatic dust shields for operation in dusty environments like Mars or lunar surfaces.",
+"keywords": ["Electrostatic Shielding", "Dust Protection", "Planetary Robotics", "Surface Operations"]
+},
+{
+"id": 746,
+"title": "Hydrogel Actuator Muscle System",
+"domain": "8",
+"description": "Design robotic muscles using pH-responsive hydrogels for soft, biocompatible actuation systems.",
+"keywords": ["Hydrogel Actuators", "pH-Responsive", "Soft Robotics", "Biocompatible Systems"]
+},
+{
+"id": 747,
+"title": "Quantum Coherence Sensor Array",
+"domain": "8",
+"description": "Develop sensor arrays using quantum coherence effects for detecting minute magnetic and electric fields.",
+"keywords": ["Quantum Coherence", "Ultra-Sensitive Sensing", "Field Detection", "Quantum Metrology"]
+},
+{
+"id": 748,
+"title": "Magnetic Microparticle Manipulator",
+"domain": "8",
+"description": "Create robots that manipulate magnetic microparticles for targeted drug delivery and cellular manipulation.",
+"keywords": ["Magnetic Manipulation", "Microparticle Control", "Drug Delivery", "Cellular Robotics"]
+},
+{
+"id": 749,
+"title": "Birefringent Crystal Navigator",
+"domain": "8",
+"description": "Build navigation systems using birefringent crystals for polarization-based orientation and direction finding.",
+"keywords": ["Birefringent Navigation", "Polarization Sensing", "Crystal Optics", "Optical Navigation"]
+},
+{
+"id": 750,
+"title": "Thermoacoustic Engine Robot",
+"domain": "8",
+"description": "Design robots powered by thermoacoustic engines that convert temperature differences into mechanical motion.",
+"keywords": ["Thermoacoustic Power", "Temperature Conversion", "Acoustic Engines", "Thermal Robotics"]
+},
+{
+"id": 751,
+"title": "Electrospinning Fiber Robot",
+"domain": "8",
+"description": "Develop robots that produce and deploy electrospun nanofibers for in-situ material fabrication and repair.",
+"keywords": ["Electrospinning", "Nanofiber Production", "In-Situ Fabrication", "Material Robotics"]
+},
+{
+"id": 752,
+"title": "Magnetic Domain Wall Sensor",
+"domain": "8",
+"description": "Create ultra-sensitive sensors using magnetic domain wall movement for detecting minute mechanical forces.",
+"keywords": ["Magnetic Domain Walls", "Ultra-Sensitive Force", "Mechanical Detection", "Magnetic Sensing"]
+},
+{
+"id": 753,
+"title": "Photonic Crystal Waveguide Robot",
+"domain": "8",
+"description": "Build robots with photonic crystal waveguides for high-bandwidth optical communication and sensing.",
+"keywords": ["Photonic Crystals", "Optical Communication", "High-Bandwidth", "Optical Robotics"]
+},
+{
+"id": 754,
+"title": "Biomineralization Structure Builder",
+"domain": "8",
+"description": "Design robots that build structures using biomineralization processes inspired by mollusk shell formation.",
+"keywords": ["Biomineralization", "Structure Building", "Mollusk Inspiration", "Biological Construction"]
+},
+{
+"id": 755,
+"title": "Electrowetting Locomotion System",
+"domain": "8",
+"description": "Create locomotion systems using electrowetting effects for surface tension-driven movement on liquids.",
+"keywords": ["Electrowetting", "Surface Tension", "Liquid Locomotion", "Interfacial Movement"]
+},
+{
+"id": 756,
+"title": "Chromophore Color-Change Robot",
+"domain": "8",
+"description": "Develop robots with chromophore-based color-changing abilities for dynamic camouflage and signaling.",
+"keywords": ["Chromophore Systems", "Color Changing", "Dynamic Camouflage", "Molecular Switching"]
+},
+{
+"id": 757,
+"title": "Supramolecular Assembly Robot",
+"domain": "8",
+"description": "Build robots that create supramolecular assemblies for self-repairing and adaptive structural systems.",
+"keywords": ["Supramolecular Assembly", "Self-Repairing", "Adaptive Structures", "Molecular Robotics"]
+},
+{
+"id": 758,
+"title": "Magnetocaloric Effect Cooler Robot",
+"domain": "8",
+"description": "Design cooling systems for robots using magnetocaloric effects for efficient thermal management.",
+"keywords": ["Magnetocaloric Cooling", "Thermal Management", "Magnetic Refrigeration", "Efficient Cooling"]
+},
+{
+"id": 759,
+"title": "Dielectric Elastomer Wave Generator",
+"domain": "8",
+"description": "Create wave generation systems using dielectric elastomers for underwater propulsion and communication.",
+"keywords": ["Dielectric Elastomers", "Wave Generation", "Underwater Propulsion", "Soft Actuators"]
+},
+{
+"id": 760,
+"title": "Bacterial Flagella Rotation Mimicker",
+"domain": "8",
+"description": "Develop propulsion systems that mimic bacterial flagella rotation for efficient micro-scale navigation.",
+"keywords": ["Flagella Mimicry", "Bacterial Propulsion", "Micro-Scale Navigation", "Biomimetic Motors"]
+},
+{
+"id": 761,
+"title": "Electrochemical Gradient Climber",
+"domain": "8",
+"description": "Build robots that climb surfaces using electrochemical adhesion gradients for versatile climbing abilities.",
+"keywords": ["Electrochemical Climbing", "Adhesion Gradients", "Versatile Climbing", "Surface Adaptation"]
+},
+{
+"id": 762,
+"title": "Metamaterial Cloaking Robot",
+"domain": "8",
+"description": "Design robots with metamaterial cloaking capabilities for stealth operations and reduced detection.",
+"keywords": ["Metamaterial Cloaking", "Stealth Operations", "Electromagnetic Shielding", "Invisibility Technology"]
+},
+{
+"id": 763,
+"title": "Photopolymerization 3D Printer Robot",
+"domain": "8",
+"description": "Create mobile robots that perform photopolymerization 3D printing for on-site construction and repair.",
+"keywords": ["Photopolymerization", "Mobile 3D Printing", "On-Site Construction", "Additive Manufacturing"]
+},
+{
+"id": 764,
+"title": "Electrokinetic Particle Sorter Robot",
+"domain": "8",
+"description": "Develop robots that sort particles using electrokinetic forces for environmental cleanup and material processing.",
+"keywords": ["Electrokinetic Sorting", "Particle Separation", "Environmental Cleanup", "Material Processing"]
+},
+{
+"id": 765,
+"title": "Liquid Metal Joint Controller",
+"domain": "8",
+"description": "Build joint control systems using liquid metal actuators for seamless and flexible robotic movement.",
+"keywords": ["Liquid Metal Joints", "Seamless Movement", "Flexible Actuation", "Fluidic Control"]
+},
+{
+"id": 766,
+"title": "Bioluminescent Path Marker Robot",
+"domain": "8",
+"description": "Design robots that create bioluminescent path markers for navigation in dark or hazardous environments.",
+"keywords": ["Bioluminescent Markers", "Path Navigation", "Dark Environments", "Biological Lighting"]
+},
+{
+"id": 767,
+"title": "Magnetotactic Bacteria Navigator",
+"domain": "8",
+"description": "Create navigation systems inspired by magnetotactic bacteria for precise magnetic field-guided movement.",
+"keywords": ["Magnetotactic Navigation", "Bacterial Inspiration", "Magnetic Guidance", "Biological Navigation"]
+},
+{
+"id": 768,
+"title": "Phase Conjugate Mirror Robot",
+"domain": "8",
+"description": "Build robots with phase conjugate mirrors for perfect beam steering and optical manipulation tasks.",
+"keywords": ["Phase Conjugation", "Beam Steering", "Optical Manipulation", "Perfect Reflection"]
+},
+{
+"id": 769,
+"title": "Molecular Motor Powered Robot",
+"domain": "8",
+"description": "Develop nano-scale robots powered by synthetic molecular motors for cellular and molecular manipulation.",
+"keywords": ["Molecular Motors", "Nano-Scale Robotics", "Cellular Manipulation", "Synthetic Biology"]
+},
+{
+"id": 770,
+"title": "Electroadhesive Fabric Gripper",
+"domain": "8",
+"description": "Create fabric manipulation robots using electroadhesive gripping for textile manufacturing and handling.",
+"keywords": ["Electroadhesive Gripping", "Fabric Manipulation", "Textile Manufacturing", "Material Handling"]
+},
+{
+"id": 771,
+"title": "Thermophilic Enzyme Robot System",
+"domain": "8",
+"description": "Design robots incorporating thermophilic enzymes for high-temperature industrial processing applications.",
+"keywords": ["Thermophilic Enzymes", "High-Temperature Processing", "Industrial Applications", "Enzyme Robotics"]
+},
+{
+"id": 772,
+"title": "Magnetic Flux Quantum Robot",
+"domain": "8",
+"description": "Build robots that manipulate magnetic flux quanta for ultra-precise positioning and quantum sensing.",
+"keywords": ["Magnetic Flux Quanta", "Ultra-Precise Positioning", "Quantum Sensing", "Flux Manipulation"]
+},
+{
+"id": 773,
+"title": "Electroplastic Deformation Controller",
+"domain": "8",
+"description": "Develop control systems for robots that use electroplastic deformation for shape-changing capabilities.",
+"keywords": ["Electroplastic Deformation", "Shape Changing", "Material Plasticity", "Electric Field Control"]
+},
+{
+"id": 774,
+"title": "Bose-Einstein Condensate Sensor",
+"domain": "8",
+"description": "Create ultra-sensitive sensors using Bose-Einstein condensates for detecting gravitational waves and quantum phenomena.",
+"keywords": ["Bose-Einstein Condensate", "Ultra-Sensitive Detection", "Gravitational Waves", "Quantum Phenomena"]
+},
+{
+"id": 775,
+"title": "Electrodynamic Tether Robot",
+"domain": "8",
+"description": "Design space robots using electrodynamic tethers for propulsion and power generation in orbital environments.",
+"keywords": ["Electrodynamic Tethers", "Space Propulsion", "Orbital Power", "Space Robotics"]
+},
+{
+"id": 776,
+"title": "Photoinduced Phase Transition Actuator",
+"domain": "8",
+"description": "Build actuators using photoinduced phase transitions for light-controlled robotic movement and manipulation.",
+"keywords": ["Photoinduced Transitions", "Light-Controlled", "Phase Change Actuators", "Optical Control"]
+},
+{
+"id": 777,
+"title": "Crystalline Lattice Robot Builder",
+"domain": "8",
+"description": "Create robots that assemble crystalline lattice structures atom by atom for precise nanofabrication.",
+"keywords": ["Crystalline Assembly", "Atom-by-Atom", "Nanofabrication", "Precise Construction"]
+},
+{
+"id": 778,
+"title": "Magnetic Bubble Memory Robot",
+"domain": "8",
+"description": "Develop robots with magnetic bubble memory for radiation-resistant data storage in extreme environments.",
+"keywords": ["Magnetic Bubble Memory", "Radiation Resistant", "Extreme Environments", "Robust Storage"]
+},
+{
+"id": 779,
+"title": "Sonochemical Reaction Robot",
+"domain": "8",
+"description": "Design robots that perform sonochemical reactions for in-situ material synthesis and chemical processing.",
+"keywords": ["Sonochemical Reactions", "Material Synthesis", "Chemical Processing", "Ultrasonic Chemistry"]
+},
+{
+"id": 780,
+"title": "Holographic Optical Tweezer Array",
+"domain": "8",
+"description": "Build robotic systems with holographic optical tweezers for manipulating multiple particles simultaneously.",
+"keywords": ["Holographic Tweezers", "Particle Manipulation", "Optical Trapping", "Parallel Control"]
+},
+{
+"id": 781,
+"title": "Magnetic Skyrmion Data Robot",
+"domain": "8",
+"description": "Create data processing robots using magnetic skyrmions for ultra-low power computing and memory operations.",
+"keywords": ["Magnetic Skyrmions", "Ultra-Low Power", "Spintronic Computing", "Topological Memory"]
+},
+{
+"id": 782,
+"title": "Electrochemical Etching Robot",
+"domain": "8",
+"description": "Develop precision etching robots using electrochemical processes for micro-scale manufacturing and repair.",
+"keywords": ["Electrochemical Etching", "Precision Manufacturing", "Micro-Scale Processing", "Chemical Machining"]
+},
+{
+"id": 783,
+"title": "Plasmon-Enhanced Sensor Robot",
+"domain": "8",
+"description": "Build robots with plasmon-enhanced sensors for ultra-sensitive detection of biological and chemical species.",
+"keywords": ["Plasmon Enhancement", "Ultra-Sensitive Detection", "Surface Plasmons", "Enhanced Sensing"]
+},
+{
+"id": 784,
+"title": "Quantum Dot Cellular Automaton",
+"domain": "8",
+"description": "Design robotic computing systems using quantum dot cellular automata for massively parallel processing.",
+"keywords": ["Quantum Dot Computing", "Cellular Automata", "Parallel Processing", "Quantum Computing"]
+},
+{
+"id": 785,
+"title": "Biomimetic Adhesive Robot Feet",
+"domain": "8",
+"description": "Create robot feet with biomimetic adhesive properties inspired by gecko and spider attachment mechanisms.",
+"keywords": ["Biomimetic Adhesion", "Gecko Inspiration", "Spider Mechanisms", "Advanced Climbing"]
+},
+{
+"id": 786,
+"title": "Electrofluidic Display Robot Interface",
+"domain": "8",
+"description": "Develop robot interfaces using electrofluidic displays for dynamic visual communication and status indication.",
+"keywords": ["Electrofluidic Displays", "Dynamic Interfaces", "Visual Communication", "Status Indication"]
+},
+{
+"id": 787,
+"title": "Magnetic Particle Hyperthermia Robot",
+"domain": "8",
+"description": "Build medical robots that deliver magnetic particle hyperthermia therapy for targeted cancer treatment.",
+"keywords": ["Magnetic Hyperthermia", "Cancer Treatment", "Targeted Therapy", "Medical Robotics"]
+},
+{
+"id": 788,
+"title": "Electroactive Polymer Sensor Skin",
+"domain": "8",
+"description": "Design robotic skin using electroactive polymers for distributed sensing of pressure, temperature, and deformation.",
+"keywords": ["Electroactive Skin", "Distributed Sensing", "Multi-Modal Sensing", "Polymer Sensors"]
+},
+{
+"id": 789,
+"title": "Magnetically Levitated Conveyor Robot",
+"domain": "8",
+"description": "Create conveyor robots using magnetic levitation for frictionless transport of sensitive materials.",
+"keywords": ["Magnetic Levitation", "Frictionless Transport", "Sensitive Materials", "Contactless Handling"]
+},
+{
+"id": 790,
+"title": "Topological Insulator Robot Circuit",
+"domain": "8",
+"description": "Develop robotic circuits based on topological insulators for ultra-robust signal transmission even in noisy environments.",
+"keywords": ["Topological Insulators", "Noise-Resistant Circuits", "Robust Robotics", "Quantum Materials"]
+},
+{
+"id": 791,
+"title": "Microgravity Crystal Growth Robot",
+"domain": "8",
+"description": "Design robots capable of autonomously growing and manipulating crystals in microgravity for advanced material research.",
+"keywords": ["Microgravity Robotics", "Crystal Growth", "Space Materials", "Autonomous Research"]
+},
+{
+"id": 792,
+"title": "Fractal Antenna Robot Communicator",
+"domain": "8",
+"description": "Build robotic systems with fractal antennas for ultra-compact, wide-bandwidth communication in complex environments.",
+"keywords": ["Fractal Antennas", "Compact Communication", "Wide Bandwidth", "Signal Optimization"]
+},
+{
+"id": 793,
+"title": "Quantum Vortex Propulsion Robot",
+"domain": "8",
+"description": "Create propulsion systems for robots using quantum vortex dynamics in superfluids for near-frictionless movement.",
+"keywords": ["Quantum Vortices", "Superfluid Propulsion", "Frictionless Robotics", "Exotic Transport"]
+},
+{
+"id": 794,
+"title": "Smart Dust Swarm Robot Network",
+"domain": "8",
+"description": "Develop ultra-miniaturized robots as 'smart dust' that form dynamic networks for surveillance and environmental sensing.",
+"keywords": ["Smart Dust", "Micro-Robotics", "Swarm Networks", "Distributed Sensing"]
+},
+{
+"id": 795,
+"title": "Tensegrity Structure Explorer Robot",
+"domain": "8",
+"description": "Design exploration robots using tensegrity structures for resilience, shock absorption, and adaptive mobility.",
+"keywords": ["Tensegrity Robots", "Exploration Systems", "Adaptive Mobility", "Shock Absorption"]
+},
+{
+"id": 796,
+"title": "Photon Pressure Sail Robot",
+"domain": "8",
+"description": "Build robots propelled by photon pressure sails for deep-space autonomous exploration without fuel dependency.",
+"keywords": ["Photon Sails", "Fuel-Free Propulsion", "Deep Space Robotics", "Light Pressure"]
+},
+{
+"id": 797,
+"title": "Programmable Gel Robotics",
+"domain": "8",
+"description": "Create robots composed of programmable gels that can dynamically change stiffness, transparency, and shape.",
+"keywords": ["Programmable Gels", "Adaptive Robotics", "Soft Matter", "Dynamic Properties"]
+},
+{
+"id": 798,
+"title": "Neural Dust Bio-Robot Interface",
+"domain": "8",
+"description": "Develop bio-robotic systems using neural dust sensors for wireless neural recording and actuation.",
+"keywords": ["Neural Dust", "Brain-Robot Interface", "Bioelectronics", "Wireless Neural Control"]
+},
+{
+"id": 799,
+"title": "Atmospheric Ion Thruster Robot",
+"domain": "8",
+"description": "Design flying robots that use atmospheric ion thrusters for silent, propeller-free aerial mobility.",
+"keywords": ["Ion Thrusters", "Silent Flight", "Aerial Robotics", "Propeller-Free Mobility"]
+}
+{
+"id": 800,
+"title": "Quantum Foam Explorer Robot",
+"domain": "8",
+"description": "Develop conceptual robotic probes capable of interacting with quantum foam fluctuations at the Planck scale to study spacetime fabric directly.",
+"keywords": ["Quantum Foam", "Spacetime Exploration", "Planck Scale", "Fundamental Physics Robotics"]
+}
+
 
 // AEROSPACE & AVIATION (Domain 21)
 {
@@ -5148,46 +6549,6 @@ const PROBLEMS_DATA = {
             "domain": "32",
             "description": "Design quantum-resistant cryptographic protocols that ensure security in the age of quantum computing.",
             "keywords": ["Quantum Cryptography", "Security", "Quantum Resistance", "Protocol Design"]
-        },
-
-        
-        // Biology - Additional problems
-
-
-        // Data Science & ML - Additional problems
-        
-
-        // Continue with more domains and reach 2000+ problems total
-        // Electronics (Domain 7)
-        {
-            "id": 701,
-            "title": "PCB Layout Optimizer",
-            "domain": "7",
-            "description": "Develop an AI-powered tool that optimizes PCB layouts for signal integrity, thermal management, and manufacturing constraints.",
-            "keywords": ["PCB Design", "Layout Optimization", "Signal Integrity", "Manufacturing"]
-        },
-        {
-            "id": 702,
-            "title": "RF Antenna Design Assistant",
-            "domain": "7",
-            "description": "Create a system that assists in designing RF antennas with optimal radiation patterns and impedance matching.",
-            "keywords": ["RF Design", "Antenna Design", "Radiation Patterns", "Impedance Matching"]
-        },
-
-        // Robotics (Domain 8)
-        {
-            "id": 801,
-            "title": "Swarm Robotics Coordination Algorithm",
-            "domain": "8",
-            "description": "Design algorithms for coordinating large swarms of robots to accomplish complex tasks collaboratively.",
-            "keywords": ["Swarm Robotics", "Multi-Agent Systems", "Coordination", "Collective Intelligence"]
-        },
-        {
-            "id": 802,
-            "title": "Robotic Manipulation Planning",
-            "domain": "8",
-            "description": "Build a system that plans complex manipulation tasks for robotic arms in cluttered environments.",
-            "keywords": ["Manipulation Planning", "Motion Planning", "Robotic Arms", "Path Planning"]
         },
 
         // Continue with all remaining domains to reach 2000+ problems...
