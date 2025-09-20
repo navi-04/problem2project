@@ -6273,6 +6273,709 @@ const PROBLEMS_DATA = {
 "description": "Develop conceptual robotic probes capable of interacting with quantum foam fluctuations at the Planck scale to study spacetime fabric directly.",
 "keywords": ["Quantum Foam", "Spacetime Exploration", "Planck Scale", "Fundamental Physics Robotics"]
 },
+// MECHANICAL & DESIGN
+    
+    {
+        "id": 801,
+        "title": "Self-Healing CAD Models",
+        "domain": "9",
+        "description": "Develop CAD models that automatically detect and self-correct structural or geometric errors using AI-driven optimization.",
+        "keywords": ["CAD", "Design Engineering", "Automation"]
+    },
+    {
+        "id": 802,
+        "title": "Smart Manufacturing Waste Tracker",
+        "domain": "9",
+        "description": "Design a system that integrates IoT sensors to monitor and reduce material wastage in manufacturing processes in real time.",
+        "keywords": ["Manufacturing", "Quality Control", "Product Development"]
+    },
+    {
+        "id": 803,
+        "title": "Hybrid Multi-Material 3D Printing",
+        "domain": "9",
+        "description": "Engineer a 3D printer capable of combining polymers, metals, and composites in a single build cycle for lightweight and durable components.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 804,
+        "title": "Thermal Stress Digital Twin",
+        "domain": "9",
+        "description": "Create a digital twin to simulate thermal stress effects on mechanical systems, enabling predictive maintenance and safety checks.",
+        "keywords": ["Thermodynamics", "Mechanical Systems", "CAD"]
+    },
+    {
+        "id": 805,
+        "title": "Microfluidic Cooling Mechanisms",
+        "domain": "9",
+        "description": "Design compact cooling systems using microfluidics to improve heat dissipation in high-performance electronics and aerospace engines.",
+        "keywords": ["Fluid Mechanics", "Thermodynamics", "Design Engineering"]
+    },
+    {
+        "id": 806,
+        "title": "Adaptive Smart Joints",
+        "domain": "9",
+        "description": "Develop mechanical joints made of shape-memory alloys that can adjust stiffness and flexibility dynamically under varying loads.",
+        "keywords": ["Mechanical Systems", "Materials", "Automation"]
+    },
+    {
+        "id": 807,
+        "title": "AI-Powered Rapid Prototyping",
+        "domain": "9",
+        "description": "Build an AI-driven prototyping framework that generates optimized CAD designs ready for 3D printing and quick iterations.",
+        "keywords": ["CAD", "3D Printing", "Automation"]
+    },
+    {
+        "id": 808,
+        "title": "Eco-Material Quality Control",
+        "domain": "9",
+        "description": "Create a quality control system that analyzes eco-friendly materials in real time to ensure sustainability in production lines.",
+        "keywords": ["Materials", "Quality Control", "Product Development"]
+    },
+    {
+        "id": 809,
+        "title": "Biomimetic Mechanical Design",
+        "domain": "9",
+        "description": "Design mechanical systems inspired by natural organisms for energy efficiency, resilience, and reduced resource usage.",
+        "keywords": ["Design Engineering", "Mechanical Systems", "Product Development"]
+    },
+    {
+        "id": 810,
+        "title": "Autonomous Assembly Robots",
+        "domain": "9",
+        "description": "Engineer autonomous robots that reconfigure tools and workflows dynamically to adapt to multiple product designs on the same assembly line.",
+        "keywords": ["Automation", "Manufacturing", "Mechanical Systems"]
+    },
+    {
+        "id": 811,
+        "title": "AI-Based CAD Style Transfer",
+        "domain": "9",
+        "description": "Develop a CAD system where AI transfers design aesthetics from one product to another while preserving functionality.",
+        "keywords": ["CAD", "Design Engineering", "Automation"]
+    },
+    {
+        "id": 812,
+        "title": "Self-Lubricating Manufacturing Lines",
+        "domain": "9",
+        "description": "Design machines with built-in micro-lubrication systems that reduce friction and wear without external intervention.",
+        "keywords": ["Manufacturing", "Automation", "Mechanical Systems"]
+    },
+    {
+        "id": 813,
+        "title": "3D Printing with Shape-Memory Materials",
+        "domain": "9",
+        "description": "Engineer 3D printing processes that incorporate shape-memory polymers and alloys for adaptive structures.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 814,
+        "title": "Thermal-Responsive Building Panels",
+        "domain": "9",
+        "description": "Design building panels with integrated thermodynamic systems that expand or contract based on temperature changes.",
+        "keywords": ["Thermodynamics", "Design Engineering", "Product Development"]
+    },
+    {
+        "id": 815,
+        "title": "Fluid Mechanics-Based Energy Harvester",
+        "domain": "9",
+        "description": "Create a microfluidics device that converts fluid motion into usable electricity for small-scale mechanical systems.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Materials"]
+    },
+    {
+        "id": 816,
+        "title": "Reconfigurable Mechanical Systems",
+        "domain": "9",
+        "description": "Develop modular mechanical systems that can be reassembled into different machines using the same base components.",
+        "keywords": ["Mechanical Systems", "Design Engineering", "Automation"]
+    },
+    {
+        "id": 817,
+        "title": "AI-Optimized Additive Manufacturing",
+        "domain": "9",
+        "description": "Integrate AI algorithms with additive manufacturing to dynamically adjust printing parameters for defect-free outputs.",
+        "keywords": ["Manufacturing", "3D Printing", "Automation"]
+    },
+    {
+        "id": 818,
+        "title": "Sustainable Material Substitution Framework",
+        "domain": "9",
+        "description": "Develop a CAD-based tool that automatically suggests sustainable material substitutions during product design.",
+        "keywords": ["Materials", "CAD", "Product Development"]
+    },
+    {
+        "id": 819,
+        "title": "Underwater Robotics with Fluid Dynamics",
+        "domain": "9",
+        "description": "Design underwater robots that mimic aquatic creatures, optimized through advanced fluid mechanics modeling.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Design Engineering"]
+    },
+    {
+        "id": 820,
+        "title": "Thermal Cloaking Materials",
+        "domain": "9",
+        "description": "Engineer mechanical systems using materials that can redirect or conceal heat signatures for aerospace applications.",
+        "keywords": ["Thermodynamics", "Materials", "Mechanical Systems"]
+    },
+    {
+        "id": 821,
+        "title": "CAD-Driven Lifecycle Cost Analysis",
+        "domain": "9",
+        "description": "Embed lifecycle cost estimation tools directly into CAD models for early-stage decision-making.",
+        "keywords": ["CAD", "Product Development", "Quality Control"]
+    },
+    {
+        "id": 822,
+        "title": "Noise-Cancelling Mechanical Components",
+        "domain": "9",
+        "description": "Design self-cancelling gears and mechanical systems that minimize vibration and noise pollution.",
+        "keywords": ["Mechanical Systems", "Design Engineering", "Automation"]
+    },
+    {
+        "id": 823,
+        "title": "3D Printed Biomedical Implants",
+        "domain": "9",
+        "description": "Create patient-specific implants using multi-material 3D printing for improved bio-compatibility and durability.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 824,
+        "title": "Thermodynamic Waste Heat Converter",
+        "domain": "9",
+        "description": "Develop a small-scale converter that transforms industrial waste heat into usable electrical energy.",
+        "keywords": ["Thermodynamics", "Manufacturing", "Mechanical Systems"]
+    },
+    {
+        "id": 825,
+        "title": "Fluid Mechanics in Wearable Cooling",
+        "domain": "9",
+        "description": "Design lightweight wearable suits with embedded microfluidics for personalized cooling in harsh climates.",
+        "keywords": ["Fluid Mechanics", "Materials", "Design Engineering"]
+    },
+    {
+        "id": 826,
+        "title": "AI-Powered Assembly Line Predictive Maintenance",
+        "domain": "9",
+        "description": "Create an AI framework to predict component failures in mechanical assembly lines and schedule proactive maintenance.",
+        "keywords": ["Automation", "Manufacturing", "Quality Control"]
+    },
+    {
+        "id": 827,
+        "title": "Biodegradable 3D Printing Filaments",
+        "domain": "9",
+        "description": "Develop new 3D printing filaments that are strong, biodegradable, and scalable for industrial use.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 828,
+        "title": "Thermal Shock Resistant Alloys",
+        "domain": "9",
+        "description": "Design alloys with resistance to sudden thermal fluctuations for use in aerospace and nuclear industries.",
+        "keywords": ["Thermodynamics", "Materials", "Mechanical Systems"]
+    },
+    {
+        "id": 829,
+        "title": "Fluid-Powered Soft Robots",
+        "domain": "9",
+        "description": "Engineer soft robotic actuators that move using controlled fluid pressure instead of motors.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Automation"]
+    },
+    {
+        "id": 830,
+        "title": "CAD-Integrated Sustainability Score",
+        "domain": "9",
+        "description": "Integrate a sustainability scorecard into CAD software to evaluate environmental impact during the design phase.",
+        "keywords": ["CAD", "Design Engineering", "Product Development"]
+    },
+    {
+        "id": 831,
+        "title": "Kinetic Energy Recycling in Manufacturing",
+        "domain": "9",
+        "description": "Design a system that captures and reuses kinetic energy from moving machine parts on production lines.",
+        "keywords": ["Manufacturing", "Mechanical Systems", "Automation"]
+    },
+    {
+        "id": 832,
+        "title": "Generative CAD for Lightweight Structures",
+        "domain": "9",
+        "description": "Develop CAD tools that generate lattice-based structures automatically for optimal strength-to-weight ratio.",
+        "keywords": ["CAD", "Design Engineering", "Product Development"]
+    },
+    {
+        "id": 833,
+        "title": "Zero-Defect Manufacturing Framework",
+        "domain": "9",
+        "description": "Integrate real-time AI inspections into production systems to ensure defect-free output in critical industries.",
+        "keywords": ["Manufacturing", "Quality Control", "Automation"]
+    },
+    {
+        "id": 834,
+        "title": "Self-Assembling 3D Printed Components",
+        "domain": "9",
+        "description": "Engineer 3D printed materials that fold or assemble into functional parts when exposed to heat or light.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 835,
+        "title": "High-Efficiency Heat Exchanger Design",
+        "domain": "9",
+        "description": "Use thermodynamic simulations to design compact, highly efficient heat exchangers for renewable energy systems.",
+        "keywords": ["Thermodynamics", "Design Engineering", "Mechanical Systems"]
+    },
+    {
+        "id": 836,
+        "title": "Swarm Robotics for Mechanical Assembly",
+        "domain": "9",
+        "description": "Develop small collaborative robots that work together like ants to assemble large-scale mechanical systems.",
+        "keywords": ["Automation", "Mechanical Systems", "Manufacturing"]
+    },
+    {
+        "id": 837,
+        "title": "Fluid-Driven Artificial Heart Pump",
+        "domain": "9",
+        "description": "Design an artificial heart pump powered by bio-mimetic fluid mechanics for improved medical applications.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Product Development"]
+    },
+    {
+        "id": 838,
+        "title": "AI-Generated Sustainable Product Blueprints",
+        "domain": "9",
+        "description": "Build AI systems that automatically create sustainable mechanical design blueprints with eco-material suggestions.",
+        "keywords": ["CAD", "Materials", "Product Development"]
+    },
+    {
+        "id": 839,
+        "title": "3D Printing with Embedded Electronics",
+        "domain": "9",
+        "description": "Engineer a process that combines 3D printing and printed circuit fabrication for fully functional mechanical devices.",
+        "keywords": ["3D Printing", "Manufacturing", "Automation"]
+    },
+    {
+        "id": 840,
+        "title": "Phase-Change Cooling Systems",
+        "domain": "9",
+        "description": "Develop cooling systems that use phase-change materials to manage high thermal loads in compact devices.",
+        "keywords": ["Thermodynamics", "Materials", "Design Engineering"]
+    },
+    {
+        "id": 841,
+        "title": "Underactuated Robotic Hands",
+        "domain": "9",
+        "description": "Design robotic hands with minimal actuators that use mechanical systems and fluid dynamics for adaptive gripping.",
+        "keywords": ["Mechanical Systems", "Fluid Mechanics", "Automation"]
+    },
+    {
+        "id": 842,
+        "title": "Nano-Precision CAD Tools",
+        "domain": "9",
+        "description": "Develop CAD platforms capable of designing nano-scale mechanical structures with atomic-level accuracy.",
+        "keywords": ["CAD", "Design Engineering", "Product Development"]
+    },
+    {
+        "id": 843,
+        "title": "Self-Optimizing Conveyor Systems",
+        "domain": "9",
+        "description": "Design smart conveyor belts that adjust their speed, direction, and load distribution automatically.",
+        "keywords": ["Manufacturing", "Automation", "Mechanical Systems"]
+    },
+    {
+        "id": 844,
+        "title": "AI-Thermodynamic Material Selector",
+        "domain": "9",
+        "description": "Develop an AI system that selects optimal materials based on thermodynamic simulations for extreme environments.",
+        "keywords": ["Thermodynamics", "Materials", "Design Engineering"]
+    },
+    {
+        "id": 845,
+        "title": "Fluid Mechanics in Drone Propulsion",
+        "domain": "9",
+        "description": "Engineer new drone propulsion systems optimized through micro-scale fluid mechanics analysis.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Automation"]
+    },
+    {
+        "id": 846,
+        "title": "Real-Time CAD Collaboration Platform",
+        "domain": "9",
+        "description": "Create a CAD platform that allows multiple designers to collaborate live, with conflict resolution powered by AI.",
+        "keywords": ["CAD", "Automation", "Design Engineering"]
+    },
+    {
+        "id": 847,
+        "title": "3D Printed Food-Grade Machinery",
+        "domain": "9",
+        "description": "Develop food-safe 3D printed machine parts resistant to wear, corrosion, and high temperatures.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 848,
+        "title": "Thermal Energy Storage Wheels",
+        "domain": "9",
+        "description": "Design flywheel systems that store both kinetic and thermal energy for hybrid energy recovery.",
+        "keywords": ["Thermodynamics", "Mechanical Systems", "Product Development"]
+    },
+    {
+        "id": 849,
+        "title": "Self-Repairing Manufacturing Equipment",
+        "domain": "9",
+        "description": "Engineer machines that use embedded sensors and smart materials to repair minor damages automatically.",
+        "keywords": ["Manufacturing", "Automation", "Materials"]
+    },
+    {
+        "id": 850,
+        "title": "Fluid-Powered Wearable Exoskeletons",
+        "domain": "9",
+        "description": "Design lightweight exoskeletons that enhance human movement using hydraulic and pneumatic systems.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Product Development"]
+    },
+    {
+        "id": 851,
+        "title": "AI-Enhanced CAD Ergonomics Checker",
+        "domain": "9",
+        "description": "Integrate ergonomics validation into CAD software to automatically detect and suggest improvements in human-machine interfaces.",
+        "keywords": ["CAD", "Design Engineering", "Product Development"]
+    },
+    {
+        "id": 852,
+        "title": "Carbon-Neutral Manufacturing Framework",
+        "domain": "9",
+        "description": "Design a manufacturing framework that ensures every process step offsets its carbon footprint automatically.",
+        "keywords": ["Manufacturing", "Sustainability", "Quality Control"]
+    },
+    {
+        "id": 853,
+        "title": "3D Printed Active Cooling Devices",
+        "domain": "9",
+        "description": "Engineer 3D printed devices with built-in microfluidic cooling channels for electronic and mechanical applications.",
+        "keywords": ["3D Printing", "Fluid Mechanics", "Thermodynamics"]
+    },
+    {
+        "id": 854,
+        "title": "Thermal Barrier Coatings for Spacecraft",
+        "domain": "9",
+        "description": "Develop coatings that withstand extreme temperature shifts during spacecraft re-entry using thermodynamic analysis.",
+        "keywords": ["Thermodynamics", "Materials", "Mechanical Systems"]
+    },
+    {
+        "id": 855,
+        "title": "Smart Fluid Mechanics Simulators",
+        "domain": "9",
+        "description": "Create AI-powered simulators for real-time optimization of complex fluid mechanics problems in engineering design.",
+        "keywords": ["Fluid Mechanics", "CAD", "Automation"]
+    },
+    {
+        "id": 856,
+        "title": "Recyclable Modular Machine Components",
+        "domain": "9",
+        "description": "Design machine parts that can be disassembled and recycled easily without losing structural integrity.",
+        "keywords": ["Manufacturing", "Materials", "Product Development"]
+    },
+    {
+        "id": 857,
+        "title": "Noise-Reducing Gear Systems",
+        "domain": "9",
+        "description": "Engineer gear systems with special tooth geometries and coatings to minimize operational noise in mechanical systems.",
+        "keywords": ["Mechanical Systems", "Design Engineering", "Automation"]
+    },
+    {
+        "id": 858,
+        "title": "AI-Based Failure Mode Prediction",
+        "domain": "9",
+        "description": "Develop AI algorithms that analyze CAD and simulation data to predict possible failure modes before prototyping.",
+        "keywords": ["CAD", "Automation", "Quality Control"]
+    },
+    {
+        "id": 859,
+        "title": "3D Printed Multi-Phase Heat Sinks",
+        "domain": "9",
+        "description": "Design heat sinks with embedded phase-change materials fabricated through advanced 3D printing methods.",
+        "keywords": ["3D Printing", "Thermodynamics", "Mechanical Systems"]
+    },
+    {
+        "id": 860,
+        "title": "Bio-Inspired Fluid Channels",
+        "domain": "9",
+        "description": "Develop fluid transport systems modeled after plant xylem and animal circulatory systems for efficient fluid flow.",
+        "keywords": ["Fluid Mechanics", "Design Engineering", "Materials"]
+    },
+    {
+        "id": 861,
+        "title": "AI-Collaborative Product Development",
+        "domain": "9",
+        "description": "Create a platform where AI co-designs products with humans, suggesting novel mechanical system improvements.",
+        "keywords": ["CAD", "Automation", "Product Development"]
+    },
+    {
+        "id": 862,
+        "title": "Self-Actuating Materials in Machines",
+        "domain": "9",
+        "description": "Engineer machines with embedded self-actuating materials that can change shape or function without motors.",
+        "keywords": ["Materials", "Mechanical Systems", "Automation"]
+    },
+    {
+        "id": 863,
+        "title": "Circular Economy Manufacturing System",
+        "domain": "9",
+        "description": "Develop a closed-loop manufacturing system that reuses waste from one process as input for another.",
+        "keywords": ["Manufacturing", "Sustainability", "Quality Control"]
+    },
+    {
+        "id": 864,
+        "title": "Thermodynamic Energy Harvesting Floors",
+        "domain": "9",
+        "description": "Design flooring systems that harvest thermal and mechanical energy from footsteps to power small devices.",
+        "keywords": ["Thermodynamics", "Mechanical Systems", "Product Development"]
+    },
+    {
+        "id": 865,
+        "title": "Fluid-Mechanics Inspired Drone Wings",
+        "domain": "9",
+        "description": "Engineer adaptive drone wings based on bird and insect flight dynamics to optimize aerodynamic efficiency.",
+        "keywords": ["Fluid Mechanics", "Design Engineering", "Mechanical Systems"]
+    },
+    {
+        "id": 866,
+        "title": "AI-CAD for Disaster-Resilient Design",
+        "domain": "9",
+        "description": "Create AI-enhanced CAD tools that automatically design mechanical systems resilient to earthquakes and floods.",
+        "keywords": ["CAD", "Automation", "Design Engineering"]
+    },
+    {
+        "id": 867,
+        "title": "3D Printing with Magnetic Materials",
+        "domain": "9",
+        "description": "Develop processes to 3D print objects with embedded magnetic properties for mechanical actuation and sensors.",
+        "keywords": ["3D Printing", "Materials", "Product Development"]
+    },
+    {
+        "id": 868,
+        "title": "Zero-Energy Cooling Systems",
+        "domain": "9",
+        "description": "Design passive cooling systems that rely entirely on thermodynamic cycles without external energy input.",
+        "keywords": ["Thermodynamics", "Design Engineering", "Mechanical Systems"]
+    },
+    {
+        "id": 869,
+        "title": "Fluid-Controlled Micro Robots",
+        "domain": "9",
+        "description": "Engineer micro-robots that navigate environments using fluid mechanics instead of electrical actuation.",
+        "keywords": ["Fluid Mechanics", "Mechanical Systems", "Automation"]
+    },
+    {
+        "id": 870,
+        "title": "Intelligent Manufacturing Traceability",
+        "domain": "9",
+        "description": "Develop a traceability system that integrates AI and IoT to monitor every stage of a product’s mechanical lifecycle.",
+        "keywords": ["Manufacturing", "Quality Control", "Automation"]
+    },
+    {
+  "id": 871,
+  "title": "Self-Healing Composite Structures",
+  "domain": "9",
+  "description": "Develop composites for aerospace that can autonomously heal cracks using embedded microcapsules of repair agents, reducing downtime and improving safety.",
+  "keywords": ["Composite Materials", "Self-Healing", "Aerospace", "Structural Integrity"]
+},
+{
+  "id": 872,
+  "title": "Micro-Scale Fluid Turbines",
+  "domain": "9",
+  "description": "Design miniature fluid turbines capable of harvesting power from blood flow or microfluidic channels for powering biomedical implants.",
+  "keywords": ["Microfluidics", "Turbines", "Biomedical Devices", "Energy Harvesting"]
+},
+{
+  "id": 873,
+  "title": "Bio-Inspired Heat Dissipation Surfaces",
+  "domain": "9",
+  "description": "Create heat sinks inspired by the branching structure of trees and leaf venation to maximize surface area and natural convection cooling.",
+  "keywords": ["Heat Transfer", "Bio-Inspiration", "Thermal Management", "Design Engineering"]
+},
+{
+  "id": 874,
+  "title": "Adaptive Manufacturing Machines",
+  "domain": "9",
+  "description": "Develop CNC machines that self-adjust cutting parameters in real-time based on vibration, material hardness, and tool wear feedback.",
+  "keywords": ["CNC", "Adaptive Manufacturing", "Automation", "Quality Control"]
+},
+{
+  "id": 875,
+  "title": "Shape-Morphing Mechanical Joints",
+  "domain": "9",
+  "description": "Design morphing joints that change stiffness and geometry under load for dynamic mechanical adaptability in robotics and vehicles.",
+  "keywords": ["Mechanical Joints", "Shape Morphing", "Robotics", "Design Innovation"]
+},
+{
+  "id": 876,
+  "title": "Zero-Gravity Manufacturing Systems",
+  "domain": "9",
+  "description": "Create mechanical systems optimized for 3D printing and manufacturing in zero-gravity conditions for use in space stations.",
+  "keywords": ["3D Printing", "Space Manufacturing", "Mechanical Systems", "Product Development"]
+},
+{
+  "id": 877,
+  "title": "Underwater Drone Propulsion via Cavitation Control",
+  "domain": "9",
+  "description": "Develop underwater drones that utilize cavitation bubble control for efficient high-speed propulsion with minimal energy loss.",
+  "keywords": ["Underwater Robotics", "Cavitation", "Propulsion Systems", "Fluid Mechanics"]
+},
+{
+  "id": 878,
+  "title": "Smart Cooling Garments for Extreme Environments",
+  "domain": "9",
+  "description": "Design mechanically regulated wearable cooling garments using phase-change materials for workers in deserts and foundries.",
+  "keywords": ["Wearable Design", "Thermodynamics", "Phase-Change Materials", "Product Development"]
+},
+{
+  "id": 879,
+  "title": "Programmable Pneumatic Actuators",
+  "domain": "9",
+  "description": "Develop actuators with programmable pressure chambers to mimic natural muscle movement for robotics and prosthetics.",
+  "keywords": ["Pneumatics", "Actuators", "Prosthetics", "Robotics"]
+},
+{
+  "id": 880,
+  "title": "High-Efficiency Solar Thermal Collectors",
+  "domain": "9",
+  "description": "Design novel thermal collectors that use nanostructured surfaces to absorb and transfer solar heat with maximum efficiency.",
+  "keywords": ["Solar Thermal", "Nanostructures", "Heat Transfer", "Sustainable Energy"]
+},
+{
+  "id": 881,
+  "title": "Dynamic Vibration Damping Beams",
+  "domain": "9",
+  "description": "Create beams that self-tune their internal damping properties to cancel vibrations dynamically in mechanical systems.",
+  "keywords": ["Vibration Control", "Structural Dynamics", "Adaptive Materials", "Mechanical Design"]
+},
+{
+  "id": 882,
+  "title": "3D Printed Bone-Mimetic Scaffolds",
+  "domain": "9",
+  "description": "Develop 3D printed scaffolds with bone-like porosity and mechanics for supporting tissue regeneration in medical applications.",
+  "keywords": ["3D Printing", "Biomedical Engineering", "Materials Design", "Bone Scaffolds"]
+},
+{
+  "id": 883,
+  "title": "Autonomous Pipeline Inspection Robots",
+  "domain": "9",
+  "description": "Design robots capable of navigating long oil and gas pipelines autonomously for real-time inspection and damage detection.",
+  "keywords": ["Robotics", "Pipeline Inspection", "Automation", "Mechanical Systems"]
+},
+{
+  "id": 884,
+  "title": "Acoustic-Driven Micro-Manipulators",
+  "domain": "9",
+  "description": "Build manipulators that use standing acoustic waves to control and assemble microscopic components without physical contact.",
+  "keywords": ["Acoustics", "Micro-Manipulation", "Automation", "Mechanical Design"]
+},
+{
+  "id": 885,
+  "title": "Energy-Storing Flywheel Vehicles",
+  "domain": "9",
+  "description": "Develop vehicles that use advanced flywheel systems for energy storage and rapid deployment for short-distance transport.",
+  "keywords": ["Flywheels", "Energy Storage", "Vehicles", "Sustainable Transport"]
+},
+{
+  "id": 886,
+  "title": "AI-Guided Mechanical Stress Prediction",
+  "domain": "9",
+  "description": "Create AI-integrated mechanical testing setups that predict failure points and redesign structures for longer lifespans.",
+  "keywords": ["AI", "Mechanical Stress", "Failure Prediction", "Quality Control"]
+},
+{
+  "id": 887,
+  "title": "Fluid-Driven Soft Robotic Hands",
+  "domain": "9",
+  "description": "Develop soft robotic grippers powered by fluidic circuits that can adaptively grasp fragile or irregular objects.",
+  "keywords": ["Soft Robotics", "Fluid Mechanics", "Grippers", "Automation"]
+},
+{
+  "id": 888,
+  "title": "Magnetically Actuated Micro-Pumps",
+  "domain": "9",
+  "description": "Design micro-scale pumps actuated by magnetic fields for drug delivery and cooling of microelectronics.",
+  "keywords": ["Micro-Pumps", "Magnetic Actuation", "Biomedical Devices", "Thermal Management"]
+},
+{
+  "id": 889,
+  "title": "Self-Tightening Aerospace Fasteners",
+  "domain": "9",
+  "description": "Create fasteners that automatically adjust torque based on vibration and thermal expansion for spacecraft structures.",
+  "keywords": ["Fasteners", "Aerospace Design", "Self-Adjusting Systems", "Mechanical Engineering"]
+},
+{
+  "id": 890,
+  "title": "Harvesting Energy from Vehicle Suspensions",
+  "domain": "9",
+  "description": "Develop suspension systems that convert mechanical vibrations from vehicles into usable electrical energy.",
+  "keywords": ["Suspension Systems", "Energy Harvesting", "Vehicles", "Mechanical Design"]
+},
+{
+  "id": 891,
+  "title": "Wind-Powered Desalination Devices",
+  "domain": "9",
+  "description": "Design small-scale wind-powered mechanical systems for freshwater generation via pressure-driven desalination.",
+  "keywords": ["Desalination", "Wind Power", "Mechanical Systems", "Sustainability"]
+},
+{
+  "id": 892,
+  "title": "Self-Deploying Bridge Structures",
+  "domain": "9",
+  "description": "Develop modular mechanical bridges that autonomously unfold and lock into place for disaster recovery or military use.",
+  "keywords": ["Bridge Design", "Automation", "Deployable Structures", "Mechanical Systems"]
+},
+{
+  "id": 893,
+  "title": "Thermoelectric Clothing Generators",
+  "domain": "9",
+  "description": "Design clothing with embedded thermoelectric generators that convert body heat into electricity for wearables.",
+  "keywords": ["Wearables", "Thermoelectric", "Energy Harvesting", "Product Development"]
+},
+{
+  "id": 894,
+  "title": "Smart Aeroelastic Wings",
+  "domain": "9",
+  "description": "Create aircraft wings that adapt their shape to airflow conditions by integrating flexible mechanical structures.",
+  "keywords": ["Aerospace", "Aeroelasticity", "Adaptive Design", "Mechanical Systems"]
+},
+{
+  "id": 895,
+  "title": "Micro-Robotic Swarms for Repair",
+  "domain": "9",
+  "description": "Design swarms of micro-robots capable of repairing large mechanical structures internally with minimal human intervention.",
+  "keywords": ["Swarm Robotics", "Repair Systems", "Automation", "Mechanical Design"]
+},
+{
+  "id": 896,
+  "title": "Fluid-Responsive Valves for Medical Devices",
+  "domain": "9",
+  "description": "Develop self-regulating valves that adjust fluid flow rates dynamically in life-support and dialysis machines.",
+  "keywords": ["Valves", "Medical Devices", "Fluid Mechanics", "Automation"]
+},
+{
+  "id": 897,
+  "title": "Anti-Icing Mechanical Surfaces",
+  "domain": "9",
+  "description": "Design engineered surfaces that mechanically shed ice without chemicals or heating, for aircraft and wind turbines.",
+  "keywords": ["Anti-Icing", "Surface Engineering", "Aerospace", "Mechanical Design"]
+},
+{
+  "id": 898,
+  "title": "Energy-Free Passive Ventilation Systems",
+  "domain": "9",
+  "description": "Develop architectural ventilation systems using purely mechanical airflow design with no active energy input.",
+  "keywords": ["Ventilation", "Sustainability", "Passive Design", "Fluid Mechanics"]
+},
+{
+  "id": 899,
+  "title": "Hybrid 3D Printing with Multi-Material Deposition",
+  "domain": "9",
+  "description": "Create a hybrid 3D printing system that switches between polymers, metals, and ceramics in one continuous build process.",
+  "keywords": ["3D Printing", "Hybrid Manufacturing", "Multi-Materials", "Product Development"]
+},
+{
+  "id": 900,
+  "title": "Self-Balancing Urban Delivery Robots",
+  "domain": "9",
+  "description": "Design compact self-balancing delivery robots that use gyroscopic systems for stability in narrow urban environments.",
+  "keywords": ["Delivery Robots", "Self-Balancing", "Gyroscope", "Mechanical Systems"]
+}
+
 
 // AEROSPACE & AVIATION (Domain 21)
 {
