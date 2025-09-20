@@ -7676,7 +7676,7 @@ const PROBLEMS_DATA = {
   "domain": "10",
   "description": "Design urban roads integrated with vegetation and natural filtration systems to manage runoff and improve aesthetics.",
   "keywords": ["Transportation", "Urban Planning", "Environmental Engineering", "Sustainability"]
-}
+},
 
 // AEROSPACE & AVIATION (Domain 21)
 {
