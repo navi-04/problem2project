@@ -4167,11 +4167,10 @@ const PROBLEMS_DATA = {
         "domain": "5",
         "description": "Develop a system that measures and optimizes happiness levels in biological systems using natural well-being indicators.",
         "keywords": ["Biological Happiness", "Well-being Optimization", "Natural Indicators", "Bio-wellness"]
-    }
+    },
 
-
-        // DATA SCIENCE & ML (Domain 6) - 120+ problems
-        {
+// DATA SCIENCE & ML (Domain 6) - 120+ problems
+{
             "id": 501,
             "title": "Federated Learning Framework",
             "domain": "6",
