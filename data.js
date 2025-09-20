@@ -6976,6 +6976,708 @@ const PROBLEMS_DATA = {
   "keywords": ["Delivery Robots", "Self-Balancing", "Gyroscope", "Mechanical Systems"]
 },
 
+// CIVIL & ENVIRONMENT
+   {
+  "id": 901,
+  "title": "Self-Healing Concrete Using Bacteria",
+  "domain": "10",
+  "description": "Develop a concrete mixture embedded with bacteria that activate when cracks form, producing limestone to automatically heal micro-fractures.",
+  "keywords": ["Structural Engineering", "Concrete", "Self-Healing", "Sustainability"]
+},
+{
+  "id": 902,
+  "title": "Flood-Responsive Floating Roads",
+  "domain": "10",
+  "description": "Design adaptive road systems that float or elevate during floods to maintain transportation networks in flood-prone regions.",
+  "keywords": ["Transportation", "Flood Management", "Infrastructure", "Climate Change"]
+},
+{
+  "id": 903,
+  "title": "Carbon-Capturing Building Facades",
+  "domain": "10",
+  "description": "Create building facades made of materials that actively capture and store CO2 from the atmosphere to reduce urban carbon emissions.",
+  "keywords": ["Green Building", "Climate Change", "Carbon Capture", "Sustainability"]
+},
+{
+  "id": 904,
+  "title": "Smart Traffic Flow Bridges",
+  "domain": "10",
+  "description": "Develop bridges integrated with AI systems that adaptively open/close lanes based on real-time traffic flow and congestion.",
+  "keywords": ["Transportation", "Bridges", "Smart Infrastructure", "Automation"]
+},
+{
+  "id": 905,
+  "title": "Earthquake-Resistant Modular Housing",
+  "domain": "10",
+  "description": "Design prefabricated housing units with modular joints and damping systems that withstand seismic vibrations in earthquake-prone zones.",
+  "keywords": ["Structural Engineering", "Housing", "Earthquake Resistance", "Construction"]
+},
+{
+  "id": 906,
+  "title": "Vertical Forest Skyscrapers",
+  "domain": "10",
+  "description": "Create skyscraper designs that integrate vertical forests for carbon absorption, air purification, and temperature regulation in urban areas.",
+  "keywords": ["Urban Planning", "Green Building", "Sustainability", "Climate Change"]
+},
+{
+  "id": 907,
+  "title": "AI-Powered Landslide Prediction System",
+  "domain": "10",
+  "description": "Develop geotechnical models powered by AI to predict landslide risks based on soil, slope, and rainfall data for mountainous regions.",
+  "keywords": ["Geotechnical", "AI", "Landslides", "Environmental Engineering"]
+},
+{
+  "id": 908,
+  "title": "Water-Purifying Pavements",
+  "domain": "10",
+  "description": "Design porous pavements embedded with natural filters that purify rainwater as it seeps into the ground, improving groundwater quality.",
+  "keywords": ["Water Resources", "Pavements", "Green Infrastructure", "Sustainability"]
+},
+{
+  "id": 909,
+  "title": "Autonomous Drone-Based Construction",
+  "domain": "10",
+  "description": "Create swarms of autonomous drones capable of carrying, assembling, and monitoring construction materials in hard-to-reach areas.",
+  "keywords": ["Construction", "Automation", "Drones", "Infrastructure"]
+},
+{
+  "id": 910,
+  "title": "Heat-Resistant Urban Road Materials",
+  "domain": "10",
+  "description": "Develop road surfacing materials that remain stable under extreme heat to prevent melting, cracking, and deformation in hot climates.",
+  "keywords": ["Transportation", "Materials", "Climate Change", "Civil Engineering"]
+},
+{
+  "id": 911,
+  "title": "Self-Cooling Asphalt for Urban Heat Islands",
+  "domain": "10",
+  "description": "Develop asphalt with embedded phase-change materials that absorb and release heat to reduce urban heat island effects.",
+  "keywords": ["Transportation", "Urban Heat Island", "Asphalt", "Climate Change"]
+},
+{
+  "id": 912,
+  "title": "AI-Driven Smart Water Distribution Networks",
+  "domain": "10",
+  "description": "Design adaptive water distribution systems that use AI to detect leaks, predict demand, and optimize resource allocation.",
+  "keywords": ["Water Resources", "Smart Infrastructure", "AI", "Sustainability"]
+},
+{
+  "id": 913,
+  "title": "Floating Solar Power Canals",
+  "domain": "10",
+  "description": "Construct canals covered with floating solar panels that generate energy while reducing evaporation of freshwater.",
+  "keywords": ["Water Resources", "Solar Energy", "Sustainability", "Climate Change"]
+},
+{
+  "id": 914,
+  "title": "Biodegradable Construction Materials",
+  "domain": "10",
+  "description": "Develop structural materials from biodegradable composites for temporary structures that minimize environmental impact.",
+  "keywords": ["Construction", "Materials", "Sustainability", "Green Building"]
+},
+{
+  "id": 915,
+  "title": "Noise-Canceling Urban Barriers",
+  "domain": "10",
+  "description": "Design smart barriers embedded with acoustic metamaterials to reduce traffic and industrial noise in cities.",
+  "keywords": ["Urban Planning", "Acoustics", "Transportation", "Environmental Engineering"]
+},
+{
+  "id": 916,
+  "title": "Autonomous Waste-Sorting Facilities",
+  "domain": "10",
+  "description": "Create AI-powered robotic systems that automatically sort and recycle construction and urban waste.",
+  "keywords": ["Construction", "Automation", "Recycling", "Sustainability"]
+},
+{
+  "id": 917,
+  "title": "Climate-Resilient Coastal Infrastructure",
+  "domain": "10",
+  "description": "Design seawalls and ports using flexible, wave-absorbing materials that adapt to rising sea levels and storm surges.",
+  "keywords": ["Coastal Engineering", "Climate Change", "Infrastructure", "Resilience"]
+},
+{
+  "id": 918,
+  "title": "Smart Green Roof Irrigation",
+  "domain": "10",
+  "description": "Develop irrigation systems for green roofs that self-regulate water delivery based on plant health and rainfall prediction.",
+  "keywords": ["Green Building", "Urban Planning", "Water Resources", "Sustainability"]
+},
+{
+  "id": 919,
+  "title": "Underground Urban Freight Tunnels",
+  "domain": "10",
+  "description": "Plan underground automated tunnel systems for freight transport to reduce surface traffic congestion in cities.",
+  "keywords": ["Urban Planning", "Transportation", "Automation", "Infrastructure"]
+},
+{
+  "id": 920,
+  "title": "Geo-Polymer Cement Alternatives",
+  "domain": "10",
+  "description": "Create cement alternatives using industrial by-products like fly ash and slag to reduce carbon emissions from construction.",
+  "keywords": ["Construction", "Materials", "Sustainability", "Climate Change"]
+},
+{
+  "id": 921,
+  "title": "Smart Bridge Health Monitoring",
+  "domain": "10",
+  "description": "Design bridges embedded with IoT sensors to continuously monitor stress, cracks, and corrosion for predictive maintenance.",
+  "keywords": ["Bridges", "IoT", "Structural Engineering", "Infrastructure"]
+},
+{
+  "id": 922,
+  "title": "Zero-Waste Construction Sites",
+  "domain": "10",
+  "description": "Develop frameworks for construction sites that recycle or repurpose all leftover materials into usable components.",
+  "keywords": ["Construction", "Waste Management", "Sustainability", "Green Building"]
+},
+{
+  "id": 923,
+  "title": "Permeable Urban Parking Lots",
+  "domain": "10",
+  "description": "Design parking lots with permeable surfaces that reduce flooding and recharge groundwater aquifers.",
+  "keywords": ["Urban Planning", "Water Resources", "Permeable Surfaces", "Sustainability"]
+},
+{
+  "id": 924,
+  "title": "Wind-Resistant Skyscraper Designs",
+  "domain": "10",
+  "description": "Develop skyscraper structures that reduce wind vortex effects using aerodynamic and adaptive facade designs.",
+  "keywords": ["Skyscrapers", "Structural Engineering", "Wind Engineering", "Design Innovation"]
+},
+{
+  "id": 925,
+  "title": "Eco-Friendly Highway Sound Barriers",
+  "domain": "10",
+  "description": "Construct sound barriers made of recycled plastics and vegetation to reduce traffic noise and absorb CO2.",
+  "keywords": ["Transportation", "Noise Control", "Recycling", "Green Building"]
+},
+{
+  "id": 926,
+  "title": "AI-Optimized Urban Drainage Networks",
+  "domain": "10",
+  "description": "Develop urban drainage systems that use AI to predict rainfall intensity and reroute excess water dynamically.",
+  "keywords": ["Drainage", "Urban Planning", "AI", "Climate Change"]
+},
+{
+  "id": 927,
+  "title": "Rapid 3D Printing of Emergency Shelters",
+  "domain": "10",
+  "description": "Design portable 3D printing systems capable of quickly building shelters in disaster-hit areas using local materials.",
+  "keywords": ["3D Printing", "Disaster Relief", "Construction", "Civil Engineering"]
+},
+{
+  "id": 928,
+  "title": "Energy-Generating Pedestrian Walkways",
+  "domain": "10",
+  "description": "Create walkways embedded with piezoelectric tiles that generate electricity from pedestrian footsteps.",
+  "keywords": ["Urban Planning", "Energy Harvesting", "Pedestrian Infrastructure", "Sustainability"]
+},
+{
+  "id": 929,
+  "title": "Geo-Sensing Tunnels for Safety",
+  "domain": "10",
+  "description": "Develop tunnels equipped with geo-sensors that detect rock shifts, gas leaks, and water ingress to prevent accidents.",
+  "keywords": ["Geotechnical", "Tunnels", "Safety", "Infrastructure"]
+},
+{
+  "id": 930,
+  "title": "Modular Floating Cities",
+  "domain": "10",
+  "description": "Design modular floating city platforms that adapt to sea level rise and allow sustainable urban expansion.",
+  "keywords": ["Urban Planning", "Floating Structures", "Climate Change", "Sustainability"]
+},
+{
+  "id": 931,
+  "title": "Plastic-Waste Reinforced Roads",
+  "domain": "10",
+  "description": "Develop road surfaces that integrate recycled plastics for higher durability and reduced environmental footprint.",
+  "keywords": ["Transportation", "Recycling", "Road Design", "Sustainability"]
+},
+{
+  "id": 932,
+  "title": "AI-Enhanced Bridge Aerodynamics",
+  "domain": "10",
+  "description": "Design bridge models where AI simulations optimize shapes to minimize wind-induced vibrations and oscillations.",
+  "keywords": ["Bridges", "AI", "Aerodynamics", "Structural Engineering"]
+},
+{
+  "id": 933,
+  "title": "Water-Harvesting Building Skins",
+  "domain": "10",
+  "description": "Create building skins that collect and purify rainwater, integrating storage systems for reuse in urban settings.",
+  "keywords": ["Green Building", "Water Resources", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 934,
+  "title": "Seismic-Responsive Highways",
+  "domain": "10",
+  "description": "Develop highways with expansion joints and damping systems that resist cracking and collapse during earthquakes.",
+  "keywords": ["Transportation", "Earthquake Resistance", "Civil Engineering", "Safety"]
+},
+{
+  "id": 935,
+  "title": "Carbon-Neutral Cement Production",
+  "domain": "10",
+  "description": "Develop cement manufacturing processes powered by renewable energy with carbon capture integration.",
+  "keywords": ["Construction Materials", "Cement", "Climate Change", "Sustainability"]
+},
+{
+  "id": 936,
+  "title": "Underground Cooling Reservoirs",
+  "domain": "10",
+  "description": "Design underground water reservoirs that regulate urban temperature through passive thermal exchange systems.",
+  "keywords": ["Urban Planning", "Cooling Systems", "Sustainability", "Water Resources"]
+},
+{
+  "id": 937,
+  "title": "Drone-Based Structural Health Inspection",
+  "domain": "10",
+  "description": "Deploy drones with sensors to inspect high-rise structures for cracks, corrosion, and material degradation.",
+  "keywords": ["Structural Engineering", "Drones", "Inspection", "Automation"]
+},
+{
+  "id": 938,
+  "title": "Rain-Absorbing Urban Parks",
+  "domain": "10",
+  "description": "Design city parks that act as rainwater sponges, reducing flooding and improving groundwater recharge.",
+  "keywords": ["Urban Planning", "Water Resources", "Sustainability", "Climate Change"]
+},
+{
+  "id": 939,
+  "title": "Zero-Carbon Highways",
+  "domain": "10",
+  "description": "Create highways that integrate renewable energy harvesting, recycled materials, and carbon-neutral construction.",
+  "keywords": ["Transportation", "Sustainability", "Green Building", "Climate Change"]
+},
+{
+  "id": 940,
+  "title": "Bioengineered Riverbanks",
+  "domain": "10",
+  "description": "Develop riverbank reinforcement using plant roots and biodegradable meshes to prevent erosion naturally.",
+  "keywords": ["Water Resources", "Geotechnical", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 941,
+  "title": "AI-Driven Urban Traffic Decongestion",
+  "domain": "10",
+  "description": "Design smart traffic systems that adaptively reroute vehicles in real time to reduce congestion and emissions.",
+  "keywords": ["Transportation", "AI", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 942,
+  "title": "Climate-Resilient Railway Tracks",
+  "domain": "10",
+  "description": "Develop railway tracks using materials and geometries that adapt to heat expansion, frost, and floods.",
+  "keywords": ["Railways", "Transportation", "Climate Change", "Civil Engineering"]
+},
+{
+  "id": 943,
+  "title": "Solar-Integrated Noise Barriers",
+  "domain": "10",
+  "description": "Design highway noise barriers that also generate solar power through integrated photovoltaic panels.",
+  "keywords": ["Transportation", "Noise Control", "Solar Energy", "Sustainability"]
+},
+{
+  "id": 944,
+  "title": "AI-Based Urban Air Quality Models",
+  "domain": "10",
+  "description": "Develop AI models that integrate civil infrastructure design with air pollution data to improve city layouts.",
+  "keywords": ["Urban Planning", "Air Quality", "AI", "Environmental Engineering"]
+},
+{
+  "id": 945,
+  "title": "Rapid-Recycling Pavement Systems",
+  "domain": "10",
+  "description": "Design pavements that can be dismantled and remanufactured quickly to reduce construction waste.",
+  "keywords": ["Pavements", "Recycling", "Sustainability", "Civil Engineering"]
+},
+{
+  "id": 946,
+  "title": "Hydropower-Generating Dams with Fish Ladders",
+  "domain": "10",
+  "description": "Develop eco-friendly dams that generate hydropower while maintaining biodiversity using fish ladder systems.",
+  "keywords": ["Hydropower", "Water Resources", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 947,
+  "title": "Self-Cleaning Urban Facades",
+  "domain": "10",
+  "description": "Create building facades coated with hydrophobic and photocatalytic layers that repel dirt and reduce maintenance.",
+  "keywords": ["Green Building", "Facade Design", "Materials", "Sustainability"]
+},
+{
+  "id": 948,
+  "title": "Climate-Adaptive Pavement Coatings",
+  "domain": "10",
+  "description": "Develop pavement coatings that adjust reflectivity and thermal properties based on seasonal conditions.",
+  "keywords": ["Transportation", "Pavement", "Climate Change", "Civil Engineering"]
+},
+{
+  "id": 949,
+  "title": "Modular Disaster-Relief Bridges",
+  "domain": "10",
+  "description": "Design lightweight, modular bridges that can be rapidly deployed in disaster zones for emergency connectivity.",
+  "keywords": ["Bridges", "Disaster Relief", "Civil Engineering", "Modular Design"]
+},
+{
+  "id": 950,
+  "title": "Geo-Solar Hybrid Foundations",
+  "domain": "10",
+  "description": "Create building foundations that integrate geothermal cooling and solar energy harvesting for sustainable buildings.",
+  "keywords": ["Foundations", "Geothermal", "Solar Energy", "Green Building"]
+},
+{
+  "id": 951,
+  "title": "Smart Retaining Walls with Sensor Feedback",
+  "domain": "10",
+  "description": "Design retaining walls embedded with sensors to monitor soil pressure and movement for predictive maintenance.",
+  "keywords": ["Geotechnical", "Sensors", "Structural Engineering", "Infrastructure"]
+},
+{
+  "id": 952,
+  "title": "Eco-Friendly Concrete Using Algae",
+  "domain": "10",
+  "description": "Develop concrete incorporating algae that captures CO2 and improves sustainability in construction.",
+  "keywords": ["Construction Materials", "Sustainability", "CO2 Capture", "Green Building"]
+},
+{
+  "id": 953,
+  "title": "AI-Controlled Smart Floodgates",
+  "domain": "10",
+  "description": "Create floodgates that adaptively regulate water flow using AI based on real-time river and rainfall data.",
+  "keywords": ["Water Resources", "Automation", "Flood Management", "AI"]
+},
+{
+  "id": 954,
+  "title": "Reinforced Soil with Recycled Plastics",
+  "domain": "10",
+  "description": "Design geotechnical systems using recycled plastics to enhance soil strength for sustainable foundations.",
+  "keywords": ["Geotechnical", "Recycling", "Soil Reinforcement", "Sustainability"]
+},
+{
+  "id": 955,
+  "title": "Urban Microclimate Modulation via Water Canals",
+  "domain": "10",
+  "description": "Plan urban water canals that help regulate city temperatures and humidity through passive cooling effects.",
+  "keywords": ["Urban Planning", "Water Resources", "Climate Change", "Sustainability"]
+},
+{
+  "id": 956,
+  "title": "Rapid-Deploy Modular Flood Shelters",
+  "domain": "10",
+  "description": "Develop modular shelters that can be quickly deployed in flood-prone areas, using lightweight, recyclable materials.",
+  "keywords": ["Disaster Relief", "Modular Design", "Construction", "Sustainability"]
+},
+{
+  "id": 957,
+  "title": "Smart Urban Canopy for Rainwater Harvesting",
+  "domain": "10",
+  "description": "Create building canopies integrated with sensors to capture, filter, and store rainwater efficiently.",
+  "keywords": ["Green Building", "Water Resources", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 958,
+  "title": "Seismic-Resistant Modular Housing",
+  "domain": "10",
+  "description": "Design prefabricated modular homes that withstand earthquakes while being easily transportable and sustainable.",
+  "keywords": ["Construction", "Earthquake Resistance", "Modular Design", "Civil Engineering"]
+},
+{
+  "id": 959,
+  "title": "AI-Powered Urban Heat Mapping",
+  "domain": "10",
+  "description": "Develop AI models to create real-time urban heat maps for optimizing green spaces and energy-efficient building placement.",
+  "keywords": ["Urban Planning", "AI", "Climate Change", "Sustainability"]
+},
+{
+  "id": 960,
+  "title": "Self-Healing Pavements with Microcapsules",
+  "domain": "10",
+  "description": "Design road pavements embedded with microcapsules that release healing agents to repair cracks automatically.",
+  "keywords": ["Transportation", "Smart Materials", "Infrastructure", "Sustainability"]
+},
+{
+  "id": 961,
+  "title": "Floating Wetlands for Urban Water Purification",
+  "domain": "10",
+  "description": "Construct floating wetland systems in urban water bodies to naturally filter pollutants and support biodiversity.",
+  "keywords": ["Water Resources", "Environmental Engineering", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 962,
+  "title": "Adaptive Bridge Load Redistribution System",
+  "domain": "10",
+  "description": "Develop bridges with adaptive load-bearing mechanisms to redistribute stress during heavy traffic or earthquakes.",
+  "keywords": ["Bridges", "Structural Engineering", "Automation", "Civil Engineering"]
+},
+{
+  "id": 963,
+  "title": "Energy-Generating Building Facades",
+  "domain": "10",
+  "description": "Design building facades equipped with piezoelectric and solar panels to harvest energy from wind and sunlight.",
+  "keywords": ["Green Building", "Energy Harvesting", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 964,
+  "title": "AI-Guided Soil Stabilization Techniques",
+  "domain": "10",
+  "description": "Use AI to design soil stabilization strategies using natural and recycled materials for sustainable construction.",
+  "keywords": ["Geotechnical", "AI", "Sustainability", "Construction"]
+},
+{
+  "id": 965,
+  "title": "Urban Green Corridors for Air Purification",
+  "domain": "10",
+  "description": "Plan continuous urban green corridors that reduce air pollution and improve pedestrian microclimates.",
+  "keywords": ["Urban Planning", "Environmental Engineering", "Air Quality", "Sustainability"]
+},
+{
+  "id": 966,
+  "title": "3D-Printed Biodegradable Bridges",
+  "domain": "10",
+  "description": "Develop temporary pedestrian bridges using 3D-printed biodegradable materials for emergency and festival applications.",
+  "keywords": ["3D Printing", "Construction", "Sustainability", "Civil Engineering"]
+},
+{
+  "id": 967,
+  "title": "Smart Irrigation Networks for Urban Parks",
+  "domain": "10",
+  "description": "Create AI-controlled irrigation systems that optimize water usage in urban parks based on weather and soil sensors.",
+  "keywords": ["Water Resources", "Urban Planning", "AI", "Sustainability"]
+},
+{
+  "id": 968,
+  "title": "Hybrid Geothermal-Solar Foundations",
+  "domain": "10",
+  "description": "Design building foundations that integrate both geothermal cooling and solar power harvesting for energy efficiency.",
+  "keywords": ["Foundations", "Geothermal", "Solar Energy", "Green Building"]
+},
+{
+  "id": 969,
+  "title": "Bio-Enhanced Riverbank Stabilization",
+  "domain": "10",
+  "description": "Develop riverbank stabilization using bioengineered vegetation combined with geotextiles for erosion control.",
+  "keywords": ["Water Resources", "Geotechnical", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 970,
+  "title": "Smart Traffic-Powered Energy Harvesting Roads",
+  "domain": "10",
+  "description": "Design road surfaces that harvest energy from vehicle vibrations and convert it into usable electricity.",
+  "keywords": ["Transportation", "Energy Harvesting", "Infrastructure", "Sustainability"]
+},
+{
+  "id": 971,
+  "title": "AI-Based Coastal Erosion Prediction System",
+  "domain": "10",
+  "description": "Develop AI models that predict coastal erosion patterns to guide urban planning and protective measures.",
+  "keywords": ["Coastal Engineering", "AI", "Climate Change", "Environmental Engineering"]
+},
+{
+  "id": 972,
+  "title": "Reconfigurable Modular Bridges",
+  "domain": "10",
+  "description": "Design bridges with modular components that can be rearranged to adapt to changing urban requirements.",
+  "keywords": ["Bridges", "Modular Design", "Urban Planning", "Civil Engineering"]
+},
+{
+  "id": 973,
+  "title": "Climate-Adaptive Building Orientation",
+  "domain": "10",
+  "description": "Develop AI-guided building orientation strategies to maximize natural ventilation and solar energy efficiency.",
+  "keywords": ["Urban Planning", "AI", "Green Building", "Sustainability"]
+},
+{
+  "id": 974,
+  "title": "Self-Monitoring Water Pipelines",
+  "domain": "10",
+  "description": "Design water pipelines with embedded sensors that detect leaks, pressure drops, and contamination automatically.",
+  "keywords": ["Water Resources", "IoT", "Automation", "Infrastructure"]
+},
+{
+  "id": 975,
+  "title": "Eco-Corridors for Wildlife in Cities",
+  "domain": "10",
+  "description": "Plan urban spaces that include corridors for wildlife movement to maintain biodiversity and ecosystem balance.",
+  "keywords": ["Urban Planning", "Environmental Engineering", "Sustainability", "Green Building"]
+},
+{
+  "id": 976,
+  "title": "Smart Pavement for Real-Time Traffic Analysis",
+  "domain": "10",
+  "description": "Develop pavements with embedded sensors that monitor vehicle flow, weight, and congestion for urban planning.",
+  "keywords": ["Transportation", "Smart Infrastructure", "AI", "Urban Planning"]
+},
+{
+  "id": 977,
+  "title": "Biodegradable Flood Barriers",
+  "domain": "10",
+  "description": "Create temporary flood barriers made from biodegradable materials that minimize environmental impact.",
+  "keywords": ["Flood Management", "Sustainability", "Environmental Engineering", "Civil Engineering"]
+},
+{
+  "id": 978,
+  "title": "AI-Powered Bridge Load Forecasting",
+  "domain": "10",
+  "description": "Design AI systems that predict bridge load patterns to schedule maintenance and prevent structural failure.",
+  "keywords": ["Bridges", "AI", "Structural Engineering", "Infrastructure"]
+},
+{
+  "id": 979,
+  "title": "Urban Heat-Reducing Green Roofs",
+  "domain": "10",
+  "description": "Develop green roofs with heat-reflective plants and materials to reduce city-wide temperatures.",
+  "keywords": ["Green Building", "Urban Planning", "Climate Change", "Sustainability"]
+},
+{
+  "id": 980,
+  "title": "Energy-Efficient Tunnel Lighting Systems",
+  "domain": "10",
+  "description": "Design tunnels with adaptive lighting that adjusts brightness based on traffic and natural light to save energy.",
+  "keywords": ["Transportation", "Energy Efficiency", "Infrastructure", "Automation"]
+},
+{
+  "id": 981,
+  "title": "Biodegradable Construction Scaffoldings",
+  "domain": "10",
+  "description": "Develop scaffolding systems made from biodegradable composites for temporary construction projects.",
+  "keywords": ["Construction", "Sustainability", "Materials", "Civil Engineering"]
+},
+{
+  "id": 982,
+  "title": "AI-Controlled Stormwater Management Systems",
+  "domain": "10",
+  "description": "Create adaptive stormwater systems that optimize water storage, redirection, and flood prevention using AI.",
+  "keywords": ["Water Resources", "Urban Planning", "AI", "Climate Change"]
+},
+{
+  "id": 983,
+  "title": "Urban Noise Absorbing Pavements",
+  "domain": "10",
+  "description": "Design road surfaces with integrated noise-absorbing layers to reduce urban traffic sound pollution.",
+  "keywords": ["Transportation", "Urban Planning", "Noise Control", "Sustainability"]
+},
+{
+  "id": 984,
+  "title": "Modular Floating Solar Platforms",
+  "domain": "10",
+  "description": "Develop modular floating platforms that host solar panels on urban water bodies for energy generation.",
+  "keywords": ["Water Resources", "Solar Energy", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 985,
+  "title": "Climate-Responsive Urban Lighting",
+  "domain": "10",
+  "description": "Create street lighting systems that adjust intensity based on temperature, air quality, and human presence.",
+  "keywords": ["Urban Planning", "AI", "Energy Efficiency", "Sustainability"]
+},
+{
+  "id": 986,
+  "title": "Self-Healing Concrete with Bacteria",
+  "domain": "10",
+  "description": "Design concrete that incorporates bacteria to fill cracks autonomously, extending pavement and building lifespan.",
+  "keywords": ["Construction Materials", "Sustainability", "Smart Materials", "Civil Engineering"]
+},
+{
+  "id": 987,
+  "title": "AI-Guided Urban Green Space Expansion",
+  "domain": "10",
+  "description": "Use AI to identify optimal areas for new green spaces to enhance urban air quality and biodiversity.",
+  "keywords": ["Urban Planning", "AI", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 988,
+  "title": "Smart Bridges with Traffic Weight Distribution",
+  "domain": "10",
+  "description": "Develop bridges that monitor vehicle weight and dynamically redistribute load to prevent structural damage.",
+  "keywords": ["Bridges", "AI", "Structural Engineering", "Infrastructure"]
+},
+{
+  "id": 989,
+  "title": "Biophilic Urban Infrastructure",
+  "domain": "10",
+  "description": "Integrate natural elements into urban roads, sidewalks, and parks to improve human wellbeing and environmental health.",
+  "keywords": ["Urban Planning", "Sustainability", "Green Building", "Environmental Engineering"]
+},
+{
+  "id": 990,
+  "title": "Rapid 3D-Printed Modular Dams",
+  "domain": "10",
+  "description": "Design modular dams using 3D printing technology for quick deployment and adaptive water management.",
+  "keywords": ["3D Printing", "Water Resources", "Construction", "Civil Engineering"]
+},
+{
+  "id": 991,
+  "title": "Self-Cleaning Urban Canals",
+  "domain": "10",
+  "description": "Develop canal surfaces and systems that autonomously remove debris and pollutants using smart materials.",
+  "keywords": ["Water Resources", "Urban Planning", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 992,
+  "title": "AI-Based Urban Flood Simulation",
+  "domain": "10",
+  "description": "Use AI to simulate flood events and optimize urban layouts and drainage systems for resilience.",
+  "keywords": ["Urban Planning", "AI", "Flood Management", "Sustainability"]
+},
+{
+  "id": 993,
+  "title": "Eco-Integrated Transportation Hubs",
+  "domain": "10",
+  "description": "Design transportation hubs that integrate solar energy, green spaces, and rainwater harvesting for sustainability.",
+  "keywords": ["Transportation", "Green Building", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 994,
+  "title": "AI-Monitored Coastal Vegetation Restoration",
+  "domain": "10",
+  "description": "Use AI and drones to monitor and manage coastal vegetation growth for erosion prevention and biodiversity.",
+  "keywords": ["Coastal Engineering", "AI", "Environmental Engineering", "Sustainability"]
+},
+{
+  "id": 995,
+  "title": "Energy-Generating Bicycle Lanes",
+  "domain": "10",
+  "description": "Create bike lanes embedded with piezoelectric materials that convert cycling energy into electricity.",
+  "keywords": ["Transportation", "Energy Harvesting", "Urban Planning", "Sustainability"]
+},
+{
+  "id": 996,
+  "title": "Smart Flood Prediction for Urban Rivers",
+  "domain": "10",
+  "description": "Develop AI-powered systems to predict river flooding in real-time and guide evacuation and water management strategies.",
+  "keywords": ["Water Resources", "Urban Planning", "AI", "Flood Management"]
+},
+{
+  "id": 997,
+  "title": "Modular Eco-Parks on Rooftops",
+  "domain": "10",
+  "description": "Design modular parks for building rooftops that improve air quality, reduce heat, and support urban biodiversity.",
+  "keywords": ["Urban Planning", "Green Building", "Sustainability", "Climate Change"]
+},
+{
+  "id": 998,
+  "title": "Smart Stormwater Diversion Channels",
+  "domain": "10",
+  "description": "Develop channels with sensors and AI to redirect excess rainwater efficiently during heavy rainfall events.",
+  "keywords": ["Water Resources", "Urban Planning", "AI", "Flood Management"]
+},
+{
+  "id": 999,
+  "title": "Self-Adaptive Earthquake-Resistant Buildings",
+  "domain": "10",
+  "description": "Design building structures that adjust stiffness and damping dynamically during seismic events for safety.",
+  "keywords": ["Structural Engineering", "Earthquake Resistance", "Automation", "Civil Engineering"]
+},
+{
+  "id": 1000,
+  "title": "Bio-Integrated Urban Road Networks",
+  "domain": "10",
+  "description": "Design urban roads integrated with vegetation and natural filtration systems to manage runoff and improve aesthetics.",
+  "keywords": ["Transportation", "Urban Planning", "Environmental Engineering", "Sustainability"]
+}
+
 // AEROSPACE & AVIATION (Domain 21)
 {
             "id": 2101,
