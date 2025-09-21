@@ -1297,70 +1297,6 @@ const PROBLEMS_DATA = {
     "description": "Implement a system that classifies detected bugs based on severity, potential impact, and urgency of resolution.",
     "keywords": ["Bug Tracking", "Debugging", "AI Classification", "Software Quality"]
 },
-{
-    "id": 92,
-    "title": "AI Code Review Assistant",
-    "domain": "1",
-    "description": "Build an AI system that reviews submitted code, identifies bad practices, and provides suggestions for improvement.",
-    "keywords": ["Code Review", "AI Mentor", "Programming Best Practices"]
-},
-{
-    "id": 93,
-    "title": "Code Similarity Analyzer",
-    "domain": "1",
-    "description": "Develop a system to detect structural and functional similarities between two codebases for plagiarism and refactoring insights.",
-    "keywords": ["Code Comparison", "Plagiarism Detection", "Refactoring"]
-},
-{
-    "id": 94,
-    "title": "Deadlock Resolution System",
-    "domain": "1",
-    "description": "Create a runtime analyzer that identifies potential deadlocks in concurrent code and suggests resolution strategies.",
-    "keywords": ["Concurrency", "Deadlock", "Multithreading", "Debugging"]
-},
-{
-    "id": 95,
-    "title": "Automated Test Case Generator",
-    "domain": "1",
-    "description": "Design a system that automatically generates unit test cases by analyzing function signatures and program logic.",
-    "keywords": ["Testing", "Automation", "Unit Tests", "Quality Assurance"]
-},
-{
-    "id": 96,
-    "title": "Code Obfuscator and De-Obfuscator",
-    "domain": "1",
-    "description": "Build a system that can obfuscate code for security purposes and de-obfuscate it for debugging or learning.",
-    "keywords": ["Obfuscation", "De-Obfuscation", "Security", "Code Protection"]
-},
-{
-    "id": 97,
-    "title": "Memory Leak Finder",
-    "domain": "1",
-    "description": "Develop an intelligent analyzer that detects memory leaks in code and suggests optimal fixes.",
-    "keywords": ["Memory Management", "Debugging", "Performance"]
-},
-{
-    "id": 98,
-    "title": "Cross-Language Code Translator",
-    "domain": "1",
-    "description": "Design a translation engine that converts code written in one language to another while preserving logic and efficiency.",
-    "keywords": ["Code Translation", "Multi-Language", "Cross-Platform Development"]
-},
-{
-    "id": 99,
-    "title": "Algorithm Visualizer",
-    "domain": "1",
-    "description": "Create a visualization tool that shows step-by-step execution of algorithms to aid learning and debugging.",
-    "keywords": ["Algorithms", "Visualization", "Education", "Debugging"]
-},
-{
-    "id": 100,
-    "title": "Self-Healing Code System",
-    "domain": "1",
-    "description": "Implement a system where code can detect its own errors during runtime and automatically apply predefined fixes.",
-    "keywords": ["Self-Healing Systems", "Automation", "AI Debugging", "Resilient Code"]
-},
-
 // MATHEMATICS (Domain 2) - 80+ problems
 {
             "id": 101,
@@ -1964,105 +1900,6 @@ const PROBLEMS_DATA = {
             "description": "Develop a suite that attempts to solve or approximate integer solutions for Diophantine equations with visual explanations.",
             "keywords": ["Number Theory", "Diophantine Equations", "Algebra", "Mathematical Problem Solving"]
         },
-        {
-            "id": 187,
-            "title": "Causal Inference Statistics Lab",
-            "domain": "2",
-            "description": "Build a platform that teaches causal inference through statistics, counterfactual reasoning, and graph-based models.",
-            "keywords": ["Statistics", "Causality", "Inference", "Data Analysis"]
-        },
-        {
-            "id": 188,
-            "title": "Probability in Infinite Games",
-            "domain": "2",
-            "description": "Design a simulator that explores infinite games with probability-driven outcomes and paradoxical win/lose conditions.",
-            "keywords": ["Probability", "Game Theory", "Infinity", "Mathematical Exploration"]
-        },
-        {
-            "id": 189,
-            "title": "Quantum Linear Algebra Lab",
-            "domain": "2",
-            "description": "Create an educational tool that shows how linear algebra underpins quantum mechanics, focusing on operators and eigenstates.",
-            "keywords": ["Linear Algebra", "Quantum Mathematics", "Eigenstates", "Physics"]
-        },
-        {
-            "id": 190,
-            "title": "Proof Complexity Analyzer",
-            "domain": "2",
-            "description": "Develop a system that measures and compares the complexity of different proofs of the same theorem, ranking them by elegance.",
-            "keywords": ["Logic", "Proof Complexity", "Mathematical Reasoning", "Education"]
-        },
-        {
-    "id": 191,
-    "title": "Adaptive Algebra Problem Sculptor",
-    "domain": "2",
-    "description": "Design a system that sculpts personalized algebra problems in real-time, adapting to the learner’s mistakes and progressively building mastery.",
-    "keywords": ["Algebra", "Education", "Adaptive Learning", "Problem Generation"]
-},
-{
-    "id": 192,
-    "title": "Calculus in Motion",
-    "domain": "2",
-    "description": "Build a real-time motion simulator where users can manipulate velocity and acceleration functions to see calculus concepts like derivatives and integrals unfold dynamically.",
-    "keywords": ["Calculus", "Simulation", "Visualization", "Physics"]
-},
-{
-    "id": 193,
-    "title": "Discrete Math Puzzle Universe",
-    "domain": "2",
-    "description": "Create a gamified universe of logic and graph-based puzzles that scale in complexity, illustrating core discrete mathematics principles through challenges.",
-    "keywords": ["Discrete Math", "Logic", "Puzzles", "Gamification"]
-},
-{
-    "id": 194,
-    "title": "Number Theory Harmony Visualizer",
-    "domain": "2",
-    "description": "Develop a visual system that transforms number theory relationships (divisibility, modular congruence) into harmonic patterns of music and art.",
-    "keywords": ["Number Theory", "Visualization", "Art", "Patterns"]
-},
-{
-    "id": 195,
-    "title": "Statistical Simulation Sandbox",
-    "domain": "2",
-    "description": "Build a sandbox where students design experiments, collect synthetic data, and observe how statistical laws like the Central Limit Theorem emerge naturally.",
-    "keywords": ["Statistics", "Simulation", "Education", "Data Analysis"]
-},
-{
-    "id": 196,
-    "title": "Probability Universe Explorer",
-    "domain": "2",
-    "description": "Design an exploratory engine where users tweak random variables to see how probability distributions evolve across multiple interacting systems.",
-    "keywords": ["Probability", "Random Variables", "Distributions", "Visualization"]
-},
-{
-    "id": 197,
-    "title": "AI Linear Algebra Mentor",
-    "domain": "2",
-    "description": "Create an intelligent mentor that not only solves linear algebra problems but generates geometric analogies and 3D visual explanations for concepts like eigenvectors.",
-    "keywords": ["Linear Algebra", "AI Tutor", "Visualization", "Education"]
-},
-{
-    "id": 198,
-    "title": "Differential Equation Chaos Explorer",
-    "domain": "2",
-    "description": "Develop a system to simulate chaotic behaviors in differential equations, letting users explore attractors, bifurcations, and sensitivity to initial conditions.",
-    "keywords": ["Differential Equations", "Chaos", "Simulation", "Modeling"]
-},
-{
-    "id": 199,
-    "title": "Optimization in the Wild",
-    "domain": "2",
-    "description": "Create a problem-solving lab where users apply optimization techniques to real-world inspired challenges like traffic flow, diet planning, and resource allocation.",
-    "keywords": ["Optimization", "Applied Mathematics", "Problem Solving", "Education"]
-},
-{
-    "id": 200,
-    "title": "Computational Math Thought Experiment Generator",
-    "domain": "2",
-    "description": "Design a system that automatically generates computationally intensive thought experiments blending mathematics, logic, and algorithmic puzzles for exploration.",
-    "keywords": ["Computational Mathematics", "Logic", "Algorithms", "Problem Generation"]
-},
-
 // PHYSICS (Domain 3) - 70+ problems
 {
             "id": 201,
@@ -2701,70 +2538,6 @@ const PROBLEMS_DATA = {
     "description": "Design a virtual lab that models tunneling phenomena in particles and electrons, visualizing probability distributions and energy barrier interactions.",
     "keywords": ["Physics", "Quantum Mechanics", "Simulation", "Education", "Experimentation"]
 },
-{
-    "id": 292,
-    "title": "Astro-Magnetic Field Explorer",
-    "domain": "3",
-    "description": "Develop a tool to simulate magnetic field interactions in stars, planets, and galaxies, studying effects on charged particles and plasma behavior.",
-    "keywords": ["Physics", "Astrophysics", "Magnetism", "Simulation", "Visualization"]
-},
-{
-    "id": 293,
-    "title": "AI-Powered Quantum Control Simulator",
-    "domain": "3",
-    "description": "Create a platform that uses AI to optimize control sequences in quantum systems, enhancing stability, entanglement, and computational accuracy.",
-    "keywords": ["Physics", "Quantum Mechanics", "AI", "Simulation", "Research"]
-},
-{
-    "id": 294,
-    "title": "Extreme Weather Physics Simulator",
-    "domain": "3",
-    "description": "Design a system to model tornadoes, hurricanes, and lightning, visualizing airflow, pressure dynamics, and thermodynamic interactions for educational use.",
-    "keywords": ["Physics", "Environmental Science", "Simulation", "Weather", "Visualization"]
-},
-{
-    "id": 295,
-    "title": "Optomechanical Quantum System Explorer",
-    "domain": "3",
-    "description": "Develop a simulator for optomechanical systems, studying interactions between light and mechanical oscillators at quantum scales.",
-    "keywords": ["Physics", "Quantum Mechanics", "Optomechanics", "Simulation", "Research"]
-},
-{
-    "id": 296,
-    "title": "Intergalactic Gas Flow Simulator",
-    "domain": "3",
-    "description": "Build a tool to visualize gas dynamics between galaxies, including shock waves, turbulence, and gravitational interactions on cosmic scales.",
-    "keywords": ["Physics", "Astrophysics", "Fluid Dynamics", "Simulation", "Visualization"]
-},
-{
-    "id": 297,
-    "title": "Quantum Phase Transition Explorer",
-    "domain": "3",
-    "description": "Create a platform to study quantum phase transitions, critical points, and order parameters in condensed matter systems with interactive visualizations.",
-    "keywords": ["Physics", "Quantum Mechanics", "Condensed Matter", "Simulation", "Visualization"]
-},
-{
-    "id": 298,
-    "title": "AI-Guided Space Propulsion Designer",
-    "domain": "3",
-    "description": "Design a system that uses AI to optimize advanced propulsion methods, such as ion drives or plasma thrusters, simulating thrust, energy consumption, and efficiency.",
-    "keywords": ["Physics", "Space", "AI", "Propulsion", "Simulation"]
-},
-{
-    "id": 299,
-    "title": "Multi-Dimensional Quantum Simulation",
-    "domain": "3",
-    "description": "Develop a simulator that models multi-dimensional quantum systems, visualizing entanglement, superposition, and energy evolution in higher-dimensional spaces.",
-    "keywords": ["Physics", "Quantum Mechanics", "Simulation", "Education", "Research"]
-},
-{
-    "id": 300,
-    "title": "Cosmic Ray Interaction Explorer",
-    "domain": "3",
-    "description": "Create a tool to simulate cosmic ray interactions with Earth's atmosphere and spacecraft, studying particle showers, radiation effects, and energy distribution.",
-    "keywords": ["Physics", "Astrophysics", "Cosmic Rays", "Simulation", "Research"]
-},
-
 // CHEMISTRY (Domain 4) - 60+ problems
 {
     "id": 301,
@@ -3368,105 +3141,6 @@ const PROBLEMS_DATA = {
     "description": "Predict chemical stability and spoilage rates of food under various storage conditions, using molecular data and AI models.",
     "keywords": ["Food Chemistry", "AI", "Preservation", "Simulation"]
 },
-{
-    "id": 387,
-    "title": "Smart Polymer Recycling Optimizer",
-    "domain": "4",
-    "description": "Predict optimal recycling pathways for polymers, including depolymerization, energy efficiency, and environmental impact using AI.",
-    "keywords": ["Polymer Chemistry", "Recycling", "AI", "Environmental Sustainability"]
-},
-{
-    "id": 388,
-    "title": "Interactive Acid-Base Titration Simulator",
-    "domain": "4",
-    "description": "Simulate titrations with real-time pH curves, buffer effects, and equivalence point detection for educational purposes.",
-    "keywords": ["Titration", "Simulation", "Analytical Chemistry", "Education"]
-},
-{
-    "id": 389,
-    "title": "AI-Powered Reaction Energy Predictor",
-    "domain": "4",
-    "description": "Predict energy changes and feasibility of chemical reactions using AI models trained on thermodynamic data.",
-    "keywords": ["Physical Chemistry", "AI", "Reaction Energy", "Prediction"]
-},
-{
-    "id": 390,
-    "title": "Smart Biopolymer Degradation Simulator",
-    "domain": "4",
-    "description": "Simulate the degradation of natural and synthetic biopolymers under different environmental conditions, predicting rate and byproducts.",
-    "keywords": ["Biopolymers", "Degradation", "Simulation", "Environmental Chemistry"]
-},
-{
-    "id": 391,
-    "title": "AI-Based Catalytic Reaction Pathway Optimizer",
-    "domain": "4",
-    "description": "Predict optimal reaction pathways and catalyst selection for multi-step reactions to maximize yield and minimize by-products using AI.",
-    "keywords": ["Catalysis", "AI", "Reaction Optimization", "Computational Chemistry"]
-},
-{
-    "id": 392,
-    "title": "Interactive Nanozyme Activity Visualizer",
-    "domain": "4",
-    "description": "Visualize and predict enzyme-like activity of nanomaterials under different substrate and environmental conditions.",
-    "keywords": ["Nanochemistry", "Biochemistry", "Simulation", "Visualization"]
-},
-{
-    "id": 393,
-    "title": "Smart Pharmaceutical Formulation Predictor",
-    "domain": "4",
-    "description": "Predict chemical compatibility, stability, and efficacy of multi-component drug formulations using AI.",
-    "keywords": ["Pharmaceutical Chemistry", "AI", "Formulation", "Prediction"]
-},
-{
-    "id": 394,
-    "title": "AI-Powered Water Contaminant Analyzer",
-    "domain": "4",
-    "description": "Detect and predict behavior of chemical contaminants in water systems, including degradation pathways and environmental impact using AI.",
-    "keywords": ["Environmental Chemistry", "AI", "Water Analysis", "Contaminants"]
-},
-{
-    "id": 395,
-    "title": "Interactive Molecular Orbital Energy Simulator",
-    "domain": "4",
-    "description": "Simulate and visualize molecular orbital energy levels and electron density distribution for molecules in 3D.",
-    "keywords": ["Quantum Chemistry", "Simulation", "Molecular Orbitals", "Education"]
-},
-{
-    "id": 396,
-    "title": "Smart Agrochemical Stability Predictor",
-    "domain": "4",
-    "description": "Predict chemical stability and degradation of pesticides and fertilizers under different environmental conditions using AI.",
-    "keywords": ["Agricultural Chemistry", "AI", "Stability", "Prediction"]
-},
-{
-    "id": 397,
-    "title": "AI-Powered Photovoltaic Efficiency Analyzer",
-    "domain": "4",
-    "description": "Predict solar cell material efficiency, stability, and light absorption properties using AI models.",
-    "keywords": ["Materials Chemistry", "AI", "Photovoltaics", "Energy"]
-},
-{
-    "id": 398,
-    "title": "Interactive Protein Folding Simulator",
-    "domain": "4",
-    "description": "Visualize protein folding dynamics and predict misfolding events interactively to study stability and function.",
-    "keywords": ["Protein Chemistry", "Simulation", "Folding Dynamics", "Biochemistry"]
-},
-{
-    "id": 399,
-    "title": "Smart Atmospheric Pollutant Reaction Predictor",
-    "domain": "4",
-    "description": "Predict chemical reactions of atmospheric pollutants and their impact on climate and air quality using AI.",
-    "keywords": ["Atmospheric Chemistry", "AI", "Pollutants", "Simulation"]
-},
-{
-    "id": 400,
-    "title": "AI-Based Biodegradable Plastic Design Tool",
-    "domain": "4",
-    "description": "Design biodegradable plastics with predicted mechanical and degradation properties using AI models trained on polymer structures.",
-    "keywords": ["Polymer Chemistry", "Biodegradable Plastics", "AI", "Environmental Chemistry"]
-},
-
 // BIOLOGY & LIFE SCIENCES (Domain 5) - 90+ problems
 {
             "id": 401,
@@ -4063,112 +3737,6 @@ const PROBLEMS_DATA = {
         "description": "Design a system that artificially generates and controls emotional states in biological systems for therapeutic applications.",
         "keywords": ["Emotion Synthesis", "Artificial Emotions", "Therapeutic Applications", "Emotional Control"]
     },
-    {
-        "id": 486,
-        "title": "Cellular Game Engine Developer",
-        "domain": "5",
-        "description": "Build a platform that uses cellular processes to create living games where cells act as players, pieces, and game mechanics.",
-        "keywords": ["Cellular Games", "Living Game Mechanics", "Bio-gaming", "Interactive Biology"]
-    },
-    {
-        "id": 487,
-        "title": "Bio-Rhythmic Energy Harvester",
-        "domain": "5",
-        "description": "Create a system that captures energy from natural biological rhythms and converts it into usable power for micro-devices.",
-        "keywords": ["Bio-energy Harvesting", "Rhythmic Energy", "Micro-power", "Biological Batteries"]
-    },
-    {
-        "id": 488,
-        "title": "Living Jewelry Designer Platform",
-        "domain": "5",
-        "description": "Develop a system that creates living, responsive jewelry using engineered organisms that react to the wearer's biological state.",
-        "keywords": ["Living Jewelry", "Responsive Materials", "Bio-fashion", "Wearable Biology"]
-    },
-    {
-        "id": 489,
-        "title": "Cellular Voting System Organizer",
-        "domain": "5",
-        "description": "Build a platform that organizes democratic decision-making processes using cellular communities with transparent voting mechanisms.",
-        "keywords": ["Cellular Democracy", "Bio-voting", "Collective Decisions", "Democratic Biology"]
-    },
-    {
-        "id": 490,
-        "title": "Biological Twin Digital Creator",
-        "domain": "5",
-        "description": "Create a system that generates perfect digital twins of biological organisms with real-time synchronization and predictive capabilities.",
-        "keywords": ["Digital Twins", "Bio-digital Sync", "Predictive Biology", "Virtual Organisms"]
-    },
-    {
-        "id": 491,
-        "title": "Ecosystem Personality Profiler",
-        "domain": "5",
-        "description": "Design tools that identify and analyze personality-like characteristics in entire ecosystems and predict behavioral patterns.",
-        "keywords": ["Ecosystem Personality", "Environmental Behavior", "Ecological Psychology", "System Characteristics"]
-    },
-    {
-        "id": 492,
-        "title": "Bio-Holographic Storage System",
-        "domain": "5",
-        "description": "Build a platform that stores information in three-dimensional biological holograms with massive storage density and error correction.",
-        "keywords": ["Holographic Storage", "3D Bio-storage", "Information Density", "Bio-holograms"]
-    },
-    {
-        "id": 493,
-        "title": "Living Art Gallery Curator",
-        "domain": "5",
-        "description": "Create a system that grows and maintains living artworks that evolve over time, creating dynamic biological art exhibitions.",
-        "keywords": ["Living Art", "Bio-art Curation", "Evolving Artworks", "Dynamic Exhibitions"]
-    },
-    {
-        "id": 494,
-        "title": "Cellular Orchestra Conductor",
-        "domain": "5",
-        "description": "Develop a platform that conducts symphonies of cellular activities, creating coordinated biological performances with precise timing.",
-        "keywords": ["Cellular Symphony", "Bio-orchestration", "Coordinated Biology", "Biological Performance"]
-    },
-    {
-        "id": 495,
-        "title": "Bio-Fractal Architecture Designer",
-        "domain": "5",
-        "description": "Build a system that designs self-similar biological structures with fractal properties for enhanced functionality and aesthetics.",
-        "keywords": ["Bio-fractals", "Self-similar Structures", "Fractal Biology", "Recursive Architecture"]
-    },
-    {
-        "id": 496,
-        "title": "Living Telescope Array Builder",
-        "domain": "5",
-        "description": "Create a platform that grows and maintains biological telescope arrays using light-sensitive organisms for enhanced astronomical observation.",
-        "keywords": ["Bio-telescopes", "Living Optics", "Astronomical Biology", "Organic Sensors"]
-    },
-    {
-        "id": 497,
-        "title": "Biological Time Zone Synchronizer",
-        "domain": "5",
-        "description": "Design a system that synchronizes biological clocks across different time zones and species for coordinated global biological activities.",
-        "keywords": ["Time Synchronization", "Global Bio-clocks", "Coordinated Biology", "Temporal Networks"]
-    },
-    {
-        "id": 498,
-        "title": "Cellular Language Translator",
-        "domain": "5",
-        "description": "Build an AI system that translates between different cellular communication languages and facilitates inter-cellular dialogue.",
-        "keywords": ["Cellular Languages", "Bio-translation", "Inter-cellular Communication", "Molecular Linguistics"]
-    },
-    {
-        "id": 499,
-        "title": "Living Maze Generator",
-        "domain": "5",
-        "description": "Create a platform that grows dynamic, self-reconfiguring biological mazes that adapt and change their structure over time.",
-        "keywords": ["Living Mazes", "Dynamic Structures", "Adaptive Architecture", "Bio-puzzles"]
-    },
-    {
-        "id": 500,
-        "title": "Biological Happiness Optimizer",
-        "domain": "5",
-        "description": "Develop a system that measures and optimizes happiness levels in biological systems using natural well-being indicators.",
-        "keywords": ["Biological Happiness", "Well-being Optimization", "Natural Indicators", "Bio-wellness"]
-    },
-
 // DATA SCIENCE & ML (Domain 6) - 120+ problems
 {
             "id": 501,
@@ -4849,27 +4417,6 @@ const PROBLEMS_DATA = {
 "description": "Develop an AI system that engineers custom molecular chaperones for assisting specific protein folding processes.",
 "keywords": ["Molecular Chaperones", "Protein Folding Assistance", "Chaperone Engineering", "Folding Optimization"]
 },
-{
-"id": 598,
-"title": "Cellular Decision Tree Mapper",
-"domain": "6",
-"description": "Create a machine learning framework that maps cellular decision-making processes during development and stress responses.",
-"keywords": ["Cellular Decision Making", "Developmental Decisions", "Stress Response", "Decision Mapping"]
-},
-{
-"id": 599,
-"title": "Biofilm Architecture Controller",
-"domain": "6",
-"description": "Build an AI system that controls biofilm architectural development for optimized industrial biotechnology applications.",
-"keywords": ["Biofilm Architecture", "Industrial Biotechnology", "Structural Control", "Microbial Engineering"]
-},
-{
-"id": 600,
-"title": "Cellular Information Storage Maximizer",
-"domain": "6",
-"description": "Design a machine learning platform that maximizes information storage capacity in biological systems using DNA, RNA, and protein modifications.",
-"keywords": ["Information Storage", "DNA Computing", "Biological Data Storage", "Storage Maximization"]
-},
 // Electronics (Domain 7)
 {
             "id": 601,
@@ -5494,84 +5041,6 @@ const PROBLEMS_DATA = {
 "description": "Create reconfigurable circuits using liquid metal conductors for adaptive electronics and self-healing systems.",
 "keywords": ["Liquid Metal Circuits", "Reconfigurable Electronics", "Adaptive Systems", "Self-Healing Circuits"]
 },
-{
-"id": 690,
-"title": "Ferrofluid Display Controller",
-"domain": "7",
-"description": "Design magnetic field control systems for ferrofluid displays that create dynamic 3D visualizations and interactive art installations.",
-"keywords": ["Ferrofluid Displays", "Magnetic Control", "3D Visualization", "Interactive Art"]
-},
-{
-"id": 691,
-"title": "Electrochemical Neural Stimulator",
-"domain": "7",
-"description": "Create electrochemical neural stimulation devices that deliver precise ionic currents for treating neurological disorders.",
-"keywords": ["Electrochemical Stimulation", "Neural Therapy", "Ionic Currents", "Neurological Treatment"]
-},
-{
-"id": 692,
-"title": "Photonic Time Crystal Generator",
-"domain": "7",
-"description": "Build photonic time crystal systems that exhibit temporal periodicity for novel optical computing and signal processing.",
-"keywords": ["Photonic Time Crystals", "Temporal Periodicity", "Optical Computing", "Novel Photonics"]
-},
-{
-"id": 693,
-"title": "Electrostatically Levitated Sensor",
-"domain": "7",
-"description": "Develop electrostatically levitated sensors for ultra-sensitive force detection and gravitational wave measurement.",
-"keywords": ["Electrostatic Levitation", "Ultra-Sensitive Detection", "Force Measurement", "Gravitational Sensors"]
-},
-{
-"id": 694,
-"title": "Biomagnetic Field Detector",
-"domain": "7",
-"description": "Design ultra-sensitive detectors for biomagnetic fields generated by neural activity and cardiac function.",
-"keywords": ["Biomagnetic Detection", "Neural Activity", "Cardiac Monitoring", "Ultra-Sensitive Magnetometry"]
-},
-{
-"id": 695,
-"title": "Electrochemical Transistor Matrix",
-"domain": "7",
-"description": "Create matrices of electrochemical transistors for brain-like computing using ionic signal processing.",
-"keywords": ["Electrochemical Transistors", "Ionic Computing", "Brain-Like Processing", "Neuromorphic Arrays"]
-},
-{
-"id": 696,
-"title": "Plasma-Enhanced CVD Controller",
-"domain": "7",
-"description": "Build advanced control systems for plasma-enhanced chemical vapor deposition of novel 2D materials and heterostructures.",
-"keywords": ["Plasma-Enhanced CVD", "2D Materials", "Heterostructures", "Advanced Manufacturing"]
-},
-{
-"id": 697,
-"title": "Electrohydrodynamic Printer",
-"domain": "7",
-"description": "Develop electrohydrodynamic printing systems for sub-micron feature fabrication in flexible electronics.",
-"keywords": ["Electrohydrodynamic Printing", "Sub-Micron Features", "Flexible Manufacturing", "Precision Printing"]
-},
-{
-"id": 698,
-"title": "Magnetic Domain Memory Designer",
-"domain": "7",
-"description": "Design memory devices using magnetic domain configurations for ultra-high density data storage applications.",
-"keywords": ["Magnetic Domain Memory", "Ultra-High Density", "Domain Configuration", "Advanced Storage"]
-},
-{
-"id": 699,
-"title": "Electrochemical Impedance Analyzer",
-"domain": "7",
-"description": "Create real-time electrochemical impedance analyzers for battery health monitoring and corrosion detection.",
-"keywords": ["Electrochemical Impedance", "Battery Health", "Corrosion Detection", "Real-Time Analysis"]
-},
-{
-"id": 700,
-"title": "Quantum Dot Solar Concentrator",
-"domain": "7",
-"description": "Build quantum dot-based luminescent solar concentrators for enhanced photovoltaic efficiency and building integration.",
-"keywords": ["Quantum Dot Concentrators", "Luminescent Solar", "Enhanced Efficiency", "Building Integration"]
-},
-
 // Robotics (Domain 8)
 {
             "id": 701,
@@ -6238,44 +5707,8 @@ const PROBLEMS_DATA = {
 "description": "Design exploration robots using tensegrity structures for resilience, shock absorption, and adaptive mobility.",
 "keywords": ["Tensegrity Robots", "Exploration Systems", "Adaptive Mobility", "Shock Absorption"]
 },
-{
-"id": 796,
-"title": "Photon Pressure Sail Robot",
-"domain": "8",
-"description": "Build robots propelled by photon pressure sails for deep-space autonomous exploration without fuel dependency.",
-"keywords": ["Photon Sails", "Fuel-Free Propulsion", "Deep Space Robotics", "Light Pressure"]
-},
-{
-"id": 797,
-"title": "Programmable Gel Robotics",
-"domain": "8",
-"description": "Create robots composed of programmable gels that can dynamically change stiffness, transparency, and shape.",
-"keywords": ["Programmable Gels", "Adaptive Robotics", "Soft Matter", "Dynamic Properties"]
-},
-{
-"id": 798,
-"title": "Neural Dust Bio-Robot Interface",
-"domain": "8",
-"description": "Develop bio-robotic systems using neural dust sensors for wireless neural recording and actuation.",
-"keywords": ["Neural Dust", "Brain-Robot Interface", "Bioelectronics", "Wireless Neural Control"]
-},
-{
-"id": 799,
-"title": "Atmospheric Ion Thruster Robot",
-"domain": "8",
-"description": "Design flying robots that use atmospheric ion thrusters for silent, propeller-free aerial mobility.",
-"keywords": ["Ion Thrusters", "Silent Flight", "Aerial Robotics", "Propeller-Free Mobility"]
-},
-{
-"id": 800,
-"title": "Quantum Foam Explorer Robot",
-"domain": "8",
-"description": "Develop conceptual robotic probes capable of interacting with quantum foam fluctuations at the Planck scale to study spacetime fabric directly.",
-"keywords": ["Quantum Foam", "Spacetime Exploration", "Planck Scale", "Fundamental Physics Robotics"]
-},
 // MECHANICAL & DESIGN
-    
-    {
+{
         "id": 801,
         "title": "Self-Healing CAD Models",
         "domain": "9",
@@ -6814,170 +6247,8 @@ const PROBLEMS_DATA = {
   "description": "Develop underwater drones that utilize cavitation bubble control for efficient high-speed propulsion with minimal energy loss.",
   "keywords": ["Underwater Robotics", "Cavitation", "Propulsion Systems", "Fluid Mechanics"]
 },
-{
-  "id": 878,
-  "title": "Smart Cooling Garments for Extreme Environments",
-  "domain": "9",
-  "description": "Design mechanically regulated wearable cooling garments using phase-change materials for workers in deserts and foundries.",
-  "keywords": ["Wearable Design", "Thermodynamics", "Phase-Change Materials", "Product Development"]
-},
-{
-  "id": 879,
-  "title": "Programmable Pneumatic Actuators",
-  "domain": "9",
-  "description": "Develop actuators with programmable pressure chambers to mimic natural muscle movement for robotics and prosthetics.",
-  "keywords": ["Pneumatics", "Actuators", "Prosthetics", "Robotics"]
-},
-{
-  "id": 880,
-  "title": "High-Efficiency Solar Thermal Collectors",
-  "domain": "9",
-  "description": "Design novel thermal collectors that use nanostructured surfaces to absorb and transfer solar heat with maximum efficiency.",
-  "keywords": ["Solar Thermal", "Nanostructures", "Heat Transfer", "Sustainable Energy"]
-},
-{
-  "id": 881,
-  "title": "Dynamic Vibration Damping Beams",
-  "domain": "9",
-  "description": "Create beams that self-tune their internal damping properties to cancel vibrations dynamically in mechanical systems.",
-  "keywords": ["Vibration Control", "Structural Dynamics", "Adaptive Materials", "Mechanical Design"]
-},
-{
-  "id": 882,
-  "title": "3D Printed Bone-Mimetic Scaffolds",
-  "domain": "9",
-  "description": "Develop 3D printed scaffolds with bone-like porosity and mechanics for supporting tissue regeneration in medical applications.",
-  "keywords": ["3D Printing", "Biomedical Engineering", "Materials Design", "Bone Scaffolds"]
-},
-{
-  "id": 883,
-  "title": "Autonomous Pipeline Inspection Robots",
-  "domain": "9",
-  "description": "Design robots capable of navigating long oil and gas pipelines autonomously for real-time inspection and damage detection.",
-  "keywords": ["Robotics", "Pipeline Inspection", "Automation", "Mechanical Systems"]
-},
-{
-  "id": 884,
-  "title": "Acoustic-Driven Micro-Manipulators",
-  "domain": "9",
-  "description": "Build manipulators that use standing acoustic waves to control and assemble microscopic components without physical contact.",
-  "keywords": ["Acoustics", "Micro-Manipulation", "Automation", "Mechanical Design"]
-},
-{
-  "id": 885,
-  "title": "Energy-Storing Flywheel Vehicles",
-  "domain": "9",
-  "description": "Develop vehicles that use advanced flywheel systems for energy storage and rapid deployment for short-distance transport.",
-  "keywords": ["Flywheels", "Energy Storage", "Vehicles", "Sustainable Transport"]
-},
-{
-  "id": 886,
-  "title": "AI-Guided Mechanical Stress Prediction",
-  "domain": "9",
-  "description": "Create AI-integrated mechanical testing setups that predict failure points and redesign structures for longer lifespans.",
-  "keywords": ["AI", "Mechanical Stress", "Failure Prediction", "Quality Control"]
-},
-{
-  "id": 887,
-  "title": "Fluid-Driven Soft Robotic Hands",
-  "domain": "9",
-  "description": "Develop soft robotic grippers powered by fluidic circuits that can adaptively grasp fragile or irregular objects.",
-  "keywords": ["Soft Robotics", "Fluid Mechanics", "Grippers", "Automation"]
-},
-{
-  "id": 888,
-  "title": "Magnetically Actuated Micro-Pumps",
-  "domain": "9",
-  "description": "Design micro-scale pumps actuated by magnetic fields for drug delivery and cooling of microelectronics.",
-  "keywords": ["Micro-Pumps", "Magnetic Actuation", "Biomedical Devices", "Thermal Management"]
-},
-{
-  "id": 889,
-  "title": "Self-Tightening Aerospace Fasteners",
-  "domain": "9",
-  "description": "Create fasteners that automatically adjust torque based on vibration and thermal expansion for spacecraft structures.",
-  "keywords": ["Fasteners", "Aerospace Design", "Self-Adjusting Systems", "Mechanical Engineering"]
-},
-{
-  "id": 890,
-  "title": "Harvesting Energy from Vehicle Suspensions",
-  "domain": "9",
-  "description": "Develop suspension systems that convert mechanical vibrations from vehicles into usable electrical energy.",
-  "keywords": ["Suspension Systems", "Energy Harvesting", "Vehicles", "Mechanical Design"]
-},
-{
-  "id": 891,
-  "title": "Wind-Powered Desalination Devices",
-  "domain": "9",
-  "description": "Design small-scale wind-powered mechanical systems for freshwater generation via pressure-driven desalination.",
-  "keywords": ["Desalination", "Wind Power", "Mechanical Systems", "Sustainability"]
-},
-{
-  "id": 892,
-  "title": "Self-Deploying Bridge Structures",
-  "domain": "9",
-  "description": "Develop modular mechanical bridges that autonomously unfold and lock into place for disaster recovery or military use.",
-  "keywords": ["Bridge Design", "Automation", "Deployable Structures", "Mechanical Systems"]
-},
-{
-  "id": 893,
-  "title": "Thermoelectric Clothing Generators",
-  "domain": "9",
-  "description": "Design clothing with embedded thermoelectric generators that convert body heat into electricity for wearables.",
-  "keywords": ["Wearables", "Thermoelectric", "Energy Harvesting", "Product Development"]
-},
-{
-  "id": 894,
-  "title": "Smart Aeroelastic Wings",
-  "domain": "9",
-  "description": "Create aircraft wings that adapt their shape to airflow conditions by integrating flexible mechanical structures.",
-  "keywords": ["Aerospace", "Aeroelasticity", "Adaptive Design", "Mechanical Systems"]
-},
-{
-  "id": 895,
-  "title": "Micro-Robotic Swarms for Repair",
-  "domain": "9",
-  "description": "Design swarms of micro-robots capable of repairing large mechanical structures internally with minimal human intervention.",
-  "keywords": ["Swarm Robotics", "Repair Systems", "Automation", "Mechanical Design"]
-},
-{
-  "id": 896,
-  "title": "Fluid-Responsive Valves for Medical Devices",
-  "domain": "9",
-  "description": "Develop self-regulating valves that adjust fluid flow rates dynamically in life-support and dialysis machines.",
-  "keywords": ["Valves", "Medical Devices", "Fluid Mechanics", "Automation"]
-},
-{
-  "id": 897,
-  "title": "Anti-Icing Mechanical Surfaces",
-  "domain": "9",
-  "description": "Design engineered surfaces that mechanically shed ice without chemicals or heating, for aircraft and wind turbines.",
-  "keywords": ["Anti-Icing", "Surface Engineering", "Aerospace", "Mechanical Design"]
-},
-{
-  "id": 898,
-  "title": "Energy-Free Passive Ventilation Systems",
-  "domain": "9",
-  "description": "Develop architectural ventilation systems using purely mechanical airflow design with no active energy input.",
-  "keywords": ["Ventilation", "Sustainability", "Passive Design", "Fluid Mechanics"]
-},
-{
-  "id": 899,
-  "title": "Hybrid 3D Printing with Multi-Material Deposition",
-  "domain": "9",
-  "description": "Create a hybrid 3D printing system that switches between polymers, metals, and ceramics in one continuous build process.",
-  "keywords": ["3D Printing", "Hybrid Manufacturing", "Multi-Materials", "Product Development"]
-},
-{
-  "id": 900,
-  "title": "Self-Balancing Urban Delivery Robots",
-  "domain": "9",
-  "description": "Design compact self-balancing delivery robots that use gyroscopic systems for stability in narrow urban environments.",
-  "keywords": ["Delivery Robots", "Self-Balancing", "Gyroscope", "Mechanical Systems"]
-},
-
 // CIVIL & ENVIRONMENT
-   {
+{
   "id": 901,
   "title": "Self-Healing Concrete Using Bacteria",
   "domain": "10",
@@ -7649,736 +6920,533 @@ const PROBLEMS_DATA = {
   "description": "Develop AI-powered systems to predict river flooding in real-time and guide evacuation and water management strategies.",
   "keywords": ["Water Resources", "Urban Planning", "AI", "Flood Management"]
 },
-{
-  "id": 997,
-  "title": "Modular Eco-Parks on Rooftops",
-  "domain": "10",
-  "description": "Design modular parks for building rooftops that improve air quality, reduce heat, and support urban biodiversity.",
-  "keywords": ["Urban Planning", "Green Building", "Sustainability", "Climate Change"]
-},
-{
-  "id": 998,
-  "title": "Smart Stormwater Diversion Channels",
-  "domain": "10",
-  "description": "Develop channels with sensors and AI to redirect excess rainwater efficiently during heavy rainfall events.",
-  "keywords": ["Water Resources", "Urban Planning", "AI", "Flood Management"]
-},
-{
-  "id": 999,
-  "title": "Self-Adaptive Earthquake-Resistant Buildings",
-  "domain": "10",
-  "description": "Design building structures that adjust stiffness and damping dynamically during seismic events for safety.",
-  "keywords": ["Structural Engineering", "Earthquake Resistance", "Automation", "Civil Engineering"]
-},
-{
-  "id": 1000,
-  "title": "Bio-Integrated Urban Road Networks",
-  "domain": "10",
-  "description": "Design urban roads integrated with vegetation and natural filtration systems to manage runoff and improve aesthetics.",
-  "keywords": ["Transportation", "Urban Planning", "Environmental Engineering", "Sustainability"]
-},
-
 // HEALTH & PUBLIC HEALTH
 {
   "id": 1001,
   "title": "AI-Driven Early Disease Detection Wearable",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a wearable device that uses AI to continuously monitor vital signs and detect early onset of chronic diseases.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1002,
   "title": "Telemedicine VR Consultation Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a VR-based telemedicine system that allows immersive doctor-patient consultations with real-time biometric feedback.",
   "keywords": ["Telemedicine", "Digital Health", "Health IT", "Medical Imaging"]
 },
 {
   "id": 1003,
   "title": "Predictive Epidemic Spread Model Using Social Data",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a predictive system combining epidemiological data and social media trends to forecast outbreaks and guide public health interventions.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1004,
   "title": "Smart Prosthetic Limb with Neural Feedback",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a prosthetic limb that integrates neural sensors to provide users with real-time tactile and motion feedback.",
   "keywords": ["Medical Devices", "Biomedical Engineering", "Health IT", "Digital Health"]
 },
 {
   "id": 1005,
   "title": "AI-Powered Drug Interaction Alert System",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a system that uses AI to analyze patient prescriptions and medical history to alert healthcare providers of potential adverse drug interactions.",
   "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
 },
 {
   "id": 1006,
   "title": "Personalized Mental Health Chatbot",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a chatbot that uses AI and patient behavioral data to provide tailored mental health guidance and coping strategies.",
   "keywords": ["Digital Health", "Health IT", "Public Health", "Healthcare Analytics"]
 },
 {
   "id": 1007,
   "title": "Portable AI Diagnostic Ultrasound",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a compact, AI-assisted ultrasound device for remote areas that can provide instant diagnostics and imaging analysis.",
   "keywords": ["Medical Devices", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1008,
   "title": "Blockchain-Based Patient Data Management",
-  "domain": "10",
+  "domain": "11",
   "description": "Implement a secure blockchain system for storing and sharing patient records across hospitals while maintaining privacy and compliance.",
   "keywords": ["Health IT", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1009,
   "title": "AI-Enhanced Tele-Rehabilitation Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a remote rehabilitation system using AI to monitor patient exercises and provide corrective feedback to optimize recovery.",
   "keywords": ["Telemedicine", "Healthcare Analytics", "Digital Health", "Medical Devices"]
 },
 {
   "id": 1010,
   "title": "Genomic Data Integration for Personalized Medicine",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a platform that integrates genomic data with patient health records to recommend personalized treatments and drug regimens.",
   "keywords": ["Biomedical Engineering", "Healthcare Analytics", "Clinical Research", "Drug Discovery"]
 },
 {
   "id": 1011,
   "title": "Wearable Continuous Glucose Monitor with AI Alerts",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a wearable device that tracks glucose levels continuously and sends AI-based alerts for abnormal readings.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1012,
   "title": "Remote Cardiac Monitoring System",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a telemedicine-enabled cardiac monitoring system for early detection of arrhythmias and heart failure symptoms.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
 {
   "id": 1013,
   "title": "AI-Powered Epidemic Risk Mapping",
-  "domain": "10",
+  "domain": "11",
   "description": "Build a platform that uses AI to map high-risk epidemic zones based on health, mobility, and environmental data.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1014,
   "title": "3D-Printed Biocompatible Implants",
-  "domain": "10",
+  "domain": "11",
   "description": "Create custom 3D-printed implants that are biocompatible and tailored to patient anatomy using imaging data.",
   "keywords": ["Biomedical Engineering", "Medical Devices", "Medical Imaging", "Digital Health"]
 },
 {
   "id": 1015,
   "title": "AI-Based Personalized Drug Dosage System",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a system that calculates personalized drug doses based on patient genetics, metabolism, and health data.",
   "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
 },
 {
   "id": 1016,
   "title": "Telemedicine Platform for Rural Maternal Care",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a telemedicine platform to provide remote prenatal and postnatal care for rural populations.",
   "keywords": ["Telemedicine", "Public Health", "Health IT", "Digital Health"]
 },
 {
   "id": 1017,
   "title": "AI-Assisted Cancer Screening Tool",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that analyzes imaging data to detect early-stage cancers with higher accuracy.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1018,
   "title": "Wearable Mental Health Monitoring System",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a wearable device that tracks mood, sleep, and activity patterns to provide early warning signs of mental health issues.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1019,
   "title": "Smart Hospital Resource Optimization Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Implement a platform that uses AI to optimize allocation of beds, staff, and medical resources in hospitals.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1020,
   "title": "Blockchain-Based Clinical Trial Data Management",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a secure blockchain system for storing and sharing clinical trial data to enhance transparency and reproducibility.",
   "keywords": ["Clinical Research", "Health IT", "Healthcare Analytics", "Digital Health"]
 },
 {
   "id": 1021,
   "title": "AI-Powered Nutritional Recommendation System",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a platform that provides personalized dietary recommendations based on health records and lifestyle data.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
 },
 {
   "id": 1022,
   "title": "Remote Sleep Disorder Diagnostic Tool",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a telemedicine device that monitors sleep patterns and detects sleep disorders remotely.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
 {
   "id": 1023,
   "title": "AI-Assisted Rehabilitation Exoskeleton",
-  "domain": "10",
+  "domain": "11",
   "description": "Create an exoskeleton system that provides AI-guided physical therapy for patients with mobility impairments.",
   "keywords": ["Medical Devices", "Biomedical Engineering", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1024,
   "title": "Predictive Analytics for Hospital Readmissions",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a predictive system that identifies patients at risk of readmission using healthcare data and AI.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1025,
   "title": "AI-Driven Personalized Vaccination Planner",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a system that recommends personalized vaccination schedules based on individual health profiles and epidemiological data.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Health IT"]
 },
 {
   "id": 1026,
   "title": "Smart Inhaler with Usage Analytics",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a connected inhaler device that tracks usage patterns and provides analytics to patients and healthcare providers.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1027,
   "title": "Telepathology for Remote Diagnosis",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a telepathology platform that allows pathologists to examine digital slides remotely for faster diagnoses.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1028,
   "title": "AI-Based Rare Disease Identification System",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI tool that analyzes symptoms and genetic data to identify rare diseases earlier than conventional methods.",
   "keywords": ["Clinical Research", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1029,
   "title": "Wearable Blood Pressure Monitor with Trend Analysis",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a wearable device that monitors blood pressure continuously and uses AI to detect abnormal trends.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1030,
   "title": "AI-Powered Radiology Workflow Optimizer",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a system that uses AI to prioritize and optimize radiology imaging workflows for faster diagnoses.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Health IT", "Digital Health"]
 },
 {
   "id": 1031,
   "title": "Smart Contact Lens for Glucose Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a contact lens that continuously measures glucose levels and transmits the data to a mobile app for real-time monitoring.",
   "keywords": ["Medical Devices", "Digital Health", "Biomedical Engineering", "Healthcare Analytics"]
 },
 {
   "id": 1032,
   "title": "AI-Assisted Stroke Rehabilitation Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a tele-rehabilitation platform that uses AI to monitor stroke patients’ exercises and provide adaptive therapy guidance.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1033,
   "title": "Personalized Telehealth Nutrition Coaching",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a telehealth platform that provides personalized nutrition coaching based on patient health metrics and lifestyle data.",
   "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1034,
   "title": "AI-Based Diagnostic Support for Rare Cancers",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI tool that assists clinicians in diagnosing rare cancers using imaging data and patient history.",
   "keywords": ["Medical Imaging", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1035,
   "title": "Remote Pulmonary Function Monitoring Device",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a portable device that remotely monitors pulmonary function and sends alerts for abnormal respiratory patterns.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Telemedicine"]
 },
 {
   "id": 1036,
   "title": "AI-Enhanced Pandemic Response Simulator",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a simulation platform that uses AI to model pandemic scenarios and guide public health decision-making.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1037,
   "title": "Smart Wearable for Post-Surgical Recovery",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a wearable device that tracks patient vitals and mobility post-surgery, providing recovery insights to clinicians.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1038,
   "title": "Telemedicine Platform for Chronic Disease Management",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine system for continuous monitoring and management of chronic diseases like diabetes and hypertension.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
 },
 {
   "id": 1039,
   "title": "AI-Powered Early Sepsis Detection System",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI-driven system that analyzes patient vitals and lab results to detect sepsis early in hospital settings.",
   "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1040,
   "title": "Blockchain-Enabled Vaccine Supply Chain Tracker",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a blockchain system to securely track vaccine distribution and ensure authenticity and proper storage conditions.",
   "keywords": ["Health IT", "Public Health", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1041,
   "title": "Smart Wearable for Detecting Sleep Apnea",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a wearable device that continuously monitors breathing patterns and identifies signs of sleep apnea.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1042,
   "title": "AI-Assisted Remote Orthopedic Assessment",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine platform that uses AI to assess orthopedic injuries through imaging and motion capture data.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1043,
   "title": "Predictive Analytics for Hospital Resource Allocation",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that predicts hospital resource needs to optimize staffing, equipment, and bed allocation.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1044,
   "title": "AI-Based Dermatology Diagnostic Tool",
-  "domain": "10",
+  "domain": "11",
   "description": "Design an AI tool that analyzes skin images to detect dermatological conditions with high accuracy.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1045,
   "title": "Smart Pill Dispenser with Adherence Tracking",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a connected pill dispenser that tracks medication adherence and sends alerts to patients and caregivers.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Health IT"]
 },
 {
   "id": 1046,
   "title": "Telemedicine Platform for Remote Physiotherapy",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a telemedicine system that enables remote physiotherapy sessions with real-time motion tracking and guidance.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1047,
   "title": "AI-Powered Early Detection of Neurological Disorders",
-  "domain": "10",
+  "domain": "11",
   "description": "Create an AI system that analyzes patient data and imaging to detect early signs of neurological disorders.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1048,
   "title": "Wearable Stress and Heart Rate Variability Monitor",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a wearable that tracks stress levels using heart rate variability and provides feedback for stress management.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1049,
   "title": "AI-Based Clinical Decision Support for ICU",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a decision support system that uses AI to provide real-time recommendations for critical care patients in ICUs.",
   "keywords": ["Healthcare Analytics", "Clinical Research", "Health IT", "Digital Health"]
 },
 {
   "id": 1050,
   "title": "Remote Rehabilitation Robot with Telemonitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a robotic rehabilitation system that allows remote physiotherapy with real-time monitoring and AI feedback.",
   "keywords": ["Medical Devices", "Telemedicine", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1051,
   "title": "AI-Enabled Early Detection of Diabetic Retinopathy",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that analyzes retinal images to detect diabetic retinopathy at its earliest stages.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1052,
   "title": "Telemedicine-Based Geriatric Care System",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine platform tailored for elderly patients, providing remote monitoring and personalized care plans.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
 },
 {
   "id": 1053,
   "title": "Smart Wearable for Continuous Cardiac Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a wearable device that continuously monitors heart rate, rhythm, and oxygen levels to detect cardiac anomalies.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1054,
   "title": "AI-Assisted Personalized Cancer Therapy Planner",
-  "domain": "Healthcare & Public Health",
+  "domain": "11",
   "description": "Develop a platform that recommends personalized cancer treatments based on genomic data, imaging, and patient history.",
   "keywords": ["Drug Discovery", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1055,
   "title": "Remote Patient Monitoring for Respiratory Diseases",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine-enabled system that monitors respiratory parameters and alerts healthcare providers for anomalies.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1056,
   "title": "AI-Powered Mental Health Risk Assessment",
-  "domain": "10",
+  "domain": "11",
   "description": "Design an AI platform that evaluates behavioral and physiological data to assess mental health risks in individuals.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
 },
 {
   "id": 1057,
   "title": "Blockchain-Enabled Patient Consent Management",
-  "domain": "10",
+  "domain": "11",
   "description": "Implement a blockchain system for secure management of patient consent for treatments and data sharing.",
   "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
 },
 {
   "id": 1058,
   "title": "Wearable Device for Continuous Oxygen Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a wearable device that continuously monitors blood oxygen levels and alerts users to hypoxia events.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1059,
   "title": "AI-Assisted Remote Rehabilitation for Stroke Patients",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a tele-rehabilitation platform that uses AI to guide stroke patients through exercises and monitor progress remotely.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1060,
   "title": "Predictive Analytics for Hospital Infection Control",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that predicts potential hospital-acquired infections and recommends preventive measures.",
   "keywords": ["Healthcare Analytics", "Public Health", "Health IT", "Digital Health"]
 },
 {
   "id": 1061,
   "title": "AI-Based Early Detection of Parkinson’s Disease",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a platform that uses patient movement and speech patterns to detect early signs of Parkinson’s disease.",
   "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Devices", "Digital Health"]
 },
 {
   "id": 1062,
   "title": "Telemedicine Platform for Remote Dermatology",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a telemedicine system allowing dermatologists to diagnose skin conditions remotely using high-resolution imaging.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1063,
   "title": "Smart Wearable for Continuous Hydration Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a wearable device that monitors hydration levels and alerts users to maintain optimal fluid intake.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1064,
   "title": "AI-Powered Early Detection of Alzheimer’s Disease",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a platform that analyzes cognitive tests and imaging data to identify early signs of Alzheimer’s disease.",
   "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Imaging", "Digital Health"]
 },
 {
   "id": 1065,
   "title": "Remote Tele-Ophthalmology for Rural Areas",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a telemedicine system that provides eye care services and diagnostics to underserved rural populations.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Public Health"]
 },
 {
   "id": 1066,
   "title": "AI-Enhanced Medication Management Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create an AI system that monitors patient prescriptions, detects potential drug conflicts, and optimizes treatment plans.",
   "keywords": ["Health IT", "Healthcare Analytics", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1067,
   "title": "Wearable System for Continuous Pain Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a wearable device that tracks pain levels and physiological signals, providing feedback to patients and clinicians.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1068,
   "title": "AI-Powered Remote Pediatric Monitoring",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a telemedicine platform that monitors vital signs and growth metrics in children remotely, with AI analysis for early warning.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1069,
   "title": "Predictive Analytics for Chronic Kidney Disease",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that predicts progression of chronic kidney disease based on lab results and lifestyle data.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
 },
 {
   "id": 1070,
   "title": "Telemedicine-Enabled Remote Physical Therapy Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine platform allowing patients to perform guided physical therapy exercises remotely with AI feedback.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1071,
   "title": "AI-Based Detection of Sleep Disorders from Wearable Data",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop an AI system that analyzes sleep patterns collected from wearables to detect disorders like insomnia or sleep apnea.",
   "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1072,
   "title": "Remote Tele-ENT Diagnostic Platform",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a telemedicine platform that allows ENT specialists to perform remote examinations and provide diagnostics for ear, nose, and throat conditions.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1073,
   "title": "Wearable System for Detecting Early-Onset Arthritis",
-  "domain": "10",
+  "domain": "11",
   "description": "Design a wearable device that monitors joint movements and inflammation indicators to detect early-onset arthritis.",
   "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1074,
   "title": "AI-Assisted Personalized Oncology Care",
-  "domain": "10",
+  "domain": "11",
   "description": "Develop a platform that uses patient data and genomics to provide personalized oncology treatment recommendations.",
   "keywords": ["Drug Discovery", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1075,
   "title": "Telemedicine Platform for Remote Pulmonology Care",
-  "domain": "10",
+  "domain": "11",
   "description": "Create a system that allows pulmonologists to remotely monitor lung function and provide consultations to patients in remote locations.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
-{
-  "id": 1076,
-  "title": "AI-Powered Cardiovascular Risk Assessment Tool",
-  "domain": "10",
-  "description": "Develop a tool that analyzes lifestyle, lab, and wearable data to provide early cardiovascular risk assessments.",
-  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
-},
-{
-  "id": 1077,
-  "title": "Blockchain-Based Secure Medical Imaging Repository",
-  "domain": "10",
-  "description": "Design a blockchain-enabled platform for secure storage and sharing of medical imaging data across hospitals.",
-  "keywords": ["Medical Imaging", "Health IT", "Digital Health", "Clinical Research"]
-},
-{
-  "id": 1078,
-  "title": "Smart Wearable for Continuous Blood Pressure Tracking",
-  "domain": "10",
-  "description": "Develop a wearable device that continuously monitors blood pressure and alerts users and doctors for abnormal readings.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
-},
-{
-  "id": 1079,
-  "title": "Telemedicine-Based Remote Nutritional Monitoring",
-  "domain": "10",
-  "description": "Create a platform that allows dietitians to monitor patients’ nutritional intake and health remotely.",
-  "keywords": ["Telemedicine", "Digital Health", "Health IT", "Public Health"]
-},
-{
-  "id": 1080,
-  "title": "AI-Assisted Early Detection of Liver Diseases",
-  "domain": "10",
-  "description": "Develop an AI system that analyzes lab results and imaging data to detect liver diseases at early stages.",
-  "keywords": ["Healthcare Analytics", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
-},
-{
-  "id": 1081,
-  "title": "Wearable Device for Real-Time Stress Management",
-  "domain": "10",
-  "description": "Design a wearable that monitors physiological stress indicators and provides real-time feedback for stress reduction.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
-},
-{
-  "id": 1082,
-  "title": "Remote AI-Based Orthopedic Surgery Planning",
-  "domain": "10",
-  "description": "Create a telemedicine platform that uses AI to assist in pre-operative planning and simulations for orthopedic surgeries.",
-  "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Biomedical Engineering"]
-},
-{
-  "id": 1083,
-  "title": "AI-Powered Early Detection of Kidney Disease",
-  "domain": "10",
-  "description": "Develop a predictive system that analyzes lab results and patient data to detect kidney disease at an early stage.",
-  "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Digital Health", "Clinical Research"]
-},
-{
-  "id": 1084,
-  "title": "Smart Inhaler with AI Usage Analytics",
-  "domain": "10",
-  "description": "Design a connected inhaler that tracks medication use and provides AI-generated insights to optimize asthma management.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
-},
-{
-  "id": 1085,
-  "title": "Telemedicine Platform for Remote Cardiac Rehab",
-  "domain": "10",
-  "description": "Develop a system enabling patients to undergo cardiac rehabilitation remotely with AI-monitored exercises.",
-  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
-},
-{
-  "id": 1086,
-  "title": "AI-Based Detection of Gastrointestinal Disorders",
-  "domain": "10",
-  "description": "Create a platform that uses patient imaging and clinical data to detect gastrointestinal disorders early.",
-  "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
-},
-{
-  "id": 1087,
-  "title": "Wearable Device for Real-Time Hydration Alerts",
-  "domain": "10",
-  "description": "Develop a wearable device that monitors hydration levels continuously and sends alerts for timely water intake.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
-},
-{
-  "id": 1088,
-  "title": "AI-Assisted Remote Pediatric Vaccination Monitoring",
-  "domain": "10",
-  "description": "Create a telemedicine platform that tracks pediatric vaccination schedules and compliance remotely using AI.",
-  "keywords": ["Telemedicine", "Public Health", "Digital Health", "Healthcare Analytics"]
-},
-{
-  "id": 1089,
-  "title": "Predictive Analytics for ICU Patient Outcomes",
-  "domain": "10",
-  "description": "Develop an AI system that predicts outcomes and complications in ICU patients to support clinical decision-making.",
-  "keywords": ["Healthcare Analytics", "Digital Health", "Clinical Research", "Health IT"]
-},
-{
-  "id": 1090,
-  "title": "Telemedicine-Enabled Remote Diabetes Management",
-  "domain": "10",
-  "description": "Design a platform that allows remote monitoring and management of diabetic patients’ blood sugar and lifestyle habits.",
-  "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
-},
-{
-  "id": 1091,
-  "title": "AI-Based Early Detection of Lung Diseases",
-  "domain": "10",
-  "description": "Develop a predictive system that uses imaging and clinical data to detect lung diseases early.",
-  "keywords": ["Medical Imaging", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
-},
-{
-  "id": 1092,
-  "title": "Wearable Device for Monitoring Pediatric Vital Signs",
-  "domain": "10",
-  "description": "Create a wearable system that continuously tracks pediatric vital signs and sends alerts for abnormal readings.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
-},
-{
-  "id": 1093,
-  "title": "AI-Assisted Tele-Neurology Platform",
-  "domain": "10",
-  "description": "Design a telemedicine platform that enables remote neurological assessments using AI analysis of patient data.",
-  "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Digital Health"]
-},
-{
-  "id": 1094,
-  "title": "Smart Wearable for Blood Glucose Trend Prediction",
-  "domain": "10",
-  "description": "Develop a wearable device that predicts future blood glucose trends using AI and patient data.",
-  "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
-},
-{
-  "id": 1095,
-  "title": "AI-Based Remote Monitoring of Heart Failure Patients",
-  "domain": "10",
-  "description": "Create a telemedicine system that monitors heart failure patients remotely and predicts potential complications.",
-  "keywords": ["Telemedicine", "Healthcare Analytics", "Medical Devices", "Digital Health"]
-},
-{
-  "id": 1096,
-  "title": "Blockchain-Based Secure Medical Records Sharing",
-  "domain": "10",
-  "description": "Design a blockchain system for secure sharing of medical records across healthcare providers while ensuring privacy.",
-  "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
-},
-{
-  "id": 1097,
-  "title": "AI-Powered Predictive Model for Chronic Pain",
-  "domain": "10",
-  "description": "Develop a system that predicts chronic pain flare-ups based on patient data and wearable signals.",
-  "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Medical Devices"]
-},
-{
-  "id": 1098,
-  "title": "Telemedicine Platform for Remote Oncology Monitoring",
-  "domain": "10",
-  "description": "Create a system for remote monitoring of oncology patients, including vitals, medication adherence, and symptom tracking.",
-  "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Medical Devices"]
-},
-{
-  "id": 1099,
-  "title": "Wearable Device for Continuous Respiratory Monitoring",
-  "domain": "10",
-  "description": "Develop a wearable system that tracks breathing patterns continuously and alerts for abnormalities.",
-  "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
-},
-{
-  "id": 1100,
-  "title": "AI-Enabled Personalized Health Risk Assessment",
-  "domain": "10",
-  "description": "Design a platform that analyzes patient data to provide personalized health risk assessments and recommendations.",
-  "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
-},
+
 //UX and Product Design(domain 12)
   {
     "id": 1100,
