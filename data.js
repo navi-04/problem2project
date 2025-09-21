@@ -14722,30 +14722,1210 @@ const PROBLEMS_DATA = {
         "description": "Create a blockchain-enabled platform to track and verify vehicle ownership, accident history, and maintenance records for transparency.",
         "keywords": ["Connected Cars", "Blockchain", "Vehicle Systems", "Safety Systems"]
     },
+    { 
+        "id": 2113,
+        "title": "Smart Highway Lane Management",
+        "domain": "22",
+        "description": "Develop a dynamic highway lane management system that adjusts lane directions and speeds based on real-time traffic flow.",
+        "keywords": ["Traffic Management", "Smart Cities", "AI Systems", "Mobility"]
+    },
+    { 
+        "id": 2114,
+        "title": "AI-Driven Ride-Sharing Optimization",
+        "domain": "22",
+        "description": "Build a platform that uses AI to match passengers with shared rides efficiently, minimizing costs and reducing congestion.",
+        "keywords": ["Mobility", "Smart Cities", "AI Systems", "Transportation Planning"]
+    },
+    { 
+        "id": 2115,
+        "title": "Smart Tire Pressure Monitoring",
+        "domain": "22",
+        "description": "Create an IoT-based system that monitors and alerts drivers about tire pressure anomalies to improve safety and fuel efficiency.",
+        "keywords": ["Vehicle Systems", "IoT", "Safety Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2116,
+        "title": "EV Charging with Renewable Energy Integration",
+        "domain": "22",
+        "description": "Design a smart EV charging infrastructure that integrates solar and wind energy for sustainable charging solutions.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Sustainability", "Smart Cities"]
+    },
+    { 
+        "id": 2117,
+        "title": "AI-Based Traffic Violation Detection",
+        "domain": "22",
+        "description": "Develop an AI-powered camera system to automatically detect and report traffic violations like speeding and red-light jumping.",
+        "keywords": ["Traffic Management", "AI Systems", "Safety Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2118,
+        "title": "Autonomous Port Operations",
+        "domain": "22",
+        "description": "Build an autonomous vehicle and crane management system to optimize cargo handling and reduce delays at ports.",
+        "keywords": ["Logistics", "Autonomous Driving", "Fleet Management", "Smart Cities"]
+    },
+    { 
+        "id": 2119,
+        "title": "Predictive Vehicle Maintenance",
+        "domain": "22",
+        "description": "Create a predictive maintenance solution for vehicles using IoT sensors and AI to detect issues before they cause breakdowns.",
+        "keywords": ["Vehicle Systems", "AI Systems", "IoT", "Fleet Management"]
+    },
+    { 
+        "id": 2120,
+        "title": "AI-Optimized School Bus Routing",
+        "domain": "22",
+        "description": "Design a smart routing solution for school buses that ensures student safety and minimizes travel time using AI algorithms.",
+        "keywords": ["Transportation Planning", "Fleet Management", "AI Systems", "Safety Systems"]
+    },
+    { 
+        "id": 2121,
+        "title": "Intelligent Traffic Flow Prediction",
+        "domain": "22",
+        "description": "Develop a system that predicts traffic flow patterns based on live feeds, historical data, and weather conditions.",
+        "keywords": ["Traffic Management", "AI Systems", "Mobility", "Smart Cities"]
+    },
+    { 
+        "id": 2122,
+        "title": "Urban Air Mobility Management",
+        "domain": "22",
+        "description": "Build a control and scheduling system for urban air taxis and drones to ensure safe and efficient operations.",
+        "keywords": ["Mobility", "Autonomous Driving", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2123,
+        "title": "Smart Freight Loading System",
+        "domain": "22",
+        "description": "Create an AI-assisted freight loading platform that optimizes space utilization and reduces fuel consumption for cargo transport.",
+        "keywords": ["Logistics", "Fleet Management", "AI Systems", "Sustainability"]
+    },
+    { 
+        "id": 2124,
+        "title": "AI-Based Driver Drowsiness Detection",
+        "domain": "22",
+        "description": "Develop a real-time driver monitoring system using AI vision to detect drowsiness or distraction and alert the driver.",
+        "keywords": ["Safety Systems", "AI Systems", "Vehicle Systems", "Mobility"]
+    },
+    { 
+        "id": 2125,
+        "title": "Intelligent EV Grid Balancing",
+        "domain": "22",
+        "description": "Design a system where EVs interact with the power grid to balance energy demand and supply using AI predictions.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Sustainability"]
+    },
+    { 
+        "id": 2126,
+        "title": "IoT-Based Public Bike Sharing",
+        "domain": "22",
+        "description": "Build a connected bike-sharing platform that uses IoT sensors for location tracking, theft prevention, and smart scheduling.",
+        "keywords": ["Mobility", "IoT", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2127,
+        "title": "AI-Enhanced Railway Safety Monitoring",
+        "domain": "22",
+        "description": "Create an AI-powered monitoring system for railways to detect cracks, obstructions, or failures in real time.",
+        "keywords": ["Transportation Planning", "Safety Systems", "AI Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2128,
+        "title": "Blockchain-Based Logistics Tracking",
+        "domain": "22",
+        "description": "Develop a blockchain-enabled logistics platform to track cargo across multiple checkpoints with transparency and security.",
+        "keywords": ["Logistics", "Blockchain", "Fleet Management", "Smart Cities"]
+    },
+    { 
+        "id": 2129,
+        "title": "Autonomous Emergency Response Vehicles",
+        "domain": "22",
+        "description": "Design autonomous ambulances and fire trucks capable of navigating congested cities and reaching emergencies faster.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2130,
+        "title": "Green Hydrogen Transport Infrastructure",
+        "domain": "22",
+        "description": "Develop infrastructure solutions to support hydrogen-based transportation for heavy-duty trucks and buses.",
+        "keywords": ["Sustainability", "Mobility", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2131,
+        "title": "Crowdsourced Road Hazard Reporting",
+        "domain": "22",
+        "description": "Build a platform where drivers can report potholes, accidents, and hazards in real time, improving road safety.",
+        "keywords": ["Traffic Management", "Safety Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2132,
+        "title": "AI-Powered Fleet Insurance Risk Analysis",
+        "domain": "22",
+        "description": "Create a system that uses AI to analyze driving behavior and fleet data to optimize insurance premiums.",
+        "keywords": ["Fleet Management", "AI Systems", "Safety Systems", "Logistics"]
+    },
+    { 
+        "id": 2133,
+        "title": "EV Charging Queue Management",
+        "domain": "22",
+        "description": "Develop a system to predict and manage waiting times at EV charging stations using real-time data.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2134,
+        "title": "AI-Based Air Traffic Flow Management",
+        "domain": "22",
+        "description": "Design an AI solution to optimize air traffic control operations, reducing delays and enhancing safety.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2135,
+        "title": "Intelligent Cold Chain Logistics",
+        "domain": "22",
+        "description": "Build a real-time monitoring and optimization system for cold chain logistics to preserve perishable goods.",
+        "keywords": ["Logistics", "IoT", "Fleet Management", "Sustainability"]
+    },
+    { 
+        "id": 2136,
+        "title": "Augmented Reality for Vehicle Repair",
+        "domain": "22",
+        "description": "Develop an AR-based system to guide mechanics through complex vehicle repairs with step-by-step visual assistance.",
+        "keywords": ["Vehicle Systems", "AR/VR", "AI Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2137,
+        "title": "Smart City Mobility Dashboard",
+        "domain": "22",
+        "description": "Create an integrated mobility dashboard for city planners to monitor traffic, public transport, and logistics in real time.",
+        "keywords": ["Smart Cities", "Mobility", "Traffic Management", "AI Systems"]
+    },
+    { 
+        "id": 2138,
+        "title": "Smart EV Battery Recycling System",
+        "domain": "22",
+        "description": "Develop an intelligent system to collect, sort, and recycle EV batteries, ensuring sustainability and reducing environmental impact.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Sustainability", "Smart Cities"]
+    },
+    { 
+        "id": 2139,
+        "title": "AI-Based Road Traffic Accident Analysis",
+        "domain": "22",
+        "description": "Create an AI-powered platform that analyzes accident data to identify root causes and suggest preventive strategies.",
+        "keywords": ["Traffic Management", "Safety Systems", "AI Systems", "Mobility"]
+    },
+    { 
+        "id": 2140,
+        "title": "Hyperloop Operations Management",
+        "domain": "22",
+        "description": "Design an intelligent scheduling and safety system for managing hyperloop operations and passenger flow.",
+        "keywords": ["Transportation Planning", "Mobility", "Smart Cities", "AI Systems"]
+    },
+    { 
+        "id": 2141,
+        "title": "AI-Powered Traffic Jam Early Warning",
+        "domain": "22",
+        "description": "Build a predictive system that provides early warnings for traffic jams using AI models trained on traffic, weather, and event data.",
+        "keywords": ["Traffic Management", "AI Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2142,
+        "title": "IoT-Enabled Smart Helmets",
+        "domain": "22",
+        "description": "Develop smart helmets with IoT sensors that monitor rider safety, detect accidents, and send emergency alerts.",
+        "keywords": ["Safety Systems", "IoT", "Vehicle Systems", "Mobility"]
+    },
+    { 
+        "id": 2143,
+        "title": "AI-Enhanced Border Transport Security",
+        "domain": "22",
+        "description": "Create an AI-driven inspection system for vehicles at borders to detect contraband, illegal goods, and safety violations.",
+        "keywords": ["Safety Systems", "Logistics", "AI Systems", "Vehicle Systems"]
+    },
+    { 
+        "id": 2144,
+        "title": "Smart EV Route Planner",
+        "domain": "22",
+        "description": "Design a route planning app for EVs that considers charging stations, terrain, and energy consumption for optimal travel.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Mobility", "AI Systems"]
+    },
+    { 
+        "id": 2145,
+        "title": "Autonomous Warehouse Vehicle System",
+        "domain": "22",
+        "description": "Develop autonomous guided vehicles for warehouses to streamline material handling and logistics efficiency.",
+        "keywords": ["Autonomous Driving", "Logistics", "Fleet Management", "AI Systems"]
+    },
+    { 
+        "id": 2146,
+        "title": "Intelligent Multi-Modal Transport System",
+        "domain": "22",
+        "description": "Build a platform that integrates buses, metros, ride-sharing, and bikes into a single seamless transport network.",
+        "keywords": ["Mobility", "Smart Cities", "Transportation Planning", "AI Systems"]
+    },
+    { 
+        "id": 2147,
+        "title": "AI-Based Road Weather Monitoring",
+        "domain": "22",
+        "description": "Create a system that uses sensors and AI to monitor road weather conditions and alert drivers to hazards like ice or fog.",
+        "keywords": ["Safety Systems", "AI Systems", "Traffic Management", "Smart Cities"]
+    },
+    { 
+        "id": 2148,
+        "title": "Blockchain-Based Vehicle Leasing",
+        "domain": "22",
+        "description": "Design a blockchain platform to manage vehicle leasing and ownership contracts with full transparency and traceability.",
+        "keywords": ["Connected Cars", "Blockchain", "Fleet Management", "Vehicle Systems"]
+    },
+    { 
+        "id": 2149,
+        "title": "Drone-Based Traffic Violation Reporting",
+        "domain": "22",
+        "description": "Use drones to monitor and capture traffic violations in real time, feeding data into a central enforcement system.",
+        "keywords": ["Traffic Management", "Drones", "Safety Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2150,
+        "title": "AI-Powered Vehicle Emission Monitoring",
+        "domain": "22",
+        "description": "Develop an AI-enabled system to track and analyze vehicle emissions, supporting enforcement of pollution control policies.",
+        "keywords": ["Sustainability", "AI Systems", "Vehicle Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2151,
+        "title": "Autonomous Mining Transport Vehicles",
+        "domain": "22",
+        "description": "Build autonomous heavy-duty vehicles to improve safety and efficiency in mining transportation operations.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Vehicle Systems", "Safety Systems"]
+    },
+    { 
+        "id": 2152,
+        "title": "Smart EV Charging Subscription Platform",
+        "domain": "22",
+        "description": "Create a subscription-based EV charging network that provides users with optimized charging plans and cost benefits.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2153,
+        "title": "AI-Based Maritime Navigation System",
+        "domain": "22",
+        "description": "Develop an AI-powered navigation system for ships to optimize fuel efficiency and ensure collision avoidance.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2154,
+        "title": "IoT-Based Vehicle Theft Prevention",
+        "domain": "22",
+        "description": "Design an IoT-enabled anti-theft system for vehicles that provides real-time alerts and immobilization controls.",
+        "keywords": ["Vehicle Systems", "IoT", "Safety Systems", "Connected Cars"]
+    },
+    { 
+        "id": 2155,
+        "title": "AI-Driven Aviation Maintenance",
+        "domain": "22",
+        "description": "Create a predictive AI-based system for aircraft maintenance to enhance flight safety and reduce downtime.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2156,
+        "title": "Autonomous Roadside Assistance Robots",
+        "domain": "22",
+        "description": "Develop autonomous roadside robots capable of providing minor repair assistance and safety support for stranded vehicles.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Mobility", "Vehicle Systems"]
+    },
+    { 
+        "id": 2157,
+        "title": "AI-Powered Smart Shipping Routes",
+        "domain": "22",
+        "description": "Build an AI system that optimizes shipping routes based on weather, fuel efficiency, and port availability.",
+        "keywords": ["Logistics", "AI Systems", "Mobility", "Fleet Management"]
+    },
+    { 
+        "id": 2158,
+        "title": "Intelligent Vehicle-to-Grid Integration",
+        "domain": "22",
+        "description": "Create a system where EVs can feed energy back to the grid during peak demand, ensuring balanced energy usage.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Sustainability"]
+    },
+    { 
+        "id": 2159,
+        "title": "Drone-Assisted Emergency Medical Transport",
+        "domain": "22",
+        "description": "Develop drone systems to transport medical supplies and organs quickly across urban and rural areas.",
+        "keywords": ["Logistics", "Drones", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2160,
+        "title": "AI-Based Vehicle Crash Reconstruction",
+        "domain": "22",
+        "description": "Design an AI-powered crash reconstruction tool that analyzes accident data to determine causes and liability.",
+        "keywords": ["Safety Systems", "AI Systems", "Traffic Management", "Vehicle Systems"]
+    },
+    { 
+        "id": 2161,
+        "title": "Smart EV Charging Payment System",
+        "domain": "22",
+        "description": "Build a secure payment platform for EV charging that integrates digital wallets, subscriptions, and real-time billing.",
+        "keywords": ["Electric Vehicles", "Smart Cities", "Battery Technology", "Mobility"]
+    },
+    { 
+        "id": 2162,
+        "title": "Autonomous Snow Clearing Vehicles",
+        "domain": "22",
+        "description": "Develop autonomous vehicles capable of clearing snow and ice from roads while ensuring pedestrian and driver safety.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Fleet Management", "Mobility"]
+    },
+    {
+        "id": 2163,
+        "title": "Autonomous Valet Parking System",
+        "domain": "22",
+        "description": "Develop an autonomous valet parking solution that navigates vehicles to optimal parking spots, handles tight-space maneuvers, and returns vehicles on demand.",
+        "keywords": ["Autonomous Driving", "Mobility", "Smart Cities", "Vehicle Systems"]
+    },
+    {
+        "id": 2164,
+        "title": "Vehicle Interior Air Quality Monitor",
+        "domain": "22",
+        "description": "Create an in-vehicle air quality monitoring and filtration controller that detects pollutants and automatically adjusts ventilation to ensure passenger health.",
+        "keywords": ["Vehicle Systems", "Safety Systems", "Connected Cars", "Smart Cities"]
+    },
+    {
+        "id": 2165,
+        "title": "Predictive Pedestrian Crossing System",
+        "domain": "22",
+        "description": "Design a predictive system that uses sensors and behaviour models to extend crossing times or warn drivers when pedestrian intent is detected near intersections.",
+        "keywords": ["Safety Systems", "Traffic Management", "AI Systems", "Smart Cities"]
+    },
+    {
+        "id": 2166,
+        "title": "Micro-mobility Fleet Anti-Theft System",
+        "domain": "22",
+        "description": "Build an IoT and blockchain-powered anti-theft and recovery platform for shared e-scooters and bikes that prevents tampering and fraud.",
+        "keywords": ["Mobility", "IoT", "Fleet Management", "Smart Cities"]
+    },
+    {
+        "id": 2167,
+        "title": "Intermodal Freight Hub Optimizer",
+        "domain": "22",
+        "description": "Create an optimization engine for intermodal freight hubs that synchronizes rail, road, and port schedules to minimize dwell time and transfer costs.",
+        "keywords": ["Logistics", "Transportation Planning", "Fleet Management", "Smart Cities"]
+    },
+    {
+        "id": 2168,
+        "title": "Biometric Vehicle Occupant Authentication",
+        "domain": "22",
+        "description": "Develop a biometric authentication system (face/fingerprint) to ensure authorized vehicle access, personalized settings, and enhanced anti-theft security.",
+        "keywords": ["Connected Cars", "Security Systems", "Vehicle Systems", "Safety Systems"]
+    },
+    {
+        "id": 2169,
+        "title": "Truck Platooning Coordination Platform",
+        "domain": "22",
+        "description": "Design a coordination and control platform for truck platooning that reduces aerodynamic drag, optimizes spacing, and ensures safe maneuvers on highways.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Fuel Efficiency", "Logistics"]
+    },
+    {
+        "id": 2170,
+        "title": "Last-Mile Delivery Robot Swarm",
+        "domain": "22",
+        "description": "Build a multi-robot last-mile delivery system that coordinates small ground robots for parcel delivery in dense urban neighborhoods.",
+        "keywords": ["Logistics", "Autonomous Driving", "Mobility", "Smart Cities"]
+    },
+    {
+        "id": 2171,
+        "title": "Energy-Efficient HVAC for Electric Vehicles",
+        "domain": "22",
+        "description": "Create an adaptive HVAC control algorithm for EVs that reduces energy consumption while maintaining passenger comfort and range.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Vehicle Systems", "Sustainability"]
+    },
+    {
+        "id": 2172,
+        "title": "5G-Enabled Low-Latency V2X Platform",
+        "domain": "22",
+        "description": "Develop a 5G-based V2X communication platform with ultra-low latency for cooperative maneuvers, hazard broadcasting, and real-time traffic coordination.",
+        "keywords": ["Connected Cars", "V2X", "Smart Cities", "Traffic Management"]
+    },
+    {
+        "id": 2173,
+        "title": "Adaptive Suspension Load Balancing",
+        "domain": "22",
+        "description": "Design an adaptive suspension system that senses load distribution and road conditions to improve stability, comfort, and tire wear for varying cargo.",
+        "keywords": ["Vehicle Systems", "Safety Systems", "Fleet Management", "Mobility"]
+    },
+    {
+        "id": 2174,
+        "title": "Low-Light & Adverse Weather Sign Recognition",
+        "domain": "22",
+        "description": "Build an AI vision model that reliably detects road signs and signals in low-light, rain, and fog to support safe autonomous and assisted driving.",
+        "keywords": ["Autonomous Driving", "AI Systems", "Safety Systems", "Traffic Management"]
+    },
+    {
+        "id": 2175,
+        "title": "Dynamic Congestion Pricing Engine",
+        "domain": "22",
+        "description": "Create a real-time congestion pricing system that adjusts road or zone charges dynamically to reduce peak traffic and encourage alternative modes.",
+        "keywords": ["Traffic Management", "Transportation Planning", "Smart Cities", "Mobility"]
+    },
+    {
+        "id": 2176,
+        "title": "Mobility-as-a-Service Integration Hub",
+        "domain": "22",
+        "description": "Develop a unified MaaS platform that aggregates public and private transport options, Fare passes, and trip planning into one seamless user experience.",
+        "keywords": ["Mobility", "Smart Cities", "Transportation Planning", "Connected Cars"]
+    },
+    {
+        "id": 2177,
+        "title": "Modular Urban Delivery Locker Network",
+        "domain": "22",
+        "description": "Design a distributed modular locker system optimized for micro-hubs that reduces last-mile delivery time and enables flexible pickup/dropoff.",
+        "keywords": ["Logistics", "Smart Cities", "Mobility", "Transportation Planning"]
+    },
+    {
+        "id": 2178,
+        "title": "Battery Thermal Runaway Prevention System",
+        "domain": "22",
+        "description": "Create a monitoring and intervention system for EV battery packs that detects thermal anomalies early and triggers cooling or isolation protocols.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Safety Systems", "Vehicle Systems"]
+    },
+    {
+        "id": 2179,
+        "title": "Lifecycle Analysis for Lightweight Vehicle Materials",
+        "domain": "22",
+        "description": "Build a tool to evaluate environmental and cost impacts of lightweight materials across vehicle manufacturing, use, and end-of-life recycling.",
+        "keywords": ["Sustainability", "Vehicle Systems", "Transportation Planning", "Smart Cities"]
+    },
+    {
+        "id": 2180,
+        "title": "Autonomous Intersection Negotiation Protocol",
+        "domain": "22",
+        "description": "Design a decentralized negotiation protocol for autonomous vehicles to safely and efficiently traverse unsignalized or damaged intersections.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Traffic Management", "Connected Cars"]
+    },
+    {
+        "id": 2181,
+        "title": "Combustion-to-EV Retrofit Planning Tool",
+        "domain": "22",
+        "description": "Create a planning and costing platform for converting internal combustion vehicles to electric, assessing parts, range, and regulatory needs.",
+        "keywords": ["Electric Vehicles", "Vehicle Systems", "Sustainability", "Transportation Planning"]
+    },
+    {
+        "id": 2182,
+        "title": "Community E-Bike Battery Swap Stations",
+        "domain": "22",
+        "description": "Design an affordable neighborhood battery swap network for e-bikes that reduces downtime and encourages adoption of micro-mobility.",
+        "keywords": ["Electric Vehicles", "Mobility", "Smart Cities", "Sustainability"]
+    },
+    {
+        "id": 2183,
+        "title": "Multi-Agent Autonomous Taxi Coordination",
+        "domain": "22",
+        "description": "Build a multi-agent coordination framework for autonomous taxis to manage demand, reduce deadheading, and optimize passenger pooling.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Mobility", "AI Systems"]
+    },
+    {
+        "id": 2184,
+        "title": "Dynamic Parking Pricing & Payment Integration",
+        "domain": "22",
+        "description": "Create a city-wide dynamic parking pricing and unified payment system that reduces cruising for parking and improves turnover in high-demand areas.",
+        "keywords": ["Smart Cities", "Traffic Management", "Mobility", "Connected Cars"]
+    },
+
+       // FINANCE & FINTECH (Domain 23)
+        
+    {
+        "id": 2185,
+        "title": "AI-Based Credit Risk Scoring",
+        "domain": "23",
+        "description": "Develop an AI-powered credit scoring system that evaluates borrowers’ creditworthiness using alternative data sources and predictive modeling.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2186,
+        "title": "Blockchain-Enabled Cross-Border Payments",
+        "domain": "23",
+        "description": "Create a blockchain-based payment platform for faster, transparent, and low-cost cross-border transactions between banks and fintech firms.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2187,
+        "title": "Algorithmic Trading Optimization",
+        "domain": "23",
+        "description": "Design a system to optimize algorithmic trading strategies by analyzing real-time market data and minimizing trading risk using AI.",
+        "keywords": ["Algorithmic Trading", "Financial Analytics", "AI Systems", "Risk Management"]
+    },
+    {
+        "id": 2188,
+        "title": "RegTech Compliance Automation",
+        "domain": "23",
+        "description": "Develop a RegTech solution that automates regulatory compliance for financial institutions, including reporting, audits, and monitoring.",
+        "keywords": ["RegTech", "Digital Banking", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2189,
+        "title": "Decentralized Insurance Claim Verification",
+        "domain": "23",
+        "description": "Create a blockchain-powered platform that automates insurance claim verification and reduces fraud in the claims process.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2190,
+        "title": "Real-Time Fraud Detection in Digital Payments",
+        "domain": "23",
+        "description": "Build an AI-driven system to detect fraudulent transactions in digital banking and payment platforms in real time.",
+        "keywords": ["Payment Systems", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2191,
+        "title": "Robo-Advisors for Personalized Investments",
+        "domain": "23",
+        "description": "Develop an AI-powered robo-advisor that provides personalized investment recommendations based on financial goals and risk tolerance.",
+        "keywords": ["Robo-Advisors", "Financial Analytics", "Digital Banking", "Risk Management"]
+    },
+    {
+        "id": 2192,
+        "title": "DeFi Lending Risk Management",
+        "domain": "23",
+        "description": "Create a risk management system for decentralized finance lending platforms to monitor liquidity, default risk, and interest rates.",
+        "keywords": ["DeFi", "Risk Management", "Blockchain", "Financial Analytics"]
+    },
+    {
+        "id": 2193,
+        "title": "Credit Scoring Using Social and Behavioral Data",
+        "domain": "23",
+        "description": "Develop a credit scoring model that integrates social media, behavioral, and transactional data to predict repayment reliability.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2194,
+        "title": "Blockchain-Based Trade Finance Platform",
+        "domain": "23",
+        "description": "Design a blockchain platform to streamline trade finance processes, including letters of credit, bills of lading, and payment settlements.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2195,
+        "title": "AI-Powered Portfolio Risk Assessment",
+        "domain": "23",
+        "description": "Create an AI system to assess and manage portfolio risk for investors, considering market volatility and asset correlations.",
+        "keywords": ["Financial Analytics", "Risk Management", "AI Systems", "Digital Banking"]
+    },
+    {
+        "id": 2196,
+        "title": "Cryptocurrency Price Prediction System",
+        "domain": "23",
+        "description": "Develop a predictive analytics platform to forecast cryptocurrency prices using machine learning on historical and market data.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Financial Analytics", "Blockchain"]
+    },
+    {
+        "id": 2197,
+        "title": "Smart Contract-Based Insurance Policies",
+        "domain": "23",
+        "description": "Build a platform using smart contracts for automated execution of insurance policies and claims based on predefined triggers.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2198,
+        "title": "AI-Enhanced Loan Default Prediction",
+        "domain": "23",
+        "description": "Design an AI model to predict loan defaults in real time by analyzing customer financial behavior and historical repayment trends.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2199,
+        "title": "Digital Banking Customer Sentiment Analysis",
+        "domain": "23",
+        "description": "Develop a system to analyze customer feedback and behavior on digital banking platforms to improve service and reduce churn.",
+        "keywords": ["Digital Banking", "Financial Analytics", "AI Systems", "Robo-Advisors"]
+    },
+    {
+        "id": 2200,
+        "title": "AI-Powered Fraud Analytics for Cryptocurrency",
+        "domain": "23",
+        "description": "Create an AI solution that detects fraudulent activities and money laundering in cryptocurrency transactions.",
+        "keywords": ["Cryptocurrency", "Blockchain", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2201,
+        "title": "Blockchain-Based Microfinance Platform",
+        "domain": "23",
+        "description": "Develop a decentralized microfinance platform to provide secure, transparent loans to underserved populations using blockchain.",
+        "keywords": ["Blockchain", "Digital Banking", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2202,
+        "title": "Regulatory Reporting Automation",
+        "domain": "23",
+        "description": "Build a system that automates regulatory reporting for banks and fintech companies using AI and blockchain for compliance and transparency.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2203,
+        "title": "AI-Driven Customer Credit Limit Adjustment",
+        "domain": "23",
+        "description": "Create an AI system to dynamically adjust customer credit limits based on spending behavior, repayment history, and risk analysis.",
+        "keywords": ["Credit Scoring", "AI Systems", "Digital Banking", "Risk Management"]
+    },
+    {
+        "id": 2204,
+        "title": "Decentralized Asset Management Platform",
+        "domain": "23",
+        "description": "Design a DeFi-based platform for decentralized management of investment portfolios with secure, transparent asset tracking.",
+        "keywords": ["DeFi", "Blockchain", "Robo-Advisors", "Financial Analytics"]
+    },
+    {
+        "id": 2205,
+        "title": "AI-Powered Payment Fraud Prevention",
+        "domain": "23",
+        "description": "Develop an AI system that monitors digital payment transactions and detects anomalies indicative of fraudulent activity.",
+        "keywords": ["Payment Systems", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2206,
+        "title": "Smart Contract Audit Automation",
+        "domain": "23",
+        "description": "Create a platform that automates the auditing of smart contracts to identify vulnerabilities and prevent financial loss.",
+        "keywords": ["Blockchain", "DeFi", "Financial Analytics", "Security"]
+    },
+    {
+        "id": 2207,
+        "title": "AI-Powered Wealth Management Advisor",
+        "domain": "23",
+        "description": "Develop an AI-driven digital platform to provide personalized investment advice and portfolio optimization for individual investors.",
+        "keywords": ["Robo-Advisors", "Financial Analytics", "AI Systems", "Digital Banking"]
+    },
+    {
+        "id": 2208,
+        "title": "Cryptocurrency Regulatory Compliance Tracker",
+        "domain": "23",
+        "description": "Build a system to track cryptocurrency transactions and automatically ensure compliance with regional and international regulations.",
+        "keywords": ["Cryptocurrency", "Blockchain", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2209,
+        "title": "AI-Driven Loan Eligibility Engine",
+        "domain": "23",
+        "description": "Create an AI-powered engine that evaluates loan applications using alternative data, credit history, and behavioral analytics to determine eligibility.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2210,
+        "title": "Blockchain-Powered Remittance Platform",
+        "domain": "23",
+        "description": "Develop a blockchain-based platform to enable fast, low-cost, and secure international remittance transfers for individuals and businesses.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2211,
+        "title": "AI-Powered Anti-Money Laundering System",
+        "domain": "23",
+        "description": "Build an AI system to detect suspicious patterns and prevent money laundering activities across banking and fintech platforms.",
+        "keywords": ["RegTech", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2212,
+        "title": "Dynamic Cryptocurrency Portfolio Optimizer",
+        "domain": "23",
+        "description": "Design an AI platform that dynamically manages cryptocurrency portfolios by analyzing market trends and minimizing risk.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Robo-Advisors", "Financial Analytics"]
+    },
+    {
+        "id": 2213,
+        "title": "Blockchain-Based Loyalty Rewards System",
+        "domain": "23",
+        "description": "Develop a blockchain-powered platform to manage loyalty points, ensuring transparency, security, and seamless redemption.",
+        "keywords": ["Blockchain", "Digital Banking", "Payment Systems", "DeFi"]
+    },
+    {
+        "id": 2214,
+        "title": "AI-Powered Expense Prediction Tool",
+        "domain": "23",
+        "description": "Create an AI system that predicts individual or business expenses based on past spending patterns and market trends.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2215,
+        "title": "DeFi-Based Micro-Lending Platform",
+        "domain": "23",
+        "description": "Build a decentralized finance platform that offers peer-to-peer micro-lending with smart contracts for automated lending and repayments.",
+        "keywords": ["DeFi", "Blockchain", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2216,
+        "title": "AI-Powered Investment Fraud Detection",
+        "domain": "23",
+        "description": "Develop an AI system to identify fraudulent investment schemes by analyzing patterns in transactions, communications, and market behavior.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Robo-Advisors"]
+    },
+    {
+        "id": 2217,
+        "title": "RegTech Platform for Real-Time Compliance Monitoring",
+        "domain": "23",
+        "description": "Create a real-time regulatory compliance monitoring platform for fintech and banking organizations using AI and blockchain.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2218,
+        "title": "AI-Based Payment Fraud Risk Scoring",
+        "domain": "23",
+        "description": "Develop an AI solution to assess the risk of each digital payment transaction, flagging potentially fraudulent activities before completion.",
+        "keywords": ["Payment Systems", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2219,
+        "title": "Blockchain-Enabled Peer-to-Peer Insurance",
+        "domain": "23",
+        "description": "Build a blockchain-based platform to enable peer-to-peer insurance, automating claims and reducing reliance on traditional insurers.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2220,
+        "title": "AI-Powered Robo-Advisor for Retirement Planning",
+        "domain": "23",
+        "description": "Design a robo-advisor that uses AI to provide personalized retirement planning advice based on risk tolerance and investment goals.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2221,
+        "title": "Cryptocurrency Transaction Compliance Monitor",
+        "domain": "23",
+        "description": "Develop a blockchain-based system that ensures cryptocurrency transactions comply with global regulatory standards in real-time.",
+        "keywords": ["Cryptocurrency", "Blockchain", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2222,
+        "title": "AI-Powered Loan Portfolio Stress Testing",
+        "domain": "23",
+        "description": "Create an AI system to perform stress testing on loan portfolios, predicting potential defaults under various economic scenarios.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2223,
+        "title": "Blockchain-Based Supply Chain Financing",
+        "domain": "23",
+        "description": "Develop a blockchain platform to automate supply chain financing, ensuring transparency, traceability, and reduced fraud risk.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2224,
+        "title": "AI-Based Financial Market Sentiment Analysis",
+        "domain": "23",
+        "description": "Design an AI tool to analyze news, social media, and market data to determine market sentiment for better trading and investment decisions.",
+        "keywords": ["Financial Analytics", "AI Systems", "Algorithmic Trading", "Digital Banking"]
+    },
+    {
+        "id": 2225,
+        "title": "Decentralized Crowdfunding Platform",
+        "domain": "23",
+        "description": "Create a blockchain-powered crowdfunding platform that allows secure, transparent, and direct funding for startups and projects.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2226,
+        "title": "AI-Powered Regulatory Risk Prediction",
+        "domain": "23",
+        "description": "Develop an AI system that predicts potential regulatory risks for fintech and banking institutions, enabling proactive mitigation.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2227,
+        "title": "Digital Banking Chatbot with Fraud Detection",
+        "domain": "23",
+        "description": "Create an AI chatbot for digital banking platforms capable of handling customer queries while identifying suspicious activities.",
+        "keywords": ["Digital Banking", "AI Systems", "Payment Systems", "Risk Management"]
+    },
+    {
+        "id": 2228,
+        "title": "Algorithmic Crypto Arbitrage System",
+        "domain": "23",
+        "description": "Build a system that identifies price discrepancies between cryptocurrency exchanges and executes automated arbitrage trades.",
+        "keywords": ["Cryptocurrency", "Algorithmic Trading", "Financial Analytics", "AI Systems"]
+    },
+    {
+        "id": 2229,
+        "title": "Blockchain-Powered Identity Verification",
+        "domain": "23",
+        "description": "Develop a decentralized identity verification system for financial services that ensures secure, immutable, and fast KYC compliance.",
+        "keywords": ["Blockchain", "Digital Banking", "RegTech", "Financial Analytics"]
+    },
+    {
+        "id": 2230,
+        "title": "AI-Powered Expense Categorization and Forecasting",
+        "domain": "23",
+        "description": "Create an AI system that automatically categorizes personal or business expenses and forecasts future cash flow trends.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2231,
+        "title": "Decentralized Stablecoin Payment Platform",
+        "domain": "23",
+        "description": "Build a blockchain-based platform for stablecoin payments to ensure low volatility, secure transactions, and real-time settlements.",
+        "keywords": ["Blockchain", "Payment Systems", "DeFi", "Digital Banking"]
+    },
+    {
+        "id": 2232,
+        "title": "AI-Powered Customer Default Prediction",
+        "domain": "23",
+        "description": "Develop an AI system that predicts customer default probabilities for loans, credit cards, and fintech lending services.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2233,
+        "title": "AI-Driven Dynamic Interest Rate Optimization",
+        "domain": "23",
+        "description": "Create an AI system that dynamically adjusts interest rates for loans and deposits based on market trends, risk, and customer behavior.",
+        "keywords": ["AI Systems", "Financial Analytics", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2234,
+        "title": "Blockchain-Based Real Estate Tokenization",
+        "domain": "23",
+        "description": "Develop a platform that converts real estate assets into blockchain tokens, enabling fractional ownership and secure trading.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2235,
+        "title": "AI-Powered Loan Restructuring Advisor",
+        "domain": "23",
+        "description": "Build an AI tool that recommends optimal loan restructuring plans to minimize defaults and improve borrower financial health.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2236,
+        "title": "RegTech-Based AML Automation",
+        "domain": "23",
+        "description": "Create a system that automates anti-money laundering compliance for financial institutions using AI and blockchain technologies.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2237,
+        "title": "AI-Driven Personalized Investment Insights",
+        "domain": "23",
+        "description": "Develop an AI platform that provides individualized investment insights, including risk assessment and performance predictions.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2238,
+        "title": "Decentralized Credit Rating Platform",
+        "domain": "23",
+        "description": "Build a blockchain-based platform to provide transparent and decentralized credit ratings for individuals and SMEs.",
+        "keywords": ["Blockchain", "Credit Scoring", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2239,
+        "title": "AI-Powered Regulatory Change Impact Analyzer",
+        "domain": "23",
+        "description": "Design an AI tool to analyze potential impacts of regulatory changes on financial operations and risk exposure.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2240,
+        "title": "Blockchain-Enabled Trade Settlement Automation",
+        "domain": "23",
+        "description": "Develop a blockchain platform that automates settlement of trade transactions for reduced processing time and enhanced security.",
+        "keywords": ["Blockchain", "Payment Systems", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2241,
+        "title": "AI-Powered Loan Fraud Detection",
+        "domain": "23",
+        "description": "Create an AI system to detect fraudulent loan applications and prevent financial losses in banking and fintech systems.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2242,
+        "title": "Blockchain-Powered Supply Chain Financing",
+        "domain": "23",
+        "description": "Build a decentralized financing platform that tracks supply chain transactions securely and reduces financing friction for SMEs.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2243,
+        "title": "AI-Based Customer Financial Behavior Prediction",
+        "domain": "23",
+        "description": "Develop an AI model to predict customer financial behaviors, spending habits, and potential default risks for personalized services.",
+        "keywords": ["AI Systems", "Credit Scoring", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2244,
+        "title": "Decentralized Insurance Smart Contracts",
+        "domain": "23",
+        "description": "Create smart contracts to automate insurance claim approvals, payouts, and policy enforcement in a decentralized insurance platform.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2245,
+        "title": "AI-Powered Investment Portfolio Rebalancing",
+        "domain": "23",
+        "description": "Design an AI tool that continuously monitors and rebalances investment portfolios to optimize risk and returns automatically.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2246,
+        "title": "Blockchain-Based Peer-to-Peer Lending",
+        "domain": "23",
+        "description": "Develop a decentralized lending platform that connects borrowers and lenders directly, automating contracts and repayments via smart contracts.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2247,
+        "title": "AI-Powered Payment Risk Analysis",
+        "domain": "23",
+        "description": "Create an AI system to evaluate payment transaction risks in real time, including fraud detection and credit exposure assessment.",
+        "keywords": ["Payment Systems", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2248,
+        "title": "Digital Banking Biometric Authentication",
+        "domain": "23",
+        "description": "Build a biometric authentication system for digital banking apps to enhance security and user experience using fingerprint, face, or voice recognition.",
+        "keywords": ["Digital Banking", "Security Systems", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2249,
+        "title": "AI-Driven Algorithmic Crypto Trading",
+        "domain": "23",
+        "description": "Develop an AI system to execute algorithmic trading strategies in cryptocurrency markets to maximize returns while minimizing risk.",
+        "keywords": ["Algorithmic Trading", "AI Systems", "Cryptocurrency", "Financial Analytics"]
+    },
+    {
+        "id": 2250,
+        "title": "Blockchain-Powered Invoice Financing",
+        "domain": "23",
+        "description": "Create a decentralized platform for invoice financing that automates verification and ensures secure and fast funding for businesses.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2251,
+        "title": "AI-Based Wealth Fraud Detection",
+        "domain": "23",
+        "description": "Design an AI platform that monitors wealth management activities and detects suspicious or fraudulent transactions.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Robo-Advisors"]
+    },
+    {
+        "id": 2252,
+        "title": "RegTech AI Chatbot for Compliance Queries",
+        "domain": "23",
+        "description": "Develop an AI chatbot that helps financial institutions and fintechs handle regulatory compliance queries and provides real-time guidance.",
+        "keywords": ["RegTech", "AI Systems", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2253,
+        "title": "Blockchain-Based Crowdsourced Credit Rating",
+        "domain": "23",
+        "description": "Create a decentralized platform where communities can provide credit insights on borrowers, improving transparency and reliability.",
+        "keywords": ["Blockchain", "Credit Scoring", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2254,
+        "title": "AI-Powered Risk Monitoring for Investment Funds",
+        "domain": "23",
+        "description": "Build an AI system that continuously monitors investment fund portfolios for market, credit, and operational risks.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2255,
+        "title": "Decentralized Crowdfunding Compliance Tracker",
+        "domain": "23",
+        "description": "Develop a blockchain solution that tracks compliance of crowdfunding campaigns with financial and legal regulations.",
+        "keywords": ["Blockchain", "DeFi", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2256,
+        "title": "AI-Powered Fraud Detection in Insurance Claims",
+        "domain": "23",
+        "description": "Create an AI system that detects fraudulent insurance claims and flags suspicious activities automatically for investigation.",
+        "keywords": ["InsurTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2257,
+        "title": "AI-Powered Real-Time Credit Monitoring",
+        "domain": "23",
+        "description": "Develop an AI system that monitors customer credit behavior in real time and alerts for potential risks or defaults.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2258,
+        "title": "Blockchain-Based Payment Settlement Hub",
+        "domain": "23",
+        "description": "Create a blockchain hub to facilitate secure and fast settlement of payments between banks and financial institutions.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2259,
+        "title": "AI-Driven Robo-Advisor for Tax Optimization",
+        "domain": "23",
+        "description": "Build an AI platform that provides personalized tax optimization strategies based on investment portfolios and regulations.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2260,
+        "title": "Decentralized Peer-to-Peer Insurance Marketplace",
+        "domain": "23",
+        "description": "Develop a blockchain marketplace that connects insurers and customers directly, automating policy issuance and claims.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2261,
+        "title": "AI-Powered Cryptocurrency Wallet Security",
+        "domain": "23",
+        "description": "Create an AI-driven security system for cryptocurrency wallets that detects unauthorized access and prevents theft.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Digital Banking", "Security"]
+    },
+    {
+        "id": 2262,
+        "title": "Blockchain-Based Invoice Verification System",
+        "domain": "23",
+        "description": "Design a decentralized platform to verify invoices automatically for secure and faster business transactions.",
+        "keywords": ["Blockchain", "Digital Banking", "Payment Systems", "DeFi"]
+    },
+    {
+        "id": 2263,
+        "title": "AI-Powered Customer Spending Insights",
+        "domain": "23",
+        "description": "Develop an AI system that analyzes customer spending patterns and provides actionable insights for personalized financial products.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2264,
+        "title": "Blockchain-Based SME Financing Platform",
+        "domain": "23",
+        "description": "Build a decentralized platform to provide transparent and secure financing for small and medium enterprises using blockchain technology.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2265,
+        "title": "AI-Driven Dynamic Risk Assessment for Loans",
+        "domain": "23",
+        "description": "Create an AI system that dynamically assesses loan risks based on market conditions and borrower financial behavior.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2266,
+        "title": "Decentralized Stablecoin Lending Platform",
+        "domain": "23",
+        "description": "Develop a blockchain-based platform for lending and borrowing stablecoins with automated smart contract management.",
+        "keywords": ["DeFi", "Blockchain", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2267,
+        "title": "AI-Powered Fraud Detection in Peer-to-Peer Payments",
+        "domain": "23",
+        "description": "Create an AI system that monitors P2P payment networks and identifies suspicious or fraudulent activities.",
+        "keywords": ["Payment Systems", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2268,
+        "title": "Blockchain-Based Digital Asset Custody",
+        "domain": "23",
+        "description": "Build a decentralized platform for secure storage and management of digital assets using blockchain technology.",
+        "keywords": ["Blockchain", "Digital Banking", "DeFi", "Security"]
+    },
+    {
+        "id": 2269,
+        "title": "AI-Powered Predictive Wealth Management",
+        "domain": "23",
+        "description": "Develop an AI system that predicts future market trends and suggests wealth management strategies for investors.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2270,
+        "title": "RegTech-Based Automated Reporting System",
+        "domain": "23",
+        "description": "Design a RegTech platform that automatically generates regulatory reports for financial institutions with compliance validation.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2271,
+        "title": "AI-Powered Cryptocurrency Portfolio Risk Management",
+        "domain": "23",
+        "description": "Create an AI system to monitor and manage cryptocurrency portfolios, analyzing volatility and risk exposure in real time.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2272,
+        "title": "Blockchain-Based Peer-to-Peer Lending Risk Assessment",
+        "domain": "23",
+        "description": "Develop a decentralized risk assessment tool for P2P lending platforms to ensure safe and transparent lending.",
+        "keywords": ["Blockchain", "DeFi", "Credit Scoring", "Financial Analytics"]
+    },
+    {
+        "id": 2273,
+        "title": "AI-Powered Tax Compliance Monitoring",
+        "domain": "23",
+        "description": "Build an AI tool that monitors tax filings and transactions to ensure compliance with national and international tax regulations.",
+        "keywords": ["AI Systems", "Financial Analytics", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2274,
+        "title": "Blockchain-Based Digital Identity for Banking",
+        "domain": "23",
+        "description": "Create a decentralized digital identity system for banking that ensures secure, tamper-proof authentication of customers.",
+        "keywords": ["Blockchain", "Digital Banking", "Security", "RegTech"]
+    },
+    {
+        "id": 2275,
+        "title": "AI-Enhanced Payment Gateway Fraud Prevention",
+        "domain": "23",
+        "description": "Develop an AI system for payment gateways that detects fraudulent transactions and prevents unauthorized access in real time.",
+        "keywords": ["Payment Systems", "AI Systems", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2276,
+        "title": "Decentralized Crowdfunding Governance Platform",
+        "domain": "23",
+        "description": "Build a blockchain platform for decentralized governance of crowdfunding projects, enabling transparent voting and fund allocation.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2277,
+        "title": "AI-Powered Customer Risk Segmentation",
+        "domain": "23",
+        "description": "Create an AI system that segments customers based on risk profiles to provide personalized financial products and risk mitigation strategies.",
+        "keywords": ["Financial Analytics", "AI Systems", "Credit Scoring", "Risk Management"]
+    },
+    {
+        "id": 2278,
+        "title": "Blockchain-Based Asset Tokenization for SMEs",
+        "domain": "23",
+        "description": "Develop a platform to tokenize SME assets on blockchain, enabling secure fractional ownership and investment opportunities.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2279,
+        "title": "AI-Powered Digital Banking Chatbot for Risk Alerts",
+        "domain": "23",
+        "description": "Build a chatbot for digital banking platforms that informs customers about potential risks, frauds, and suspicious activities.",
+        "keywords": ["AI Systems", "Digital Banking", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2280,
+        "title": "Decentralized DeFi Derivatives Trading Platform",
+        "domain": "23",
+        "description": "Create a blockchain platform that allows decentralized trading of derivatives with automated smart contract settlements.",
+        "keywords": ["DeFi", "Blockchain", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2281,
+        "title": "AI-Powered Real-Time Loan Monitoring",
+        "domain": "23",
+        "description": "Develop an AI system to monitor active loans in real time, providing alerts for early signs of default or delinquency.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2282,
+        "title": "Blockchain-Powered Insurance Policy Marketplace",
+        "domain": "23",
+        "description": "Build a decentralized marketplace for insurance policies, enabling secure, transparent, and automated policy management.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Digital Banking"]
+    },
+    {
+        "id": 2283,
+        "title": "AI-Driven Market Sentiment Analytics for Investments",
+        "domain": "23",
+        "description": "Create an AI system that analyzes news, social media, and market data to predict market sentiment for better investment decisions.",
+        "keywords": ["AI Systems", "Financial Analytics", "Algorithmic Trading", "Digital Banking"]
+    },
 
 
-        // FINANCE & FINTECH (Domain 23)
-        {
-            "id": 2301,
-            "title": "Cryptocurrency Trading Bot",
-            "domain": "23",
-            "description": "Build an intelligent trading bot that analyzes market patterns, news sentiment, and technical indicators to make automated trading decisions.",
-            "keywords": ["Cryptocurrency", "Algorithmic Trading", "Market Analysis", "AI"]
-        },
-        {
-            "id": 2302,
-            "title": "Fraud Detection System",
-            "domain": "23",
-            "description": "Create a real-time fraud detection system that analyzes transaction patterns and user behavior to identify suspicious activities.",
-            "keywords": ["Fraud Detection", "Transaction Analysis", "Security", "Pattern Recognition"]
-        },
-        {
-            "id": 2303,
-            "title": "Robo-Advisor for Investment",
-            "domain": "23",
-            "description": "Develop an AI-powered investment advisor that creates personalized portfolios based on risk tolerance, goals, and market conditions.",
-            "keywords": ["Robo-Advisor", "Portfolio Management", "Investment Strategy", "Risk Assessment"]
-        },
+
+
 
         // GAMING & ENTERTAINMENT (Domain 24)
         {
