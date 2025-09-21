@@ -15653,7 +15653,7 @@ const PROBLEMS_DATA = {
         "domain": "22",
         "description": "Create a blockchain-enabled platform to track and verify vehicle ownership, accident history, and maintenance records for transparency.",
         "keywords": ["Connected Cars", "Blockchain", "Vehicle Systems", "Safety Systems"]
-    }
+    },
 
 
         // FINANCE & FINTECH (Domain 23)
