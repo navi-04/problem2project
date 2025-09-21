@@ -15923,34 +15923,724 @@ const PROBLEMS_DATA = {
         "keywords": ["AI Systems", "Financial Analytics", "Algorithmic Trading", "Digital Banking"]
     },
 
+     // GAMING & ENTERTAINMENT (Domain 24)
+    
+    {
+        "id": 2284,
+        "title": "AI-Driven Enemy Behavior in Games",
+        "domain": "24",
+        "description": "Develop an AI system to dynamically adjust enemy behavior in real-time to enhance game difficulty and player engagement.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Engines"]
+    },
+    {
+        "id": 2285,
+        "title": "VR Immersive Training Simulations",
+        "domain": "24",
+        "description": "Create VR-based training simulations that provide realistic scenarios for skill development and interactive learning.",
+        "keywords": ["VR Gaming", "Interactive Media", "Game Development", "Player Behavior"]
+    },
+    {
+        "id": 2286,
+        "title": "AR-Powered Multiplayer Games",
+        "domain": "24",
+        "description": "Design AR multiplayer games that integrate physical environment interactions to enhance social gaming experiences.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2287,
+        "title": "Real-Time Game Analytics Dashboard",
+        "domain": "24",
+        "description": "Develop a real-time analytics platform to monitor player behavior, engagement metrics, and in-game monetization trends.",
+        "keywords": ["Game Analytics", "Player Behavior", "Streaming", "Game Development"]
+    },
+    {
+        "id": 2288,
+        "title": "Procedural Level Generation AI",
+        "domain": "24",
+        "description": "Build an AI system that procedurally generates game levels to provide unique experiences for every player.",
+        "keywords": ["Game AI", "Game Development", "Game Engines", "Interactive Media"]
+    },
+    {
+        "id": 2289,
+        "title": "AI-Based Dynamic Difficulty Adjustment",
+        "domain": "24",
+        "description": "Create an AI mechanism that adjusts game difficulty dynamically based on player skill and behavior in real-time.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2290,
+        "title": "Cloud-Based Game Streaming Optimization",
+        "domain": "24",
+        "description": "Develop a cloud gaming solution that minimizes latency and maximizes visual quality for remote players.",
+        "keywords": ["Streaming", "Game Engines", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2291,
+        "title": "VR Esports Tournament Platform",
+        "domain": "24",
+        "description": "Design a VR platform for hosting esports tournaments that allows immersive player and spectator experiences.",
+        "keywords": ["VR Gaming", "Esports", "Game Development", "Streaming"]
+    },
+    {
+        "id": 2292,
+        "title": "AI-Powered Game Monetization Analysis",
+        "domain": "24",
+        "description": "Build an AI system to analyze in-game purchases, player engagement, and ad interactions for optimized monetization.",
+        "keywords": ["Game Analytics", "Monetization", "Game AI", "Player Behavior"]
+    },
+    {
+        "id": 2293,
+        "title": "AR Interactive Storytelling Games",
+        "domain": "24",
+        "description": "Create AR-based interactive storytelling experiences where players’ real-world actions influence narrative progression.",
+        "keywords": ["AR Gaming", "Interactive Media", "Game Development", "Social Gaming"]
+    },
+    {
+        "id": 2294,
+        "title": "Predictive AI for Player Retention",
+        "domain": "24",
+        "description": "Develop AI models to predict which players are likely to churn and implement strategies to improve retention.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2295,
+        "title": "VR Cooperative Multiplayer Mechanics",
+        "domain": "24",
+        "description": "Design VR games with cooperative mechanics that encourage teamwork and communication among players.",
+        "keywords": ["VR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2296,
+        "title": "AI-Based NPC Emotional Modeling",
+        "domain": "24",
+        "description": "Create AI-driven NPCs with simulated emotional responses to enhance realism and engagement in games.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Interactive Media"]
+    },
+    {
+        "id": 2297,
+        "title": "Streaming Analytics for Game Performance",
+        "domain": "24",
+        "description": "Develop a system to monitor streaming quality, latency, and user engagement during live game broadcasts.",
+        "keywords": ["Streaming", "Game Analytics", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2298,
+        "title": "AR-Based Location Gaming Experience",
+        "domain": "24",
+        "description": "Build location-based AR games that interact with the real world to create immersive player experiences.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2299,
+        "title": "AI-Powered Personalized Game Content",
+        "domain": "24",
+        "description": "Design AI systems that generate personalized in-game content based on player preferences and behavior.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Game Engines"]
+    },
+    {
+        "id": 2300,
+        "title": "VR Adaptive Learning Games",
+        "domain": "24",
+        "description": "Create VR educational games that adapt learning content based on player performance and engagement.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2301,
+        "title": "Esports Player Performance Analytics",
+        "domain": "24",
+        "description": "Develop a platform that tracks and analyzes esports players’ performance metrics for training and coaching.",
+        "keywords": ["Esports", "Game Analytics", "Game Development", "Player Behavior"]
+    },
+    {
+        "id": 2302,
+        "title": "AI-Enhanced Multiplayer Matchmaking",
+        "domain": "24",
+        "description": "Build an AI system that improves multiplayer matchmaking by considering player skill, behavior, and engagement patterns.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Social Gaming"]
+    },
+    {
+        "id": 2303,
+        "title": "VR Social Gaming Hub",
+        "domain": "24",
+        "description": "Create a VR platform for social gaming where players can interact, collaborate, and compete in virtual spaces.",
+        "keywords": ["VR Gaming", "Social Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2304,
+        "title": "AR Educational Entertainment Games",
+        "domain": "24",
+        "description": "Design AR games that combine learning and entertainment to engage players while imparting knowledge.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2305,
+        "title": "AI-Powered Game Level Difficulty Tuning",
+        "domain": "24",
+        "description": "Develop an AI tool to dynamically tune game level difficulty for each player based on real-time performance.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Game Analytics"]
+    },
+    {
+        "id": 2306,
+        "title": "Streaming-Based Multiplayer Event Platform",
+        "domain": "24",
+        "description": "Create a platform for hosting multiplayer gaming events with integrated streaming and audience interaction features.",
+        "keywords": ["Streaming", "Game Development", "Esports", "Social Gaming"]
+    },
+    {
+        "id": 2307,
+        "title": "AI-Driven In-Game Economy Balancing",
+        "domain": "24",
+        "description": "Build an AI system to monitor and balance in-game economies, ensuring fair player progression and monetization stability.",
+        "keywords": ["Game AI", "Game Development", "Monetization", "Player Behavior"]
+    },
+    {
+        "id": 2308,
+        "title": "VR Puzzle Game with Adaptive Challenges",
+        "domain": "24",
+        "description": "Design a VR puzzle game that adapts challenges in real-time based on player skill and engagement levels.",
+        "keywords": ["VR Gaming", "Game Development", "Game AI", "Interactive Media"]
+    },
+    {
+        "id": 2309,
+        "title": "AR Multiplayer Collaboration Game",
+        "domain": "24",
+        "description": "Develop an AR game that encourages players to collaborate in real-world spaces for achieving game objectives.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2310,
+        "title": "AI-Powered Player Emotion Recognition",
+        "domain": "24",
+        "description": "Create an AI system that analyzes player emotions through gameplay data to enhance engagement and adapt content.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2311,
+        "title": "VR-Based Horror Game Immersion",
+        "domain": "24",
+        "description": "Design a VR horror game that dynamically adapts scares based on player reactions for maximum immersion.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2312,
+        "title": "AI-Driven Procedural Quest Generation",
+        "domain": "24",
+        "description": "Build an AI system that generates unique in-game quests and storylines tailored to each player.",
+        "keywords": ["Game AI", "Game Development", "Game Engines", "Interactive Media"]
+    },
+    {
+        "id": 2313,
+        "title": "Streaming-Integrated Viewer Interactivity",
+        "domain": "24",
+        "description": "Develop a platform that allows live stream viewers to influence game events and outcomes in real-time.",
+        "keywords": ["Streaming", "Interactive Media", "Game Development", "Social Gaming"]
+    },
+    {
+        "id": 2314,
+        "title": "AI-Powered Player Behavior Prediction",
+        "domain": "24",
+        "description": "Create an AI system to predict player behavior and preferences for improved game design and engagement.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2315,
+        "title": "VR Music Rhythm Gaming Experience",
+        "domain": "24",
+        "description": "Design a VR rhythm game that synchronizes player actions with immersive musical and visual feedback.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Social Gaming"]
+    },
+    {
+        "id": 2316,
+        "title": "AI-Powered Dynamic NPC Interaction",
+        "domain": "24",
+        "description": "Develop AI-driven NPCs that respond realistically to player actions and dialogue, enhancing game immersion.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Game Engines"]
+    },
+    {
+        "id": 2317,
+        "title": "AR Fitness Gamification Platform",
+        "domain": "24",
+        "description": "Create an AR game that integrates physical exercise into gameplay to motivate fitness through interactive challenges.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2318,
+        "title": "AI-Enhanced Esports Coaching Tool",
+        "domain": "24",
+        "description": "Build an AI system that analyzes esports player performance and suggests strategic improvements and practice plans.",
+        "keywords": ["Esports", "Game AI", "Player Behavior", "Game Analytics"]
+    },
+    {
+        "id": 2319,
+        "title": "VR Escape Room with Adaptive Challenges",
+        "domain": "24",
+        "description": "Design a VR escape room game that adapts puzzle difficulty based on real-time player problem-solving skills.",
+        "keywords": ["VR Gaming", "Game Development", "Game AI", "Interactive Media"]
+    },
+    {
+        "id": 2320,
+        "title": "Streaming-Driven Gamified Learning",
+        "domain": "24",
+        "description": "Develop a gamified learning platform that uses streaming and interactive challenges to teach concepts to players.",
+        "keywords": ["Streaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2321,
+        "title": "AI-Based In-Game Economy Forecasting",
+        "domain": "24",
+        "description": "Create an AI system to predict and balance in-game economic variables such as currency, resources, and player trades.",
+        "keywords": ["Game AI", "Game Analytics", "Game Development", "Monetization"]
+    },
+    {
+        "id": 2322,
+        "title": "AR Historical Adventure Games",
+        "domain": "24",
+        "description": "Design AR games that let players explore historical locations and events interactively through their devices.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Social Gaming"]
+    },
+    {
+        "id": 2323,
+        "title": "AI-Powered Personalized Game Tutorials",
+        "domain": "24",
+        "description": "Develop an AI system that provides personalized tutorials and hints to players based on skill level and gameplay style.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2324,
+        "title": "VR Social Hangout Platform",
+        "domain": "24",
+        "description": "Create a VR environment where players can socialize, interact, and play casual games in a shared virtual space.",
+        "keywords": ["VR Gaming", "Social Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2325,
+        "title": "AI-Powered Loot Drop System",
+        "domain": "24",
+        "description": "Build an AI system that dynamically adjusts loot and rewards in games based on player behavior and engagement.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Monetization"]
+    },
+    {
+        "id": 2326,
+        "title": "Streaming Analytics for Player Engagement",
+        "domain": "24",
+        "description": "Develop a system to analyze streaming data to monitor player engagement and optimize content delivery.",
+        "keywords": ["Streaming", "Game Analytics", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2327,
+        "title": "AR Puzzle Adventure Games",
+        "domain": "24",
+        "description": "Design AR puzzle games that blend real-world objects with virtual challenges to create immersive experiences.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2328,
+        "title": "AI-Based Adaptive Soundscapes in Games",
+        "domain": "24",
+        "description": "Create AI systems that dynamically generate game audio and music based on player actions and environment.",
+        "keywords": ["Game AI", "Game Development", "Interactive Media", "Game Engines"]
+    },
+    {
+        "id": 2329,
+        "title": "VR Competitive Esports Simulation",
+        "domain": "24",
+        "description": "Develop VR esports games with realistic competitive mechanics, real-time stats, and immersive player experiences.",
+        "keywords": ["VR Gaming", "Esports", "Game Development", "Streaming"]
+    },
+    {
+        "id": 2330,
+        "title": "AI-Powered Game Achievement Recommendations",
+        "domain": "24",
+        "description": "Build an AI system that recommends personalized achievements and challenges to increase player motivation.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2331,
+        "title": "AR Multiplayer Strategy Games",
+        "domain": "24",
+        "description": "Design AR strategy games where players interact with each other and the environment for competitive gameplay.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2332,
+        "title": "Streaming-Integrated Game Competitions",
+        "domain": "24",
+        "description": "Create a platform that integrates live streaming with game competitions and real-time audience interaction.",
+        "keywords": ["Streaming", "Game Development", "Esports", "Social Gaming"]
+    },
+    {
+        "id": 2333,
+        "title": "AI-Driven Personalized Quest Paths",
+        "domain": "24",
+        "description": "Develop AI that generates personalized quest paths for players based on their decisions, preferences, and gameplay style.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Engines"]
+    },
+    {
+        "id": 2334,
+        "title": "VR Exploration Game with Dynamic Weather",
+        "domain": "24",
+        "description": "Create a VR game where weather conditions change dynamically, affecting player movement and environment interactions.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Game AI"]
+    },
+    {
+        "id": 2335,
+        "title": "AI-Based Game NPC Relationship System",
+        "domain": "24",
+        "description": "Develop an AI system to simulate relationships between NPCs and players, affecting storyline progression and interactions.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2336,
+        "title": "AR Fitness Adventure Challenges",
+        "domain": "24",
+        "description": "Design AR games that encourage physical activity through interactive adventure challenges linked to real-world locations.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2337,
+        "title": "AI-Powered Dynamic Music in Games",
+        "domain": "24",
+        "description": "Create AI that generates adaptive music based on in-game events and player behavior for enhanced immersion.",
+        "keywords": ["Game AI", "Game Development", "Interactive Media", "Game Engines"]
+    },
+    {
+        "id": 2338,
+        "title": "VR Cooperative Puzzle Challenges",
+        "domain": "24",
+        "description": "Develop VR cooperative puzzle games that require players to collaborate in solving complex challenges in immersive environments.",
+        "keywords": ["VR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2339,
+        "title": "AI-Enhanced Game Tutorial Personalization",
+        "domain": "24",
+        "description": "Build an AI system that personalizes game tutorials based on a player's skill level, preferences, and learning pace.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2340,
+        "title": "AR Treasure Hunt Multiplayer Game",
+        "domain": "24",
+        "description": "Create an AR multiplayer treasure hunt game that blends virtual clues with real-world exploration.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2341,
+        "title": "AI-Powered In-Game Behavior Moderation",
+        "domain": "24",
+        "description": "Develop AI to monitor player interactions and automatically detect toxic or disruptive behavior in multiplayer games.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2342,
+        "title": "VR Music Creation Game",
+        "domain": "24",
+        "description": "Design a VR game that lets players create and manipulate music tracks interactively within immersive environments.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Social Gaming"]
+    },
+    {
+        "id": 2343,
+        "title": "AI-Powered Dynamic Game Storytelling",
+        "domain": "24",
+        "description": "Build an AI system that adapts the game narrative in real-time based on player choices and actions.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Interactive Media"]
+    },
+    {
+        "id": 2344,
+        "title": "AR Educational Quest Games",
+        "domain": "24",
+        "description": "Create AR games that combine educational content with interactive quests for immersive learning experiences.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2345,
+        "title": "AI-Powered Adaptive Enemy Scaling",
+        "domain": "24",
+        "description": "Develop AI that scales enemy strength, behavior, and tactics based on the player's skill and progression.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2346,
+        "title": "VR Social Space with Mini-Games",
+        "domain": "24",
+        "description": "Design a VR social hub where players can interact, compete in mini-games, and participate in events.",
+        "keywords": ["VR Gaming", "Social Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2347,
+        "title": "Streaming Analytics for Esports Engagement",
+        "domain": "24",
+        "description": "Create a system that analyzes streaming data to measure viewer engagement and optimize esports content delivery.",
+        "keywords": ["Streaming", "Game Analytics", "Esports", "Game Development"]
+    },
+    {
+        "id": 2348,
+        "title": "AI-Driven Personalized In-Game Rewards",
+        "domain": "24",
+        "description": "Develop AI to dynamically distribute in-game rewards tailored to player behavior and engagement patterns.",
+        "keywords": ["Game AI", "Player Behavior", "Monetization", "Game Development"]
+    },
+    {
+        "id": 2349,
+        "title": "AR Story-Based Adventure Games",
+        "domain": "24",
+        "description": "Build AR games where players’ real-world interactions influence an evolving narrative story.",
+        "keywords": ["AR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2350,
+        "title": "AI-Powered Player Skill Matching",
+        "domain": "24",
+        "description": "Create an AI system that matches players with similar skill levels for multiplayer game fairness and engagement.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Social Gaming"]
+    },
+    {
+        "id": 2351,
+        "title": "VR Physics-Based Puzzle Games",
+        "domain": "24",
+        "description": "Design VR games with realistic physics interactions to create challenging and immersive puzzle experiences.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Game AI"]
+    },
+    {
+        "id": 2352,
+        "title": "AI-Powered Game Content Moderation",
+        "domain": "24",
+        "description": "Develop AI to monitor in-game chat, content, and player interactions to prevent inappropriate behavior.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2353,
+        "title": "Streaming-Based Audience Participation Games",
+        "domain": "24",
+        "description": "Create games where live streaming viewers can interact and influence in-game events in real-time.",
+        "keywords": ["Streaming", "Game Development", "Interactive Media", "Social Gaming"]
+    },
+    {
+        "id": 2354,
+        "title": "AR Real-World Strategy Games",
+        "domain": "24",
+        "description": "Develop AR strategy games where players’ real-world movements and decisions impact gameplay outcomes.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2355,
+        "title": "AI-Powered Dynamic Puzzle Difficulty",
+        "domain": "24",
+        "description": "Create AI systems that adjust puzzle difficulty in real-time based on player performance and engagement.",
+        "keywords": ["Game AI", "Game Development", "Game Analytics", "Player Behavior"]
+    },
+    {
+        "id": 2356,
+        "title": "VR Multiplayer Cooperative Missions",
+        "domain": "24",
+        "description": "Design VR cooperative missions that require teamwork and strategy for completion in immersive environments.",
+        "keywords": ["VR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2357,
+        "title": "AI-Powered Player Engagement Scoring",
+        "domain": "24",
+        "description": "Develop AI that scores and analyzes player engagement to improve game design and content updates.",
+        "keywords": ["Game AI", "Game Analytics", "Player Behavior", "Game Development"]
+    },
+    {
+        "id": 2358,
+        "title": "AR Multiplayer Competitive Challenges",
+        "domain": "24",
+        "description": "Create AR competitive games where players compete in real-time challenges within physical spaces.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2359,
+        "title": "AI-Powered Procedural Dungeon Generation",
+        "domain": "24",
+        "description": "Develop an AI system that procedurally generates dungeons with unique layouts and challenges for each player.",
+        "keywords": ["Game AI", "Game Development", "Game Engines", "Interactive Media"]
+    },
+    {
+        "id": 2360,
+        "title": "VR Multiplayer Exploration Adventures",
+        "domain": "24",
+        "description": "Create VR games that allow multiple players to explore and interact in a shared virtual adventure world.",
+        "keywords": ["VR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2361,
+        "title": "AI-Powered In-Game Narrative Branching",
+        "domain": "24",
+        "description": "Build an AI system that dynamically adjusts storylines based on player choices and in-game behavior.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Interactive Media"]
+    },
+    {
+        "id": 2362,
+        "title": "AR Multiplayer Treasure Hunt",
+        "domain": "24",
+        "description": "Design AR games where players search for virtual treasures in real-world locations and compete with friends.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2363,
+        "title": "AI-Enhanced VR Combat Simulations",
+        "domain": "24",
+        "description": "Create AI-driven combat scenarios in VR that adapt to player skill levels and strategic choices.",
+        "keywords": ["Game AI", "VR Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2364,
+        "title": "Streaming-Based Interactive Storytelling",
+        "domain": "24",
+        "description": "Develop a streaming platform where viewers can influence the narrative of live game sessions.",
+        "keywords": ["Streaming", "Interactive Media", "Game Development", "Social Gaming"]
+    },
+    {
+        "id": 2365,
+        "title": "AI-Powered Loot Economy Balancing",
+        "domain": "24",
+        "description": "Build an AI system that dynamically balances in-game loot drops to maintain player engagement and fairness.",
+        "keywords": ["Game AI", "Game Development", "Monetization", "Game Analytics"]
+    },
+    {
+        "id": 2366,
+        "title": "VR Fitness Adventure Game",
+        "domain": "24",
+        "description": "Design VR games that encourage physical activity through adventure-based challenges and exploration.",
+        "keywords": ["VR Gaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2367,
+        "title": "AR Multiplayer Strategy Wars",
+        "domain": "24",
+        "description": "Create AR games that allow players to engage in real-world strategic battles against opponents.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2368,
+        "title": "AI-Powered Game Difficulty Personalization",
+        "domain": "24",
+        "description": "Develop AI systems that personalize difficulty levels for each player to improve engagement and satisfaction.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2369,
+        "title": "VR Puzzle Adventure with AI Hints",
+        "domain": "24",
+        "description": "Design VR puzzle games that use AI to provide adaptive hints based on player actions and progress.",
+        "keywords": ["VR Gaming", "Game AI", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2370,
+        "title": "Streaming-Integrated Multiplayer Challenges",
+        "domain": "24",
+        "description": "Build a platform where streamers can host real-time multiplayer challenges with audience participation.",
+        "keywords": ["Streaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2371,
+        "title": "AI-Driven NPC Emotion Simulation",
+        "domain": "24",
+        "description": "Create AI NPCs that simulate realistic emotions and respond dynamically to player actions.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Interactive Media"]
+    },
+    {
+        "id": 2372,
+        "title": "AR Interactive Story Quests",
+        "domain": "24",
+        "description": "Design AR games that let players influence the storyline by interacting with virtual objects in the real world.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2373,
+        "title": "VR Esports Spectator Engagement Platform",
+        "domain": "24",
+        "description": "Develop VR experiences for esports spectators to view, interact, and analyze live competitive gameplay.",
+        "keywords": ["VR Gaming", "Esports", "Streaming", "Interactive Media"]
+    },
+    {
+        "id": 2374,
+        "title": "AI-Powered Personalized Game Events",
+        "domain": "24",
+        "description": "Build AI systems to create personalized in-game events and challenges based on player behavior and engagement.",
+        "keywords": ["Game AI", "Player Behavior", "Game Development", "Game Analytics"]
+    },
+    {
+        "id": 2375,
+        "title": "VR Collaborative Puzzle Experiences",
+        "domain": "24",
+        "description": "Design VR puzzles that require real-time collaboration between multiple players in immersive environments.",
+        "keywords": ["VR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2376,
+        "title": "AR Social Gaming Platform",
+        "domain": "24",
+        "description": "Create AR experiences where players can interact socially, complete challenges, and share achievements.",
+        "keywords": ["AR Gaming", "Social Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2377,
+        "title": "AI-Based Game Monetization Optimization",
+        "domain": "24",
+        "description": "Develop AI systems that analyze in-game purchases and engagement to optimize monetization strategies.",
+        "keywords": ["Game AI", "Monetization", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2378,
+        "title": "Streaming-Enhanced Interactive Learning Games",
+        "domain": "24",
+        "description": "Design games that combine streaming with interactive learning challenges for engaging educational content.",
+        "keywords": ["Streaming", "Game Development", "Interactive Media", "Player Behavior"]
+    },
+    {
+        "id": 2379,
+        "title": "VR Multiplayer Social Hangouts",
+        "domain": "24",
+        "description": "Create VR social spaces where players can meet, chat, and participate in mini-games together.",
+        "keywords": ["VR Gaming", "Social Gaming", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2380,
+        "title": "AI-Powered Quest Recommendation Engine",
+        "domain": "24",
+        "description": "Develop AI systems that recommend quests and challenges personalized to each player’s style and skill level.",
+        "keywords": ["Game AI", "Player Behavior", "Game Analytics", "Game Development"]
+    },
+    {
+        "id": 2381,
+        "title": "AR Multiplayer Learning Adventures",
+        "domain": "24",
+        "description": "Design AR games that encourage multiplayer learning adventures combining education with interactive gameplay.",
+        "keywords": ["AR Gaming", "Game Development", "Social Gaming", "Interactive Media"]
+    },
+    {
+        "id": 2382,
+        "title": "AI-Powered Adaptive Sound Design",
+        "domain": "24",
+        "description": "Create AI systems that dynamically generate soundscapes and audio cues based on gameplay and player actions.",
+        "keywords": ["Game AI", "Game Development", "Interactive Media", "Game Engines"]
+    },
+    {
+        "id": 2383,
+        "title": "VR Adventure Game with Dynamic Puzzles",
+        "domain": "24",
+        "description": "Develop VR adventure games where puzzles adjust in real-time to player skill and decisions.",
+        "keywords": ["VR Gaming", "Game AI", "Game Development", "Interactive Media"]
+    },
+    {
+        "id": 2384,
+        "title": "Streaming-Integrated Competitive Games",
+        "domain": "24",
+        "description": "Create platforms that integrate streaming with competitive gameplay and real-time audience interaction.",
+        "keywords": ["Streaming", "Game Development", "Esports", "Social Gaming"]
+    },
+    {
+        "id": 2385,
+        "title": "AI-Powered Real-Time Game Event Adaptation",
+        "domain": "24",
+        "description": "Develop AI systems that adapt in-game events in real-time based on player interactions and behaviors.",
+        "keywords": ["Game AI", "Game Development", "Player Behavior", "Interactive Media"]
+    },
 
-
-
-
-        // GAMING & ENTERTAINMENT (Domain 24)
-        {
-            "id": 2401,
-            "title": "Procedural Game World Generator",
-            "domain": "24",
-            "description": "Create a system that generates infinite, coherent game worlds with realistic geography, ecosystems, and civilizations.",
-            "keywords": ["Procedural Generation", "Game Worlds", "AI", "World Building"]
-        },
-        {
-            "id": 2402,
-            "title": "AI Game Companion System",
-            "domain": "24",
-            "description": "Design intelligent NPCs that adapt to player behavior, remember interactions, and provide personalized gaming experiences.",
-            "keywords": ["Game AI", "NPC Behavior", "Adaptive Systems", "Player Experience"]
-        },
-        {
-            "id": 2403,
-            "title": "VR Motion Sickness Reducer",
-            "domain": "24",
-            "description": "Develop techniques to reduce motion sickness in VR games while maintaining immersion and gameplay quality.",
-            "keywords": ["VR", "Motion Sickness", "User Experience", "Health"]
-        },
-
-        // MATERIALS SCIENCE (Domain 25)
+       // MATERIALS SCIENCE (Domain 25)
         {
             "id": 2501,
             "title": "Smart Material Property Predictor",
