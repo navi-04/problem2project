@@ -7682,371 +7682,371 @@ const PROBLEMS_DATA = {
 {
   "id": 1001,
   "title": "AI-Driven Early Disease Detection Wearable",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that uses AI to continuously monitor vital signs and detect early onset of chronic diseases.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1002,
   "title": "Telemedicine VR Consultation Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a VR-based telemedicine system that allows immersive doctor-patient consultations with real-time biometric feedback.",
   "keywords": ["Telemedicine", "Digital Health", "Health IT", "Medical Imaging"]
 },
 {
   "id": 1003,
   "title": "Predictive Epidemic Spread Model Using Social Data",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a predictive system combining epidemiological data and social media trends to forecast outbreaks and guide public health interventions.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1004,
   "title": "Smart Prosthetic Limb with Neural Feedback",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a prosthetic limb that integrates neural sensors to provide users with real-time tactile and motion feedback.",
   "keywords": ["Medical Devices", "Biomedical Engineering", "Health IT", "Digital Health"]
 },
 {
   "id": 1005,
   "title": "AI-Powered Drug Interaction Alert System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a system that uses AI to analyze patient prescriptions and medical history to alert healthcare providers of potential adverse drug interactions.",
   "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
 },
 {
   "id": 1006,
   "title": "Personalized Mental Health Chatbot",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a chatbot that uses AI and patient behavioral data to provide tailored mental health guidance and coping strategies.",
   "keywords": ["Digital Health", "Health IT", "Public Health", "Healthcare Analytics"]
 },
 {
   "id": 1007,
   "title": "Portable AI Diagnostic Ultrasound",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a compact, AI-assisted ultrasound device for remote areas that can provide instant diagnostics and imaging analysis.",
   "keywords": ["Medical Devices", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1008,
   "title": "Blockchain-Based Patient Data Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Implement a secure blockchain system for storing and sharing patient records across hospitals while maintaining privacy and compliance.",
   "keywords": ["Health IT", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1009,
   "title": "AI-Enhanced Tele-Rehabilitation Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a remote rehabilitation system using AI to monitor patient exercises and provide corrective feedback to optimize recovery.",
   "keywords": ["Telemedicine", "Healthcare Analytics", "Digital Health", "Medical Devices"]
 },
 {
   "id": 1010,
   "title": "Genomic Data Integration for Personalized Medicine",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a platform that integrates genomic data with patient health records to recommend personalized treatments and drug regimens.",
   "keywords": ["Biomedical Engineering", "Healthcare Analytics", "Clinical Research", "Drug Discovery"]
 },
 {
   "id": 1011,
   "title": "Wearable Continuous Glucose Monitor with AI Alerts",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable device that tracks glucose levels continuously and sends AI-based alerts for abnormal readings.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1012,
   "title": "Remote Cardiac Monitoring System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a telemedicine-enabled cardiac monitoring system for early detection of arrhythmias and heart failure symptoms.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
 {
   "id": 1013,
   "title": "AI-Powered Epidemic Risk Mapping",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Build a platform that uses AI to map high-risk epidemic zones based on health, mobility, and environmental data.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1014,
   "title": "3D-Printed Biocompatible Implants",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create custom 3D-printed implants that are biocompatible and tailored to patient anatomy using imaging data.",
   "keywords": ["Biomedical Engineering", "Medical Devices", "Medical Imaging", "Digital Health"]
 },
 {
   "id": 1015,
   "title": "AI-Based Personalized Drug Dosage System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a system that calculates personalized drug doses based on patient genetics, metabolism, and health data.",
   "keywords": ["Drug Discovery", "Healthcare Analytics", "Health IT", "Clinical Research"]
 },
 {
   "id": 1016,
   "title": "Telemedicine Platform for Rural Maternal Care",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telemedicine platform to provide remote prenatal and postnatal care for rural populations.",
   "keywords": ["Telemedicine", "Public Health", "Health IT", "Digital Health"]
 },
 {
   "id": 1017,
   "title": "AI-Assisted Cancer Screening Tool",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that analyzes imaging data to detect early-stage cancers with higher accuracy.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1018,
   "title": "Wearable Mental Health Monitoring System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a wearable device that tracks mood, sleep, and activity patterns to provide early warning signs of mental health issues.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1019,
   "title": "Smart Hospital Resource Optimization Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Implement a platform that uses AI to optimize allocation of beds, staff, and medical resources in hospitals.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1020,
   "title": "Blockchain-Based Clinical Trial Data Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a secure blockchain system for storing and sharing clinical trial data to enhance transparency and reproducibility.",
   "keywords": ["Clinical Research", "Health IT", "Healthcare Analytics", "Digital Health"]
 },
 {
   "id": 1021,
   "title": "AI-Powered Nutritional Recommendation System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a platform that provides personalized dietary recommendations based on health records and lifestyle data.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
 },
 {
   "id": 1022,
   "title": "Remote Sleep Disorder Diagnostic Tool",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a telemedicine device that monitors sleep patterns and detects sleep disorders remotely.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
 {
   "id": 1023,
   "title": "AI-Assisted Rehabilitation Exoskeleton",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create an exoskeleton system that provides AI-guided physical therapy for patients with mobility impairments.",
   "keywords": ["Medical Devices", "Biomedical Engineering", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1024,
   "title": "Predictive Analytics for Hospital Readmissions",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a predictive system that identifies patients at risk of readmission using healthcare data and AI.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1025,
   "title": "AI-Driven Personalized Vaccination Planner",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a system that recommends personalized vaccination schedules based on individual health profiles and epidemiological data.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Health IT"]
 },
 {
   "id": 1026,
   "title": "Smart Inhaler with Usage Analytics",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a connected inhaler device that tracks usage patterns and provides analytics to patients and healthcare providers.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1027,
   "title": "Telepathology for Remote Diagnosis",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telepathology platform that allows pathologists to examine digital slides remotely for faster diagnoses.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1028,
   "title": "AI-Based Rare Disease Identification System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI tool that analyzes symptoms and genetic data to identify rare diseases earlier than conventional methods.",
   "keywords": ["Clinical Research", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1029,
   "title": "Wearable Blood Pressure Monitor with Trend Analysis",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a wearable device that monitors blood pressure continuously and uses AI to detect abnormal trends.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1030,
   "title": "AI-Powered Radiology Workflow Optimizer",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a system that uses AI to prioritize and optimize radiology imaging workflows for faster diagnoses.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Health IT", "Digital Health"]
 },
 {
   "id": 1031,
   "title": "Smart Contact Lens for Glucose Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a contact lens that continuously measures glucose levels and transmits the data to a mobile app for real-time monitoring.",
   "keywords": ["Medical Devices", "Digital Health", "Biomedical Engineering", "Healthcare Analytics"]
 },
 {
   "id": 1032,
   "title": "AI-Assisted Stroke Rehabilitation Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a tele-rehabilitation platform that uses AI to monitor stroke patients’ exercises and provide adaptive therapy guidance.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1033,
   "title": "Personalized Telehealth Nutrition Coaching",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telehealth platform that provides personalized nutrition coaching based on patient health metrics and lifestyle data.",
   "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1034,
   "title": "AI-Based Diagnostic Support for Rare Cancers",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI tool that assists clinicians in diagnosing rare cancers using imaging data and patient history.",
   "keywords": ["Medical Imaging", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1035,
   "title": "Remote Pulmonary Function Monitoring Device",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a portable device that remotely monitors pulmonary function and sends alerts for abnormal respiratory patterns.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Telemedicine"]
 },
 {
   "id": 1036,
   "title": "AI-Enhanced Pandemic Response Simulator",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a simulation platform that uses AI to model pandemic scenarios and guide public health decision-making.",
   "keywords": ["Epidemiology", "Healthcare Analytics", "Public Health", "Digital Health"]
 },
 {
   "id": 1037,
   "title": "Smart Wearable for Post-Surgical Recovery",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable device that tracks patient vitals and mobility post-surgery, providing recovery insights to clinicians.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1038,
   "title": "Telemedicine Platform for Chronic Disease Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine system for continuous monitoring and management of chronic diseases like diabetes and hypertension.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
 },
 {
   "id": 1039,
   "title": "AI-Powered Early Sepsis Detection System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI-driven system that analyzes patient vitals and lab results to detect sepsis early in hospital settings.",
   "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1040,
   "title": "Blockchain-Enabled Vaccine Supply Chain Tracker",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a blockchain system to securely track vaccine distribution and ensure authenticity and proper storage conditions.",
   "keywords": ["Health IT", "Public Health", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1041,
   "title": "Smart Wearable for Detecting Sleep Apnea",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that continuously monitors breathing patterns and identifies signs of sleep apnea.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1042,
   "title": "AI-Assisted Remote Orthopedic Assessment",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform that uses AI to assess orthopedic injuries through imaging and motion capture data.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1043,
   "title": "Predictive Analytics for Hospital Resource Allocation",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that predicts hospital resource needs to optimize staffing, equipment, and bed allocation.",
   "keywords": ["Healthcare Analytics", "Health IT", "Public Health", "Digital Health"]
 },
 {
   "id": 1044,
   "title": "AI-Based Dermatology Diagnostic Tool",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design an AI tool that analyzes skin images to detect dermatological conditions with high accuracy.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1045,
   "title": "Smart Pill Dispenser with Adherence Tracking",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a connected pill dispenser that tracks medication adherence and sends alerts to patients and caregivers.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Health IT"]
 },
 {
   "id": 1046,
   "title": "Telemedicine Platform for Remote Physiotherapy",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a telemedicine system that enables remote physiotherapy sessions with real-time motion tracking and guidance.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1047,
   "title": "AI-Powered Early Detection of Neurological Disorders",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create an AI system that analyzes patient data and imaging to detect early signs of neurological disorders.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1048,
   "title": "Wearable Stress and Heart Rate Variability Monitor",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable that tracks stress levels using heart rate variability and provides feedback for stress management.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1049,
   "title": "AI-Based Clinical Decision Support for ICU",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a decision support system that uses AI to provide real-time recommendations for critical care patients in ICUs.",
   "keywords": ["Healthcare Analytics", "Clinical Research", "Health IT", "Digital Health"]
 },
 {
   "id": 1050,
   "title": "Remote Rehabilitation Robot with Telemonitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a robotic rehabilitation system that allows remote physiotherapy with real-time monitoring and AI feedback.",
   "keywords": ["Medical Devices", "Telemedicine", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1051,
   "title": "AI-Enabled Early Detection of Diabetic Retinopathy",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that analyzes retinal images to detect diabetic retinopathy at its earliest stages.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1052,
   "title": "Telemedicine-Based Geriatric Care System",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform tailored for elderly patients, providing remote monitoring and personalized care plans.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Public Health"]
 },
 {
   "id": 1053,
   "title": "Smart Wearable for Continuous Cardiac Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable device that continuously monitors heart rate, rhythm, and oxygen levels to detect cardiac anomalies.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
@@ -8060,350 +8060,7424 @@ const PROBLEMS_DATA = {
 {
   "id": 1055,
   "title": "Remote Patient Monitoring for Respiratory Diseases",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine-enabled system that monitors respiratory parameters and alerts healthcare providers for anomalies.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1056,
   "title": "AI-Powered Mental Health Risk Assessment",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design an AI platform that evaluates behavioral and physiological data to assess mental health risks in individuals.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
 },
 {
   "id": 1057,
   "title": "Blockchain-Enabled Patient Consent Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Implement a blockchain system for secure management of patient consent for treatments and data sharing.",
   "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
 },
 {
   "id": 1058,
   "title": "Wearable Device for Continuous Oxygen Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that continuously monitors blood oxygen levels and alerts users to hypoxia events.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1059,
   "title": "AI-Assisted Remote Rehabilitation for Stroke Patients",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a tele-rehabilitation platform that uses AI to guide stroke patients through exercises and monitor progress remotely.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1060,
   "title": "Predictive Analytics for Hospital Infection Control",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that predicts potential hospital-acquired infections and recommends preventive measures.",
   "keywords": ["Healthcare Analytics", "Public Health", "Health IT", "Digital Health"]
 },
 {
   "id": 1061,
   "title": "AI-Based Early Detection of Parkinson’s Disease",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a platform that uses patient movement and speech patterns to detect early signs of Parkinson’s disease.",
   "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Devices", "Digital Health"]
 },
 {
   "id": 1062,
   "title": "Telemedicine Platform for Remote Dermatology",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a telemedicine system allowing dermatologists to diagnose skin conditions remotely using high-resolution imaging.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1063,
   "title": "Smart Wearable for Continuous Hydration Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a wearable device that monitors hydration levels and alerts users to maintain optimal fluid intake.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1064,
   "title": "AI-Powered Early Detection of Alzheimer’s Disease",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a platform that analyzes cognitive tests and imaging data to identify early signs of Alzheimer’s disease.",
   "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Medical Imaging", "Digital Health"]
 },
 {
   "id": 1065,
   "title": "Remote Tele-Ophthalmology for Rural Areas",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telemedicine system that provides eye care services and diagnostics to underserved rural populations.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Public Health"]
 },
 {
   "id": 1066,
   "title": "AI-Enhanced Medication Management Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create an AI system that monitors patient prescriptions, detects potential drug conflicts, and optimizes treatment plans.",
   "keywords": ["Health IT", "Healthcare Analytics", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1067,
   "title": "Wearable System for Continuous Pain Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that tracks pain levels and physiological signals, providing feedback to patients and clinicians.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1068,
   "title": "AI-Powered Remote Pediatric Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telemedicine platform that monitors vital signs and growth metrics in children remotely, with AI analysis for early warning.",
   "keywords": ["Telemedicine", "Health IT", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1069,
   "title": "Predictive Analytics for Chronic Kidney Disease",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that predicts progression of chronic kidney disease based on lab results and lifestyle data.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
 },
 {
   "id": 1070,
   "title": "Telemedicine-Enabled Remote Physical Therapy Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform allowing patients to perform guided physical therapy exercises remotely with AI feedback.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1071,
   "title": "AI-Based Detection of Sleep Disorders from Wearable Data",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that analyzes sleep patterns collected from wearables to detect disorders like insomnia or sleep apnea.",
   "keywords": ["Healthcare Analytics", "Medical Devices", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1072,
   "title": "Remote Tele-ENT Diagnostic Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform that allows ENT specialists to perform remote examinations and provide diagnostics for ear, nose, and throat conditions.",
   "keywords": ["Telemedicine", "Medical Imaging", "Health IT", "Digital Health"]
 },
 {
   "id": 1073,
   "title": "Wearable System for Detecting Early-Onset Arthritis",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable device that monitors joint movements and inflammation indicators to detect early-onset arthritis.",
   "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1074,
   "title": "AI-Assisted Personalized Oncology Care",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a platform that uses patient data and genomics to provide personalized oncology treatment recommendations.",
   "keywords": ["Drug Discovery", "Clinical Research", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1075,
   "title": "Telemedicine Platform for Remote Pulmonology Care",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a system that allows pulmonologists to remotely monitor lung function and provide consultations to patients in remote locations.",
   "keywords": ["Telemedicine", "Medical Devices", "Health IT", "Digital Health"]
 },
 {
   "id": 1076,
   "title": "AI-Powered Cardiovascular Risk Assessment Tool",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a tool that analyzes lifestyle, lab, and wearable data to provide early cardiovascular risk assessments.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Public Health"]
 },
 {
   "id": 1077,
   "title": "Blockchain-Based Secure Medical Imaging Repository",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a blockchain-enabled platform for secure storage and sharing of medical imaging data across hospitals.",
   "keywords": ["Medical Imaging", "Health IT", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1078,
   "title": "Smart Wearable for Continuous Blood Pressure Tracking",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that continuously monitors blood pressure and alerts users and doctors for abnormal readings.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1079,
   "title": "Telemedicine-Based Remote Nutritional Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a platform that allows dietitians to monitor patients’ nutritional intake and health remotely.",
   "keywords": ["Telemedicine", "Digital Health", "Health IT", "Public Health"]
 },
 {
   "id": 1080,
   "title": "AI-Assisted Early Detection of Liver Diseases",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that analyzes lab results and imaging data to detect liver diseases at early stages.",
   "keywords": ["Healthcare Analytics", "Medical Imaging", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1081,
   "title": "Wearable Device for Real-Time Stress Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a wearable that monitors physiological stress indicators and provides real-time feedback for stress reduction.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1082,
   "title": "Remote AI-Based Orthopedic Surgery Planning",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform that uses AI to assist in pre-operative planning and simulations for orthopedic surgeries.",
   "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1083,
   "title": "AI-Powered Early Detection of Kidney Disease",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a predictive system that analyzes lab results and patient data to detect kidney disease at an early stage.",
   "keywords": ["Healthcare Analytics", "Biomedical Engineering", "Digital Health", "Clinical Research"]
 },
 {
   "id": 1084,
   "title": "Smart Inhaler with AI Usage Analytics",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a connected inhaler that tracks medication use and provides AI-generated insights to optimize asthma management.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1085,
   "title": "Telemedicine Platform for Remote Cardiac Rehab",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a system enabling patients to undergo cardiac rehabilitation remotely with AI-monitored exercises.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1086,
   "title": "AI-Based Detection of Gastrointestinal Disorders",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a platform that uses patient imaging and clinical data to detect gastrointestinal disorders early.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Biomedical Engineering", "Digital Health"]
 },
 {
   "id": 1087,
   "title": "Wearable Device for Real-Time Hydration Alerts",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that monitors hydration levels continuously and sends alerts for timely water intake.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1088,
   "title": "AI-Assisted Remote Pediatric Vaccination Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine platform that tracks pediatric vaccination schedules and compliance remotely using AI.",
   "keywords": ["Telemedicine", "Public Health", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1089,
   "title": "Predictive Analytics for ICU Patient Outcomes",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop an AI system that predicts outcomes and complications in ICU patients to support clinical decision-making.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Clinical Research", "Health IT"]
 },
 {
   "id": 1090,
   "title": "Telemedicine-Enabled Remote Diabetes Management",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a platform that allows remote monitoring and management of diabetic patients’ blood sugar and lifestyle habits.",
   "keywords": ["Telemedicine", "Medical Devices", "Digital Health", "Healthcare Analytics"]
 },
 {
   "id": 1091,
   "title": "AI-Based Early Detection of Lung Diseases",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a predictive system that uses imaging and clinical data to detect lung diseases early.",
   "keywords": ["Medical Imaging", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1092,
   "title": "Wearable Device for Monitoring Pediatric Vital Signs",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a wearable system that continuously tracks pediatric vital signs and sends alerts for abnormal readings.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Public Health"]
 },
 {
   "id": 1093,
   "title": "AI-Assisted Tele-Neurology Platform",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a telemedicine platform that enables remote neurological assessments using AI analysis of patient data.",
   "keywords": ["Telemedicine", "Medical Imaging", "Healthcare Analytics", "Digital Health"]
 },
 {
   "id": 1094,
   "title": "Smart Wearable for Blood Glucose Trend Prediction",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable device that predicts future blood glucose trends using AI and patient data.",
   "keywords": ["Medical Devices", "Healthcare Analytics", "Digital Health", "Biomedical Engineering"]
 },
 {
   "id": 1095,
   "title": "AI-Based Remote Monitoring of Heart Failure Patients",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a telemedicine system that monitors heart failure patients remotely and predicts potential complications.",
   "keywords": ["Telemedicine", "Healthcare Analytics", "Medical Devices", "Digital Health"]
 },
 {
   "id": 1096,
   "title": "Blockchain-Based Secure Medical Records Sharing",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a blockchain system for secure sharing of medical records across healthcare providers while ensuring privacy.",
   "keywords": ["Health IT", "Digital Health", "Public Health", "Healthcare Analytics"]
 },
 {
   "id": 1097,
   "title": "AI-Powered Predictive Model for Chronic Pain",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a system that predicts chronic pain flare-ups based on patient data and wearable signals.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Biomedical Engineering", "Medical Devices"]
 },
 {
   "id": 1098,
   "title": "Telemedicine Platform for Remote Oncology Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Create a system for remote monitoring of oncology patients, including vitals, medication adherence, and symptom tracking.",
   "keywords": ["Telemedicine", "Digital Health", "Healthcare Analytics", "Medical Devices"]
 },
 {
   "id": 1099,
   "title": "Wearable Device for Continuous Respiratory Monitoring",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Develop a wearable system that tracks breathing patterns continuously and alerts for abnormalities.",
   "keywords": ["Medical Devices", "Digital Health", "Healthcare Analytics", "Biomedical Engineering"]
 },
 {
   "id": 1100,
   "title": "AI-Enabled Personalized Health Risk Assessment",
-  "domain": "Healthcare & Public Health",
+  "domain": "10",
   "description": "Design a platform that analyzes patient data to provide personalized health risk assessments and recommendations.",
   "keywords": ["Healthcare Analytics", "Digital Health", "Public Health", "Biomedical Engineering"]
 },
+//UX and Product Design(domain 12)
+  {
+    "id": 1100,
+    "title": "AI-Powered User Experience Personalizer",
+    "domain": "12",
+    "description": "Design an intelligent system that personalizes user experiences in real-time based on behavioral patterns, preferences, and contextual data to enhance engagement and satisfaction.",
+    "keywords": ["User Experience", "Personalization", "AI", "Behavioral Analysis"]
+  },
+  {
+    "id": 1101,
+    "title": "Accessibility-First Design Framework",
+    "domain": "12",
+    "description": "Create a comprehensive design framework that prioritizes accessibility from the ground up, ensuring inclusive digital experiences for users with diverse abilities and needs.",
+    "keywords": ["Accessibility", "Inclusive Design", "Design Framework", "Universal Access"]
+  },
+  {
+    "id": 1102,
+    "title": "Voice-Driven User Interface Designer",
+    "domain": "12",
+    "description": "Develop a platform for designing voice-driven user interfaces that seamlessly integrate speech recognition with visual elements for multi-modal interactions.",
+    "keywords": ["User Interface", "Voice Design", "Multi-modal", "Interaction Design"]
+  },
+  {
+    "id": 1103,
+    "title": "Real-Time Usability Testing Platform",
+    "domain": "12",
+    "description": "Build a platform that conducts real-time usability testing with remote users, providing instant feedback and analytics on user behavior and interface effectiveness.",
+    "keywords": ["Usability Testing", "Real-time Analytics", "Remote Testing", "User Research"]
+  },
+  {
+    "id": 1104,
+    "title": "Collaborative Design Thinking Workshop Tool",
+    "domain": "12",
+    "description": "Create a digital tool that facilitates collaborative design thinking workshops, enabling distributed teams to ideate, prototype, and iterate on solutions together.",
+    "keywords": ["Design Thinking", "Collaboration", "Workshop", "Remote Teams"]
+  },
+  {
+    "id": 1105,
+    "title": "AR-Enhanced Prototyping Environment",
+    "domain": "12",
+    "description": "Design an augmented reality environment for rapid prototyping that allows designers to create and test 3D interfaces in real-world contexts.",
+    "keywords": ["Prototyping", "Augmented Reality", "3D Design", "Spatial Computing"]
+  },
+  {
+    "id": 1106,
+    "title": "Information Architecture Optimization Engine",
+    "domain": "12",
+    "description": "Develop an AI-driven engine that optimizes information architecture by analyzing user navigation patterns and content relationships to improve findability.",
+    "keywords": ["Information Architecture", "Navigation", "Content Organization", "User Behavior"]
+  },
+  {
+    "id": 1107,
+    "title": "Emotion-Aware Interface Adapter",
+    "domain": "12",
+    "description": "Build an interface system that adapts visual design elements based on detected user emotions and stress levels to improve user comfort and engagement.",
+    "keywords": ["Visual Design", "Emotion Recognition", "Adaptive Interface", "User Comfort"]
+  },
+  {
+    "id": 1108,
+    "title": "Cross-Platform Product Management Suite",
+    "domain": "12",
+    "description": "Create a comprehensive product management suite that maintains consistency across multiple platforms while adapting to each platform's unique design patterns.",
+    "keywords": ["Product Management", "Cross-platform", "Consistency", "Platform Adaptation"]
+  },
+  {
+    "id": 1109,
+    "title": "Micro-Interaction Design Generator",
+    "domain": "12",
+    "description": "Design a tool that generates contextually appropriate micro-interactions based on user actions and interface elements to enhance the overall user experience.",
+    "keywords": ["Interaction Design", "Micro-interactions", "Animation", "User Feedback"]
+  },
+  {
+    "id": 1110,
+    "title": "Cultural Context Design Advisor",
+    "domain": "12",
+    "description": "Develop an advisory system that helps designers adapt interfaces for different cultural contexts, considering color meanings, reading patterns, and cultural norms.",
+    "keywords": ["Cultural Design", "Localization", "User Experience", "Global Markets"]
+  },
+  {
+    "id": 1111,
+    "title": "Biometric User Research Platform",
+    "domain": "12",
+    "description": "Build a platform that integrates biometric data (eye tracking, heart rate, facial expressions) with traditional user research methods for deeper insights.",
+    "keywords": ["User Research", "Biometric Data", "Eye Tracking", "Physiological Response"]
+  },
+  {
+    "id": 1112,
+    "title": "Design System Consistency Checker",
+    "domain": "12",
+    "description": "Create an automated tool that ensures design consistency across large-scale products by checking adherence to established design systems and style guides.",
+    "keywords": ["Design System", "Consistency", "Quality Assurance", "Style Guide"]
+  },
+  {
+    "id": 1113,
+    "title": "Gesture-Based Interface Designer",
+    "domain": "12",
+    "description": "Design a platform for creating gesture-based interfaces that recognizes and responds to hand movements, head gestures, and body language.",
+    "keywords": ["Gesture Interface", "Motion Design", "Natural Interaction", "User Interface"]
+  },
+  {
+    "id": 1114,
+    "title": "Cognitive Load Assessment Tool",
+    "domain": "12",
+    "description": "Develop a tool that measures and visualizes cognitive load in user interfaces, helping designers optimize complexity and improve user mental models.",
+    "keywords": ["Cognitive Load", "Mental Models", "Usability", "Interface Complexity"]
+  },
+  {
+    "id": 1115,
+    "title": "Inclusive Color Palette Generator",
+    "domain": "12",
+    "description": "Create a color palette generator that ensures accessibility for colorblind users while maintaining brand identity and visual hierarchy.",
+    "keywords": ["Accessibility", "Color Theory", "Visual Design", "Colorblind Support"]
+  },
+  {
+    "id": 1116,
+    "title": "Journey Mapping Automation Platform",
+    "domain": "12",
+    "description": "Build an automated platform that creates comprehensive user journey maps by analyzing user behavior data and identifying pain points across touchpoints.",
+    "keywords": ["User Journey", "Journey Mapping", "Pain Points", "Touchpoint Analysis"]
+  },
+  {
+    "id": 1117,
+    "title": "VR Collaborative Design Studio",
+    "domain": "12",
+    "description": "Design a virtual reality environment where design teams can collaborate on 3D interfaces and spatial experiences in shared virtual spaces.",
+    "keywords": ["Virtual Reality", "Collaborative Design", "3D Interface", "Spatial Design"]
+  },
+  {
+    "id": 1118,
+    "title": "Contextual Help System Builder",
+    "domain": "12",
+    "description": "Develop a system that creates contextual help interfaces that appear based on user behavior patterns and current task complexity.",
+    "keywords": ["Contextual Help", "User Assistance", "Task Analysis", "Adaptive Interface"]
+  },
+  {
+    "id": 1119,
+    "title": "Typography Accessibility Optimizer",
+    "domain": "12",
+    "description": "Create an optimization tool that adjusts typography for maximum readability across different devices, lighting conditions, and user visual abilities.",
+    "keywords": ["Typography", "Accessibility", "Readability", "Visual Design"]
+  },
+  {
+    "id": 1120,
+    "title": "Multi-Generational UX Adapter",
+    "domain": "12",
+    "description": "Build an interface adaptation system that modifies user experiences based on generational preferences and digital literacy levels.",
+    "keywords": ["Generational Design", "Digital Literacy", "User Experience", "Adaptation"]
+  },
+  {
+    "id": 1121,
+    "title": "Error Prevention Design Assistant",
+    "domain": "12",
+    "description": "Design an AI assistant that helps designers create error-preventing interfaces by analyzing common user mistakes and suggesting preventive measures.",
+    "keywords": ["Error Prevention", "User Mistakes", "Design Guidance", "Proactive Design"]
+  },
+  {
+    "id": 1122,
+    "title": "Haptic Feedback Design Tool",
+    "domain": "12",
+    "description": "Create a tool for designing haptic feedback patterns that enhance user interfaces with tactile sensations for mobile and wearable devices.",
+    "keywords": ["Haptic Feedback", "Tactile Design", "Mobile Interface", "Sensory Experience"]
+  },
+  {
+    "id": 1123,
+    "title": "Privacy-First Interface Designer",
+    "domain": "12",
+    "description": "Develop a design platform that prioritizes user privacy by default, implementing privacy-by-design principles in every interface element.",
+    "keywords": ["Privacy Design", "Data Protection", "Ethical Design", "User Trust"]
+  },
+  {
+    "id": 1124,
+    "title": "Attention Pattern Analyzer",
+    "domain": "12",
+    "description": "Build an analyzer that maps user attention patterns on interfaces to optimize layout, hierarchy, and content placement for maximum effectiveness.",
+    "keywords": ["Attention Patterns", "Layout Optimization", "Visual Hierarchy", "User Focus"]
+  },
+  {
+    "id": 1125,
+    "title": "Conversational UI Flow Designer",
+    "domain": "12",
+    "description": "Create a visual tool for designing complex conversational user interface flows with branching logic and context-aware responses.",
+    "keywords": ["Conversational UI", "Chatbot Design", "Flow Design", "Context Awareness"]
+  },
+  {
+    "id": 1126,
+    "title": "Accessibility Audit Automation Tool",
+    "domain": "12",
+    "description": "Design an automated tool that performs comprehensive accessibility audits on digital interfaces and provides actionable remediation recommendations.",
+    "keywords": ["Accessibility", "Automated Testing", "WCAG Compliance", "Audit Tool"]
+  },
+  {
+    "id": 1127,
+    "title": "Persona-Driven Design Generator",
+    "domain": "12",
+    "description": "Develop a system that generates design variations based on detailed user personas, adapting interfaces to match specific user group preferences.",
+    "keywords": ["User Personas", "Design Variation", "Target Audience", "Personalization"]
+  },
+  {
+    "id": 1128,
+    "title": "Dark Pattern Detection System",
+    "domain": "12",
+    "description": "Build a system that identifies and flags potential dark patterns in user interfaces, promoting ethical design practices and user empowerment.",
+    "keywords": ["Ethical Design", "Dark Patterns", "User Empowerment", "Design Ethics"]
+  },
+  {
+    "id": 1129,
+    "title": "Responsive Breakpoint Optimizer",
+    "domain": "12",
+    "description": "Create an optimization tool that determines optimal responsive breakpoints based on real user data and device usage patterns.",
+    "keywords": ["Responsive Design", "Breakpoints", "Device Adaptation", "Mobile First"]
+  },
+  {
+    "id": 1130,
+    "title": "Cognitive Bias Mitigation Designer",
+    "domain": "12",
+    "description": "Design a tool that helps identify and mitigate cognitive biases in user interface design, promoting more rational user decision-making.",
+    "keywords": ["Cognitive Bias", "Decision Making", "Behavioral Design", "User Psychology"]
+  },
+  {
+    "id": 1131,
+    "title": "Voice User Experience Composer",
+    "domain": "12",
+    "description": "Develop a composer for creating voice user experiences with natural language processing, conversation flows, and personality design.",
+    "keywords": ["Voice UX", "Natural Language", "Conversation Design", "Voice Personality"]
+  },
+  {
+    "id": 1132,
+    "title": "Interactive Tutorial Builder",
+    "domain": "12",
+    "description": "Build a platform that creates interactive, adaptive tutorials that adjust to user learning pace and comprehension levels.",
+    "keywords": ["Interactive Tutorial", "Onboarding", "Adaptive Learning", "User Education"]
+  },
+  {
+    "id": 1133,
+    "title": "Cross-Cultural Color Advisor",
+    "domain": "12",
+    "description": "Create an advisory tool that recommends culturally appropriate color schemes for global products based on regional color associations.",
+    "keywords": ["Cultural Design", "Color Psychology", "Global Markets", "Visual Design"]
+  },
+  {
+    "id": 1134,
+    "title": "Inclusive Icon Design System",
+    "domain": "12",
+    "description": "Design a comprehensive icon system that represents diverse populations and avoids cultural stereotypes while maintaining universal recognition.",
+    "keywords": ["Icon Design", "Inclusive Design", "Cultural Sensitivity", "Universal Symbols"]
+  },
+  {
+    "id": 1135,
+    "title": "Real-Time A/B Testing Dashboard",
+    "domain": "12",
+    "description": "Develop a dashboard that facilitates real-time A/B testing of design elements with immediate statistical analysis and user feedback integration.",
+    "keywords": ["A/B Testing", "Real-time Analytics", "Design Optimization", "Statistical Analysis"]
+  },
+  {
+    "id": 1136,
+    "title": "Emotional Design Impact Predictor",
+    "domain": "12",
+    "description": "Build a predictive tool that analyzes design elements and forecasts their emotional impact on users based on color theory and design psychology.",
+    "keywords": ["Emotional Design", "Color Psychology", "Design Impact", "Mood Prediction"]
+  },
+  {
+    "id": 1137,
+    "title": "Gesture Learning Interface Trainer",
+    "domain": "12",
+    "description": "Create an interface that teaches users new gesture interactions through guided practice and progressive complexity adaptation.",
+    "keywords": ["Gesture Learning", "Interface Training", "Progressive Disclosure", "User Education"]
+  },
+  {
+    "id": 1138,
+    "title": "Sustainable UX Design Assessor",
+    "domain": "12",
+    "description": "Design an assessment tool that evaluates the environmental impact of UX design decisions, promoting sustainable digital practices.",
+    "keywords": ["Sustainable Design", "Environmental Impact", "Green UX", "Eco-friendly Design"]
+  },
+  {
+    "id": 1139,
+    "title": "Neurodiverse Interface Adapter",
+    "domain": "12",
+    "description": "Develop an adaptive interface system that accommodates neurodivergent users with customizable sensory inputs and cognitive load adjustments.",
+    "keywords": ["Neurodiversity", "Adaptive Interface", "Sensory Design", "Cognitive Accommodation"]
+  },
+  {
+    "id": 1140,
+    "title": "Design Decision Documentation System",
+    "domain": "12",
+    "description": "Build a system that automatically documents design decisions, rationale, and user research insights to maintain design knowledge over time.",
+    "keywords": ["Design Documentation", "Decision Tracking", "Knowledge Management", "Design History"]
+  },
+  {
+    "id": 1141,
+    "title": "Multi-Modal Interaction Designer",
+    "domain": "12",
+    "description": "Create a platform for designing multi-modal interactions that combine touch, voice, gesture, and gaze input seamlessly.",
+    "keywords": ["Multi-modal Design", "Interaction Modes", "Input Fusion", "Natural Interaction"]
+  },
+  {
+    "id": 1142,
+    "title": "User Stress Level Monitor",
+    "domain": "12",
+    "description": "Design a monitoring system that tracks user stress indicators during interface interactions and suggests calming design modifications.",
+    "keywords": ["Stress Monitoring", "Biometric Feedback", "Calming Design", "User Wellness"]
+  },
+  {
+    "id": 1143,
+    "title": "Contextual Personalization Engine",
+    "domain": "12",
+    "description": "Develop an engine that personalizes interfaces based on current context including time, location, device, and user goals.",
+    "keywords": ["Contextual Design", "Personalization", "Location Awareness", "Temporal Adaptation"]
+  },
+  {
+    "id": 1144,
+    "title": "Design Pattern Impact Analyzer",
+    "domain": "12",
+    "description": "Build an analyzer that measures the effectiveness of different UI design patterns across various user demographics and use cases.",
+    "keywords": ["Design Patterns", "Pattern Analysis", "Effectiveness Metrics", "User Demographics"]
+  },
+  {
+    "id": 1145,
+    "title": "Inclusive Language Interface Checker",
+    "domain": "12",
+    "description": "Create a tool that reviews interface copy and suggests more inclusive, accessible language alternatives while maintaining brand voice.",
+    "keywords": ["Inclusive Language", "Content Design", "Accessibility", "Brand Voice"]
+  },
+  {
+    "id": 1146,
+    "title": "Gamification UX Framework",
+    "domain": "12",
+    "description": "Design a framework for integrating gamification elements into user experiences without creating addictive or manipulative patterns.",
+    "keywords": ["Gamification", "Engagement", "Ethical Gaming", "User Motivation"]
+  },
+  {
+    "id": 1147,
+    "title": "Cross-Device Experience Synchronizer",
+    "domain": "12",
+    "description": "Develop a system that maintains consistent user experiences across multiple devices while adapting to each device's capabilities.",
+    "keywords": ["Cross-device", "Experience Continuity", "Device Adaptation", "Seamless Transition"]
+  },
+  {
+    "id": 1148,
+    "title": "Age-Adaptive Interface Designer",
+    "domain": "12",
+    "description": "Build an interface adaptation system that modifies design elements based on user age demographics for optimal usability across age groups.",
+    "keywords": ["Age Adaptation", "Generational Design", "Age-friendly Design", "Demographic Targeting"]
+  },
+  {
+    "id": 1149,
+    "title": "Micro-Learning UX Designer",
+    "domain": "12",
+    "description": "Create a design platform that creates micro-learning experiences within interfaces to gradually educate users about features and capabilities.",
+    "keywords": ["Micro-learning", "In-app Education", "Progressive Disclosure", "Feature Discovery"]
+  },
+  {
+    "id": 1150,
+    "title": "Mental Model Alignment Tool",
+    "domain": "12",
+    "description": "Design a tool that helps align interface design with user mental models by analyzing user expectations and navigation patterns.",
+    "keywords": ["Mental Models", "User Expectations", "Interface Alignment", "Cognitive Mapping"]
+  },
+  {
+    "id": 1151,
+    "title": "Accessibility Feature Discovery Assistant",
+    "domain": "12",
+    "description": "Build an assistant that helps users discover and configure accessibility features based on their specific needs and preferences.",
+    "keywords": ["Accessibility Discovery", "Feature Configuration", "User Assistance", "Adaptive Help"]
+  },
+  {
+    "id": 1152,
+    "title": "Design Ethics Compliance Checker",
+    "domain": "12",
+    "description": "Develop a compliance checker that ensures design decisions align with ethical design principles and user welfare guidelines.",
+    "keywords": ["Design Ethics", "Ethical Compliance", "User Welfare", "Responsible Design"]
+  },
+  {
+    "id": 1153,
+    "title": "Attention Restoration Interface Designer",
+    "domain": "12",
+    "description": "Create interfaces that promote attention restoration through calming visuals, nature elements, and mindful interaction patterns.",
+    "keywords": ["Attention Restoration", "Mindful Design", "Calming Interface", "Digital Wellness"]
+  },
+  {
+    "id": 1154,
+    "title": "Cultural Navigation Pattern Analyzer",
+    "domain": "12",
+    "description": "Build an analyzer that studies navigation patterns across different cultures to inform culturally appropriate information architecture.",
+    "keywords": ["Cultural Navigation", "Reading Patterns", "Information Architecture", "Cultural UX"]
+  },
+  {
+    "id": 1155,
+    "title": "Wearable Interface Comfort Optimizer",
+    "domain": "12",
+    "description": "Design an optimization system for wearable interfaces that balances information density with physical comfort and usability.",
+    "keywords": ["Wearable Design", "Comfort Optimization", "Small Screen", "Physical Ergonomics"]
+  },
+  {
+    "id": 1156,
+    "title": "Empathy-Driven Design Validator",
+    "domain": "12",
+    "description": "Create a validation tool that measures how well design solutions address real user pain points and emotional needs.",
+    "keywords": ["Empathy Validation", "Pain Point Analysis", "Emotional Needs", "User Validation"]
+  },
+  {
+    "id": 1157,
+    "title": "Progressive Web App Experience Designer",
+    "domain": "12",
+    "description": "Develop a designer specifically for creating progressive web app experiences that feel native while leveraging web technologies.",
+    "keywords": ["Progressive Web Apps", "Native Feel", "Web Technologies", "App-like Experience"]
+  },
+  {
+    "id": 1158,
+    "title": "Biometric Authentication UX Designer",
+    "domain": "12",
+    "description": "Build a design platform for biometric authentication experiences that balance security with user convenience and privacy concerns.",
+    "keywords": ["Biometric Authentication", "Security UX", "Privacy Design", "User Convenience"]
+  },
+  {
+    "id": 1159,
+    "title": "Cognitive Load Balancer",
+    "domain": "12",
+    "description": "Create a system that dynamically adjusts interface complexity based on user cognitive capacity and current task demands.",
+    "keywords": ["Cognitive Load", "Dynamic Complexity", "Task Adaptation", "Mental Capacity"]
+  },
+  {
+    "id": 1160,
+    "title": "Social Anxiety Interface Adapter",
+    "domain": "12",
+    "description": "Design interfaces that accommodate users with social anxiety by providing private interaction modes and reduced social pressure points.",
+    "keywords": ["Social Anxiety", "Private Interaction", "Anxiety-friendly Design", "Social Comfort"]
+  },
+  {
+    "id": 1161,
+    "title": "Accessibility Impact Simulator",
+    "domain": "12",
+    "description": "Develop a simulator that allows designers to experience interfaces through various accessibility lenses including vision, hearing, and motor impairments.",
+    "keywords": ["Accessibility Simulation", "Empathy Tools", "Disability Awareness", "Design Testing"]
+  },
+  {
+    "id": 1162,
+    "title": "Minimalist Design Optimizer",
+    "domain": "12",
+    "description": "Build an optimizer that reduces interface complexity while maintaining functionality, following minimalist design principles effectively.",
+    "keywords": ["Minimalist Design", "Interface Simplification", "Essential Features", "Clean Design"]
+  },
+  {
+    "id": 1163,
+    "title": "User Flow Bottleneck Detector",
+    "domain": "12",
+    "description": "Create a detection system that identifies bottlenecks in user flows and suggests optimizations to improve conversion and satisfaction.",
+    "keywords": ["User Flow", "Bottleneck Detection", "Flow Optimization", "Conversion Improvement"]
+  },
+  {
+    "id": 1164,
+    "title": "Ambient Interface Information Designer",
+    "domain": "12",
+    "description": "Design ambient interfaces that convey information through subtle environmental cues without demanding direct attention.",
+    "keywords": ["Ambient Interface", "Subtle Information", "Peripheral Awareness", "Environmental Design"]
+  },
+  {
+    "id": 1165,
+    "title": "Trust Signal Design System",
+    "domain": "12",
+    "description": "Develop a design system for building trust signals into interfaces that increase user confidence and reduce abandonment rates.",
+    "keywords": ["Trust Signals", "User Confidence", "Security Indicators", "Credibility Design"]
+  },
+  {
+    "id": 1166,
+    "title": "Habit Formation Interface Designer",
+    "domain": "12",
+    "description": "Create interfaces that support positive habit formation through behavioral triggers, rewards, and progress visualization.",
+    "keywords": ["Habit Formation", "Behavioral Triggers", "Progress Tracking", "Positive Reinforcement"]
+  },
+  {
+    "id": 1167,
+    "title": "Accessibility Statement Generator",
+    "domain": "12",
+    "description": "Build a tool that automatically generates comprehensive accessibility statements based on interface design and implementation features.",
+    "keywords": ["Accessibility Statement", "Compliance Documentation", "Feature Documentation", "Legal Compliance"]
+  },
+  {
+    "id": 1168,
+    "title": "Seasonal Interface Adapter",
+    "domain": "12",
+    "description": "Design an adaptation system that modifies interface themes and mood based on seasonal changes and cultural celebrations.",
+    "keywords": ["Seasonal Design", "Temporal Adaptation", "Mood Variation", "Cultural Celebration"]
+  },
+  {
+    "id": 1169,
+    "title": "Error Recovery Experience Designer",
+    "domain": "12",
+    "description": "Develop a designer focused on creating helpful, encouraging error recovery experiences that guide users back to successful task completion.",
+    "keywords": ["Error Recovery", "User Guidance", "Helpful Errors", "Task Completion"]
+  },
+  {
+    "id": 1170,
+    "title": "Multi-Sensory Feedback Designer",
+    "domain": "12",
+    "description": "Create a platform for designing multi-sensory feedback systems that engage multiple senses for richer user experiences.",
+    "keywords": ["Multi-sensory Design", "Feedback Systems", "Sensory Engagement", "Rich Experience"]
+  },
+  {
+    "id": 1171,
+    "title": "Design Debt Tracking System",
+    "domain": "12",
+    "description": "Build a system that tracks and prioritizes design debt across products, helping teams maintain design quality over time.",
+    "keywords": ["Design Debt", "Quality Management", "Technical Debt", "Design Maintenance"]
+  },
+  {
+    "id": 1172,
+    "title": "Localization-Ready Design System",
+    "domain": "12",
+    "description": "Design a system that creates interfaces ready for localization with flexible layouts that accommodate various text lengths and directions.",
+    "keywords": ["Localization", "International Design", "Text Expansion", "RTL Support"]
+  },
+  {
+    "id": 1173,
+    "title": "User Motivation Profiler",
+    "domain": "12",
+    "description": "Develop a profiler that identifies user motivation types and suggests design approaches that align with different motivational frameworks.",
+    "keywords": ["User Motivation", "Motivation Profiling", "Behavioral Design", "Engagement Strategy"]
+  },
+  {
+    "id": 1174,
+    "title": "Design Handoff Automation Tool",
+    "domain": "12",
+    "description": "Create an automation tool that streamlines the design-to-development handoff process with specifications, assets, and implementation notes.",
+    "keywords": ["Design Handoff", "Developer Tools", "Specification Generation", "Asset Management"]
+  },
+  {
+    "id": 1175,
+    "title": "Emotional Journey Mapper",
+    "domain": "12",
+    "description": "Build a mapper that visualizes user emotional journeys through interfaces, identifying moments of frustration, delight, and neutral states.",
+    "keywords": ["Emotional Journey", "User Emotions", "Experience Mapping", "Emotional Design"]
+  },
+  {
+    "id": 1176,
+    "title": "Accessibility Training Simulator",
+    "domain": "12",
+    "description": "Design a training simulator that teaches designers and developers about accessibility through interactive scenarios and real-world examples.",
+    "keywords": ["Accessibility Training", "Interactive Learning", "Disability Simulation", "Educational Tool"]
+  },
+  {
+    "id": 1177,
+    "title": "Design System Scaling Assistant",
+    "domain": "12",
+    "description": "Develop an assistant that helps scale design systems across multiple products and teams while maintaining consistency and quality.",
+    "keywords": ["Design System Scaling", "Multi-product", "Team Coordination", "Consistency Management"]
+  },
+  {
+    "id": 1178,
+    "title": "User Attention Span Adapter",
+    "domain": "12",
+    "description": "Create an adaptive system that adjusts content presentation and interaction timing based on detected user attention span patterns.",
+    "keywords": ["Attention Span", "Content Adaptation", "Timing Optimization", "Focus Management"]
+  },
+  {
+    "id": 1179,
+    "title": "Inclusive Gesture Library Builder",
+    "domain": "12",
+    "description": "Build a library of inclusive gestures that accommodate various physical abilities and cultural gesture interpretations.",
+    "keywords": ["Inclusive Gestures", "Physical Accessibility", "Cultural Gestures", "Gesture Library"]
+  },
+  {
+    "id": 1180,
+    "title": "Design Performance Analytics Dashboard",
+    "domain": "12",
+    "description": "Design a dashboard that tracks design performance metrics including user satisfaction, task completion rates, and accessibility compliance.",
+    "keywords": ["Design Analytics", "Performance Metrics", "User Satisfaction", "Design KPIs"]
+  },
+  {
+    "id": 1181,
+    "title": "Contextual Content Prioritizer",
+    "domain": "12",
+    "description": "Develop a system that prioritizes content based on user context, goals, and current situation for optimal information hierarchy.",
+    "keywords": ["Content Prioritization", "Contextual Relevance", "Information Hierarchy", "Dynamic Content"]
+  },
+  {
+    "id": 1182,
+    "title": "Design Iteration Impact Tracker",
+    "domain": "12",
+    "description": "Create a tracking system that measures the impact of design iterations on user behavior and business metrics over time.",
+    "keywords": ["Design Iteration", "Impact Tracking", "Version Comparison", "Improvement Metrics"]
+  },
+  {
+    "id": 1183,
+    "title": "Accessibility Feature Usage Analyzer",
+    "domain": "12",
+    "description": "Build an analyzer that tracks how users interact with accessibility features to improve their design and discoverability.",
+    "keywords": ["Accessibility Usage", "Feature Analytics", "Usage Patterns", "Accessibility Improvement"]
+  },
+  {
+    "id": 1184,
+    "title": "Design Critique Facilitation Tool",
+    "domain": "12",
+    "description": "Design a tool that facilitates structured design critiques with guided questions and feedback frameworks for productive discussions.",
+    "keywords": ["Design Critique", "Feedback Framework", "Structured Review", "Team Collaboration"]
+  },
+  {
+    "id": 1185,
+    "title": "User Preference Learning System",
+    "domain": "12",
+    "description": "Develop a system that learns individual user preferences over time and adapts interface elements accordingly without explicit configuration.",
+    "keywords": ["Preference Learning", "Implicit Adaptation", "User Behavior", "Automatic Personalization"]
+  },
+  {
+    "id": 1186,
+    "title": "Design Accessibility Scoring Engine",
+    "domain": "12",
+    "description": "Create a scoring engine that evaluates design accessibility across multiple dimensions and provides improvement recommendations.",
+    "keywords": ["Accessibility Scoring", "Design Evaluation", "Improvement Recommendations", "Accessibility Metrics"]
+  },
+  {
+    "id": 1187,
+    "title": "Cross-Cultural Usability Validator",
+    "domain": "12",
+    "description": "Build a validator that tests interface usability across different cultural contexts and identifies potential cultural usability issues.",
+    "keywords": ["Cross-cultural Usability", "Cultural Testing", "Global Validation", "Cultural Sensitivity"]
+  },
+  {
+    "id": 1188,
+    "title": "Design Token Management Platform",
+    "domain": "12",
+    "description": "Design a platform for managing design tokens across multiple platforms and ensuring consistency in design implementation.",
+    "keywords": ["Design Tokens", "Cross-platform Consistency", "Design Management", "Implementation Sync"]
+  },
+  {
+    "id": 1189,
+    "title": "User Interface Complexity Reducer",
+    "domain": "12",
+    "description": "Develop a tool that identifies and reduces unnecessary complexity in user interfaces while maintaining essential functionality.",
+    "keywords": ["Interface Simplification", "Complexity Reduction", "Essential Features", "Streamlined Design"]
+  },
+//"Business case studies / entrepreneurship"(domain-13)
+  {
+    "id": 1190,
+    "title": "AI-Powered Startup Idea Validator",
+    "domain": "13",
+    "description": "Develop an intelligent platform that analyzes startup ideas against market data, competitor analysis, and trend predictions to provide comprehensive validation scores and recommendations.",
+    "keywords": ["Startup", "Market Analysis", "Innovation", "Strategy"]
+  },
+  {
+    "id": 1191,
+    "title": "Dynamic Business Model Canvas Generator",
+    "domain": "13",
+    "description": "Create a tool that generates adaptive business model canvases based on industry type, target market, and revenue goals while providing real-time optimization suggestions.",
+    "keywords": ["Business Model", "Strategy", "Innovation", "Operations"]
+  },
+  {
+    "id": 1192,
+    "title": "Venture Capital Matching Algorithm",
+    "domain": "13",
+    "description": "Build an intelligent matching system that connects startups with suitable venture capital firms based on industry focus, funding stage, and investment criteria alignment.",
+    "keywords": ["Venture Capital", "Startup", "Finance", "Strategy"]
+  },
+  {
+    "id": 1193,
+    "title": "Real-Time Market Sentiment Analyzer",
+    "domain": "13",
+    "description": "Design a system that continuously monitors market sentiment across multiple channels to provide actionable insights for business strategy and product positioning.",
+    "keywords": ["Market Analysis", "Strategy", "Digital Transformation", "Innovation"]
+  },
+  {
+    "id": 1194,
+    "title": "Automated Competitive Intelligence Platform",
+    "domain": "13",
+    "description": "Develop a platform that automatically tracks competitor activities, pricing changes, and market moves to provide strategic intelligence for business decisions.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Digital Transformation"]
+  },
+  {
+    "id": 1195,
+    "title": "Sales Funnel Optimization Engine",
+    "domain": "13",
+    "description": "Create an AI-driven engine that analyzes sales funnel performance and automatically suggests optimizations to improve conversion rates at each stage.",
+    "keywords": ["Sales", "Marketing", "Operations", "Digital Transformation"]
+  },
+  {
+    "id": 1196,
+    "title": "Leadership Development Simulation Platform",
+    "domain": "13",
+    "description": "Build an immersive simulation platform that trains entrepreneurs and executives in leadership scenarios using real-world business challenges and decision trees.",
+    "keywords": ["Leadership", "Strategy", "Operations", "Innovation"]
+  },
+  {
+    "id": 1197,
+    "title": "Startup Financial Health Monitor",
+    "domain": "13",
+    "description": "Design a comprehensive financial monitoring system that tracks key startup metrics and provides early warning signals for potential financial issues.",
+    "keywords": ["Finance", "Startup", "Operations", "Strategy"]
+  },
+  {
+    "id": 1198,
+    "title": "Market Entry Strategy Advisor",
+    "domain": "13",
+    "description": "Develop an advisory system that analyzes target markets and recommends optimal entry strategies based on competition, regulations, and market readiness.",
+    "keywords": ["Strategy", "Market Analysis", "Innovation", "Operations"]
+  },
+  {
+    "id": 1199,
+    "title": "Customer Journey Revenue Optimizer",
+    "domain": "13",
+    "description": "Create a system that maps customer journeys to revenue outcomes and identifies optimization opportunities for maximum lifetime value.",
+    "keywords": ["Marketing", "Sales", "Strategy", "Operations"]
+  },
+  {
+    "id": 1200,
+    "title": "Digital Transformation Readiness Assessor",
+    "domain": "13",
+    "description": "Build an assessment tool that evaluates organizational readiness for digital transformation and provides customized roadmaps for implementation.",
+    "keywords": ["Digital Transformation", "Strategy", "Operations", "Leadership"]
+  },
+  {
+    "id": 1201,
+    "title": "Startup Equity Distribution Calculator",
+    "domain": "13",
+    "description": "Design a sophisticated calculator that helps startups determine fair equity distribution among founders, employees, and investors based on multiple variables.",
+    "keywords": ["Startup", "Finance", "Venture Capital", "Strategy"]
+  },
+  {
+    "id": 1202,
+    "title": "Business Model Pivot Predictor",
+    "domain": "13",
+    "description": "Develop a predictive system that analyzes business performance indicators to suggest when and how startups should consider pivoting their business models.",
+    "keywords": ["Business Model", "Strategy", "Innovation", "Startup"]
+  },
+  {
+    "id": 1203,
+    "title": "Supply Chain Risk Assessment Platform",
+    "domain": "13",
+    "description": "Create a platform that continuously assesses supply chain risks using global data sources and provides mitigation strategies for business continuity.",
+    "keywords": ["Operations", "Strategy", "Market Analysis", "Innovation"]
+  },
+  {
+    "id": 1204,
+    "title": "Customer Acquisition Cost Optimizer",
+    "domain": "13",
+    "description": "Build an optimization system that analyzes marketing channels and automatically adjusts budget allocation to minimize customer acquisition costs.",
+    "keywords": ["Marketing", "Finance", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1205,
+    "title": "Innovation Pipeline Management System",
+    "domain": "13",
+    "description": "Design a system that manages innovation projects from ideation to market launch, tracking progress, resources, and success probability.",
+    "keywords": ["Innovation", "Operations", "Strategy", "Leadership"]
+  },
+  {
+    "id": 1206,
+    "title": "Venture Capital Due Diligence Automator",
+    "domain": "13",
+    "description": "Develop an automated due diligence platform that streamlines the investment evaluation process for venture capital firms and angel investors.",
+    "keywords": ["Venture Capital", "Finance", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1207,
+    "title": "Market Timing Prediction Engine",
+    "domain": "13",
+    "description": "Create a predictive engine that analyzes market cycles and economic indicators to recommend optimal timing for product launches and business expansions.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Finance"]
+  },
+  {
+    "id": 1208,
+    "title": "Business Network Intelligence Mapper",
+    "domain": "13",
+    "description": "Build a system that maps and analyzes business networks to identify strategic partnership opportunities and influential connections.",
+    "keywords": ["Strategy", "Marketing", "Operations", "Leadership"]
+  },
+  {
+    "id": 1209,
+    "title": "Startup Runway Calculator",
+    "domain": "13",
+    "description": "Design a dynamic calculator that tracks burn rate, cash flow, and funding milestones to predict and extend startup runway duration.",
+    "keywords": ["Startup", "Finance", "Strategy", "Operations"]
+  },
+  {
+    "id": 1210,
+    "title": "Personalized Sales Training Platform",
+    "domain": "13",
+    "description": "Develop an AI-powered training platform that creates personalized sales training programs based on individual performance gaps and industry best practices.",
+    "keywords": ["Sales", "Leadership", "Digital Transformation", "Operations"]
+  },
+  {
+    "id": 1211,
+    "title": "Market Size Estimation Tool",
+    "domain": "13",
+    "description": "Create a comprehensive tool that estimates Total Addressable Market (TAM), Serviceable Addressable Market (SAM), and Serviceable Obtainable Market (SOM) for any business idea.",
+    "keywords": ["Market Analysis", "Strategy", "Business Model", "Innovation"]
+  },
+  {
+    "id": 1212,
+    "title": "Business Process Automation Designer",
+    "domain": "13",
+    "description": "Build a visual designer that helps businesses identify, map, and automate their key processes to improve efficiency and reduce operational costs.",
+    "keywords": ["Operations", "Digital Transformation", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1213,
+    "title": "Startup Team Compatibility Analyzer",
+    "domain": "13",
+    "description": "Design an analyzer that assesses founding team compatibility based on skills, personality traits, work styles, and shared vision alignment.",
+    "keywords": ["Startup", "Leadership", "Strategy", "Operations"]
+  },
+  {
+    "id": 1214,
+    "title": "Dynamic Pricing Strategy Optimizer",
+    "domain": "13",
+    "description": "Develop a system that continuously optimizes pricing strategies based on demand patterns, competitor pricing, and market conditions.",
+    "keywords": ["Strategy", "Sales", "Market Analysis", "Digital Transformation"]
+  },
+  {
+    "id": 1215,
+    "title": "Business Model Stress Tester",
+    "domain": "13",
+    "description": "Create a simulation tool that stress tests business models against various economic scenarios and market disruptions to identify vulnerabilities.",
+    "keywords": ["Business Model", "Strategy", "Finance", "Market Analysis"]
+  },
+  {
+    "id": 1216,
+    "title": "Customer Churn Prevention System",
+    "domain": "13",
+    "description": "Build a predictive system that identifies customers at risk of churning and automatically triggers personalized retention campaigns.",
+    "keywords": ["Marketing", "Sales", "Operations", "Digital Transformation"]
+  },
+  {
+    "id": 1217,
+    "title": "Startup Mentorship Matching Platform",
+    "domain": "13",
+    "description": "Design a platform that intelligently matches startups with experienced mentors based on industry expertise, challenges faced, and growth stage.",
+    "keywords": ["Startup", "Leadership", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1218,
+    "title": "Revenue Model Optimization Assistant",
+    "domain": "13",
+    "description": "Develop an AI assistant that analyzes business performance and suggests revenue model adjustments to maximize profitability and growth potential.",
+    "keywords": ["Business Model", "Finance", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1219,
+    "title": "Market Opportunity Scoring Engine",
+    "domain": "13",
+    "description": "Create an engine that scores market opportunities based on size, growth rate, competition intensity, and barrier to entry analysis.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Venture Capital"]
+  },
+  {
+    "id": 1220,
+    "title": "Startup Milestone Tracking Dashboard",
+    "domain": "13",
+    "description": "Build a comprehensive dashboard that tracks startup progress against key milestones and provides insights for achieving next-level growth targets.",
+    "keywords": ["Startup", "Operations", "Strategy", "Leadership"]
+  },
+  {
+    "id": 1221,
+    "title": "Business Intelligence Automation Suite",
+    "domain": "13",
+    "description": "Design an automation suite that generates business intelligence reports and insights from multiple data sources without manual intervention.",
+    "keywords": ["Digital Transformation", "Operations", "Strategy", "Market Analysis"]
+  },
+  {
+    "id": 1222,
+    "title": "Investor Pitch Optimization Platform",
+    "domain": "13",
+    "description": "Develop a platform that analyzes pitch decks and provides optimization suggestions based on successful funding patterns and investor preferences.",
+    "keywords": ["Venture Capital", "Startup", "Marketing", "Strategy"]
+  },
+  {
+    "id": 1223,
+    "title": "Competitive Advantage Identifier",
+    "domain": "13",
+    "description": "Create a system that analyzes business capabilities and market position to identify and recommend sustainable competitive advantages.",
+    "keywords": ["Strategy", "Market Analysis", "Innovation", "Business Model"]
+  },
+  {
+    "id": 1224,
+    "title": "Employee Productivity Analytics Platform",
+    "domain": "13",
+    "description": "Build a platform that measures and analyzes employee productivity patterns to optimize team performance and resource allocation.",
+    "keywords": ["Operations", "Leadership", "Digital Transformation", "Strategy"]
+  },
+  {
+    "id": 1225,
+    "title": "Market Disruption Early Warning System",
+    "domain": "13",
+    "description": "Design an early warning system that detects potential market disruptions by monitoring technology trends, regulatory changes, and competitor activities.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Digital Transformation"]
+  },
+  {
+    "id": 1226,
+    "title": "Business Partnership Evaluation Tool",
+    "domain": "13",
+    "description": "Develop a tool that evaluates potential business partnerships by analyzing strategic fit, cultural alignment, and mutual value creation opportunities.",
+    "keywords": ["Strategy", "Operations", "Leadership", "Market Analysis"]
+  },
+  {
+    "id": 1227,
+    "title": "Startup Growth Hack Generator",
+    "domain": "13",
+    "description": "Create a generator that suggests growth hacking strategies tailored to specific industries, target audiences, and growth stage challenges.",
+    "keywords": ["Startup", "Marketing", "Innovation", "Strategy"]
+  },
+  {
+    "id": 1228,
+    "title": "Financial Projection Accuracy Tracker",
+    "domain": "13",
+    "description": "Build a tracker that compares actual financial performance against projections and learns to improve future forecasting accuracy.",
+    "keywords": ["Finance", "Strategy", "Operations", "Digital Transformation"]
+  },
+  {
+    "id": 1229,
+    "title": "Business Model Patent Analyzer",
+    "domain": "13",
+    "description": "Design an analyzer that examines business model innovations and identifies potential intellectual property protection opportunities.",
+    "keywords": ["Business Model", "Innovation", "Strategy", "Market Analysis"]
+  },
+  {
+    "id": 1230,
+    "title": "Customer Feedback Loop Optimizer",
+    "domain": "13",
+    "description": "Develop a system that optimizes customer feedback collection, analysis, and implementation processes to drive continuous product improvement.",
+    "keywords": ["Operations", "Marketing", "Innovation", "Strategy"]
+  },
+  {
+    "id": 1231,
+    "title": "Startup Legal Compliance Monitor",
+    "domain": "13",
+    "description": "Create a monitoring system that tracks regulatory changes and ensures startup compliance across multiple jurisdictions and industry requirements.",
+    "keywords": ["Startup", "Operations", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1232,
+    "title": "Sales Performance Prediction Engine",
+    "domain": "13",
+    "description": "Build a predictive engine that forecasts sales performance based on pipeline data, market conditions, and sales team capabilities.",
+    "keywords": ["Sales", "Operations", "Strategy", "Market Analysis"]
+  },
+  {
+    "id": 1233,
+    "title": "Innovation ROI Calculator",
+    "domain": "13",
+    "description": "Design a calculator that measures and predicts return on investment for innovation projects across different time horizons and risk levels.",
+    "keywords": ["Innovation", "Finance", "Strategy", "Operations"]
+  },
+  {
+    "id": 1234,
+    "title": "Market Entry Risk Assessor",
+    "domain": "13",
+    "description": "Develop a comprehensive risk assessment tool for market entry decisions, analyzing political, economic, social, and technological factors.",
+    "keywords": ["Market Analysis", "Strategy", "Finance", "Operations"]
+  },
+  {
+    "id": 1235,
+    "title": "Business Continuity Planning System",
+    "domain": "13",
+    "description": "Create a system that develops and maintains business continuity plans by identifying critical processes and potential disruption scenarios.",
+    "keywords": ["Operations", "Strategy", "Leadership", "Market Analysis"]
+  },
+  {
+    "id": 1236,
+    "title": "Startup Valuation Consensus Platform",
+    "domain": "13",
+    "description": "Build a platform that aggregates multiple valuation methodologies and expert opinions to provide consensus startup valuations for investment decisions.",
+    "keywords": ["Startup", "Venture Capital", "Finance", "Strategy"]
+  },
+  {
+    "id": 1237,
+    "title": "Customer Lifetime Value Maximizer",
+    "domain": "13",
+    "description": "Design a system that identifies strategies to maximize customer lifetime value through personalized engagement and retention programs.",
+    "keywords": ["Marketing", "Sales", "Strategy", "Operations"]
+  },
+  {
+    "id": 1238,
+    "title": "Business Ecosystem Mapper",
+    "domain": "13",
+    "description": "Develop a mapper that visualizes and analyzes business ecosystems, identifying key players, relationships, and value flow patterns.",
+    "keywords": ["Strategy", "Market Analysis", "Innovation", "Leadership"]
+  },
+  {
+    "id": 1239,
+    "title": "Startup Resource Allocation Optimizer",
+    "domain": "13",
+    "description": "Create an optimizer that determines optimal resource allocation across different business functions based on growth priorities and constraints.",
+    "keywords": ["Startup", "Operations", "Strategy", "Finance"]
+  },
+  {
+    "id": 1240,
+    "title": "Market Trend Correlation Analyzer",
+    "domain": "13",
+    "description": "Build an analyzer that identifies correlations between different market trends and their potential impact on business opportunities.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Digital Transformation"]
+  },
+  {
+    "id": 1241,
+    "title": "Business Model Simulation Laboratory",
+    "domain": "13",
+    "description": "Design a virtual laboratory where entrepreneurs can simulate different business model scenarios and test their viability before implementation.",
+    "keywords": ["Business Model", "Strategy", "Innovation", "Operations"]
+  },
+  {
+    "id": 1242,
+    "title": "Leadership Style Effectiveness Analyzer",
+    "domain": "13",
+    "description": "Develop an analyzer that evaluates leadership style effectiveness in different organizational contexts and suggests adaptations for better results.",
+    "keywords": ["Leadership", "Strategy", "Operations", "Digital Transformation"]
+  },
+  {
+    "id": 1243,
+    "title": "Startup Failure Pattern Detector",
+    "domain": "13",
+    "description": "Create a detection system that identifies patterns associated with startup failures and provides early intervention recommendations.",
+    "keywords": ["Startup", "Strategy", "Finance", "Market Analysis"]
+  },
+  {
+    "id": 1244,
+    "title": "Digital Marketing ROI Optimizer",
+    "domain": "13",
+    "description": "Build an optimizer that continuously adjusts digital marketing campaigns to maximize return on investment across multiple channels and platforms.",
+    "keywords": ["Marketing", "Digital Transformation", "Sales", "Strategy"]
+  },
+  {
+    "id": 1245,
+    "title": "Business Credit Scoring System",
+    "domain": "13",
+    "description": "Design a comprehensive credit scoring system specifically for businesses that incorporates alternative data sources and real-time performance metrics.",
+    "keywords": ["Finance", "Operations", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1246,
+    "title": "Market Saturation Predictor",
+    "domain": "13",
+    "description": "Develop a predictor that analyzes market dynamics to forecast when markets will reach saturation and suggest timing for strategic decisions.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Business Model"]
+  },
+  {
+    "id": 1247,
+    "title": "Startup Team Performance Dashboard",
+    "domain": "13",
+    "description": "Create a dashboard that tracks and visualizes startup team performance across various metrics including productivity, collaboration, and goal achievement.",
+    "keywords": ["Startup", "Leadership", "Operations", "Strategy"]
+  },
+  {
+    "id": 1248,
+    "title": "Business Intelligence Chatbot",
+    "domain": "13",
+    "description": "Build an AI chatbot that provides instant business intelligence insights by querying databases and generating reports through natural language commands.",
+    "keywords": ["Digital Transformation", "Operations", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1249,
+    "title": "Venture Capital Market Analyzer",
+    "domain": "13",
+    "description": "Design an analyzer that tracks venture capital market trends, funding patterns, and investor behavior to guide fundraising strategies.",
+    "keywords": ["Venture Capital", "Market Analysis", "Finance", "Strategy"]
+  },
+  {
+    "id": 1250,
+    "title": "Business Process Efficiency Scorer",
+    "domain": "13",
+    "description": "Develop a scoring system that evaluates business process efficiency and identifies bottlenecks for operational improvement opportunities.",
+    "keywords": ["Operations", "Strategy", "Digital Transformation", "Leadership"]
+  },
+  {
+    "id": 1251,
+    "title": "Customer Segment Profitability Analyzer",
+    "domain": "13",
+    "description": "Create an analyzer that determines the profitability of different customer segments and recommends resource allocation strategies accordingly.",
+    "keywords": ["Marketing", "Finance", "Strategy", "Operations"]
+  },
+  {
+    "id": 1252,
+    "title": "Startup Pivot Success Predictor",
+    "domain": "13",
+    "description": "Build a predictor that analyzes startup conditions and market factors to forecast the likelihood of successful pivots and optimal timing.",
+    "keywords": ["Startup", "Strategy", "Innovation", "Market Analysis"]
+  },
+  {
+    "id": 1253,
+    "title": "Business Model Monetization Optimizer",
+    "domain": "13",
+    "description": "Design an optimizer that experiments with different monetization strategies and recommends the most effective approaches for specific business models.",
+    "keywords": ["Business Model", "Finance", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1254,
+    "title": "Market Research Automation Platform",
+    "domain": "13",
+    "description": "Develop a platform that automates market research processes from data collection to insight generation, reducing time and cost for businesses.",
+    "keywords": ["Market Analysis", "Digital Transformation", "Operations", "Strategy"]
+  },
+  {
+    "id": 1255,
+    "title": "Sales Territory Optimization System",
+    "domain": "13",
+    "description": "Create a system that optimally divides sales territories based on potential, geography, and sales rep capabilities to maximize revenue generation.",
+    "keywords": ["Sales", "Operations", "Strategy", "Market Analysis"]
+  },
+  {
+    "id": 1256,
+    "title": "Business Innovation Index Calculator",
+    "domain": "13",
+    "description": "Build a calculator that measures and benchmarks business innovation capacity against industry standards and competitive positioning.",
+    "keywords": ["Innovation", "Strategy", "Market Analysis", "Leadership"]
+  },
+  {
+    "id": 1257,
+    "title": "Startup Scaling Readiness Assessor",
+    "domain": "13",
+    "description": "Design an assessor that evaluates startup readiness for scaling operations across multiple dimensions including team, processes, and market fit.",
+    "keywords": ["Startup", "Operations", "Strategy", "Leadership"]
+  },
+  {
+    "id": 1258,
+    "title": "Business Decision Impact Simulator",
+    "domain": "13",
+    "description": "Develop a simulator that models the potential impact of business decisions across multiple scenarios and time horizons before implementation.",
+    "keywords": ["Strategy", "Operations", "Finance", "Leadership"]
+  },
+  {
+    "id": 1259,
+    "title": "Market Entry Speed Calculator",
+    "domain": "13",
+    "description": "Create a calculator that determines optimal market entry speed based on competition, resources, and market readiness factors.",
+    "keywords": ["Market Analysis", "Strategy", "Operations", "Innovation"]
+  },
+  {
+    "id": 1260,
+    "title": "Business Partnership ROI Tracker",
+    "domain": "13",
+    "description": "Build a tracker that measures return on investment for business partnerships and strategic alliances across various performance metrics.",
+    "keywords": ["Strategy", "Finance", "Operations", "Leadership"]
+  },
+  {
+    "id": 1261,
+    "title": "Startup Fundraising Timeline Optimizer",
+    "domain": "13",
+    "description": "Design an optimizer that creates optimal fundraising timelines based on business milestones, market conditions, and investor availability.",
+    "keywords": ["Startup", "Venture Capital", "Finance", "Strategy"]
+  },
+  {
+    "id": 1262,
+    "title": "Customer Experience Journey Optimizer",
+    "domain": "13",
+    "description": "Develop an optimizer that analyzes customer experience touchpoints and recommends improvements to enhance satisfaction and retention.",
+    "keywords": ["Marketing", "Operations", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1263,
+    "title": "Business Model Innovation Generator",
+    "domain": "13",
+    "description": "Create a generator that suggests innovative business model variations by combining successful patterns from different industries and markets.",
+    "keywords": ["Business Model", "Innovation", "Strategy", "Market Analysis"]
+  },
+  {
+    "id": 1264,
+    "title": "Operational Excellence Benchmarker",
+    "domain": "13",
+    "description": "Build a benchmarking tool that compares operational performance against industry best practices and identifies improvement opportunities.",
+    "keywords": ["Operations", "Strategy", "Leadership", "Digital Transformation"]
+  },
+  {
+    "id": 1265,
+    "title": "Market Timing Strategy Advisor",
+    "domain": "13",
+    "description": "Design an advisor that analyzes market cycles and provides recommendations for optimal timing of product launches, expansions, and strategic initiatives.",
+    "keywords": ["Strategy", "Market Analysis", "Innovation", "Operations"]
+  },
+  {
+    "id": 1266,
+    "title": "Business Intelligence Integration Hub",
+    "domain": "13",
+    "description": "Develop a hub that integrates multiple business intelligence tools and data sources to provide unified insights and decision support.",
+    "keywords": ["Digital Transformation", "Operations", "Strategy", "Leadership"]
+  },
+  {
+    "id": 1267,
+    "title": "Startup Growth Stage Classifier",
+    "domain": "13",
+    "description": "Create a classifier that accurately determines startup growth stages and provides stage-appropriate guidance and resource recommendations.",
+    "keywords": ["Startup", "Strategy", "Operations", "Finance"]
+  },
+  {
+    "id": 1268,
+    "title": "Sales Conversion Optimization Engine",
+    "domain": "13",
+    "description": "Build an engine that analyzes sales processes and automatically implements optimizations to improve conversion rates at every stage.",
+    "keywords": ["Sales", "Operations", "Marketing", "Digital Transformation"]
+  },
+  {
+    "id": 1269,
+    "title": "Business Risk Mitigation Planner",
+    "domain": "13",
+    "description": "Design a planner that identifies business risks and develops comprehensive mitigation strategies with implementation timelines and responsibilities.",
+    "keywords": ["Strategy", "Operations", "Finance", "Leadership"]
+  },
+  {
+    "id": 1270,
+    "title": "Innovation Portfolio Balancer",
+    "domain": "13",
+    "description": "Develop a balancer that optimizes innovation project portfolios across risk levels, time horizons, and resource requirements for maximum impact.",
+    "keywords": ["Innovation", "Strategy", "Finance", "Operations"]
+  },
+  {
+    "id": 1271,
+    "title": "Market Share Prediction Model",
+    "domain": "13",
+    "description": "Create a predictive model that forecasts market share changes based on competitive actions, market dynamics, and business strategy implementations.",
+    "keywords": ["Market Analysis", "Strategy", "Innovation", "Digital Transformation"]
+  },
+  {
+    "id": 1272,
+    "title": "Business Culture Assessment Tool",
+    "domain": "13",
+    "description": "Build a tool that assesses organizational culture health and alignment with business objectives, providing recommendations for cultural improvements.",
+    "keywords": ["Leadership", "Operations", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1273,
+    "title": "Startup Exit Strategy Planner",
+    "domain": "13",
+    "description": "Design a planner that evaluates different exit strategy options and provides recommendations based on market conditions and business performance.",
+    "keywords": ["Startup", "Strategy", "Finance", "Venture Capital"]
+  },
+  {
+    "id": 1274,
+    "title": "Customer Acquisition Channel Optimizer",
+    "domain": "13",
+    "description": "Develop an optimizer that identifies the most effective customer acquisition channels and allocates marketing budgets for maximum ROI.",
+    "keywords": ["Marketing", "Sales", "Strategy", "Digital Transformation"]
+  },
+  {
+    "id": 1275,
+    "title": "Business Process Automation ROI Calculator",
+    "domain": "13",
+    "description": "Create a calculator that evaluates the return on investment for different business process automation initiatives and prioritizes implementations.",
+    "keywords": ["Operations", "Digital Transformation", "Finance", "Strategy"]
+  },
+  {
+    "id": 1276,
+    "title": "Market Disruption Response Planner",
+    "domain": "13",
+    "description": "Build a planner that helps businesses develop response strategies to market disruptions and competitive threats with scenario-based planning.",
+    "keywords": ["Strategy", "Market Analysis", "Innovation", "Leadership"]
+  },
+  {
+    "id": 1277,
+    "title": "Startup Team Skill Gap Analyzer",
+    "domain": "13",
+    "description": "Design an analyzer that identifies critical skill gaps in startup teams and recommends hiring priorities or training programs.",
+    "keywords": ["Startup", "Leadership", "Operations", "Strategy"]
+  },
+  {
+    "id": 1278,
+    "title": "Business Performance Correlation Finder",
+    "domain": "13",
+    "description": "Develop a finder that discovers hidden correlations between different business metrics to identify new optimization opportunities.",
+    "keywords": ["Operations", "Strategy", "Digital Transformation", "Market Analysis"]
+  },
+  {
+    "id": 1279,
+    "title": "Venture Capital Pitch Success Predictor",
+    "domain": "13",
+    "description": "Create a predictor that analyzes pitch elements and startup characteristics to forecast the likelihood of successful fundraising outcomes.",
+    "keywords": ["Venture Capital", "Startup", "Strategy", "Marketing"]
+  },
+  {
+    "id": 1280,
+    "title": "Business Model Scalability Assessor",
+    "domain": "13",
+    "description": "Build an assessor that evaluates how well business models can scale across different markets, regions, and customer segments.",
+    "keywords": ["Business Model", "Strategy", "Operations", "Market Analysis"]
+  },
+  {
+    "id": 1281,
+    "title": "Customer Feedback Impact Analyzer",
+    "domain": "13",
+    "description": "Design an analyzer that measures the business impact of implementing customer feedback and prioritizes improvements based on ROI potential.",
+    "keywords": ["Marketing", "Operations", "Strategy", "Innovation"]
+  },
+  {
+    "id": 1282,
+    "title": "Market Penetration Strategy Generator",
+    "domain": "13",
+    "description": "Develop a generator that creates customized market penetration strategies based on product type, target market characteristics, and competitive landscape.",
+    "keywords": ["Strategy", "Market Analysis", "Marketing", "Sales"]
+  },
+  {
+    "id": 1283,
+    "title": "Business Intelligence Storytelling Platform",
+    "domain": "13",
+    "description": "Create a platform that transforms complex business data into compelling narratives and visualizations for stakeholder communication.",
+    "keywords": ["Digital Transformation", "Leadership", "Strategy", "Operations"]
+  },
+  {
+    "id": 1284,
+    "title": "Startup Competitive Positioning Optimizer",
+    "domain": "13",
+    "description": "Build an optimizer that analyzes competitive landscapes and recommends optimal positioning strategies for startups in crowded markets.",
+    "keywords": ["Startup", "Strategy", "Market Analysis", "Marketing"]
+  },
+  {
+    "id": 1285,
+    "title": "Business Innovation Impact Tracker",
+    "domain": "13",
+    "description": "Design a tracker that measures the long-term impact of innovation initiatives on business performance and market position.",
+    "keywords": ["Innovation", "Strategy", "Operations", "Finance"]
+  },
+//"Security / Cryptography",(domain-14)
+
+  {
+    "id": 1286,
+    "title": "AI-Powered Threat Prediction Engine",
+    "domain": "14",
+    "description": "Develop an artificial intelligence system that analyzes global cybersecurity patterns and predicts emerging threats before they manifest in real-world attacks.",
+    "keywords": ["Cybersecurity", "Threat Analysis", "AI", "Prediction"]
+  },
+  {
+    "id": 1287,
+    "title": "Quantum-Resistant Encryption Protocol",
+    "domain": "14",
+    "description": "Design a cryptographic protocol that remains secure against quantum computing attacks while maintaining efficiency for current computing infrastructure.",
+    "keywords": ["Encryption", "Quantum Security", "Cryptography", "Future-proofing"]
+  },
+  {
+    "id": 1288,
+    "title": "Zero-Knowledge Authentication Framework",
+    "domain": "14",
+    "description": "Create an authentication system that verifies user identity without storing or transmitting sensitive credential information using zero-knowledge proofs.",
+    "keywords": ["Authentication", "Zero-Knowledge", "Privacy", "Identity Verification"]
+  },
+  {
+    "id": 1289,
+    "title": "Blockchain-Based Identity Management System",
+    "domain": "14",
+    "description": "Build a decentralized identity management platform using blockchain technology that gives users complete control over their personal data and credentials.",
+    "keywords": ["Blockchain", "Identity Management", "Decentralization", "Privacy"]
+  },
+  {
+    "id": 1290,
+    "title": "Real-Time Malware Behavior Analyzer",
+    "domain": "14",
+    "description": "Develop a system that analyzes malware behavior in real-time using advanced sandboxing and machine learning to identify new attack vectors.",
+    "keywords": ["Malware", "Behavioral Analysis", "Real-time Detection", "Machine Learning"]
+  },
+  {
+    "id": 1291,
+    "title": "Automated Penetration Testing Suite",
+    "domain": "14",
+    "description": "Create an automated penetration testing platform that continuously scans and tests network vulnerabilities with human-level sophistication.",
+    "keywords": ["Penetration Testing", "Automation", "Vulnerability Assessment", "Network Security"]
+  },
+  {
+    "id": 1292,
+    "title": "Privacy-Preserving Data Analytics Platform",
+    "domain": "14",
+    "description": "Design a platform that enables data analytics on sensitive datasets without exposing individual records using homomorphic encryption and differential privacy.",
+    "keywords": ["Privacy", "Data Analytics", "Homomorphic Encryption", "Differential Privacy"]
+  },
+  {
+    "id": 1293,
+    "title": "Multi-Factor Biometric Authentication System",
+    "domain": "14",
+    "description": "Build a sophisticated authentication system that combines multiple biometric factors with liveness detection to prevent spoofing attacks.",
+    "keywords": ["Authentication", "Biometric Security", "Multi-factor", "Anti-spoofing"]
+  },
+  {
+    "id": 1294,
+    "title": "Cybersecurity Risk Assessment Automator",
+    "domain": "14",
+    "description": "Develop an automated risk assessment tool that continuously evaluates organizational cybersecurity posture and provides actionable recommendations.",
+    "keywords": ["Risk Assessment", "Automation", "Cybersecurity", "Organizational Security"]
+  },
+  {
+    "id": 1295,
+    "title": "Secure Multi-Party Computation Platform",
+    "domain": "14",
+    "description": "Create a platform that enables multiple parties to jointly compute functions over their inputs while keeping those inputs private from each other.",
+    "keywords": ["Multi-party Computation", "Privacy", "Secure Computation", "Cryptography"]
+  },
+  {
+    "id": 1296,
+    "title": "Network Traffic Anomaly Detector",
+    "domain": "14",
+    "description": "Design an intelligent system that detects network anomalies and potential security breaches by analyzing traffic patterns and behaviors.",
+    "keywords": ["Network Security", "Anomaly Detection", "Traffic Analysis", "Intrusion Detection"]
+  },
+  {
+    "id": 1297,
+    "title": "Compliance Monitoring Dashboard",
+    "domain": "14",
+    "description": "Build a comprehensive dashboard that monitors and ensures compliance with various security standards and regulations across organizational systems.",
+    "keywords": ["Compliance", "Monitoring", "Regulatory Standards", "Security Governance"]
+  },
+  {
+    "id": 1298,
+    "title": "Advanced Persistent Threat Hunter",
+    "domain": "14",
+    "description": "Develop a threat hunting system that identifies and tracks Advanced Persistent Threats using behavioral analytics and threat intelligence.",
+    "keywords": ["APT Detection", "Threat Hunting", "Behavioral Analytics", "Threat Intelligence"]
+  },
+  {
+    "id": 1299,
+    "title": "Secure Communication Protocol Designer",
+    "domain": "14",
+    "description": "Create a protocol for secure communication that provides end-to-end encryption, perfect forward secrecy, and metadata protection.",
+    "keywords": ["Secure Communication", "End-to-end Encryption", "Protocol Design", "Metadata Protection"]
+  },
+  {
+    "id": 1300,
+    "title": "IoT Device Security Framework",
+    "domain": "14",
+    "description": "Design a comprehensive security framework specifically for IoT devices that addresses unique constraints and vulnerabilities of connected devices.",
+    "keywords": ["IoT Security", "Device Security", "Embedded Systems", "Connected Devices"]
+  },
+  {
+    "id": 1301,
+    "title": "Cryptocurrency Transaction Privacy Enhancer",
+    "domain": "14",
+    "description": "Build a system that enhances privacy in cryptocurrency transactions using advanced cryptographic techniques like ring signatures and stealth addresses.",
+    "keywords": ["Cryptocurrency Privacy", "Ring Signatures", "Blockchain", "Transaction Privacy"]
+  },
+  {
+    "id": 1302,
+    "title": "Social Engineering Attack Simulator",
+    "domain": "14",
+    "description": "Develop a simulation platform that tests organizational vulnerability to social engineering attacks through realistic phishing and pretexting scenarios.",
+    "keywords": ["Social Engineering", "Security Training", "Phishing Simulation", "Human Factor Security"]
+  },
+  {
+    "id": 1303,
+    "title": "Homomorphic Encryption Implementation Toolkit",
+    "domain": "14",
+    "description": "Create a developer-friendly toolkit for implementing homomorphic encryption in applications that need to perform computations on encrypted data.",
+    "keywords": ["Homomorphic Encryption", "Developer Tools", "Privacy-preserving Computation", "Cryptographic Libraries"]
+  },
+  {
+    "id": 1304,
+    "title": "Supply Chain Security Validator",
+    "domain": "14",
+    "description": "Design a system that validates the security and integrity of software supply chains from development to deployment using cryptographic verification.",
+    "keywords": ["Supply Chain Security", "Software Integrity", "Cryptographic Verification", "DevSecOps"]
+  },
+  {
+    "id": 1305,
+    "title": "Privacy-First Cloud Storage System",
+    "domain": "14",
+    "description": "Build a cloud storage system where data is encrypted client-side and the cloud provider has zero knowledge of stored content or access patterns.",
+    "keywords": ["Cloud Security", "Client-side Encryption", "Zero-knowledge", "Privacy"]
+  },
+  {
+    "id": 1306,
+    "title": "Dynamic Security Policy Generator",
+    "domain": "14",
+    "description": "Develop a system that automatically generates and updates security policies based on organizational risk profile, threat landscape, and compliance requirements.",
+    "keywords": ["Security Policy", "Dynamic Policy", "Risk Management", "Compliance"]
+  },
+  {
+    "id": 1307,
+    "title": "Secure Code Review Automator",
+    "domain": "14",
+    "description": "Create an automated code review system that identifies security vulnerabilities and suggests fixes using static analysis and machine learning.",
+    "keywords": ["Secure Coding", "Static Analysis", "Vulnerability Detection", "Code Security"]
+  },
+  {
+    "id": 1308,
+    "title": "Cyber Threat Intelligence Aggregator",
+    "domain": "14",
+    "description": "Build a platform that aggregates and analyzes cyber threat intelligence from multiple sources to provide actionable security insights.",
+    "keywords": ["Threat Intelligence", "Intelligence Aggregation", "Cyber Threats", "Security Analytics"]
+  },
+  {
+    "id": 1309,
+    "title": "Decentralized Authentication Network",
+    "domain": "14",
+    "description": "Design a decentralized network for authentication that eliminates single points of failure and provides universal identity verification.",
+    "keywords": ["Decentralized Authentication", "Distributed Identity", "Single Sign-on", "Identity Federation"]
+  },
+  {
+    "id": 1310,
+    "title": "Memory Forensics Analysis Tool",
+    "domain": "14",
+    "description": "Develop a tool for analyzing system memory dumps to detect malware, extract artifacts, and investigate security incidents.",
+    "keywords": ["Digital Forensics", "Memory Analysis", "Incident Response", "Malware Detection"]
+  },
+  {
+    "id": 1311,
+    "title": "Cryptographic Key Management System",
+    "domain": "14",
+    "description": "Create a comprehensive key management system that handles the entire lifecycle of cryptographic keys with hardware security module integration.",
+    "keywords": ["Key Management", "Cryptographic Keys", "HSM Integration", "Key Lifecycle"]
+  },
+  {
+    "id": 1312,
+    "title": "Behavioral-Based User Authentication",
+    "domain": "14",
+    "description": "Build an authentication system that continuously verifies user identity based on behavioral patterns like typing rhythm and mouse movements.",
+    "keywords": ["Behavioral Authentication", "Continuous Authentication", "Biometric Behavior", "User Profiling"]
+  },
+  {
+    "id": 1313,
+    "title": "Secure Multi-Cloud Data Manager",
+    "domain": "14",
+    "description": "Design a system that securely manages data across multiple cloud providers with encryption, access control, and seamless migration capabilities.",
+    "keywords": ["Multi-cloud Security", "Data Management", "Cloud Encryption", "Access Control"]
+  },
+  {
+    "id": 1314,
+    "title": "AI-Resistant CAPTCHA System",
+    "domain": "14",
+    "description": "Develop a CAPTCHA system that remains effective against AI-powered automated attacks while maintaining usability for human users.",
+    "keywords": ["CAPTCHA", "AI Resistance", "Bot Detection", "Human Verification"]
+  },
+  {
+    "id": 1315,
+    "title": "Quantum Key Distribution Network",
+    "domain": "14",
+    "description": "Create a quantum key distribution network that provides theoretically unbreakable key exchange for high-security communications.",
+    "keywords": ["Quantum Cryptography", "Key Distribution", "Quantum Networks", "Unbreakable Security"]
+  },
+  {
+    "id": 1316,
+    "title": "Privacy-Preserving Machine Learning Framework",
+    "domain": "14",
+    "description": "Build a framework that enables machine learning on sensitive data while preserving privacy using techniques like federated learning and differential privacy.",
+    "keywords": ["Privacy-preserving ML", "Federated Learning", "Differential Privacy", "Secure ML"]
+  },
+  {
+    "id": 1317,
+    "title": "Incident Response Orchestration Platform",
+    "domain": "14",
+    "description": "Design a platform that orchestrates and automates incident response procedures, coordinating multiple security tools and human responders.",
+    "keywords": ["Incident Response", "Security Orchestration", "Automated Response", "SOAR Platform"]
+  },
+  {
+    "id": 1318,
+    "title": "Steganography Detection System",
+    "domain": "14",
+    "description": "Develop a system that detects hidden information in digital media using advanced steganography detection algorithms and machine learning.",
+    "keywords": ["Steganography Detection", "Hidden Data", "Digital Forensics", "Covert Channels"]
+  },
+  {
+    "id": 1319,
+    "title": "Secure Database Encryption Gateway",
+    "domain": "14",
+    "description": "Create a transparent encryption gateway that encrypts database operations without requiring application changes or database modifications.",
+    "keywords": ["Database Security", "Transparent Encryption", "Data Protection", "Database Gateway"]
+  },
+  {
+    "id": 1320,
+    "title": "Cyber Range Training Environment",
+    "domain": "14",
+    "description": "Build a realistic cyber range environment for training security professionals in handling various cyber attack scenarios and incident response.",
+    "keywords": ["Cyber Range", "Security Training", "Attack Simulation", "Skills Development"]
+  },
+  {
+    "id": 1321,
+    "title": "Blockchain Smart Contract Auditor",
+    "domain": "14",
+    "description": "Design an automated auditing system that analyzes smart contracts for security vulnerabilities and compliance with best practices.",
+    "keywords": ["Smart Contract Security", "Blockchain Audit", "Contract Analysis", "DeFi Security"]
+  },
+  {
+    "id": 1322,
+    "title": "Network Micro-Segmentation Controller",
+    "domain": "14",
+    "description": "Develop a system that implements dynamic network micro-segmentation based on device behavior, user roles, and threat intelligence.",
+    "keywords": ["Network Segmentation", "Micro-segmentation", "Dynamic Security", "Zero Trust"]
+  },
+  {
+    "id": 1323,
+    "title": "Privacy Impact Assessment Automator",
+    "domain": "14",
+    "description": "Create an automated tool that conducts privacy impact assessments for new systems and processes to ensure GDPR and privacy compliance.",
+    "keywords": ["Privacy Impact Assessment", "GDPR Compliance", "Privacy Analysis", "Data Protection"]
+  },
+  {
+    "id": 1324,
+    "title": "Secure Multi-Party Voting System",
+    "domain": "14",
+    "description": "Build a cryptographically secure voting system that ensures voter privacy, vote integrity, and verifiable results using advanced cryptographic protocols.",
+    "keywords": ["Secure Voting", "Election Security", "Cryptographic Protocols", "Vote Privacy"]
+  },
+  {
+    "id": 1325,
+    "title": "Adversarial AI Detection Framework",
+    "domain": "14",
+    "description": "Design a framework that detects adversarial attacks against AI systems and implements defensive measures to maintain system integrity.",
+    "keywords": ["Adversarial AI", "AI Security", "Attack Detection", "ML Defense"]
+  },
+  {
+    "id": 1326,
+    "title": "Secure Development Lifecycle Manager",
+    "domain": "14",
+    "description": "Develop a comprehensive platform that integrates security practices throughout the software development lifecycle from design to deployment.",
+    "keywords": ["Secure Development", "SDLC Security", "DevSecOps", "Security Integration"]
+  },
+  {
+    "id": 1327,
+    "title": "Hardware Security Module Orchestrator",
+    "domain": "14",
+    "description": "Create an orchestration system that manages multiple hardware security modules and distributes cryptographic operations for optimal performance.",
+    "keywords": ["HSM Management", "Hardware Security", "Cryptographic Operations", "Key Protection"]
+  },
+  {
+    "id": 1328,
+    "title": "Threat Modeling Automation Tool",
+    "domain": "14",
+    "description": "Build an automated threat modeling tool that analyzes system architectures and identifies potential security threats and mitigation strategies.",
+    "keywords": ["Threat Modeling", "Security Architecture", "Automated Analysis", "Risk Identification"]
+  },
+  {
+    "id": 1329,
+    "title": "Privacy-Preserving Contact Tracing System",
+    "domain": "14",
+    "description": "Design a contact tracing system that tracks disease spread while preserving individual privacy using cryptographic techniques and minimal data collection.",
+    "keywords": ["Privacy Preservation", "Contact Tracing", "Health Privacy", "Cryptographic Privacy"]
+  },
+  {
+    "id": 1330,
+    "title": "Secure Edge Computing Framework",
+    "domain": "14",
+    "description": "Develop a security framework for edge computing environments that addresses unique challenges of distributed, resource-constrained devices.",
+    "keywords": ["Edge Security", "Distributed Security", "IoT Framework", "Edge Computing"]
+  },
+  {
+    "id": 1331,
+    "title": "Cryptographic Agility Management System",
+    "domain": "14",
+    "description": "Create a system that enables rapid migration between different cryptographic algorithms and protocols as security requirements evolve.",
+    "keywords": ["Cryptographic Agility", "Algorithm Migration", "Future-proofing", "Crypto Management"]
+  },
+  {
+    "id": 1332,
+    "title": "Zero Trust Architecture Implementer",
+    "domain": "14",
+    "description": "Build a platform that implements zero trust architecture principles across organizational networks and applications with continuous verification.",
+    "keywords": ["Zero Trust", "Continuous Verification", "Network Security", "Identity Verification"]
+  },
+  {
+    "id": 1333,
+    "title": "Secure Computation Marketplace",
+    "domain": "14",
+    "description": "Design a marketplace where data owners can monetize their data through secure multi-party computation without revealing sensitive information.",
+    "keywords": ["Secure Computation", "Data Marketplace", "Privacy-preserving Analytics", "Data Monetization"]
+  },
+  {
+    "id": 1334,
+    "title": "Biometric Template Protection System",
+    "domain": "14",
+    "description": "Develop a system that protects biometric templates using advanced cryptographic techniques while maintaining matching accuracy and performance.",
+    "keywords": ["Biometric Security", "Template Protection", "Privacy-preserving Biometrics", "Secure Matching"]
+  },
+  {
+    "id": 1335,
+    "title": "Cyber Deception Technology Platform",
+    "domain": "14",
+    "description": "Create a platform that deploys deceptive technologies like honeypots and decoy systems to detect and mislead attackers.",
+    "keywords": ["Cyber Deception", "Honeypots", "Intrusion Detection", "Attack Misdirection"]
+  },
+  {
+    "id": 1336,
+    "title": "Secure Firmware Update Mechanism",
+    "domain": "14",
+    "description": "Build a secure mechanism for updating firmware in IoT and embedded devices that ensures authenticity, integrity, and rollback protection.",
+    "keywords": ["Firmware Security", "Secure Updates", "IoT Security", "Update Integrity"]
+  },
+  {
+    "id": 1337,
+    "title": "Distributed Denial of Service Mitigator",
+    "domain": "14",
+    "description": "Design an intelligent DDoS mitigation system that uses machine learning to distinguish legitimate traffic from attack patterns in real-time.",
+    "keywords": ["DDoS Mitigation", "Traffic Analysis", "Attack Prevention", "Network Protection"]
+  },
+  {
+    "id": 1338,
+    "title": "Privacy-Compliant Data Lake Security",
+    "domain": "14",
+    "description": "Develop a security framework for data lakes that ensures privacy compliance while enabling analytics on large-scale heterogeneous datasets.",
+    "keywords": ["Data Lake Security", "Privacy Compliance", "Big Data Security", "Data Governance"]
+  },
+  {
+    "id": 1339,
+    "title": "Automotive Cybersecurity Shield",
+    "domain": "14",
+    "description": "Create a comprehensive cybersecurity solution for connected and autonomous vehicles that protects against various attack vectors.",
+    "keywords": ["Automotive Security", "Vehicle Cybersecurity", "Connected Cars", "Autonomous Vehicle Security"]
+  },
+  {
+    "id": 1340,
+    "title": "Secure Multicast Communication Protocol",
+    "domain": "14",
+    "description": "Build a protocol for secure multicast communication that provides scalable group key management and forward/backward secrecy.",
+    "keywords": ["Multicast Security", "Group Communication", "Key Management", "Scalable Security"]
+  },
+  {
+    "id": 1341,
+    "title": "AI-Powered Security Operations Center",
+    "domain": "14",
+    "description": "Design an AI-driven SOC that automates threat detection, analysis, and response while reducing false positives and analyst fatigue.",
+    "keywords": ["AI SOC", "Automated Threat Detection", "Security Analytics", "Intelligent Response"]
+  },
+  {
+    "id": 1342,
+    "title": "Blockchain-Based Certificate Authority",
+    "domain": "14",
+    "description": "Develop a decentralized certificate authority using blockchain technology that provides transparent and tamper-proof digital certificate management.",
+    "keywords": ["Blockchain PKI", "Decentralized CA", "Certificate Management", "Trust Infrastructure"]
+  },
+  {
+    "id": 1343,
+    "title": "Post-Quantum Cryptography Migration Tool",
+    "domain": "14",
+    "description": "Create a tool that helps organizations migrate from current cryptographic systems to post-quantum cryptography with minimal disruption.",
+    "keywords": ["Post-quantum Cryptography", "Cryptographic Migration", "Quantum-safe", "Algorithm Transition"]
+  },
+  {
+    "id": 1344,
+    "title": "Insider Threat Detection System",
+    "domain": "14",
+    "description": "Build a system that detects insider threats by analyzing user behavior patterns, access logs, and psychological indicators.",
+    "keywords": ["Insider Threat", "Behavioral Analysis", "User Monitoring", "Anomaly Detection"]
+  },
+  {
+    "id": 1345,
+    "title": "Secure Containerization Platform",
+    "domain": "14",
+    "description": "Design a platform that provides enhanced security for containerized applications with runtime protection, image scanning, and network isolation.",
+    "keywords": ["Container Security", "Runtime Protection", "Image Security", "Kubernetes Security"]
+  },
+  {
+    "id": 1346,
+    "title": "Privacy-Preserving Healthcare Data Exchange",
+    "domain": "14",
+    "description": "Develop a system that enables secure healthcare data exchange while preserving patient privacy and ensuring regulatory compliance.",
+    "keywords": ["Healthcare Privacy", "Medical Data Security", "HIPAA Compliance", "Health Information Exchange"]
+  },
+  {
+    "id": 1347,
+    "title": "Secure Software Composition Analyzer",
+    "domain": "14",
+    "description": "Create an analyzer that identifies security vulnerabilities in third-party components and open-source libraries used in applications.",
+    "keywords": ["Software Composition", "Vulnerability Scanning", "Third-party Risk", "Dependency Security"]
+  },
+  {
+    "id": 1348,
+    "title": "Cyber Threat Hunting Automation",
+    "domain": "14",
+    "description": "Build an automated threat hunting platform that proactively searches for indicators of compromise and advanced persistent threats.",
+    "keywords": ["Threat Hunting", "Automated Hunting", "Proactive Security", "IOC Detection"]
+  },
+  {
+    "id": 1349,
+    "title": "Secure Blockchain Interoperability Bridge",
+    "domain": "14",
+    "description": "Design a secure bridge that enables interoperability between different blockchain networks while maintaining security and preventing attacks.",
+    "keywords": ["Blockchain Interoperability", "Cross-chain Security", "Bridge Security", "Multi-blockchain"]
+  },
+  {
+    "id": 1350,
+    "title": "Dynamic Application Security Testing Suite",
+    "domain": "14",
+    "description": "Develop a comprehensive DAST suite that performs real-time security testing of running applications with intelligent vulnerability detection.",
+    "keywords": ["Dynamic Testing", "Application Security", "Runtime Testing", "Vulnerability Assessment"]
+  },
+  {
+    "id": 1351,
+    "title": "Secure Remote Work Environment Manager",
+    "domain": "14",
+    "description": "Create a system that secures remote work environments with endpoint protection, secure communication, and access control management.",
+    "keywords": ["Remote Work Security", "Endpoint Protection", "Secure Remote Access", "Work-from-home Security"]
+  },
+  {
+    "id": 1352,
+    "title": "Cryptographic Protocol Verifier",
+    "domain": "14",
+    "description": "Build a formal verification tool that mathematically proves the security properties of cryptographic protocols and identifies potential flaws.",
+    "keywords": ["Formal Verification", "Protocol Analysis", "Cryptographic Verification", "Security Proofs"]
+  },
+  {
+    "id": 1353,
+    "title": "Secure Identity Federation Gateway",
+    "domain": "14",
+    "description": "Design a gateway that enables secure identity federation across multiple organizations and domains with privacy preservation.",
+    "keywords": ["Identity Federation", "Cross-domain Authentication", "Federated Identity", "Single Sign-on"]
+  },
+  {
+    "id": 1354,
+    "title": "Quantum-Safe Communication Network",
+    "domain": "14",
+    "description": "Develop a communication network that is resistant to quantum computing attacks using quantum-safe cryptographic algorithms.",
+    "keywords": ["Quantum-safe", "Secure Communication", "Post-quantum Network", "Quantum Resistance"]
+  },
+  {
+    "id": 1355,
+    "title": "Security Awareness Training Simulator",
+    "domain": "14",
+    "description": "Create an interactive simulator that provides realistic security awareness training through gamified scenarios and adaptive learning.",
+    "keywords": ["Security Training", "Awareness Training", "Gamified Learning", "Cybersecurity Education"]
+  },
+  {
+    "id": 1356,
+    "title": "Secure Data Destruction Verifier",
+    "domain": "14",
+    "description": "Build a system that verifies complete and secure destruction of sensitive data across various storage media with cryptographic proof.",
+    "keywords": ["Data Destruction", "Secure Deletion", "Data Sanitization", "Cryptographic Verification"]
+  },
+  {
+    "id": 1357,
+    "title": "AI-Enhanced Password Security Analyzer",
+    "domain": "14",
+    "description": "Design an analyzer that uses AI to evaluate password security, predict compromise risk, and suggest improvements based on threat intelligence.",
+    "keywords": ["Password Security", "AI Analysis", "Credential Security", "Password Strength"]
+  },
+  {
+    "id": 1358,
+    "title": "Secure Multi-Tenant Cloud Architecture",
+    "domain": "14",
+    "description": "Develop a cloud architecture that provides strong isolation between tenants while maintaining efficiency and preventing data leakage.",
+    "keywords": ["Multi-tenant Security", "Cloud Isolation", "Tenant Separation", "Cloud Architecture"]
+  },
+  {
+    "id": 1359,
+    "title": "Cyber Risk Quantification Platform",
+    "domain": "14",
+    "description": "Create a platform that quantifies cyber risks in financial terms to enable better decision-making and risk management strategies.",
+    "keywords": ["Risk Quantification", "Cyber Risk Assessment", "Financial Risk", "Risk Management"]
+  },
+  {
+    "id": 1360,
+    "title": "Secure Microservices Communication Framework",
+    "domain": "14",
+    "description": "Build a framework that secures communication between microservices with end-to-end encryption, authentication, and authorization.",
+    "keywords": ["Microservices Security", "Service Mesh Security", "API Security", "Distributed Security"]
+  },
+  {
+    "id": 1361,
+    "title": "Threat Intelligence Fusion Engine",
+    "domain": "14",
+    "description": "Design an engine that fuses threat intelligence from multiple sources and formats to provide unified, actionable security insights.",
+    "keywords": ["Threat Intelligence", "Intelligence Fusion", "CTI Analysis", "Threat Correlation"]
+  },
+  {
+    "id": 1362,
+    "title": "Secure Software Supply Chain Monitor",
+    "domain": "14",
+    "description": "Develop a monitoring system that tracks software supply chain integrity from source code to deployment with tamper detection.",
+    "keywords": ["Supply Chain Security", "Software Integrity", "Build Security", "Deployment Security"]
+  },
+  {
+    "id": 1363,
+    "title": "Privacy-Preserving Location Services",
+    "domain": "14",
+    "description": "Create location-based services that provide functionality while preserving user location privacy using advanced cryptographic techniques.",
+    "keywords": ["Location Privacy", "Geolocation Security", "Privacy-preserving Services", "Anonymous Location"]
+  },
+  {
+    "id": 1364,
+    "title": "Secure Mobile Application Framework",
+    "domain": "14",
+    "description": "Build a framework for developing secure mobile applications with built-in security controls and threat protection mechanisms.",
+    "keywords": ["Mobile Security", "App Security", "Mobile Framework", "Mobile Threat Protection"]
+  },
+  {
+    "id": 1365,
+    "title": "Automated Security Control Assessor",
+    "domain": "14",
+    "description": "Design an automated system that continuously assesses the effectiveness of security controls and identifies gaps in security posture.",
+    "keywords": ["Security Controls", "Control Assessment", "Security Posture", "Continuous Monitoring"]
+  },
+  {
+    "id": 1366,
+    "title": "Secure Distributed Computing Platform",
+    "domain": "14",
+    "description": "Develop a platform for secure distributed computing that protects data and computations across multiple untrusted nodes.",
+    "keywords": ["Distributed Security", "Secure Computing", "Multi-party Computation", "Distributed Trust"]
+  },
+  {
+    "id": 1367,
+    "title": "Cyber Attack Attribution Engine",
+    "domain": "14",
+    "description": "Create an engine that analyzes cyber attacks to determine their origin, methods, and attribution with high confidence levels.",
+    "keywords": ["Attack Attribution", "Forensic Analysis", "Threat Actor Identification", "Cyber Investigation"]
+  },
+  {
+    "id": 1368,
+    "title": "Secure API Gateway with Rate Limiting",
+    "domain": "14",
+    "description": "Build an API gateway that provides security controls including authentication, authorization, rate limiting, and DDoS protection.",
+    "keywords": ["API Security", "Gateway Security", "Rate Limiting", "API Protection"]
+  },
+  {
+    "id": 1369,
+    "title": "Privacy-Compliant Surveillance System",
+    "domain": "14",
+    "description": "Design a surveillance system that maintains security monitoring capabilities while ensuring privacy compliance and data minimization.",
+    "keywords": ["Privacy-compliant Surveillance", "Data Minimization", "Surveillance Privacy", "Ethical Monitoring"]
+  },
+  {
+    "id": 1370,
+    "title": "Secure Cross-Border Data Transfer Tool",
+    "domain": "14",
+    "description": "Develop a tool that enables secure cross-border data transfers while complying with various international data protection regulations.",
+    "keywords": ["Cross-border Security", "International Compliance", "Data Transfer Security", "Regulatory Compliance"]
+  },
+  {
+    "id": 1371,
+    "title": "Machine Learning Model Security Validator",
+    "domain": "14",
+    "description": "Create a validator that assesses the security of machine learning models against adversarial attacks, data poisoning, and model stealing.",
+    "keywords": ["ML Security", "Model Validation", "Adversarial Defense", "AI Security Testing"]
+  },
+  {
+    "id": 1372,
+    "title": "Secure Backup and Recovery System",
+    "domain": "14",
+    "description": "Build a backup and recovery system that provides encryption, integrity verification, and protection against ransomware attacks.",
+    "keywords": ["Backup Security", "Data Recovery", "Ransomware Protection", "Encrypted Backups"]
+  },
+  {
+    "id": 1373,
+    "title": "Digital Forensics Investigation Platform",
+    "domain": "14",
+    "description": "Design a comprehensive platform for digital forensics investigations with evidence collection, analysis, and chain of custody management.",
+    "keywords": ["Digital Forensics", "Evidence Collection", "Forensic Analysis", "Chain of Custody"]
+  },
+//IOT(domain-15)
+  {
+    "id": 1374,
+    "title": "Smart Home Device Interoperability",
+    "domain": "15",
+    "description": "Design a framework to ensure seamless interoperability among connected devices from multiple vendors in a smart home ecosystem.",
+    "keywords": ["Connected Devices", "Smart Home", "Protocol", "Scalability"]
+  },
+  {
+    "id": 1375,
+    "title": "Energy-Efficient Sensor Networks for Agriculture",
+    "domain": "15",
+    "description": "Develop low-power sensor networks to monitor soil conditions and crop health while ensuring energy efficiency and scalability in large farmlands.",
+    "keywords": ["Sensor Networks", "Energy Efficiency", "Scalability", "Data Analytics"]
+  },
+  {
+    "id": 1376,
+    "title": "Industrial IoT Predictive Maintenance",
+    "domain": "15",
+    "description": "Create an Industrial IoT system that uses edge computing and data analytics to predict machine failures before they occur.",
+    "keywords": ["Industrial IoT", "Edge Computing", "Data Analytics", "Wireless Communication"]
+  },
+  {
+    "id": 1377,
+    "title": "Secure Smart Home Protocol Design",
+    "domain": "15",
+    "description": "Design a secure communication protocol to safeguard wireless transmissions among smart home connected devices.",
+    "keywords": ["Security", "Protocol", "Smart Home", "Wireless Communication"]
+  },
+  {
+    "id": 1378,
+    "title": "Cloud-Integrated Healthcare Monitoring",
+    "domain": "15",
+    "description": "Build a cloud-integrated IoT healthcare monitoring system that collects real-time vitals from wearable connected devices.",
+    "keywords": ["Cloud Integration", "Connected Devices", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1379,
+    "title": "Smart Grid Energy Optimization",
+    "domain": "15",
+    "description": "Design an IoT-enabled smart grid system that improves energy efficiency by balancing loads using predictive analytics.",
+    "keywords": ["Energy Efficiency", "Connected Devices", "Data Analytics", "Industrial IoT"]
+  },
+  {
+    "id": 1380,
+    "title": "Edge Computing for Autonomous Vehicles",
+    "domain": "15",
+    "description": "Implement edge computing techniques in IoT-enabled autonomous vehicles to reduce latency in decision-making.",
+    "keywords": ["Edge Computing", "Connected Devices", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1381,
+    "title": "Scalable Smart City Traffic Control",
+    "domain": "15",
+    "description": "Develop a scalable IoT-based traffic management system using sensor networks and cloud integration to minimize congestion.",
+    "keywords": ["Sensor Networks", "Scalability", "Cloud Integration", "Smart Home"]
+  },
+  {
+    "id": 1382,
+    "title": "IoT-Enabled Cold Chain Logistics",
+    "domain": "15",
+    "description": "Design an IoT-based cold chain monitoring system to track temperature-sensitive goods with energy-efficient sensors.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Energy Efficiency", "Security"]
+  },
+  {
+    "id": 1383,
+    "title": "Smart Home Voice-Control Security",
+    "domain": "15",
+    "description": "Create a secure IoT-enabled smart home voice-control assistant resistant to protocol attacks and data breaches.",
+    "keywords": ["Smart Home", "Security", "Protocol", "Connected Devices"]
+  },
+  {
+    "id": 1374,
+    "title": "Smart Home Device Interoperability",
+    "domain": "15",
+    "description": "Design a framework to ensure seamless interoperability among connected devices from multiple vendors in a smart home ecosystem.",
+    "keywords": ["Connected Devices", "Smart Home", "Protocol", "Scalability"]
+  },
+  {
+    "id": 1375,
+    "title": "Energy-Efficient Sensor Networks for Agriculture",
+    "domain": "15",
+    "description": "Develop low-power sensor networks to monitor soil conditions and crop health while ensuring energy efficiency and scalability in large farmlands.",
+    "keywords": ["Sensor Networks", "Energy Efficiency", "Scalability", "Data Analytics"]
+  },
+  {
+    "id": 1376,
+    "title": "Industrial IoT Predictive Maintenance",
+    "domain": "15",
+    "description": "Create an Industrial IoT system that uses edge computing and data analytics to predict machine failures before they occur.",
+    "keywords": ["Industrial IoT", "Edge Computing", "Data Analytics", "Wireless Communication"]
+  },
+  {
+    "id": 1377,
+    "title": "Secure Smart Home Protocol Design",
+    "domain": "15",
+    "description": "Design a secure communication protocol to safeguard wireless transmissions among smart home connected devices.",
+    "keywords": ["Security", "Protocol", "Smart Home", "Wireless Communication"]
+  },
+  {
+    "id": 1378,
+    "title": "Cloud-Integrated Healthcare Monitoring",
+    "domain": "15",
+    "description": "Build a cloud-integrated IoT healthcare monitoring system that collects real-time vitals from wearable connected devices.",
+    "keywords": ["Cloud Integration", "Connected Devices", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1379,
+    "title": "Smart Grid Energy Optimization",
+    "domain": "15",
+    "description": "Design an IoT-enabled smart grid system that improves energy efficiency by balancing loads using predictive analytics.",
+    "keywords": ["Energy Efficiency", "Connected Devices", "Data Analytics", "Industrial IoT"]
+  },
+  {
+    "id": 1380,
+    "title": "Edge Computing for Autonomous Vehicles",
+    "domain": "15",
+    "description": "Implement edge computing techniques in IoT-enabled autonomous vehicles to reduce latency in decision-making.",
+    "keywords": ["Edge Computing", "Connected Devices", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1381,
+    "title": "Scalable Smart City Traffic Control",
+    "domain": "15",
+    "description": "Develop a scalable IoT-based traffic management system using sensor networks and cloud integration to minimize congestion.",
+    "keywords": ["Sensor Networks", "Scalability", "Cloud Integration", "Smart Home"]
+  },
+  {
+    "id": 1382,
+    "title": "IoT-Enabled Cold Chain Logistics",
+    "domain": "15",
+    "description": "Design an IoT-based cold chain monitoring system to track temperature-sensitive goods with energy-efficient sensors.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Energy Efficiency", "Security"]
+  },
+  {
+    "id": 1383,
+    "title": "Smart Home Voice-Control Security",
+    "domain": "15",
+    "description": "Create a secure IoT-enabled smart home voice-control assistant resistant to protocol attacks and data breaches.",
+    "keywords": ["Smart Home", "Security", "Protocol", "Connected Devices"]
+  },
+  {
+    "id": 1384,
+    "title": "Wearable IoT Fitness Analytics",
+    "domain": "15",
+    "description": "Develop wearable IoT devices that provide advanced fitness analytics by combining sensor networks and cloud integration.",
+    "keywords": ["Connected Devices", "Sensor Networks", "Data Analytics", "Cloud Integration"]
+  },
+  {
+    "id": 1385,
+    "title": "Industrial IoT Gas Leak Detection",
+    "domain": "15",
+    "description": "Design an Industrial IoT system with wireless sensors to detect hazardous gas leaks and trigger immediate alerts.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1386,
+    "title": "Smart Agriculture Irrigation Control",
+    "domain": "15",
+    "description": "Implement a smart irrigation system using IoT sensors and cloud analytics to optimize water usage in agriculture.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Cloud Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 1387,
+    "title": "Scalable Smart Lighting System",
+    "domain": "15",
+    "description": "Build a scalable IoT-enabled smart lighting system that adapts brightness levels to occupancy and time of day.",
+    "keywords": ["Smart Home", "Energy Efficiency", "Connected Devices", "Scalability"]
+  },
+  {
+    "id": 1388,
+    "title": "IoT-Based Disaster Alert Network",
+    "domain": "15",
+    "description": "Create an IoT-based disaster management system using sensor networks to issue real-time alerts during natural hazards.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Security", "Scalability"]
+  },
+  {
+    "id": 1389,
+    "title": "Cloud-Driven Smart Parking",
+    "domain": "15",
+    "description": "Design a cloud-driven IoT parking solution that provides real-time availability and reduces congestion in urban areas.",
+    "keywords": ["Cloud Integration", "Sensor Networks", "Smart Home", "Scalability"]
+  },
+  {
+    "id": 1390,
+    "title": "Smart Retail Inventory Tracking",
+    "domain": "15",
+    "description": "Implement an IoT solution for real-time retail inventory tracking using sensor networks and edge computing.",
+    "keywords": ["Sensor Networks", "Edge Computing", "Industrial IoT", "Data Analytics"]
+  },
+  {
+    "id": 1391,
+    "title": "IoT-Based Building Energy Auditing",
+    "domain": "15",
+    "description": "Develop an IoT-enabled system to perform continuous energy auditing in buildings to enhance efficiency.",
+    "keywords": ["Energy Efficiency", "Connected Devices", "Smart Home", "Cloud Integration"]
+  },
+  {
+    "id": 1392,
+    "title": "Smart Home Elderly Assistance",
+    "domain": "15",
+    "description": "Design a smart home system with IoT devices to monitor and assist elderly residents with safety and health.",
+    "keywords": ["Smart Home", "Connected Devices", "Security", "Data Analytics"]
+  },
+  {
+    "id": 1393,
+    "title": "IoT-Enabled Waste Management",
+    "domain": "15",
+    "description": "Develop an IoT-based waste management system that uses sensor networks to track fill levels and optimize collection.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1394,
+    "title": "Edge-Based IoT Air Quality Monitoring",
+    "domain": "15",
+    "description": "Implement edge computing for real-time air quality monitoring using connected IoT sensors.",
+    "keywords": ["Edge Computing", "Sensor Networks", "Wireless Communication", "Data Analytics"]
+  },
+  {
+    "id": 1395,
+    "title": "IoT Security for Connected Cars",
+    "domain": "15",
+    "description": "Design a secure IoT protocol to protect wireless communication in connected vehicles from cyber threats.",
+    "keywords": ["Security", "Protocol", "Wireless Communication", "Connected Devices"]
+  },
+  {
+    "id": 1396,
+    "title": "Smart Water Distribution System",
+    "domain": "15",
+    "description": "Develop a smart water distribution network using IoT sensors and cloud analytics to minimize waste.",
+    "keywords": ["Sensor Networks", "Cloud Integration", "Energy Efficiency", "Industrial IoT"]
+  },
+  {
+    "id": 1397,
+    "title": "IoT-Enhanced Supply Chain Visibility",
+    "domain": "15",
+    "description": "Create an IoT system that provides real-time supply chain visibility with scalable sensor networks.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Scalability", "Data Analytics"]
+  },
+  {
+    "id": 1398,
+    "title": "Smart Campus Energy Management",
+    "domain": "15",
+    "description": "Design an IoT solution for managing energy consumption across large educational campuses using connected devices.",
+    "keywords": ["Connected Devices", "Energy Efficiency", "Scalability", "Cloud Integration"]
+  },
+  {
+    "id": 1399,
+    "title": "IoT-Based Fire Detection System",
+    "domain": "15",
+    "description": "Build an IoT-enabled fire detection and suppression system using wireless communication and sensor networks.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Security", "Smart Home"]
+  },
+  {
+    "id": 1400,
+    "title": "IoT-Enabled Precision Farming",
+    "domain": "15",
+    "description": "Develop an IoT-based precision farming system that leverages sensor networks and cloud integration to maximize crop yield.",
+    "keywords": ["Sensor Networks", "Cloud Integration", "Data Analytics", "Energy Efficiency"]
+  },
+  {
+    "id": 1401,
+    "title": "Smart Warehouse Automation",
+    "domain": "15",
+    "description": "Create an IoT-enabled warehouse automation system that uses connected devices and edge computing for real-time inventory management.",
+    "keywords": ["Connected Devices", "Industrial IoT", "Edge Computing", "Scalability"]
+  },
+  {
+    "id": 1402,
+    "title": "IoT-Driven Flood Monitoring",
+    "domain": "15",
+    "description": "Design a flood monitoring system with wireless IoT sensors that can issue predictive alerts to minimize disaster impact.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1403,
+    "title": "IoT for Smart Public Transport",
+    "domain": "15",
+    "description": "Implement an IoT-based public transport management system to track buses, optimize routes, and improve efficiency.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Scalability", "Wireless Communication"]
+  },
+  {
+    "id": 1404,
+    "title": "Smart Home Appliance Energy Optimization",
+    "domain": "15",
+    "description": "Develop a system to optimize energy usage in smart home appliances using IoT sensors and predictive analytics.",
+    "keywords": ["Smart Home", "Energy Efficiency", "Connected Devices", "Data Analytics"]
+  },
+  {
+    "id": 1405,
+    "title": "IoT-Powered Remote Patient Monitoring",
+    "domain": "15",
+    "description": "Build an IoT solution for continuous remote patient monitoring that integrates wearable devices with cloud platforms.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Security", "Data Analytics"]
+  },
+  {
+    "id": 1406,
+    "title": "IoT-Based Smart Farming Drone Integration",
+    "domain": "15",
+    "description": "Integrate drones with IoT sensor networks for real-time monitoring of large farmlands to optimize farming practices.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1407,
+    "title": "IoT-Enabled School Safety System",
+    "domain": "15",
+    "description": "Design an IoT-enabled safety system for schools that uses connected devices to monitor entry, exit, and emergencies.",
+    "keywords": ["Connected Devices", "Security", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1408,
+    "title": "IoT for Smart Hospital Asset Tracking",
+    "domain": "15",
+    "description": "Develop an IoT-based asset tracking system in hospitals to monitor medical equipment and optimize usage.",
+    "keywords": ["Industrial IoT", "Connected Devices", "Data Analytics", "Cloud Integration"]
+  },
+  {
+    "id": 1409,
+    "title": "Smart Port Logistics Management",
+    "domain": "15",
+    "description": "Implement an IoT solution to improve port logistics by monitoring cargo movement and ensuring energy-efficient operations.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Energy Efficiency", "Cloud Integration"]
+  },
+  {
+    "id": 1410,
+    "title": "IoT-Enabled Real-Time Weather Forecasting",
+    "domain": "15",
+    "description": "Create a distributed IoT system with sensor networks to provide hyperlocal, real-time weather forecasting.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1411,
+    "title": "Smart Stadium Experience",
+    "domain": "15",
+    "description": "Design an IoT-enabled smart stadium system to enhance fan experience with connected devices and real-time services.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Scalability", "Wireless Communication"]
+  },
+  {
+    "id": 1412,
+    "title": "IoT-Enabled Bridge Health Monitoring",
+    "domain": "15",
+    "description": "Develop a structural health monitoring system for bridges using IoT sensors to prevent catastrophic failures.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1413,
+    "title": "IoT-Based Personalized Retail Marketing",
+    "domain": "15",
+    "description": "Build an IoT solution that uses customer behavior data from connected devices to deliver personalized retail marketing.",
+    "keywords": ["Connected Devices", "Data Analytics", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1414,
+    "title": "IoT-Driven Renewable Energy Monitoring",
+    "domain": "15",
+    "description": "Create an IoT-enabled renewable energy monitoring system to optimize solar and wind farm performance.",
+    "keywords": ["Energy Efficiency", "Industrial IoT", "Data Analytics", "Cloud Integration"]
+  },
+  {
+    "id": 1415,
+    "title": "Smart Railway Track Monitoring",
+    "domain": "15",
+    "description": "Implement IoT-based monitoring of railway tracks with sensor networks for predictive maintenance and safety.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Edge Computing", "Security"]
+  },
+  {
+    "id": 1416,
+    "title": "IoT for Connected Manufacturing Floors",
+    "domain": "15",
+    "description": "Design a connected manufacturing floor where IoT devices improve workflow, optimize machines, and enhance scalability.",
+    "keywords": ["Industrial IoT", "Connected Devices", "Scalability", "Data Analytics"]
+  },
+  {
+    "id": 1417,
+    "title": "IoT-Enabled Wildlife Tracking",
+    "domain": "15",
+    "description": "Develop an IoT system to track and monitor wildlife populations using connected devices with energy efficiency in focus.",
+    "keywords": ["Connected Devices", "Energy Efficiency", "Wireless Communication", "Data Analytics"]
+  },
+  {
+    "id": 1418,
+    "title": "IoT for Smart Street Lighting",
+    "domain": "15",
+    "description": "Create a scalable IoT-based smart street lighting system that adjusts brightness dynamically to save energy.",
+    "keywords": ["Smart Home", "Energy Efficiency", "Scalability", "Wireless Communication"]
+  },
+  {
+    "id": 1419,
+    "title": "IoT-Powered Remote Industrial Inspection",
+    "domain": "15",
+    "description": "Develop an IoT-enabled remote inspection system for hazardous industrial sites using drones and sensor networks.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1420,
+    "title": "IoT-Integrated Smart Payment Terminals",
+    "domain": "15",
+    "description": "Design IoT-based payment terminals that integrate seamlessly with connected devices for secure transactions.",
+    "keywords": ["Connected Devices", "Security", "Protocol", "Cloud Integration"]
+  },
+  {
+    "id": 1421,
+    "title": "IoT-Enabled Smart Classroom",
+    "domain": "15",
+    "description": "Create a smart classroom system using IoT devices to enhance learning with connected whiteboards, sensors, and analytics.",
+    "keywords": ["Connected Devices", "Sensor Networks", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1422,
+    "title": "IoT-Based Airport Baggage Tracking",
+    "domain": "15",
+    "description": "Develop a baggage tracking system for airports using IoT sensors and cloud integration for real-time visibility.",
+    "keywords": ["Sensor Networks", "Cloud Integration", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1423,
+    "title": "IoT for Smart Water Quality Monitoring",
+    "domain": "15",
+    "description": "Implement a scalable IoT water quality monitoring solution using sensors and predictive analytics for treatment plants.",
+    "keywords": ["Sensor Networks", "Scalability", "Data Analytics", "Energy Efficiency"]
+  },
+  {
+    "id": 1424,
+    "title": "IoT-Based Fleet Management",
+    "domain": "15",
+    "description": "Create a fleet management system with IoT sensors and cloud integration to track vehicle efficiency and reduce costs.",
+    "keywords": ["Industrial IoT", "Cloud Integration", "Data Analytics", "Wireless Communication"]
+  },
+  {
+    "id": 1425,
+    "title": "IoT for Personalized Healthcare Alerts",
+    "domain": "Internet of Things",
+    "description": "Build an IoT system that delivers personalized health alerts by analyzing real-time data from connected wearables.",
+    "keywords": ["Connected Devices", "Data Analytics", "Cloud Integration", "Security"]
+  },
+  {
+    "id": 1426,
+    "title": "IoT-Enabled Cold Storage Monitoring",
+    "domain": "15",
+    "description": "Design an IoT system to monitor cold storage facilities using wireless sensors to ensure food and medicine safety.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1427,
+    "title": "IoT for Smart Fire Hydrant Management",
+    "domain": "15",
+    "description": "Create an IoT-enabled system to monitor water pressure and availability in fire hydrants for quick emergency response.",
+    "keywords": ["Sensor Networks", "Connected Devices", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1428,
+    "title": "IoT-Based Energy-Efficient HVAC Control",
+    "domain": "15",
+    "description": "Develop a smart HVAC system that uses IoT sensors and predictive analytics to optimize energy efficiency in buildings.",
+    "keywords": ["Smart Home", "Energy Efficiency", "Data Analytics", "Cloud Integration"]
+  },
+  {
+    "id": 1429,
+    "title": "IoT-Driven Mining Safety System",
+    "domain": "15",
+    "description": "Implement an IoT-based monitoring system for mining operations to detect hazards like gas leaks and structural risks.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1430,
+    "title": "IoT-Enabled Smart Parking with Edge Processing",
+    "domain": "15",
+    "description": "Design a smart parking system using IoT sensors and edge computing to provide real-time availability with low latency.",
+    "keywords": ["Edge Computing", "Sensor Networks", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1431,
+    "title": "IoT for Smart Library Systems",
+    "domain": "15",
+    "description": "Build a smart library system with IoT devices to track book movements, automate checkouts, and monitor environment.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1432,
+    "title": "IoT-Based Connected Ambulance",
+    "domain": "15",
+    "description": "Develop a connected ambulance system that transmits patient vitals in real time using IoT devices and cloud integration.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1433,
+    "title": "IoT for Industrial Emission Monitoring",
+    "domain": "15",
+    "description": "Create an IoT-based monitoring system for tracking industrial emissions to ensure compliance with environmental norms.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Data Analytics", "Energy Efficiency"]
+  },
+  {
+    "id": 1434,
+    "title": "IoT-Enabled Smart Toll Collection",
+    "domain": "15",
+    "description": "Design an IoT-powered toll collection system using wireless communication for real-time payment processing.",
+    "keywords": ["Wireless Communication", "Connected Devices", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1435,
+    "title": "IoT-Based Smart Energy Meters",
+    "domain": "15",
+    "description": "Implement smart energy meters that use IoT connectivity to provide real-time consumption analytics to users and providers.",
+    "keywords": ["Connected Devices", "Energy Efficiency", "Data Analytics", "Protocol"]
+  },
+  {
+    "id": 1436,
+    "title": "IoT for Remote Pipeline Monitoring",
+    "domain": "15",
+    "description": "Develop an IoT-enabled system to monitor oil and gas pipelines with sensor networks for leak detection.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1437,
+    "title": "IoT-Enabled Smart Tourism",
+    "domain": "15",
+    "description": "Create an IoT system for smart tourism that provides location-aware services through connected devices.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1438,
+    "title": "IoT-Based Soil Nutrient Analysis",
+    "domain": "15",
+    "description": "Design an IoT-enabled system that uses soil sensors to provide nutrient analysis and recommendations for farmers.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Cloud Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 1439,
+    "title": "IoT for Industrial Worker Safety",
+    "domain": "15",
+    "description": "Implement wearable IoT devices to monitor industrial workers’ vitals and hazardous exposure levels.",
+    "keywords": ["Industrial IoT", "Connected Devices", "Security", "Wireless Communication"]
+  },
+  {
+    "id": 1440,
+    "title": "IoT-Enabled Traffic Violation Detection",
+    "domain": "15",
+    "description": "Develop an IoT system that detects and reports traffic violations using edge-enabled cameras and sensors.",
+    "keywords": ["Edge Computing", "Sensor Networks", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1441,
+    "title": "IoT for Smart Greenhouses",
+    "domain": "15",
+    "description": "Create an IoT-powered smart greenhouse system that regulates humidity, light, and irrigation automatically.",
+    "keywords": ["Sensor Networks", "Smart Home", "Energy Efficiency", "Cloud Integration"]
+  },
+  {
+    "id": 1442,
+    "title": "IoT-Enabled Smart Vending Machines",
+    "domain": "15",
+    "description": "Build IoT vending machines that track inventory, process payments, and send real-time analytics to suppliers.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1443,
+    "title": "IoT-Based Seismic Activity Monitoring",
+    "domain": "15",
+    "description": "Design an IoT system with seismic sensors to monitor earthquake activity and provide predictive alerts.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1444,
+    "title": "IoT for Smart Parking Guidance",
+    "domain": "15",
+    "description": "Develop an IoT parking guidance system that directs vehicles to available spots using real-time sensor data.",
+    "keywords": ["Sensor Networks", "Connected Devices", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1445,
+    "title": "IoT-Enabled Disaster Recovery Logistics",
+    "domain": "15",
+    "description": "Implement an IoT-enabled logistics solution for disaster recovery to optimize delivery of relief supplies.",
+    "keywords": ["Industrial IoT", "Cloud Integration", "Scalability", "Wireless Communication"]
+  },
+  {
+    "id": 1446,
+    "title": "IoT-Based Patient Rehabilitation Tracking",
+    "domain": "15",
+    "description": "Create IoT-enabled rehabilitation wearables that track exercises and progress for recovering patients.",
+    "keywords": ["Connected Devices", "Data Analytics", "Cloud Integration", "Security"]
+  },
+  {
+    "id": 1447,
+    "title": "IoT for Smart Power Grids with Edge Support",
+    "domain": "15",
+    "description": "Develop IoT-enabled smart power grids that use edge computing for real-time monitoring and efficient load balancing.",
+    "keywords": ["Edge Computing", "Energy Efficiency", "Industrial IoT", "Scalability"]
+  },
+  {
+    "id": 1448,
+    "title": "IoT-Enabled Smart Waste Segregation",
+    "domain": "15",
+    "description": "Build an IoT-based smart waste segregation system using sensors and machine learning for recycling optimization.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Cloud Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 1449,
+    "title": "IoT for Smart Hotel Rooms",
+    "domain": "15",
+    "description": "Design an IoT-powered smart hotel system that personalizes room temperature, lighting, and services for guests.",
+    "keywords": ["Smart Home", "Connected Devices", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1450,
+    "title": "IoT-Driven Smart Farming Market Insights",
+    "domain": "15",
+    "description": "Implement an IoT system that collects farming data and generates market insights to assist farmers in decision-making.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1451,
+    "title": "IoT-Enabled Smart Farming Livestock Tracking",
+    "domain": "15",
+    "description": "Develop an IoT solution to monitor livestock health and movement using connected devices with real-time analytics.",
+    "keywords": ["Connected Devices", "Sensor Networks", "Wireless Communication", "Data Analytics"]
+  },
+  {
+    "id": 1452,
+    "title": "IoT for Smart Airport Runway Monitoring",
+    "domain": "15",
+    "description": "Design an IoT-enabled monitoring system for airport runways using sensors to detect surface wear and hazards.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Security", "Scalability"]
+  },
+  {
+    "id": 1453,
+    "title": "IoT-Based Smart Home Security Cameras",
+    "domain": "15",
+    "description": "Implement an IoT-based security camera system for smart homes with edge computing to minimize latency.",
+    "keywords": ["Smart Home", "Edge Computing", "Security", "Wireless Communication"]
+  },
+  {
+    "id": 1454,
+    "title": "IoT-Driven Smart Airport Navigation",
+    "domain": "15",
+    "description": "Create a smart airport navigation system using IoT devices to guide passengers seamlessly to gates and services.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Wireless Communication", "Scalability"]
+  },
+  {
+    "id": 1455,
+    "title": "IoT for Smart City Noise Monitoring",
+    "domain": "15",
+    "description": "Develop an IoT-enabled noise monitoring system across cities using scalable sensor networks for public health insights.",
+    "keywords": ["Sensor Networks", "Scalability", "Data Analytics", "Wireless Communication"]
+  },
+  {
+    "id": 1456,
+    "title": "IoT-Based Smart Classroom Attendance",
+    "domain": "15",
+    "description": "Implement an IoT solution that automates classroom attendance using connected devices and cloud integration.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1457,
+    "title": "IoT-Enabled Smart Agriculture Supply Chains",
+    "domain": "15",
+    "description": "Design an IoT-based system to track agricultural produce from farms to markets with secure protocols and sensors.",
+    "keywords": ["Industrial IoT", "Sensor Networks", "Protocol", "Security"]
+  },
+  {
+    "id": 1458,
+    "title": "IoT for Smart City Air Pollution Alerts",
+    "domain": "15",
+    "description": "Build an IoT-enabled system to monitor citywide air quality and send predictive alerts to residents.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1459,
+    "title": "IoT-Enabled Hospital Bed Occupancy Tracking",
+    "domain": "15",
+    "description": "Develop an IoT solution to track hospital bed occupancy in real time for optimized patient management.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Scalability", "Data Analytics"]
+  },
+  {
+    "id": 1460,
+    "title": "IoT-Based Smart Traffic Accident Alerts",
+    "domain": "15",
+    "description": "Create an IoT-enabled system that detects traffic accidents using sensors and notifies emergency services instantly.",
+    "keywords": ["Sensor Networks", "Wireless Communication", "Security", "Edge Computing"]
+  },
+  {
+    "id": 1461,
+    "title": "IoT-Driven Smart Farming Pest Detection",
+    "domain": "15",
+    "description": "Implement IoT devices in farms to detect pest infestations early using sensors and predictive analytics.",
+    "keywords": ["Sensor Networks", "Data Analytics", "Cloud Integration", "Industrial IoT"]
+  },
+  {
+    "id": 1462,
+    "title": "IoT for Smart City Waste Collection Routes",
+    "domain": "15",
+    "description": "Design an IoT system to optimize waste collection routes in cities using fill-level sensors and data analytics.",
+    "keywords": ["Sensor Networks", "Scalability", "Energy Efficiency", "Data Analytics"]
+  },
+  {
+    "id": 1463,
+    "title": "IoT-Enabled Industrial Robotics Monitoring",
+    "domain": "15",
+    "description": "Develop an IoT system to monitor industrial robots’ performance and predict maintenance needs using edge analytics.",
+    "keywords": ["Industrial IoT", "Edge Computing", "Data Analytics", "Security"]
+  },
+  {
+    "id": 1464,
+    "title": "IoT for Smart Aquaculture Systems",
+    "domain": "15",
+    "description": "Build an IoT-enabled aquaculture monitoring system to track water quality and fish health with connected devices.",
+    "keywords": ["Connected Devices", "Sensor Networks", "Energy Efficiency", "Data Analytics"]
+  },
+  {
+    "id": 1465,
+    "title": "IoT-Enabled Smart Construction Sites",
+    "domain": "15",
+    "description": "Implement IoT devices to monitor worker safety, equipment usage, and site conditions in large construction projects.",
+    "keywords": ["Industrial IoT", "Connected Devices", "Wireless Communication", "Security"]
+  },
+  {
+    "id": 1466,
+    "title": "IoT for Smart Electricity Outage Management",
+    "domain": "15",
+    "description": "Create an IoT-based outage management system for electricity providers with real-time grid analytics.",
+    "keywords": ["Energy Efficiency", "Connected Devices", "Data Analytics", "Cloud Integration"]
+  },
+  {
+    "id": 1467,
+    "title": "IoT-Driven Personalized Fitness Training",
+    "domain": "15",
+    "description": "Design an IoT fitness platform that provides personalized workout and health recommendations using wearable sensors.",
+    "keywords": ["Connected Devices", "Data Analytics", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1468,
+    "title": "IoT-Enabled Smart Emergency Response",
+    "domain": "15",
+    "description": "Develop an IoT emergency response system that integrates connected devices, drones, and cloud analytics for disasters.",
+    "keywords": ["Connected Devices", "Cloud Integration", "Security", "Scalability"]
+  },
+  {
+    "id": 1469,
+    "title": "IoT for Smart Bridges with Predictive Analytics",
+    "domain": "15",
+    "description": "Implement IoT-based sensors in bridges to detect strain and predict maintenance using scalable analytics.",
+    "keywords": ["Sensor Networks", "Industrial IoT", "Data Analytics", "Scalability"]
+  },
+  {
+    "id": 1470,
+    "title": "IoT-Enabled Smart Energy Storage",
+    "domain": "15",
+    "description": "Design an IoT system for monitoring and optimizing battery storage systems in renewable energy grids.",
+    "keywords": ["Industrial IoT", "Energy Efficiency", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1471,
+    "title": "IoT for Smart Disaster Shelters",
+    "domain": "15",
+    "description": "Develop IoT-enabled disaster shelters with sensors to monitor occupancy, resources, and energy usage.",
+    "keywords": ["Connected Devices", "Sensor Networks", "Energy Efficiency", "Scalability"]
+  },
+  {
+    "id": 1472,
+    "title": "IoT-Driven Smart Retail Checkout",
+    "domain": "15",
+    "description": "Create an IoT-powered automatic checkout system in retail stores using connected devices and real-time analytics.",
+    "keywords": ["Connected Devices", "Data Analytics", "Cloud Integration", "Wireless Communication"]
+  },
+  {
+    "id": 1473,
+    "title": "IoT for Smart Shipping Container Tracking",
+    "domain": "15",
+    "description": "Implement an IoT tracking system for shipping containers with real-time visibility and predictive analytics.",
+    "keywords": ["Industrial IoT", "Wireless Communication", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1474,
+    "title": "IoT-Enabled Smart Parking for EVs",
+    "domain": "15",
+    "description": "Design a smart parking system integrated with EV charging stations using IoT devices and cloud analytics.",
+    "keywords": ["Connected Devices", "Energy Efficiency", "Cloud Integration", "Scalability"]
+  },
+  {
+    "id": 1475,
+    "title": "IoT for Smart School Bus Tracking",
+    "domain": "15",
+    "description": "Build an IoT-enabled system for real-time school bus tracking to ensure student safety and optimize routes.",
+    "keywords": ["Connected Devices", "Wireless Communication", "Cloud Integration", "Security"]
+  },
+  {
+    "id": 1476,
+    "title": "IoT-Enabled Personalized Home Automation",
+    "domain": "15",
+    "description": "Develop a home automation system with IoT devices that adapts to user preferences for lighting, heating, and security.",
+    "keywords": ["Smart Home", "Connected Devices", "Protocol", "Scalability"]
+  },
+  //Education / Pedagogy problems(domain-16)
+{
+"id": 1477,
+"title": "Adaptive MOOC Recommendation System",
+"domain": "16",
+"description": "Develop an AI-driven MOOC recommendation engine that suggests personalized courses to learners based on their skills, preferences, and past performance.",
+"keywords": ["MOOC", "AI in Education", "Personalized Learning", "E-Learning"]
+},
+{
+"id": 1478,
+"title": "Gamified Learning Analytics Dashboard",
+"domain": "16",
+"description": "Design a gamified dashboard that tracks learner engagement and progress using badges, leaderboards, and rewards to increase motivation.",
+"keywords": ["Gamification", "Assessment", "Educational Technology", "Learning Management Systems"]
+},
+{
+"id": 1479,
+"title": "AI-Powered Virtual Classroom Assistant",
+"domain": "16",
+"description": "Build an AI assistant for online classrooms that can answer student queries, summarize lectures, and provide instant feedback.",
+"keywords": ["AI in Education", "Online Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1480,
+"title": "Mobile Learning Habit Tracker",
+"domain": "16",
+"description": "Create a mobile app that tracks students’ daily learning habits and sends personalized reminders to maintain consistency.",
+"keywords": ["Mobile Learning", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1481,
+"title": "VR-Based Historical Immersion Platform",
+"domain": "16",
+"description": "Develop a virtual reality platform that immerses learners into historical events, allowing them to experience and interact with past environments.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1482,
+"title": "Automated Assessment Feedback Generator",
+"domain": "16",
+"description": "Design an AI-powered system that analyzes student submissions and provides instant, constructive feedback for improvement.",
+"keywords": ["Assessment", "AI in Education", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1483,
+"title": "Personalized STEM Tutor",
+"domain": "16",
+"description": "Build an AI-driven STEM tutoring system that adapts explanations and practice problems based on individual student learning styles.",
+"keywords": ["Personalized Learning", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1484,
+"title": "Mobile Micro-Learning Platform",
+"domain": "16",
+"description": "Create a mobile-first platform that delivers short, interactive learning modules for busy learners on the go.",
+"keywords": ["Mobile Learning", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1485,
+"title": "AI-Enhanced Peer Review System",
+"domain": "16",
+"description": "Develop an AI-assisted peer review system that helps students evaluate each other’s work fairly and constructively.",
+"keywords": ["Assessment", "AI in Education", "E-Learning", "Online Learning"]
+},
+{
+"id": 1486,
+"title": "Gamified Literacy Improvement App",
+"domain": "16",
+"description": "Design a gamified application that helps children improve reading and writing skills through interactive challenges and story-based learning.",
+"keywords": ["Gamification", "Mobile Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1487,
+"title": "VR Science Lab Simulator",
+"domain": "16",
+"description": "Develop a VR-based science lab simulator where students can conduct experiments safely and interact with virtual equipment.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1488,
+"title": "AI-Powered Learning Path Generator",
+"domain": "16",
+"description": "Build an AI system that dynamically generates learning paths for students by analyzing their strengths and weaknesses.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1489,
+"title": "Mobile AR Language Learning App",
+"domain": "16",
+"description": "Create a mobile augmented reality app that teaches new languages by overlaying translations and pronunciations on real-world objects.",
+"keywords": ["Mobile Learning", "Educational Technology", "E-Learning", "Personalized Learning"]
+},
+{
+"id": 1490,
+"title": "Adaptive Gamified Quizzing Platform",
+"domain": "16",
+"description": "Develop a gamified quiz platform where difficulty adjusts based on learner performance, providing instant rewards and motivation.",
+"keywords": ["Gamification", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1491,
+"title": "MOOC Dropout Prediction System",
+"domain": "16",
+"description": "Create a machine learning model that predicts which MOOC learners are likely to drop out and suggests interventions to improve retention.",
+"keywords": ["MOOC", "AI in Education", "Assessment", "Educational Technology"]
+},
+{
+"id": 1492,
+"title": "Collaborative Virtual Whiteboard",
+"domain": "16",
+"description": "Build a virtual whiteboard platform that allows students and teachers to collaborate in real-time with AI assistance for diagrams and notes.",
+"keywords": ["Online Learning", "AI in Education", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1493,
+"title": "AI-Based Essay Grading System",
+"domain": "16",
+"description": "Develop an AI tool that grades essays based on grammar, coherence, and critical thinking, providing suggestions for improvement.",
+"keywords": ["Assessment", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1494,
+"title": "Mobile Game for Math Skills",
+"domain": "16",
+"description": "Design a mobile learning game that strengthens math skills through puzzles, challenges, and competitive leaderboards.",
+"keywords": ["Gamification", "Mobile Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1495,
+"title": "Virtual Reality Field Trips",
+"domain": "16",
+"description": "Create VR-based field trips that allow students to explore museums, ecosystems, and cities without leaving the classroom.",
+"keywords": ["Virtual Reality", "E-Learning", "Online Learning", "Educational Technology"]
+},
+{
+"id": 1496,
+"title": "AI-Driven Study Partner Bot",
+"domain": "16",
+"description": "Build an AI chatbot that partners with students, answering questions, quizzing them, and suggesting personalized resources.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1497,
+"title": "AI Mentor for Career Guidance",
+"domain": "16",
+"description": "Develop an AI-powered mentor that guides students in selecting courses and career paths based on their strengths and market trends.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1498,
+"title": "Mobile Learning for Rural Education",
+"domain": "16",
+"description": "Create a mobile-first learning app that delivers offline content to students in rural areas with limited internet access.",
+"keywords": ["Mobile Learning", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1499,
+"title": "MOOC Collaborative Study Groups",
+"domain": "16",
+"description": "Design a MOOC platform feature that automatically forms collaborative study groups based on learner goals and time zones.",
+"keywords": ["MOOC", "Online Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1500,
+"title": "VR Anatomy Exploration Tool",
+"domain": "16",
+"description": "Build a VR platform that lets medical students explore 3D anatomical models interactively for enhanced understanding.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1501,
+"title": "AI Adaptive Question Bank",
+"domain": "16",
+"description": "Develop an AI-driven question bank that adapts difficulty levels according to student progress and mastery.",
+"keywords": ["Assessment", "AI in Education", "Personalized Learning", "E-Learning"]
+},
+{
+"id": 1502,
+"title": "Gamified Collaborative Learning",
+"domain": "16",
+"description": "Create a gamified platform where students work in teams to solve educational challenges and earn rewards collectively.",
+"keywords": ["Gamification", "Educational Technology", "Online Learning", "E-Learning"]
+},
+{
+"id": 1503,
+"title": "Mobile Skill Certification App",
+"domain": "16",
+"description": "Design a mobile application that allows learners to complete micro-courses and earn skill certificates through interactive modules.",
+"keywords": ["Mobile Learning", "E-Learning", "Assessment", "Educational Technology"]
+},
+{
+"id": 1504,
+"title": "AI-Powered Language Pronunciation Coach",
+"domain": "16",
+"description": "Develop an AI-driven pronunciation coach that listens to student speech and provides corrective feedback instantly.",
+"keywords": ["AI in Education", "Personalized Learning", "Mobile Learning", "E-Learning"]
+},
+{
+"id": 1505,
+"title": "VR-Based Engineering Simulations",
+"domain": "16",
+"description": "Create virtual reality engineering labs where students can run mechanical, civil, and electrical simulations safely.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1506,
+"title": "AI Learning Disability Support Tool",
+"domain": "16",
+"description": "Build an AI system that detects early signs of learning disabilities and suggests personalized interventions.",
+"keywords": ["AI in Education", "Personalized Learning", "Assessment", "E-Learning"]
+},
+{
+"id": 1507,
+"title": "Mobile STEM Challenge Platform",
+"domain": "16",
+"description": "Design a mobile platform where students engage in STEM challenges and competitions to enhance problem-solving skills.",
+"keywords": ["Mobile Learning", "Gamification", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1508,
+"title": "Gamified Teacher Training Portal",
+"domain": "16",
+"description": "Create a gamified portal for teacher professional development with modules, quizzes, and achievement badges.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1509,
+"title": "VR Literature Experience",
+"domain": "16",
+"description": "Develop a VR application that immerses students in literary worlds, enabling them to interact with characters and settings.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1510,
+"title": "AI-Based Learning Analytics",
+"domain": "16",
+"description": "Build an AI system that analyzes learner behavior and provides insights for teachers to improve instructional strategies.",
+"keywords": ["AI in Education", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1511,
+"title": "Mobile Peer Tutoring Platform",
+"domain": "16",
+"description": "Design a mobile app that connects students for peer tutoring sessions, matching learners with skilled peers.",
+"keywords": ["Mobile Learning", "Online Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1512,
+"title": "Gamified Attendance Tracker",
+"domain": "16",
+"description": "Develop a gamified attendance system that rewards students for consistent participation and classroom engagement.",
+"keywords": ["Gamification", "Educational Technology", "E-Learning", "Assessment"]
+},
+{
+"id": 1513,
+"title": "MOOC Interactive Labs",
+"domain": "16",
+"description": "Create an extension for MOOCs that integrates virtual labs, enabling learners to experiment with practical simulations.",
+"keywords": ["MOOC", "Virtual Reality", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1514,
+"title": "AI Study Material Summarizer",
+"domain": "16",
+"description": "Develop an AI tool that summarizes lengthy study materials into concise, easy-to-understand notes.",
+"keywords": ["AI in Education", "E-Learning", "Personalized Learning", "Educational Technology"]
+},
+{
+"id": 1515,
+"title": "VR-Based Debate Training Platform",
+"domain": "16",
+"description": "Build a VR platform where students practice debate skills in virtual environments with AI audience feedback.",
+"keywords": ["Virtual Reality", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1516,
+"title": "Mobile Career Quiz App",
+"domain": "16",
+"description": "Design a gamified career exploration app where students take quizzes to discover potential career paths.",
+"keywords": ["Mobile Learning", "Gamification", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1517,
+"title": "Gamified Reading Comprehension Tool",
+"domain": "16",
+"description": "Develop a gamified tool that helps students improve reading comprehension through interactive stories and quizzes.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1518,
+"title": "AI-Powered Plagiarism Detector",
+"domain": "16",
+"description": "Create an AI system that checks student submissions for plagiarism and provides suggestions for originality.",
+"keywords": ["AI in Education", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1519,
+"title": "Mobile AR Chemistry Lab",
+"domain": "16",
+"description": "Design an augmented reality app that simulates chemistry experiments on mobile devices for safe practice.",
+"keywords": ["Mobile Learning", "Virtual Reality", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1520,
+"title": "MOOC Multilingual Support",
+"domain": "16",
+"description": "Build a MOOC platform with AI-powered translation and subtitles to support learners from different languages.",
+"keywords": ["MOOC", "AI in Education", "Online Learning", "E-Learning"]
+},
+{
+"id": 1521,
+"title": "VR Cultural Exchange Program",
+"domain": "16",
+"description": "Develop a VR-based cultural immersion platform where students can virtually experience global traditions and customs.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1522,
+"title": "AI Adaptive Exam Proctoring",
+"domain": "16",
+"description": "Create an AI-based proctoring system that monitors online exams and adapts security levels to student behavior.",
+"keywords": ["AI in Education", "Assessment", "Online Learning", "E-Learning"]
+},
+{
+"id": 1523,
+"title": "Mobile Flashcard Generator",
+"domain": "16",
+"description": "Design a mobile app that automatically converts lecture notes into digital flashcards for quick revision.",
+"keywords": ["Mobile Learning", "Educational Technology", "E-Learning", "Personalized Learning"]
+},
+{
+"id": 1524,
+"title": "Gamified Coding Bootcamp",
+"domain": "16",
+"description": "Build a gamified coding platform where learners solve programming challenges and earn rewards as they progress.",
+"keywords": ["Gamification", "E-Learning", "Online Learning", "Educational Technology"]
+},
+{
+"id": 1525,
+"title": "VR History Museum",
+"domain": "16",
+"description": "Develop a VR museum where learners can explore historical artifacts and interact with guided AI narrations.",
+"keywords": ["Virtual Reality", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1526,
+"title": "AI-Based Course Difficulty Predictor",
+"domain": "16",
+"description": "Create an AI tool that predicts the difficulty of a course for a learner and recommends preparation materials.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Assessment"]
+},
+{
+"id": 1527,
+"title": "Mobile Learning Progress Tracker",
+"domain": "16",
+"description": "Design a mobile platform that tracks student progress across different courses and provides visual analytics.",
+"keywords": ["Mobile Learning", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1528,
+"title": "Gamified Science Quiz League",
+"domain": "16",
+"description": "Create a competitive quiz league where students answer science questions in a gamified environment.",
+"keywords": ["Gamification", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1529,
+"title": "MOOC Accessibility Enhancer",
+"domain": "16",
+"description": "Develop tools to make MOOCs more accessible for visually and hearing-impaired learners with AI transcription and narration.",
+"keywords": ["MOOC", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1530,
+"title": "VR Physics Playground",
+"domain": "16",
+"description": "Build a VR application that allows students to experiment with physics concepts like gravity and motion interactively.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1531,
+"title": "AI Essay Outline Assistant",
+"domain": "16",
+"description": "Create an AI system that helps students generate essay outlines before writing, ensuring logical structure and flow.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1532,
+"title": "Mobile Peer Feedback Exchange",
+"domain": "16",
+"description": "Design a mobile platform where students can share projects and receive peer feedback in structured formats.",
+"keywords": ["Mobile Learning", "E-Learning", "Assessment", "Educational Technology"]
+},
+{
+"id": 1533,
+"title": "Gamified Spelling Bee App",
+"domain": "16",
+"description": "Develop a gamified spelling app where learners compete in spelling challenges to build vocabulary skills.",
+"keywords": ["Gamification", "Mobile Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1534,
+"title": "MOOC Mentor Matching System",
+"domain": "16",
+"description": "Build a MOOC feature that matches learners with mentors based on expertise and learning goals.",
+"keywords": ["MOOC", "Personalized Learning", "Online Learning", "E-Learning"]
+},
+{
+"id": 1535,
+"title": "VR Environmental Education",
+"domain": "16",
+"description": "Create a VR learning tool that immerses students in ecosystems to study biodiversity and sustainability concepts.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1536,
+"title": "AI-Powered Quiz Generator",
+"domain": "16",
+"description": "Develop an AI system that automatically generates quizzes from uploaded course materials.",
+"keywords": ["AI in Education", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1537,
+"title": "Mobile Collaborative Study Planner",
+"domain": "16",
+"description": "Design a mobile app where students plan study sessions collaboratively and track each other’s progress.",
+"keywords": ["Mobile Learning", "Online Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1538,
+"title": "Gamified Attendance Rewards App",
+"domain": "16",
+"description": "Build a gamified app that rewards learners for attending online classes and achieving milestones.",
+"keywords": ["Gamification", "Online Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1539,
+"title": "MOOC Data Analytics Dashboard",
+"domain": "16",
+"description": "Create a data analytics dashboard that visualizes MOOC learner behavior and success rates for instructors.",
+"keywords": ["MOOC", "Educational Technology", "Assessment", "Online Learning"]
+},
+{
+"id": 1540,
+"title": "VR Space Exploration Simulator",
+"domain": "16",
+"description": "Develop a VR simulator where students explore planets, galaxies, and astronomical phenomena in real time.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1541,
+"title": "AI Career Skills Gap Analyzer",
+"domain": "16",
+"description": "Build an AI system that identifies gaps in a student’s skills compared to industry needs and recommends learning paths.",
+"keywords": ["AI in Education", "Personalized Learning", "Assessment", "E-Learning"]
+},
+{
+"id": 1542,
+"title": "Mobile Learning Badge System",
+"domain": "16",
+"description": "Design a mobile app where learners earn badges and certificates upon completing short learning modules.",
+"keywords": ["Mobile Learning", "Gamification", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1543,
+"title": "Gamified Language Vocabulary Builder",
+"domain": "16",
+"description": "Create a gamified app that helps learners build vocabulary through daily word challenges and rewards.",
+"keywords": ["Gamification", "Mobile Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1544,
+"title": "MOOC Adaptive Time Management",
+"domain": "16",
+"description": "Develop a MOOC feature that helps students manage learning schedules dynamically based on progress and availability.",
+"keywords": ["MOOC", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1545,
+"title": "VR Chemistry Reaction Explorer",
+"domain": "16",
+"description": "Build a VR application where learners can visualize and manipulate chemical reactions in a safe virtual space.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1546,
+"title": "AI Collaborative Grouping Tool",
+"domain": "16",
+"description": "Create an AI system that automatically groups students for collaborative projects based on complementary strengths.",
+"keywords": ["AI in Education", "Online Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1547,
+"title": "Mobile Daily Learning Challenge",
+"domain": "16",
+"description": "Design a mobile app that provides students with small daily learning challenges to maintain consistency.",
+"keywords": ["Mobile Learning", "E-Learning", "Gamification", "Educational Technology"]
+},
+{
+"id": 1548,
+"title": "Gamified Critical Thinking Platform",
+"domain": "16",
+"description": "Develop a gamified platform that enhances critical thinking through puzzles, case studies, and timed challenges.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1549,
+"title": "MOOC Progress Prediction Model",
+"domain": "16",
+"description": "Build a predictive AI system that estimates learner completion likelihood in MOOCs based on activity and engagement.",
+"keywords": ["MOOC", "AI in Education", "Assessment", "E-Learning"]
+},
+{
+"id": 1550,
+"title": "VR Mathematics Visualizer",
+"domain": "16",
+"description": "Create a VR platform that helps students visualize complex mathematical functions and geometric concepts interactively.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1551,
+"title": "AI-Powered Revision Planner",
+"domain": "16",
+"description": "Develop an AI planner that creates revision schedules for learners based on exam dates and topic mastery.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1552,
+"title": "Mobile Teacher-Parent Communication App",
+"domain": "16",
+"description": "Design a mobile platform that improves communication between teachers and parents, providing student progress updates.",
+"keywords": ["Mobile Learning", "Educational Technology", "Online Learning", "E-Learning"]
+},
+{
+"id": 1553,
+"title": "Gamified Financial Literacy Platform",
+"domain": "16",
+"description": "Build a gamified platform that teaches students financial literacy concepts through simulations and interactive tasks.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Personalized Learning"]
+},
+{
+"id": 1554,
+"title": "MOOC Real-Time Feedback System",
+"domain": "16",
+"description": "Create a system that provides learners with instant AI-driven feedback during MOOC activities.",
+"keywords": ["MOOC", "AI in Education", "E-Learning", "Assessment"]
+},
+{
+"id": 1555,
+"title": "VR Disaster Preparedness Training",
+"domain": "16",
+"description": "Develop a VR training program where learners experience emergency scenarios and learn preparedness strategies.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1556,
+"title": "AI-Based Student Emotion Detector",
+"domain": "16",
+"description": "Build an AI system that detects student emotions during online learning sessions to improve engagement.",
+"keywords": ["AI in Education", "Online Learning", "Personalized Learning", "E-Learning"]
+},
+{
+"id": 1557,
+"title": "Mobile AR Geography Explorer",
+"domain": "16",
+"description": "Design a mobile AR app where learners explore maps and geography concepts interactively with 3D overlays.",
+"keywords": ["Mobile Learning", "Virtual Reality", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1558,
+"title": "Gamified Civic Education App",
+"domain": "16",
+"description": "Create a gamified platform that teaches civic responsibilities and laws through interactive case studies.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1559,
+"title": "MOOC Social Learning Integrator",
+"domain": "16",
+"description": "Develop a MOOC feature that integrates social media-style interaction to foster peer learning.",
+"keywords": ["MOOC", "Online Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1560,
+"title": "VR Public Speaking Trainer",
+"domain": "16",
+"description": "Build a VR application where learners practice public speaking with AI audience engagement analysis.",
+"keywords": ["Virtual Reality", "AI in Education", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1561,
+"title": "AI-Based Personalized Quiz Assistant",
+"domain": "16",
+"description": "Create an AI quiz generator that tailors questions to each learner’s weak areas for better mastery.",
+"keywords": ["AI in Education", "Assessment", "Personalized Learning", "E-Learning"]
+},
+{
+"id": 1562,
+"title": "Mobile AR Historical Explorer",
+"domain": "16",
+"description": "Develop a mobile AR app that overlays historical information onto real-world locations for interactive learning.",
+"keywords": ["Mobile Learning", "Virtual Reality", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1563,
+"title": "Gamified Environmental Challenges App",
+"domain": "16",
+"description": "Design a gamified platform where learners solve environmental challenges to raise awareness and skills.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Personalized Learning"]
+},
+{
+"id": 1564,
+"title": "MOOC Personalized Study Timer",
+"domain": "16",
+"description": "Create a MOOC tool that sets study timers adapted to learner concentration levels and goals.",
+"keywords": ["MOOC", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1565,
+"title": "VR Architectural Design Studio",
+"domain": "16",
+"description": "Build a VR platform where architecture students design, build, and interact with 3D building models.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1566,
+"title": "AI-Based Performance Predictor",
+"domain": "16",
+"description": "Develop an AI tool that predicts student performance trends and recommends improvement strategies.",
+"keywords": ["AI in Education", "Assessment", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1567,
+"title": "Mobile Collaborative Quiz Battles",
+"domain": "16",
+"description": "Design a mobile app where students engage in real-time quiz battles with classmates worldwide.",
+"keywords": ["Mobile Learning", "Gamification", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1568,
+"title": "Gamified Leadership Training Simulator",
+"domain": "16",
+"description": "Create a gamified platform that teaches leadership skills through decision-making scenarios and feedback.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1569,
+"title": "MOOC Lifelong Learning Tracker",
+"domain": "16",
+"description": "Build a feature that tracks lifelong learning achievements across multiple MOOCs and certificates.",
+"keywords": ["MOOC", "Educational Technology", "Online Learning", "E-Learning"]
+},
+{
+"id": 1570,
+"title": "VR Virtual Orchestra Experience",
+"domain": "16",
+"description": "Develop a VR platform where students participate in virtual orchestras to learn musical collaboration.",
+"keywords": ["Virtual Reality", "E-Learning", "Educational Technology", "Online Learning"]
+},
+{
+"id": 1571,
+"title": "AI-Based Personalized Flashcards",
+"domain": "16",
+"description": "Create an AI flashcard generator that adapts to a learner’s memory retention patterns.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Mobile Learning"]
+},
+{
+"id": 1572,
+"title": "Mobile Social Study Circles",
+"domain": "16",
+"description": "Design a mobile app that forms virtual study circles based on subjects and learning goals.",
+"keywords": ["Mobile Learning", "Online Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1573,
+"title": "Gamified Logical Reasoning Trainer",
+"domain": "16",
+"description": "Build a gamified system that enhances logical reasoning and problem-solving through challenges and puzzles.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1574,
+"title": "MOOC AI-Powered Discussion Moderator",
+"domain": "16",
+"description": "Develop an AI moderator for MOOC forums to guide discussions and maintain engagement.",
+"keywords": ["MOOC", "AI in Education", "Online Learning", "E-Learning"]
+},
+{
+"id": 1575,
+"title": "VR Language Immersion Classroom",
+"domain": "16",
+"description": "Create a VR platform that immerses students in real-world environments to practice language skills.",
+"keywords": ["Virtual Reality", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1576,
+"title": "AI Adaptive Textbook Generator",
+"domain": "16",
+"description": "Build an AI system that generates adaptive textbooks customized to a student’s level and interests.",
+"keywords": ["AI in Education", "Personalized Learning", "E-Learning", "Educational Technology"]
+},
+{
+"id": 1577,
+"title": "Mobile Well-Being Companion for Students",
+"domain": "16",
+"description": "Design a mobile app that tracks student mental well-being and integrates mindfulness practices into learning.",
+"keywords": ["Mobile Learning", "Personalized Learning", "Educational Technology", "E-Learning"]
+},
+{
+"id": 1578,
+"title": "Gamified Research Skills Platform",
+"domain": "16",
+"description": "Create a gamified system that teaches students how to conduct research through challenges and simulated projects.",
+"keywords": ["Gamification", "E-Learning", "Educational Technology", "Assessment"]
+},
+{
+"id": 1579,
+"title": "MOOC AI Success Predictor",
+"domain": "16",
+"description": "Develop an AI tool that predicts student success rates in MOOCs and offers personalized support strategies.",
+"keywords": ["MOOC", "AI in Education", "E-Learning", "Assessment"]
+},
+//(domain-17)
+ {
+    "id": 1580,
+    "title": "AI-Powered Solar Panel Efficiency Tracker",
+    "domain": "17",
+    "description": "Develop an AI-based monitoring tool that analyzes real-time solar panel performance to identify dust, shading, and technical inefficiencies, optimizing energy output and reducing maintenance costs.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1581,
+    "title": "Blockchain for Renewable Energy Trading",
+    "domain": "17",
+    "description": "Design a decentralized platform using blockchain to enable peer-to-peer renewable energy trading within communities, ensuring transparency, security, and fairness in pricing.",
+    "keywords": ["Renewable Energy", "Smart Grid", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1582,
+    "title": "Wind Farm Predictive Maintenance System",
+    "domain": "17",
+    "description": "Create a predictive maintenance framework that uses IoT sensors and machine learning to detect potential turbine failures in wind farms, improving reliability and reducing downtime.",
+    "keywords": ["Wind Energy", "Smart Grid", "Green Technology", "Energy Efficiency"]
+  },
+  {
+    "id": 1583,
+    "title": "Urban Carbon Footprint Analyzer",
+    "domain": "17",
+    "description": "Build a smart application that tracks carbon emissions in urban areas by integrating data from vehicles, industries, and households, providing actionable insights for sustainable city planning.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Environmental Impact", "Sustainable Development"]
+  },
+  {
+    "id": 1584,
+    "title": "Smart Grid Load Balancing Optimizer",
+    "domain": "17",
+    "description": "Develop an intelligent load-balancing system for smart grids that dynamically allocates energy from renewable and non-renewable sources to minimize waste and stabilize supply.",
+    "keywords": ["Smart Grid", "Energy Efficiency", "Renewable Energy", "Green Technology"]
+  },
+  {
+    "id": 1585,
+    "title": "Portable Solar-Powered Water Desalination Unit",
+    "domain": "17",
+    "description": "Design a portable, solar-powered desalination device that can provide affordable drinking water in coastal and remote regions, reducing dependency on non-renewable energy sources.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1586,
+    "title": "AI-Based Household Energy Advisor",
+    "domain": "17",
+    "description": "Build a smart assistant that provides personalized recommendations for reducing household energy consumption by analyzing appliance usage patterns and suggesting eco-friendly alternatives.",
+    "keywords": ["Energy Efficiency", "Green Technology", "Renewable Energy", "Carbon Footprint"]
+  },
+  {
+    "id": 1587,
+    "title": "Carbon-Neutral Smart Campus Framework",
+    "domain": "17",
+    "description": "Create a holistic sustainability framework for educational campuses that integrates renewable energy systems, smart grids, and carbon tracking tools to achieve carbon neutrality.",
+    "keywords": ["Sustainable Development", "Renewable Energy", "Carbon Footprint", "Smart Grid"]
+  },
+  {
+    "id": 1588,
+    "title": "Wind-Solar Hybrid Energy Predictor",
+    "domain": "17",
+    "description": "Develop a forecasting model that predicts hybrid solar and wind energy generation using weather data and machine learning, optimizing renewable energy integration into power grids.",
+    "keywords": ["Wind Energy", "Solar Power", "Renewable Energy", "Smart Grid"]
+  },
+  {
+    "id": 1589,
+    "title": "Green Blockchain for Carbon Credits",
+    "domain": "17",
+    "description": "Build a blockchain-based platform to verify, trade, and track carbon credits, ensuring transparency and accountability in global climate change mitigation efforts.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1590,
+    "title": "AI Drone for Solar Farm Inspection",
+    "domain": "17",
+    "description": "Design an AI-driven drone system to inspect large-scale solar farms, detecting damages, inefficiencies, or dirt accumulation to maintain peak performance.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Green Technology", "Renewable Energy"]
+  },
+  {
+    "id": 1591,
+    "title": "Smart Battery Swapping Stations",
+    "domain": "17",
+    "description": "Develop an automated battery swapping and charging station powered by renewable energy sources to support sustainable electric vehicle adoption.",
+    "keywords": ["Energy Storage", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1592,
+    "title": "AI for Wind Turbine Placement Optimization",
+    "domain": "17",
+    "description": "Create an AI tool that identifies optimal locations for installing wind turbines by analyzing wind flow, geography, and environmental impact, maximizing efficiency.",
+    "keywords": ["Wind Energy", "Environmental Impact", "Renewable Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 1593,
+    "title": "Carbon Footprint Gamification App",
+    "domain": "17",
+    "description": "Design a gamified mobile application where users earn rewards for adopting eco-friendly habits like reducing energy use, recycling, or using public transportation.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1580,
+    "title": "AI-Powered Solar Panel Efficiency Tracker",
+    "domain": "17",
+    "description": "Develop an AI-based monitoring tool that analyzes real-time solar panel performance to identify dust, shading, and technical inefficiencies, optimizing energy output and reducing maintenance costs.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1581,
+    "title": "Blockchain for Renewable Energy Trading",
+    "domain": "17",
+    "description": "Design a decentralized platform using blockchain to enable peer-to-peer renewable energy trading within communities, ensuring transparency, security, and fairness in pricing.",
+    "keywords": ["Renewable Energy", "Smart Grid", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1582,
+    "title": "Wind Farm Predictive Maintenance System",
+    "domain": "17",
+    "description": "Create a predictive maintenance framework that uses IoT sensors and machine learning to detect potential turbine failures in wind farms, improving reliability and reducing downtime.",
+    "keywords": ["Wind Energy", "Smart Grid", "Green Technology", "Energy Efficiency"]
+  },
+  {
+    "id": 1583,
+    "title": "Urban Carbon Footprint Analyzer",
+    "domain": "17",
+    "description": "Build a smart application that tracks carbon emissions in urban areas by integrating data from vehicles, industries, and households, providing actionable insights for sustainable city planning.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Environmental Impact", "Sustainable Development"]
+  },
+  {
+    "id": 1584,
+    "title": "Smart Grid Load Balancing Optimizer",
+    "domain": "17",
+    "description": "Develop an intelligent load-balancing system for smart grids that dynamically allocates energy from renewable and non-renewable sources to minimize waste and stabilize supply.",
+    "keywords": ["Smart Grid", "Energy Efficiency", "Renewable Energy", "Green Technology"]
+  },
+  {
+    "id": 1585,
+    "title": "Portable Solar-Powered Water Desalination Unit",
+    "domain": "17",
+    "description": "Design a portable, solar-powered desalination device that can provide affordable drinking water in coastal and remote regions, reducing dependency on non-renewable energy sources.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1586,
+    "title": "AI-Based Household Energy Advisor",
+    "domain": "17",
+    "description": "Build a smart assistant that provides personalized recommendations for reducing household energy consumption by analyzing appliance usage patterns and suggesting eco-friendly alternatives.",
+    "keywords": ["Energy Efficiency", "Green Technology", "Renewable Energy", "Carbon Footprint"]
+  },
+  {
+    "id": 1587,
+    "title": "Carbon-Neutral Smart Campus Framework",
+    "domain": "17",
+    "description": "Create a holistic sustainability framework for educational campuses that integrates renewable energy systems, smart grids, and carbon tracking tools to achieve carbon neutrality.",
+    "keywords": ["Sustainable Development", "Renewable Energy", "Carbon Footprint", "Smart Grid"]
+  },
+  {
+    "id": 1588,
+    "title": "Wind-Solar Hybrid Energy Predictor",
+    "domain": "17",
+    "description": "Develop a forecasting model that predicts hybrid solar and wind energy generation using weather data and machine learning, optimizing renewable energy integration into power grids.",
+    "keywords": ["Wind Energy", "Solar Power", "Renewable Energy", "Smart Grid"]
+  },
+  {
+    "id": 1589,
+    "title": "Green Blockchain for Carbon Credits",
+    "domain": "17",
+    "description": "Build a blockchain-based platform to verify, trade, and track carbon credits, ensuring transparency and accountability in global climate change mitigation efforts.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1590,
+    "title": "AI Drone for Solar Farm Inspection",
+    "domain": "17",
+    "description": "Design an AI-driven drone system to inspect large-scale solar farms, detecting damages, inefficiencies, or dirt accumulation to maintain peak performance.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Green Technology", "Renewable Energy"]
+  },
+  {
+    "id": 1591,
+    "title": "Smart Battery Swapping Stations",
+    "domain": "17",
+    "description": "Develop an automated battery swapping and charging station powered by renewable energy sources to support sustainable electric vehicle adoption.",
+    "keywords": ["Energy Storage", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1592,
+    "title": "AI for Wind Turbine Placement Optimization",
+    "domain": "17",
+    "description": "Create an AI tool that identifies optimal locations for installing wind turbines by analyzing wind flow, geography, and environmental impact, maximizing efficiency.",
+    "keywords": ["Wind Energy", "Environmental Impact", "Renewable Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 1593,
+    "title": "Carbon Footprint Gamification App",
+    "domain": "17",
+    "description": "Design a gamified mobile application where users earn rewards for adopting eco-friendly habits like reducing energy use, recycling, or using public transportation.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1594,
+    "title": "Smart Street Lighting with Solar Integration",
+    "domain": "17",
+    "description": "Develop an intelligent solar-powered street lighting system with motion detection and adaptive brightness to minimize energy waste in urban and rural areas.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Smart Grid", "Sustainable Development"]
+  },
+  {
+    "id": 1595,
+    "title": "AI-Driven Climate Change Impact Simulator",
+    "domain": "17",
+    "description": "Build an AI-based simulator that models the long-term environmental and economic impacts of climate change under different renewable energy adoption scenarios.",
+    "keywords": ["Climate Change", "Environmental Impact", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1596,
+    "title": "Microgrid for Rural Electrification",
+    "domain": "17",
+    "description": "Design a renewable energy microgrid solution for off-grid rural communities, combining solar, wind, and battery storage to provide reliable and sustainable electricity.",
+    "keywords": ["Renewable Energy", "Smart Grid", "Energy Storage", "Sustainable Development"]
+  },
+  {
+    "id": 1597,
+    "title": "AI Optimizer for Energy Storage Systems",
+    "domain": "17",
+    "description": "Develop an AI-based framework to optimize the charging and discharging cycles of large-scale battery storage systems, extending lifespan and maximizing renewable energy usage.",
+    "keywords": ["Energy Storage", "Smart Grid", "Green Technology", "Energy Efficiency"]
+  },
+  {
+    "id": 1598,
+    "title": "Smart Agriculture with Renewable Energy",
+    "domain": "17",
+    "description": "Design a smart agriculture solution powered by renewable energy that integrates IoT sensors for soil, water, and crop monitoring to reduce environmental impact and improve yields.",
+    "keywords": ["Renewable Energy", "Green Technology", "Sustainable Development", "Environmental Impact"]
+  },
+  {
+    "id": 1599,
+    "title": "AI-Enhanced Wind Energy Forecasting",
+    "domain": "17",
+    "description": "Develop an AI forecasting tool that predicts short-term wind patterns to optimize wind turbine operations and grid integration, improving energy reliability.",
+    "keywords": ["Wind Energy", "Smart Grid", "Renewable Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 1600,
+    "title": "Eco-Friendly Data Centers",
+    "domain": "17",
+    "description": "Build a sustainability framework for data centers that integrates renewable power sources, energy-efficient cooling, and carbon tracking to reduce environmental impact.",
+    "keywords": ["Energy Efficiency", "Renewable Energy", "Carbon Footprint", "Green Technology"]
+  },
+  {
+    "id": 1601,
+    "title": "Solar-Powered Cold Storage for Farmers",
+    "domain": "17",
+    "description": "Design a solar-powered cold storage system that helps farmers preserve perishable produce, reducing food waste and supporting sustainable agriculture.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1602,
+    "title": "AI-Based Energy Theft Detection",
+    "domain": "17",
+    "description": "Develop an AI model that identifies abnormal patterns in smart grid data to detect electricity theft, ensuring fair distribution and reducing losses.",
+    "keywords": ["Smart Grid", "Energy Efficiency", "Green Technology", "Renewable Energy"]
+  },
+  {
+    "id": 1603,
+    "title": "Carbon Footprint Tracker for Supply Chains",
+    "domain": "17",
+    "description": "Build a platform that monitors and reports the carbon footprint of supply chains, helping companies adopt more sustainable logistics and operations.",
+    "keywords": ["Carbon Footprint", "Environmental Impact", "Sustainable Development", "Climate Change"]
+  },
+  {
+    "id": 1604,
+    "title": "Hydrogen-Powered Smart Transport System",
+    "domain": "17",
+    "description": "Design an urban transportation model powered by hydrogen fuel cells integrated with renewable sources, reducing carbon emissions and dependency on fossil fuels.",
+    "keywords": ["Renewable Energy", "Green Technology", "Climate Change", "Sustainable Development"]
+  },
+  {
+    "id": 1605,
+    "title": "Smart Waste-to-Energy Converter",
+    "domain": "17",
+    "description": "Develop a compact system that converts organic waste into biogas and electricity, providing sustainable energy while reducing landfill dependency.",
+    "keywords": ["Renewable Energy", "Green Technology", "Sustainable Development", "Environmental Impact"]
+  },
+  {
+    "id": 1606,
+    "title": "AI-Powered Carbon Emission Forecaster",
+    "domain": "17",
+    "description": "Build an AI model that predicts carbon emissions across industries by analyzing production patterns, enabling better climate change mitigation policies.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Environmental Impact", "Sustainable Development"]
+  },
+  {
+    "id": 1607,
+    "title": "Smart Homes with Renewable Energy Integration",
+    "domain": "17",
+    "description": "Design a home automation system that integrates renewable energy sources with AI-driven energy optimization, reducing household carbon footprints.",
+    "keywords": ["Renewable Energy", "Smart Grid", "Energy Efficiency", "Green Technology"]
+  },
+  {
+    "id": 1608,
+    "title": "AI-Powered Plastic Recycling Optimizer",
+    "domain": "17",
+    "description": "Create a smart sorting system that uses AI and renewable energy to optimize plastic recycling, reducing environmental pollution and energy waste.",
+    "keywords": ["Green Technology", "Environmental Impact", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1609,
+    "title": "Offshore Wind Farm Energy Predictor",
+    "domain": "17",
+    "description": "Develop a predictive analytics tool for offshore wind farms that forecasts power generation and identifies efficiency bottlenecks using weather and ocean current data.",
+    "keywords": ["Wind Energy", "Renewable Energy", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 1610,
+    "title": "Community-Based Renewable Energy Microfinance",
+    "domain": "17",
+    "description": "Design a digital platform that enables microfinancing for community renewable energy projects, empowering local participation in sustainability initiatives.",
+    "keywords": ["Renewable Energy", "Sustainable Development", "Green Technology", "Carbon Footprint"]
+  },
+  {
+    "id": 1611,
+    "title": "AI-Driven Energy Demand Forecaster",
+    "domain": "17",
+    "description": "Build an AI system that predicts future electricity demand using smart grid and consumption data, ensuring optimized renewable energy allocation.",
+    "keywords": ["Smart Grid", "Energy Efficiency", "Renewable Energy", "Green Technology"]
+  },
+  {
+    "id": 1612,
+    "title": "Solar-Powered EV Charging Network",
+    "domain": "17",
+    "description": "Develop a network of solar-powered electric vehicle charging stations integrated with smart grids for sustainable urban mobility.",
+    "keywords": ["Solar Power", "Renewable Energy", "Smart Grid", "Sustainable Development"]
+  },
+  {
+    "id": 1613,
+    "title": "AI-Based Air Quality and Emission Tracker",
+    "domain": "17",
+    "description": "Create an AI-driven monitoring system that tracks real-time air quality and emissions, correlating data with energy consumption and carbon footprints.",
+    "keywords": ["Carbon Footprint", "Environmental Impact", "Climate Change", "Energy Efficiency"]
+  },
+  {
+    "id": 1614,
+    "title": "Wave Energy Conversion System",
+    "domain": "17",
+    "description": "Design a renewable energy system that converts ocean wave energy into electricity, offering a sustainable alternative to traditional power sources.",
+    "keywords": ["Renewable Energy", "Green Technology", "Environmental Impact", "Sustainable Development"]
+  },
+  {
+    "id": 1615,
+    "title": "Smart Grid Cybersecurity Framework",
+    "domain": "17",
+    "description": "Build a cybersecurity model to protect smart grids from cyberattacks, ensuring reliable and sustainable renewable energy distribution.",
+    "keywords": ["Smart Grid", "Green Technology", "Renewable Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 1616,
+    "title": "AI for Solar Tracking Systems",
+    "domain": "17",
+    "description": "Develop an AI-driven solar panel tracking system that adjusts orientation in real time for maximum sunlight exposure and energy output.",
+    "keywords": ["Solar Power", "Energy Efficiency", "Renewable Energy", "Green Technology"]
+  },
+  {
+    "id": 1617,
+    "title": "Carbon-Neutral Shipping Framework",
+    "domain": "17",
+    "description": "Create a shipping model that integrates renewable fuels and AI-based logistics optimization to achieve carbon-neutral maritime transport.",
+    "keywords": ["Carbon Footprint", "Renewable Energy", "Sustainable Development", "Climate Change"]
+  },
+  {
+    "id": 1618,
+    "title": "AI-Driven Sustainable Building Design",
+    "domain": "17",
+    "description": "Build an AI-based tool that optimizes building design for natural lighting, ventilation, and renewable energy integration, minimizing environmental impact.",
+    "keywords": ["Energy Efficiency", "Sustainable Development", "Green Technology", "Environmental Impact"]
+  },
+  {
+    "id": 1619,
+    "title": "Solar Paint Technology",
+    "domain": "17",
+    "description": "Research and design a paint infused with solar cells that can generate renewable energy when applied to building surfaces.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1620,
+    "title": "AI-Based Climate Risk Assessment Tool",
+    "domain": "17",
+    "description": "Develop an AI model that assesses climate-related risks for industries by simulating extreme weather impacts on renewable energy supply chains.",
+    "keywords": ["Climate Change", "Environmental Impact", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1621,
+    "title": "Smart Grid Peer-to-Peer Energy Sharing",
+    "domain": "17",
+    "description": "Design a blockchain-based smart grid platform that allows households to share excess renewable energy with neighbors in real time.",
+    "keywords": ["Smart Grid", "Renewable Energy", "Green Technology", "Energy Efficiency"]
+  },
+  {
+    "id": 1622,
+    "title": "Carbon-Neutral Tourism Framework",
+    "domain": "17",
+    "description": "Build a sustainability model for tourism that integrates renewable energy sources, eco-friendly infrastructure, and carbon footprint tracking for visitors.",
+    "keywords": ["Carbon Footprint", "Sustainable Development", "Renewable Energy", "Climate Change"]
+  },
+  {
+    "id": 1623,
+    "title": "AI-Powered Wind Noise Reduction System",
+    "domain": "17",
+    "description": "Develop a system that uses AI and engineering design to minimize noise pollution from wind turbines while maintaining energy efficiency.",
+    "keywords": ["Wind Energy", "Environmental Impact", "Green Technology", "Energy Efficiency"]
+  },
+  {
+    "id": 1624,
+    "title": "Solar-Powered Portable Medical Devices",
+    "domain": "17",
+    "description": "Create lightweight, solar-powered medical devices for rural and disaster-prone areas to ensure sustainable healthcare delivery.",
+    "keywords": ["Solar Power", "Renewable Energy", "Sustainable Development", "Green Technology"]
+  },
+  {
+    "id": 1625,
+    "title": "Smart Grid Energy Theft Prevention",
+    "domain": "17",
+    "description": "Develop an AI-driven system that detects unauthorized energy use in smart grids, preventing losses and ensuring fair distribution of renewable energy.",
+    "keywords": ["Smart Grid", "Renewable Energy", "Energy Efficiency", "Green Technology"]
+  },
+  {
+    "id": 1626,
+    "title": "Carbon Capture and Storage Optimizer",
+    "domain": "17",
+    "description": "Design an AI-based system that improves carbon capture and storage efficiency by analyzing geological data and renewable integration.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Green Technology", "Environmental Impact"]
+  },
+  {
+    "id": 1627,
+    "title": "Renewable Energy-Powered Smart Farms",
+    "domain": "17",
+    "description": "Build an integrated farming system powered by renewable energy that uses IoT for irrigation, crop monitoring, and automated harvesting.",
+    "keywords": ["Renewable Energy", "Green Technology", "Sustainable Development", "Energy Efficiency"]
+  },
+  {
+    "id": 1628,
+    "title": "AI-Powered Carbon Budgeting Tool",
+    "domain": "17",
+    "description": "Develop a tool that calculates carbon budgets for organizations, providing actionable recommendations for emission reduction strategies.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Sustainable Development", "Energy Efficiency"]
+  },
+  {
+    "id": 1629,
+    "title": "Floating Solar Farm Design",
+    "domain": "17",
+    "description": "Design a floating solar farm system for water bodies to maximize land efficiency while reducing evaporation and generating renewable energy.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1630,
+    "title": "AI for Smart Energy Storage Allocation",
+    "domain": "17",
+    "description": "Develop an AI framework that intelligently allocates stored renewable energy to households and industries based on demand forecasting and grid stability.",
+    "keywords": ["Energy Storage", "Smart Grid", "Renewable Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 1631,
+    "title": "Carbon-Neutral Public Transport Model",
+    "domain": "17",
+    "description": "Design a public transportation system powered by renewable energy sources such as hydrogen and solar, with integrated carbon tracking for sustainability reporting.",
+    "keywords": ["Carbon Footprint", "Renewable Energy", "Sustainable Development", "Climate Change"]
+  },
+  {
+    "id": 1632,
+    "title": "AI-Powered Energy Efficiency Benchmarking",
+    "domain": "17",
+    "description": "Build an AI-based benchmarking tool that compares energy efficiency across industries, helping businesses adopt greener technologies.",
+    "keywords": ["Energy Efficiency", "Green Technology", "Sustainable Development", "Carbon Footprint"]
+  },
+  {
+    "id": 1633,
+    "title": "Smart Solar Windows",
+    "domain": "17",
+    "description": "Develop transparent solar panel windows that generate renewable energy while allowing natural light, suitable for sustainable smart buildings.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1634,
+    "title": "AI-Driven Flood Risk Energy Planner",
+    "domain": "17",
+    "description": "Create an AI tool that forecasts flood risks and their impact on renewable energy infrastructure, supporting resilient energy system planning.",
+    "keywords": ["Climate Change", "Environmental Impact", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1635,
+    "title": "Solar-Powered Smart Irrigation System",
+    "domain": "17",
+    "description": "Design an IoT-enabled irrigation system powered by solar energy that optimizes water usage and enhances agricultural sustainability.",
+    "keywords": ["Solar Power", "Renewable Energy", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1636,
+    "title": "Carbon Footprint AI Chatbot",
+    "domain": "17",
+    "description": "Build a chatbot that educates individuals and organizations on their carbon footprint and suggests practical steps for reducing emissions.",
+    "keywords": ["Carbon Footprint", "Climate Change", "Sustainable Development", "Green Technology"]
+  },
+  {
+    "id": 1637,
+    "title": "Smart Grid with AI-Powered Fault Detection",
+    "domain": "17",
+    "description": "Develop a fault detection system for smart grids that uses AI to quickly identify and isolate failures, ensuring reliable renewable energy distribution.",
+    "keywords": ["Smart Grid", "Renewable Energy", "Energy Efficiency", "Green Technology"]
+  },
+  {
+    "id": 1638,
+    "title": "Urban Heat Island Mitigation with Green Energy",
+    "domain": "17",
+    "description": "Design a framework that combines renewable energy systems with green infrastructure to reduce urban heat island effects and improve sustainability.",
+    "keywords": ["Climate Change", "Environmental Impact", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1639,
+    "title": "AI-Optimized Wind-Solar Hybrid Grid",
+    "domain": "17",
+    "description": "Build an AI model that dynamically balances energy supply from solar and wind farms to optimize grid reliability and reduce dependency on fossil fuels.",
+    "keywords": ["Wind Energy", "Solar Power", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 1640,
+    "title": "Renewable Energy-Powered Desalination Plant",
+    "domain": "17",
+    "description": "Develop a large-scale desalination plant powered by renewable energy to provide fresh water in arid regions while minimizing environmental impact.",
+    "keywords": ["Renewable Energy", "Solar Power", "Green Technology", "Environmental Impact"]
+  },
+  {
+    "id": 1641,
+    "title": "AI-Driven Climate-Friendly Investment Tool",
+    "domain": "17",
+    "description": "Design a financial tool that uses AI to assess and recommend investments in renewable energy and sustainable development projects.",
+    "keywords": ["Sustainable Development", "Renewable Energy", "Green Technology", "Climate Change"]
+  },
+  {
+    "id": 1642,
+    "title": "Smart Grid-Integrated EV Fleet Manager",
+    "domain": "17",
+    "description": "Build a smart grid-integrated platform that manages large-scale electric vehicle fleets using renewable energy to reduce transportation emissions.",
+    "keywords": ["Smart Grid", "Renewable Energy", "Energy Efficiency", "Carbon Footprint"]
+  },
+  {
+    "id": 1643,
+    "title": "AI for Deforestation Impact on Energy Supply",
+    "domain": "17",
+    "description": "Create an AI tool that analyzes the effect of deforestation on renewable energy generation, particularly hydro and solar power resources.",
+    "keywords": ["Environmental Impact", "Climate Change", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1644,
+    "title": "Solar-Powered Disaster Relief Shelters",
+    "domain": "17",
+    "description": "Design temporary shelters equipped with solar panels and energy storage systems to provide sustainable power during disaster relief operations.",
+    "keywords": ["Solar Power", "Energy Storage", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1645,
+    "title": "Carbon-Neutral Smart Factories",
+    "domain": "17",
+    "description": "Develop a framework for smart factories that integrates renewable energy, AI-based efficiency tools, and carbon monitoring for net-zero operations.",
+    "keywords": ["Carbon Footprint", "Energy Efficiency", "Green Technology", "Renewable Energy"]
+  },
+  {
+    "id": 1646,
+    "title": "AI-Powered Solar Panel Recycling System",
+    "domain": "17",
+    "description": "Build an AI-driven recycling system for old solar panels, enabling recovery of valuable materials and promoting circular sustainability practices.",
+    "keywords": ["Solar Power", "Green Technology", "Environmental Impact", "Sustainable Development"]
+  },
+  {
+    "id": 1647,
+    "title": "Renewable-Powered Smart Water Grid",
+    "domain": "17",
+    "description": "Design an intelligent water distribution system powered by renewable energy that reduces waste and ensures sustainable water management.",
+    "keywords": ["Renewable Energy", "Smart Grid", "Green Technology", "Sustainable Development"]
+  },
+  {
+    "id": 1648,
+    "title": "AI for Smart Climate-Resilient Farming",
+    "domain": "17",
+    "description": "Create an AI-powered decision support system that integrates renewable energy with precision farming techniques to adapt to climate change challenges.",
+    "keywords": ["Renewable Energy", "Sustainable Development", "Climate Change", "Green Technology"]
+  },
+  {
+    "id": 1649,
+    "title": "Smart Energy Dashboard for Households",
+    "domain": "17",
+    "description": "Build a digital dashboard that provides real-time insights into household energy use, carbon footprint, and renewable energy adoption opportunities.",
+    "keywords": ["Energy Efficiency", "Carbon Footprint", "Smart Grid", "Renewable Energy"]
+  },
+  {
+    "id": 1650,
+    "title": "Renewable-Powered 3D Printing Factories",
+    "domain": "17",
+    "description": "Develop a factory model powered entirely by renewable energy for large-scale 3D printing of sustainable products, reducing emissions and waste.",
+    "keywords": ["Renewable Energy", "Green Technology", "Carbon Footprint", "Sustainable Development"]
+  },
+  {
+    "id": 1651,
+    "title": "AI-Based Renewable Energy Policy Simulator",
+    "domain": "17",
+    "description": "Create a simulator that uses AI to evaluate the effectiveness of renewable energy policies on climate change and carbon reduction goals.",
+    "keywords": ["Climate Change", "Renewable Energy", "Sustainable Development", "Carbon Footprint"]
+  },
+  {
+    "id": 1652,
+    "title": "Solar-Powered Smart Villages",
+    "domain": "17",
+    "description": "Design self-sustaining villages powered by solar microgrids, integrating smart appliances and community-based energy sharing systems.",
+    "keywords": ["Solar Power", "Smart Grid", "Renewable Energy", "Sustainable Development"]
+  },
+  {
+    "id": 1653,
+    "title": "AI-Powered Industrial Energy Leak Detector",
+    "domain": "17",
+    "description": "Develop an AI system that detects and reduces energy leaks in industrial processes, cutting costs while lowering carbon footprints.",
+    "keywords": ["Energy Efficiency", "Carbon Footprint", "Green Technology", "Renewable Energy"]
+  },
+  {
+    "id": 1654,
+    "title": "Sustainable Hydrogen Production System",
+    "domain": "17",
+    "description": "Build a renewable-powered system for hydrogen fuel production using solar and wind energy, supporting clean transportation and storage solutions.",
+    "keywords": ["Renewable Energy", "Green Technology", "Energy Storage", "Sustainable Development"]
+  },
+//(domain-18)
+{
+    "id": 1655,
+    "title": "AI-Enabled Precision Agriculture Assistant",
+    "domain": "18",
+    "description": "Develop an AI-powered platform to assist farmers in precision agriculture by analyzing soil data, crop health, and weather conditions to optimize planting, fertilization, and harvesting strategies.",
+    "keywords": ["Precision Agriculture", "Smart Farming", "Crop Monitoring", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1656,
+    "title": "IoT-Based Smart Irrigation System",
+    "domain": "18",
+    "description": "Create an IoT-enabled irrigation system that uses soil moisture sensors and weather forecasts to provide real-time automated watering schedules, reducing water waste and improving crop yield.",
+    "keywords": ["Irrigation", "Smart Farming", "Precision Agriculture", "Agricultural Automation"]
+  },
+  {
+    "id": 1657,
+    "title": "Blockchain for Food Supply Chain Transparency",
+    "domain": "18",
+    "description": "Design a blockchain-based solution to track food products from farm to table, ensuring transparency, reducing fraud, and improving food safety throughout the supply chain.",
+    "keywords": ["Supply Chain", "Food Safety", "Food Security", "Blockchain"]
+  },
+  {
+    "id": 1658,
+    "title": "Vertical Farming Climate Control System",
+    "domain": "18",
+    "description": "Develop an automated system for vertical farming that manages lighting, humidity, and nutrient delivery to maximize crop growth in controlled indoor environments.",
+    "keywords": ["Vertical Farming", "Smart Farming", "Agricultural Automation", "Biotechnology"]
+  },
+  {
+    "id": 1659,
+    "title": "Drone-Based Crop Monitoring Platform",
+    "domain": "18",
+    "description": "Build a drone-powered crop monitoring system that captures aerial imagery to detect diseases, pest infestations, and nutrient deficiencies in large agricultural fields.",
+    "keywords": ["Crop Monitoring", "Precision Agriculture", "Smart Farming", "Agricultural Automation"]
+  },
+  {
+    "id": 1660,
+    "title": "AI-Powered Food Quality Analyzer",
+    "domain": "18",
+    "description": "Design an AI-enabled system to analyze the freshness and nutritional quality of food products using image recognition and sensor-based data.",
+    "keywords": ["Food Safety", "Biotechnology", "Food Security", "AI"]
+  },
+  {
+    "id": 1661,
+    "title": "Smart Greenhouse Automation System",
+    "domain": "18",
+    "description": "Create a greenhouse management system that automates temperature, light, and nutrient supply using IoT sensors and AI-based predictions for plant growth optimization.",
+    "keywords": ["Smart Farming", "Irrigation", "Crop Monitoring", "Agricultural Automation"]
+  },
+  {
+    "id": 1662,
+    "title": "Predictive Analytics for Crop Yield Forecasting",
+    "domain": "18",
+    "description": "Develop a predictive analytics tool that uses historical data, weather forecasts, and soil conditions to forecast crop yields and help farmers make better planting decisions.",
+    "keywords": ["Precision Agriculture", "Food Security", "Smart Farming", "Crop Monitoring"]
+  },
+  {
+    "id": 1663,
+    "title": "Robotics for Automated Harvesting",
+    "domain": "18",
+    "description": "Design robotic systems capable of automatically harvesting fruits and vegetables, reducing labor costs and ensuring timely crop collection.",
+    "keywords": ["Agricultural Automation", "Smart Farming", "Robotics", "Crop Monitoring"]
+  },
+  {
+    "id": 1664,
+    "title": "AI-Driven Pest and Disease Detection System",
+    "domain": "18",
+    "description": "Build an AI-based system that identifies crop diseases and pest infestations early using image recognition and sensor data, enabling rapid response and reducing losses.",
+    "keywords": ["Crop Monitoring", "Food Security", "Precision Agriculture", "Biotechnology"]
+  },
+  {
+    "id": 1665,
+    "title": "Sustainable Aquaponics Management Platform",
+    "domain": "18",
+    "description": "Develop a digital platform to manage aquaponics systems, integrating fish farming with plant cultivation while optimizing water usage and nutrient cycles.",
+    "keywords": ["Sustainable Agriculture", "Food Security", "Biotechnology", "Smart Farming"]
+  },
+  {
+    "id": 1666,
+    "title": "AI-Based Food Supply Chain Optimization",
+    "domain": "18",
+    "description": "Create an AI-driven logistics system to reduce food wastage in supply chains by predicting demand, monitoring storage conditions, and suggesting optimized transportation routes.",
+    "keywords": ["Supply Chain", "Food Safety", "Food Security", "AI"]
+  },
+  {
+    "id": 1667,
+    "title": "Smart Fertilizer Application System",
+    "domain": "18",
+    "description": "Design a system that applies fertilizers based on real-time soil nutrient analysis and crop requirements to minimize chemical usage and improve sustainability.",
+    "keywords": ["Precision Agriculture", "Sustainable Agriculture", "Smart Farming", "Biotechnology"]
+  },
+  {
+    "id": 1668,
+    "title": "Mobile App for Farm-to-Consumer Marketplace",
+    "domain": "18",
+    "description": "Develop a mobile application that directly connects farmers to consumers, ensuring fair trade, fresh produce delivery, and reducing middlemen in the supply chain.",
+    "keywords": ["Food Security", "Supply Chain", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1669,
+    "title": "AI Chatbot for Farmer Advisory Services",
+    "domain": "18",
+    "description": "Build a multilingual AI chatbot that provides personalized farming advice on weather, pest control, and crop planning, accessible to farmers via mobile devices.",
+    "keywords": ["Smart Farming", "Precision Agriculture", "Food Security", "AI"]
+  },
+  {
+    "id": 1670,
+    "title": "IoT Cold Storage Monitoring System",
+    "domain": "18",
+    "description": "Create an IoT-based cold storage monitoring solution to maintain optimal temperature and humidity for perishable food products, ensuring food safety and reduced wastage.",
+    "keywords": ["Food Safety", "Supply Chain", "Smart Farming", "IoT"]
+  },
+  {
+    "id": 1671,
+    "title": "Biotechnology-Based Soil Enrichment Tool",
+    "domain": "18",
+    "description": "Develop a biotechnology-driven soil enrichment tool using bio-fertilizers and microbial solutions to improve soil health and promote sustainable agriculture.",
+    "keywords": ["Biotechnology", "Sustainable Agriculture", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1672,
+    "title": "AI-Powered Food Spoilage Prediction System",
+    "domain": "18",
+    "description": "Design an AI model that predicts food spoilage timelines using temperature, humidity, and product type data to ensure better storage and reduced food waste.",
+    "keywords": ["Food Safety", "Supply Chain", "AI", "Food Security"]
+  },
+  {
+    "id": 1673,
+    "title": "IoT Livestock Health Monitoring",
+    "domain": "18",
+    "description": "Develop wearable IoT devices for livestock that monitor health parameters such as temperature, movement, and feeding patterns, ensuring early disease detection.",
+    "keywords": ["Smart Farming", "Food Security", "Agricultural Automation", "IoT"]
+  },
+  {
+    "id": 1674,
+    "title": "AI-Powered Weed Detection and Management",
+    "domain": "18",
+    "description": "Develop a computer vision system that uses drones or ground-based robots to detect weeds in agricultural fields and apply targeted herbicides to minimize chemical use.",
+    "keywords": ["Precision Agriculture", "Crop Monitoring", "Agricultural Automation", "AI"]
+  },
+  {
+    "id": 1675,
+    "title": "Smart Beekeeping Monitoring System",
+    "domain": "18",
+    "description": "Create an IoT-enabled system to monitor beehive conditions such as temperature, humidity, and bee activity to promote sustainable honey production and pollination.",
+    "keywords": ["Smart Farming", "Sustainable Agriculture", "IoT", "Food Security"]
+  },
+  {
+    "id": 1676,
+    "title": "AI-Based Fisheries Yield Optimization",
+    "domain": "18",
+    "description": "Build an AI system that analyzes water quality, fish behavior, and feeding patterns to optimize fish farming yield while ensuring sustainability.",
+    "keywords": ["Food Security", "Smart Farming", "AI", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1677,
+    "title": "Automated Vertical Farm Lighting Optimization",
+    "domain": "18",
+    "description": "Design a smart lighting system that adjusts LED wavelengths and intensity based on plant growth stages in vertical farming setups to reduce energy costs.",
+    "keywords": ["Vertical Farming", "Agricultural Automation", "Smart Farming", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1678,
+    "title": "Blockchain for Organic Food Authentication",
+    "domain": "18",
+    "description": "Develop a blockchain-based verification system that ensures the authenticity of organic food products by tracing certification and production processes.",
+    "keywords": ["Supply Chain", "Food Safety", "Blockchain", "Food Security"]
+  },
+  {
+    "id": 1679,
+    "title": "AI-Powered Crop Rotation Planner",
+    "domain": "18",
+    "description": "Create an AI model that suggests optimal crop rotation patterns based on soil health, pest history, and yield data to improve long-term sustainability.",
+    "keywords": ["Precision Agriculture", "Sustainable Agriculture", "AI", "Smart Farming"]
+  },
+  {
+    "id": 1680,
+    "title": "IoT-Based Grain Storage Monitoring",
+    "domain": "18",
+    "description": "Design an IoT system to monitor temperature, humidity, and gas levels in grain silos to prevent spoilage and contamination during storage.",
+    "keywords": ["Food Safety", "Supply Chain", "IoT", "Food Security"]
+  },
+  {
+    "id": 1681,
+    "title": "Robotic Drone for Precision Pollination",
+    "domain": "18",
+    "description": "Develop robotic drones capable of precision pollination in areas with declining bee populations, ensuring stable crop production.",
+    "keywords": ["Agricultural Automation", "Smart Farming", "Biotechnology", "Food Security"]
+  },
+  {
+    "id": 1682,
+    "title": "AI-Enabled Food Waste Reduction Tool",
+    "domain": "18",
+    "description": "Create an AI-based platform that predicts consumer demand and recommends optimized production levels to minimize food waste in supply chains.",
+    "keywords": ["Food Security", "Supply Chain", "AI", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1683,
+    "title": "IoT-Based Hydroponic Farm Controller",
+    "domain": "18",
+    "description": "Build an IoT-enabled controller for hydroponic farms that automates nutrient flow, pH balance, and water circulation for efficient indoor farming.",
+    "keywords": ["Smart Farming", "Sustainable Agriculture", "Vertical Farming", "IoT"]
+  },
+  {
+    "id": 1684,
+    "title": "AI Model for Food Safety Hazard Prediction",
+    "domain": "18",
+    "description": "Develop an AI model that predicts potential food safety hazards in processing plants based on environmental and production data.",
+    "keywords": ["Food Safety", "AI", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1685,
+    "title": "Blockchain-Based Farm Produce Marketplace",
+    "domain": "18",
+    "description": "Create a decentralized platform where farmers can directly sell produce to consumers and retailers, ensuring fair pricing and traceability.",
+    "keywords": ["Supply Chain", "Food Security", "Blockchain", "Smart Farming"]
+  },
+  {
+    "id": 1686,
+    "title": "IoT-Enabled Livestock Feeding System",
+    "domain": "18",
+    "description": "Design a smart livestock feeding system that adjusts feed distribution based on animal behavior and health data collected by IoT sensors.",
+    "keywords": ["Smart Farming", "IoT", "Food Security", "Agricultural Automation"]
+  },
+  {
+    "id": 1687,
+    "title": "AI-Driven Climate Risk Management for Farmers",
+    "domain": "18",
+    "description": "Develop a tool that uses AI to predict climate-related risks and suggest adaptive farming practices to reduce crop losses.",
+    "keywords": ["Precision Agriculture", "Food Security", "Smart Farming", "AI"]
+  },
+  {
+    "id": 1688,
+    "title": "Mobile App for Food Allergen Detection",
+    "domain": "18",
+    "description": "Build a mobile application that scans food product barcodes and provides information on allergens, ensuring consumer safety.",
+    "keywords": ["Food Safety", "Food Security", "AI", "Supply Chain"]
+  },
+  {
+    "id": 1689,
+    "title": "Smart Aquaculture Water Quality Monitor",
+    "domain": "18",
+    "description": "Create an IoT system for real-time monitoring of water quality in aquaculture farms, ensuring healthy fish production and food security.",
+    "keywords": ["Smart Farming", "IoT", "Food Security", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1690,
+    "title": "AI-Powered Agricultural Price Forecasting",
+    "domain": "18",
+    "description": "Develop an AI model that forecasts market prices of crops using historical data, supply trends, and demand analytics to help farmers plan sales.",
+    "keywords": ["Food Security", "Supply Chain", "AI", "Smart Farming"]
+  },
+  {
+    "id": 1691,
+    "title": "IoT-Driven Smart Pest Repellent System",
+    "domain": "18",
+    "description": "Design a system that uses IoT devices to monitor pest activity and activate eco-friendly repellents when needed, reducing pesticide usage.",
+    "keywords": ["Crop Monitoring", "Precision Agriculture", "IoT", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1692,
+    "title": "AI-Based Nutrition Optimization in Food Processing",
+    "domain": "18",
+    "description": "Create an AI solution that analyzes and suggests nutrient-preserving methods in food processing to enhance food quality and safety.",
+    "keywords": ["Food Safety", "Biotechnology", "AI", "Food Security"]
+  },
+  {
+    "id": 1693,
+    "title": "Smart Irrigation with Rainwater Harvesting",
+    "domain": "18",
+    "description": "Develop a smart irrigation system that integrates rainwater harvesting with IoT-based distribution to optimize water use efficiency.",
+    "keywords": ["Irrigation", "Sustainable Agriculture", "Smart Farming", "IoT"]
+  },
+  {
+    "id": 1694,
+    "title": "Blockchain-Enabled Food Recall System",
+    "domain": "18",
+    "description": "Design a blockchain system that enables quick food recalls by tracing contaminated batches through the entire supply chain.",
+    "keywords": ["Food Safety", "Supply Chain", "Blockchain", "Food Security"]
+  },
+  {
+    "id": 1695,
+    "title": "Robotics for Automated Fruit Sorting",
+    "domain": "18",
+    "description": "Build a robotic system with AI vision that sorts fruits based on size, ripeness, and defects, reducing manual labor in food processing plants.",
+    "keywords": ["Agricultural Automation", "Food Safety", "AI", "Smart Farming"]
+  },
+  {
+    "id": 1696,
+    "title": "IoT-Integrated Farm Energy Optimization",
+    "domain": "18",
+    "description": "Develop an IoT platform that monitors and optimizes energy usage across farm equipment, reducing operational costs and supporting sustainability.",
+    "keywords": ["Smart Farming", "IoT", "Sustainable Agriculture", "Agricultural Automation"]
+  },
+  {
+    "id": 1697,
+    "title": "AI-Enabled Precision Fertigation System",
+    "domain": "18",
+    "description": "Create an AI-powered fertigation system that combines irrigation and fertilization, adjusting nutrient delivery based on real-time soil and crop data.",
+    "keywords": ["Irrigation", "Precision Agriculture", "AI", "Smart Farming"]
+  },
+  {
+    "id": 1698,
+    "title": "AI-Based Food Fraud Detection",
+    "domain": "18",
+    "description": "Develop an AI system that analyzes chemical and supply chain data to detect food fraud such as adulteration, mislabeling, or counterfeit products.",
+    "keywords": ["Food Safety", "AI", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1699,
+    "title": "IoT-Enabled Smart Greenhouse Ventilation",
+    "domain": "18",
+    "description": "Create an IoT-based ventilation system for greenhouses that adjusts airflow and humidity automatically to maintain ideal crop-growing conditions.",
+    "keywords": ["Smart Farming", "IoT", "Crop Monitoring", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1700,
+    "title": "AI-Powered Food Expiry Tracking System",
+    "domain": "18",
+    "description": "Design an AI-driven application that tracks food product expiry dates using smart packaging and alerts retailers and consumers to reduce wastage.",
+    "keywords": ["Food Safety", "AI", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1701,
+    "title": "Drone-Based Soil Health Mapping",
+    "domain": "18",
+    "description": "Develop a drone system equipped with sensors to capture soil data and create digital maps for nutrient distribution and soil health assessment.",
+    "keywords": ["Precision Agriculture", "Crop Monitoring", "Smart Farming", "IoT"]
+  },
+  {
+    "id": 1702,
+    "title": "Blockchain-Powered Agricultural Loan Platform",
+    "domain": "18",
+    "description": "Create a blockchain-based platform that helps farmers access transparent loans by linking them with banks and cooperatives using verified crop yield data.",
+    "keywords": ["Supply Chain", "Blockchain", "Smart Farming", "Food Security"]
+  },
+  {
+    "id": 1703,
+    "title": "AI Model for Early Crop Maturity Prediction",
+    "domain": "18",
+    "description": "Develop an AI-based system that predicts the exact maturity stage of crops using satellite imagery and sensor data to optimize harvesting schedules.",
+    "keywords": ["Precision Agriculture", "AI", "Crop Monitoring", "Smart Farming"]
+  },
+  {
+    "id": 1704,
+    "title": "IoT-Enabled Precision Vineyard Management",
+    "domain": "18",
+    "description": "Design an IoT platform that monitors grapevine growth, soil quality, and microclimate data to optimize wine production processes.",
+    "keywords": ["Smart Farming", "Precision Agriculture", "IoT", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1705,
+    "title": "AI-Powered Personalized Diet from Farm Produce",
+    "domain": "18",
+    "description": "Build an AI-based platform that suggests personalized diets to consumers using fresh farm produce while helping farmers market their crops directly.",
+    "keywords": ["Food Security", "AI", "Supply Chain", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1706,
+    "title": "Robotic Irrigation Drone for Remote Farms",
+    "domain": "18",
+    "description": "Create a drone system that autonomously irrigates crops in remote or uneven terrain using real-time soil moisture data.",
+    "keywords": ["Irrigation", "Agricultural Automation", "Smart Farming", "Precision Agriculture"]
+  },
+  {
+    "id": 1707,
+    "title": "IoT-Based Poultry Farm Monitoring",
+    "domain": "18",
+    "description": "Develop a poultry farm monitoring system that tracks temperature, feed levels, and bird health using IoT sensors to prevent disease outbreaks.",
+    "keywords": ["Smart Farming", "IoT", "Food Security", "Agricultural Automation"]
+  },
+  {
+    "id": 1708,
+    "title": "AI-Driven Smart Tractor Navigation",
+    "domain": "18",
+    "description": "Design an AI-based navigation system for tractors to autonomously plow, seed, and spray fields with precision and efficiency.",
+    "keywords": ["Agricultural Automation", "AI", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1709,
+    "title": "Blockchain-Based Sustainable Agriculture Certification",
+    "domain": "18",
+    "description": "Build a blockchain system that certifies farms following sustainable practices, providing consumers with transparent product sourcing information.",
+    "keywords": ["Sustainable Agriculture", "Blockchain", "Food Safety", "Supply Chain"]
+  },
+  {
+    "id": 1710,
+    "title": "IoT-Enabled Multi-Crop Greenhouse Manager",
+    "domain": "18",
+    "description": "Develop a greenhouse management system that uses IoT sensors to grow multiple crops simultaneously under optimized climate control.",
+    "keywords": ["Smart Farming", "IoT", "Crop Monitoring", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1711,
+    "title": "AI Model for Smart Pest Resistance Breeding",
+    "domain": "18",
+    "description": "Create an AI model that predicts pest resistance traits in crops to help breeders develop more resilient plant varieties.",
+    "keywords": ["Biotechnology", "AI", "Crop Monitoring", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1712,
+    "title": "Smart Irrigation with Solar Integration",
+    "domain": "18",
+    "description": "Design a solar-powered smart irrigation system that reduces energy costs while ensuring efficient water distribution to crops.",
+    "keywords": ["Irrigation", "Sustainable Agriculture", "Smart Farming", "IoT"]
+  },
+  {
+    "id": 1713,
+    "title": "AI-Powered Food Packaging Inspection",
+    "domain": "18",
+    "description": "Build an AI-based vision system that detects packaging defects and contamination risks in food processing plants.",
+    "keywords": ["Food Safety", "AI", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1714,
+    "title": "IoT-Based Urban Farming Automation",
+    "domain": "18",
+    "description": "Develop an IoT-enabled system for urban rooftop and balcony farms that automates watering, nutrient delivery, and monitoring.",
+    "keywords": ["Smart Farming", "IoT", "Vertical Farming", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1715,
+    "title": "AI-Driven Global Food Demand Forecasting",
+    "domain": "18",
+    "description": "Create an AI-based forecasting tool that predicts food demand at regional and global scales to optimize agricultural production.",
+    "keywords": ["Food Security", "AI", "Supply Chain", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1716,
+    "title": "IoT-Enabled Livestock Geofencing",
+    "domain": "18",
+    "description": "Build an IoT system for livestock farms that uses GPS and geofencing to monitor animal movement and prevent overgrazing.",
+    "keywords": ["Smart Farming", "IoT", "Agricultural Automation", "Food Security"]
+  },
+  {
+    "id": 1717,
+    "title": "AI-Based Foodborne Illness Prediction",
+    "domain": "18",
+    "description": "Design an AI-powered system that predicts outbreaks of foodborne illnesses by analyzing supply chain and environmental data.",
+    "keywords": ["Food Safety", "AI", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1718,
+    "title": "Robotic Drone for Precision Seeding",
+    "domain": "18",
+    "description": "Create an autonomous drone that can distribute seeds with precision in large fields, optimizing planting density and yield.",
+    "keywords": ["Agricultural Automation", "Smart Farming", "Precision Agriculture", "AI"]
+  },
+  {
+    "id": 1719,
+    "title": "Blockchain for Fair Trade Agriculture",
+    "domain": "18",
+    "description": "Develop a blockchain-based platform that ensures fair trade pricing for farmers while providing consumers with transparent sourcing data.",
+    "keywords": ["Supply Chain", "Blockchain", "Food Security", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1720,
+    "title": "IoT-Based Smart Fertilizer Distribution",
+    "domain": "18",
+    "description": "Design an IoT-enabled system that automates fertilizer distribution across fields based on soil nutrient data to reduce waste.",
+    "keywords": ["Precision Agriculture", "IoT", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1721,
+    "title": "AI-Enhanced Vertical Farming Nutrient System",
+    "domain": "18",
+    "description": "Create an AI-driven platform that optimizes nutrient mixes in vertical farms, adapting to crop growth stages for maximum efficiency.",
+    "keywords": ["Vertical Farming", "AI", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1722,
+    "title": "IoT-Powered Soil Erosion Monitoring",
+    "domain": "18",
+    "description": "Build an IoT-based soil erosion monitoring system that collects real-time data to alert farmers and prevent land degradation.",
+    "keywords": ["Sustainable Agriculture", "IoT", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1723,
+    "title": "AI-Powered Smart Crop Insurance System",
+    "domain": "18",
+    "description": "Develop an AI system that assesses crop risks using weather, soil, and historical yield data to provide farmers with fair and data-driven crop insurance plans.",
+    "keywords": ["AI", "Precision Agriculture", "Food Security", "Smart Farming"]
+  },
+  {
+    "id": 1724,
+    "title": "IoT-Enabled Smart Aquaponics System",
+    "domain": "18",
+    "description": "Create an IoT platform to balance fish farming and plant growth in aquaponics systems by monitoring water quality, nutrient levels, and fish health.",
+    "keywords": ["IoT", "Sustainable Agriculture", "Smart Farming", "Food Security"]
+  },
+  {
+    "id": 1725,
+    "title": "Blockchain-Based Farm Subsidy Tracking",
+    "domain": "18",
+    "description": "Design a blockchain-powered system to track government subsidies for farmers, ensuring transparency and preventing misuse of funds.",
+    "keywords": ["Blockchain", "Supply Chain", "Food Security", "Smart Farming"]
+  },
+  {
+    "id": 1726,
+    "title": "AI-Driven Smart Harvest Forecasting",
+    "domain": "18",
+    "description": "Build an AI model that predicts the exact harvest time for various crops using weather, soil, and growth data, reducing premature or late harvesting losses.",
+    "keywords": ["AI", "Crop Monitoring", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1727,
+    "title": "IoT-Powered Smart Irrigation Drones",
+    "domain": "18",
+    "description": "Develop drones integrated with IoT sensors that deliver precise irrigation in hard-to-reach areas, optimizing water use and crop yield.",
+    "keywords": ["IoT", "Irrigation", "Agricultural Automation", "Precision Agriculture"]
+  },
+  {
+    "id": 1728,
+    "title": "AI-Based Food Contamination Detection",
+    "domain": "18",
+    "description": "Design an AI-enabled sensor system that identifies bacterial or chemical contamination in food during processing and storage stages.",
+    "keywords": ["Food Safety", "AI", "Food Security", "Supply Chain"]
+  },
+  {
+    "id": 1729,
+    "title": "IoT-Enabled Crop Disease Prediction System",
+    "domain": "18",
+    "description": "Create a predictive model that uses IoT sensor data and weather patterns to forecast potential crop diseases before outbreaks occur.",
+    "keywords": ["IoT", "Crop Monitoring", "Precision Agriculture", "Food Security"]
+  },
+  {
+    "id": 1730,
+    "title": "Robotics for Autonomous Greenhouse Farming",
+    "domain": "18",
+    "description": "Build a robotic system that automates seeding, irrigation, and harvesting inside greenhouses, reducing human labor and improving precision.",
+    "keywords": ["Robotics", "Agricultural Automation", "Smart Farming", "Vertical Farming"]
+  },
+  {
+    "id": 1731,
+    "title": "Blockchain-Enabled Food Export Certification",
+    "domain": "18",
+    "description": "Develop a blockchain-based platform to verify and track certifications for agricultural exports, ensuring compliance with international food safety standards.",
+    "keywords": ["Blockchain", "Food Safety", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1732,
+    "title": "AI-Powered Soil Carbon Monitoring System",
+    "domain": "18",
+    "description": "Create an AI platform that tracks soil carbon levels to help farmers implement sustainable practices and participate in carbon credit markets.",
+    "keywords": ["AI", "Sustainable Agriculture", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1733,
+    "title": "IoT-Based Smart Beehive Security",
+    "domain": "18",
+    "description": "Design an IoT system that monitors and protects beehives from theft, pests, and environmental stress, supporting pollination and honey production.",
+    "keywords": ["IoT", "Smart Farming", "Sustainable Agriculture", "Food Security"]
+  },
+  {
+    "id": 1734,
+    "title": "AI Model for Smart Crop Market Linkage",
+    "domain": "18",
+    "description": "Develop an AI platform that connects farmers to the best markets by analyzing price trends, logistics, and demand data in real time.",
+    "keywords": ["AI", "Supply Chain", "Food Security", "Smart Farming"]
+  },
+  {
+    "id": 1735,
+    "title": "IoT-Enabled Vertical Farming Robotics",
+    "domain": "18",
+    "description": "Create a robotic system with IoT integration to automate planting, harvesting, and monitoring in vertical farms for urban food production.",
+    "keywords": ["IoT", "Robotics", "Vertical Farming", "Smart Farming"]
+  },
+  {
+    "id": 1736,
+    "title": "AI-Driven Smart Irrigation Forecasting",
+    "domain": "18",
+    "description": "Build an AI system that predicts optimal irrigation schedules based on soil moisture, crop type, and upcoming weather patterns.",
+    "keywords": ["AI", "Irrigation", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1737,
+    "title": "Blockchain for Food Donation Tracking",
+    "domain": "18",
+    "description": "Develop a blockchain-based platform to track donated food from producers to NGOs and consumers, ensuring transparency and reducing food waste.",
+    "keywords": ["Blockchain", "Food Security", "Supply Chain", "Food Safety"]
+  },
+  {
+    "id": 1738,
+    "title": "IoT-Enabled Smart Cold Chain Logistics",
+    "domain": "18",
+    "description": "Create an IoT-powered logistics system that maintains temperature-sensitive conditions for perishable foods during transport and storage.",
+    "keywords": ["IoT", "Food Safety", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1739,
+    "title": "AI-Powered Crop Genetic Improvement Platform",
+    "domain": "18",
+    "description": "Develop an AI system that assists in genetic crop improvement by analyzing genome data to predict high-yield and climate-resilient varieties.",
+    "keywords": ["AI", "Biotechnology", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1740,
+    "title": "IoT-Based Smart Irrigation for Orchards",
+    "domain": "18",
+    "description": "Design a smart irrigation solution with IoT sensors tailored for orchards, enabling efficient water use for fruit-bearing trees.",
+    "keywords": ["IoT", "Irrigation", "Precision Agriculture", "Sustainable Agriculture"]
+  },
+  {
+    "id": 1741,
+    "title": "Robotics for Automated Crop Pruning",
+    "domain": "18",
+    "description": "Create robotic arms that perform automated pruning in vineyards and orchards, improving crop health and reducing manual labor costs.",
+    "keywords": ["Robotics", "Agricultural Automation", "Smart Farming", "Precision Agriculture"]
+  },
+  {
+    "id": 1742,
+    "title": "Blockchain-Based Smart Food Traceability",
+    "domain": "18",
+    "description": "Develop a blockchain solution that provides consumers with detailed traceability data about the origin, processing, and storage of food items.",
+    "keywords": ["Blockchain", "Food Safety", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1743,
+    "title": "AI-Powered Pest Control Drone",
+    "domain": "18",
+    "description": "Build a drone equipped with AI vision to identify pest infestations and deploy eco-friendly pest control methods on targeted crops.",
+    "keywords": ["AI", "Drone", "Crop Monitoring", "Precision Agriculture"]
+  },
+  {
+    "id": 1744,
+    "title": "IoT-Enabled Smart Irrigation for Rice Fields",
+    "domain": "18",
+    "description": "Create an IoT system that monitors water levels in rice paddies and automates irrigation to ensure water efficiency and crop stability.",
+    "keywords": ["IoT", "Irrigation", "Smart Farming", "Precision Agriculture"]
+  },
+  {
+    "id": 1745,
+    "title": "AI Model for Food Shelf-Life Prediction",
+    "domain": "18",
+    "description": "Develop an AI system that predicts shelf-life of perishable foods by analyzing storage conditions, packaging, and product characteristics.",
+    "keywords": ["AI", "Food Safety", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1746,
+    "title": "IoT-Based Livestock Breeding Monitor",
+    "domain": "18",
+    "description": "Design an IoT solution that monitors livestock fertility cycles, health, and breeding activities to improve farm productivity.",
+    "keywords": ["IoT", "Smart Farming", "Agricultural Automation", "Food Security"]
+  },
+  {
+    "id": 1747,
+    "title": "AI-Driven Smart Food Logistics Planner",
+    "domain": "18",
+    "description": "Create an AI platform that optimizes food logistics by predicting demand, minimizing delays, and reducing food waste in distribution networks.",
+    "keywords": ["AI", "Supply Chain", "Food Security", "Food Safety"]
+  },
+ {
+    "id": 1748,
+    "title": "Blockchain-Based Agro-Input Marketplace",
+    "domain": "18",
+    "description": "Develop a blockchain system that ensures transparency in the sale of seeds, fertilizers, and pesticides, preventing counterfeit agro-inputs.",
+    "keywords": ["Blockchain", "Supply Chain", "Food Security", "Smart Farming"]
+  },
+  {
+    "id": 1749,
+    "title": "AI-Powered Smart Fertilizer Advisor",
+    "domain": "18",
+    "description": "Create an AI model that recommends precise fertilizer types and amounts based on soil nutrient data, crop type, and weather conditions.",
+    "keywords": ["AI", "Precision Agriculture", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1750,
+    "title": "IoT-Enabled Smart Greenhouse Climate Control",
+    "domain": "18",
+    "description": "Design an IoT system that automatically regulates greenhouse temperature, humidity, and lighting to optimize crop growth.",
+    "keywords": ["IoT", "Smart Farming", "Agricultural Automation", "Vertical Farming"]
+  },
+  {
+    "id": 1751,
+    "title": "AI Model for Food Waste Reduction in Retail",
+    "domain": "18",
+    "description": "Build an AI solution that predicts demand fluctuations in retail to optimize stock management and reduce food waste.",
+    "keywords": ["AI", "Food Security", "Supply Chain", "Food Safety"]
+  },
+  {
+    "id": 1752,
+    "title": "Robotics for Automated Crop Weeding",
+    "domain": "18",
+    "description": "Create a robotic system that identifies weeds and removes them mechanically or chemically without harming crops.",
+    "keywords": ["Robotics", "Agricultural Automation", "Smart Farming", "Precision Agriculture"]
+  },
+  {
+    "id": 1753,
+    "title": "Blockchain-Enabled Dairy Supply Chain Tracking",
+    "domain": "18",
+    "description": "Develop a blockchain-powered solution to track milk and dairy products from farms to consumers, ensuring freshness and quality.",
+    "keywords": ["Blockchain", "Food Safety", "Supply Chain", "Food Security"]
+  },
+  {
+    "id": 1754,
+    "title": "IoT-Based Fish Farm Monitoring System",
+    "domain": "18",
+    "description": "Design an IoT solution that tracks water quality, fish growth, and feeding cycles to improve aquaculture efficiency.",
+    "keywords": ["IoT", "Sustainable Agriculture", "Smart Farming", "Food Security"]
+  },
+  {
+    "id": 1755,
+    "title": "AI-Powered Pest Resistance Crop Selector",
+    "domain": "18",
+    "description": "Build an AI model that helps farmers select crop varieties with natural pest resistance by analyzing genetic and environmental data.",
+    "keywords": ["AI", "Biotechnology", "Precision Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1756,
+    "title": "IoT-Enabled Smart Hydroponic Farming",
+    "domain": "18",
+    "description": "Create an IoT-controlled hydroponics system that automates nutrient delivery, pH balance, and water circulation for soilless farming.",
+    "keywords": ["IoT", "Vertical Farming", "Sustainable Agriculture", "Smart Farming"]
+  },
+  {
+    "id": 1757,
+    "title": "AI Model for Climate-Resilient Agriculture",
+    "domain": "18",
+    "description": "Develop an AI platform that predicts climate risks and suggests adaptive farming strategies to ensure sustainable food production.",
+    "keywords": ["AI", "Sustainable Agriculture", "Food Security", "Precision Agriculture"]
+  },
+  {
+    "id": 1758,
+    "title": "Robotics for Automated Fruit Harvesting",
+    "domain": "18",
+    "description": "Design robotic harvesters capable of identifying ripe fruits, picking them carefully, and reducing harvest losses in orchards.",
+    "keywords": ["Robotics", "Agricultural Automation", "Smart Farming", "Precision Agriculture"]
+  },
+//(domain-19)
+ { 
+        "id": 1759,
+        "title": "AI-Powered Legal Research Assistant",
+        "domain": "19",
+        "description": "Legal professionals often spend extensive time searching through case laws and statutes. The project proposes an AI-powered tool that streamlines legal research by providing relevant precedents, interpretations, and citations with higher accuracy.",
+        "keywords": ["Legal Technology", "Legal Research", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1760,
+        "title": "Automated Contract Compliance Checker",
+        "domain": "19",
+        "description": "Businesses face challenges ensuring that their contracts comply with evolving regulations. The system will analyze contracts for compliance gaps, highlight risk clauses, and recommend amendments in real time.",
+        "keywords": ["Contract Management", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1761,
+        "title": "Policy Impact Simulation Engine",
+        "domain": "19",
+        "description": "Policy makers lack tools to predict how new policies might affect citizens and businesses. This project develops a simulation engine to model potential economic, legal, and ethical impacts of proposed regulations.",
+        "keywords": ["Policy Analysis", "Governance", "Ethics", "Legal Analytics"]
+    },
+    { 
+        "id": 1762,
+        "title": "Data Privacy Risk Dashboard",
+        "domain": "19",
+        "description": "Organizations struggle to monitor compliance with global data privacy laws like GDPR. The system will provide a real-time dashboard to detect potential breaches and ensure alignment with regulatory standards.",
+        "keywords": ["Data Privacy", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1763,
+        "title": "Smart Intellectual Property Portfolio Manager",
+        "domain": "19",
+        "description": "Managing intellectual property rights across jurisdictions is complex. The proposed system helps companies track patents, copyrights, and trademarks, ensuring renewal compliance and analyzing potential infringement risks.",
+        "keywords": ["Intellectual Property", "Legal Technology", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1764,
+        "title": "Ethical AI Policy Evaluator",
+        "domain": "19",
+        "description": "The rise of AI systems creates policy challenges around ethics and governance. This tool evaluates AI applications against ethical and regulatory frameworks, highlighting risks like bias or privacy violations.",
+        "keywords": ["Ethics", "Policy Analysis", "Regulatory", "Governance"]
+    },
+    { 
+        "id": 1765,
+        "title": "Regulatory Change Notification System",
+        "domain": "19",
+        "description": "Businesses often miss updates to legal and regulatory requirements. The system automatically scans government portals, updates compliance teams, and flags contracts impacted by regulatory shifts.",
+        "keywords": ["Regulatory", "Compliance", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1766,
+        "title": "Blockchain-Based Contract Authentication",
+        "domain": "19",
+        "description": "Legal contracts can be tampered with, leading to disputes. This project develops a blockchain-based platform to authenticate, timestamp, and validate contracts to prevent fraud and ensure integrity.",
+        "keywords": ["Contract Management", "Legal Technology", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1767,
+        "title": "AI-Driven Case Outcome Predictor",
+        "domain": "19",
+        "description": "Lawyers and clients struggle to estimate the likelihood of winning a case. The solution applies machine learning to analyze past judgments, judge behavior, and precedents to predict outcomes with transparency.",
+        "keywords": ["Legal Analytics", "Legal Research", "Ethics", "Governance"]
+    },
+    { 
+        "id": 1768,
+        "title": "Cross-Border Compliance Tracker",
+        "domain": "19",
+        "description": "Multinational corporations must follow diverse regulations across jurisdictions. This tool automates tracking of cross-border compliance obligations and alerts users to potential conflicts.",
+        "keywords": ["Compliance", "Regulatory", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1769,
+        "title": "Smart Policy Drafting Assistant",
+        "domain": "19",
+        "description": "Drafting policies requires balancing legal, ethical, and economic considerations. The project aims to build a drafting assistant that suggests legally sound, ethically aligned, and regulation-compliant policy text.",
+        "keywords": ["Policy Analysis", "Legal Technology", "Ethics", "Governance"]
+    },
+    { 
+        "id": 1770,
+        "title": "Legal Document Summarization Engine",
+        "domain": "19",
+        "description": "Long legal documents overwhelm clients and businesses. The solution uses natural language processing to summarize agreements, highlighting obligations, risks, and key compliance points.",
+        "keywords": ["Legal Technology", "Contract Management", "Legal Research", "Legal Analytics"]
+    },
+    { 
+        "id": 1771,
+        "title": "Corporate Governance Monitoring Platform",
+        "domain": "19",
+        "description": "Corporations face scrutiny regarding governance practices. This system monitors compliance with governance codes, ethical business conduct, and shareholder policies in real time.",
+        "keywords": ["Governance", "Compliance", "Policy Analysis", "Ethics"]
+    },
+    { 
+        "id": 1772,
+        "title": "Cybersecurity Regulation Checker",
+        "domain": "19",
+        "description": "Companies struggle to align with increasing cybersecurity-related laws. The project builds a compliance checker to validate corporate security measures against national and international regulations.",
+        "keywords": ["Data Privacy", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1773,
+        "title": "AI-Powered Ethics Violation Detector",
+        "domain": "19",
+        "description": "Organizations face ethical dilemmas in contracts and decisions. This system analyzes corporate documents to detect unethical clauses or actions conflicting with legal obligations.",
+        "keywords": ["Ethics", "Legal Technology", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1774,
+        "title": "Open Access Legal Knowledge Graph",
+        "domain": "19",
+        "description": "Legal data is fragmented across jurisdictions. The system creates a knowledge graph connecting laws, regulations, and precedents for open access legal research.",
+        "keywords": ["Legal Research", "Legal Technology", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1775,
+        "title": "Dynamic Intellectual Property Risk Analyzer",
+        "domain": "19",
+        "description": "Companies entering new markets risk infringing on local IP. The system analyzes international IP databases to flag potential conflicts before product launches.",
+        "keywords": ["Intellectual Property", "Compliance", "Regulatory", "Legal Analytics"]
+    },
+    { 
+        "id": 1776,
+        "title": "Contract Lifecycle Automation Platform",
+        "domain": "19",
+        "description": "Contract lifecycle management is time-consuming and error-prone. The system automates drafting, approval, compliance checks, and renewal notifications for enterprises.",
+        "keywords": ["Contract Management", "Legal Technology", "Compliance", "Governance"]
+    },
+    { 
+        "id": 1777,
+        "title": "Ethics and Compliance Training Simulator",
+        "domain": "19",
+        "description": "Employees often lack awareness of compliance policies. The project builds an interactive simulator that trains employees on ethics, governance, and data privacy regulations using real-world scenarios.",
+        "keywords": ["Ethics", "Governance", "Compliance", "Policy Analysis"]
+    },
+    { 
+        "id": 1778,
+        "title": "Legal Risk Scoring Engine",
+        "domain": "19",
+        "description": "Businesses face uncertainty in legal decision-making. This engine assigns risk scores to contracts, policies, and business actions based on legal and regulatory frameworks.",
+        "keywords": ["Legal Analytics", "Compliance", "Regulatory", "Governance"]
+    },
+    { 
+        "id": 1779,
+        "title": "AI-Powered Court Transcript Analyzer",
+        "domain": "19",
+        "description": "Court proceedings generate vast transcripts that are difficult to analyze manually. The project proposes an AI tool to extract case trends, highlight contradictions, and generate summaries for lawyers and judges.",
+        "keywords": ["Legal Research", "Legal Technology", "Legal Analytics", "Governance"]
+    },
+    { 
+        "id": 1780,
+        "title": "Regulatory Sandbox Compliance Tool",
+        "domain": "19",
+        "description": "Startups in fintech and health tech often operate under regulatory sandboxes. The tool helps companies assess compliance boundaries and automatically reports deviations to regulators.",
+        "keywords": ["Regulatory", "Compliance", "Policy Analysis", "Legal Technology"]
+    },
+    { 
+        "id": 1781,
+        "title": "AI-Powered Arbitration Case Matcher",
+        "domain": "19",
+        "description": "Selecting arbitrators and precedents is often subjective. This solution suggests suitable arbitrators and similar cases from global arbitration databases for fairer dispute resolution.",
+        "keywords": ["Legal Technology", "Legal Research", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1782,
+        "title": "Data Privacy Audit Bot",
+        "domain": "19",
+        "description": "Companies struggle to continuously audit internal data practices. The system automatically scans internal systems, flags data misuse, and verifies compliance with privacy regulations.",
+        "keywords": ["Data Privacy", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1783,
+        "title": "Digital Rights Policy Evaluator",
+        "domain": "19",
+        "description": "Governments draft digital rights policies without adequate citizen engagement. This project creates a tool to evaluate such policies based on privacy, access, and ethical implications.",
+        "keywords": ["Policy Analysis", "Data Privacy", "Ethics", "Governance"]
+    },
+    { 
+        "id": 1784,
+        "title": "AI-Powered Legal Citation Checker",
+        "domain": "19",
+        "description": "Legal professionals risk using incorrect or outdated citations. The proposed tool validates citations in documents and suggests the most recent, relevant case laws and statutes.",
+        "keywords": ["Legal Research", "Legal Technology", "Compliance", "Legal Analytics"]
+    },
+    { 
+        "id": 1785,
+        "title": "Cross-Jurisdiction Policy Harmonizer",
+        "domain": "19",
+        "description": "International agreements often clash with local policies. The system analyzes regulations across jurisdictions and suggests harmonization strategies to reduce conflicts.",
+        "keywords": ["Policy Analysis", "Regulatory", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1786,
+        "title": "AI-Powered Intellectual Property Violation Detector",
+        "domain": "19",
+        "description": "Creative industries face widespread IP theft. The system scans digital content, compares with IP databases, and automatically reports potential copyright or patent violations.",
+        "keywords": ["Intellectual Property", "Legal Technology", "Legal Analytics", "Compliance"]
+    },
+    { 
+        "id": 1787,
+        "title": "Smart Whistleblower Protection Framework",
+        "domain": "19",
+        "description": "Whistleblowers risk retaliation due to weak legal protections. The system enables anonymous reporting, validates complaints, and ensures compliance with whistleblower protection laws.",
+        "keywords": ["Ethics", "Governance", "Compliance", "Policy Analysis"]
+    },
+    { 
+        "id": 1788,
+        "title": "Policy Draft Comparison Tool",
+        "domain": "19",
+        "description": "Legislators often revise multiple versions of the same bill. The tool compares drafts, highlights significant changes, and analyzes compliance with constitutional and regulatory standards.",
+        "keywords": ["Policy Analysis", "Governance", "Legal Technology", "Regulatory"]
+    },
+    { 
+        "id": 1789,
+        "title": "RegTech Contract Monitoring Assistant",
+        "domain": "19",
+        "description": "Enterprises face fines for non-compliance with industry regulations. This system integrates RegTech solutions to automatically monitor and update contract obligations.",
+        "keywords": ["Contract Management", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1790,
+        "title": "AI Policy Sentiment Analyzer",
+        "domain": "19",
+        "description": "Public opinion often influences the success of legal policies. This solution applies natural language processing to analyze citizen sentiment on proposed bills and regulations.",
+        "keywords": ["Policy Analysis", "Governance", "Legal Analytics", "Ethics"]
+    },
+    { 
+        "id": 1791,
+        "title": "Legal Ethics Violation Prediction Model",
+        "domain": "19",
+        "description": "Corporate scandals often arise from unethical practices. The project proposes a predictive model that detects patterns of behavior that may indicate future ethics violations.",
+        "keywords": ["Ethics", "Governance", "Legal Analytics", "Compliance"]
+    },
+    { 
+        "id": 1792,
+        "title": "Smart Legal Ontology Builder",
+        "domain": "19",
+        "description": "Legal documents lack standardized structures. The system builds ontologies to organize statutes, contracts, and precedents into machine-readable structures for better analysis.",
+        "keywords": ["Legal Research", "Legal Technology", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1793,
+        "title": "AI-Powered Corporate Governance Auditor",
+        "domain": "19",
+        "description": "Auditing corporate governance practices requires manual reviews. This system automates audits by checking board practices, shareholder rights, and ethics compliance.",
+        "keywords": ["Governance", "Compliance", "Ethics", "Legal Technology"]
+    },
+    { 
+        "id": 1794,
+        "title": "International Treaty Compliance Tracker",
+        "domain": "19",
+        "description": "Countries often sign treaties but fail to comply with obligations. This tool tracks compliance status and provides transparency dashboards for international organizations.",
+        "keywords": ["Regulatory", "Governance", "Compliance", "Policy Analysis"]
+    },
+    { 
+        "id": 1795,
+        "title": "AI-Powered Bias Detector in Policy Drafts",
+        "domain": "19",
+        "description": "Policy drafts may unintentionally discriminate against groups. This system uses NLP to detect biased language and suggests inclusive alternatives.",
+        "keywords": ["Ethics", "Policy Analysis", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1796,
+        "title": "AI-Enhanced Intellectual Property Renewal Assistant",
+        "domain": "19",
+        "description": "Organizations lose IP rights due to missed renewal deadlines. The assistant tracks global IP databases, sends alerts, and auto-fills renewal applications.",
+        "keywords": ["Intellectual Property", "Compliance", "Legal Technology", "Governance"]
+    },
+    { 
+        "id": 1797,
+        "title": "Smart Data Privacy Consent Manager",
+        "domain": "19",
+        "description": "Users often fail to understand consent agreements. The system simplifies consent forms, monitors user choices, and ensures businesses honor privacy commitments.",
+        "keywords": ["Data Privacy", "Ethics", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1798,
+        "title": "Global Policy Knowledge Exchange Platform",
+        "domain": "19",
+        "description": "Policy makers lack a centralized resource for global best practices. The platform enables knowledge exchange of laws, regulations, and ethical governance models across countries.",
+        "keywords": ["Policy Analysis", "Governance", "Legal Research", "Legal Technology"]
+    },
+    { 
+        "id": 1799,
+        "title": "AI-Powered Legal Draft Error Detector",
+        "domain": "19",
+        "description": "Legal drafts often contain ambiguities or contradictory clauses. This tool automatically detects drafting errors and suggests corrections based on regulatory and ethical standards.",
+        "keywords": ["Legal Technology", "Contract Management", "Compliance", "Legal Analytics"]
+    },
+    { 
+        "id": 1800,
+        "title": "Cross-Sector Regulatory Conflict Analyzer",
+        "domain": "19",
+        "description": "Companies in industries like finance and healthcare face conflicting regulations. The system analyzes overlapping requirements and proposes unified compliance strategies.",
+        "keywords": ["Regulatory", "Compliance", "Policy Analysis", "Governance"]
+    },
+    { 
+        "id": 1801,
+        "title": "AI-Based Anti-Money Laundering Policy Evaluator",
+        "domain": "19",
+        "description": "Financial institutions must comply with anti-money laundering laws. This project builds an AI tool that evaluates compliance policies and detects suspicious transaction loopholes.",
+        "keywords": ["Compliance", "Regulatory", "Legal Analytics", "Governance"]
+    },
+    { 
+        "id": 1802,
+        "title": "Digital Legal Evidence Verification Tool",
+        "domain": "19",
+        "description": "Digital evidence can be tampered with, complicating court cases. The system validates authenticity of digital evidence using cryptographic and legal standards.",
+        "keywords": ["Legal Technology", "Ethics", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1803,
+        "title": "Policy Transparency Rating System",
+        "domain": "19",
+        "description": "Citizens struggle to understand policy transparency. The project proposes a rating system that scores policies based on openness, clarity, and ethical alignment.",
+        "keywords": ["Policy Analysis", "Ethics", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1804,
+        "title": "AI-Powered Intellectual Property Marketplace Monitor",
+        "domain": "19",
+        "description": "Unauthorized IP sales on marketplaces cause losses. The system continuously monitors online platforms and alerts IP owners about violations.",
+        "keywords": ["Intellectual Property", "Compliance", "Legal Technology", "Legal Analytics"]
+    },
+    { 
+        "id": 1805,
+        "title": "Smart Anti-Corruption Compliance System",
+        "domain": "19",
+        "description": "Corruption remains a governance challenge. This solution develops a compliance system that monitors financial records and detects corrupt practices.",
+        "keywords": ["Ethics", "Governance", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1806,
+        "title": "AI-Powered Constitutional Law Analyzer",
+        "domain": "19",
+        "description": "Constitutional lawyers face complexity in interpreting amendments. The system uses AI to analyze constitutional texts and provide precedent-based interpretations.",
+        "keywords": ["Legal Research", "Legal Technology", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1807,
+        "title": "Smart E-Governance Policy Tracker",
+        "domain": "19",
+        "description": "Governments often fail to monitor e-governance policies after implementation. The system provides real-time tracking and citizen feedback integration.",
+        "keywords": ["Policy Analysis", "Governance", "Legal Technology", "Compliance"]
+    },
+    { 
+        "id": 1808,
+        "title": "Legal Risk Forecasting Tool for Startups",
+        "domain": "19",
+        "description": "Startups often overlook legal risks when scaling. The project builds a forecasting engine that predicts potential compliance and IP risks for early-stage companies.",
+        "keywords": ["Compliance", "Intellectual Property", "Legal Analytics", "Governance"]
+    },
+    { 
+        "id": 1809,
+        "title": "AI-Driven Policy Gap Identifier",
+        "domain": "19",
+        "description": "Existing policies may leave loopholes or unregulated areas. The tool identifies policy gaps and suggests areas where new laws are required.",
+        "keywords": ["Policy Analysis", "Governance", "Legal Analytics", "Regulatory"]
+    },
+    { 
+        "id": 1810,
+        "title": "Cross-Language Legal Translation Assistant",
+        "domain": "19",
+        "description": "Legal professionals struggle with multilingual regulations. The system provides accurate translations while preserving legal meanings across jurisdictions.",
+        "keywords": ["Legal Technology", "Governance", "Legal Research", "Compliance"]
+    },
+    { 
+        "id": 1811,
+        "title": "AI-Powered Case Law Recommendation System",
+        "domain": "19",
+        "description": "Lawyers require fast access to relevant case laws. This tool suggests case precedents tailored to arguments and jurisdiction.",
+        "keywords": ["Legal Research", "Legal Technology", "Legal Analytics", "Governance"]
+    },
+    { 
+        "id": 1812,
+        "title": "Global Intellectual Property Fraud Detector",
+        "domain": "19",
+        "description": "Fake patents and counterfeit products harm industries. The solution monitors international markets to detect IP fraud and ensure compliance with treaties.",
+        "keywords": ["Intellectual Property", "Compliance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1813,
+        "title": "AI-Powered Ethical Policy Generator",
+        "domain": "19",
+        "description": "Policy makers sometimes draft laws without ethical foresight. This project proposes an AI assistant that generates ethically balanced policy recommendations.",
+        "keywords": ["Policy Analysis", "Ethics", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1814,
+        "title": "Contract Fraud Detection Engine",
+        "domain": "19",
+        "description": "Contracts are vulnerable to fraudulent clauses. The system analyzes legal agreements and flags suspicious patterns indicating fraud or manipulation.",
+        "keywords": ["Contract Management", "Legal Technology", "Compliance", "Legal Analytics"]
+    },
+    { 
+        "id": 1815,
+        "title": "Digital Data Privacy Seal Generator",
+        "domain": "19",
+        "description": "Consumers lack trust in online services. The system issues digital privacy seals for companies that comply with global privacy regulations.",
+        "keywords": ["Data Privacy", "Compliance", "Governance", "Regulatory"]
+    },
+    { 
+        "id": 1816,
+        "title": "AI-Powered Governance Risk Assessor",
+        "domain": "19",
+        "description": "Governments and corporations need to assess governance risks. This system evaluates governance practices and assigns scores for compliance and transparency.",
+        "keywords": ["Governance", "Compliance", "Legal Analytics", "Ethics"]
+    },
+    { 
+        "id": 1817,
+        "title": "Legal Language Simplifier",
+        "domain": "19",
+        "description": "Complex legal jargon confuses non-experts. The project creates a simplification engine that translates legal documents into easy-to-understand language without losing accuracy.",
+        "keywords": ["Legal Technology", "Legal Research", "Governance", "Ethics"]
+    },
+    { 
+        "id": 1818,
+        "title": "Policy Lifecycle Automation Framework",
+        "domain": "19",
+        "description": "Tracking policy creation, implementation, and evaluation is difficult. The proposed framework automates the policy lifecycle to ensure compliance and governance efficiency.",
+        "keywords": ["Policy Analysis", "Governance", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1819,
+        "title": "AI-Powered Tax Policy Analyzer",
+        "domain": "19",
+        "description": "Tax regulations are often complex and prone to misinterpretation. This system analyzes tax policies, identifies compliance risks, and suggests optimization strategies for businesses.",
+        "keywords": ["Policy Analysis", "Regulatory", "Compliance", "Legal Analytics"]
+    },
+    { 
+        "id": 1820,
+        "title": "Digital Copyright Protection Framework",
+        "domain": "19",
+        "description": "Creators face copyright violations in digital platforms. The framework uses AI and watermarking to protect content and ensure legal compliance.",
+        "keywords": ["Intellectual Property", "Compliance", "Legal Technology", "Governance"]
+    },
+    { 
+        "id": 1821,
+        "title": "AI-Powered Legal Workflow Optimizer",
+        "domain": "19",
+        "description": "Legal firms face inefficiency in managing workflows. This project develops a tool that automates document review, compliance checks, and case management.",
+        "keywords": ["Legal Technology", "Contract Management", "Legal Analytics", "Governance"]
+    },
+    { 
+        "id": 1822,
+        "title": "Global Policy Compliance Benchmarking Tool",
+        "domain": "19",
+        "description": "Organizations struggle to measure compliance levels against global peers. This benchmarking tool compares governance and regulatory adherence across industries.",
+        "keywords": ["Compliance", "Governance", "Policy Analysis", "Regulatory"]
+    },
+    { 
+        "id": 1823,
+        "title": "AI-Driven Environmental Policy Evaluator",
+        "domain": "19",
+        "description": "Environmental laws require detailed impact evaluation. This system assesses environmental policies and forecasts legal, ethical, and ecological implications.",
+        "keywords": ["Policy Analysis", "Ethics", "Regulatory", "Governance"]
+    },
+    { 
+        "id": 1824,
+        "title": "Contractual Obligation Alert System",
+        "domain": "19",
+        "description": "Organizations often miss contractual deadlines. The system provides automated alerts for obligations, renewals, and compliance requirements.",
+        "keywords": ["Contract Management", "Compliance", "Legal Technology", "Governance"]
+    },
+    { 
+        "id": 1825,
+        "title": "AI-Powered Labor Law Compliance Checker",
+        "domain": "19",
+        "description": "Businesses risk penalties for labor law violations. The tool ensures employment contracts comply with labor standards and evolving regulations.",
+        "keywords": ["Regulatory", "Compliance", "Contract Management", "Ethics"]
+    },
+    { 
+        "id": 1826,
+        "title": "Smart Policy Debate Analyzer",
+        "domain": "19",
+        "description": "Policy debates often lack structured insights. This system analyzes parliamentary debates, identifies key arguments, and connects them with legal precedents.",
+        "keywords": ["Policy Analysis", "Legal Research", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1827,
+        "title": "AI-Powered Ethical Contract Builder",
+        "domain": "19",
+        "description": "Contracts may include clauses that violate ethical standards. The system generates contract drafts aligned with compliance, ethics, and governance principles.",
+        "keywords": ["Contract Management", "Ethics", "Legal Technology", "Governance"]
+    },
+    { 
+        "id": 1828,
+        "title": "Digital Data Retention Compliance Monitor",
+        "domain": "19",
+        "description": "Organizations must comply with data retention regulations. This tool monitors storage policies, alerts violations, and ensures lawful retention practices.",
+        "keywords": ["Data Privacy", "Compliance", "Regulatory", "Governance"]
+    },
+    { 
+        "id": 1829,
+        "title": "AI-Powered Human Rights Policy Auditor",
+        "domain": "19",
+        "description": "Governments and corporations face scrutiny on human rights issues. This system audits policies to check compliance with international human rights standards.",
+        "keywords": ["Policy Analysis", "Ethics", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1830,
+        "title": "Legal Knowledge Recommendation Engine",
+        "domain": "19",
+        "description": "Law students and researchers face difficulty accessing relevant knowledge. The system recommends laws, judgments, and policy documents tailored to queries.",
+        "keywords": ["Legal Research", "Legal Technology", "Governance", "Legal Analytics"]
+    },
+    { 
+        "id": 1831,
+        "title": "AI-Enhanced Data Privacy Breach Predictor",
+        "domain": "19",
+        "description": "Organizations face increasing risks of privacy breaches. This predictive tool analyzes patterns to forecast possible privacy violations in advance.",
+        "keywords": ["Data Privacy", "Compliance", "Legal Analytics", "Regulatory"]
+    },
+    { 
+        "id": 1832,
+        "title": "Policy Accessibility Index Generator",
+        "domain": "19",
+        "description": "Legal and policy documents are not always accessible to disabled communities. This project creates an index measuring accessibility and compliance with inclusion standards.",
+        "keywords": ["Policy Analysis", "Ethics", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1833,
+        "title": "AI-Powered Case Filing Assistant",
+        "domain": "19",
+        "description": "Filing court cases involves manual paperwork errors. This system automates the filing process by checking compliance with legal requirements before submission.",
+        "keywords": ["Legal Technology", "Governance", "Compliance", "Legal Analytics"]
+    },
+    { 
+        "id": 1834,
+        "title": "Cross-Border Intellectual Property Collaboration Platform",
+        "domain": "19",
+        "description": "Global innovation requires secure IP collaboration. This system builds a platform for cross-border IP sharing while ensuring compliance with treaties.",
+        "keywords": ["Intellectual Property", "Governance", "Legal Technology", "Compliance"]
+    },
+    { 
+        "id": 1835,
+        "title": "AI-Driven Ethics Compliance Evaluator",
+        "domain": "19",
+        "description": "Organizations often fail to align with ethical guidelines. This tool evaluates internal policies against global ethics and compliance frameworks.",
+        "keywords": ["Ethics", "Compliance", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1836,
+        "title": "Smart Policy Alignment Dashboard",
+        "domain": "19",
+        "description": "Governments require tools to align policies across ministries. The system provides a dashboard for monitoring alignment and compliance with national goals.",
+        "keywords": ["Policy Analysis", "Governance", "Regulatory", "Legal Technology"]
+    },
+    { 
+        "id": 1837,
+        "title": "AI-Powered Intellectual Property Value Estimator",
+        "domain": "19",
+        "description": "Valuing IP assets is complex for businesses. This system estimates the market value of patents, trademarks, and copyrights using legal and financial analytics.",
+        "keywords": ["Intellectual Property", "Legal Analytics", "Compliance", "Governance"]
+    },
+    { 
+        "id": 1838,
+        "title": "Cyber Law Compliance Checker",
+        "domain": "19",
+        "description": "Companies operating online must comply with cyber laws. The system audits digital operations for compliance with cybersecurity and data protection regulations.",
+        "keywords": ["Regulatory", "Data Privacy", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1839,
+        "title": "AI-Powered Policy Bias Mitigator",
+        "domain": "19",
+        "description": "Public policies often contain unconscious bias. This system analyzes draft policies, identifies biased content, and proposes neutral alternatives to ensure fairness.",
+        "keywords": ["Policy Analysis", "Ethics", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1840,
+        "title": "Legal Document Plagiarism Detector",
+        "domain": "19",
+        "description": "Law students and researchers often face plagiarism risks in legal texts. The tool checks originality of legal drafts against case laws and statutes.",
+        "keywords": ["Legal Research", "Legal Technology", "Ethics", "Governance"]
+    },
+    { 
+        "id": 1841,
+        "title": "AI-Powered Smart Legislation Tracker",
+        "domain": "19",
+        "description": "Tracking legislative updates is tedious for businesses. The system automatically monitors bills, amendments, and regulatory changes relevant to organizations.",
+        "keywords": ["Regulatory", "Compliance", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1842,
+        "title": "Digital Intellectual Property Rights Ledger",
+        "domain": "19",
+        "description": "IP records are fragmented across jurisdictions. This project builds a blockchain ledger for transparent and tamper-proof management of IP rights globally.",
+        "keywords": ["Intellectual Property", "Legal Technology", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1843,
+        "title": "AI-Driven Legal Education Assistant",
+        "domain": "19",
+        "description": "Law students need personalized study aids. The assistant provides summaries, quizzes, and case law examples aligned with syllabi and legal ethics.",
+        "keywords": ["Legal Research", "Legal Technology", "Governance", "Ethics"]
+    },
+    { 
+        "id": 1844,
+        "title": "Cross-Sector Ethical Policy Comparison Tool",
+        "domain": "19",
+        "description": "Ethical standards vary across industries. The tool compares sectoral policies for ethical alignment and highlights best practices for adoption.",
+        "keywords": ["Ethics", "Policy Analysis", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1845,
+        "title": "AI-Powered Legal Negotiation Assistant",
+        "domain": "19",
+        "description": "Contract negotiations often overlook compliance risks. This tool supports negotiations by analyzing clauses and suggesting compliant, ethical alternatives.",
+        "keywords": ["Contract Management", "Ethics", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1846,
+        "title": "Smart Freedom of Information Request Tracker",
+        "domain": "19",
+        "description": "Citizens struggle to track FOI requests. The system manages requests, monitors response timelines, and ensures compliance with transparency laws.",
+        "keywords": ["Governance", "Policy Analysis", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1847,
+        "title": "AI-Enhanced Court Backlog Analyzer",
+        "domain": "19",
+        "description": "Court backlogs delay justice. This solution analyzes case inflows, identifies bottlenecks, and suggests resource allocation strategies for courts.",
+        "keywords": ["Legal Analytics", "Governance", "Policy Analysis", "Legal Technology"]
+    },
+    { 
+        "id": 1848,
+        "title": "Digital Consumer Rights Compliance Checker",
+        "domain": "19",
+        "description": "Businesses often overlook consumer protection laws. The tool checks company practices for compliance with consumer rights regulations.",
+        "keywords": ["Compliance", "Regulatory", "Ethics", "Governance"]
+    },
+    { 
+        "id": 1849,
+        "title": "AI-Powered Legal Precedent Evolution Tracker",
+        "domain": "19",
+        "description": "Precedents evolve over time with changing interpretations. This system tracks precedent evolution and highlights its impact on ongoing cases.",
+        "keywords": ["Legal Research", "Governance", "Legal Analytics", "Legal Technology"]
+    },
+    { 
+        "id": 1850,
+        "title": "Smart Workplace Ethics Compliance Monitor",
+        "domain": "19",
+        "description": "Organizations face workplace harassment and ethics violations. The system monitors workplace policies and ensures compliance with legal and ethical standards.",
+        "keywords": ["Ethics", "Compliance", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1851,
+        "title": "AI-Driven Intellectual Property Dispute Predictor",
+        "domain": "19",
+        "description": "Businesses often face unexpected IP disputes. The predictor analyzes patents and trademarks to forecast likelihood of disputes and suggests preventive actions.",
+        "keywords": ["Intellectual Property", "Legal Analytics", "Compliance", "Governance"]
+    },
+    { 
+        "id": 1852,
+        "title": "Automated Regulatory Impact Assessment Tool",
+        "domain": "19",
+        "description": "New regulations impact industries unevenly. The system automates regulatory impact assessments to forecast financial, ethical, and governance implications.",
+        "keywords": ["Regulatory", "Policy Analysis", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1853,
+        "title": "AI-Powered Legal Ethics Tutor",
+        "domain": "19",
+        "description": "Law professionals and students often need training in ethics. This tutor uses case-based learning to teach ethical and compliance practices.",
+        "keywords": ["Ethics", "Legal Research", "Governance", "Compliance"]
+    },
+    { 
+        "id": 1854,
+        "title": "Smart Legal Language Comparator",
+        "domain": "19",
+        "description": "Legal language differs across jurisdictions. This comparator highlights differences in terminology and interpretation to avoid misapplication of foreign laws.",
+        "keywords": ["Legal Research", "Governance", "Compliance", "Legal Technology"]
+    },
+    { 
+        "id": 1855,
+        "title": "Global Cybersecurity Law Tracker",
+        "domain": "19",
+        "description": "Cybersecurity laws evolve rapidly across nations. This tracker monitors international cybersecurity regulations and alerts stakeholders to new compliance needs.",
+        "keywords": ["Data Privacy", "Regulatory", "Compliance", "Governance"]
+    },
+    { 
+        "id": 1856,
+        "title": "AI-Driven Legal Risk Heatmap",
+        "domain": "19",
+        "description": "Organizations need visualizations of legal risks. The heatmap highlights high-risk areas across compliance, contracts, and governance obligations.",
+        "keywords": ["Legal Analytics", "Compliance", "Governance", "Policy Analysis"]
+    },
+    { 
+        "id": 1857,
+        "title": "AI-Powered Smart Jury Selection Tool",
+        "domain": "19",
+        "description": "Jury selection processes are prone to bias. This tool analyzes demographic and ethical considerations to suggest fairer jury compositions.",
+        "keywords": ["Ethics", "Governance", "Legal Technology", "Legal Analytics"]
+    },
+    { 
+        "id": 1858,
+        "title": "Digital Transparency Compliance Index",
+        "domain": "19",
+        "description": "Governments and corporations lack clear transparency benchmarks. The index evaluates transparency practices based on compliance, ethics, and governance standards.",
+        "keywords": ["Governance", "Compliance", "Policy Analysis", "Ethics"]
+    },
+    { 
+        "id": 1859,
+        "title": "Smart Intellectual Property Licensing Manager",
+        "domain": "19",
+        "description": "Licensing IP assets across jurisdictions is complex. The system automates licensing workflows, ensures compliance with treaties, and prevents misuse.",
+        "keywords": ["Intellectual Property", "Contract Management", "Compliance", "Governance"]
+    },
+    { 
+        "id": 1860,
+        "title": "AI-Powered Litigation Strategy Advisor",
+        "domain": "19",
+        "description": "Lawyers require insights to design case strategies. The advisor analyzes case precedents, judge tendencies, and compliance risks to recommend optimal litigation paths.",
+        "keywords": ["Legal Research", "Legal Analytics", "Governance", "Legal Technology"]
+    },
+    { 
+        "id": 1861,
+        "title": "Automated Corporate Governance Benchmark Tool",
+        "domain": "19",
+        "description": "Corporations need benchmarking of governance practices. This tool evaluates companies against governance codes and compliance frameworks globally.",
+        "keywords": ["Governance", "Compliance", "Policy Analysis", "Legal Analytics"]
+    },
+    { 
+        "id": 1862,
+        "title": "Smart Legal Risk Reporting Assistant",
+        "domain": "19",
+        "description": "Organizations often lack structured legal risk reports. The assistant generates automated reports covering compliance, governance, and regulatory risks.",
+        "keywords": ["Compliance", "Governance", "Legal Analytics", "Regulatory"]
+    },
+//Social & Civic(domain-20)
+{ 
+  "id": 1863,
+  "title": "Civic Engagement Tracker",
+  "domain": "20",
+  "description": "Develop a digital platform that motivates citizens to participate in local governance by tracking their civic activities and providing rewards for engagement.",
+  "keywords": ["Civic Engagement", "Community Development", "Democracy", "Inclusion"]
+},
+{ 
+  "id": 1864,
+  "title": "Social Innovation Hub",
+  "domain": "20",
+  "description": "Create an online hub that connects innovators working on social challenges with mentors, investors, and community organizations to scale impact.",
+  "keywords": ["Social Innovation", "Community Development", "Social Justice", "Inclusion"]
+},
+{ 
+  "id": 1865,
+  "title": "Digital Divide Mapper",
+  "domain": "20",
+  "description": "Build an interactive map that highlights regions with limited internet access and suggests targeted interventions to reduce the digital divide.",
+  "keywords": ["Digital Divide", "Accessibility", "Community Development", "Transparency"]
+},
+{ 
+  "id": 1866,
+  "title": "Inclusive Voting Assistant",
+  "domain": "20",
+  "description": "Design an accessible voting guide application that supports people with disabilities by providing voice assistance, simplified instructions, and multi-language support.",
+  "keywords": ["Accessibility", "Democracy", "Inclusion", "Public Services"]
+},
+{ 
+  "id": 1867,
+  "title": "Human Rights Violation Reporter",
+  "domain": "20",
+  "description": "Develop a secure mobile application for anonymously reporting human rights violations with real-time tracking and evidence submission.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Civic Engagement"]
+},
+{ 
+  "id": 1868,
+  "title": "Civic Policy Feedback System",
+  "domain": "20",
+  "description": "Create an online tool that allows citizens to provide structured feedback on proposed policies, enhancing democratic decision-making.",
+  "keywords": ["Civic Engagement", "Democracy", "Transparency", "Inclusion"]
+},
+{ 
+  "id": 1869,
+  "title": "Community Development Dashboard",
+  "domain": "20",
+  "description": "Design a real-time dashboard that tracks key indicators of community development such as education, healthcare, and housing progress.",
+  "keywords": ["Community Development", "Transparency", "Social Justice", "Public Services"]
+},
+{ 
+  "id": 1870,
+  "title": "Accessibility in Public Transport",
+  "domain": "20",
+  "description": "Build a crowdsourced app that rates public transport systems based on accessibility for people with disabilities and suggests improvements.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Community Development"]
+},
+{ 
+  "id": 1871,
+  "title": "Open Democracy Platform",
+  "domain": "20",
+  "description": "Develop a civic tech platform where citizens can propose laws, discuss reforms, and vote on community initiatives to foster participatory democracy.",
+  "keywords": ["Democracy", "Civic Engagement", "Transparency", "Social Innovation"]
+},
+{ 
+  "id": 1872,
+  "title": "Transparency in Local Governance",
+  "domain": "20",
+  "description": "Create an AI-driven system that analyzes municipal budgets and spending data to ensure transparency and accountability.",
+  "keywords": ["Transparency", "Public Services", "Civic Engagement", "Community Development"]
+},
+{ 
+  "id": 1873,
+  "title": "Social Justice Education App",
+  "domain": "20",
+  "description": "Design a gamified mobile app that educates users on social justice, equality, and human rights through interactive stories.",
+  "keywords": ["Social Justice", "Human Rights", "Inclusion", "Social Innovation"]
+},
+{ 
+  "id": 1874,
+  "title": "Inclusion Scorecard",
+  "domain": "20",
+  "description": "Build a digital tool to measure and track inclusivity in workplaces, schools, and communities, providing actionable insights for improvement.",
+  "keywords": ["Inclusion", "Community Development", "Transparency", "Social Justice"]
+},
+{ 
+  "id": 1875,
+  "title": "Public Service Accessibility Checker",
+  "domain": "20",
+  "description": "Develop an application that evaluates the accessibility of government services for marginalized groups and provides improvement suggestions.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Civic Engagement"]
+},
+{ 
+  "id": 1876,
+  "title": "Digital Civic Classroom",
+  "domain": "20",
+  "description": "Create an e-learning platform focused on civic literacy, teaching young citizens about democracy, rights, and responsibilities.",
+  "keywords": ["Democracy", "Civic Engagement", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1877,
+  "title": "Community Volunteering App",
+  "domain": "20",
+  "description": "Build a mobile app that connects volunteers with local NGOs and community development projects to encourage social participation.",
+  "keywords": ["Community Development", "Civic Engagement", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1878,
+  "title": "Transparent Welfare Distribution",
+  "domain": "20",
+  "description": "Design a blockchain-based system for transparent distribution of welfare benefits to eliminate corruption and ensure fairness.",
+  "keywords": ["Transparency", "Public Services", "Social Justice", "Human Rights"]
+},
+{ 
+  "id": 1879,
+  "title": "Digital Petition Platform",
+  "domain": "20",
+  "description": "Create a secure digital petition system where citizens can raise social issues and gather support for change at local and national levels.",
+  "keywords": ["Civic Engagement", "Democracy", "Transparency", "Community Development"]
+},
+{ 
+  "id": 1880,
+  "title": "Accessibility AI Assistant",
+  "domain": "20",
+  "description": "Develop an AI assistant that helps visually or hearing-impaired individuals navigate digital public service platforms easily.",
+  "keywords": ["Accessibility", "AI", "Public Services", "Inclusion"]
+},
+{ 
+  "id": 1881,
+  "title": "Civic Engagement Gamification",
+  "domain": "20",
+  "description": "Design a gamified platform that rewards citizens for participating in local governance, attending meetings, and voting.",
+  "keywords": ["Civic Engagement", "Democracy", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1882,
+  "title": "Human Rights Data Portal",
+  "domain": "20",
+  "description": "Build a centralized portal that consolidates reports, statistics, and policies on human rights for easy access and analysis.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Civic Engagement"]
+},
+{ 
+  "id": 1883,
+  "title": "Inclusive Education Platform",
+  "domain": "20",
+  "description": "Create a digital platform that ensures educational resources are accessible to underprivileged and differently-abled students.",
+  "keywords": ["Inclusion", "Accessibility", "Community Development", "Social Innovation"]
+},
+{ 
+  "id": 1884,
+  "title": "Democracy Simulation Game",
+  "domain": "20",
+  "description": "Develop an educational game that simulates democratic processes such as elections, debates, and policymaking to build civic awareness.",
+  "keywords": ["Democracy", "Civic Engagement", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1885,
+  "title": "Community Problem-Solving Portal",
+  "domain": "20",
+  "description": "Design an online platform where citizens can submit local problems and collaboratively propose solutions with civic authorities.",
+  "keywords": ["Civic Engagement", "Community Development", "Transparency", "Social Innovation"]
+},
+{ 
+  "id": 1886,
+  "title": "Social Justice Podcast Platform",
+  "domain": "20",
+  "description": "Create a podcast platform dedicated to raising awareness about social justice issues and promoting diverse community voices.",
+  "keywords": ["Social Justice", "Inclusion", "Human Rights", "Community Development"]
+},
+{ 
+  "id": 1887,
+  "title": "Transparent Election Funding Tracker",
+  "domain": "20",
+  "description": "Develop a system to track and visualize political campaign funding sources to promote transparency in elections.",
+  "keywords": ["Transparency", "Democracy", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1888,
+  "title": "Public Service Feedback App",
+  "domain": "20",
+  "description": "Design a mobile app where citizens can rate and review public services, helping governments improve quality and efficiency.",
+  "keywords": ["Public Services", "Civic Engagement", "Transparency", "Inclusion"]
+},
+{ 
+  "id": 1889,
+  "title": "Community Crowdfunding Platform",
+  "domain": "20",
+  "description": "Develop a civic crowdfunding platform where citizens can fund local development projects like parks, libraries, and community centers.",
+  "keywords": ["Community Development", "Civic Engagement", "Social Innovation", "Transparency"]
+},
+{ 
+  "id": 1890,
+  "title": "Digital Inclusion Toolkit",
+  "domain": "20",
+  "description": "Create a toolkit with resources, training modules, and apps to bridge the digital divide in underserved communities.",
+  "keywords": ["Digital Divide", "Accessibility", "Inclusion", "Community Development"]
+},
+{ 
+  "id": 1891,
+  "title": "AI Policy Translator",
+  "domain": "20",
+  "description": "Build an AI-based app that translates complex policy documents into simple language for better civic understanding.",
+  "keywords": ["Transparency", "Civic Engagement", "Democracy", "Accessibility"]
+},
+{ 
+  "id": 1892,
+  "title": "Human Rights Chatbot",
+  "domain": "20",
+  "description": "Design a chatbot that educates citizens about their rights and provides quick legal aid references for common issues.",
+  "keywords": ["Human Rights", "Inclusion", "Accessibility", "Social Justice"]
+},
+{ 
+  "id": 1893,
+  "title": "Open Budget Explorer",
+  "domain": "20",
+  "description": "Develop a visualization tool to make government budget data more accessible and understandable for citizens.",
+  "keywords": ["Transparency", "Public Services", "Democracy", "Civic Engagement"]
+},
+{ 
+  "id": 1894,
+  "title": "Civic Data Open API",
+  "domain": "20",
+  "description": "Create an open API that provides developers with real-time access to civic datasets for building social impact apps.",
+  "keywords": ["Transparency", "Civic Engagement", "Social Innovation", "Public Services"]
+},
+{ 
+  "id": 1895,
+  "title": "Emergency Accessibility Map",
+  "domain": "20",
+  "description": "Build a platform that maps emergency shelters, hospitals, and relief centers with accessibility ratings for differently-abled people.",
+  "keywords": ["Accessibility", "Public Services", "Community Development", "Inclusion"]
+},
+{ 
+  "id": 1896,
+  "title": "Democracy Debate Platform",
+  "domain": "20",
+  "description": "Design an online debate space where citizens can discuss national and local issues with moderation and fact-checking.",
+  "keywords": ["Democracy", "Civic Engagement", "Transparency", "Social Innovation"]
+},
+{ 
+  "id": 1897,
+  "title": "Community Justice Tracker",
+  "domain": "20",
+  "description": "Create a digital platform to track and report local social justice initiatives, ensuring accountability and visibility.",
+  "keywords": ["Social Justice", "Transparency", "Civic Engagement", "Community Development"]
+},
+{ 
+  "id": 1898,
+  "title": "Accessible E-Governance App",
+  "domain": "20",
+  "description": "Develop an inclusive e-governance mobile app that supports screen readers, local languages, and simplified forms.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Democracy"]
+},
+{ 
+  "id": 1899,
+  "title": "Digital Civic Rewards System",
+  "domain": "20",
+  "description": "Create a civic engagement platform that rewards users with credits for volunteering, voting, and attending civic meetings.",
+  "keywords": ["Civic Engagement", "Community Development", "Democracy", "Social Innovation"]
+},
+{ 
+  "id": 1900,
+  "title": "Citizen Safety Reporter",
+  "domain": "20",
+  "description": "Design a crowdsourced mobile application for citizens to report unsafe areas, harassment, or lack of public safety measures.",
+  "keywords": ["Human Rights", "Public Services", "Social Justice", "Transparency"]
+},
+{ 
+  "id": 1901,
+  "title": "Civic Innovation Hackathon Portal",
+  "domain": "20",
+  "description": "Develop a platform to organize hackathons and challenges focused on solving civic and social impact problems.",
+  "keywords": ["Social Innovation", "Civic Engagement", "Community Development", "Democracy"]
+},
+{ 
+  "id": 1902,
+  "title": "Transparency Newsroom",
+  "domain": "20",
+  "description": "Build a portal that collaborates with journalists to publish easy-to-read reports on government performance and spending.",
+  "keywords": ["Transparency", "Democracy", "Social Justice", "Civic Engagement"]
+},
+{ 
+  "id": 1903,
+  "title": "Inclusive Disaster Response App",
+  "domain": "20",
+  "description": "Create a disaster management app that ensures inclusion of vulnerable groups by providing real-time alerts in multiple formats.",
+  "keywords": ["Accessibility", "Inclusion", "Public Services", "Community Development"]
+},
+{ 
+  "id": 1904,
+  "title": "Civic AI Fact Checker",
+  "domain": "20",
+  "description": "Design an AI-based civic fact-checking platform to combat misinformation in elections and policy discussions.",
+  "keywords": ["Democracy", "Transparency", "Civic Engagement", "Human Rights"]
+},
+{ 
+  "id": 1905,
+  "title": "Human Rights Curriculum Builder",
+  "domain": "20",
+  "description": "Develop a digital curriculum generator for schools to incorporate human rights and social justice education into classrooms.",
+  "keywords": ["Human Rights", "Social Justice", "Education", "Inclusion"]
+},
+{ 
+  "id": 1906,
+  "title": "Local Governance Feedback Loop",
+  "domain": "20",
+  "description": "Build a feedback mechanism where citizens can directly evaluate the performance of local governance bodies.",
+  "keywords": ["Civic Engagement", "Democracy", "Transparency", "Community Development"]
+},
+{ 
+  "id": 1907,
+  "title": "Accessible Job Portal for All",
+  "domain": "20",
+  "description": "Create a job platform that ensures accessibility for differently-abled individuals and supports inclusion in employment.",
+  "keywords": ["Accessibility", "Inclusion", "Social Justice", "Community Development"]
+},
+{ 
+  "id": 1908,
+  "title": "Public Services AI Assistant",
+  "domain": "20",
+  "description": "Develop an AI assistant that guides citizens through government services, reducing confusion and improving accessibility.",
+  "keywords": ["Public Services", "Accessibility", "Transparency", "Inclusion"]
+},
+{ 
+  "id": 1909,
+  "title": "Civic Engagement VR Experience",
+  "domain": "20",
+  "description": "Design a virtual reality experience that immerses citizens in democratic processes like parliaments, elections, and protests.",
+  "keywords": ["Civic Engagement", "Democracy", "Social Innovation", "Education"]
+},
+{ 
+  "id": 1910,
+  "title": "Transparency Blockchain Ledger",
+  "domain": "20",
+  "description": "Create a blockchain-based ledger to track government contracts and procurement, ensuring open and tamper-proof records.",
+  "keywords": ["Transparency", "Public Services", "Democracy", "Community Development"]
+},
+{ 
+  "id": 1911,
+  "title": "Community Collaboration Network",
+  "domain": "20",
+  "description": "Develop a social networking platform where citizens, NGOs, and governments collaborate on community improvement projects.",
+  "keywords": ["Community Development", "Civic Engagement", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1912,
+  "title": "Digital Human Rights Archive",
+  "domain": "20",
+  "description": "Build a digital archive that documents human rights struggles and milestones to preserve history and spread awareness.",
+  "keywords": ["Human Rights", "Social Justice", "Transparency", "Inclusion"]
+},
+{ 
+  "id": 1913,
+  "title": "Smart Civic Survey Platform",
+  "domain": "20",
+  "description": "Create an AI-powered survey system that gathers citizen feedback on public services and ensures data-driven decision-making.",
+  "keywords": ["Civic Engagement", "Transparency", "Public Services", "Democracy"]
+},
+{ 
+  "id": 1914,
+  "title": "Inclusive Transport Navigation",
+  "domain": "20",
+  "description": "Design a navigation app that highlights inclusive transport routes for elderly, differently-abled, and vulnerable groups.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Community Development"]
+},
+{ 
+  "id": 1915,
+  "title": "Civic Volunteer Matching System",
+  "domain": "20",
+  "description": "Develop a smart system that matches volunteers with NGOs and community projects based on skills, location, and availability.",
+  "keywords": ["Civic Engagement", "Community Development", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1916,
+  "title": "Accessible Voting Awareness App",
+  "domain": "20",
+  "description": "Create a mobile app that provides information on voting rights, polling stations, and accessibility features for citizens with disabilities.",
+  "keywords": ["Accessibility", "Democracy", "Civic Engagement", "Inclusion"]
+},
+{ 
+  "id": 1917,
+  "title": "Human Rights Protection Hotline",
+  "domain": "20",
+  "description": "Design a secure hotline and digital platform for reporting and tracking human rights abuses in real time.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Public Services"]
+},
+{ 
+  "id": 1918,
+  "title": "Civic Education Microlearning Platform",
+  "domain": "20",
+  "description": "Develop a microlearning platform that provides bite-sized lessons on civic duties, democracy, and social justice.",
+  "keywords": ["Democracy", "Civic Engagement", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1919,
+  "title": "Community Health Transparency Portal",
+  "domain": "20",
+  "description": "Build a digital portal that tracks public health resources, availability of doctors, and community health outcomes.",
+  "keywords": ["Public Services", "Transparency", "Community Development", "Inclusion"]
+},
+{ 
+  "id": 1920,
+  "title": "Digital Divide Awareness Campaign",
+  "domain": "20",
+  "description": "Create an interactive campaign that educates citizens about the digital divide and promotes digital literacy programs.",
+  "keywords": ["Digital Divide", "Inclusion", "Accessibility", "Community Development"]
+},
+{ 
+  "id": 1921,
+  "title": "Civic Accountability Scorecard",
+  "domain": "20",
+  "description": "Design a scorecard that rates elected representatives based on transparency, responsiveness, and policy implementation.",
+  "keywords": ["Transparency", "Democracy", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1922,
+  "title": "Social Justice Storytelling Platform",
+  "domain": "20",
+  "description": "Develop a storytelling app where marginalized communities can share experiences to raise awareness and inspire change.",
+  "keywords": ["Social Justice", "Inclusion", "Human Rights", "Community Development"]
+},
+{ 
+  "id": 1923,
+  "title": "Open Data for Civic Research",
+  "domain": "20",
+  "description": "Create a repository of open civic datasets for researchers, students, and NGOs to analyze and propose policy improvements.",
+  "keywords": ["Transparency", "Civic Engagement", "Community Development", "Social Innovation"]
+},
+{ 
+  "id": 1924,
+  "title": "Accessible Emergency Alerts",
+  "domain": "20",
+  "description": "Develop a multi-channel emergency alert system with voice, text, and sign-language video notifications.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Community Development"]
+},
+{ 
+  "id": 1925,
+  "title": "Democracy Literacy Chatbot",
+  "domain": "20",
+  "description": "Build a chatbot that answers citizens’ questions about democratic institutions, rights, and processes in simple terms.",
+  "keywords": ["Democracy", "Civic Engagement", "Education", "Transparency"]
+},
+{ 
+  "id": 1926,
+  "title": "Community Idea Incubator",
+  "domain": "20",
+  "description": "Design a civic tech incubator where citizens can pitch ideas for local development and collaborate with authorities to implement them.",
+  "keywords": ["Community Development", "Civic Engagement", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1927,
+  "title": "Public Services Rating System",
+  "domain": "20",
+  "description": "Create a transparent rating and review system for healthcare, transport, and education services provided by governments.",
+  "keywords": ["Public Services", "Transparency", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1928,
+  "title": "AI-Powered Civic Sentiment Analyzer",
+  "domain": "20",
+  "description": "Build an AI tool that analyzes citizen feedback on governance and identifies priority areas for policy action.",
+  "keywords": ["Civic Engagement", "Democracy", "Transparency", "Social Innovation"]
+},
+{ 
+  "id": 1929,
+  "title": "Human Rights Knowledge Hub",
+  "domain": "20",
+  "description": "Develop a centralized platform with educational resources, case studies, and training on global human rights issues.",
+  "keywords": ["Human Rights", "Education", "Social Justice", "Inclusion"]
+},
+{ 
+  "id": 1930,
+  "title": "Inclusive Smart City Planner",
+  "domain": "20",
+  "description": "Design a smart city planning tool that ensures infrastructure and public services meet accessibility and inclusivity standards.",
+  "keywords": ["Accessibility", "Inclusion", "Community Development", "Public Services"]
+},
+{ 
+  "id": 1931,
+  "title": "Civic Engagement Leaderboard",
+  "domain": "20",
+  "description": "Create a leaderboard that ranks citizens and organizations based on contributions to civic engagement and social causes.",
+  "keywords": ["Civic Engagement", "Community Development", "Social Innovation", "Transparency"]
+},
+{ 
+  "id": 1932,
+  "title": "Transparency Watchdog Platform",
+  "domain": "20",
+  "description": "Build a platform where citizens can monitor and report corruption or misuse of public funds anonymously.",
+  "keywords": ["Transparency", "Social Justice", "Democracy", "Public Services"]
+},
+{ 
+  "id": 1933,
+  "title": "Community Mental Health Network",
+  "domain": "20",
+  "description": "Develop an online support network that connects mental health professionals with communities in need of counseling.",
+  "keywords": ["Community Development", "Inclusion", "Public Services", "Social Innovation"]
+},
+{ 
+  "id": 1934,
+  "title": "Democracy VR Education Lab",
+  "domain": "20",
+  "description": "Create a VR-based lab that teaches democratic processes through immersive experiences like mock elections and debates.",
+  "keywords": ["Democracy", "Education", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1935,
+  "title": "Public Grievance Redressal Portal",
+  "domain": "20",
+  "description": "Design a grievance redressal platform where citizens can log complaints about public services and track resolution progress.",
+  "keywords": ["Public Services", "Transparency", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1936,
+  "title": "Accessible e-Court System",
+  "domain": "20",
+  "description": "Develop a digital court system that provides accessibility features for citizens with disabilities and multilingual support.",
+  "keywords": ["Accessibility", "Public Services", "Human Rights", "Inclusion"]
+},
+{ 
+  "id": 1937,
+  "title": "Civic Data Journalism Toolkit",
+  "domain": "20",
+  "description": "Build a toolkit for journalists to analyze open civic data and create impactful stories promoting accountability.",
+  "keywords": ["Transparency", "Civic Engagement", "Democracy", "Social Innovation"]
+},
+{ 
+  "id": 1938,
+  "title": "Social Justice Hackathon Network",
+  "domain": "20",
+  "description": "Organize a global hackathon series for developers to create solutions addressing inequality and human rights challenges.",
+  "keywords": ["Social Justice", "Human Rights", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1939,
+  "title": "Community Renewable Energy Tracker",
+  "domain": "20",
+  "description": "Develop a transparent system to track renewable energy projects in communities and promote sustainable development.",
+  "keywords": ["Community Development", "Transparency", "Social Innovation", "Public Services"]
+},
+{ 
+  "id": 1940,
+  "title": "Inclusive Civic Polling Platform",
+  "domain": "20",
+  "description": "Create a polling platform that ensures inclusive participation by offering accessibility features and multilingual options.",
+  "keywords": ["Democracy", "Civic Engagement", "Inclusion", "Accessibility"]
+},
+{ 
+  "id": 1941,
+  "title": "Civic Engagement Mobile Game",
+  "domain": "20",
+  "description": "Develop a mobile game that encourages players to learn civic duties, solve community problems, and participate in virtual elections.",
+  "keywords": ["Civic Engagement", "Democracy", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1942,
+  "title": "Open Contract Transparency Tool",
+  "domain": "20",
+  "description": "Create a tool that tracks government procurement contracts and visualizes them for citizens to ensure fair practices.",
+  "keywords": ["Transparency", "Public Services", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1943,
+  "title": "Inclusive Public Feedback System",
+  "domain": "20",
+  "description": "Design an inclusive digital feedback system where differently-abled and marginalized groups can voice their concerns on public policies.",
+  "keywords": ["Inclusion", "Accessibility", "Democracy", "Public Services"]
+},
+{ 
+  "id": 1944,
+  "title": "Human Rights Digital Library",
+  "domain": "20",
+  "description": "Develop a digital library that archives human rights reports, case laws, and awareness material accessible to all.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Inclusion"]
+},
+{ 
+  "id": 1945,
+  "title": "Civic Problem Solver AI",
+  "domain": "20",
+  "description": "Build an AI system that analyzes local issues reported by citizens and suggests possible community-driven solutions.",
+  "keywords": ["Civic Engagement", "Community Development", "Social Innovation", "Transparency"]
+},
+{ 
+  "id": 1946,
+  "title": "Public Services Accessibility Audit",
+  "domain": "20",
+  "description": "Create a digital audit tool that evaluates accessibility in hospitals, schools, and transport systems, highlighting gaps.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Transparency"]
+},
+{ 
+  "id": 1947,
+  "title": "Democracy Simulation Workshop",
+  "domain": "20",
+  "description": "Design a workshop platform that simulates real-world democratic decision-making for schools and colleges.",
+  "keywords": ["Democracy", "Civic Engagement", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1948,
+  "title": "Community Food Security Tracker",
+  "domain": "20",
+  "description": "Build a civic platform that monitors food distribution programs, ensuring transparency and equal access for all citizens.",
+  "keywords": ["Public Services", "Transparency", "Social Justice", "Community Development"]
+},
+{ 
+  "id": 1949,
+  "title": "Social Impact Startup Network",
+  "domain": "20",
+  "description": "Develop a networking platform that connects social impact startups with investors, mentors, and local communities.",
+  "keywords": ["Social Innovation", "Community Development", "Inclusion", "Civic Engagement"]
+},
+{ 
+  "id": 1950,
+  "title": "Civic Budget Simulator",
+  "domain": "20",
+  "description": "Create an interactive simulator that allows citizens to allocate a virtual government budget and learn about trade-offs in policymaking.",
+  "keywords": ["Democracy", "Transparency", "Civic Engagement", "Education"]
+},
+{ 
+  "id": 1951,
+  "title": "Human Rights Global Map",
+  "domain": "20",
+  "description": "Design an interactive world map that highlights ongoing human rights issues, case studies, and policy responses.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Inclusion"]
+},
+{ 
+  "id": 1952,
+  "title": "Inclusive Civic Campaign Builder",
+  "domain": "20",
+  "description": "Develop a platform where NGOs and citizens can create civic campaigns with accessible templates and multi-language features.",
+  "keywords": ["Civic Engagement", "Inclusion", "Accessibility", "Social Innovation"]
+},
+{ 
+  "id": 1953,
+  "title": "Transparency Whistleblower Portal",
+  "domain": "20",
+  "description": "Create a secure and anonymous whistleblower portal to report corruption in public offices and track resolution.",
+  "keywords": ["Transparency", "Social Justice", "Democracy", "Public Services"]
+},
+{ 
+  "id": 1954,
+  "title": "Community Development Tracker",
+  "domain": "20",
+  "description": "Build a civic dashboard that tracks progress in community projects like sanitation, housing, and employment generation.",
+  "keywords": ["Community Development", "Transparency", "Public Services", "Civic Engagement"]
+},
+{ 
+  "id": 1955,
+  "title": "Civic Digital Literacy Workshops",
+  "domain": "20",
+  "description": "Design a series of digital workshops that teach citizens how to access e-governance platforms and civic services online.",
+  "keywords": ["Digital Divide", "Accessibility", "Civic Engagement", "Inclusion"]
+},
+{ 
+  "id": 1956,
+  "title": "Democracy Engagement Analytics",
+  "domain": "20",
+  "description": "Develop an analytics platform that measures citizen engagement in elections, public meetings, and civic platforms.",
+  "keywords": ["Democracy", "Civic Engagement", "Transparency", "Community Development"]
+},
+{ 
+  "id": 1957,
+  "title": "Accessible Housing Rights App",
+  "domain": "20",
+  "description": "Create a mobile app that informs citizens about housing rights and provides tools for reporting housing discrimination.",
+  "keywords": ["Human Rights", "Social Justice", "Accessibility", "Inclusion"]
+},
+{ 
+  "id": 1958,
+  "title": "Social Justice Crowdsourcing Hub",
+  "domain": "20",
+  "description": "Build a hub where citizens can propose, fund, and collaborate on social justice projects within their communities.",
+  "keywords": ["Social Justice", "Civic Engagement", "Community Development", "Transparency"]
+},
+{ 
+  "id": 1959,
+  "title": "Civic Tech Podcast Network",
+  "domain": "20",
+  "description": "Develop a podcast network dedicated to civic tech discussions, innovations, and case studies from across the world.",
+  "keywords": ["Social Innovation", "Civic Engagement", "Democracy", "Community Development"]
+},
+{ 
+  "id": 1960,
+  "title": "Public Services Accessibility Map",
+  "domain": "20",
+  "description": "Create a geospatial map that highlights public service points such as hospitals and schools with their accessibility ratings.",
+  "keywords": ["Accessibility", "Public Services", "Inclusion", "Transparency"]
+},
+{ 
+  "id": 1961,
+  "title": "Civic Engagement Online Polls",
+  "domain": "20",
+  "description": "Design a polling platform where citizens can express views on policies, with features ensuring inclusivity and accessibility.",
+  "keywords": ["Civic Engagement", "Democracy", "Inclusion", "Accessibility"]
+},
+{ 
+  "id": 1962,
+  "title": "Human Rights Case Analyzer",
+  "domain": "20",
+  "description": "Develop an AI-powered analyzer that studies past human rights cases and provides legal insights for advocacy groups.",
+  "keywords": ["Human Rights", "Social Justice", "Transparency", "Civic Engagement"]
+},
+{ 
+  "id": 1963,
+  "title": "Transparency Media Portal",
+  "domain": "20",
+  "description": "Create a media portal where journalists and citizens collaborate to investigate and publish civic transparency reports.",
+  "keywords": ["Transparency", "Democracy", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1964,
+  "title": "Community Volunteer Recognition App",
+  "domain": "20",
+  "description": "Design an app that recognizes and rewards citizens for community volunteering through certifications and digital badges.",
+  "keywords": ["Community Development", "Civic Engagement", "Social Innovation", "Inclusion"]
+},
+{ 
+  "id": 1965,
+  "title": "Inclusive Public Debate Platform",
+  "domain": "20",
+  "description": "Develop a civic debate platform that includes sign-language interpretation, subtitles, and translation to ensure accessibility.",
+  "keywords": ["Democracy", "Inclusion", "Accessibility", "Civic Engagement"]
+},
+{ 
+  "id": 1966,
+  "title": "Social Justice Data Visualizer",
+  "domain": "20",
+  "description": "Build a data visualization platform that highlights inequalities in education, income, and healthcare across regions.",
+  "keywords": ["Social Justice", "Transparency", "Community Development", "Human Rights"]
+},
+{ 
+  "id": 1967,
+  "title": "Citizen Policy Suggestion Portal",
+  "domain": "20",
+  "description": "Develop a portal where citizens can propose and vote on policy ideas, enabling participatory democracy.",
+  "keywords": ["Democracy", "Civic Engagement", "Transparency", "Social Innovation"]
+},
+{ 
+  "id": 1968,
+  "title": "Digital Rights Awareness App",
+  "domain": "20",
+  "description": "Create a mobile app that educates people on their digital rights, online safety, and reporting mechanisms.",
+  "keywords": ["Human Rights", "Digital Divide", "Education", "Inclusion"]
+},
+{ 
+  "id": 1969,
+  "title": "Community Legal Aid Bot",
+  "domain": "20",
+  "description": "Design a chatbot that provides basic legal aid and connects users to local lawyers and advocacy groups.",
+  "keywords": ["Social Justice", "Human Rights", "Accessibility", "Community Development"]
+},
+{ 
+  "id": 1970,
+  "title": "Open Data Civic Lab",
+  "domain": "20",
+  "description": "Develop a platform that provides citizens and researchers with access to open government datasets for analysis.",
+  "keywords": ["Transparency", "Civic Engagement", "Social Innovation", "Democracy"]
+},
+{ 
+  "id": 1971,
+  "title": "Inclusive Election Information Hub",
+  "domain": "20",
+  "description": "Create an accessible hub with voting guides, candidate profiles, and real-time election updates in multiple languages.",
+  "keywords": ["Democracy", "Accessibility", "Inclusion", "Civic Engagement"]
+},
+{ 
+  "id": 1972,
+  "title": "Civic Crowdfunding Platform",
+  "domain": "20",
+  "description": "Build a crowdfunding platform dedicated to raising funds for local social impact and civic projects.",
+  "keywords": ["Community Development", "Social Innovation", "Civic Engagement", "Transparency"]
+},
+{ 
+  "id": 1973,
+  "title": "Public Grievance AI Analyzer",
+  "domain": "20",
+  "description": "Design an AI tool that analyzes grievances submitted to government portals and categorizes them for faster resolution.",
+  "keywords": ["Public Services", "Transparency", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1974,
+  "title": "Human Rights Reporting Dashboard",
+  "domain": "20",
+  "description": "Develop a real-time dashboard that aggregates human rights violation reports from NGOs and citizens worldwide.",
+  "keywords": ["Human Rights", "Transparency", "Social Justice", "Community Development"]
+},
+{ 
+  "id": 1975,
+  "title": "Civic Engagement Gamified Quiz",
+  "domain": "20",
+  "description": "Create an interactive quiz app that rewards citizens for learning about governance, rights, and responsibilities.",
+  "keywords": ["Civic Engagement", "Democracy", "Education", "Social Innovation"]
+},
+{ 
+  "id": 1976,
+  "title": "Accessibility Scorecard for Cities",
+  "domain": "20",
+  "description": "Build a scorecard system that evaluates and ranks cities based on accessibility in transport, housing, and healthcare.",
+  "keywords": ["Accessibility", "Inclusion", "Transparency", "Community Development"]
+},
+{ 
+  "id": 1977,
+  "title": "Civic Misinformation Detector",
+  "domain": "20",
+  "description": "Design a fact-checking platform that identifies misinformation in civic news and election campaigns.",
+  "keywords": ["Transparency", "Democracy", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1978,
+  "title": "Social Innovation Idea Exchange",
+  "domain": "20",
+  "description": "Develop a collaborative platform where citizens can exchange ideas and prototypes for civic and social innovation.",
+  "keywords": ["Social Innovation", "Civic Engagement", "Community Development", "Inclusion"]
+},
+{ 
+  "id": 1979,
+  "title": "Citizen-Government Messaging App",
+  "domain": "20",
+  "description": "Create a secure messaging app where citizens can directly communicate with local government representatives.",
+  "keywords": ["Civic Engagement", "Transparency", "Public Services", "Democracy"]
+},
+{ 
+  "id": 1980,
+  "title": "Civic Engagement AR Experience",
+  "domain": "20",
+  "description": "Design an augmented reality experience that educates people about civic monuments, history, and governance processes.",
+  "keywords": ["Civic Engagement", "Education", "Democracy", "Social Innovation"]
+},
+{ 
+  "id": 1981,
+  "title": "Community Issue Heatmap",
+  "domain": "20",
+  "description": "Build a heatmap visualization that highlights areas with frequent civic complaints like sanitation or electricity issues.",
+  "keywords": ["Transparency", "Community Development", "Public Services", "Civic Engagement"]
+},
+{ 
+  "id": 1982,
+  "title": "Inclusive Public Policy Forum",
+  "domain": "20",
+  "description": "Develop an online forum where citizens from diverse backgrounds can discuss and co-create inclusive public policies.",
+  "keywords": ["Inclusion", "Democracy", "Civic Engagement", "Social Justice"]
+},
+{ 
+  "id": 1983,
+  "title": "Digital Divide Monitoring Tool",
+  "domain": "20",
+  "description": "Create a tool that tracks internet accessibility and digital literacy gaps across urban and rural regions.",
+  "keywords": ["Digital Divide", "Accessibility", "Transparency", "Inclusion"]
+},
+{ 
+  "id": 1984,
+  "title": "Civic Transparency Blockchain",
+  "domain": "20",
+  "description": "Develop a blockchain-based platform to record government tenders, budgets, and audits for public viewing.",
+  "keywords": ["Transparency", "Democracy", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1985,
+  "title": "Human Rights Education VR",
+  "domain": "20",
+  "description": "Design a VR learning experience that immerses users in real-world human rights struggles and advocacy lessons.",
+  "keywords": ["Human Rights", "Education", "Social Justice", "Inclusion"]
+},
+{ 
+  "id": 1986,
+  "title": "Civic Engagement SMS Alerts",
+  "domain": "20",
+  "description": "Build an SMS-based civic engagement platform for areas with low internet penetration to inform citizens about policies.",
+  "keywords": ["Civic Engagement", "Digital Divide", "Democracy", "Inclusion"]
+},
+{ 
+  "id": 1987,
+  "title": "Community Disaster Response Hub",
+  "domain": "20",
+  "description": "Develop a civic hub that coordinates citizen volunteers and public services during natural disasters.",
+  "keywords": ["Community Development", "Public Services", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1988,
+  "title": "Accessibility Complaint Tracker",
+  "domain": "20",
+  "description": "Create a platform for citizens to submit accessibility complaints in public buildings and track resolutions.",
+  "keywords": ["Accessibility", "Inclusion", "Transparency", "Public Services"]
+},
+{ 
+  "id": 1989,
+  "title": "Civic Data Storytelling Platform",
+  "domain": "20",
+  "description": "Build a storytelling tool that converts civic datasets into easy-to-understand narratives for citizens.",
+  "keywords": ["Transparency", "Education", "Civic Engagement", "Social Innovation"]
+},
+{ 
+  "id": 1990,
+  "title": "Human Rights Advocacy AI",
+  "domain": "20",
+  "description": "Design an AI-powered assistant that drafts advocacy letters, petitions, and reports for human rights activists.",
+  "keywords": ["Human Rights", "Social Justice", "Transparency", "Civic Engagement"]
+},
+{ 
+  "id": 1991,
+  "title": "Civic Hackathon Network",
+  "domain": "20",
+  "description": "Create a global network of hackathons focused on solving civic tech and social impact challenges.",
+  "keywords": ["Civic Engagement", "Social Innovation", "Democracy", "Community Development"]
+},
+{ 
+  "id": 1992,
+  "title": "Social Impact Knowledge Hub",
+  "domain": "20",
+  "description": "Develop a knowledge hub that curates best practices, toolkits, and case studies for civic tech and social innovation.",
+  "keywords": ["Social Innovation", "Transparency", "Community Development", "Civic Engagement"]
+},
 
 // AEROSPACE & AVIATION (Domain 21)
-{
-            "id": 2101,
-            "title": "Satellite Constellation Optimizer",
-            "domain": "21",
-            "description": "Design an optimization system for satellite constellation deployment that minimizes launch costs while maximizing global coverage and communication efficiency.",
-            "keywords": ["Satellite Systems", "Optimization", "Orbital Mechanics", "Communication"]
-        },
-        {
-            "id": 2102,
-            "title": "Aircraft Fuel Efficiency Analyzer",
-            "domain": "21",
-            "description": "Build a system that analyzes flight patterns, weather conditions, and aircraft performance to optimize fuel consumption and reduce emissions.",
-            "keywords": ["Fuel Efficiency", "Flight Optimization", "Environmental Impact", "Performance Analysis"]
-        },
-        {
-            "id": 2103,
-            "title": "Space Debris Tracking System",
-            "domain": "21",
-            "description": "Develop a comprehensive system for tracking space debris, predicting collision risks, and planning debris removal missions.",
-            "keywords": ["Space Debris", "Collision Avoidance", "Tracking", "Space Safety"]
-        },
+  {
+    "id": 1993,
+    "title": "Satellite Constellation Optimizer",
+    "domain": "21",
+    "description": "Design an optimization system for satellite constellation deployment that minimizes launch costs while maximizing global coverage and communication efficiency.",
+    "keywords": ["Satellite Systems", "Optimization", "Orbital Mechanics", "Communication"]
+  },
+  {
+    "id": 1994,
+    "title": "Adaptive Wing Design System",
+    "domain": "21",
+    "description": "Develop an intelligent aircraft design platform that automatically adjusts wing configurations based on flight conditions and aerodynamic requirements.",
+    "keywords": ["Aircraft Design", "Aerodynamics", "Flight Systems", "Optimization"]
+  },
+  {
+    "id": 1995,
+    "title": "Hybrid Propulsion Controller",
+    "domain": "21",
+    "description": "Create a control system for hybrid electric-jet propulsion that optimizes fuel efficiency and performance across different flight phases.",
+    "keywords": ["Propulsion", "Flight Systems", "Optimization", "Aircraft Design"]
+  },
+  {
+    "id": 1996,
+    "title": "Autonomous Space Debris Cleaner",
+    "domain": "21",
+    "description": "Design an autonomous spacecraft system capable of identifying, capturing, and removing space debris from critical orbital paths.",
+    "keywords": ["Space Technology", "Orbital Mechanics", "Mission Planning", "Satellite Systems"]
+  },
+  {
+    "id": 1997,
+    "title": "Real-time Flight Path Optimizer",
+    "domain": "21",
+    "description": "Build a navigation system that continuously optimizes flight paths in real-time based on weather, traffic, and fuel efficiency constraints.",
+    "keywords": ["Navigation", "Flight Systems", "Optimization", "Avionics"]
+  },
+  {
+    "id": 1998,
+    "title": "Mars Landing Precision System",
+    "domain": "21",
+    "description": "Develop a precision landing system for Mars missions that accounts for atmospheric variations and surface terrain analysis.",
+    "keywords": ["Space Exploration", "Mission Planning", "Navigation", "Propulsion"]
+  },
+  {
+    "id": 1999,
+    "title": "Supersonic Aerodynamic Optimizer",
+    "domain": "21",
+    "description": "Create an aerodynamic optimization tool for supersonic aircraft that reduces sonic boom while maintaining performance efficiency.",
+    "keywords": ["Aerodynamics", "Aircraft Design", "Optimization", "Flight Systems"]
+  },
+  {
+    "id":2000,
+    "title": "Launch Vehicle Recovery System",
+    "domain": "21",
+    "description": "Design an automated recovery and reusability system for launch vehicles that maximizes cost savings and mission reliability.",
+    "keywords": ["Launch Vehicles", "Propulsion", "Mission Planning", "Space Technology"]
+  },
+  {
+    "id": 2001,
+    "title": "Swarm Drone Coordination Platform",
+    "domain": "21",
+    "description": "Build a coordination system for autonomous drone swarms that enables collaborative missions with dynamic task allocation.",
+    "keywords": ["Flight Systems", "Navigation", "Avionics", "Mission Planning"]
+  },
+  {
+    "id": 2002,
+    "title": "Interplanetary Trajectory Calculator",
+    "domain": "21",
+    "description": "Develop a computational system for calculating optimal interplanetary trajectories considering gravitational assists and fuel constraints.",
+    "keywords": ["Orbital Mechanics", "Space Exploration", "Mission Planning", "Navigation"]
+  },
+  {
+    "id": 2003,
+    "title": "Turbulence Prediction Engine",
+    "domain": "21",
+    "description": "Create a predictive system that forecasts atmospheric turbulence patterns for safer and more comfortable flight operations.",
+    "keywords": ["Aerodynamics", "Flight Systems", "Navigation", "Weather"]
+  },
+  {
+    "id": 2004,
+    "title": "Satellite Communication Optimizer",
+    "domain": "21",
+    "description": "Design a system that optimizes satellite communication links by dynamically adjusting beam patterns and frequency allocations.",
+    "keywords": ["Satellite Systems", "Communication", "Optimization", "Space Technology"]
+  },
+  {
+    "id": 2005,
+    "title": "Electric Aircraft Battery Manager",
+    "domain": "21",
+    "description": "Develop an intelligent battery management system for electric aircraft that maximizes range while ensuring safety margins.",
+    "keywords": ["Propulsion", "Aircraft Design", "Flight Systems", "Optimization"]
+  },
+  {
+    "id": 2006,
+    "title": "Space Station Life Support Optimizer",
+    "domain": "21",
+    "description": "Create an optimization system for space station life support that minimizes resource consumption while maintaining crew safety.",
+    "keywords": ["Space Technology", "Mission Planning", "Optimization", "Space Exploration"]
+  },
+  {
+    "id": 2007,
+    "title": "Hypersonic Flight Controller",
+    "domain": "21",
+    "description": "Build a control system for hypersonic vehicles that manages extreme thermal loads and aerodynamic forces.",
+    "keywords": ["Flight Systems", "Aerodynamics", "Propulsion", "Aircraft Design"]
+  },
+  {
+    "id": 2008,
+    "title": "Orbital Rendezvous Planner",
+    "domain": "21",
+    "description": "Design an automated system for planning and executing orbital rendezvous missions with minimal fuel consumption.",
+    "keywords": ["Orbital Mechanics", "Mission Planning", "Navigation", "Space Technology"]
+  },
+  {
+    "id": 2009,
+    "title": "Aircraft Structural Health Monitor",
+    "domain": "21",
+    "description": "Develop a real-time monitoring system that assesses aircraft structural integrity and predicts maintenance requirements.",
+    "keywords": ["Aircraft Design", "Avionics", "Flight Systems", "Maintenance"]
+  },
+  {
+    "id":2010,
+    "title": "Rocket Engine Performance Analyzer",
+    "domain": "21",
+    "description": "Create a system that analyzes rocket engine performance in real-time and optimizes combustion parameters for maximum efficiency.",
+    "keywords": ["Propulsion", "Launch Vehicles", "Optimization", "Space Technology"]
+  },
+  {
+    "id": 2011,
+    "title": "Atmospheric Entry Simulator",
+    "domain": "21",
+    "description": "Build a high-fidelity simulator for atmospheric entry vehicles that accounts for heat shield performance and trajectory accuracy.",
+    "keywords": ["Space Exploration", "Aerodynamics", "Mission Planning", "Space Technology"]
+  },
+  {
+    "id": 2012,
+    "title": "Air Traffic Flow Manager",
+    "domain": "21",
+    "description": "Design an intelligent air traffic management system that optimizes flow patterns to reduce delays and fuel consumption.",
+    "keywords": ["Navigation", "Flight Systems", "Optimization", "Avionics"]
+  },
+  {
+    "id": 2013,
+    "title": "Lunar Base Construction Planner",
+    "domain": "21",
+    "description": "Develop a planning system for lunar base construction that optimizes resource utilization and mission scheduling.",
+    "keywords": ["Space Exploration", "Mission Planning", "Space Technology", "Construction"]
+  },
+  {
+    "id": 2014,
+    "title": "Variable Geometry Wing Controller",
+    "domain": "21",
+    "description": "Create a control system for variable geometry wings that adapts configuration based on flight phase and performance requirements.",
+    "keywords": ["Aircraft Design", "Aerodynamics", "Flight Systems", "Control"]
+  },
+  {
+    "id": 2015,
+    "title": "Satellite Orbit Maintenance System",
+    "domain": "21",
+    "description": "Design an autonomous system for maintaining satellite orbits with minimal fuel consumption and maximum operational lifetime.",
+    "keywords": ["Satellite Systems", "Orbital Mechanics", "Optimization", "Space Technology"]
+  },
+  {
+    "id": 2016,
+    "title": "Jet Engine Noise Reducer",
+    "domain": "21",
+    "description": "Develop noise reduction technology for jet engines that maintains performance while meeting strict environmental regulations.",
+    "keywords": ["Propulsion", "Aircraft Design", "Environmental", "Aerodynamics"]
+  },
+  {
+    "id": 2017,
+    "title": "Space Elevator Tether Analyzer",
+    "domain": "21",
+    "description": "Create an analysis system for space elevator tether materials and structural dynamics under various loading conditions.",
+    "keywords": ["Space Technology", "Space Exploration", "Structural Analysis", "Materials"]
+  },
+  {
+    "id": 2018,
+    "title": "Automated Flight Test Manager",
+    "domain": "21",
+    "description": "Build a system that automates flight test procedures and data collection for aircraft certification and validation.",
+    "keywords": ["Flight Systems", "Aircraft Design", "Testing", "Avionics"]
+  },
+  {
+    "id": 2019,
+    "title": "Solar Sail Navigation Computer",
+    "domain": "21",
+    "description": "Design a navigation computer for solar sail spacecraft that optimizes trajectory using solar radiation pressure.",
+    "keywords": ["Space Exploration", "Navigation", "Orbital Mechanics", "Space Technology"]
+  },
+  {
+    "id": 2020,
+    "title": "Vertical Takeoff Landing Optimizer",
+    "domain": "21",
+    "description": "Develop an optimization system for VTOL aircraft that balances hover efficiency with forward flight performance.",
+    "keywords": ["Aircraft Design", "Flight Systems", "Propulsion", "Optimization"]
+  },
+  {
+    "id": 2021,
+    "title": "Space Suit Life Support Controller",
+    "domain": "21",
+    "description": "Create a control system for space suit life support that manages oxygen, temperature, and pressure in extreme environments.",
+    "keywords": ["Space Technology", "Life Support", "Space Exploration", "Safety"]
+  },
+  {
+    "id": 2022,
+    "title": "Aircraft Icing Prevention System",
+    "domain": "21",
+    "description": "Design an intelligent ice prevention system that predicts icing conditions and activates countermeasures automatically.",
+    "keywords": ["Flight Systems", "Safety", "Aircraft Design", "Weather"]
+  },
+  {
+    "id": 2023,
+    "title": "Reusable Spacecraft Heat Shield",
+    "domain": "21",
+    "description": "Develop a reusable heat shield system for spacecraft that withstands multiple atmospheric entries with minimal refurbishment.",
+    "keywords": ["Space Technology", "Reusability", "Materials", "Space Exploration"]
+  },
+  {
+    "id": 2024,
+    "title": "Formation Flying Satellite Controller",
+    "domain": "21",
+    "description": "Build a control system for satellite formation flying that maintains precise relative positions for interferometric observations.",
+    "keywords": ["Satellite Systems", "Formation Flying", "Orbital Mechanics", "Control"]
+  },
+  {
+    "id": 2025,
+    "title": "Composite Aircraft Structure Optimizer",
+    "domain": "21",
+    "description": "Create an optimization tool for composite aircraft structures that minimizes weight while maximizing strength and durability.",
+    "keywords": ["Aircraft Design", "Materials", "Optimization", "Structural Analysis"]
+  },
+  {
+    "id": 2026,
+    "title": "Autonomous Landing Gear System",
+    "domain": "21",
+    "description": "Design an autonomous landing gear system that adapts to various runway conditions and aircraft configurations.",
+    "keywords": ["Aircraft Design", "Flight Systems", "Automation", "Safety"]
+  },
+  {
+    "id": 2027,
+    "title": "Ion Propulsion Mission Planner",
+    "domain": "21",
+    "description": "Develop a mission planning system for ion propulsion spacecraft that optimizes trajectory and power consumption.",
+    "keywords": ["Propulsion", "Mission Planning", "Space Technology", "Optimization"]
+  },
+  {
+    "id": 2028,
+    "title": "Aircraft Wake Turbulence Predictor",
+    "domain": "21",
+    "description": "Create a system that predicts aircraft wake turbulence patterns to improve airport capacity and flight safety.",
+    "keywords": ["Aerodynamics", "Flight Systems", "Safety", "Air Traffic"]
+  },
+  {
+    "id": 2029,
+    "title": "Space Tether Dynamics Simulator",
+    "domain": "21",
+    "description": "Build a simulator for space tether dynamics that models complex orbital mechanics and electrodynamic interactions.",
+    "keywords": ["Space Technology", "Orbital Mechanics", "Simulation", "Space Exploration"]
+  },
+  {
+    "id": 2030,
+    "title": "Adaptive Cockpit Interface",
+    "domain": "21",
+    "description": "Design an adaptive cockpit interface that customizes displays and controls based on pilot preferences and mission requirements.",
+    "keywords": ["Avionics", "Human Factors", "Flight Systems", "Interface Design"]
+  },
+  {
+    "id": 2031,
+    "title": "Scramjet Engine Controller",
+    "domain": "21",
+    "description": "Develop a control system for scramjet engines that manages combustion efficiency across varying flight conditions.",
+    "keywords": ["Propulsion", "Hypersonics", "Flight Systems", "Control"]
+  },
+  {
+    "id": 2032,
+    "title": "Asteroid Mining Mission Designer",
+    "domain": "21",
+    "description": "Create a mission design system for asteroid mining operations that optimizes resource extraction and return trajectories.",
+    "keywords": ["Space Exploration", "Mission Planning", "Mining", "Orbital Mechanics"]
+  },
+  {
+    "id": 2033,
+    "title": "Multi-rotor Stability Controller",
+    "domain": "21",
+    "description": "Build a stability control system for multi-rotor aircraft that maintains flight stability in adverse weather conditions.",
+    "keywords": ["Flight Systems", "Control", "Stability", "Multi-rotor"]
+  },
+  {
+    "id": 2034,
+    "title": "Satellite Constellation Simulator",
+    "domain": "21",
+    "description": "Design a comprehensive simulator for satellite constellations that models orbital dynamics and communication links.",
+    "keywords": ["Satellite Systems", "Simulation", "Orbital Mechanics", "Communication"]
+  },
+  {
+    "id": 2035,
+    "title": "Aircraft Fuel System Optimizer",
+    "domain": "21",
+    "description": "Develop an optimization system for aircraft fuel distribution that maintains balance and minimizes consumption.",
+    "keywords": ["Aircraft Design", "Fuel Systems", "Optimization", "Flight Systems"]
+  },
+  {
+    "id": 2036,
+    "title": "Space Nuclear Reactor Controller",
+    "domain": "21",
+    "description": "Create a control system for space-based nuclear reactors that ensures safe operation in the space environment.",
+    "keywords": ["Space Technology", "Nuclear Power", "Safety", "Space Exploration"]
+  },
+  {
+    "id": 2037,
+    "title": "Helicopter Autorotation Optimizer",
+    "domain": "21",
+    "description": "Design an optimization system for helicopter autorotation that maximizes safe landing probability during engine failure.",
+    "keywords": ["Flight Systems", "Safety", "Helicopters", "Emergency Procedures"]
+  },
+  {
+    "id": 2038,
+    "title": "Orbital Debris Tracking System",
+    "domain": "21",
+    "description": "Build a comprehensive tracking system for orbital debris that predicts collision risks and suggests avoidance maneuvers.",
+    "keywords": ["Space Technology", "Orbital Mechanics", "Safety", "Tracking"]
+  },
+  {
+    "id": 2039,
+    "title": "Supersonic Transport Planner",
+    "domain": "21",
+    "description": "Develop a planning system for supersonic transport routes that minimizes sonic boom impact over populated areas.",
+    "keywords": ["Aircraft Design", "Route Planning", "Supersonic", "Environmental"]
+  },
+  {
+    "id": 2040,
+    "title": "Spacecraft Attitude Determination System",
+    "domain": "21",
+    "description": "Create a high-precision attitude determination system for spacecraft using multiple sensor fusion techniques.",
+    "keywords": ["Space Technology", "Navigation", "Sensors", "Attitude Control"]
+  },
+  {
+    "id": 2041,
+    "title": "Weather Radar Integration Platform",
+    "domain": "21",
+    "description": "Design a platform that integrates multiple weather radar systems for enhanced flight planning and safety.",
+    "keywords": ["Weather", "Radar", "Flight Systems", "Integration"]
+  },
+  {
+    "id": 2042,
+    "title": "Lunar Rover Navigation System",
+    "domain": "21",
+    "description": "Develop an autonomous navigation system for lunar rovers that handles challenging terrain and lighting conditions.",
+    "keywords": ["Space Exploration", "Navigation", "Autonomy", "Lunar Operations"]
+  },
+  {
+    "id": 2043,
+    "title": "Aircraft Lightning Protection Analyzer",
+    "domain": "21",
+    "description": "Create an analysis system for aircraft lightning protection that ensures safety while minimizing weight penalties.",
+    "keywords": ["Aircraft Design", "Safety", "Lightning Protection", "Analysis"]
+  },
+  {
+    "id": 2044,
+    "title": "Space Station Docking Controller",
+    "domain": "21",
+    "description": "Build an automated docking controller for space stations that handles various spacecraft configurations safely.",
+    "keywords": ["Space Technology", "Docking", "Automation", "Safety"]
+  },
+  {
+    "id": 2045,
+    "title": "Blended Wing Body Optimizer",
+    "domain": "21",
+    "description": "Design an optimization system for blended wing body aircraft that maximizes aerodynamic efficiency and structural integrity.",
+    "keywords": ["Aircraft Design", "Aerodynamics", "Optimization", "Innovation"]
+  },
+  {
+    "id": 2046,
+    "title": "Satellite Ground Station Scheduler",
+    "domain": "21",
+    "description": "Develop a scheduling system for satellite ground stations that optimizes communication windows and data throughput.",
+    "keywords": ["Satellite Systems", "Ground Stations", "Scheduling", "Communication"]
+  },
+  {
+    "id": 2047,
+    "title": "Aircraft Engine Health Predictor",
+    "domain": "21",
+    "description": "Create a predictive system for aircraft engine health that forecasts maintenance needs and prevents failures.",
+    "keywords": ["Propulsion", "Health Monitoring", "Predictive Maintenance", "Safety"]
+  },
+  {
+    "id": 2048,
+    "title": "Mars Helicopter Flight Controller",
+    "domain": "21",
+    "description": "Design a flight controller for Mars helicopters that compensates for thin atmosphere and communication delays.",
+    "keywords": ["Space Exploration", "Flight Systems", "Mars Operations", "Helicopters"]
+  },
+  {
+    "id": 2049,
+    "title": "Airship Buoyancy Manager",
+    "domain": "21",
+    "description": "Build a buoyancy management system for modern airships that maintains optimal altitude and stability.",
+    "keywords": ["Airships", "Buoyancy Control", "Flight Systems", "Stability"]
+  },
+  {
+    "id": 2050,
+    "title": "Spacecraft Thermal Control System",
+    "domain": "21",
+    "description": "Develop a thermal control system for spacecraft that maintains optimal temperatures across all mission phases.",
+    "keywords": ["Space Technology", "Thermal Management", "Spacecraft Systems", "Control"]
+  },
+  {
+    "id": 2051,
+    "title": "Urban Air Mobility Router",
+    "domain": "21",
+    "description": "Create a routing system for urban air mobility that manages traffic flow in complex urban environments.",
+    "keywords": ["Urban Aviation", "Traffic Management", "Flight Systems", "Routing"]
+  },
+  {
+    "id": 2052,
+    "title": "Rocket Stage Separation Analyzer",
+    "domain": "21",
+    "description": "Design an analysis system for rocket stage separation that ensures clean separation and trajectory accuracy.",
+    "keywords": ["Launch Vehicles", "Stage Separation", "Analysis", "Trajectory"]
+  },
+  {
+    "id": 2053,
+    "title": "Aircraft Cabin Pressure Controller",
+    "domain": "21",
+    "description": "Build a cabin pressure control system that maintains passenger comfort while optimizing energy consumption.",
+    "keywords": ["Aircraft Design", "Cabin Systems", "Pressure Control", "Passenger Comfort"]
+  },
+  {
+    "id": 2054,
+    "title": "Deep Space Communication Optimizer",
+    "domain": "21",
+    "description": "Develop an optimization system for deep space communications that maximizes data transmission rates over vast distances.",
+    "keywords": ["Space Technology", "Deep Space Communication", "Optimization", "Data Transmission"]
+  },
+  {
+    "id": 2055,
+    "title": "Tiltrotor Transition Controller",
+    "domain": "21",
+    "description": "Create a control system for tiltrotor aircraft that manages smooth transitions between hover and forward flight modes.",
+    "keywords": ["Tiltrotor", "Flight Systems", "Mode Transition", "Control"]
+  },
+  {
+    "id": 2056,
+    "title": "Space Junk Collision Predictor",
+    "domain": "21",
+    "description": "Design a collision prediction system for space debris that provides early warning for satellite operators.",
+    "keywords": ["Space Safety", "Collision Prediction", "Orbital Mechanics", "Space Debris"]
+  },
+  {
+    "id": 2057,
+    "title": "Aircraft Wing Flutter Suppressor",
+    "domain": "21",
+    "description": "Build a flutter suppression system for aircraft wings that prevents dangerous oscillations during flight.",
+    "keywords": ["Aircraft Design", "Flutter Suppression", "Structural Dynamics", "Safety"]
+  },
+  {
+    "id": 2058,
+    "title": "Orbital Solar Panel Tracker",
+    "domain": "21",
+    "description": "Develop a solar panel tracking system for orbital platforms that maximizes power generation efficiency.",
+    "keywords": ["Space Technology", "Solar Power", "Tracking Systems", "Power Generation"]
+  },
+  {
+    "id": 2059,
+    "title": "Hypersonic Vehicle Thermal Manager",
+    "domain": "21",
+    "description": "Create a thermal management system for hypersonic vehicles that handles extreme heating during flight.",
+    "keywords": ["Hypersonics", "Thermal Management", "Flight Systems", "Materials"]
+  },
+  {
+    "id": 2060,
+    "title": "Satellite Swarm Coordinator",
+    "domain": "21",
+    "description": "Design a coordination system for satellite swarms that enables distributed sensing and communication missions.",
+    "keywords": ["Satellite Systems", "Swarm Coordination", "Distributed Systems", "Mission Planning"]
+  },
+  {
+    "id":2061,
+    "title": "Aircraft Ground Collision Avoider",
+    "domain": "21",
+    "description": "Build a ground collision avoidance system for aircraft that prevents runway incursions and ground accidents.",
+    "keywords": ["Safety", "Ground Operations", "Collision Avoidance", "Airport Safety"]
+  },
+  {
+    "id": 2062,
+    "title": "Space Telescope Pointing System",
+    "domain": "21",
+    "description": "Develop a ultra-precise pointing system for space telescopes that maintains target acquisition with minimal drift.",
+    "keywords": ["Space Technology", "Precision Pointing", "Telescopes", "Attitude Control"]
+  },
+  {
+    "id":2063,
+    "title": "Drone Delivery Route Optimizer",
+    "domain": "21",
+    "description": "Create a route optimization system for drone delivery services that considers weather, obstacles, and energy efficiency.",
+    "keywords": ["Drones", "Route Optimization", "Delivery Systems", "Energy Efficiency"]
+  },
+  {
+    "id": 2064,
+    "title": "Rocket Propellant Loading System",
+    "domain": "21",
+    "description": "Design an automated propellant loading system for rockets that ensures safety and precise fuel quantities.",
+    "keywords": ["Launch Vehicles", "Propellant Loading", "Automation", "Safety"]
+  },
+  {
+    "id": 2065,
+    "title": "Aircraft Bird Strike Predictor",
+    "domain": "21",
+    "description": "Build a bird strike prediction system that alerts pilots to potential wildlife hazards along flight paths.",
+    "keywords": ["Flight Safety", "Wildlife Hazards", "Prediction", "Risk Assessment"]
+  },
+  {
+    "id": 2066,
+    "title": "Interstellar Probe Trajectory Designer",
+    "domain": "21",
+    "description": "Develop a trajectory design system for interstellar probes that utilizes gravity assists and minimizes travel time.",
+    "keywords": ["Space Exploration", "Interstellar Travel", "Trajectory Design", "Gravity Assists"]
+  },
+  {
+    "id": 2067,
+    "title": "Aircraft Noise Footprint Analyzer",
+    "domain": "21",
+    "description": "Create an analysis system for aircraft noise footprints that helps optimize airport operations and community impact.",
+    "keywords": ["Environmental", "Noise Analysis", "Airport Operations", "Community Impact"]
+  },
+  {
+    "id": 2068,
+    "title": "Space Elevator Cable Tension Monitor",
+    "domain": "21",
+    "description": "Design a monitoring system for space elevator cables that tracks tension distribution and structural health.",
+    "keywords": ["Space Technology", "Structural Monitoring", "Space Elevator", "Cable Systems"]
+  },
+  {
+    "id": 2069,
+    "title": "Military Aircraft Stealth Optimizer",
+    "domain": "21",
+    "description": "Build an optimization system for military aircraft stealth characteristics that minimizes radar cross-section.",
+    "keywords": ["Military Aviation", "Stealth Technology", "Radar Cross-Section", "Optimization"]
+  },
+  {
+    "id": 2070,
+    "title": "Satellite Momentum Wheel Controller",
+    "domain": "21",
+    "description": "Develop a control system for satellite momentum wheels that maintains attitude while optimizing power consumption.",
+    "keywords": ["Satellite Systems", "Attitude Control", "Momentum Wheels", "Power Management"]
+  },
+  {
+    "id": 2071,
+    "title": "Aircraft De-icing System Manager",
+    "domain": "21",
+    "description": "Create a management system for aircraft de-icing that optimizes fluid usage and ensures complete ice removal.",
+    "keywords": ["Ground Operations", "De-icing", "Safety", "Winter Operations"]
+  },
+  {
+    "id": 2072,
+    "title": "Space Habitat Life Support Designer",
+    "domain": "21",
+    "description": "Design a life support system for long-duration space habitats that recycles air, water, and waste efficiently.",
+    "keywords": ["Space Technology", "Life Support", "Habitat Design", "Resource Recycling"]
+  },
+  {
+    "id": 2073,
+    "title": "Contra-rotating Propeller Optimizer",
+    "domain": "21",
+    "description": "Build an optimization system for contra-rotating propellers that maximizes efficiency while minimizing vibration.",
+    "keywords": ["Propulsion", "Propeller Design", "Optimization", "Vibration Control"]
+  },
+  {
+    "id": 2074,
+    "title": "Orbital Manufacturing Platform",
+    "domain": "21",
+    "description": "Develop a platform for orbital manufacturing that takes advantage of microgravity for producing unique materials.",
+    "keywords": ["Space Technology", "Manufacturing", "Microgravity", "Materials Science"]
+  },
+  {
+    "id": 2075,
+    "title": "Aircraft Tire Pressure Monitor",
+    "domain": "21",
+    "description": "Create a tire pressure monitoring system for aircraft that prevents blowouts and optimizes landing performance.",
+    "keywords": ["Aircraft Systems", "Tire Monitoring", "Safety", "Landing Systems"]
+  },
+  {
+    "id": 2076,
+    "title": "Planetary Defense Mission Planner",
+    "domain": "21",
+    "description": "Design a mission planning system for planetary defense against asteroid threats using kinetic impactors.",
+    "keywords": ["Planetary Defense", "Mission Planning", "Asteroid Deflection", "Space Safety"]
+  },
+  {
+    "id": 2077,
+    "title": "Seaplane Water Landing Optimizer",
+    "domain": "21",
+    "description": "Build an optimization system for seaplane water landings that accounts for wave conditions and aircraft configuration.",
+    "keywords": ["Seaplanes", "Water Landing", "Flight Systems", "Optimization"]
+  },
+  {
+    "id": 2078,
+    "title": "Space Tug Mission Controller",
+    "domain": "21",
+    "description": "Develop a mission control system for space tugs that handles satellite servicing and orbital debris removal.",
+    "keywords": ["Space Technology", "Space Tugs", "Satellite Servicing", "Mission Control"]
+  },
+  {
+    "id": 2079,
+    "title": "Aircraft Structural Fatigue Predictor",
+    "domain": "21",
+    "description": "Create a fatigue prediction system for aircraft structures that forecasts crack initiation and propagation.",
+    "keywords": ["Aircraft Design", "Fatigue Analysis", "Structural Health", "Predictive Maintenance"]
+  },
+  {
+    "id": 2080,
+    "title": "Lunar Base Power System Designer",
+    "domain": "21",
+    "description": "Design a power system for lunar bases that combines solar, nuclear, and fuel cell technologies efficiently.",
+    "keywords": ["Space Exploration", "Power Systems", "Lunar Base", "Energy Management"]
+  },
+  {
+    "id": 2081,
+    "title": "High-altitude Platform Controller",
+    "domain": "21",
+    "description": "Build a control system for high-altitude platforms that maintains station-keeping in the stratosphere.",
+    "keywords": ["High Altitude Platforms", "Station Keeping", "Flight Systems", "Stratospheric Operations"]
+  },
+  {
+    "id": 2082,
+    "title": "Spacecraft Propellant Gauging System",
+    "domain": "21",
+    "description": "Develop a propellant gauging system for spacecraft that accurately measures fuel levels in microgravity.",
+    "keywords": ["Space Technology", "Propellant Management", "Microgravity", "Fuel Gauging"]
+  },
+  {
+    "id": 2083,
+    "title": "Aircraft Engine Surge Suppressor",
+    "domain": "21",
+    "description": "Create a surge suppression system for aircraft engines that prevents compressor stall and maintains thrust.",
+    "keywords": ["Propulsion", "Engine Control", "Surge Suppression", "Flight Safety"]
+  },
+  {
+    "id": 2084,
+    "title": "Solar Sail Attitude Controller",
+    "domain": "21",
+    "description": "Design an attitude control system for solar sails that uses differential solar pressure for maneuvering.",
+    "keywords": ["Space Technology", "Solar Sails", "Attitude Control", "Propellantless Propulsion"]
+  },
+  {
+    "id": 2085,
+    "title": "Aircraft Cabin Air Quality Manager",
+    "domain": "21",
+    "description": "Build an air quality management system for aircraft cabins that maintains optimal air composition and circulation.",
+    "keywords": ["Aircraft Systems", "Air Quality", "Cabin Environment", "Health Systems"]
+  },
+  {
+    "id": 2086,
+    "title": "Space Debris Removal Robot",
+    "domain": "21",
+    "description": "Develop an autonomous robot for space debris removal that can capture and deorbit various types of space junk.",
+    "keywords": ["Space Technology", "Debris Removal", "Robotics", "Orbital Cleanup"]
+  },
+  {
+    "id": 2087,
+    "title": "Variable Pitch Propeller Controller",
+    "domain": "21",
+    "description": "Create a control system for variable pitch propellers that optimizes blade angle for different flight conditions.", 
+    "keywords": ["Propulsion", "Propeller Design", "Control Systems", "Flight Efficiency"]
+  },
 
-        // AUTOMOTIVE & TRANSPORTATION (Domain 22)
+
+// AUTOMOTIVE & TRANSPORTATION (Domain 22)
         {
             "id": 2201,
             "title": "Autonomous Vehicle Path Planning",
