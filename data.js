@@ -16160,27 +16160,704 @@ const PROBLEMS_DATA = {
     },
 
        // FINANCE & FINTECH (Domain 23)
-        {
-            "id": 2301,
-            "title": "Cryptocurrency Trading Bot",
-            "domain": "23",
-            "description": "Build an intelligent trading bot that analyzes market patterns, news sentiment, and technical indicators to make automated trading decisions.",
-            "keywords": ["Cryptocurrency", "Algorithmic Trading", "Market Analysis", "AI"]
-        },
-        {
-            "id": 2302,
-            "title": "Fraud Detection System",
-            "domain": "23",
-            "description": "Create a real-time fraud detection system that analyzes transaction patterns and user behavior to identify suspicious activities.",
-            "keywords": ["Fraud Detection", "Transaction Analysis", "Security", "Pattern Recognition"]
-        },
-        {
-            "id": 2303,
-            "title": "Robo-Advisor for Investment",
-            "domain": "23",
-            "description": "Develop an AI-powered investment advisor that creates personalized portfolios based on risk tolerance, goals, and market conditions.",
-            "keywords": ["Robo-Advisor", "Portfolio Management", "Investment Strategy", "Risk Assessment"]
-        },
+        
+    {
+        "id": 2185,
+        "title": "AI-Based Credit Risk Scoring",
+        "domain": "23",
+        "description": "Develop an AI-powered credit scoring system that evaluates borrowers’ creditworthiness using alternative data sources and predictive modeling.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2186,
+        "title": "Blockchain-Enabled Cross-Border Payments",
+        "domain": "23",
+        "description": "Create a blockchain-based payment platform for faster, transparent, and low-cost cross-border transactions between banks and fintech firms.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2187,
+        "title": "Algorithmic Trading Optimization",
+        "domain": "23",
+        "description": "Design a system to optimize algorithmic trading strategies by analyzing real-time market data and minimizing trading risk using AI.",
+        "keywords": ["Algorithmic Trading", "Financial Analytics", "AI Systems", "Risk Management"]
+    },
+    {
+        "id": 2188,
+        "title": "RegTech Compliance Automation",
+        "domain": "23",
+        "description": "Develop a RegTech solution that automates regulatory compliance for financial institutions, including reporting, audits, and monitoring.",
+        "keywords": ["RegTech", "Digital Banking", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2189,
+        "title": "Decentralized Insurance Claim Verification",
+        "domain": "23",
+        "description": "Create a blockchain-powered platform that automates insurance claim verification and reduces fraud in the claims process.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2190,
+        "title": "Real-Time Fraud Detection in Digital Payments",
+        "domain": "23",
+        "description": "Build an AI-driven system to detect fraudulent transactions in digital banking and payment platforms in real time.",
+        "keywords": ["Payment Systems", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2191,
+        "title": "Robo-Advisors for Personalized Investments",
+        "domain": "23",
+        "description": "Develop an AI-powered robo-advisor that provides personalized investment recommendations based on financial goals and risk tolerance.",
+        "keywords": ["Robo-Advisors", "Financial Analytics", "Digital Banking", "Risk Management"]
+    },
+    {
+        "id": 2192,
+        "title": "DeFi Lending Risk Management",
+        "domain": "23",
+        "description": "Create a risk management system for decentralized finance lending platforms to monitor liquidity, default risk, and interest rates.",
+        "keywords": ["DeFi", "Risk Management", "Blockchain", "Financial Analytics"]
+    },
+    {
+        "id": 2193,
+        "title": "Credit Scoring Using Social and Behavioral Data",
+        "domain": "23",
+        "description": "Develop a credit scoring model that integrates social media, behavioral, and transactional data to predict repayment reliability.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2194,
+        "title": "Blockchain-Based Trade Finance Platform",
+        "domain": "23",
+        "description": "Design a blockchain platform to streamline trade finance processes, including letters of credit, bills of lading, and payment settlements.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2195,
+        "title": "AI-Powered Portfolio Risk Assessment",
+        "domain": "23",
+        "description": "Create an AI system to assess and manage portfolio risk for investors, considering market volatility and asset correlations.",
+        "keywords": ["Financial Analytics", "Risk Management", "AI Systems", "Digital Banking"]
+    },
+    {
+        "id": 2196,
+        "title": "Cryptocurrency Price Prediction System",
+        "domain": "23",
+        "description": "Develop a predictive analytics platform to forecast cryptocurrency prices using machine learning on historical and market data.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Financial Analytics", "Blockchain"]
+    },
+    {
+        "id": 2197,
+        "title": "Smart Contract-Based Insurance Policies",
+        "domain": "23",
+        "description": "Build a platform using smart contracts for automated execution of insurance policies and claims based on predefined triggers.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2198,
+        "title": "AI-Enhanced Loan Default Prediction",
+        "domain": "23",
+        "description": "Design an AI model to predict loan defaults in real time by analyzing customer financial behavior and historical repayment trends.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2199,
+        "title": "Digital Banking Customer Sentiment Analysis",
+        "domain": "23",
+        "description": "Develop a system to analyze customer feedback and behavior on digital banking platforms to improve service and reduce churn.",
+        "keywords": ["Digital Banking", "Financial Analytics", "AI Systems", "Robo-Advisors"]
+    },
+    {
+        "id": 2200,
+        "title": "AI-Powered Fraud Analytics for Cryptocurrency",
+        "domain": "23",
+        "description": "Create an AI solution that detects fraudulent activities and money laundering in cryptocurrency transactions.",
+        "keywords": ["Cryptocurrency", "Blockchain", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2201,
+        "title": "Blockchain-Based Microfinance Platform",
+        "domain": "23",
+        "description": "Develop a decentralized microfinance platform to provide secure, transparent loans to underserved populations using blockchain.",
+        "keywords": ["Blockchain", "Digital Banking", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2202,
+        "title": "Regulatory Reporting Automation",
+        "domain": "23",
+        "description": "Build a system that automates regulatory reporting for banks and fintech companies using AI and blockchain for compliance and transparency.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2203,
+        "title": "AI-Driven Customer Credit Limit Adjustment",
+        "domain": "23",
+        "description": "Create an AI system to dynamically adjust customer credit limits based on spending behavior, repayment history, and risk analysis.",
+        "keywords": ["Credit Scoring", "AI Systems", "Digital Banking", "Risk Management"]
+    },
+    {
+        "id": 2204,
+        "title": "Decentralized Asset Management Platform",
+        "domain": "23",
+        "description": "Design a DeFi-based platform for decentralized management of investment portfolios with secure, transparent asset tracking.",
+        "keywords": ["DeFi", "Blockchain", "Robo-Advisors", "Financial Analytics"]
+    },
+    {
+        "id": 2205,
+        "title": "AI-Powered Payment Fraud Prevention",
+        "domain": "23",
+        "description": "Develop an AI system that monitors digital payment transactions and detects anomalies indicative of fraudulent activity.",
+        "keywords": ["Payment Systems", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2206,
+        "title": "Smart Contract Audit Automation",
+        "domain": "23",
+        "description": "Create a platform that automates the auditing of smart contracts to identify vulnerabilities and prevent financial loss.",
+        "keywords": ["Blockchain", "DeFi", "Financial Analytics", "Security"]
+    },
+    {
+        "id": 2207,
+        "title": "AI-Powered Wealth Management Advisor",
+        "domain": "23",
+        "description": "Develop an AI-driven digital platform to provide personalized investment advice and portfolio optimization for individual investors.",
+        "keywords": ["Robo-Advisors", "Financial Analytics", "AI Systems", "Digital Banking"]
+    },
+    {
+        "id": 2208,
+        "title": "Cryptocurrency Regulatory Compliance Tracker",
+        "domain": "23",
+        "description": "Build a system to track cryptocurrency transactions and automatically ensure compliance with regional and international regulations.",
+        "keywords": ["Cryptocurrency", "Blockchain", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2209,
+        "title": "AI-Driven Loan Eligibility Engine",
+        "domain": "23",
+        "description": "Create an AI-powered engine that evaluates loan applications using alternative data, credit history, and behavioral analytics to determine eligibility.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2210,
+        "title": "Blockchain-Powered Remittance Platform",
+        "domain": "23",
+        "description": "Develop a blockchain-based platform to enable fast, low-cost, and secure international remittance transfers for individuals and businesses.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2211,
+        "title": "AI-Powered Anti-Money Laundering System",
+        "domain": "23",
+        "description": "Build an AI system to detect suspicious patterns and prevent money laundering activities across banking and fintech platforms.",
+        "keywords": ["RegTech", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2212,
+        "title": "Dynamic Cryptocurrency Portfolio Optimizer",
+        "domain": "23",
+        "description": "Design an AI platform that dynamically manages cryptocurrency portfolios by analyzing market trends and minimizing risk.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Robo-Advisors", "Financial Analytics"]
+    },
+    {
+        "id": 2213,
+        "title": "Blockchain-Based Loyalty Rewards System",
+        "domain": "23",
+        "description": "Develop a blockchain-powered platform to manage loyalty points, ensuring transparency, security, and seamless redemption.",
+        "keywords": ["Blockchain", "Digital Banking", "Payment Systems", "DeFi"]
+    },
+    {
+        "id": 2214,
+        "title": "AI-Powered Expense Prediction Tool",
+        "domain": "23",
+        "description": "Create an AI system that predicts individual or business expenses based on past spending patterns and market trends.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2215,
+        "title": "DeFi-Based Micro-Lending Platform",
+        "domain": "23",
+        "description": "Build a decentralized finance platform that offers peer-to-peer micro-lending with smart contracts for automated lending and repayments.",
+        "keywords": ["DeFi", "Blockchain", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2216,
+        "title": "AI-Powered Investment Fraud Detection",
+        "domain": "23",
+        "description": "Develop an AI system to identify fraudulent investment schemes by analyzing patterns in transactions, communications, and market behavior.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Robo-Advisors"]
+    },
+    {
+        "id": 2217,
+        "title": "RegTech Platform for Real-Time Compliance Monitoring",
+        "domain": "23",
+        "description": "Create a real-time regulatory compliance monitoring platform for fintech and banking organizations using AI and blockchain.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2218,
+        "title": "AI-Based Payment Fraud Risk Scoring",
+        "domain": "23",
+        "description": "Develop an AI solution to assess the risk of each digital payment transaction, flagging potentially fraudulent activities before completion.",
+        "keywords": ["Payment Systems", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2219,
+        "title": "Blockchain-Enabled Peer-to-Peer Insurance",
+        "domain": "23",
+        "description": "Build a blockchain-based platform to enable peer-to-peer insurance, automating claims and reducing reliance on traditional insurers.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2220,
+        "title": "AI-Powered Robo-Advisor for Retirement Planning",
+        "domain": "23",
+        "description": "Design a robo-advisor that uses AI to provide personalized retirement planning advice based on risk tolerance and investment goals.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2221,
+        "title": "Cryptocurrency Transaction Compliance Monitor",
+        "domain": "23",
+        "description": "Develop a blockchain-based system that ensures cryptocurrency transactions comply with global regulatory standards in real-time.",
+        "keywords": ["Cryptocurrency", "Blockchain", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2222,
+        "title": "AI-Powered Loan Portfolio Stress Testing",
+        "domain": "23",
+        "description": "Create an AI system to perform stress testing on loan portfolios, predicting potential defaults under various economic scenarios.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2223,
+        "title": "Blockchain-Based Supply Chain Financing",
+        "domain": "23",
+        "description": "Develop a blockchain platform to automate supply chain financing, ensuring transparency, traceability, and reduced fraud risk.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2224,
+        "title": "AI-Based Financial Market Sentiment Analysis",
+        "domain": "23",
+        "description": "Design an AI tool to analyze news, social media, and market data to determine market sentiment for better trading and investment decisions.",
+        "keywords": ["Financial Analytics", "AI Systems", "Algorithmic Trading", "Digital Banking"]
+    },
+    {
+        "id": 2225,
+        "title": "Decentralized Crowdfunding Platform",
+        "domain": "23",
+        "description": "Create a blockchain-powered crowdfunding platform that allows secure, transparent, and direct funding for startups and projects.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2226,
+        "title": "AI-Powered Regulatory Risk Prediction",
+        "domain": "23",
+        "description": "Develop an AI system that predicts potential regulatory risks for fintech and banking institutions, enabling proactive mitigation.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2227,
+        "title": "Digital Banking Chatbot with Fraud Detection",
+        "domain": "23",
+        "description": "Create an AI chatbot for digital banking platforms capable of handling customer queries while identifying suspicious activities.",
+        "keywords": ["Digital Banking", "AI Systems", "Payment Systems", "Risk Management"]
+    },
+    {
+        "id": 2228,
+        "title": "Algorithmic Crypto Arbitrage System",
+        "domain": "23",
+        "description": "Build a system that identifies price discrepancies between cryptocurrency exchanges and executes automated arbitrage trades.",
+        "keywords": ["Cryptocurrency", "Algorithmic Trading", "Financial Analytics", "AI Systems"]
+    },
+    {
+        "id": 2229,
+        "title": "Blockchain-Powered Identity Verification",
+        "domain": "23",
+        "description": "Develop a decentralized identity verification system for financial services that ensures secure, immutable, and fast KYC compliance.",
+        "keywords": ["Blockchain", "Digital Banking", "RegTech", "Financial Analytics"]
+    },
+    {
+        "id": 2230,
+        "title": "AI-Powered Expense Categorization and Forecasting",
+        "domain": "23",
+        "description": "Create an AI system that automatically categorizes personal or business expenses and forecasts future cash flow trends.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2231,
+        "title": "Decentralized Stablecoin Payment Platform",
+        "domain": "23",
+        "description": "Build a blockchain-based platform for stablecoin payments to ensure low volatility, secure transactions, and real-time settlements.",
+        "keywords": ["Blockchain", "Payment Systems", "DeFi", "Digital Banking"]
+    },
+    {
+        "id": 2232,
+        "title": "AI-Powered Customer Default Prediction",
+        "domain": "23",
+        "description": "Develop an AI system that predicts customer default probabilities for loans, credit cards, and fintech lending services.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2233,
+        "title": "AI-Driven Dynamic Interest Rate Optimization",
+        "domain": "23",
+        "description": "Create an AI system that dynamically adjusts interest rates for loans and deposits based on market trends, risk, and customer behavior.",
+        "keywords": ["AI Systems", "Financial Analytics", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2234,
+        "title": "Blockchain-Based Real Estate Tokenization",
+        "domain": "23",
+        "description": "Develop a platform that converts real estate assets into blockchain tokens, enabling fractional ownership and secure trading.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2235,
+        "title": "AI-Powered Loan Restructuring Advisor",
+        "domain": "23",
+        "description": "Build an AI tool that recommends optimal loan restructuring plans to minimize defaults and improve borrower financial health.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2236,
+        "title": "RegTech-Based AML Automation",
+        "domain": "23",
+        "description": "Create a system that automates anti-money laundering compliance for financial institutions using AI and blockchain technologies.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2237,
+        "title": "AI-Driven Personalized Investment Insights",
+        "domain": "23",
+        "description": "Develop an AI platform that provides individualized investment insights, including risk assessment and performance predictions.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2238,
+        "title": "Decentralized Credit Rating Platform",
+        "domain": "23",
+        "description": "Build a blockchain-based platform to provide transparent and decentralized credit ratings for individuals and SMEs.",
+        "keywords": ["Blockchain", "Credit Scoring", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2239,
+        "title": "AI-Powered Regulatory Change Impact Analyzer",
+        "domain": "23",
+        "description": "Design an AI tool to analyze potential impacts of regulatory changes on financial operations and risk exposure.",
+        "keywords": ["RegTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2240,
+        "title": "Blockchain-Enabled Trade Settlement Automation",
+        "domain": "23",
+        "description": "Develop a blockchain platform that automates settlement of trade transactions for reduced processing time and enhanced security.",
+        "keywords": ["Blockchain", "Payment Systems", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2241,
+        "title": "AI-Powered Loan Fraud Detection",
+        "domain": "23",
+        "description": "Create an AI system to detect fraudulent loan applications and prevent financial losses in banking and fintech systems.",
+        "keywords": ["Credit Scoring", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2242,
+        "title": "Blockchain-Powered Supply Chain Financing",
+        "domain": "23",
+        "description": "Build a decentralized financing platform that tracks supply chain transactions securely and reduces financing friction for SMEs.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2243,
+        "title": "AI-Based Customer Financial Behavior Prediction",
+        "domain": "23",
+        "description": "Develop an AI model to predict customer financial behaviors, spending habits, and potential default risks for personalized services.",
+        "keywords": ["AI Systems", "Credit Scoring", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2244,
+        "title": "Decentralized Insurance Smart Contracts",
+        "domain": "23",
+        "description": "Create smart contracts to automate insurance claim approvals, payouts, and policy enforcement in a decentralized insurance platform.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2245,
+        "title": "AI-Powered Investment Portfolio Rebalancing",
+        "domain": "23",
+        "description": "Design an AI tool that continuously monitors and rebalances investment portfolios to optimize risk and returns automatically.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2246,
+        "title": "Blockchain-Based Peer-to-Peer Lending",
+        "domain": "23",
+        "description": "Develop a decentralized lending platform that connects borrowers and lenders directly, automating contracts and repayments via smart contracts.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2247,
+        "title": "AI-Powered Payment Risk Analysis",
+        "domain": "23",
+        "description": "Create an AI system to evaluate payment transaction risks in real time, including fraud detection and credit exposure assessment.",
+        "keywords": ["Payment Systems", "AI Systems", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2248,
+        "title": "Digital Banking Biometric Authentication",
+        "domain": "23",
+        "description": "Build a biometric authentication system for digital banking apps to enhance security and user experience using fingerprint, face, or voice recognition.",
+        "keywords": ["Digital Banking", "Security Systems", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2249,
+        "title": "AI-Driven Algorithmic Crypto Trading",
+        "domain": "23",
+        "description": "Develop an AI system to execute algorithmic trading strategies in cryptocurrency markets to maximize returns while minimizing risk.",
+        "keywords": ["Algorithmic Trading", "AI Systems", "Cryptocurrency", "Financial Analytics"]
+    },
+    {
+        "id": 2250,
+        "title": "Blockchain-Powered Invoice Financing",
+        "domain": "23",
+        "description": "Create a decentralized platform for invoice financing that automates verification and ensures secure and fast funding for businesses.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2251,
+        "title": "AI-Based Wealth Fraud Detection",
+        "domain": "23",
+        "description": "Design an AI platform that monitors wealth management activities and detects suspicious or fraudulent transactions.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Robo-Advisors"]
+    },
+    {
+        "id": 2252,
+        "title": "RegTech AI Chatbot for Compliance Queries",
+        "domain": "23",
+        "description": "Develop an AI chatbot that helps financial institutions and fintechs handle regulatory compliance queries and provides real-time guidance.",
+        "keywords": ["RegTech", "AI Systems", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2253,
+        "title": "Blockchain-Based Crowdsourced Credit Rating",
+        "domain": "23",
+        "description": "Create a decentralized platform where communities can provide credit insights on borrowers, improving transparency and reliability.",
+        "keywords": ["Blockchain", "Credit Scoring", "DeFi", "Financial Analytics"]
+    },
+    {
+        "id": 2254,
+        "title": "AI-Powered Risk Monitoring for Investment Funds",
+        "domain": "23",
+        "description": "Build an AI system that continuously monitors investment fund portfolios for market, credit, and operational risks.",
+        "keywords": ["Financial Analytics", "AI Systems", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2255,
+        "title": "Decentralized Crowdfunding Compliance Tracker",
+        "domain": "23",
+        "description": "Develop a blockchain solution that tracks compliance of crowdfunding campaigns with financial and legal regulations.",
+        "keywords": ["Blockchain", "DeFi", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2256,
+        "title": "AI-Powered Fraud Detection in Insurance Claims",
+        "domain": "23",
+        "description": "Create an AI system that detects fraudulent insurance claims and flags suspicious activities automatically for investigation.",
+        "keywords": ["InsurTech", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2257,
+        "title": "AI-Powered Real-Time Credit Monitoring",
+        "domain": "23",
+        "description": "Develop an AI system that monitors customer credit behavior in real time and alerts for potential risks or defaults.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2258,
+        "title": "Blockchain-Based Payment Settlement Hub",
+        "domain": "23",
+        "description": "Create a blockchain hub to facilitate secure and fast settlement of payments between banks and financial institutions.",
+        "keywords": ["Blockchain", "Payment Systems", "Digital Banking", "DeFi"]
+    },
+    {
+        "id": 2259,
+        "title": "AI-Driven Robo-Advisor for Tax Optimization",
+        "domain": "23",
+        "description": "Build an AI platform that provides personalized tax optimization strategies based on investment portfolios and regulations.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2260,
+        "title": "Decentralized Peer-to-Peer Insurance Marketplace",
+        "domain": "23",
+        "description": "Develop a blockchain marketplace that connects insurers and customers directly, automating policy issuance and claims.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Risk Management"]
+    },
+    {
+        "id": 2261,
+        "title": "AI-Powered Cryptocurrency Wallet Security",
+        "domain": "23",
+        "description": "Create an AI-driven security system for cryptocurrency wallets that detects unauthorized access and prevents theft.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Digital Banking", "Security"]
+    },
+    {
+        "id": 2262,
+        "title": "Blockchain-Based Invoice Verification System",
+        "domain": "23",
+        "description": "Design a decentralized platform to verify invoices automatically for secure and faster business transactions.",
+        "keywords": ["Blockchain", "Digital Banking", "Payment Systems", "DeFi"]
+    },
+    {
+        "id": 2263,
+        "title": "AI-Powered Customer Spending Insights",
+        "domain": "23",
+        "description": "Develop an AI system that analyzes customer spending patterns and provides actionable insights for personalized financial products.",
+        "keywords": ["Financial Analytics", "AI Systems", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+        "id": 2264,
+        "title": "Blockchain-Based SME Financing Platform",
+        "domain": "23",
+        "description": "Build a decentralized platform to provide transparent and secure financing for small and medium enterprises using blockchain technology.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2265,
+        "title": "AI-Driven Dynamic Risk Assessment for Loans",
+        "domain": "23",
+        "description": "Create an AI system that dynamically assesses loan risks based on market conditions and borrower financial behavior.",
+        "keywords": ["Credit Scoring", "Risk Management", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2266,
+        "title": "Decentralized Stablecoin Lending Platform",
+        "domain": "23",
+        "description": "Develop a blockchain-based platform for lending and borrowing stablecoins with automated smart contract management.",
+        "keywords": ["DeFi", "Blockchain", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2267,
+        "title": "AI-Powered Fraud Detection in Peer-to-Peer Payments",
+        "domain": "23",
+        "description": "Create an AI system that monitors P2P payment networks and identifies suspicious or fraudulent activities.",
+        "keywords": ["Payment Systems", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2268,
+        "title": "Blockchain-Based Digital Asset Custody",
+        "domain": "23",
+        "description": "Build a decentralized platform for secure storage and management of digital assets using blockchain technology.",
+        "keywords": ["Blockchain", "Digital Banking", "DeFi", "Security"]
+    },
+    {
+        "id": 2269,
+        "title": "AI-Powered Predictive Wealth Management",
+        "domain": "23",
+        "description": "Develop an AI system that predicts future market trends and suggests wealth management strategies for investors.",
+        "keywords": ["Robo-Advisors", "AI Systems", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2270,
+        "title": "RegTech-Based Automated Reporting System",
+        "domain": "23",
+        "description": "Design a RegTech platform that automatically generates regulatory reports for financial institutions with compliance validation.",
+        "keywords": ["RegTech", "Digital Banking", "AI Systems", "Financial Analytics"]
+    },
+    {
+        "id": 2271,
+        "title": "AI-Powered Cryptocurrency Portfolio Risk Management",
+        "domain": "23",
+        "description": "Create an AI system to monitor and manage cryptocurrency portfolios, analyzing volatility and risk exposure in real time.",
+        "keywords": ["Cryptocurrency", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2272,
+        "title": "Blockchain-Based Peer-to-Peer Lending Risk Assessment",
+        "domain": "23",
+        "description": "Develop a decentralized risk assessment tool for P2P lending platforms to ensure safe and transparent lending.",
+        "keywords": ["Blockchain", "DeFi", "Credit Scoring", "Financial Analytics"]
+    },
+    {
+        "id": 2273,
+        "title": "AI-Powered Tax Compliance Monitoring",
+        "domain": "23",
+        "description": "Build an AI tool that monitors tax filings and transactions to ensure compliance with national and international tax regulations.",
+        "keywords": ["AI Systems", "Financial Analytics", "RegTech", "Digital Banking"]
+    },
+    {
+        "id": 2274,
+        "title": "Blockchain-Based Digital Identity for Banking",
+        "domain": "23",
+        "description": "Create a decentralized digital identity system for banking that ensures secure, tamper-proof authentication of customers.",
+        "keywords": ["Blockchain", "Digital Banking", "Security", "RegTech"]
+    },
+    {
+        "id": 2275,
+        "title": "AI-Enhanced Payment Gateway Fraud Prevention",
+        "domain": "23",
+        "description": "Develop an AI system for payment gateways that detects fraudulent transactions and prevents unauthorized access in real time.",
+        "keywords": ["Payment Systems", "AI Systems", "Risk Management", "Digital Banking"]
+    },
+    {
+        "id": 2276,
+        "title": "Decentralized Crowdfunding Governance Platform",
+        "domain": "23",
+        "description": "Build a blockchain platform for decentralized governance of crowdfunding projects, enabling transparent voting and fund allocation.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2277,
+        "title": "AI-Powered Customer Risk Segmentation",
+        "domain": "23",
+        "description": "Create an AI system that segments customers based on risk profiles to provide personalized financial products and risk mitigation strategies.",
+        "keywords": ["Financial Analytics", "AI Systems", "Credit Scoring", "Risk Management"]
+    },
+    {
+        "id": 2278,
+        "title": "Blockchain-Based Asset Tokenization for SMEs",
+        "domain": "23",
+        "description": "Develop a platform to tokenize SME assets on blockchain, enabling secure fractional ownership and investment opportunities.",
+        "keywords": ["Blockchain", "DeFi", "Digital Banking", "Financial Analytics"]
+    },
+    {
+        "id": 2279,
+        "title": "AI-Powered Digital Banking Chatbot for Risk Alerts",
+        "domain": "23",
+        "description": "Build a chatbot for digital banking platforms that informs customers about potential risks, frauds, and suspicious activities.",
+        "keywords": ["AI Systems", "Digital Banking", "Risk Management", "Financial Analytics"]
+    },
+    {
+        "id": 2280,
+        "title": "Decentralized DeFi Derivatives Trading Platform",
+        "domain": "23",
+        "description": "Create a blockchain platform that allows decentralized trading of derivatives with automated smart contract settlements.",
+        "keywords": ["DeFi", "Blockchain", "Financial Analytics", "Digital Banking"]
+    },
+    {
+        "id": 2281,
+        "title": "AI-Powered Real-Time Loan Monitoring",
+        "domain": "23",
+        "description": "Develop an AI system to monitor active loans in real time, providing alerts for early signs of default or delinquency.",
+        "keywords": ["Credit Scoring", "AI Systems", "Financial Analytics", "Risk Management"]
+    },
+    {
+        "id": 2282,
+        "title": "Blockchain-Powered Insurance Policy Marketplace",
+        "domain": "23",
+        "description": "Build a decentralized marketplace for insurance policies, enabling secure, transparent, and automated policy management.",
+        "keywords": ["Blockchain", "InsurTech", "DeFi", "Digital Banking"]
+    },
+    {
+        "id": 2283,
+        "title": "AI-Driven Market Sentiment Analytics for Investments",
+        "domain": "23",
+        "description": "Create an AI system that analyzes news, social media, and market data to predict market sentiment for better investment decisions.",
+        "keywords": ["AI Systems", "Financial Analytics", "Algorithmic Trading", "Digital Banking"]
+    },
+
+
+
+
 
         // GAMING & ENTERTAINMENT (Domain 24)
         {
