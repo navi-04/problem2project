@@ -15654,9 +15654,512 @@ const PROBLEMS_DATA = {
         "description": "Create a blockchain-enabled platform to track and verify vehicle ownership, accident history, and maintenance records for transparency.",
         "keywords": ["Connected Cars", "Blockchain", "Vehicle Systems", "Safety Systems"]
     },
+    { 
+        "id": 2113,
+        "title": "Smart Highway Lane Management",
+        "domain": "22",
+        "description": "Develop a dynamic highway lane management system that adjusts lane directions and speeds based on real-time traffic flow.",
+        "keywords": ["Traffic Management", "Smart Cities", "AI Systems", "Mobility"]
+    },
+    { 
+        "id": 2114,
+        "title": "AI-Driven Ride-Sharing Optimization",
+        "domain": "22",
+        "description": "Build a platform that uses AI to match passengers with shared rides efficiently, minimizing costs and reducing congestion.",
+        "keywords": ["Mobility", "Smart Cities", "AI Systems", "Transportation Planning"]
+    },
+    { 
+        "id": 2115,
+        "title": "Smart Tire Pressure Monitoring",
+        "domain": "22",
+        "description": "Create an IoT-based system that monitors and alerts drivers about tire pressure anomalies to improve safety and fuel efficiency.",
+        "keywords": ["Vehicle Systems", "IoT", "Safety Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2116,
+        "title": "EV Charging with Renewable Energy Integration",
+        "domain": "22",
+        "description": "Design a smart EV charging infrastructure that integrates solar and wind energy for sustainable charging solutions.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Sustainability", "Smart Cities"]
+    },
+    { 
+        "id": 2117,
+        "title": "AI-Based Traffic Violation Detection",
+        "domain": "22",
+        "description": "Develop an AI-powered camera system to automatically detect and report traffic violations like speeding and red-light jumping.",
+        "keywords": ["Traffic Management", "AI Systems", "Safety Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2118,
+        "title": "Autonomous Port Operations",
+        "domain": "22",
+        "description": "Build an autonomous vehicle and crane management system to optimize cargo handling and reduce delays at ports.",
+        "keywords": ["Logistics", "Autonomous Driving", "Fleet Management", "Smart Cities"]
+    },
+    { 
+        "id": 2119,
+        "title": "Predictive Vehicle Maintenance",
+        "domain": "22",
+        "description": "Create a predictive maintenance solution for vehicles using IoT sensors and AI to detect issues before they cause breakdowns.",
+        "keywords": ["Vehicle Systems", "AI Systems", "IoT", "Fleet Management"]
+    },
+    { 
+        "id": 2120,
+        "title": "AI-Optimized School Bus Routing",
+        "domain": "22",
+        "description": "Design a smart routing solution for school buses that ensures student safety and minimizes travel time using AI algorithms.",
+        "keywords": ["Transportation Planning", "Fleet Management", "AI Systems", "Safety Systems"]
+    },
+    { 
+        "id": 2121,
+        "title": "Intelligent Traffic Flow Prediction",
+        "domain": "22",
+        "description": "Develop a system that predicts traffic flow patterns based on live feeds, historical data, and weather conditions.",
+        "keywords": ["Traffic Management", "AI Systems", "Mobility", "Smart Cities"]
+    },
+    { 
+        "id": 2122,
+        "title": "Urban Air Mobility Management",
+        "domain": "22",
+        "description": "Build a control and scheduling system for urban air taxis and drones to ensure safe and efficient operations.",
+        "keywords": ["Mobility", "Autonomous Driving", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2123,
+        "title": "Smart Freight Loading System",
+        "domain": "22",
+        "description": "Create an AI-assisted freight loading platform that optimizes space utilization and reduces fuel consumption for cargo transport.",
+        "keywords": ["Logistics", "Fleet Management", "AI Systems", "Sustainability"]
+    },
+    { 
+        "id": 2124,
+        "title": "AI-Based Driver Drowsiness Detection",
+        "domain": "22",
+        "description": "Develop a real-time driver monitoring system using AI vision to detect drowsiness or distraction and alert the driver.",
+        "keywords": ["Safety Systems", "AI Systems", "Vehicle Systems", "Mobility"]
+    },
+    { 
+        "id": 2125,
+        "title": "Intelligent EV Grid Balancing",
+        "domain": "22",
+        "description": "Design a system where EVs interact with the power grid to balance energy demand and supply using AI predictions.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Sustainability"]
+    },
+    { 
+        "id": 2126,
+        "title": "IoT-Based Public Bike Sharing",
+        "domain": "22",
+        "description": "Build a connected bike-sharing platform that uses IoT sensors for location tracking, theft prevention, and smart scheduling.",
+        "keywords": ["Mobility", "IoT", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2127,
+        "title": "AI-Enhanced Railway Safety Monitoring",
+        "domain": "22",
+        "description": "Create an AI-powered monitoring system for railways to detect cracks, obstructions, or failures in real time.",
+        "keywords": ["Transportation Planning", "Safety Systems", "AI Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2128,
+        "title": "Blockchain-Based Logistics Tracking",
+        "domain": "22",
+        "description": "Develop a blockchain-enabled logistics platform to track cargo across multiple checkpoints with transparency and security.",
+        "keywords": ["Logistics", "Blockchain", "Fleet Management", "Smart Cities"]
+    },
+    { 
+        "id": 2129,
+        "title": "Autonomous Emergency Response Vehicles",
+        "domain": "22",
+        "description": "Design autonomous ambulances and fire trucks capable of navigating congested cities and reaching emergencies faster.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2130,
+        "title": "Green Hydrogen Transport Infrastructure",
+        "domain": "22",
+        "description": "Develop infrastructure solutions to support hydrogen-based transportation for heavy-duty trucks and buses.",
+        "keywords": ["Sustainability", "Mobility", "Smart Cities", "Transportation Planning"]
+    },
+    { 
+        "id": 2131,
+        "title": "Crowdsourced Road Hazard Reporting",
+        "domain": "22",
+        "description": "Build a platform where drivers can report potholes, accidents, and hazards in real time, improving road safety.",
+        "keywords": ["Traffic Management", "Safety Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2132,
+        "title": "AI-Powered Fleet Insurance Risk Analysis",
+        "domain": "22",
+        "description": "Create a system that uses AI to analyze driving behavior and fleet data to optimize insurance premiums.",
+        "keywords": ["Fleet Management", "AI Systems", "Safety Systems", "Logistics"]
+    },
+    { 
+        "id": 2133,
+        "title": "EV Charging Queue Management",
+        "domain": "22",
+        "description": "Develop a system to predict and manage waiting times at EV charging stations using real-time data.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2134,
+        "title": "AI-Based Air Traffic Flow Management",
+        "domain": "22",
+        "description": "Design an AI solution to optimize air traffic control operations, reducing delays and enhancing safety.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2135,
+        "title": "Intelligent Cold Chain Logistics",
+        "domain": "22",
+        "description": "Build a real-time monitoring and optimization system for cold chain logistics to preserve perishable goods.",
+        "keywords": ["Logistics", "IoT", "Fleet Management", "Sustainability"]
+    },
+    { 
+        "id": 2136,
+        "title": "Augmented Reality for Vehicle Repair",
+        "domain": "22",
+        "description": "Develop an AR-based system to guide mechanics through complex vehicle repairs with step-by-step visual assistance.",
+        "keywords": ["Vehicle Systems", "AR/VR", "AI Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2137,
+        "title": "Smart City Mobility Dashboard",
+        "domain": "22",
+        "description": "Create an integrated mobility dashboard for city planners to monitor traffic, public transport, and logistics in real time.",
+        "keywords": ["Smart Cities", "Mobility", "Traffic Management", "AI Systems"]
+    },
+    { 
+        "id": 2138,
+        "title": "Smart EV Battery Recycling System",
+        "domain": "22",
+        "description": "Develop an intelligent system to collect, sort, and recycle EV batteries, ensuring sustainability and reducing environmental impact.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Sustainability", "Smart Cities"]
+    },
+    { 
+        "id": 2139,
+        "title": "AI-Based Road Traffic Accident Analysis",
+        "domain": "22",
+        "description": "Create an AI-powered platform that analyzes accident data to identify root causes and suggest preventive strategies.",
+        "keywords": ["Traffic Management", "Safety Systems", "AI Systems", "Mobility"]
+    },
+    { 
+        "id": 2140,
+        "title": "Hyperloop Operations Management",
+        "domain": "22",
+        "description": "Design an intelligent scheduling and safety system for managing hyperloop operations and passenger flow.",
+        "keywords": ["Transportation Planning", "Mobility", "Smart Cities", "AI Systems"]
+    },
+    { 
+        "id": 2141,
+        "title": "AI-Powered Traffic Jam Early Warning",
+        "domain": "22",
+        "description": "Build a predictive system that provides early warnings for traffic jams using AI models trained on traffic, weather, and event data.",
+        "keywords": ["Traffic Management", "AI Systems", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2142,
+        "title": "IoT-Enabled Smart Helmets",
+        "domain": "22",
+        "description": "Develop smart helmets with IoT sensors that monitor rider safety, detect accidents, and send emergency alerts.",
+        "keywords": ["Safety Systems", "IoT", "Vehicle Systems", "Mobility"]
+    },
+    { 
+        "id": 2143,
+        "title": "AI-Enhanced Border Transport Security",
+        "domain": "22",
+        "description": "Create an AI-driven inspection system for vehicles at borders to detect contraband, illegal goods, and safety violations.",
+        "keywords": ["Safety Systems", "Logistics", "AI Systems", "Vehicle Systems"]
+    },
+    { 
+        "id": 2144,
+        "title": "Smart EV Route Planner",
+        "domain": "22",
+        "description": "Design a route planning app for EVs that considers charging stations, terrain, and energy consumption for optimal travel.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Mobility", "AI Systems"]
+    },
+    { 
+        "id": 2145,
+        "title": "Autonomous Warehouse Vehicle System",
+        "domain": "22",
+        "description": "Develop autonomous guided vehicles for warehouses to streamline material handling and logistics efficiency.",
+        "keywords": ["Autonomous Driving", "Logistics", "Fleet Management", "AI Systems"]
+    },
+    { 
+        "id": 2146,
+        "title": "Intelligent Multi-Modal Transport System",
+        "domain": "22",
+        "description": "Build a platform that integrates buses, metros, ride-sharing, and bikes into a single seamless transport network.",
+        "keywords": ["Mobility", "Smart Cities", "Transportation Planning", "AI Systems"]
+    },
+    { 
+        "id": 2147,
+        "title": "AI-Based Road Weather Monitoring",
+        "domain": "22",
+        "description": "Create a system that uses sensors and AI to monitor road weather conditions and alert drivers to hazards like ice or fog.",
+        "keywords": ["Safety Systems", "AI Systems", "Traffic Management", "Smart Cities"]
+    },
+    { 
+        "id": 2148,
+        "title": "Blockchain-Based Vehicle Leasing",
+        "domain": "22",
+        "description": "Design a blockchain platform to manage vehicle leasing and ownership contracts with full transparency and traceability.",
+        "keywords": ["Connected Cars", "Blockchain", "Fleet Management", "Vehicle Systems"]
+    },
+    { 
+        "id": 2149,
+        "title": "Drone-Based Traffic Violation Reporting",
+        "domain": "22",
+        "description": "Use drones to monitor and capture traffic violations in real time, feeding data into a central enforcement system.",
+        "keywords": ["Traffic Management", "Drones", "Safety Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2150,
+        "title": "AI-Powered Vehicle Emission Monitoring",
+        "domain": "22",
+        "description": "Develop an AI-enabled system to track and analyze vehicle emissions, supporting enforcement of pollution control policies.",
+        "keywords": ["Sustainability", "AI Systems", "Vehicle Systems", "Smart Cities"]
+    },
+    { 
+        "id": 2151,
+        "title": "Autonomous Mining Transport Vehicles",
+        "domain": "22",
+        "description": "Build autonomous heavy-duty vehicles to improve safety and efficiency in mining transportation operations.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Vehicle Systems", "Safety Systems"]
+    },
+    { 
+        "id": 2152,
+        "title": "Smart EV Charging Subscription Platform",
+        "domain": "22",
+        "description": "Create a subscription-based EV charging network that provides users with optimized charging plans and cost benefits.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Mobility"]
+    },
+    { 
+        "id": 2153,
+        "title": "AI-Based Maritime Navigation System",
+        "domain": "22",
+        "description": "Develop an AI-powered navigation system for ships to optimize fuel efficiency and ensure collision avoidance.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2154,
+        "title": "IoT-Based Vehicle Theft Prevention",
+        "domain": "22",
+        "description": "Design an IoT-enabled anti-theft system for vehicles that provides real-time alerts and immobilization controls.",
+        "keywords": ["Vehicle Systems", "IoT", "Safety Systems", "Connected Cars"]
+    },
+    { 
+        "id": 2155,
+        "title": "AI-Driven Aviation Maintenance",
+        "domain": "22",
+        "description": "Create a predictive AI-based system for aircraft maintenance to enhance flight safety and reduce downtime.",
+        "keywords": ["Transportation Planning", "AI Systems", "Safety Systems", "Fleet Management"]
+    },
+    { 
+        "id": 2156,
+        "title": "Autonomous Roadside Assistance Robots",
+        "domain": "22",
+        "description": "Develop autonomous roadside robots capable of providing minor repair assistance and safety support for stranded vehicles.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Mobility", "Vehicle Systems"]
+    },
+    { 
+        "id": 2157,
+        "title": "AI-Powered Smart Shipping Routes",
+        "domain": "22",
+        "description": "Build an AI system that optimizes shipping routes based on weather, fuel efficiency, and port availability.",
+        "keywords": ["Logistics", "AI Systems", "Mobility", "Fleet Management"]
+    },
+    { 
+        "id": 2158,
+        "title": "Intelligent Vehicle-to-Grid Integration",
+        "domain": "22",
+        "description": "Create a system where EVs can feed energy back to the grid during peak demand, ensuring balanced energy usage.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Smart Cities", "Sustainability"]
+    },
+    { 
+        "id": 2159,
+        "title": "Drone-Assisted Emergency Medical Transport",
+        "domain": "22",
+        "description": "Develop drone systems to transport medical supplies and organs quickly across urban and rural areas.",
+        "keywords": ["Logistics", "Drones", "Safety Systems", "Mobility"]
+    },
+    { 
+        "id": 2160,
+        "title": "AI-Based Vehicle Crash Reconstruction",
+        "domain": "22",
+        "description": "Design an AI-powered crash reconstruction tool that analyzes accident data to determine causes and liability.",
+        "keywords": ["Safety Systems", "AI Systems", "Traffic Management", "Vehicle Systems"]
+    },
+    { 
+        "id": 2161,
+        "title": "Smart EV Charging Payment System",
+        "domain": "22",
+        "description": "Build a secure payment platform for EV charging that integrates digital wallets, subscriptions, and real-time billing.",
+        "keywords": ["Electric Vehicles", "Smart Cities", "Battery Technology", "Mobility"]
+    },
+    { 
+        "id": 2162,
+        "title": "Autonomous Snow Clearing Vehicles",
+        "domain": "22",
+        "description": "Develop autonomous vehicles capable of clearing snow and ice from roads while ensuring pedestrian and driver safety.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Fleet Management", "Mobility"]
+    },
+    {
+        "id": 2163,
+        "title": "Autonomous Valet Parking System",
+        "domain": "22",
+        "description": "Develop an autonomous valet parking solution that navigates vehicles to optimal parking spots, handles tight-space maneuvers, and returns vehicles on demand.",
+        "keywords": ["Autonomous Driving", "Mobility", "Smart Cities", "Vehicle Systems"]
+    },
+    {
+        "id": 2164,
+        "title": "Vehicle Interior Air Quality Monitor",
+        "domain": "22",
+        "description": "Create an in-vehicle air quality monitoring and filtration controller that detects pollutants and automatically adjusts ventilation to ensure passenger health.",
+        "keywords": ["Vehicle Systems", "Safety Systems", "Connected Cars", "Smart Cities"]
+    },
+    {
+        "id": 2165,
+        "title": "Predictive Pedestrian Crossing System",
+        "domain": "22",
+        "description": "Design a predictive system that uses sensors and behaviour models to extend crossing times or warn drivers when pedestrian intent is detected near intersections.",
+        "keywords": ["Safety Systems", "Traffic Management", "AI Systems", "Smart Cities"]
+    },
+    {
+        "id": 2166,
+        "title": "Micro-mobility Fleet Anti-Theft System",
+        "domain": "22",
+        "description": "Build an IoT and blockchain-powered anti-theft and recovery platform for shared e-scooters and bikes that prevents tampering and fraud.",
+        "keywords": ["Mobility", "IoT", "Fleet Management", "Smart Cities"]
+    },
+    {
+        "id": 2167,
+        "title": "Intermodal Freight Hub Optimizer",
+        "domain": "22",
+        "description": "Create an optimization engine for intermodal freight hubs that synchronizes rail, road, and port schedules to minimize dwell time and transfer costs.",
+        "keywords": ["Logistics", "Transportation Planning", "Fleet Management", "Smart Cities"]
+    },
+    {
+        "id": 2168,
+        "title": "Biometric Vehicle Occupant Authentication",
+        "domain": "22",
+        "description": "Develop a biometric authentication system (face/fingerprint) to ensure authorized vehicle access, personalized settings, and enhanced anti-theft security.",
+        "keywords": ["Connected Cars", "Security Systems", "Vehicle Systems", "Safety Systems"]
+    },
+    {
+        "id": 2169,
+        "title": "Truck Platooning Coordination Platform",
+        "domain": "22",
+        "description": "Design a coordination and control platform for truck platooning that reduces aerodynamic drag, optimizes spacing, and ensures safe maneuvers on highways.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Fuel Efficiency", "Logistics"]
+    },
+    {
+        "id": 2170,
+        "title": "Last-Mile Delivery Robot Swarm",
+        "domain": "22",
+        "description": "Build a multi-robot last-mile delivery system that coordinates small ground robots for parcel delivery in dense urban neighborhoods.",
+        "keywords": ["Logistics", "Autonomous Driving", "Mobility", "Smart Cities"]
+    },
+    {
+        "id": 2171,
+        "title": "Energy-Efficient HVAC for Electric Vehicles",
+        "domain": "22",
+        "description": "Create an adaptive HVAC control algorithm for EVs that reduces energy consumption while maintaining passenger comfort and range.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Vehicle Systems", "Sustainability"]
+    },
+    {
+        "id": 2172,
+        "title": "5G-Enabled Low-Latency V2X Platform",
+        "domain": "22",
+        "description": "Develop a 5G-based V2X communication platform with ultra-low latency for cooperative maneuvers, hazard broadcasting, and real-time traffic coordination.",
+        "keywords": ["Connected Cars", "V2X", "Smart Cities", "Traffic Management"]
+    },
+    {
+        "id": 2173,
+        "title": "Adaptive Suspension Load Balancing",
+        "domain": "22",
+        "description": "Design an adaptive suspension system that senses load distribution and road conditions to improve stability, comfort, and tire wear for varying cargo.",
+        "keywords": ["Vehicle Systems", "Safety Systems", "Fleet Management", "Mobility"]
+    },
+    {
+        "id": 2174,
+        "title": "Low-Light & Adverse Weather Sign Recognition",
+        "domain": "22",
+        "description": "Build an AI vision model that reliably detects road signs and signals in low-light, rain, and fog to support safe autonomous and assisted driving.",
+        "keywords": ["Autonomous Driving", "AI Systems", "Safety Systems", "Traffic Management"]
+    },
+    {
+        "id": 2175,
+        "title": "Dynamic Congestion Pricing Engine",
+        "domain": "22",
+        "description": "Create a real-time congestion pricing system that adjusts road or zone charges dynamically to reduce peak traffic and encourage alternative modes.",
+        "keywords": ["Traffic Management", "Transportation Planning", "Smart Cities", "Mobility"]
+    },
+    {
+        "id": 2176,
+        "title": "Mobility-as-a-Service Integration Hub",
+        "domain": "22",
+        "description": "Develop a unified MaaS platform that aggregates public and private transport options, Fare passes, and trip planning into one seamless user experience.",
+        "keywords": ["Mobility", "Smart Cities", "Transportation Planning", "Connected Cars"]
+    },
+    {
+        "id": 2177,
+        "title": "Modular Urban Delivery Locker Network",
+        "domain": "22",
+        "description": "Design a distributed modular locker system optimized for micro-hubs that reduces last-mile delivery time and enables flexible pickup/dropoff.",
+        "keywords": ["Logistics", "Smart Cities", "Mobility", "Transportation Planning"]
+    },
+    {
+        "id": 2178,
+        "title": "Battery Thermal Runaway Prevention System",
+        "domain": "22",
+        "description": "Create a monitoring and intervention system for EV battery packs that detects thermal anomalies early and triggers cooling or isolation protocols.",
+        "keywords": ["Electric Vehicles", "Battery Technology", "Safety Systems", "Vehicle Systems"]
+    },
+    {
+        "id": 2179,
+        "title": "Lifecycle Analysis for Lightweight Vehicle Materials",
+        "domain": "22",
+        "description": "Build a tool to evaluate environmental and cost impacts of lightweight materials across vehicle manufacturing, use, and end-of-life recycling.",
+        "keywords": ["Sustainability", "Vehicle Systems", "Transportation Planning", "Smart Cities"]
+    },
+    {
+        "id": 2180,
+        "title": "Autonomous Intersection Negotiation Protocol",
+        "domain": "22",
+        "description": "Design a decentralized negotiation protocol for autonomous vehicles to safely and efficiently traverse unsignalized or damaged intersections.",
+        "keywords": ["Autonomous Driving", "Safety Systems", "Traffic Management", "Connected Cars"]
+    },
+    {
+        "id": 2181,
+        "title": "Combustion-to-EV Retrofit Planning Tool",
+        "domain": "22",
+        "description": "Create a planning and costing platform for converting internal combustion vehicles to electric, assessing parts, range, and regulatory needs.",
+        "keywords": ["Electric Vehicles", "Vehicle Systems", "Sustainability", "Transportation Planning"]
+    },
+    {
+        "id": 2182,
+        "title": "Community E-Bike Battery Swap Stations",
+        "domain": "22",
+        "description": "Design an affordable neighborhood battery swap network for e-bikes that reduces downtime and encourages adoption of micro-mobility.",
+        "keywords": ["Electric Vehicles", "Mobility", "Smart Cities", "Sustainability"]
+    },
+    {
+        "id": 2183,
+        "title": "Multi-Agent Autonomous Taxi Coordination",
+        "domain": "22",
+        "description": "Build a multi-agent coordination framework for autonomous taxis to manage demand, reduce deadheading, and optimize passenger pooling.",
+        "keywords": ["Autonomous Driving", "Fleet Management", "Mobility", "AI Systems"]
+    },
+    {
+        "id": 2184,
+        "title": "Dynamic Parking Pricing & Payment Integration",
+        "domain": "22",
+        "description": "Create a city-wide dynamic parking pricing and unified payment system that reduces cruising for parking and improves turnover in high-demand areas.",
+        "keywords": ["Smart Cities", "Traffic Management", "Mobility", "Connected Cars"]
+    },
 
-
-        // FINANCE & FINTECH (Domain 23)
+       // FINANCE & FINTECH (Domain 23)
         {
             "id": 2301,
             "title": "Cryptocurrency Trading Bot",
