@@ -18116,7 +18116,668 @@ const PROBLEMS_DATA = {
         "keywords": ["AI", "Edge Computing", "Resource Orchestration", "Telecommunications"]
     },
 // PHARMACEUTICAL & DRUG DISCOVERY (Domain 27)
-        
+    {
+        "id": 2596,
+        "title": "AI-Driven Drug Candidate Screening",
+        "domain": "27",
+        "description": "Develop AI algorithms to rapidly screen and identify potential drug candidates based on molecular structures.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Pharmaceutical"]
+    },
+    {
+        "id": 2597,
+        "title": "Predictive Pharmacokinetics Modeling",
+        "domain": "27",
+        "description": "Create machine learning models to predict the absorption, distribution, metabolism, and excretion (ADME) of new drugs.",
+        "keywords": ["Pharmacokinetics", "Drug Discovery", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2598,
+        "title": "Digital Twin for Clinical Trials",
+        "domain": "27",
+        "description": "Implement digital twin simulations of patients to optimize clinical trial design and reduce trial failures.",
+        "keywords": ["Clinical Trials", "Digital Twin", "Personalized Medicine", "Drug Development"]
+    },
+    {
+        "id": 2599,
+        "title": "AI-Powered Drug Repurposing",
+        "domain": "27",
+        "description": "Use AI to identify existing drugs that can be repurposed for new therapeutic indications.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Pharmaceutical"]
+    },
+    {
+        "id": 2600,
+        "title": "Nanoparticle-Based Drug Delivery Systems",
+        "domain": "27",
+        "description": "Design targeted nanoparticle drug delivery systems to improve efficacy and reduce side effects.",
+        "keywords": ["Drug Delivery", "Nanotechnology", "Therapeutics", "Pharmaceutical"]
+    },
+    {
+        "id": 2601,
+        "title": "Biomarker Identification for Personalized Medicine",
+        "domain": "27",
+        "description": "Develop computational methods to identify biomarkers that can guide personalized treatment plans.",
+        "keywords": ["Biomarkers", "Personalized Medicine", "AI", "Drug Discovery"]
+    },
+    {
+        "id": 2602,
+        "title": "Automated Toxicity Prediction",
+        "domain": "27",
+        "description": "Create AI systems that predict the toxicity of new compounds to accelerate safe drug development.",
+        "keywords": ["Drug Discovery", "Toxicity Prediction", "AI", "Pharmacovigilance"]
+    },
+    {
+        "id": 2603,
+        "title": "AI-Guided Molecular Docking",
+        "domain": "27",
+        "description": "Develop AI models to simulate molecular docking and optimize interactions between drugs and target proteins.",
+        "keywords": ["Molecular Design", "AI", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2604,
+        "title": "Real-Time Clinical Trial Monitoring",
+        "domain": "27",
+        "description": "Implement digital platforms for continuous monitoring and analysis of patient data in clinical trials.",
+        "keywords": ["Clinical Trials", "Digital Monitoring", "Drug Development", "Pharmaceutical"]
+    },
+    {
+        "id": 2605,
+        "title": "AI-Powered Protein Structure Prediction",
+        "domain": "27",
+        "description": "Use AI to predict 3D structures of proteins to aid in the design of effective drugs.",
+        "keywords": ["Molecular Design", "Protein Structure", "AI", "Drug Discovery"]
+    },
+    {
+        "id": 2606,
+        "title": "Automated Adverse Event Detection",
+        "domain": "27",
+        "description": "Develop machine learning systems to detect adverse drug reactions from clinical data in real time.",
+        "keywords": ["Pharmacovigilance", "AI", "Clinical Trials", "Drug Safety"]
+    },
+    {
+        "id": 2607,
+        "title": "Computational Multi-Target Drug Design",
+        "domain": "27",
+        "description": "Design drugs that can simultaneously target multiple disease pathways using computational modeling.",
+        "keywords": ["Molecular Design", "Drug Discovery", "Therapeutics", "AI"]
+    },
+    {
+        "id": 2608,
+        "title": "AI-Based Drug-Drug Interaction Prediction",
+        "domain": "27",
+        "description": "Predict potential interactions between drugs using AI to improve patient safety.",
+        "keywords": ["Pharmacovigilance", "Drug Discovery", "AI", "Clinical Trials"]
+    },
+    {
+        "id": 2609,
+        "title": "Virtual Screening of Biopharmaceuticals",
+        "domain": "27",
+        "description": "Use computational models to perform high-throughput virtual screening of biopharmaceutical compounds.",
+        "keywords": ["Drug Discovery", "Biopharmaceuticals", "Molecular Design", "AI"]
+    },
+    {
+        "id": 2610,
+        "title": "Personalized Drug Dosage Optimization",
+        "domain": "27",
+        "description": "Develop AI models to suggest patient-specific drug dosages based on pharmacokinetics and genomics.",
+        "keywords": ["Personalized Medicine", "Pharmacokinetics", "AI", "Drug Delivery"]
+    },
+    {
+        "id": 2611,
+        "title": "Regulatory Compliance Automation",
+        "domain": "27",
+        "description": "Create platforms that automatically ensure drug development processes comply with regulatory requirements.",
+        "keywords": ["Regulatory Affairs", "Automation", "Drug Development", "Pharmaceutical"]
+    },
+    {
+        "id": 2612,
+        "title": "AI-Based Rare Disease Drug Discovery",
+        "domain": "27",
+        "description": "Use AI to identify potential drug compounds for rare and orphan diseases with limited datasets.",
+        "keywords": ["Drug Discovery", "Rare Diseases", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2613,
+        "title": "Real-Time Pharmacovigilance Dashboards",
+        "domain": "27",
+        "description": "Implement dashboards for monitoring and analyzing adverse events from multiple clinical trial sources.",
+        "keywords": ["Pharmacovigilance", "Clinical Trials", "AI", "Drug Safety"]
+    },
+    {
+        "id": 2614,
+        "title": "AI-Enhanced Molecular Dynamics Simulation",
+        "domain": "27",
+        "description": "Leverage AI to accelerate molecular dynamics simulations for drug-target interactions.",
+        "keywords": ["Molecular Design", "AI", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2615,
+        "title": "Targeted Drug Delivery Using AI",
+        "domain": "27",
+        "description": "Develop AI models to design targeted drug delivery systems that maximize therapeutic effect.",
+        "keywords": ["Drug Delivery", "AI", "Personalized Medicine", "Therapeutics"]
+    },
+    {
+        "id": 2616,
+        "title": "Biomarker-Guided Clinical Trial Design",
+        "domain": "27",
+        "description": "Use biomarkers to stratify patients and optimize clinical trial efficacy and safety.",
+        "keywords": ["Biomarkers", "Clinical Trials", "Personalized Medicine", "Drug Development"]
+    },
+    {
+        "id": 2617,
+        "title": "AI-Assisted Pharmacokinetic Modeling",
+        "domain": "27",
+        "description": "Use machine learning to improve prediction of drug absorption, distribution, metabolism, and excretion.",
+        "keywords": ["Pharmacokinetics", "AI", "Drug Discovery", "Drug Delivery"]
+    },
+    {
+        "id": 2618,
+        "title": "Precision Medicine Workflow Automation",
+        "domain": "27",
+        "description": "Develop systems that automate personalized medicine workflows from patient profiling to drug selection.",
+        "keywords": ["Precision Medicine", "Automation", "Drug Discovery", "Personalized Medicine"]
+    },
+    {
+        "id": 2619,
+        "title": "AI-Powered Toxicogenomics",
+        "domain": "27",
+        "description": "Use AI to analyze genomic data to predict drug-induced toxicity at the molecular level.",
+        "keywords": ["Toxicogenomics", "AI", "Drug Discovery", "Pharmacovigilance"]
+    },
+    {
+        "id": 2620,
+        "title": "Drug Solubility Prediction Models",
+        "domain": "27",
+        "description": "Develop computational models to predict solubility and bioavailability of new compounds.",
+        "keywords": ["Drug Discovery", "Pharmacokinetics", "AI", "Molecular Design"]
+    },
+    {
+        "id": 2621,
+        "title": "AI-Based Enzyme Inhibitor Design",
+        "domain": "27",
+        "description": "Develop AI models to design enzyme inhibitors for targeted therapeutic applications.",
+        "keywords": ["Molecular Design", "Drug Discovery", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2622,
+        "title": "Automated Drug Formulation Optimization",
+        "domain": "27",
+        "description": "Use computational tools to optimize drug formulation parameters for stability and efficacy.",
+        "keywords": ["Drug Delivery", "Formulation", "AI", "Pharmaceutical"]
+    },
+    {
+        "id": 2623,
+        "title": "AI-Powered Multi-Omics Analysis for Drug Discovery",
+        "domain": "27",
+        "description": "Integrate genomics, proteomics, and metabolomics data using AI to discover novel drug targets.",
+        "keywords": ["Drug Discovery", "AI", "Multi-Omics", "Therapeutics"]
+    },
+    {
+        "id": 2624,
+        "title": "Predictive Models for Drug Side Effects",
+        "domain": "27",
+        "description": "Develop AI systems to predict potential side effects of new drugs using historical and molecular data.",
+        "keywords": ["Pharmacovigilance", "AI", "Drug Discovery", "Drug Safety"]
+    },
+    {
+        "id": 2625,
+        "title": "Virtual Patient Simulation for Clinical Trials",
+        "domain": "27",
+        "description": "Create virtual patient models to simulate trial outcomes and reduce the need for large-scale human trials.",
+        "keywords": ["Clinical Trials", "Simulation", "Personalized Medicine", "Drug Development"]
+    },
+    {
+        "id": 2626,
+        "title": "AI-Assisted Antibody Design",
+        "domain": "27",
+        "description": "Develop AI frameworks to design therapeutic antibodies with high specificity and low immunogenicity.",
+        "keywords": ["Drug Discovery", "Molecular Design", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2627,
+        "title": "Machine Learning for Drug-Target Interaction Prediction",
+        "domain": "27",
+        "description": "Use ML models to predict interactions between candidate drugs and protein targets to streamline discovery.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2628,
+        "title": "High-Throughput Virtual Screening Pipeline",
+        "domain": "27",
+        "description": "Design automated virtual screening pipelines to rapidly evaluate thousands of compounds for activity.",
+        "keywords": ["Drug Discovery", "Virtual Screening", "AI", "Molecular Design"]
+    },
+    {
+        "id": 2629,
+        "title": "AI-Based Personalized Therapy Recommendation",
+        "domain": "27",
+        "description": "Create AI systems that recommend individualized therapy plans based on patient genomics and biomarkers.",
+        "keywords": ["Personalized Medicine", "AI", "Biomarkers", "Therapeutics"]
+    },
+    {
+        "id": 2630,
+        "title": "Predictive Modeling of Drug Metabolism",
+        "domain": "27",
+        "description": "Develop computational models to predict metabolic pathways and identify potential toxic metabolites.",
+        "keywords": ["Pharmacokinetics", "Drug Discovery", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2631,
+        "title": "AI-Powered Drug Stability Prediction",
+        "domain": "27",
+        "description": "Use AI to predict the chemical stability of drug compounds under various storage conditions.",
+        "keywords": ["Drug Discovery", "Drug Delivery", "AI", "Pharmaceutical"]
+    },
+    {
+        "id": 2632,
+        "title": "Computational Design of Peptide Therapeutics",
+        "domain": "27",
+        "description": "Develop algorithms to design effective peptide-based drugs targeting specific proteins.",
+        "keywords": ["Drug Discovery", "Molecular Design", "Peptides", "Therapeutics"]
+    },
+    {
+        "id": 2633,
+        "title": "AI-Based Clinical Trial Patient Recruitment",
+        "domain": "27",
+        "description": "Use AI to identify suitable patients for clinical trials efficiently, reducing recruitment time.",
+        "keywords": ["Clinical Trials", "AI", "Patient Recruitment", "Drug Development"]
+    },
+    {
+        "id": 2634,
+        "title": "Predictive Biomarker Discovery Using AI",
+        "domain": "27",
+        "description": "Develop AI models to discover novel biomarkers that predict drug response and disease progression.",
+        "keywords": ["Biomarkers", "AI", "Drug Discovery", "Personalized Medicine"]
+    },
+    {
+        "id": 2635,
+        "title": "Automated Toxicity Screening for Biopharmaceuticals",
+        "domain": "27",
+        "description": "Implement automated systems to predict potential toxicity of biopharmaceutical compounds.",
+        "keywords": ["Biopharmaceuticals", "AI", "Toxicity Screening", "Drug Discovery"]
+    },
+    {
+        "id": 2636,
+        "title": "Machine Learning for Drug Solubility Enhancement",
+        "domain": "27",
+        "description": "Use ML algorithms to optimize drug formulations for improved solubility and bioavailability.",
+        "keywords": ["Drug Delivery", "AI", "Formulation", "Pharmaceutical"]
+    },
+    {
+        "id": 2637,
+        "title": "AI-Assisted Gene Therapy Development",
+        "domain": "27",
+        "description": "Design AI systems to develop and optimize gene therapy vectors for specific diseases.",
+        "keywords": ["Drug Discovery", "Gene Therapy", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2638,
+        "title": "Automated Regulatory Compliance Monitoring",
+        "domain": "27",
+        "description": "Develop platforms that continuously monitor and ensure compliance with regulatory requirements.",
+        "keywords": ["Regulatory Affairs", "Automation", "Drug Development", "Pharmaceutical"]
+    },
+    {
+        "id": 2639,
+        "title": "Predictive Modeling of Drug Resistance",
+        "domain": "27",
+        "description": "Create AI models to predict drug resistance mechanisms in pathogens and cancer cells.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Pharmacovigilance"]
+    },
+    {
+        "id": 2640,
+        "title": "AI-Based Rare Adverse Event Prediction",
+        "domain": "27",
+        "description": "Develop AI systems to predict rare but critical adverse events from clinical trial datasets.",
+        "keywords": ["Pharmacovigilance", "AI", "Clinical Trials", "Drug Safety"]
+    },
+    {
+        "id": 2641,
+        "title": "Computational Drug Synergy Analysis",
+        "domain": "27",
+        "description": "Use computational methods to identify synergistic drug combinations for enhanced therapeutic effects.",
+        "keywords": ["Drug Discovery", "Molecular Design", "Therapeutics", "AI"]
+    },
+    {
+        "id": 2642,
+        "title": "AI-Powered Formulation Personalization",
+        "domain": "27",
+        "description": "Develop AI systems to create patient-specific drug formulations for personalized therapy.",
+        "keywords": ["Personalized Medicine", "Drug Delivery", "AI", "Pharmaceutical"]
+    },
+    {
+        "id": 2643,
+        "title": "Machine Learning for Pharmacokinetic Optimization",
+        "domain": "27",
+        "description": "Use ML models to optimize drug dosing schedules and improve pharmacokinetic outcomes.",
+        "keywords": ["Pharmacokinetics", "Drug Discovery", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2644,
+        "title": "AI-Based Prediction of Immunogenicity",
+        "domain": "27",
+        "description": "Predict potential immunogenic responses of new drugs using AI and computational modeling.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Biopharmaceuticals"]
+    },
+    {
+        "id": 2645,
+        "title": "Automated Drug Target Prioritization",
+        "domain": "27",
+        "description": "Implement AI systems to rank and prioritize drug targets based on disease relevance and feasibility.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2646,
+        "title": "AI-Guided Small Molecule Optimization",
+        "domain": "27",
+        "description": "Develop AI algorithms to optimize small molecule structures for improved efficacy and reduced toxicity.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2647,
+        "title": "Predictive Modeling for Drug Half-Life",
+        "domain": "27",
+        "description": "Use computational models to predict drug half-life and optimize dosing strategies.",
+        "keywords": ["Pharmacokinetics", "Drug Discovery", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2648,
+        "title": "AI-Powered Natural Compound Screening",
+        "domain": "27",
+        "description": "Screen natural compounds using AI to identify potential therapeutic candidates.",
+        "keywords": ["Drug Discovery", "Natural Compounds", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2649,
+        "title": "Automated Clinical Data Cleaning",
+        "domain": "27",
+        "description": "Develop AI tools to clean and preprocess clinical trial data for accurate analysis.",
+        "keywords": ["Clinical Trials", "AI", "Data Processing", "Drug Development"]
+    },
+    {
+        "id": 2650,
+        "title": "AI-Enhanced Molecular Fingerprinting",
+        "domain": "27",
+        "description": "Use AI to generate molecular fingerprints for rapid comparison and similarity analysis.",
+        "keywords": ["Drug Discovery", "Molecular Design", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2651,
+        "title": "Predictive Models for Drug Absorption",
+        "domain": "27",
+        "description": "Create computational models to predict gastrointestinal absorption of oral drug candidates.",
+        "keywords": ["Pharmacokinetics", "Drug Discovery", "AI", "Drug Delivery"]
+    },
+    {
+        "id": 2652,
+        "title": "AI-Based Immunotherapy Design",
+        "domain": "27",
+        "description": "Design immunotherapeutic agents using AI to target specific immune pathways effectively.",
+        "keywords": ["Drug Discovery", "Immunotherapy", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2653,
+        "title": "Virtual Screening of Peptide Libraries",
+        "domain": "27",
+        "description": "Use computational techniques to screen large peptide libraries for potential therapeutic activity.",
+        "keywords": ["Drug Discovery", "Peptides", "Virtual Screening", "AI"]
+    },
+    {
+        "id": 2654,
+        "title": "AI-Guided Rare Disease Target Identification",
+        "domain": "27",
+        "description": "Identify potential therapeutic targets for rare diseases using AI-driven analysis.",
+        "keywords": ["Drug Discovery", "Rare Diseases", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2655,
+        "title": "Computational Drug Repurposing for Viral Diseases",
+        "domain": "27",
+        "description": "Use AI to repurpose existing drugs for emerging viral infections.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Drug Repurposing"]
+    },
+    {
+        "id": 2656,
+        "title": "AI-Powered Multi-Target Drug Screening",
+        "domain": "27",
+        "description": "Design AI systems to screen drugs that act on multiple disease pathways simultaneously.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2657,
+        "title": "Automated Drug Stability Testing",
+        "domain": "27",
+        "description": "Develop automated systems to test chemical and physical stability of drug formulations.",
+        "keywords": ["Drug Delivery", "Drug Discovery", "Automation", "Pharmaceutical"]
+    },
+    {
+        "id": 2658,
+        "title": "AI-Enhanced Pharmacodynamic Modeling",
+        "domain": "27",
+        "description": "Use AI to model the pharmacodynamic response of drugs to predict efficacy and safety.",
+        "keywords": ["Pharmacodynamics", "AI", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2659,
+        "title": "Machine Learning for Drug-Induced Liver Injury Prediction",
+        "domain": "27",
+        "description": "Predict potential liver toxicity of drugs using AI and historical clinical data.",
+        "keywords": ["Pharmacovigilance", "Drug Discovery", "AI", "Drug Safety"]
+    },
+    {
+        "id": 2660,
+        "title": "Computational Design of RNA Therapeutics",
+        "domain": "27",
+        "description": "Develop AI models to design RNA-based therapeutics targeting specific genetic pathways.",
+        "keywords": ["Drug Discovery", "RNA Therapeutics", "AI", "Molecular Design"]
+    },
+    {
+        "id": 2661,
+        "title": "AI-Guided Drug Solubility Optimization",
+        "domain": "27",
+        "description": "Use AI to optimize solubility properties of drug candidates for enhanced bioavailability.",
+        "keywords": ["Drug Delivery", "AI", "Drug Discovery", "Formulation"]
+    },
+    {
+        "id": 2662,
+        "title": "Predictive Modeling for Drug Half-Life in Humans",
+        "domain": "27",
+        "description": "Develop computational tools to predict human drug half-life using preclinical and molecular data.",
+        "keywords": ["Pharmacokinetics", "AI", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2663,
+        "title": "AI-Powered Antiviral Compound Discovery",
+        "domain": "27",
+        "description": "Use AI to discover antiviral compounds against emerging viral pathogens.",
+        "keywords": ["Drug Discovery", "Antivirals", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2664,
+        "title": "Automated Biopharmaceutical Characterization",
+        "domain": "27",
+        "description": "Develop automated systems to characterize biopharmaceutical molecules for quality and efficacy.",
+        "keywords": ["Biopharmaceuticals", "Automation", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2665,
+        "title": "AI-Based Prediction of Drug Absorption Barriers",
+        "domain": "27",
+        "description": "Predict barriers to drug absorption using AI to guide formulation and delivery strategies.",
+        "keywords": ["Pharmacokinetics", "Drug Delivery", "AI", "Drug Discovery"]
+    },
+    {
+        "id": 2666,
+        "title": "Machine Learning for Adverse Event Risk Stratification",
+        "domain": "27",
+        "description": "Use ML to stratify patients by risk of adverse events during drug trials.",
+        "keywords": ["Clinical Trials", "Pharmacovigilance", "AI", "Drug Safety"]
+    },
+    {
+        "id": 2667,
+        "title": "AI-Powered Drug Target Validation",
+        "domain": "27",
+        "description": "Develop AI models to validate potential drug targets before experimental testing.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2668,
+        "title": "Predictive Models for Oral Bioavailability",
+        "domain": "27",
+        "description": "Use computational tools to predict oral bioavailability of new drug compounds.",
+        "keywords": ["Drug Discovery", "Pharmacokinetics", "AI", "Drug Delivery"]
+    },
+    {
+        "id": 2669,
+        "title": "AI-Assisted Antimicrobial Resistance Analysis",
+        "domain": "27",
+        "description": "Use AI to analyze and predict antimicrobial resistance patterns for drug development.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Resistance Analysis"]
+    },
+    {
+        "id": 2670,
+        "title": "Machine Learning for Drug-Target Binding Affinity",
+        "domain": "27",
+        "description": "Predict binding affinity of drugs to targets using ML to accelerate drug design.",
+        "keywords": ["Drug Discovery", "AI", "Molecular Design", "Therapeutics"]
+    },
+    {
+        "id": 2671,
+        "title": "Automated Clinical Trial Protocol Optimization",
+        "domain": "27",
+        "description": "Use AI to optimize clinical trial protocols for efficiency, safety, and regulatory compliance.",
+        "keywords": ["Clinical Trials", "AI", "Protocol Optimization", "Drug Development"]
+    },
+    {
+        "id": 2672,
+        "title": "AI-Powered Rare Disease Biomarker Discovery",
+        "domain": "27",
+        "description": "Discover biomarkers for rare diseases using AI to facilitate targeted therapies.",
+        "keywords": ["Biomarkers", "AI", "Drug Discovery", "Personalized Medicine"]
+    },
+    {
+        "id": 2673,
+        "title": "Predictive Models for Drug-Drug Interactions",
+        "domain": "27",
+        "description": "Use AI to predict potential interactions between drugs to enhance patient safety.",
+        "keywords": ["Drug Discovery", "Pharmacovigilance", "AI", "Drug Safety"]
+    },
+    {
+        "id": 2674,
+        "title": "AI-Based Therapeutic Peptide Optimization",
+        "domain": "27",
+        "description": "Design and optimize therapeutic peptides using AI for enhanced potency and stability.",
+        "keywords": ["Drug Discovery", "Peptides", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2675,
+        "title": "Machine Learning for Drug-Induced Cardiotoxicity Prediction",
+        "domain": "27",
+        "description": "Predict potential cardiotoxic effects of drug candidates using ML models.",
+        "keywords": ["Pharmacovigilance", "AI", "Drug Discovery", "Drug Safety"]
+    },
+    {
+        "id": 2676,
+        "title": "AI-Powered Gene Editing Therapy Design",
+        "domain": "27",
+        "description": "Use AI to design CRISPR/Cas-based therapies targeting specific genetic disorders.",
+        "keywords": ["Drug Discovery", "Gene Therapy", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2677,
+        "title": "Automated Preclinical Data Analysis",
+        "domain": "27",
+        "description": "Develop AI systems to analyze preclinical experimental data for informed drug decisions.",
+        "keywords": ["Drug Discovery", "AI", "Preclinical Studies", "Therapeutics"]
+    },
+    {
+        "id": 2678,
+        "title": "AI-Assisted Pharmacogenomics",
+        "domain": "27",
+        "description": "Use AI to analyze genetic variations affecting drug response for personalized therapy.",
+        "keywords": ["Pharmacogenomics", "AI", "Personalized Medicine", "Drug Discovery"]
+    },
+    {
+        "id": 2679,
+        "title": "Predictive Toxicology Using Deep Learning",
+        "domain": "27",
+        "description": "Develop deep learning models to predict chemical toxicity of drug candidates.",
+        "keywords": ["Pharmacovigilance", "AI", "Drug Discovery", "Drug Safety"]
+    },
+    {
+        "id": 2680,
+        "title": "AI-Based Formulation Design for Biologics",
+        "domain": "27",
+        "description": "Optimize biologic drug formulations using AI to improve stability and delivery.",
+        "keywords": ["Drug Delivery", "Biopharmaceuticals", "AI", "Formulation"]
+    },
+    {
+        "id": 2681,
+        "title": "Machine Learning for Patient Stratification",
+        "domain": "27",
+        "description": "Use ML models to stratify patients in clinical trials based on predicted responses.",
+        "keywords": ["Clinical Trials", "AI", "Patient Stratification", "Drug Development"]
+    },
+    {
+        "id": 2682,
+        "title": "AI-Powered Predictive Biomarker Panels",
+        "domain": "27",
+        "description": "Develop AI models to generate predictive panels of biomarkers for therapy monitoring.",
+        "keywords": ["Biomarkers", "AI", "Personalized Medicine", "Drug Discovery"]
+    },
+    {
+        "id": 2683,
+        "title": "Computational Modeling for Drug Resistance Evolution",
+        "domain": "27",
+        "description": "Use computational tools to predict how resistance evolves against new drugs.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Resistance Prediction"]
+    },
+    {
+        "id": 2684,
+        "title": "AI-Assisted Optimization of Drug Half-Life",
+        "domain": "27",
+        "description": "Design AI models to optimize drug half-life for improved therapeutic effect.",
+        "keywords": ["Pharmacokinetics", "AI", "Drug Discovery", "Therapeutics"]
+    },
+    {
+        "id": 2685,
+        "title": "Machine Learning for Biopharmaceutical Stability",
+        "domain": "27",
+        "description": "Use ML algorithms to predict and enhance stability of biopharmaceutical formulations.",
+        "keywords": ["Biopharmaceuticals", "AI", "Drug Delivery", "Formulation"]
+    },
+    {
+        "id": 2686,
+        "title": "AI-Guided Target Validation for Precision Medicine",
+        "domain": "27",
+        "description": "Use AI to validate drug targets to support precision medicine strategies.",
+        "keywords": ["Precision Medicine", "AI", "Drug Discovery", "Molecular Design"]
+    },
+    {
+        "id": 2687,
+        "title": "Automated Molecular Descriptor Generation",
+        "domain": "27",
+        "description": "Develop systems to automatically generate molecular descriptors for drug discovery analysis.",
+        "keywords": ["Drug Discovery", "Molecular Design", "AI", "Therapeutics"]
+    },
+    {
+        "id": 2688,
+        "title": "AI-Based Prediction of Drug Permeability",
+        "domain": "27",
+        "description": "Predict drug permeability across biological membranes using AI models for formulation design.",
+        "keywords": ["Drug Delivery", "Pharmacokinetics", "AI", "Drug Discovery"]
+    },
+    {
+        "id": 2689,
+        "title": "Predictive Modeling of Immunogenic Responses",
+        "domain": "27",
+        "description": "Use AI to predict patient immune responses to biologic drugs to improve safety and efficacy.",
+        "keywords": ["Drug Discovery", "AI", "Therapeutics", "Pharmacovigilance"]
+    },
+    
+
+
+
 
         // MEDIA & CONTENT CREATION (Domain 28)
         {
