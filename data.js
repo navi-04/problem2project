@@ -17252,54 +17252,871 @@ const PROBLEMS_DATA = {
         "keywords": ["Nanotechnology", "Smart Materials", "Wearable Devices"]
     },
 
-
-
-
-        // TELECOMMUNICATIONS (Domain 26)
-        {
-            "id": 2601,
-            "title": "5G Network Slice Manager",
-            "domain": "26",
-            "description": "Design a system that dynamically allocates and manages 5G network slices based on service requirements and resource availability.",
-            "keywords": ["5G Networks", "Network Slicing", "Resource Management", "QoS"]
-        },
-        {
-            "id": 2602,
-            "title": "Edge Computing Task Scheduler",
-            "domain": "26",
-            "description": "Create an intelligent scheduler that optimizes task placement across edge computing nodes to minimize latency and energy consumption.",
-            "keywords": ["Edge Computing", "Task Scheduling", "Latency Optimization", "Energy Efficiency"]
-        },
-        {
-            "id": 2603,
-            "title": "Network Security Threat Detector",
-            "domain": "26",
-            "description": "Build a system that detects and responds to cybersecurity threats in telecommunications networks using AI and behavioral analysis.",
-            "keywords": ["Network Security", "Threat Detection", "Cybersecurity", "AI"]
-        },
-
-        // PHARMACEUTICAL & DRUG DISCOVERY (Domain 27)
-        {
-            "id": 2701,
-            "title": "AI Drug Discovery Platform",
-            "domain": "27",
-            "description": "Develop an AI-powered platform that identifies potential drug compounds, predicts their efficacy, and optimizes molecular structures.",
-            "keywords": ["Drug Discovery", "AI", "Molecular Design", "Pharmaceutical Research"]
-        },
-        {
-            "id": 2702,
-            "title": "Clinical Trial Patient Matcher",
-            "domain": "27",
-            "description": "Create a system that matches patients to appropriate clinical trials based on medical history, genetics, and trial requirements.",
-            "keywords": ["Clinical Trials", "Patient Matching", "Medical Data", "Personalized Medicine"]
-        },
-        {
-            "id": 2703,
-            "title": "Drug Interaction Predictor",
-            "domain": "27",
-            "description": "Build a tool that predicts potential drug interactions and adverse effects based on patient profiles and medication combinations.",
-            "keywords": ["Drug Interactions", "Safety", "Pharmacovigilance", "Prediction"]
-        },
+  // TELECOMMUNICATIONS (Domain 26)
+      
+    {
+        "id": 2473,
+        "title": "5G Network Optimization for Urban Areas",
+        "domain": "26",
+        "description": "Develop algorithms to optimize 5G network coverage and throughput in dense urban environments with high user mobility.",
+        "keywords": ["5G Networks", "Network Optimization", "Signal Processing"]
+    },
+    {
+        "id": 2474,
+        "title": "6G Terahertz Communication Models",
+        "domain": "26",
+        "description": "Create simulation models for terahertz-based wireless communication in 6G networks to analyze propagation characteristics.",
+        "keywords": ["6G Research", "Wireless Communication", "Signal Processing"]
+    },
+    {
+        "id": 2475,
+        "title": "Edge Computing for IoT Traffic Management",
+        "domain": "26",
+        "description": "Design edge computing solutions to manage massive IoT traffic loads efficiently in 5G-enabled smart cities.",
+        "keywords": ["Edge Computing", "IoT Connectivity", "Network Management"]
+    },
+    {
+        "id": 2476,
+        "title": "AI-Driven Antenna Beamforming",
+        "domain": "26",
+        "description": "Develop AI-powered beamforming techniques for adaptive antenna systems in 5G and 6G networks.",
+        "keywords": ["Antenna Systems", "5G Networks", "6G Research"]
+    },
+    {
+        "id": 2477,
+        "title": "Quantum-Safe Communication Protocols",
+        "domain": "26",
+        "description": "Create next-generation secure communication protocols resistant to quantum computing threats.",
+        "keywords": ["Protocol Design", "Network Security", "6G Research"]
+    },
+    {
+        "id": 2478,
+        "title": "Low-Latency Telemedicine via 5G",
+        "domain": "26",
+        "description": "Design ultra-reliable low-latency 5G communication systems to enable remote surgeries and telemedicine applications.",
+        "keywords": ["5G Networks", "Network Optimization", "Healthcare"]
+    },
+    {
+        "id": 2479,
+        "title": "Satellite-Based 5G Backhaul",
+        "domain": "26",
+        "description": "Investigate the use of satellite communication to provide 5G backhaul in remote and rural areas.",
+        "keywords": ["Satellite Communication", "5G Networks", "Network Management"]
+    },
+    {
+        "id": 2480,
+        "title": "Energy-Efficient 6G Protocol Design",
+        "domain": "26",
+        "description": "Develop energy-efficient communication protocols to support sustainable 6G networks.",
+        "keywords": ["6G Research", "Protocol Design", "Sustainability"]
+    },
+    {
+        "id": 2481,
+        "title": "Massive MIMO Optimization",
+        "domain": "26",
+        "description": "Design optimization algorithms for massive MIMO antenna arrays to improve throughput and reduce interference.",
+        "keywords": ["Antenna Systems", "5G Networks", "Signal Processing"]
+    },
+    {
+        "id": 2482,
+        "title": "IoT Device Authentication Framework",
+        "domain": "26",
+        "description": "Create a secure and scalable authentication framework for billions of IoT devices connected via 5G/6G.",
+        "keywords": ["IoT Connectivity", "Network Security", "Protocol Design"]
+    },
+    {
+        "id": 2483,
+        "title": "Underwater Wireless Communication",
+        "domain": "26",
+        "description": "Explore advanced signal processing methods to enable reliable underwater wireless communication systems.",
+        "keywords": ["Wireless Communication", "Signal Processing", "Protocol Design"]
+    },
+    {
+        "id": 2484,
+        "title": "Dynamic Spectrum Allocation in 6G",
+        "domain": "26",
+        "description": "Develop AI-based techniques for dynamic spectrum allocation in 6G to optimize bandwidth usage.",
+        "keywords": ["6G Research", "Network Optimization", "Signal Processing"]
+    },
+    {
+        "id": 2485,
+        "title": "Blockchain-Based Roaming Settlement",
+        "domain": "26",
+        "description": "Implement blockchain technology to automate and secure international telecom roaming settlements.",
+        "keywords": ["Blockchain", "Telecom Finance", "Network Management"]
+    },
+    {
+        "id": 2486,
+        "title": "5G-Powered Autonomous Vehicle Networks",
+        "domain": "26",
+        "description": "Design low-latency communication protocols to support vehicle-to-vehicle communication over 5G networks.",
+        "keywords": ["5G Networks", "Protocol Design", "IoT Connectivity"]
+    },
+    {
+        "id": 2487,
+        "title": "Self-Healing Telecom Networks",
+        "domain": "26",
+        "description": "Develop self-healing mechanisms that automatically detect and repair network failures in telecom systems.",
+        "keywords": ["Network Management", "AI", "5G Networks"]
+    },
+    {
+        "id": 2488,
+        "title": "Green Telecom Infrastructure",
+        "domain": "26",
+        "description": "Design energy-efficient telecom towers and base stations powered by renewable energy sources.",
+        "keywords": ["Sustainability", "Network Management", "5G Networks"]
+    },
+    {
+        "id": 2489,
+        "title": "AR/VR Streaming over 5G",
+        "domain": "26",
+        "description": "Optimize 5G networks for high-bandwidth, low-latency streaming of AR/VR immersive experiences.",
+        "keywords": ["5G Networks", "Streaming", "Edge Computing"]
+    },
+    {
+        "id": 2490,
+        "title": "AI-Based Signal Interference Mitigation",
+        "domain": "26",
+        "description": "Develop machine learning techniques to predict and reduce interference in crowded wireless environments.",
+        "keywords": ["Signal Processing", "Wireless Communication", "AI"]
+    },
+    {
+        "id": 2491,
+        "title": "6G-Powered Holographic Communication",
+        "domain": "26",
+        "description": "Investigate holographic real-time communication enabled by ultra-low-latency 6G networks.",
+        "keywords": ["6G Research", "Wireless Communication", "Signal Processing"]
+    },
+    {
+        "id": 2492,
+        "title": "Satellite Constellations for Global Internet",
+        "domain": "26",
+        "description": "Design next-gen satellite constellations to provide high-speed, low-latency internet worldwide.",
+        "keywords": ["Satellite Communication", "Network Management", "IoT Connectivity"]
+    },
+    {
+        "id": 2493,
+        "title": "5G Network Security for Smart Grids",
+        "domain": "26",
+        "description": "Develop robust network security measures to protect smart grids using 5G-enabled connectivity.",
+        "keywords": ["5G Networks", "Network Security", "IoT Connectivity"]
+    },
+    {
+        "id": 2494,
+        "title": "Adaptive Routing for Satellite Networks",
+        "domain": "26",
+        "description": "Create adaptive routing algorithms to handle dynamic link conditions in satellite communication systems.",
+        "keywords": ["Satellite Communication", "Protocol Design", "Network Management"]
+    },
+    {
+        "id": 2495,
+        "title": "AI-Enabled Telecom Fraud Detection",
+        "domain": "26",
+        "description": "Implement AI systems that can detect and prevent fraud in real-time across telecom billing platforms.",
+        "keywords": ["Network Security", "AI", "Telecom Finance"]
+    },
+    {
+        "id": 2496,
+        "title": "Next-Gen Antenna Materials",
+        "domain": "26",
+        "description": "Research advanced materials for lighter, more efficient antennas in 5G/6G telecom infrastructure.",
+        "keywords": ["Antenna Systems", "Materials", "5G Networks"]
+    },
+    {
+        "id": 2497,
+        "title": "Multi-Layered IoT Connectivity",
+        "domain": "26",
+        "description": "Design a multi-layered architecture to handle IoT connectivity across heterogeneous telecom networks.",
+        "keywords": ["IoT Connectivity", "Network Management", "Protocol Design"]
+    },
+    {
+        "id": 2498,
+        "title": "5G-enabled Smart Grid Communication",
+        "domain": "26",
+        "description": "Develop a communication framework for smart grids that leverages 5G to enable real-time demand-response and energy optimization.",
+        "keywords": ["5G Networks", "Smart Grids", "Wireless Communication", "Network Optimization"]
+    },
+    {
+        "id": 2499,
+        "title": "Satellite-Edge Hybrid Network",
+        "domain": "26",
+        "description": "Design a hybrid communication system that integrates satellite links with edge nodes to ensure seamless connectivity in remote areas.",
+        "keywords": ["Satellite Communication", "Edge Computing", "IoT Connectivity", "Network Management"]
+    },
+    {
+        "id": 2500,
+        "title": "Ultra-Reliable Low-Latency Telemedicine",
+        "domain": "26",
+        "description": "Create a URLLC-based communication protocol that supports real-time tele-surgery over 5G and beyond.",
+        "keywords": ["5G Networks", "Low Latency", "Telemedicine", "Protocol Design"]
+    },
+    {
+        "id": 2501,
+        "title": "AI-driven Antenna Array Calibration",
+        "domain": "26",
+        "description": "Implement machine learning techniques to dynamically calibrate antenna arrays in large-scale 5G deployments.",
+        "keywords": ["Antenna Systems", "AI", "5G Networks", "Signal Processing"]
+    },
+    {
+        "id": 2502,
+        "title": "6G Terahertz Communication Channel Modeling",
+        "domain": "26",
+        "description": "Develop accurate models for terahertz propagation in 6G environments to optimize data rates and reliability.",
+        "keywords": ["6G Research", "Terahertz Communication", "Channel Modeling", "Signal Processing"]
+    },
+    {
+        "id": 2503,
+        "title": "IoT-Optimized Lightweight Protocols",
+        "domain": "26",
+        "description": "Design lightweight, energy-efficient communication protocols tailored for constrained IoT devices on large-scale networks.",
+        "keywords": ["IoT Connectivity", "Protocol Design", "Wireless Communication", "Network Optimization"]
+    },
+    {
+        "id": 2504,
+        "title": "Drone-Assisted 5G Coverage Extension",
+        "domain": "26",
+        "description": "Develop UAV-based relay systems to temporarily extend 5G coverage during disasters or large events.",
+        "keywords": ["5G Networks", "Drone Communication", "Wireless Communication", "Disaster Recovery"]
+    },
+    {
+        "id": 2505,
+        "title": "Energy-Harvesting Communication Devices",
+        "domain": "26",
+        "description": "Design wireless devices capable of harvesting ambient RF energy to extend battery life in IoT and telecom equipment.",
+        "keywords": ["Wireless Communication", "IoT Connectivity", "Energy Harvesting", "Smart Devices"]
+    },
+    {
+        "id": 2506,
+        "title": "AI-enabled Network Intrusion Detection",
+        "domain": "26",
+        "description": "Build an AI-driven anomaly detection system for detecting cyber threats in 5G and 6G telecom networks.",
+        "keywords": ["Network Security", "AI", "5G Networks", "Intrusion Detection"]
+    },
+    {
+        "id": 2507,
+        "title": "Real-Time Holographic Communication",
+        "domain": "26",
+        "description": "Design ultra-low-latency communication protocols to enable real-time holographic calls over next-gen networks.",
+        "keywords": ["6G Research", "Holographic Communication", "Low Latency", "Protocol Design"]
+    },
+    {
+        "id": 2508,
+        "title": "Edge-Centric Video Streaming",
+        "domain": "26",
+        "description": "Create an edge-optimized architecture for adaptive video streaming in 5G environments to minimize buffering.",
+        "keywords": ["Edge Computing", "Streaming", "5G Networks", "Network Optimization"]
+    },
+    {
+        "id": 2509,
+        "title": "Massive MIMO Interference Mitigation",
+        "domain": "26",
+        "description": "Develop algorithms for mitigating interference in dense urban environments using massive MIMO technology.",
+        "keywords": ["Antenna Systems", "MIMO", "Signal Processing", "5G Networks"]
+    },
+    {
+        "id": 2510,
+        "title": "Blockchain-Based Spectrum Sharing",
+        "domain": "26",
+        "description": "Implement blockchain for decentralized spectrum allocation and management in telecom networks.",
+        "keywords": ["Blockchain", "Spectrum Sharing", "Telecommunications", "Network Management"]
+    },
+    {
+        "id": 2511,
+        "title": "AI-based Call Quality Prediction",
+        "domain": "26",
+        "description": "Develop machine learning models that predict and optimize call quality based on network conditions.",
+        "keywords": ["AI", "Network Optimization", "Telecommunications", "Quality of Service"]
+    },
+    {
+        "id": 2512,
+        "title": "Green 6G Communication Systems",
+        "domain": "26",
+        "description": "Design sustainable, low-energy communication protocols for next-generation green 6G networks.",
+        "keywords": ["6G Research", "Green Communication", "Sustainability", "Protocol Design"]
+    },
+    {
+        "id": 2513,
+        "title": "Secure IoT Satellite Backhaul",
+        "domain": "26",
+        "description": "Create secure communication backhaul systems for IoT networks that rely on satellite links in remote regions.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Network Security", "Backhaul"]
+    },
+    {
+        "id": 2514,
+        "title": "Quantum-Safe 6G Encryption",
+        "domain": "26",
+        "description": "Implement quantum-resistant cryptographic algorithms to secure data transmissions in future 6G telecom systems.",
+        "keywords": ["6G Research", "Quantum Security", "Encryption", "Network Security"]
+    },
+    {
+        "id": 2515,
+        "title": "Self-Healing Telecom Networks",
+        "domain": "26",
+        "description": "Design networks that can autonomously detect faults and reconfigure themselves to maintain service availability.",
+        "keywords": ["Network Management", "AI", "Self-Healing Networks", "Telecommunications"]
+    },
+    {
+        "id": 2516,
+        "title": "5G-Enabled Smart Agriculture",
+        "domain": "26",
+        "description": "Develop 5G-based IoT communication frameworks for precision agriculture with real-time monitoring.",
+        "keywords": ["5G Networks", "IoT Connectivity", "Smart Agriculture", "Wireless Communication"]
+    },
+    {
+        "id": 2517,
+        "title": "Seamless Cross-Network Roaming",
+        "domain": "26",
+        "description": "Create protocols for seamless roaming between 5G, satellite, and Wi-Fi networks without quality loss.",
+        "keywords": ["Roaming", "Protocol Design", "Wireless Communication", "5G Networks"]
+    },
+    {
+        "id": 2518,
+        "title": "6G-Powered Immersive Learning",
+        "domain": "26",
+        "description": "Design 6G-enabled communication systems to support immersive VR/AR learning experiences at scale.",
+        "keywords": ["6G Research", "VR/AR", "Education", "Low Latency"]
+    },
+    {
+        "id": 2519,
+        "title": "Crowdsourced Network Coverage Mapping",
+        "domain": "26",
+        "description": "Develop a mobile app that crowdsources signal strength data to generate real-time coverage maps.",
+        "keywords": ["Network Management", "Crowdsourcing", "Wireless Communication", "Coverage Mapping"]
+    },
+    {
+        "id": 2520,
+        "title": "AI-Orchestrated Multi-Access Edge",
+        "domain": "26",
+        "description": "Implement AI to orchestrate multi-access edge computing resources for dynamic telecom workloads.",
+        "keywords": ["Edge Computing", "AI", "5G Networks", "Resource Orchestration"]
+    },
+    {
+        "id": 2521,
+        "title": "Satellite IoT for Disaster Monitoring",
+        "domain": "26",
+        "description": "Design satellite-based IoT connectivity systems for real-time disaster and climate monitoring.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Disaster Monitoring", "Telecommunications"]
+    },
+    {
+        "id": 2522,
+        "title": "AI-Powered Signal Propagation Modeling",
+        "domain": "26",
+        "description": "Create machine learning models to predict wireless signal propagation in complex urban environments.",
+        "keywords": ["Signal Processing", "AI", "Wireless Communication", "Telecommunications"]
+    },
+    {
+        "id": 2523,
+        "title": "AI-Powered Spectrum Prediction",
+        "domain": "26",
+        "description": "Develop AI models to predict spectrum availability in real-time to improve spectrum utilization efficiency.",
+        "keywords": ["AI", "Spectrum Sharing", "Wireless Communication", "Network Optimization"]
+    },
+    {
+        "id": 2524,
+        "title": "Low-Power Wide-Area IoT Protocols",
+        "domain": "26",
+        "description": "Design next-generation LPWAN protocols that balance long-range communication with minimal energy consumption.",
+        "keywords": ["IoT Connectivity", "Protocol Design", "Wireless Communication", "Low Power"]
+    },
+    {
+        "id": 2525,
+        "title": "Smart Antenna Beamforming Algorithms",
+        "domain": "26",
+        "description": "Create adaptive beamforming algorithms for smart antennas to enhance coverage and reduce interference in 5G/6G.",
+        "keywords": ["Antenna Systems", "Beamforming", "5G Networks", "6G Research"]
+    },
+    {
+        "id": 2526,
+        "title": "Telecom Digital Twin Platforms",
+        "domain": "26",
+        "description": "Develop digital twins of telecom networks for real-time monitoring, predictive maintenance, and optimization.",
+        "keywords": ["Digital Twin", "Network Management", "AI", "Telecommunications"]
+    },
+    {
+        "id": 2527,
+        "title": "Satellite-Enabled Maritime IoT",
+        "domain": "26",
+        "description": "Create satellite-based IoT communication systems for shipping fleets to track routes, fuel use, and safety.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Maritime", "Telecommunications"]
+    },
+    {
+        "id": 2528,
+        "title": "Blockchain for Roaming Settlement",
+        "domain": "26",
+        "description": "Implement blockchain-based smart contracts to simplify and secure cross-operator roaming settlements.",
+        "keywords": ["Blockchain", "Roaming", "Telecommunications", "Smart Contracts"]
+    },
+    {
+        "id": 2529,
+        "title": "AI-Enhanced Network Load Balancing",
+        "domain": "26",
+        "description": "Develop AI-driven algorithms for load balancing across telecom networks to optimize bandwidth and reduce latency.",
+        "keywords": ["AI", "Network Management", "Load Balancing", "Telecommunications"]
+    },
+    {
+        "id": 2530,
+        "title": "6G-Enabled Smart City Infrastructure",
+        "domain": "26",
+        "description": "Design communication frameworks powered by 6G to support real-time management of smart city infrastructure.",
+        "keywords": ["6G Research", "Smart Cities", "IoT Connectivity", "Wireless Communication"]
+    },
+    {
+        "id": 2531,
+        "title": "Next-Gen VoIP Optimization",
+        "domain": "26",
+        "description": "Create optimized VoIP protocols for high-quality audio and video communication in 5G/6G networks.",
+        "keywords": ["VoIP", "Protocol Design", "5G Networks", "Telecommunications"]
+    },
+    {
+        "id": 2532,
+        "title": "Edge AI for Autonomous Vehicles",
+        "domain": "26",
+        "description": "Develop edge AI telecom solutions to support V2X communication for self-driving cars in real time.",
+        "keywords": ["Edge Computing", "AI", "Autonomous Vehicles", "V2X Communication"]
+    },
+    {
+        "id": 2533,
+        "title": "AI-Driven Fault Localization",
+        "domain": "26",
+        "description": "Design ML algorithms to automatically localize and diagnose faults in telecom networks before service drops.",
+        "keywords": ["AI", "Network Management", "Fault Detection", "Telecommunications"]
+    },
+    {
+        "id": 2534,
+        "title": "Energy-Efficient Base Stations",
+        "domain": "26",
+        "description": "Create innovative designs for base stations that minimize energy usage without compromising network performance.",
+        "keywords": ["Base Stations", "Sustainability", "5G Networks", "Energy Efficiency"]
+    },
+    {
+        "id": 2535,
+        "title": "Quantum-Assisted Signal Processing",
+        "domain": "26",
+        "description": "Explore quantum algorithms to accelerate signal processing tasks in next-gen communication systems.",
+        "keywords": ["Quantum Computing", "Signal Processing", "6G Research", "Telecommunications"]
+    },
+    {
+        "id": 2536,
+        "title": "Crowdsourced Telecom Security Alerts",
+        "domain": "26",
+        "description": "Build a crowdsourced system where users can report suspicious network activity to enhance telecom security.",
+        "keywords": ["Crowdsourcing", "Network Security", "Telecommunications", "User Participation"]
+    },
+    {
+        "id": 2537,
+        "title": "Satellite-Driven Emergency Broadcasts",
+        "domain": "26",
+        "description": "Design a reliable emergency broadcast system using satellites for global disaster communication.",
+        "keywords": ["Satellite Communication", "Emergency Systems", "Telecommunications", "Disaster Recovery"]
+    },
+    {
+        "id": 2538,
+        "title": "AI-Enhanced Mobile Handoff",
+        "domain": "26",
+        "description": "Create AI models that predict user mobility to enable seamless handoff across cell towers and networks.",
+        "keywords": ["AI", "Mobility Prediction", "Wireless Communication", "Telecommunications"]
+    },
+    {
+        "id": 2539,
+        "title": "Underwater Telecom Communication",
+        "domain": "26",
+        "description": "Develop communication protocols tailored for underwater telecom systems using acoustic and optical methods.",
+        "keywords": ["Underwater Communication", "Protocol Design", "Telecommunications", "Signal Processing"]
+    },
+    {
+        "id": 2540,
+        "title": "AI-Enabled Fraud Detection in Telecom Billing",
+        "domain": "26",
+        "description": "Design ML-based fraud detection systems for telecom billing and subscription services.",
+        "keywords": ["AI", "Fraud Detection", "Billing Systems", "Telecommunications"]
+    },
+    {
+        "id": 2541,
+        "title": "Dynamic Network Slicing in 5G",
+        "domain": "26",
+        "description": "Create real-time algorithms for dynamic slicing of 5G networks to serve different user needs efficiently.",
+        "keywords": ["5G Networks", "Network Slicing", "Telecommunications", "AI"]
+    },
+    {
+        "id": 2542,
+        "title": "Satellite-Powered Remote Learning Connectivity",
+        "domain": "26",
+        "description": "Build low-latency satellite systems to provide educational access in rural and underserved regions.",
+        "keywords": ["Satellite Communication", "Remote Learning", "IoT Connectivity", "Telecommunications"]
+    },
+    {
+        "id": 2543,
+        "title": "Secure Multi-Hop Device Communication",
+        "domain": "26",
+        "description": "Design secure multi-hop communication protocols for IoT devices in large-scale telecom systems.",
+        "keywords": ["Protocol Design", "IoT Connectivity", "Network Security", "Telecommunications"]
+    },
+    {
+        "id": 2544,
+        "title": "6G-Driven Space-Terrestrial Integration",
+        "domain": "26",
+        "description": "Develop a framework to integrate satellite and terrestrial networks seamlessly for 6G communication.",
+        "keywords": ["6G Research", "Satellite Communication", "Integration", "Telecommunications"]
+    },
+    {
+        "id": 2545,
+        "title": "Cognitive Radio for Dynamic Spectrum Access",
+        "domain": "26",
+        "description": "Implement cognitive radio systems to dynamically detect and utilize unused spectrum bands efficiently.",
+        "keywords": ["Cognitive Radio", "Spectrum Sharing", "Wireless Communication", "Telecommunications"]
+    },
+    {
+        "id": 2546,
+        "title": "AI-Enhanced Telecom Chatbots",
+        "domain": "26",
+        "description": "Develop advanced AI chatbots for customer support in telecom services that adapt to complex queries.",
+        "keywords": ["AI", "Customer Support", "Telecommunications", "Chatbots"]
+    },
+    {
+        "id": 2547,
+        "title": "Telecom Edge Security Framework",
+        "domain": "26",
+        "description": "Create security frameworks specifically designed to protect telecom edge computing infrastructures.",
+        "keywords": ["Edge Computing", "Network Security", "Telecommunications", "5G Networks"]
+    },
+    {
+        "id": 2548,
+        "title": "AI-Based Telecom Network Forecasting",
+        "domain": "26",
+        "description": "Develop AI models to predict network traffic patterns and optimize resource allocation in real time.",
+        "keywords": ["AI", "Network Optimization", "Telecommunications", "5G Networks"]
+    },
+    {
+        "id": 2549,
+        "title": "5G mmWave Propagation Analysis",
+        "domain": "26",
+        "description": "Analyze millimeter-wave propagation in urban and indoor environments to improve 5G coverage.",
+        "keywords": ["5G Networks", "Signal Processing", "Propagation Analysis", "Telecommunications"]
+    },
+    {
+        "id": 2550,
+        "title": "6G Ultra-Reliable Low-Latency Networks",
+        "domain": "26",
+        "description": "Design URLLC frameworks for 6G to support critical applications like autonomous vehicles and remote surgery.",
+        "keywords": ["6G Research", "Low Latency", "Network Reliability", "Telecommunications"]
+    },
+    {
+        "id": 2551,
+        "title": "IoT Traffic Prioritization Algorithms",
+        "domain": "26",
+        "description": "Develop algorithms to prioritize IoT data in congested telecom networks for efficient delivery.",
+        "keywords": ["IoT Connectivity", "Network Optimization", "Telecommunications", "5G Networks"]
+    },
+    {
+        "id": 2552,
+        "title": "Satellite IoT Constellation Optimization",
+        "domain": "26",
+        "description": "Optimize satellite constellations to provide low-latency, high-reliability IoT connectivity globally.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Network Optimization", "Telecommunications"]
+    },
+    {
+        "id": 2553,
+        "title": "Secure 5G Network Slicing",
+        "domain": "26",
+        "description": "Implement security protocols for 5G network slices to protect sensitive applications and data.",
+        "keywords": ["5G Networks", "Network Security", "Network Slicing", "Protocol Design"]
+    },
+    {
+        "id": 2554,
+        "title": "AI-Powered QoS Monitoring",
+        "domain": "26",
+        "description": "Create AI systems to monitor and predict quality of service (QoS) metrics in real time for telecom networks.",
+        "keywords": ["AI", "Network Monitoring", "QoS", "Telecommunications"]
+    },
+    {
+        "id": 2555,
+        "title": "Adaptive Antenna Arrays for 6G",
+        "domain": "26",
+        "description": "Design adaptive antenna arrays for dynamic beamforming to maximize coverage and reduce interference in 6G.",
+        "keywords": ["Antenna Systems", "Beamforming", "6G Research", "Signal Processing"]
+    },
+    {
+        "id": 2556,
+        "title": "Edge AI for Real-Time Video Analytics",
+        "domain": "26",
+        "description": "Deploy AI at telecom edge nodes to process video streams in real time for surveillance or traffic monitoring.",
+        "keywords": ["Edge Computing", "AI", "Streaming", "Telecommunications"]
+    },
+    {
+        "id": 2557,
+        "title": "Satellite-Ground Network Synchronization",
+        "domain": "26",
+        "description": "Develop synchronization protocols for hybrid satellite-terrestrial networks to minimize latency and packet loss.",
+        "keywords": ["Satellite Communication", "Protocol Design", "Network Optimization", "Telecommunications"]
+    },
+    {
+        "id": 2558,
+        "title": "AI-Driven Wireless Spectrum Analytics",
+        "domain": "26",
+        "description": "Use AI to analyze spectrum usage patterns and recommend efficient allocation strategies.",
+        "keywords": ["AI", "Spectrum Sharing", "Wireless Communication", "Telecommunications"]
+    },
+    {
+        "id": 2559,
+        "title": "6G-Powered Telepresence Systems",
+        "domain": "26",
+        "description": "Design ultra-low-latency 6G networks to enable realistic telepresence experiences for remote collaboration.",
+        "keywords": ["6G Research", "Low Latency", "Telepresence", "Wireless Communication"]
+    },
+    {
+        "id": 2560,
+        "title": "Secure IoT Mesh Networks",
+        "domain": "26",
+        "description": "Develop secure, scalable mesh network protocols for IoT devices in industrial and urban environments.",
+        "keywords": ["IoT Connectivity", "Network Security", "Mesh Networks", "Telecommunications"]
+    },
+    {
+        "id": 2561,
+        "title": "AI-Assisted Telecom Infrastructure Planning",
+        "domain": "26",
+        "description": "Leverage AI to plan optimal deployment of telecom towers, antennas, and network nodes for coverage efficiency.",
+        "keywords": ["AI", "Network Planning", "5G Networks", "Telecommunications"]
+    },
+    {
+        "id": 2562,
+        "title": "Dynamic Spectrum Management for 5G/6G",
+        "domain": "26",
+        "description": "Create algorithms for dynamic spectrum allocation to reduce interference and maximize throughput.",
+        "keywords": ["Spectrum Management", "5G Networks", "6G Research", "Network Optimization"]
+    },
+    {
+        "id": 2563,
+        "title": "Telecom AI for Disaster Response",
+        "domain": "26",
+        "description": "Implement AI-driven network rerouting and resource allocation to maintain connectivity during disasters.",
+        "keywords": ["AI", "Disaster Recovery", "Network Management", "Telecommunications"]
+    },
+    {
+        "id": 2564,
+        "title": "High-Frequency 6G Antenna Design",
+        "domain": "26",
+        "description": "Design antennas optimized for terahertz frequencies to support high-speed 6G communications.",
+        "keywords": ["6G Research", "Antenna Systems", "Wireless Communication", "Signal Processing"]
+    },
+    {
+        "id": 2565,
+        "title": "Blockchain-Based Telecom Identity Management",
+        "domain": "26",
+        "description": "Use blockchain to securely manage subscriber identities and authentication in large-scale networks.",
+        "keywords": ["Blockchain", "Network Security", "Identity Management", "Telecommunications"]
+    },
+    {
+        "id": 2566,
+        "title": "AI-Powered Telecom Fault Prediction",
+        "domain": "26",
+        "description": "Develop predictive analytics models to forecast potential network failures before they occur.",
+        "keywords": ["AI", "Fault Prediction", "Network Management", "Telecommunications"]
+    },
+    {
+        "id": 2567,
+        "title": "Satellite IoT for Remote Environmental Monitoring",
+        "domain": "26",
+        "description": "Implement satellite-connected IoT devices for real-time environmental data collection in remote areas.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Remote Sensing", "Telecommunications"]
+    },
+    {
+        "id": 2568,
+        "title": "Secure Edge Computing for Telecom",
+        "domain": "26",
+        "description": "Design robust security frameworks to protect sensitive data processed at telecom edge nodes.",
+        "keywords": ["Edge Computing", "Network Security", "5G Networks", "Telecommunications"]
+    },
+    {
+        "id": 2569,
+        "title": "AI-Optimized Mobile Handover",
+        "domain": "26",
+        "description": "Create AI algorithms to optimize mobile device handover between network cells for seamless connectivity.",
+        "keywords": ["AI", "Mobility Management", "Wireless Communication", "5G Networks"]
+    },
+    {
+        "id": 2570,
+        "title": "Next-Gen Low-Latency Satellite Networks",
+        "domain": "26",
+        "description": "Design satellite networks to provide ultra-low-latency communication for gaming, VR, and industrial IoT.",
+        "keywords": ["Satellite Communication", "Low Latency", "IoT Connectivity", "Telecommunications"]
+    },
+    {
+        "id": 2571,
+        "title": "AI-Based Traffic Prediction in Telecom Networks",
+        "domain": "26",
+        "description": "Use machine learning to predict network traffic trends and optimize bandwidth allocation dynamically.",
+        "keywords": ["AI", "Network Optimization", "Telecommunications", "Traffic Management"]
+    },
+    {
+        "id": 2572,
+        "title": "6G-Integrated Drone Communication",
+        "domain": "26",
+        "description": "Develop communication protocols for drones integrated into 6G networks for coordinated operations.",
+        "keywords": ["6G Research", "Drone Communication", "Wireless Communication", "IoT Connectivity"]
+    },
+    {
+        "id": 2573,
+        "title": "IoT Device Firmware Over-The-Air Security",
+        "domain": "26",
+        "description": "Develop secure OTA update protocols for IoT devices to prevent tampering and ensure integrity in telecom networks.",
+        "keywords": ["IoT Connectivity", "Network Security", "Protocol Design", "Telecommunications"]
+    },
+    {
+        "id": 2574,
+        "title": "AI-Based Signal Quality Enhancement",
+        "domain": "26",
+        "description": "Create AI algorithms that dynamically improve signal quality and reduce interference in dense wireless networks.",
+        "keywords": ["AI", "Signal Processing", "Wireless Communication", "Telecommunications"]
+    },
+    {
+        "id": 2575,
+        "title": "Satellite Network Traffic Load Balancing",
+        "domain": "26",
+        "description": "Design algorithms to distribute traffic efficiently across satellite networks to minimize latency and congestion.",
+        "keywords": ["Satellite Communication", "Network Management", "Traffic Optimization", "Telecommunications"]
+    },
+    {
+        "id": 2576,
+        "title": "Secure Multi-Tenant 5G Network Architecture",
+        "domain": "26",
+        "description": "Develop a multi-tenant 5G network architecture that ensures isolation and security between different service providers.",
+        "keywords": ["5G Networks", "Network Security", "Multi-Tenant Architecture", "Telecommunications"]
+    },
+    {
+        "id": 2577,
+        "title": "AI-Enhanced Telecom Energy Management",
+        "domain": "26",
+        "description": "Implement AI-driven systems to optimize energy usage across telecom base stations and edge nodes.",
+        "keywords": ["AI", "Energy Efficiency", "5G Networks", "Telecommunications"]
+    },
+    {
+        "id": 2578,
+        "title": "6G-Powered Smart Factory Communication",
+        "domain": "26",
+        "description": "Design high-speed, low-latency 6G communication systems for industrial IoT and smart factory automation.",
+        "keywords": ["6G Research", "IoT Connectivity", "Smart Factory", "Low Latency"]
+    },
+    {
+        "id": 2579,
+        "title": "Cognitive Edge Networks for IoT",
+        "domain": "26",
+        "description": "Develop cognitive edge networks that can self-optimize, adapt, and learn from IoT traffic patterns.",
+        "keywords": ["Edge Computing", "AI", "IoT Connectivity", "Telecommunications"]
+    },
+    {
+        "id": 2580,
+        "title": "Satellite-Based Emergency Communication Drones",
+        "domain": "26",
+        "description": "Integrate drones with satellite networks to provide rapid emergency communication in disaster zones.",
+        "keywords": ["Satellite Communication", "Drones", "Emergency Response", "Telecommunications"]
+    },
+    {
+        "id": 2581,
+        "title": "AI-Powered Telecom Predictive Maintenance",
+        "domain": "26",
+        "description": "Implement AI systems to predict failures in telecom infrastructure and schedule maintenance proactively.",
+        "keywords": ["AI", "Predictive Maintenance", "Network Management", "Telecommunications"]
+    },
+    {
+        "id": 2582,
+        "title": "6G Network Slicing for Industrial IoT",
+        "domain": "26",
+        "description": "Design network slicing techniques in 6G to meet diverse latency, reliability, and bandwidth requirements of industrial IoT.",
+        "keywords": ["6G Research", "Network Slicing", "Industrial IoT", "Telecommunications"]
+    },
+    {
+        "id": 2583,
+        "title": "AI-Enhanced Mobile Network Coverage Prediction",
+        "domain": "26",
+        "description": "Use machine learning to predict coverage gaps and optimize mobile network expansion in urban and rural areas.",
+        "keywords": ["AI", "Coverage Prediction", "Network Planning", "Telecommunications"]
+    },
+    {
+        "id": 2584,
+        "title": "Secure IoT Data Aggregation in Telecom Networks",
+        "domain": "26",
+        "description": "Develop secure protocols for aggregating IoT sensor data in telecom networks to prevent data leakage.",
+        "keywords": ["IoT Connectivity", "Data Security", "Protocol Design", "Telecommunications"]
+    },
+    {
+        "id": 2585,
+        "title": "AI-Based User Experience Optimization",
+        "domain": "26",
+        "description": "Implement AI models that analyze user behavior and optimize telecom network parameters for better experience.",
+        "keywords": ["AI", "User Experience", "Network Optimization", "Telecommunications"]
+    },
+    {
+        "id": 2586,
+        "title": "Satellite IoT for Global Wildlife Tracking",
+        "domain": "26",
+        "description": "Design satellite-enabled IoT systems to track and monitor wildlife populations in remote areas.",
+        "keywords": ["Satellite Communication", "IoT Connectivity", "Wildlife Tracking", "Telecommunications"]
+    },
+    {
+        "id": 2587,
+        "title": "AI-Powered Spectrum Interference Mitigation",
+        "domain": "26",
+        "description": "Develop AI algorithms to detect and mitigate interference in crowded spectrum bands efficiently.",
+        "keywords": ["AI", "Spectrum Management", "Signal Processing", "Telecommunications"]
+    },
+    {
+        "id": 2588,
+        "title": "Edge-Enhanced AR/VR Streaming over 5G",
+        "domain": "26",
+        "description": "Design edge computing architectures to deliver low-latency AR/VR content over 5G networks.",
+        "keywords": ["Edge Computing", "Streaming", "5G Networks", "AR/VR"]
+    },
+    {
+        "id": 2589,
+        "title": "Secure Telecom Data Marketplace",
+        "domain": "26",
+        "description": "Implement blockchain-based marketplaces for secure sharing and monetization of telecom network data.",
+        "keywords": ["Blockchain", "Data Security", "Telecommunications", "Marketplace"]
+    },
+    {
+        "id": 2590,
+        "title": "AI-Powered Dynamic Bandwidth Allocation",
+        "domain": "26",
+        "description": "Develop AI systems that dynamically allocate bandwidth to users and services based on real-time demand.",
+        "keywords": ["AI", "Bandwidth Management", "Network Optimization", "Telecommunications"]
+    },
+    {
+        "id": 2591,
+        "title": "6G-Enabled Haptic Internet",
+        "domain": "26",
+        "description": "Design 6G networks to support real-time haptic feedback for remote tactile applications.",
+        "keywords": ["6G Research", "Low Latency", "Haptic Internet", "Wireless Communication"]
+    },
+    {
+        "id": 2592,
+        "title": "AI-Assisted Network Traffic Anomaly Detection",
+        "domain": "26",
+        "description": "Develop AI models to detect anomalies in telecom traffic for security and reliability improvements.",
+        "keywords": ["AI", "Network Security", "Traffic Analysis", "Telecommunications"]
+    },
+    {
+        "id": 2593,
+        "title": "Energy-Efficient IoT Communication Protocols",
+        "domain": "26",
+        "description": "Design low-energy communication protocols for IoT devices connected over 5G/6G networks.",
+        "keywords": ["IoT Connectivity", "Protocol Design", "Energy Efficiency", "Telecommunications"]
+    },
+    {
+        "id": 2594,
+        "title": "Secure Drone Communication Networks",
+        "domain": "26",
+        "description": "Implement secure protocols for drone fleets communicating over 5G/6G networks in urban environments.",
+        "keywords": ["Drone Communication", "Network Security", "5G Networks", "Telecommunications"]
+    },
+    {
+        "id": 2595,
+        "title": "AI-Optimized Multi-Access Edge Orchestration",
+        "domain": "26",
+        "description": "Develop AI systems to orchestrate multi-access edge computing resources dynamically for telecom workloads.",
+        "keywords": ["AI", "Edge Computing", "Resource Orchestration", "Telecommunications"]
+    },
+// PHARMACEUTICAL & DRUG DISCOVERY (Domain 27)
+        
 
         // MEDIA & CONTENT CREATION (Domain 28)
         {
