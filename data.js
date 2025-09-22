@@ -20127,27 +20127,588 @@ const PROBLEMS_DATA = {
 
 
         // CLIMATE SCIENCE & WEATHER (Domain 30)
-        {
-            "id": 3001,
-            "title": "Climate Change Impact Modeler",
-            "domain": "30",
-            "description": "Develop a comprehensive model that predicts the impact of climate change on different regions, ecosystems, and human activities.",
-            "keywords": ["Climate Modeling", "Impact Assessment", "Environmental Science", "Prediction"]
-        },
-        {
-            "id": 3002,
-            "title": "Extreme Weather Predictor",
-            "domain": "30",
-            "description": "Build an advanced system that predicts extreme weather events with high accuracy and provides early warning systems.",
-            "keywords": ["Weather Prediction", "Extreme Events", "Early Warning", "Public Safety"]
-        },
-        {
-            "id": 3003,
-            "title": "Carbon Footprint Calculator",
-            "domain": "30",
-            "description": "Create a comprehensive tool that calculates carbon footprints for individuals, organizations, and activities with actionable recommendations.",
-            "keywords": ["Carbon Footprint", "Sustainability", "Environmental Impact", "Climate Action"]
-        },
+        
+    {
+        "id": 2882,
+        "title": "AI-Based Extreme Weather Forecasting",
+        "domain": "30",
+        "description": "Develop AI models to predict extreme weather events such as hurricanes, tornadoes, and floods with higher accuracy.",
+        "keywords": ["Weather Prediction", "Extreme Weather", "AI", "Meteorology"]
+    },
+    {
+        "id": 2883,
+        "title": "Real-Time Climate Monitoring Dashboard",
+        "domain": "30",
+        "description": "Create an interactive dashboard integrating satellite and sensor data to monitor climate variables in real time.",
+        "keywords": ["Climate Modeling", "Environmental Monitoring", "Climate Data", "Atmospheric Science"]
+    },
+    {
+        "id": 2884,
+        "title": "Carbon Cycle Simulation for Policy Planning",
+        "domain": "30",
+        "description": "Develop a simulation tool for analyzing carbon fluxes to support climate policy and emissions reduction planning.",
+        "keywords": ["Carbon Cycle", "Climate Modeling", "Climate Change", "Climate Adaptation"]
+    },
+    {
+        "id": 2885,
+        "title": "AI-Driven Paleoclimate Reconstruction",
+        "domain": "30",
+        "description": "Use AI to reconstruct historical climate patterns from ice cores, tree rings, and sediment data.",
+        "keywords": ["Paleoclimatology", "AI", "Climate Data", "Climate Modeling"]
+    },
+    {
+        "id": 2886,
+        "title": "Urban Heat Island Mapping",
+        "domain": "30",
+        "description": "Map urban heat islands using remote sensing data and AI to identify regions at risk and guide mitigation strategies.",
+        "keywords": ["Climate Modeling", "Environmental Monitoring", "AI", "Urban Climate"]
+    },
+    {
+        "id": 2887,
+        "title": "Predictive Flood Risk Modeling",
+        "domain": "30",
+        "description": "Develop predictive models to assess flood risk in coastal and riverine areas under changing climate conditions.",
+        "keywords": ["Climate Modeling", "Extreme Weather", "AI", "Climate Adaptation"]
+    },
+    {
+        "id": 2888,
+        "title": "AI-Based Monsoon Onset Prediction",
+        "domain": "30",
+        "description": "Create AI models to accurately predict the onset and withdrawal of monsoons for agriculture and water resource planning.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Meteorology"]
+    },
+    {
+        "id": 2889,
+        "title": "Ocean-Atmosphere Interaction Modeling",
+        "domain": "30",
+        "description": "Simulate ocean-atmosphere interactions to predict climate anomalies and extreme weather events.",
+        "keywords": ["Ocean Science", "Climate Modeling", "Atmospheric Science", "Climate Data"]
+    },
+    {
+        "id": 2890,
+        "title": "Climate Adaptation Planning Tool",
+        "domain": "30",
+        "description": "Develop a decision support tool for climate adaptation planning using environmental and socio-economic data.",
+        "keywords": ["Climate Adaptation", "Environmental Monitoring", "Climate Modeling", "Climate Data"]
+    },
+    {
+        "id": 2891,
+        "title": "AI-Based Drought Prediction System",
+        "domain": "30",
+        "description": "Use AI and remote sensing data to predict drought events and support water management strategies.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2892,
+        "title": "Real-Time Atmospheric Pollution Monitoring",
+        "domain": "30",
+        "description": "Develop a system to monitor atmospheric pollutants and their impact on weather and climate in real-time.",
+        "keywords": ["Atmospheric Science", "Environmental Monitoring", "Climate Data", "AI"]
+    },
+    {
+        "id": 2893,
+        "title": "AI-Powered Seasonal Climate Forecasting",
+        "domain": "30",
+        "description": "Create AI models for seasonal climate forecasts to support agriculture and disaster preparedness.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Meteorology"]
+    },
+    {
+        "id": 2894,
+        "title": "Climate Change Impact on Coastal Ecosystems",
+        "domain": "30",
+        "description": "Model and analyze the impact of sea-level rise and extreme weather on coastal ecosystems.",
+        "keywords": ["Climate Change", "Environmental Monitoring", "Ocean Science", "Climate Adaptation"]
+    },
+    {
+        "id": 2895,
+        "title": "High-Resolution Weather Prediction",
+        "domain": "30",
+        "description": "Develop high-resolution weather models using AI to improve short-term forecasts for local regions.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Meteorology"]
+    },
+    {
+        "id": 2896,
+        "title": "Satellite-Based Snow Cover Monitoring",
+        "domain": "30",
+        "description": "Use satellite imagery and AI to monitor snow cover changes and their impact on hydrology and climate.",
+        "keywords": ["Climate Modeling", "Environmental Monitoring", "Climate Data", "AI"]
+    },
+    {
+        "id": 2897,
+        "title": "Predicting Heatwave Frequency Under Climate Change",
+        "domain": "30",
+        "description": "Model how heatwave frequency and intensity may change under various climate scenarios using AI.",
+        "keywords": ["Extreme Weather", "Climate Change", "AI", "Climate Modeling"]
+    },
+    {
+        "id": 2898,
+        "title": "AI-Based Hurricane Track Prediction",
+        "domain": "30",
+        "description": "Use AI to enhance the prediction of hurricane tracks and intensity for better disaster preparedness.",
+        "keywords": ["Extreme Weather", "Weather Prediction", "AI", "Climate Modeling"]
+    },
+    {
+        "id": 2899,
+        "title": "Climate-Driven Crop Yield Prediction",
+        "domain": "30",
+        "description": "Predict crop yields under changing climate conditions using climate models and AI.",
+        "keywords": ["Climate Modeling", "Weather Prediction", "AI", "Climate Adaptation"]
+    },
+    {
+        "id": 2900,
+        "title": "AI-Based Atmospheric Pressure Analysis",
+        "domain": "30",
+        "description": "Analyze atmospheric pressure variations using AI to improve weather forecasting and climate modeling.",
+        "keywords": ["Atmospheric Science", "AI", "Climate Modeling", "Weather Prediction"]
+    },
+    {
+        "id": 2901,
+        "title": "Ocean Acidification Monitoring",
+        "domain": "30",
+        "description": "Develop tools to monitor ocean acidity changes and assess impacts on marine ecosystems under climate change.",
+        "keywords": ["Ocean Science", "Climate Change", "Environmental Monitoring", "Climate Data"]
+    },
+    {
+        "id": 2902,
+        "title": "Predictive Analytics for Extreme Rainfall Events",
+        "domain": "30",
+        "description": "Use AI to predict extreme rainfall events and potential flood risks for disaster management.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2903,
+        "title": "Climate Data Integration for Regional Modeling",
+        "domain": "30",
+        "description": "Integrate diverse climate datasets to improve regional climate and weather predictions using AI.",
+        "keywords": ["Climate Data", "Climate Modeling", "AI", "Environmental Monitoring"]
+    },
+    {
+        "id": 2904,
+        "title": "AI-Powered Storm Surge Prediction",
+        "domain": "30",
+        "description": "Predict storm surge levels during cyclones using AI models combined with oceanographic data.",
+        "keywords": ["Extreme Weather", "AI", "Ocean Science", "Climate Adaptation"]
+    },
+    {
+        "id": 2905,
+        "title": "Urban Flood Risk Mapping",
+        "domain": "30",
+        "description": "Create maps of flood-prone urban areas using AI, remote sensing, and climate projections.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2906,
+        "title": "AI-Based Air Temperature Trend Analysis",
+        "domain": "30",
+        "description": "Analyze long-term air temperature trends to identify climate change patterns using AI.",
+        "keywords": ["Climate Change", "AI", "Climate Data", "Atmospheric Science"]
+    },
+    {
+        "id": 2907,
+        "title": "Snowmelt Impact on River Flow Prediction",
+        "domain": "30",
+        "description": "Model the impact of snowmelt on river flow and flooding risks under climate variability.",
+        "keywords": ["Climate Modeling", "Weather Prediction", "AI", "Environmental Monitoring"]
+    },
+    {
+        "id": 2908,
+        "title": "AI-Based Tornado Risk Mapping",
+        "domain": "30",
+        "description": "Use AI to map tornado-prone regions and support early warning systems.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2909,
+        "title": "Real-Time Rainfall Monitoring System",
+        "domain": "30",
+        "description": "Develop a system to monitor and predict rainfall in real-time using IoT sensors and AI analytics.",
+        "keywords": ["Weather Prediction", "AI", "Environmental Monitoring", "Climate Data"]
+    },
+    {
+        "id": 2910,
+        "title": "AI-Powered Climate Scenario Simulation",
+        "domain": "30",
+        "description": "Simulate multiple climate scenarios to assess potential environmental impacts and adaptation strategies.",
+        "keywords": ["Climate Modeling", "AI", "Climate Change", "Climate Adaptation"]
+    },
+    {
+        "id": 2911,
+        "title": "Predictive Analytics for Heat Stress Events",
+        "domain": "30",
+        "description": "Use AI to predict and map areas at risk of heat stress for public health and agriculture planning.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2912,
+        "title": "AI-Based Climate Anomaly Detection",
+        "domain": "30",
+        "description": "Detect unusual climate patterns and anomalies using AI for early warning and research purposes.",
+        "keywords": ["Climate Modeling", "AI", "Climate Data", "Environmental Monitoring"]
+    },
+    {
+        "id": 2913,
+        "title": "Wind Pattern Prediction for Renewable Energy Planning",
+        "domain": "30",
+        "description": "Predict wind patterns using AI to optimize locations and efficiency of wind energy installations.",
+        "keywords": ["Climate Modeling", "AI", "Environmental Monitoring", "Sustainability"]
+    },
+    {
+        "id": 2914,
+        "title": "AI-Based Soil Moisture Forecasting",
+        "domain": "30",
+        "description": "Forecast soil moisture levels for agriculture and water resource planning using climate and weather data.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2915,
+        "title": "Predicting Glacial Retreat with Climate Models",
+        "domain": "30",
+        "description": "Use climate models and AI to forecast glacier retreat under warming scenarios.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Paleoclimatology"]
+    },
+    {
+        "id": 2916,
+        "title": "AI-Based Lightning Strike Prediction",
+        "domain": "30",
+        "description": "Predict lightning strike probability and location using atmospheric and weather data.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Atmospheric Science"]
+    },
+    {
+        "id": 2917,
+        "title": "Ocean Temperature Anomaly Detection",
+        "domain": "30",
+        "description": "Monitor and detect unusual ocean temperature variations using AI and satellite data.",
+        "keywords": ["Ocean Science", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2918,
+        "title": "AI-Powered Snowfall Prediction",
+        "domain": "30",
+        "description": "Predict snowfall intensity and distribution using AI models combined with meteorological data.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Meteorology"]
+    },
+    {
+        "id": 2919,
+        "title": "Climate Change Impact on Monsoon Patterns",
+        "domain": "30",
+        "description": "Analyze how climate change alters monsoon patterns using AI and historical climate data.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Meteorology"]
+    },
+    {
+        "id": 2920,
+        "title": "Predicting Wildfire Risk Using Climate Data",
+        "domain": "30",
+        "description": "Use climate and environmental data to predict wildfire-prone regions and periods using AI.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2921,
+        "title": "AI-Based Fog Prediction for Transportation Safety",
+        "domain": "30",
+        "description": "Develop AI models to predict fog events and visibility conditions to improve transportation safety.",
+        "keywords": ["Weather Prediction", "AI", "Extreme Weather", "Climate Adaptation"]
+    },
+    {
+        "id": 2922,
+        "title": "AI-Powered Ocean Current Prediction",
+        "domain": "30",
+        "description": "Predict ocean currents using AI and satellite data to support marine navigation and climate studies.",
+        "keywords": ["Ocean Science", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2923,
+        "title": "Predictive Snowpack Analysis for Water Resources",
+        "domain": "30",
+        "description": "Use AI to forecast snowpack accumulation and melting to manage water resources efficiently.",
+        "keywords": ["Climate Modeling", "AI", "Water Management", "Weather Prediction"]
+    },
+    {
+        "id": 2924,
+        "title": "AI-Based Tropical Cyclone Intensity Forecasting",
+        "domain": "30",
+        "description": "Develop AI models to predict the intensity of tropical cyclones for better disaster preparedness.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2925,
+        "title": "Urban Rainwater Harvesting Potential Mapping",
+        "domain": "30",
+        "description": "Use climate and rainfall data to map optimal locations for rainwater harvesting in urban areas.",
+        "keywords": ["Environmental Monitoring", "Climate Modeling", "AI", "Climate Adaptation"]
+    },
+    {
+        "id": 2926,
+        "title": "AI-Powered Sea-Level Rise Projection",
+        "domain": "30",
+        "description": "Predict regional sea-level rise under different climate scenarios using AI models.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Ocean Science"]
+    },
+    {
+        "id": 2927,
+        "title": "Climate-Driven Pest Outbreak Prediction",
+        "domain": "30",
+        "description": "Predict pest outbreak risks based on climate variables to support agriculture management.",
+        "keywords": ["Climate Modeling", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2928,
+        "title": "AI-Based Tornado Intensity Estimation",
+        "domain": "30",
+        "description": "Estimate tornado intensity and potential damage using AI and atmospheric data.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Atmospheric Science"]
+    },
+    {
+        "id": 2929,
+        "title": "Real-Time Glacier Melt Monitoring",
+        "domain": "30",
+        "description": "Monitor glacier melting using satellite data and AI to study climate change impacts on freshwater supply.",
+        "keywords": ["Climate Change", "AI", "Climate Data", "Paleoclimatology"]
+    },
+    {
+        "id": 2930,
+        "title": "AI-Powered Rainfall Runoff Modeling",
+        "domain": "30",
+        "description": "Model rainfall runoff patterns in watersheds using AI to support flood management and urban planning.",
+        "keywords": ["Climate Modeling", "AI", "Environmental Monitoring", "Weather Prediction"]
+    },
+    {
+        "id": 2931,
+        "title": "Predictive Analytics for Hailstorm Risk",
+        "domain": "30",
+        "description": "Use AI to predict regions and periods at high risk of hailstorms for agricultural and property protection.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2932,
+        "title": "AI-Based Solar Radiation Forecasting",
+        "domain": "30",
+        "description": "Predict solar radiation levels using AI to optimize solar energy generation and climate studies.",
+        "keywords": ["Climate Modeling", "AI", "Environmental Monitoring", "Sustainability"]
+    },
+    {
+        "id": 2933,
+        "title": "Predicting Drought Severity Using Climate Models",
+        "domain": "30",
+        "description": "Forecast drought severity using climate models and AI to support agriculture and water management.",
+        "keywords": ["Extreme Weather", "Climate Modeling", "AI", "Climate Adaptation"]
+    },
+    {
+        "id": 2934,
+        "title": "AI-Powered Ocean Salinity Analysis",
+        "domain": "30",
+        "description": "Analyze ocean salinity variations using AI to understand climate impacts on marine ecosystems.",
+        "keywords": ["Ocean Science", "AI", "Climate Data", "Environmental Monitoring"]
+    },
+    {
+        "id": 2935,
+        "title": "Climate Impact Assessment for Coastal Infrastructure",
+        "domain": "30",
+        "description": "Assess climate change impacts on coastal infrastructure using AI and climate projections.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2936,
+        "title": "AI-Based Frost Risk Prediction",
+        "domain": "30",
+        "description": "Predict frost events using AI to minimize agricultural losses and inform early warning systems.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2937,
+        "title": "AI-Powered Air Pressure Gradient Analysis",
+        "domain": "30",
+        "description": "Analyze air pressure gradients with AI to improve weather forecasting and storm prediction.",
+        "keywords": ["Atmospheric Science", "AI", "Weather Prediction", "Climate Modeling"]
+    },
+    {
+        "id": 2938,
+        "title": "Predicting Ocean Heatwaves Using AI",
+        "domain": "30",
+        "description": "Forecast ocean heatwave events using AI models and environmental data to protect marine biodiversity.",
+        "keywords": ["Ocean Science", "AI", "Climate Modeling", "Extreme Weather"]
+    },
+    {
+        "id": 2939,
+        "title": "AI-Based Snowstorm Intensity Forecasting",
+        "domain": "30",
+        "description": "Predict intensity and spatial distribution of snowstorms using AI and climate data.",
+        "keywords": ["Extreme Weather", "Weather Prediction", "AI", "Climate Modeling"]
+    },
+    {
+        "id": 2940,
+        "title": "Urban Climate Resilience Modeling",
+        "domain": "30",
+        "description": "Model urban climate resilience using AI and environmental data to guide city planning and infrastructure.",
+        "keywords": ["Climate Adaptation", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2941,
+        "title": "AI-Based Coastal Erosion Prediction",
+        "domain": "30",
+        "description": "Predict coastal erosion rates using AI models and climate data to guide mitigation efforts.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2942,
+        "title": "Predicting Monsoon Intensity Variations",
+        "domain": "30",
+        "description": "Use AI to predict variations in monsoon intensity and their impacts on agriculture and water resources.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2943,
+        "title": "AI-Powered Wildfire Smoke Dispersion Modeling",
+        "domain": "30",
+        "description": "Model smoke dispersion from wildfires using AI to predict air quality impacts on cities.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2944,
+        "title": "Predictive Analytics for Tornado Frequency",
+        "domain": "30",
+        "description": "Forecast tornado frequency and intensity in regions prone to severe weather using AI models.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2945,
+        "title": "AI-Based Glacier Mass Balance Monitoring",
+        "domain": "30",
+        "description": "Monitor and predict glacier mass balance changes using AI to study water resources and climate change.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Paleoclimatology"]
+    },
+    {
+        "id": 2946,
+        "title": "Real-Time Lightning Strike Risk Forecasting",
+        "domain": "30",
+        "description": "Forecast lightning strike risk areas in real-time using AI and atmospheric data to improve safety.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Atmospheric Science"]
+    },
+    {
+        "id": 2947,
+        "title": "AI-Powered Rainfall Intensity Mapping",
+        "domain": "30",
+        "description": "Map rainfall intensity using satellite data and AI for urban planning and flood risk management.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2948,
+        "title": "Predicting Sea Surface Temperature Anomalies",
+        "domain": "30",
+        "description": "Use AI to forecast anomalies in sea surface temperature and their potential impacts on climate systems.",
+        "keywords": ["Ocean Science", "AI", "Climate Modeling", "Climate Data"]
+    },
+    {
+        "id": 2949,
+        "title": "AI-Based Climate Extreme Event Clustering",
+        "domain": "30",
+        "description": "Cluster and identify regions prone to climate extremes using AI and historical climate data.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Climate Data"]
+    },
+    {
+        "id": 2950,
+        "title": "Predictive Analytics for Coastal Flooding",
+        "domain": "30",
+        "description": "Forecast potential coastal flooding events using AI models integrating tide and storm surge data.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2951,
+        "title": "AI-Powered Atmospheric Humidity Forecasting",
+        "domain": "30",
+        "description": "Predict atmospheric humidity variations using AI for better weather and climate prediction accuracy.",
+        "keywords": ["Weather Prediction", "AI", "Atmospheric Science", "Climate Modeling"]
+    },
+    {
+        "id": 2952,
+        "title": "Climate Impact Simulation on Agriculture",
+        "domain": "30",
+        "description": "Simulate climate change impacts on crop growth and yields using AI and climate models.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Weather Prediction"]
+    },
+    {
+        "id": 2953,
+        "title": "AI-Based Extreme Temperature Forecasting",
+        "domain": "30",
+        "description": "Forecast heatwaves and cold waves using AI to support public health and infrastructure planning.",
+        "keywords": ["Extreme Weather", "AI", "Weather Prediction", "Climate Adaptation"]
+    },
+    {
+        "id": 2954,
+        "title": "Predicting Oceanic Nutrient Distribution",
+        "domain": "30",
+        "description": "Use AI to forecast nutrient distribution in oceans and its implications on marine ecosystems under climate change.",
+        "keywords": ["Ocean Science", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2955,
+        "title": "AI-Based Storm Frequency Trend Analysis",
+        "domain": "30",
+        "description": "Analyze trends in storm frequency and intensity using historical climate data and AI.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Weather Prediction"]
+    },
+    {
+        "id": 2956,
+        "title": "Real-Time Coastal Weather Monitoring System",
+        "domain": "30",
+        "description": "Monitor coastal weather conditions in real-time using sensors, satellites, and AI analytics.",
+        "keywords": ["Weather Prediction", "AI", "Climate Data", "Environmental Monitoring"]
+    },
+    {
+        "id": 2957,
+        "title": "AI-Powered Glacier Retreat Prediction",
+        "domain": "30",
+        "description": "Predict glacier retreat rates using AI models based on climate scenarios and historical data.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Paleoclimatology"]
+    },
+    {
+        "id": 2958,
+        "title": "Predicting Monsoon Onset Variability",
+        "domain": "30",
+        "description": "Use AI to forecast variations in monsoon onset timing for agriculture and water planning.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Climate Adaptation"]
+    },
+    {
+        "id": 2959,
+        "title": "AI-Based Snow Accumulation Forecasting",
+        "domain": "30",
+        "description": "Forecast snow accumulation in mountainous regions using AI models and climate data.",
+        "keywords": ["Weather Prediction", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2960,
+        "title": "Predictive Analytics for Coastal Erosion Risk",
+        "domain": "30",
+        "description": "Forecast erosion-prone areas along coastlines using AI and climate models for planning mitigation strategies.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2961,
+        "title": "AI-Powered Extreme Precipitation Modeling",
+        "domain": "30",
+        "description": "Model extreme precipitation events using AI to support disaster preparedness and urban planning.",
+        "keywords": ["Extreme Weather", "AI", "Climate Modeling", "Weather Prediction"]
+    },
+    {
+        "id": 2962,
+        "title": "Climate Adaptation Decision Support System",
+        "domain": "30",
+        "description": "Develop a tool integrating climate projections and AI to support regional adaptation strategies.",
+        "keywords": ["Climate Adaptation", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2963,
+        "title": "AI-Based Atmospheric Aerosol Analysis",
+        "domain": "30",
+        "description": "Analyze atmospheric aerosol concentration and movement using AI to study their climate impact.",
+        "keywords": ["Atmospheric Science", "AI", "Climate Modeling", "Environmental Monitoring"]
+    },
+    {
+        "id": 2964,
+        "title": "Predicting Climate Change Impact on River Systems",
+        "domain": "30",
+        "description": "Forecast how climate change will affect river flow patterns and water availability using AI and climate models.",
+        "keywords": ["Climate Change", "AI", "Climate Modeling", "Water Management"]
+    },
 
         // VR & METAVERSE (Domain 31)
         {
