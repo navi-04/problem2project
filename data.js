@@ -19414,30 +19414,717 @@ const PROBLEMS_DATA = {
         "description": "Use AI to synchronize audio and video streams automatically for live events or recordings.",
         "keywords": ["Video Production", "Audio Processing", "AI", "Digital Media"]
     },
-    
-
       // SUPPLY CHAIN & LOGISTICS (Domain 29)
-        {
-            "id": 2901,
-            "title": "Global Supply Chain Optimizer",
-            "domain": "29",
-            "description": "Build a comprehensive system that optimizes global supply chains considering costs, risks, sustainability, and delivery times.",
-            "keywords": ["Supply Chain", "Optimization", "Risk Management", "Sustainability"]
-        },
-        {
-            "id": 2902,
-            "title": "Warehouse Robot Coordinator",
-            "domain": "29",
-            "description": "Design a system that coordinates multiple warehouse robots to maximize efficiency while avoiding collisions and bottlenecks.",
-            "keywords": ["Warehouse Automation", "Robot Coordination", "Efficiency", "Logistics"]
-        },
-        {
-            "id": 2903,
-            "title": "Demand Forecasting Engine",
-            "domain": "29",
-            "description": "Create an AI-powered demand forecasting system that considers seasonal patterns, market trends, and external factors.",
-            "keywords": ["Demand Forecasting", "AI", "Market Analysis", "Inventory Management"]
-        },
+    {
+        "id": 2781,
+        "title": "AI-Powered Demand Forecasting",
+        "domain": "29",
+        "description": "Develop AI models to predict product demand accurately for optimized inventory and procurement planning.",
+        "keywords": ["Demand Forecasting", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2782,
+        "title": "Autonomous Warehouse Robot Coordination",
+        "domain": "29",
+        "description": "Design an AI system to coordinate multiple warehouse robots for efficient picking, packing, and storage.",
+        "keywords": ["Warehouse Automation", "Robotics", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2783,
+        "title": "Blockchain-Based Supply Chain Tracking",
+        "domain": "29",
+        "description": "Implement a blockchain solution to track and verify products throughout the supply chain for transparency.",
+        "keywords": ["Blockchain", "Supply Chain Optimization", "Vendor Management", "Digital Transformation"]
+    },
+    {
+        "id": 2784,
+        "title": "AI-Optimized Last-Mile Delivery Routes",
+        "domain": "29",
+        "description": "Use AI algorithms to optimize last-mile delivery routes for reduced cost and faster delivery times.",
+        "keywords": ["Last-Mile Delivery", "Route Optimization", "AI", "Sustainability"]
+    },
+    {
+        "id": 2785,
+        "title": "Predictive Maintenance for Logistics Vehicles",
+        "domain": "29",
+        "description": "Develop predictive maintenance systems for trucks and delivery vehicles to prevent breakdowns and delays.",
+        "keywords": ["Fleet Management", "Predictive Maintenance", "Supply Chain Optimization", "AI"]
+    },
+    {
+        "id": 2786,
+        "title": "Sustainable Packaging Optimization",
+        "domain": "29",
+        "description": "Use AI to design and select packaging materials that minimize waste and environmental impact in supply chains.",
+        "keywords": ["Sustainability", "Supply Chain Optimization", "Procurement", "AI"]
+    },
+    {
+        "id": 2787,
+        "title": "Dynamic Inventory Replenishment System",
+        "domain": "29",
+        "description": "Create a real-time inventory replenishment system using AI to adjust stock levels based on demand and lead times.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2788,
+        "title": "Vendor Risk Assessment Platform",
+        "domain": "29",
+        "description": "Develop a system to assess and monitor supplier risks using AI and analytics for better vendor management.",
+        "keywords": ["Vendor Management", "Risk Management", "AI", "Procurement"]
+    },
+    {
+        "id": 2789,
+        "title": "IoT-Based Real-Time Inventory Tracking",
+        "domain": "29",
+        "description": "Implement IoT sensors and AI for real-time tracking of warehouse inventory to reduce stockouts and losses.",
+        "keywords": ["Inventory Management", "IoT", "Supply Chain Optimization", "Digital Transformation"]
+    },
+    {
+        "id": 2790,
+        "title": "AI-Powered Procurement Automation",
+        "domain": "29",
+        "description": "Use AI to automate procurement workflows, optimize supplier selection, and negotiate better prices.",
+        "keywords": ["Procurement", "AI", "Supply Chain Optimization", "Digital Transformation"]
+    },
+    {
+        "id": 2791,
+        "title": "Intelligent Route Planning for Delivery Fleets",
+        "domain": "29",
+        "description": "Develop AI algorithms to plan delivery fleet routes considering traffic, weather, and fuel efficiency.",
+        "keywords": ["Route Optimization", "Last-Mile Delivery", "AI", "Sustainability"]
+    },
+    {
+        "id": 2792,
+        "title": "AI-Based Warehouse Layout Optimization",
+        "domain": "29",
+        "description": "Optimize warehouse layout using AI to reduce picking times and improve storage efficiency.",
+        "keywords": ["Warehouse Automation", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2793,
+        "title": "Predictive Demand Clustering for Retail",
+        "domain": "29",
+        "description": "Cluster similar products and locations to forecast demand more accurately using AI and analytics.",
+        "keywords": ["Demand Forecasting", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2794,
+        "title": "Blockchain-Enabled Cold Chain Monitoring",
+        "domain": "29",
+        "description": "Use blockchain and IoT to monitor and ensure temperature compliance in cold chain logistics.",
+        "keywords": ["Blockchain", "Supply Chain Optimization", "IoT", "Risk Management"]
+    },
+    {
+        "id": 2795,
+        "title": "AI-Driven Supplier Performance Scoring",
+        "domain": "29",
+        "description": "Develop AI models to score and rank suppliers based on delivery, quality, and reliability metrics.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2796,
+        "title": "Smart Inventory Redistribution System",
+        "domain": "29",
+        "description": "Automatically redistribute inventory between warehouses based on predictive demand and stock levels using AI.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Warehouse Automation"]
+    },
+    {
+        "id": 2797,
+        "title": "Sustainability Dashboard for Supply Chains",
+        "domain": "29",
+        "description": "Develop a dashboard to monitor environmental impact metrics across the supply chain using real-time data.",
+        "keywords": ["Sustainability", "Digital Transformation", "Supply Chain Optimization", "Analytics"]
+    },
+    {
+        "id": 2798,
+        "title": "AI-Powered Freight Cost Optimization",
+        "domain": "29",
+        "description": "Optimize freight and shipping costs using AI by analyzing multiple carriers, routes, and delivery schedules.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2799,
+        "title": "Predictive Supplier Lead Time Estimation",
+        "domain": "29",
+        "description": "Use AI to predict supplier lead times accurately to improve planning and reduce stockouts.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2800,
+        "title": "AI-Based Risk Mitigation in Supply Chains",
+        "domain": "29",
+        "description": "Develop AI systems to identify and mitigate potential risks such as delays, disruptions, or fraud in the supply chain.",
+        "keywords": ["Risk Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2801,
+        "title": "AI-Optimized Multi-Echelon Inventory Management",
+        "domain": "29",
+        "description": "Use AI to optimize inventory across multiple warehouse levels to minimize stock holding and shortages.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Warehouse Automation"]
+    },
+    {
+        "id": 2802,
+        "title": "Automated Vendor Contract Analysis",
+        "domain": "29",
+        "description": "Develop AI tools to analyze vendor contracts for compliance, pricing, and performance clauses.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Digital Transformation"]
+    },
+    {
+        "id": 2803,
+        "title": "AI-Based Transportation Mode Selection",
+        "domain": "29",
+        "description": "Select the most efficient transportation modes using AI based on cost, delivery time, and sustainability.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2804,
+        "title": "Real-Time Shipment Tracking and Alerts",
+        "domain": "29",
+        "description": "Implement IoT and AI to provide real-time tracking of shipments and alert for potential delays.",
+        "keywords": ["IoT Connectivity", "Supply Chain Optimization", "AI", "Last-Mile Delivery"]
+    },
+    {
+        "id": 2805,
+        "title": "Predictive Stockout Prevention System",
+        "domain": "29",
+        "description": "Use AI to predict potential stockouts and trigger proactive replenishment to avoid sales loss.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2806,
+        "title": "AI-Driven Logistics Network Design",
+        "domain": "29",
+        "description": "Optimize warehouse locations, distribution centers, and routes using AI to improve efficiency.",
+        "keywords": ["Supply Chain Optimization", "AI", "Route Optimization", "Warehouse Automation"]
+    },
+    {
+        "id": 2807,
+        "title": "Smart Packaging and Load Optimization",
+        "domain": "29",
+        "description": "Use AI to optimize packaging size and load distribution to reduce shipping costs and damages.",
+        "keywords": ["Sustainability", "Supply Chain Optimization", "AI", "Warehouse Automation"]
+    },
+    {
+        "id": 2808,
+        "title": "AI-Based Procurement Fraud Detection",
+        "domain": "29",
+        "description": "Develop AI models to detect fraudulent or suspicious activities in procurement processes.",
+        "keywords": ["Procurement", "AI", "Risk Management", "Digital Transformation"]
+    },
+    {
+        "id": 2809,
+        "title": "Automated Cold Chain Compliance Monitoring",
+        "domain": "29",
+        "description": "Use IoT and AI to monitor temperature-sensitive goods and ensure cold chain compliance.",
+        "keywords": ["IoT Connectivity", "Supply Chain Optimization", "Risk Management", "Blockchain"]
+    },
+    {
+        "id": 2810,
+        "title": "AI-Powered Dynamic Reorder Point Calculation",
+        "domain": "29",
+        "description": "Automatically calculate dynamic reorder points using AI based on demand fluctuations and lead times.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2811,
+        "title": "Sustainable Transportation Planning",
+        "domain": "29",
+        "description": "Use AI to plan transportation routes that minimize fuel consumption and carbon footprint.",
+        "keywords": ["Route Optimization", "Sustainability", "AI", "Last-Mile Delivery"]
+    },
+    {
+        "id": 2812,
+        "title": "Automated Warehouse Safety Monitoring",
+        "domain": "29",
+        "description": "Implement AI and IoT to monitor warehouse safety hazards and prevent accidents.",
+        "keywords": ["Warehouse Automation", "AI", "IoT Connectivity", "Risk Management"]
+    },
+    {
+        "id": 2813,
+        "title": "AI-Powered Multi-Supplier Coordination",
+        "domain": "29",
+        "description": "Optimize orders and deliveries from multiple suppliers using AI to ensure timely availability.",
+        "keywords": ["Vendor Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2814,
+        "title": "Predictive Warehouse Space Utilization",
+        "domain": "29",
+        "description": "Use AI to predict optimal warehouse space usage and reduce storage costs.",
+        "keywords": ["Warehouse Automation", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2815,
+        "title": "AI-Based Transportation Risk Assessment",
+        "domain": "29",
+        "description": "Assess potential risks in transportation routes and vehicles using AI for proactive mitigation.",
+        "keywords": ["Route Optimization", "Risk Management", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2816,
+        "title": "IoT-Enabled Real-Time Vehicle Health Monitoring",
+        "domain": "29",
+        "description": "Monitor the health and performance of delivery vehicles using IoT sensors and AI.",
+        "keywords": ["IoT Connectivity", "AI", "Last-Mile Delivery", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2817,
+        "title": "AI-Powered Reverse Logistics Optimization",
+        "domain": "29",
+        "description": "Optimize the collection and recycling of returned products using AI for cost reduction and sustainability.",
+        "keywords": ["Supply Chain Optimization", "AI", "Sustainability", "Inventory Management"]
+    },
+    {
+        "id": 2818,
+        "title": "Automated Vendor Compliance Audits",
+        "domain": "29",
+        "description": "Use AI to perform audits on vendor compliance, ensuring contracts and quality standards are met.",
+        "keywords": ["Vendor Management", "AI", "Risk Management", "Digital Transformation"]
+    },
+    {
+        "id": 2819,
+        "title": "AI-Based Multi-Modal Transportation Planning",
+        "domain": "29",
+        "description": "Optimize routes combining trucks, trains, and ships using AI for cost, time, and sustainability.",
+        "keywords": ["Route Optimization", "AI", "Sustainability", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2820,
+        "title": "Predictive Inventory Shortage Alerts",
+        "domain": "29",
+        "description": "Develop AI models to provide alerts for potential inventory shortages before they occur.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2821,
+        "title": "Smart Contract-Based Procurement Automation",
+        "domain": "29",
+        "description": "Implement blockchain smart contracts to automate procurement processes and enforce agreements.",
+        "keywords": ["Blockchain", "Procurement", "Digital Transformation", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2822,
+        "title": "AI-Powered Supplier Delivery Time Prediction",
+        "domain": "29",
+        "description": "Use AI to predict supplier delivery times accurately to improve planning and reduce delays.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2823,
+        "title": "Automated Load Balancing Across Warehouses",
+        "domain": "29",
+        "description": "Use AI to balance stock levels across multiple warehouses based on demand forecasts.",
+        "keywords": ["Inventory Management", "AI", "Warehouse Automation", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2824,
+        "title": "AI-Based Fleet Fuel Efficiency Optimization",
+        "domain": "29",
+        "description": "Optimize fuel consumption of delivery fleets using AI-based driving behavior analysis and route optimization.",
+        "keywords": ["Last-Mile Delivery", "AI", "Sustainability", "Route Optimization"]
+    },
+    {
+        "id": 2825,
+        "title": "Predictive Risk Management in Supply Chains",
+        "domain": "29",
+        "description": "Use AI to predict potential supply chain disruptions due to natural disasters, strikes, or geopolitical events.",
+        "keywords": ["Risk Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2826,
+        "title": "AI-Powered Procurement Cost Analysis",
+        "domain": "29",
+        "description": "Analyze procurement costs using AI to identify savings opportunities and supplier negotiation strategies.",
+        "keywords": ["Procurement", "AI", "Digital Transformation", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2827,
+        "title": "Automated Inventory Reconciliation",
+        "domain": "29",
+        "description": "Use AI and IoT data to reconcile physical and digital inventory accurately in real-time.",
+        "keywords": ["Inventory Management", "AI", "IoT Connectivity", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2828,
+        "title": "AI-Based Dynamic Route Re-Routing",
+        "domain": "29",
+        "description": "Automatically reroute delivery vehicles in real-time based on traffic, weather, and priority shipments.",
+        "keywords": ["Route Optimization", "AI", "Last-Mile Delivery", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2829,
+        "title": "Smart Warehouse Robot Task Allocation",
+        "domain": "29",
+        "description": "Use AI to assign tasks dynamically to warehouse robots to maximize efficiency and reduce bottlenecks.",
+        "keywords": ["Warehouse Automation", "AI", "Supply Chain Optimization", "Inventory Management"]
+    },
+    {
+        "id": 2830,
+        "title": "Predictive Demand-Supply Matching",
+        "domain": "29",
+        "description": "Match inventory supply to forecasted demand using AI to minimize overstock and stockouts.",
+        "keywords": ["Demand Forecasting", "AI", "Supply Chain Optimization", "Inventory Management"]
+    },
+    {
+        "id": 2831,
+        "title": "AI-Based Supplier Risk Scoring",
+        "domain": "29",
+        "description": "Score suppliers based on historical performance and potential risk factors using AI analytics.",
+        "keywords": ["Vendor Management", "AI", "Risk Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2832,
+        "title": "IoT-Powered Temperature-Sensitive Logistics",
+        "domain": "29",
+        "description": "Monitor and optimize temperature-sensitive shipments using IoT sensors and AI analytics.",
+        "keywords": ["IoT Connectivity", "Supply Chain Optimization", "Risk Management", "Last-Mile Delivery"]
+    },
+    {
+        "id": 2833,
+        "title": "Automated Procurement Forecasting",
+        "domain": "29",
+        "description": "Use AI to forecast procurement requirements based on historical usage, seasonality, and market trends.",
+        "keywords": ["Procurement", "AI", "Supply Chain Optimization", "Digital Transformation"]
+    },
+    {
+        "id": 2834,
+        "title": "AI-Based Delivery Time Reliability Scoring",
+        "domain": "29",
+        "description": "Score reliability of delivery schedules using AI to improve customer satisfaction and planning.",
+        "keywords": ["Last-Mile Delivery", "AI", "Route Optimization", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2835,
+        "title": "Predictive Maintenance for Warehouse Equipment",
+        "domain": "29",
+        "description": "Use AI to predict maintenance requirements for warehouse machinery and reduce downtime.",
+        "keywords": ["Warehouse Automation", "AI", "Risk Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2836,
+        "title": "AI-Powered Supplier Lead Time Optimization",
+        "domain": "29",
+        "description": "Use AI to optimize supplier lead times by predicting delays and adjusting procurement schedules.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2837,
+        "title": "Sustainable Supplier Selection Using AI",
+        "domain": "29",
+        "description": "Select suppliers based on sustainability and environmental compliance using AI scoring models.",
+        "keywords": ["Sustainability", "Vendor Management", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2838,
+        "title": "AI-Powered Dynamic Vendor Negotiation",
+        "domain": "29",
+        "description": "Use AI to simulate negotiation scenarios with vendors for optimal pricing and terms.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Digital Transformation"]
+    },
+    {
+        "id": 2839,
+        "title": "Automated Shipment Consolidation",
+        "domain": "29",
+        "description": "Use AI to consolidate shipments efficiently for cost reduction and improved delivery times.",
+        "keywords": ["Route Optimization", "AI", "Last-Mile Delivery", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2840,
+        "title": "AI-Based Supply Chain Bottleneck Prediction",
+        "domain": "29",
+        "description": "Predict potential bottlenecks in supply chains using AI and provide actionable mitigation strategies.",
+        "keywords": ["Supply Chain Optimization", "AI", "Risk Management", "Inventory Management"]
+    },
+    {
+        "id": 2841,
+        "title": "AI-Powered Inventory Turnover Optimization",
+        "domain": "29",
+        "description": "Optimize inventory turnover rates using AI to reduce holding costs and improve cash flow.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2842,
+        "title": "Smart Warehouse Temperature and Humidity Control",
+        "domain": "29",
+        "description": "Use IoT and AI to maintain optimal temperature and humidity levels in warehouses for sensitive products.",
+        "keywords": ["Warehouse Automation", "IoT Connectivity", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2843,
+        "title": "AI-Based Multi-Route Delivery Scheduling",
+        "domain": "29",
+        "description": "Automatically generate and optimize multiple delivery routes using AI for efficiency and cost reduction.",
+        "keywords": ["Route Optimization", "Last-Mile Delivery", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2844,
+        "title": "Predictive Analytics for Supplier Reliability",
+        "domain": "29",
+        "description": "Use predictive analytics to evaluate and forecast supplier reliability and potential disruptions.",
+        "keywords": ["Vendor Management", "AI", "Risk Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2845,
+        "title": "AI-Powered Transportation Cost Forecasting",
+        "domain": "29",
+        "description": "Forecast transportation costs using AI models considering fuel, traffic, and operational factors.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2846,
+        "title": "Smart Packaging Optimization for Sustainability",
+        "domain": "29",
+        "description": "Use AI to design eco-friendly packaging that minimizes material usage and transportation costs.",
+        "keywords": ["Sustainability", "Supply Chain Optimization", "AI", "Warehouse Automation"]
+    },
+    {
+        "id": 2847,
+        "title": "AI-Driven Risk-Based Inventory Prioritization",
+        "domain": "29",
+        "description": "Prioritize inventory replenishment based on risk assessment using AI models for critical items.",
+        "keywords": ["Inventory Management", "Risk Management", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2848,
+        "title": "Real-Time Freight Load Optimization",
+        "domain": "29",
+        "description": "Use AI to dynamically optimize freight load distribution for trucks to maximize efficiency.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2849,
+        "title": "AI-Powered Supplier Contract Compliance Monitoring",
+        "domain": "29",
+        "description": "Automatically monitor supplier contract compliance using AI analytics and alerts.",
+        "keywords": ["Vendor Management", "AI", "Digital Transformation", "Procurement"]
+    },
+    {
+        "id": 2850,
+        "title": "Predictive Analytics for Seasonal Demand Peaks",
+        "domain": "29",
+        "description": "Forecast seasonal demand peaks using AI to adjust inventory and workforce planning proactively.",
+        "keywords": ["Demand Forecasting", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2851,
+        "title": "IoT-Based Warehouse Asset Tracking",
+        "domain": "29",
+        "description": "Implement IoT sensors and AI to track warehouse assets and optimize their usage.",
+        "keywords": ["IoT Connectivity", "Warehouse Automation", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2852,
+        "title": "AI-Driven Supplier Capacity Planning",
+        "domain": "29",
+        "description": "Forecast supplier capacity constraints using AI to adjust procurement and production planning.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2853,
+        "title": "Automated Returns and Reverse Logistics",
+        "domain": "29",
+        "description": "Use AI to streamline returns and reverse logistics, minimizing cost and processing time.",
+        "keywords": ["Reverse Logistics", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2854,
+        "title": "AI-Based Delivery SLA Compliance Monitoring",
+        "domain": "29",
+        "description": "Monitor delivery service level agreements in real-time using AI to ensure compliance.",
+        "keywords": ["Last-Mile Delivery", "AI", "Supply Chain Optimization", "Risk Management"]
+    },
+    {
+        "id": 2855,
+        "title": "Smart Inventory Safety Stock Calculation",
+        "domain": "29",
+        "description": "Calculate optimal safety stock levels using AI to balance stockouts and holding costs.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2856,
+        "title": "AI-Powered Transportation Mode Switching",
+        "domain": "29",
+        "description": "Automatically switch between transportation modes (truck, rail, ship) based on cost and urgency using AI.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2857,
+        "title": "Predictive Analytics for Supplier Disruption Impact",
+        "domain": "29",
+        "description": "Use AI to predict the impact of supplier disruptions on inventory and production schedules.",
+        "keywords": ["Vendor Management", "Risk Management", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2858,
+        "title": "AI-Powered Multi-Warehouse Stock Balancing",
+        "domain": "29",
+        "description": "Automatically balance stock levels across multiple warehouses using AI for efficiency and demand fulfillment.",
+        "keywords": ["Inventory Management", "AI", "Warehouse Automation", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2859,
+        "title": "Sustainable Route Planning for Electric Delivery Vehicles",
+        "domain": "29",
+        "description": "Plan optimal delivery routes for electric vehicles using AI to maximize range and reduce energy consumption.",
+        "keywords": ["Sustainability", "Route Optimization", "AI", "Last-Mile Delivery"]
+    },
+    {
+        "id": 2860,
+        "title": "AI-Based Procurement Spend Analysis",
+        "domain": "29",
+        "description": "Analyze procurement spend patterns using AI to identify cost-saving opportunities and strategic sourcing.",
+        "keywords": ["Procurement", "AI", "Supply Chain Optimization", "Digital Transformation"]
+    },
+    {
+        "id": 2861,
+        "title": "Predictive Maintenance for Delivery Fleet Tires",
+        "domain": "29",
+        "description": "Use AI and IoT to predict tire wear and prevent downtime in delivery fleets.",
+        "keywords": ["Last-Mile Delivery", "Predictive Maintenance", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2862,
+        "title": "Automated Multi-Criteria Supplier Evaluation",
+        "domain": "29",
+        "description": "Use AI to evaluate suppliers on multiple criteria including cost, reliability, sustainability, and compliance.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2863,
+        "title": "AI-Powered Dynamic Inventory Allocation",
+        "domain": "29",
+        "description": "Allocate inventory dynamically to locations based on real-time demand prediction using AI.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Warehouse Automation"]
+    },
+    {
+        "id": 2864,
+        "title": "Smart Warehouse Energy Consumption Optimization",
+        "domain": "29",
+        "description": "Use AI to optimize energy usage in warehouses, reducing costs and environmental impact.",
+        "keywords": ["Warehouse Automation", "AI", "Sustainability", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2865,
+        "title": "AI-Based Delivery Route Congestion Prediction",
+        "domain": "29",
+        "description": "Predict traffic congestion on delivery routes using AI and adjust routes in real-time.",
+        "keywords": ["Route Optimization", "AI", "Last-Mile Delivery", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2866,
+        "title": "IoT-Based Pallet Tracking System",
+        "domain": "29",
+        "description": "Track pallets in real-time using IoT and AI to optimize warehouse flow and reduce losses.",
+        "keywords": ["IoT Connectivity", "Warehouse Automation", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2867,
+        "title": "Predictive Analytics for Inventory Obsolescence",
+        "domain": "29",
+        "description": "Use AI to identify products at risk of obsolescence to reduce waste and holding costs.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2868,
+        "title": "AI-Based Multi-Leg Freight Cost Optimization",
+        "domain": "29",
+        "description": "Optimize multi-leg freight costs using AI considering routes, carriers, and load constraints.",
+        "keywords": ["Route Optimization", "AI", "Supply Chain Optimization", "Procurement"]
+    },
+    {
+        "id": 2869,
+        "title": "Automated Supplier Quality Scorecards",
+        "domain": "29",
+        "description": "Use AI to generate real-time supplier quality scorecards for better vendor management decisions.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2870,
+        "title": "AI-Powered Inventory Expiry Management",
+        "domain": "29",
+        "description": "Track and predict product expiry dates using AI to minimize wastage in supply chains.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Sustainability"]
+    },
+    {
+        "id": 2871,
+        "title": "Smart Warehouse Robotic Fleet Scheduling",
+        "domain": "29",
+        "description": "Use AI to schedule tasks for warehouse robots efficiently based on demand and workload.",
+        "keywords": ["Warehouse Automation", "AI", "Supply Chain Optimization", "Inventory Management"]
+    },
+    {
+        "id": 2872,
+        "title": "AI-Based Supplier Collaboration Platform",
+        "domain": "29",
+        "description": "Enable real-time collaboration with suppliers using AI to improve responsiveness and reduce delays.",
+        "keywords": ["Vendor Management", "AI", "Supply Chain Optimization", "Digital Transformation"]
+    },
+    {
+        "id": 2873,
+        "title": "Predictive Analytics for Delivery Delays",
+        "domain": "29",
+        "description": "Use AI to predict potential delivery delays and suggest corrective actions proactively.",
+        "keywords": ["Last-Mile Delivery", "AI", "Route Optimization", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2874,
+        "title": "AI-Powered Multi-Site Inventory Visibility",
+        "domain": "29",
+        "description": "Provide a unified view of inventory across multiple locations using AI for improved decision-making.",
+        "keywords": ["Inventory Management", "AI", "Supply Chain Optimization", "Warehouse Automation"]
+    },
+    {
+        "id": 2875,
+        "title": "Sustainable Supplier Scorecards",
+        "domain": "29",
+        "description": "Evaluate suppliers on sustainability criteria using AI to support green supply chain initiatives.",
+        "keywords": ["Sustainability", "Vendor Management", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2876,
+        "title": "AI-Based Dynamic Fleet Allocation",
+        "domain": "29",
+        "description": "Allocate delivery vehicles dynamically based on real-time demand and traffic patterns using AI.",
+        "keywords": ["Last-Mile Delivery", "AI", "Route Optimization", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2877,
+        "title": "IoT-Powered Cold Storage Monitoring",
+        "domain": "29",
+        "description": "Monitor cold storage facilities in real-time using IoT and AI for temperature and humidity compliance.",
+        "keywords": ["IoT Connectivity", "Warehouse Automation", "AI", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2878,
+        "title": "AI-Powered Multi-Criteria Route Selection",
+        "domain": "29",
+        "description": "Select delivery routes based on multiple criteria like cost, distance, traffic, and sustainability using AI.",
+        "keywords": ["Route Optimization", "AI", "Sustainability", "Last-Mile Delivery"]
+    },
+    {
+        "id": 2879,
+        "title": "Predictive Analytics for Supplier Lead Time Variance",
+        "domain": "29",
+        "description": "Use AI to predict variations in supplier lead times and adjust supply chain plans accordingly.",
+        "keywords": ["Vendor Management", "AI", "Procurement", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2880,
+        "title": "Automated Multi-Warehouse Order Fulfillment",
+        "domain": "29",
+        "description": "Use AI to allocate and fulfill orders across multiple warehouses efficiently and cost-effectively.",
+        "keywords": ["Warehouse Automation", "AI", "Inventory Management", "Supply Chain Optimization"]
+    },
+    {
+        "id": 2881,
+        "title": "AI-Based Supply Chain Carbon Footprint Analysis",
+        "domain": "29",
+        "description": "Analyze the carbon footprint of supply chain operations using AI to support sustainability initiatives.",
+        "keywords": ["Sustainability", "AI", "Supply Chain Optimization", "Digital Transformation"]
+    },
+
+
+
 
         // CLIMATE SCIENCE & WEATHER (Domain 30)
         {
