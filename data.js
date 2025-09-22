@@ -18774,35 +18774,649 @@ const PROBLEMS_DATA = {
         "description": "Use AI to predict patient immune responses to biologic drugs to improve safety and efficacy.",
         "keywords": ["Drug Discovery", "AI", "Therapeutics", "Pharmacovigilance"]
     },
+
+      // MEDIA & CONTENT CREATION (Domain 28)
+
+    {
+        "id": 2690,
+        "title": "AI-Based Video Summarization",
+        "domain": "28",
+        "description": "Develop AI algorithms to automatically generate concise summaries from long-form video content.",
+        "keywords": ["Video Production", "AI", "Content Management", "Media Analytics"]
+    },
+    {
+        "id": 2691,
+        "title": "Real-Time Audio Enhancement",
+        "domain": "28",
+        "description": "Create systems to enhance audio quality in live streams using AI-based noise reduction and voice separation.",
+        "keywords": ["Audio Processing", "Streaming Technology", "AI", "Digital Media"]
+    },
+    {
+        "id": 2692,
+        "title": "Automated Content Tagging and Classification",
+        "domain": "28",
+        "description": "Implement AI models to automatically tag and classify media content for efficient content management.",
+        "keywords": ["Content Management", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2693,
+        "title": "Personalized Content Recommendation",
+        "domain": "28",
+        "description": "Use AI to recommend videos, articles, or music tailored to individual user preferences.",
+        "keywords": ["Content Recommendation", "AI", "Digital Media", "Streaming Technology"]
+    },
+    {
+        "id": 2694,
+        "title": "AI-Powered Video Editing Assistance",
+        "domain": "28",
+        "description": "Create AI tools to assist content creators in editing videos automatically with effects and transitions.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2695,
+        "title": "Copyright Violation Detection System",
+        "domain": "28",
+        "description": "Develop AI systems to detect copyright infringements in digital media and streaming platforms.",
+        "keywords": ["Copyright Protection", "Digital Rights", "AI", "Media Analytics"]
+    },
+    {
+        "id": 2696,
+        "title": "AI-Driven Social Media Content Optimization",
+        "domain": "28",
+        "description": "Optimize social media posts for maximum engagement using AI analysis of user interaction data.",
+        "keywords": ["Social Media", "AI", "Content Distribution", "Media Analytics"]
+    },
+    {
+        "id": 2697,
+        "title": "Interactive Media Creation Platform",
+        "domain": "28",
+        "description": "Develop a platform that allows creators to build interactive media experiences with AI guidance.",
+        "keywords": ["Interactive Media", "Creative Tools", "Digital Media", "AI"]
+    },
+    {
+        "id": 2698,
+        "title": "Real-Time Live Stream Captioning",
+        "domain": "28",
+        "description": "Implement AI-based real-time captions and translations for live streaming events.",
+        "keywords": ["Streaming Technology", "AI", "Content Distribution", "Digital Media"]
+    },
+    {
+        "id": 2699,
+        "title": "AI-Based Video Style Transfer",
+        "domain": "28",
+        "description": "Use AI to apply artistic styles to videos automatically for creative media content.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2700,
+        "title": "Content Popularity Prediction",
+        "domain": "28",
+        "description": "Develop predictive models to forecast which media content will become popular on streaming platforms.",
+        "keywords": ["Content Management", "AI", "Media Analytics", "Content Recommendation"]
+    },
+    {
+        "id": 2701,
+        "title": "Automated Podcast Editing",
+        "domain": "28",
+        "description": "Use AI tools to automatically edit podcasts for clarity, remove filler words, and balance audio.",
+        "keywords": ["Audio Processing", "Creative Tools", "AI", "Digital Media"]
+    },
+    {
+        "id": 2702,
+        "title": "AI-Powered Video Compression Optimization",
+        "domain": "28",
+        "description": "Develop AI algorithms to compress video streams efficiently while preserving quality for streaming.",
+        "keywords": ["Video Production", "AI", "Streaming Technology", "Digital Media"]
+    },
+    {
+        "id": 2703,
+        "title": "Automated Content Localization",
+        "domain": "28",
+        "description": "Implement AI systems that automatically translate and localize media content for global audiences.",
+        "keywords": ["Content Distribution", "AI", "Digital Media", "Creative Tools"]
+    },
+    {
+        "id": 2704,
+        "title": "AI-Enhanced Media Analytics Dashboard",
+        "domain": "28",
+        "description": "Create dashboards that provide AI-driven insights on audience engagement and content performance.",
+        "keywords": ["Media Analytics", "AI", "Content Management", "Digital Media"]
+    },
+    {
+        "id": 2705,
+        "title": "Intelligent Scriptwriting Assistant",
+        "domain": "28",
+        "description": "Develop AI tools that assist in writing scripts for video or audio content based on audience trends.",
+        "keywords": ["Creative Tools", "AI", "Content Creation", "Digital Media"]
+    },
+    {
+        "id": 2706,
+        "title": "AI-Powered Video Quality Enhancement",
+        "domain": "28",
+        "description": "Enhance the visual quality of videos using AI algorithms for upscaling, noise reduction, and color correction.",
+        "keywords": ["Video Production", "AI", "Digital Media", "Creative Tools"]
+    },
+    {
+        "id": 2707,
+        "title": "Automated Media Rights Management",
+        "domain": "28",
+        "description": "Develop AI systems to manage and enforce digital rights across multiple content platforms.",
+        "keywords": ["Digital Rights", "Copyright Protection", "AI", "Content Management"]
+    },
+    {
+        "id": 2708,
+        "title": "AI-Based Audio Transcription Service",
+        "domain": "28",
+        "description": "Implement AI-powered transcription for audio content with high accuracy and multilingual support.",
+        "keywords": ["Audio Processing", "AI", "Content Management", "Streaming Technology"]
+    },
+    {
+        "id": 2709,
+        "title": "Content Engagement Heatmap Generation",
+        "domain": "28",
+        "description": "Use AI to generate heatmaps showing user engagement within videos or articles for better insights.",
+        "keywords": ["Media Analytics", "AI", "Digital Media", "Content Recommendation"]
+    },
+    {
+        "id": 2710,
+        "title": "AI-Assisted Animation Generation",
+        "domain": "28",
+        "description": "Create AI tools that automatically generate animations for digital content based on scripts or storyboards.",
+        "keywords": ["Creative Tools", "AI", "Video Production", "Digital Media"]
+    },
+    {
+        "id": 2711,
+        "title": "Automated Social Media Trend Analysis",
+        "domain": "28",
+        "description": "Develop AI systems to analyze and predict emerging trends across social media platforms.",
+        "keywords": ["Social Media", "AI", "Media Analytics", "Content Recommendation"]
+    },
+    {
+        "id": 2712,
+        "title": "AI-Based Audio Emotion Recognition",
+        "domain": "28",
+        "description": "Detect emotional tone in audio content using AI to improve media personalization and recommendations.",
+        "keywords": ["Audio Processing", "AI", "Digital Media", "Content Recommendation"]
+    },
+    {
+        "id": 2713,
+        "title": "Automated Media Summarization for News",
+        "domain": "28",
+        "description": "Use AI to summarize news videos and articles for quick consumption on mobile and web platforms.",
+        "keywords": ["Digital Media", "AI", "Content Management", "Content Recommendation"]
+    },
+    {
+        "id": 2714,
+        "title": "AI-Powered Video Scene Segmentation",
+        "domain": "28",
+        "description": "Automatically segment videos into meaningful scenes using AI for better indexing and retrieval.",
+        "keywords": ["Video Production", "AI", "Content Management", "Media Analytics"]
+    },
+    {
+        "id": 2715,
+        "title": "AI-Based Personalized Content Playlists",
+        "domain": "28",
+        "description": "Develop AI systems to generate personalized video or music playlists based on user behavior and preferences.",
+        "keywords": ["Content Recommendation", "AI", "Digital Media", "Streaming Technology"]
+    },
+    {
+        "id": 2716,
+        "title": "Automated Voiceover Generation",
+        "domain": "28",
+        "description": "Use AI to generate natural-sounding voiceovers for videos and multimedia content.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2717,
+        "title": "AI-Powered Content Sentiment Analysis",
+        "domain": "28",
+        "description": "Analyze audience sentiment on media content using AI to guide content strategy.",
+        "keywords": ["Media Analytics", "AI", "Digital Media", "Content Management"]
+    },
+    {
+        "id": 2718,
+        "title": "Automated Video Subtitle Translation",
+        "domain": "28",
+        "description": "Develop AI systems to automatically translate and generate subtitles for videos in multiple languages.",
+        "keywords": ["Video Production", "AI", "Content Distribution", "Streaming Technology"]
+    },
+    {
+        "id": 2719,
+        "title": "AI-Driven Media Content Moderation",
+        "domain": "28",
+        "description": "Implement AI systems to detect inappropriate or harmful content in digital media.",
+        "keywords": ["Content Management", "AI", "Digital Rights", "Media Analytics"]
+    },
+    {
+        "id": 2720,
+        "title": "Automated Visual Effects Generation",
+        "domain": "28",
+        "description": "Use AI to add visual effects and animations to videos automatically for content creators.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2721,
+        "title": "AI-Based Media Consumption Forecasting",
+        "domain": "28",
+        "description": "Predict audience engagement and consumption patterns for media content using AI analytics.",
+        "keywords": ["Media Analytics", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2722,
+        "title": "Automated Music Mixing and Mastering",
+        "domain": "28",
+        "description": "Develop AI tools to automatically mix and master music tracks for professional audio quality.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2723,
+        "title": "AI-Powered Interactive Storytelling",
+        "domain": "28",
+        "description": "Create AI systems that generate interactive story content for games, videos, and educational media.",
+        "keywords": ["Interactive Media", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2724,
+        "title": "Automated Content Summarization for Podcasts",
+        "domain": "28",
+        "description": "Use AI to summarize long audio content such as podcasts for quick consumption.",
+        "keywords": ["Audio Processing", "AI", "Content Management", "Digital Media"]
+    },
+    {
+        "id": 2725,
+        "title": "AI-Powered Deepfake Detection",
+        "domain": "28",
+        "description": "Develop AI systems to detect and prevent the spread of deepfake videos and images.",
+        "keywords": ["Digital Rights", "AI", "Media Analytics", "Content Management"]
+    },
+    {
+        "id": 2726,
+        "title": "Automated Video Thumbnail Generation",
+        "domain": "28",
+        "description": "Create AI tools to generate engaging thumbnails for videos to maximize user engagement.",
+        "keywords": ["Video Production", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2727,
+        "title": "AI-Based Real-Time Content Moderation for Streaming",
+        "domain": "28",
+        "description": "Implement AI systems to moderate live content in real-time for streaming platforms.",
+        "keywords": ["Content Management", "AI", "Streaming Technology", "Digital Rights"]
+    },
+    {
+        "id": 2728,
+        "title": "Personalized Learning Content Generation",
+        "domain": "28",
+        "description": "Develop AI systems to generate personalized educational media content based on learner profiles.",
+        "keywords": ["Content Recommendation", "AI", "Digital Media", "Creative Tools"]
+    },
+    {
+        "id": 2729,
+        "title": "AI-Based Video Object Detection",
+        "domain": "28",
+        "description": "Detect objects, people, or scenes in videos automatically using AI for analytics and tagging.",
+        "keywords": ["Video Production", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2730,
+        "title": "Automated Script-to-Video Conversion",
+        "domain": "28",
+        "description": "Use AI to convert written scripts into video content with automated scene selection and narration.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2731,
+        "title": "AI-Powered Audio Noise Reduction",
+        "domain": "28",
+        "description": "Develop AI systems to reduce background noise in audio recordings for podcasts and streaming.",
+        "keywords": ["Audio Processing", "AI", "Digital Media", "Streaming Technology"]
+    },
+    {
+        "id": 2732,
+        "title": "Automated Media Content Metadata Generation",
+        "domain": "28",
+        "description": "Use AI to automatically generate metadata for videos, audio, and images to improve search and categorization.",
+        "keywords": ["Content Management", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2733,
+        "title": "AI-Based Social Media Influence Prediction",
+        "domain": "28",
+        "description": "Predict which social media posts or media content will go viral using AI analytics.",
+        "keywords": ["Social Media", "AI", "Media Analytics", "Content Recommendation"]
+    },
+    {
+        "id": 2734,
+        "title": "Automated Video Caption Styling",
+        "domain": "28",
+        "description": "Develop AI tools to automatically style and format video captions for readability and engagement.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2735,
+        "title": "AI-Powered Media Rights Violation Alert",
+        "domain": "28",
+        "description": "Implement AI systems to alert creators of unauthorized use of their media content across platforms.",
+        "keywords": ["Digital Rights", "Copyright Protection", "AI", "Content Management"]
+    },
+    {
+        "id": 2736,
+        "title": "Automated Content Popularity Scoring",
+        "domain": "28",
+        "description": "Use AI to score media content based on predicted popularity and engagement metrics.",
+        "keywords": ["Media Analytics", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2737,
+        "title": "AI-Assisted Storyboard Generation",
+        "domain": "28",
+        "description": "Develop AI tools to generate storyboards from scripts for video and animation production.",
+        "keywords": ["Creative Tools", "AI", "Video Production", "Digital Media"]
+    },
+    {
+        "id": 2738,
+        "title": "Real-Time Audio Emotion Analysis",
+        "domain": "28",
+        "description": "Analyze the emotional content of live audio streams using AI to enhance audience engagement.",
+        "keywords": ["Audio Processing", "AI", "Digital Media", "Media Analytics"]
+    },
+    {
+        "id": 2739,
+        "title": "AI-Based Automated Social Media Captioning",
+        "domain": "28",
+        "description": "Generate social media captions automatically for posts and videos using AI.",
+        "keywords": ["Social Media", "AI", "Content Creation", "Creative Tools"]
+    },
+    {
+        "id": 2740,
+        "title": "AI-Powered Video Color Grading",
+        "domain": "28",
+        "description": "Use AI to automatically perform professional color grading on video content for enhanced visual appeal.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2741,
+        "title": "Automated Music Genre Classification",
+        "domain": "28",
+        "description": "Develop AI models to classify music tracks into genres automatically for streaming platforms.",
+        "keywords": ["Audio Processing", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2742,
+        "title": "AI-Assisted Content Repurposing",
+        "domain": "28",
+        "description": "Create systems to transform existing media content into multiple formats automatically using AI.",
+        "keywords": ["Content Management", "AI", "Digital Media", "Creative Tools"]
+    },
+    {
+        "id": 2743,
+        "title": "Automated Scene Detection in Videos",
+        "domain": "28",
+        "description": "Use AI to detect and label scenes in video content for indexing and search optimization.",
+        "keywords": ["Video Production", "AI", "Content Management", "Media Analytics"]
+    },
+    {
+        "id": 2744,
+        "title": "AI-Powered Sound Effect Generation",
+        "domain": "28",
+        "description": "Automatically generate sound effects for video and audio content using AI.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2745,
+        "title": "Automated Video Content Curation",
+        "domain": "28",
+        "description": "Develop AI systems to curate video content collections based on themes and audience preferences.",
+        "keywords": ["Video Production", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2746,
+        "title": "AI-Powered Media Metadata Optimization",
+        "domain": "28",
+        "description": "Optimize metadata for digital content automatically to improve search ranking and discovery.",
+        "keywords": ["Content Management", "AI", "Digital Media", "Media Analytics"]
+    },
+    {
+        "id": 2747,
+        "title": "Automated Voice Emotion Synthesis",
+        "domain": "28",
+        "description": "Develop AI systems to synthesize voice with specified emotional tones for digital media content.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2748,
+        "title": "AI-Based Video Subtitle Synchronization",
+        "domain": "28",
+        "description": "Automatically synchronize subtitles with video content using AI for accurate timing.",
+        "keywords": ["Video Production", "AI", "Content Management", "Digital Media"]
+    },
+    {
+        "id": 2749,
+        "title": "Automated Audio Mastering for Podcasts",
+        "domain": "28",
+        "description": "Use AI to master audio recordings of podcasts for consistent volume, clarity, and quality.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2750,
+        "title": "AI-Powered Media Sentiment Forecasting",
+        "domain": "28",
+        "description": "Predict audience reactions and engagement trends for media content using AI sentiment analysis.",
+        "keywords": ["Media Analytics", "AI", "Digital Media", "Content Recommendation"]
+    },
+    {
+        "id": 2751,
+        "title": "Automated Background Music Recommendation",
+        "domain": "28",
+        "description": "Develop AI systems to suggest suitable background music for videos or presentations.",
+        "keywords": ["Creative Tools", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2752,
+        "title": "AI-Powered Video Frame Interpolation",
+        "domain": "28",
+        "description": "Enhance video smoothness by generating intermediate frames using AI interpolation techniques.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2753,
+        "title": "Automated Audio Transcription for Live Events",
+        "domain": "28",
+        "description": "Implement AI tools to transcribe live audio streams in real-time for accessibility and content indexing.",
+        "keywords": ["Audio Processing", "AI", "Content Management", "Digital Media"]
+    },
+    {
+        "id": 2754,
+        "title": "AI-Based Social Media Engagement Prediction",
+        "domain": "28",
+        "description": "Predict user engagement on social media content using AI-driven analytics.",
+        "keywords": ["Social Media", "AI", "Media Analytics", "Content Recommendation"]
+    },
+    {
+        "id": 2755,
+        "title": "Automated Voice Cloning for Media Production",
+        "domain": "28",
+        "description": "Use AI to clone voices for narration, dubbing, or character voices in digital media.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2756,
+        "title": "AI-Powered Video Quality Assessment",
+        "domain": "28",
+        "description": "Develop AI models to automatically assess the quality of video content and suggest improvements.",
+        "keywords": ["Video Production", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2757,
+        "title": "Automated Audio Noise Profiling",
+        "domain": "28",
+        "description": "Create AI tools to profile background noise characteristics in audio recordings for better processing.",
+        "keywords": ["Audio Processing", "AI", "Digital Media", "Creative Tools"]
+    },
+    {
+        "id": 2758,
+        "title": "AI-Based Multi-Language Content Adaptation",
+        "domain": "28",
+        "description": "Adapt media content to multiple languages using AI while maintaining cultural relevance.",
+        "keywords": ["Content Distribution", "AI", "Digital Media", "Streaming Technology"]
+    },
+    {
+        "id": 2759,
+        "title": "Automated Video Motion Tracking",
+        "domain": "28",
+        "description": "Use AI to track moving objects in videos for visual effects, analytics, and augmented reality.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2760,
+        "title": "AI-Powered Podcast Topic Suggestion",
+        "domain": "28",
+        "description": "Analyze audience interests using AI to suggest podcast topics with higher engagement potential.",
+        "keywords": ["Audio Processing", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2761,
+        "title": "Automated Video Background Replacement",
+        "domain": "28",
+        "description": "Develop AI systems to replace video backgrounds automatically without green screens.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2762,
+        "title": "AI-Based Audio Emotion Enhancement",
+        "domain": "28",
+        "description": "Enhance emotional tone in audio recordings using AI for more engaging listener experiences.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2763,
+        "title": "Automated Content Licensing Verification",
+        "domain": "28",
+        "description": "Use AI to verify licensing and copyright compliance for digital media across platforms.",
+        "keywords": ["Digital Rights", "Copyright Protection", "AI", "Content Management"]
+    },
+    {
+        "id": 2764,
+        "title": "AI-Powered Dynamic Video Thumbnails",
+        "domain": "28",
+        "description": "Generate video thumbnails that adapt dynamically to viewer preferences using AI.",
+        "keywords": ["Video Production", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2765,
+        "title": "Automated Audio Emotion Classification",
+        "domain": "28",
+        "description": "Use AI to classify emotions in audio recordings for content analysis and recommendation.",
+        "keywords": ["Audio Processing", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2766,
+        "title": "AI-Based Video Scene Reordering",
+        "domain": "28",
+        "description": "Automatically reorder video scenes to improve storytelling or engagement using AI.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2767,
+        "title": "Automated Media Consumption Pattern Analysis",
+        "domain": "28",
+        "description": "Analyze user behavior across media platforms using AI to optimize content delivery strategies.",
+        "keywords": ["Media Analytics", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2768,
+        "title": "AI-Powered Audio Style Transfer",
+        "domain": "28",
+        "description": "Transform the style of audio recordings using AI for creative and entertainment purposes.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2769,
+        "title": "Automated Video Aspect Ratio Conversion",
+        "domain": "28",
+        "description": "Use AI to convert video aspect ratios for different devices and platforms automatically.",
+        "keywords": ["Video Production", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2770,
+        "title": "AI-Based Real-Time Audio Enhancement for Calls",
+        "domain": "28",
+        "description": "Enhance real-time audio quality during calls or streaming using AI noise suppression and clarity enhancement.",
+        "keywords": ["Audio Processing", "AI", "Streaming Technology", "Digital Media"]
+    },
+    {
+        "id": 2771,
+        "title": "Automated Video Story Highlight Generation",
+        "domain": "28",
+        "description": "Use AI to create highlight reels from longer videos for social media or marketing.",
+        "keywords": ["Video Production", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2772,
+        "title": "AI-Powered Audio Source Separation",
+        "domain": "28",
+        "description": "Separate vocals and instruments in audio tracks automatically using AI for remixing and editing.",
+        "keywords": ["Audio Processing", "AI", "Creative Tools", "Digital Media"]
+    },
+    {
+        "id": 2773,
+        "title": "AI-Based Real-Time Content Moderation for Comments",
+        "domain": "28",
+        "description": "Moderate user comments on media platforms in real-time using AI to filter offensive or harmful content.",
+        "keywords": ["Content Management", "AI", "Digital Rights", "Media Analytics"]
+    },
+    {
+        "id": 2774,
+        "title": "Automated Video Highlight Summarization",
+        "domain": "28",
+        "description": "Use AI to summarize key moments from video content automatically for easy sharing.",
+        "keywords": ["Video Production", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2775,
+        "title": "AI-Powered Personalized Streaming Ads",
+        "domain": "28",
+        "description": "Deliver personalized ads in streaming media using AI to optimize revenue and user engagement.",
+        "keywords": ["Streaming Technology", "AI", "Content Recommendation", "Digital Media"]
+    },
+    {
+        "id": 2776,
+        "title": "Automated Multi-Platform Content Distribution",
+        "domain": "28",
+        "description": "Use AI to distribute media content automatically across multiple platforms based on audience behavior.",
+        "keywords": ["Content Distribution", "AI", "Digital Media", "Content Management"]
+    },
+    {
+        "id": 2777,
+        "title": "AI-Based Audio Quality Prediction",
+        "domain": "28",
+        "description": "Predict audio quality and clarity using AI to suggest necessary processing steps before publishing.",
+        "keywords": ["Audio Processing", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2778,
+        "title": "Automated Video Caption Emotion Detection",
+        "domain": "28",
+        "description": "Use AI to detect and highlight emotional content in video captions for analytics and personalization.",
+        "keywords": ["Video Production", "AI", "Media Analytics", "Digital Media"]
+    },
+    {
+        "id": 2779,
+        "title": "AI-Powered Dynamic Content Scheduling",
+        "domain": "28",
+        "description": "Schedule and publish content automatically at optimal times using AI analysis of audience behavior.",
+        "keywords": ["Content Management", "AI", "Content Distribution", "Digital Media"]
+    },
+    {
+        "id": 2780,
+        "title": "Automated Audio-Visual Synchronization",
+        "domain": "28",
+        "description": "Use AI to synchronize audio and video streams automatically for live events or recordings.",
+        "keywords": ["Video Production", "Audio Processing", "AI", "Digital Media"]
+    },
     
 
-
-
-
-        // MEDIA & CONTENT CREATION (Domain 28)
-        {
-            "id": 2801,
-            "title": "AI Video Content Generator",
-            "domain": "28",
-            "description": "Design a system that generates high-quality video content from text descriptions, including scenes, characters, and animations.",
-            "keywords": ["Content Generation", "AI", "Video Production", "Automation"]
-        },
-        {
-            "id": 2802,
-            "title": "Music Composition AI",
-            "domain": "28",
-            "description": "Create an AI system that composes original music in various styles and genres based on user preferences and emotional context.",
-            "keywords": ["Music Composition", "AI", "Creative Technology", "Audio Generation"]
-        },
-        {
-            "id": 2803,
-            "title": "Real-Time Deepfake Detector",
-            "domain": "28",
-            "description": "Develop a system that detects deepfake content in real-time across various media formats to combat misinformation.",
-            "keywords": ["Deepfake Detection", "Media Authenticity", "AI", "Security"]
-        },
-
-        // SUPPLY CHAIN & LOGISTICS (Domain 29)
+      // SUPPLY CHAIN & LOGISTICS (Domain 29)
         {
             "id": 2901,
             "title": "Global Supply Chain Optimizer",
