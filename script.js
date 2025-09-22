@@ -32,6 +32,8 @@ class Problem2Project {
             }, 100);
             // Handle shared problem links
             this.handleSharedProblemLink();
+            // Handle random problem trigger from other pages
+            this.handleRandomProblemTrigger();
         } catch (error) {
             console.error('Failed to initialize application:', error);
             this.hideLoadingScreen();
@@ -1036,6 +1038,17 @@ class Problem2Project {
             } else {
                 console.warn(`Problem with ID ${problemId} not found`);
             }
+        }
+    }
+
+    handleRandomProblemTrigger() {
+        // Check if random problem should be triggered from other pages
+        if (sessionStorage.getItem('triggerRandomProblem') === 'true') {
+            sessionStorage.removeItem('triggerRandomProblem');
+            // Wait a bit for the UI to be ready, then show random problem
+            setTimeout(() => {
+                this.showRandomProblem();
+            }, 500);
         }
     }
 
