@@ -16641,27 +16641,619 @@ const PROBLEMS_DATA = {
     },
 
        // MATERIALS SCIENCE (Domain 25)
-        {
-            "id": 2501,
-            "title": "Smart Material Property Predictor",
-            "domain": "25",
-            "description": "Build an AI system that predicts material properties from atomic structure and suggests compositions for specific applications.",
-            "keywords": ["Materials Science", "Property Prediction", "AI", "Atomic Structure"]
-        },
-        {
-            "id": 2502,
-            "title": "Nanomaterial Safety Assessor",
-            "domain": "25",
-            "description": "Create a tool that assesses the safety and environmental impact of nanomaterials in various applications.",
-            "keywords": ["Nanomaterials", "Safety Assessment", "Environmental Impact", "Risk Analysis"]
-        },
-        {
-            "id": 2503,
-            "title": "3D Printing Material Optimizer",
-            "domain": "25",
-            "description": "Develop a system that optimizes 3D printing parameters for different materials to achieve desired mechanical properties.",
-            "keywords": ["3D Printing", "Material Optimization", "Mechanical Properties", "Manufacturing"]
-        },
+        
+    {
+        "id": 2386,
+        "title": "Nanomaterial-Based Drug Delivery",
+        "domain": "25",
+        "description": "Design nanomaterials that can deliver drugs directly to targeted cells with controlled release mechanisms.",
+        "keywords": ["Nanotechnology", "Biomaterials", "Drug Delivery"]
+    },
+    {
+        "id": 2387,
+        "title": "Self-Healing Concrete for Infrastructure",
+        "domain": "25",
+        "description": "Develop concrete composites with embedded microcapsules that release agents to self-heal cracks automatically.",
+        "keywords": ["Smart Materials", "Composites", "Infrastructure"]
+    },
+    {
+        "id": 2388,
+        "title": "Lightweight Aerospace Alloys",
+        "domain": "25",
+        "description": "Create next-generation lightweight alloys with high strength-to-weight ratio for aerospace applications.",
+        "keywords": ["Alloys", "Metallurgy", "Aerospace"]
+    },
+    {
+        "id": 2389,
+        "title": "Biodegradable Polymers for Packaging",
+        "domain": "25",
+        "description": "Develop eco-friendly polymer alternatives to replace single-use plastics in packaging industries.",
+        "keywords": ["Polymers", "Biomaterials", "Sustainability"]
+    },
+    {
+        "id": 2390,
+        "title": "Nanostructured Solar Cells",
+        "domain": "25",
+        "description": "Enhance efficiency of solar cells by engineering nanostructured materials for better light absorption.",
+        "keywords": ["Nanotechnology", "Energy", "Smart Materials"]
+    },
+    {
+        "id": 2391,
+        "title": "Ceramic Composites for Jet Engines",
+        "domain": "25",
+        "description": "Develop ceramic matrix composites that withstand extreme temperatures in jet engine turbines.",
+        "keywords": ["Ceramics", "Composites", "Aerospace"]
+    },
+    {
+        "id": 2392,
+        "title": "Biomaterial Scaffolds for Tissue Engineering",
+        "domain": "25",
+        "description": "Create porous biomaterial scaffolds that promote cell growth and regeneration for tissue engineering.",
+        "keywords": ["Biomaterials", "Nanotechnology", "Medical"]
+    },
+    {
+        "id": 2393,
+        "title": "Wear-Resistant Coatings for Industrial Tools",
+        "domain": "25",
+        "description": "Develop advanced surface coatings that significantly increase the wear resistance of cutting tools.",
+        "keywords": ["Coatings", "Surface Engineering", "Metallurgy"]
+    },
+    {
+        "id": 2394,
+        "title": "Shape Memory Alloys for Medical Devices",
+        "domain": "25",
+        "description": "Design shape memory alloys that can be used in stents and minimally invasive surgical devices.",
+        "keywords": ["Alloys", "Smart Materials", "Biomaterials"]
+    },
+    {
+        "id": 2395,
+        "title": "Nanocoatings for Antimicrobial Surfaces",
+        "domain": "25",
+        "description": "Engineer nanocoatings that prevent microbial growth on hospital and food industry surfaces.",
+        "keywords": ["Nanotechnology", "Coatings", "Healthcare"]
+    },
+    {
+        "id": 2396,
+        "title": "High-Entropy Alloys for Defense",
+        "domain": "25",
+        "description": "Investigate high-entropy alloys with superior mechanical properties for defense applications.",
+        "keywords": ["Alloys", "Metallurgy", "Defense"]
+    },
+    {
+        "id": 2397,
+        "title": "Flexible Polymer Electronics",
+        "domain": "25",
+        "description": "Develop conductive polymers for use in flexible and wearable electronic devices.",
+        "keywords": ["Polymers", "Smart Materials", "Electronics"]
+    },
+    {
+        "id": 2398,
+        "title": "Nanostructured Water Filtration Membranes",
+        "domain": "25",
+        "description": "Design nanostructured membranes that remove microplastics and contaminants from water efficiently.",
+        "keywords": ["Nanotechnology", "Surface Engineering", "Sustainability"]
+    },
+    {
+        "id": 2399,
+        "title": "Fire-Resistant Building Composites",
+        "domain": "25",
+        "description": "Develop composite materials with high fire resistance for use in building construction.",
+        "keywords": ["Composites", "Polymers", "Safety"]
+    },
+    {
+        "id": 2400,
+        "title": "Transparent Ceramics for Optics",
+        "domain": "25",
+        "description": "Create transparent ceramic materials for advanced lenses and optical devices.",
+        "keywords": ["Ceramics", "Optics", "Smart Materials"]
+    },
+    {
+        "id": 2401,
+        "title": "Biodegradable Smart Coatings",
+        "domain": "25",
+        "description": "Develop coatings that degrade safely in the environment while providing smart functionalities.",
+        "keywords": ["Coatings", "Smart Materials", "Polymers"]
+    },
+    {
+        "id": 2402,
+        "title": "Nanomaterial-Based Supercapacitors",
+        "domain": "25",
+        "description": "Design nanomaterials for supercapacitors with higher energy density and faster charging.",
+        "keywords": ["Nanotechnology", "Energy", "Smart Materials"]
+    },
+    {
+        "id": 2403,
+        "title": "Corrosion-Resistant Marine Alloys",
+        "domain": "25",
+        "description": "Develop advanced alloys with superior resistance to saltwater corrosion for marine use.",
+        "keywords": ["Alloys", "Metallurgy", "Marine"]
+    },
+    {
+        "id": 2404,
+        "title": "Polymers for 3D Bioprinting",
+        "domain": "25",
+        "description": "Create specialized polymers for bioprinting of tissues and organs with high cell compatibility.",
+        "keywords": ["Polymers", "Biomaterials", "Additive Manufacturing"]
+    },
+    {
+        "id": 2405,
+        "title": "Ceramic Insulators for Fusion Reactors",
+        "domain": "25",
+        "description": "Develop advanced ceramic materials that can act as reliable insulators in fusion reactors.",
+        "keywords": ["Ceramics", "Energy", "Metallurgy"]
+    },
+    {
+        "id": 2406,
+        "title": "Smart Windows with Nanocoatings",
+        "domain": "25",
+        "description": "Design smart windows with nanocoatings that control light and heat transmission.",
+        "keywords": ["Nanotechnology", "Smart Materials", "Coatings"]
+    },
+    {
+        "id": 2407,
+        "title": "Lightweight Composites for Electric Vehicles",
+        "domain": "25",
+        "description": "Develop lightweight composite materials that improve the range and performance of electric vehicles.",
+        "keywords": ["Composites", "Polymers", "Automotive"]
+    },
+    {
+        "id": 2408,
+        "title": "Nanostructured Catalysts for Green Chemistry",
+        "domain": "25",
+        "description": "Develop nanostructured catalysts that enable cleaner and more efficient chemical reactions for sustainable processes.",
+        "keywords": ["Nanotechnology", "Catalysts", "Sustainability"]
+    },
+    {
+        "id": 2409,
+        "title": "High-Strength Recyclable Polymers",
+        "domain": "25",
+        "description": "Create recyclable polymer materials that retain strength and durability for multiple use cycles.",
+        "keywords": ["Polymers", "Sustainability", "Smart Materials"]
+    },
+    {
+        "id": 2410,
+        "title": "Ceramic Fuel Cells",
+        "domain": "25",
+        "description": "Design advanced ceramic materials for use in solid oxide fuel cells with improved efficiency.",
+        "keywords": ["Ceramics", "Energy", "Smart Materials"]
+    },
+    {
+        "id": 2411,
+        "title": "Bioinspired Composite Materials",
+        "domain": "25",
+        "description": "Develop composite materials inspired by natural structures like shells and bones for superior strength.",
+        "keywords": ["Composites", "Biomaterials", "Nanotechnology"]
+    },
+    {
+        "id": 2412,
+        "title": "Nanoparticle-Based Cancer Therapy",
+        "domain": "25",
+        "description": "Create nanoparticles that selectively target cancer cells for efficient drug delivery with minimal side effects.",
+        "keywords": ["Nanotechnology", "Biomaterials", "Healthcare"]
+    },
+    {
+        "id": 2413,
+        "title": "Smart Coatings for Temperature Regulation",
+        "domain": "25",
+        "description": "Engineer coatings that dynamically adjust thermal conductivity to regulate temperature in buildings and vehicles.",
+        "keywords": ["Coatings", "Smart Materials", "Surface Engineering"]
+    },
+    {
+        "id": 2414,
+        "title": "Advanced Alloys for Space Exploration",
+        "domain": "25",
+        "description": "Develop alloys that can withstand extreme temperatures and radiation for use in spacecraft.",
+        "keywords": ["Alloys", "Metallurgy", "Space"]
+    },
+    {
+        "id": 2415,
+        "title": "Conductive Ceramics for Electronics",
+        "domain": "25",
+        "description": "Design ceramic materials with enhanced electrical conductivity for electronic and sensor applications.",
+        "keywords": ["Ceramics", "Electronics", "Smart Materials"]
+    },
+    {
+        "id": 2416,
+        "title": "Self-Cleaning Surfaces with Nanotechnology",
+        "domain": "25",
+        "description": "Develop nanostructured coatings that create self-cleaning surfaces for consumer and industrial products.",
+        "keywords": ["Nanotechnology", "Coatings", "Surface Engineering"]
+    },
+    {
+        "id": 2417,
+        "title": "Reinforced Polymers for Medical Implants",
+        "domain": "25",
+        "description": "Create reinforced polymer composites for durable and biocompatible medical implants.",
+        "keywords": ["Polymers", "Biomaterials", "Composites"]
+    },
+    {
+        "id": 2418,
+        "title": "Nanomaterials for Hydrogen Storage",
+        "domain": "25",
+        "description": "Design nanomaterials capable of storing hydrogen safely and efficiently for clean energy applications.",
+        "keywords": ["Nanotechnology", "Energy", "Smart Materials"]
+    },
+    {
+        "id": 2419,
+        "title": "Transparent Polymers for Displays",
+        "domain": "25",
+        "description": "Develop transparent and durable polymers for next-generation flexible display technologies.",
+        "keywords": ["Polymers", "Smart Materials", "Electronics"]
+    },
+    {
+        "id": 2420,
+        "title": "Ceramic-Based Thermal Barriers",
+        "domain": "25",
+        "description": "Create ceramic materials with ultra-high thermal resistance for turbines and high-temperature industries.",
+        "keywords": ["Ceramics", "Surface Engineering", "Energy"]
+    },
+    {
+        "id": 2421,
+        "title": "Metallic Glasses for Structural Applications",
+        "domain": "25",
+        "description": "Investigate metallic glasses with superior mechanical properties for use in structural engineering.",
+        "keywords": ["Alloys", "Metallurgy", "Composites"]
+    },
+    {
+        "id": 2422,
+        "title": "Polymer Nanocomposites for Automotive",
+        "domain": "25",
+        "description": "Develop lightweight polymer nanocomposites that improve fuel efficiency in automotive industries.",
+        "keywords": ["Polymers", "Composites", "Nanotechnology"]
+    },
+    {
+        "id": 2423,
+        "title": "Smart Textiles with Embedded Nanomaterials",
+        "domain": "25",
+        "description": "Engineer fabrics with nanomaterials that provide self-cleaning, conductivity, or thermal regulation.",
+        "keywords": ["Smart Materials", "Nanotechnology", "Polymers"]
+    },
+    {
+        "id": 2424,
+        "title": "Nanostructured Biomaterials for Bone Repair",
+        "domain": "25",
+        "description": "Create nanostructured biomaterials that enhance bone regeneration in orthopedic treatments.",
+        "keywords": ["Biomaterials", "Nanotechnology", "Healthcare"]
+    },
+    {
+        "id": 2425,
+        "title": "Ceramic Nanotubes for Filtration",
+        "domain": "25",
+        "description": "Develop ceramic nanotubes that act as efficient filters for gases and liquids in industrial processes.",
+        "keywords": ["Ceramics", "Nanotechnology", "Surface Engineering"]
+    },
+    {
+        "id": 2426,
+        "title": "High-Performance Coatings for Aircraft",
+        "domain": "25",
+        "description": "Design coatings that provide corrosion resistance and durability for aircraft surfaces.",
+        "keywords": ["Coatings", "Surface Engineering", "Aerospace"]
+    },
+    {
+        "id": 2427,
+        "title": "Biodegradable Alloys for Implants",
+        "domain": "25",
+        "description": "Create biodegradable metallic alloys for temporary implants that dissolve harmlessly after healing.",
+        "keywords": ["Alloys", "Biomaterials", "Healthcare"]
+    },
+    {
+        "id": 2428,
+        "title": "Nanomaterial-Enhanced Superconductors",
+        "domain": "25",
+        "description": "Develop superconductors enhanced with nanomaterials for improved energy transmission efficiency.",
+        "keywords": ["Nanotechnology", "Smart Materials", "Energy"]
+    },
+    {
+        "id": 2429,
+        "title": "Smart Polymers for Drug Release",
+        "domain": "25",
+        "description": "Design polymers that respond to external stimuli to release drugs at controlled rates in the body.",
+        "keywords": ["Polymers", "Biomaterials", "Smart Materials"]
+    },
+    {
+        "id": 2430,
+        "title": "Self-Healing Protective Coatings",
+        "domain": "25",
+        "description": "Engineer coatings that can autonomously repair scratches and minor damages to extend product lifespan.",
+        "keywords": ["Coatings", "Smart Materials", "Surface Engineering"]
+    },
+    {
+        "id": 2431,
+        "title": "Nanocoatings for Food Preservation",
+        "domain": "25",
+        "description": "Develop edible nanocoatings that extend the shelf life of perishable foods while maintaining safety.",
+        "keywords": ["Nanotechnology", "Coatings", "Biomaterials"]
+    },
+    {
+        "id": 2432,
+        "title": "High-Temperature Super Alloys",
+        "domain": "25",
+        "description": "Create super alloys capable of withstanding extreme heat for power plants and aerospace turbines.",
+        "keywords": ["Alloys", "Metallurgy", "Energy"]
+    },
+    {
+        "id": 2433,
+        "title": "Smart Polymers for Responsive Packaging",
+        "domain": "25",
+        "description": "Engineer polymers that change color or texture to indicate product freshness in packaging.",
+        "keywords": ["Polymers", "Smart Materials", "Sustainability"]
+    },
+    {
+        "id": 2434,
+        "title": "Ceramic Armor for Defense",
+        "domain": "25",
+        "description": "Develop lightweight ceramic composites that provide superior ballistic protection for soldiers.",
+        "keywords": ["Ceramics", "Defense", "Composites"]
+    },
+    {
+        "id": 2435,
+        "title": "Nanomaterials for Air Purification",
+        "domain": "25",
+        "description": "Design nanostructured materials that can filter pollutants and improve indoor air quality.",
+        "keywords": ["Nanotechnology", "Surface Engineering", "Sustainability"]
+    },
+    {
+        "id": 2436,
+        "title": "Biocompatible Coatings for Medical Devices",
+        "domain": "25",
+        "description": "Create coatings that enhance the compatibility of medical devices with the human body.",
+        "keywords": ["Coatings", "Biomaterials", "Healthcare"]
+    },
+    {
+        "id": 2437,
+        "title": "Lightweight Composites for Sports Equipment",
+        "domain": "25",
+        "description": "Develop high-strength composite materials that enhance performance in sports gear.",
+        "keywords": ["Composites", "Polymers", "Smart Materials"]
+    },
+    {
+        "id": 2438,
+        "title": "Nanoparticles for Targeted Imaging",
+        "domain": "25",
+        "description": "Design nanoparticles that improve resolution and targeting in medical imaging techniques.",
+        "keywords": ["Nanotechnology", "Biomaterials", "Healthcare"]
+    },
+    {
+        "id": 2439,
+        "title": "Recyclable Ceramic Materials",
+        "domain": "25",
+        "description": "Develop ceramic materials that can be recycled and reused in construction applications.",
+        "keywords": ["Ceramics", "Sustainability", "Surface Engineering"]
+    },
+    {
+        "id": 2440,
+        "title": "Polymers with Enhanced Thermal Stability",
+        "domain": "25",
+        "description": "Create polymers that maintain structural stability at high operating temperatures.",
+        "keywords": ["Polymers", "Smart Materials", "Energy"]
+    },
+    {
+        "id": 2441,
+        "title": "Metal Foams for Lightweight Structures",
+        "domain": "25",
+        "description": "Design metal foams with high porosity for lightweight and energy-absorbing structures.",
+        "keywords": ["Alloys", "Composites", "Metallurgy"]
+    },
+    {
+        "id": 2442,
+        "title": "Nanostructured Coatings for Anti-Icing",
+        "domain": "25",
+        "description": "Engineer coatings that prevent ice formation on aircraft wings and power lines.",
+        "keywords": ["Nanotechnology", "Coatings", "Surface Engineering"]
+    },
+    {
+        "id": 2443,
+        "title": "Ceramic Membranes for Gas Separation",
+        "domain": "25",
+        "description": "Develop ceramic membranes capable of selectively separating gases in industrial processes.",
+        "keywords": ["Ceramics", "Surface Engineering", "Energy"]
+    },
+    {
+        "id": 2444,
+        "title": "Self-Healing Polymers for Electronics",
+        "domain": "25",
+        "description": "Create polymers that repair themselves after minor damages in electronic circuits.",
+        "keywords": ["Polymers", "Smart Materials", "Electronics"]
+    },
+    {
+        "id": 2445,
+        "title": "Nanomaterials for Water Desalination",
+        "domain": "25",
+        "description": "Design nanomaterials that enhance the efficiency of desalination membranes for clean water.",
+        "keywords": ["Nanotechnology", "Sustainability", "Surface Engineering"]
+    },
+    {
+        "id": 2446,
+        "title": "High-Strength Ceramic Tiles for Spacecraft",
+        "domain": "25",
+        "description": "Develop ceramic tiles capable of withstanding re-entry heat in spacecraft.",
+        "keywords": ["Ceramics", "Aerospace", "Smart Materials"]
+    },
+    {
+        "id": 2447,
+        "title": "Polymers for Flexible Solar Panels",
+        "domain": "25",
+        "description": "Engineer lightweight and flexible polymers to improve portable solar panel designs.",
+        "keywords": ["Polymers", "Energy", "Smart Materials"]
+    },
+    {
+        "id": 2448,
+        "title": "Biomaterials for Nerve Regeneration",
+        "domain": "25",
+        "description": "Create biomaterials that support nerve tissue growth and repair neurological damage.",
+        "keywords": ["Biomaterials", "Healthcare", "Nanotechnology"]
+    },
+    {
+        "id": 2449,
+        "title": "Nanoparticle Additives for Lubricants",
+        "domain": "25",
+        "description": "Develop nanoparticles that improve the efficiency and durability of industrial lubricants.",
+        "keywords": ["Nanotechnology", "Metallurgy", "Surface Engineering"]
+    },
+    {
+        "id": 2450,
+        "title": "Composite Materials for Wind Turbines",
+        "domain": "25",
+        "description": "Design lightweight and durable composites for high-performance wind turbine blades.",
+        "keywords": ["Composites", "Energy", "Polymers"]
+    },
+    {
+        "id": 2451,
+        "title": "Corrosion-Resistant Coatings for Pipelines",
+        "domain": "25",
+        "description": "Create coatings that protect oil and gas pipelines from corrosion under extreme conditions.",
+        "keywords": ["Coatings", "Surface Engineering", "Energy"]
+    },
+    {
+        "id": 2452,
+        "title": "Bio-Inspired Hydrophobic Surfaces",
+        "domain": "25",
+        "description": "Engineer hydrophobic materials inspired by lotus leaves for waterproof and self-cleaning applications.",
+        "keywords": ["Smart Materials", "Surface Engineering", "Nanotechnology"]
+    },
+    { 
+        "id": 2453,
+        "title": "High-Entropy Alloys for Extreme Environments",
+        "domain": "25",
+        "description": "Develop high-entropy alloys capable of withstanding extreme temperatures and pressures for aerospace and nuclear applications.",
+        "keywords": ["Alloys", "Extreme Environments", "High-Entropy Materials"]
+    },
+    { 
+        "id": 2454,
+        "title": "Nanomaterials for Targeted Drug Delivery",
+        "domain": "25",
+        "description": "Design nanomaterials that can encapsulate drugs and release them in specific cells or tissues, minimizing side effects.",
+        "keywords": ["Nanotechnology", "Biomaterials", "Drug Delivery"]
+    },
+    { 
+        "id": 2455,
+        "title": "Smart Textiles with Self-Healing Coatings",
+        "domain": "25",
+        "description": "Create fabrics with self-healing coatings to repair small tears and extend garment lifespan in extreme outdoor use.",
+        "keywords": ["Smart Materials", "Coatings", "Textiles"]
+    },
+    { 
+        "id": 2456,
+        "title": "Biodegradable Polymers for Medical Implants",
+        "domain": "25",
+        "description": "Develop biodegradable polymers that dissolve safely after fulfilling their role in temporary implants or sutures.",
+        "keywords": ["Polymers", "Biomaterials", "Medical Devices"]
+    },
+    { 
+        "id": 2457,
+        "title": "Ceramic Nanoparticles for Thermal Insulation",
+        "domain": "25",
+        "description": "Investigate ceramic nanoparticle composites to improve heat resistance in construction and electronics.",
+        "keywords": ["Ceramics", "Nanotechnology", "Thermal Insulation"]
+    },
+    { 
+        "id": 2458,
+        "title": "Magnetocaloric Materials for Cooling Systems",
+        "domain": "25",
+        "description": "Develop magnetocaloric materials that can provide cooling without harmful refrigerants for eco-friendly HVAC systems.",
+        "keywords": ["Smart Materials", "Composites", "Cooling Systems"]
+    },
+    { 
+        "id": 2459,
+        "title": "Self-Cleaning Anti-Fog Surfaces",
+        "domain": "25",
+        "description": "Create coatings that combine self-cleaning and anti-fogging properties for automotive and optical applications.",
+        "keywords": ["Coatings", "Surface Engineering", "Smart Materials"]
+    },
+    { 
+        "id": 2460,
+        "title": "Flexible Polymers for Wearable Sensors",
+        "domain": "25",
+        "description": "Design flexible polymer composites for embedding electronic sensors into clothing and skin patches.",
+        "keywords": ["Polymers", "Smart Materials", "Wearable Devices"]
+    },
+    { 
+        "id": 2461,
+        "title": "Bioinspired Materials for Underwater Adhesion",
+        "domain": "25",
+        "description": "Develop adhesives inspired by mussels and barnacles for strong bonding in wet marine environments.",
+        "keywords": ["Biomaterials", "Surface Engineering", "Adhesives"]
+    },
+    { 
+        "id": 2462,
+        "title": "Radiation-Resistant Materials for Spacecraft",
+        "domain": "25",
+        "description": "Create materials that maintain structural integrity under high cosmic radiation exposure for deep space missions.",
+        "keywords": ["Alloys", "Nanotechnology", "Space Materials"]
+    },
+    { 
+        "id": 2463,
+        "title": "Transparent Nanocomposites for Smart Windows",
+        "domain": "25",
+        "description": "Develop transparent composites that dynamically adjust opacity based on sunlight intensity.",
+        "keywords": ["Composites", "Nanotechnology", "Smart Materials"]
+    },
+    { 
+        "id": 2464,
+        "title": "3D Printed Bioceramics for Bone Repair",
+        "domain": "25",
+        "description": "Use additive manufacturing to create porous bioceramics that mimic bone structure and accelerate healing.",
+        "keywords": ["Additive Manufacturing", "Ceramics", "Biomaterials"]
+    },
+    { 
+        "id": 2465,
+        "title": "Self-Lubricating Bearings with Nanocoatings",
+        "domain": "25",
+        "description": "Design bearings with nanoscale coatings that reduce friction without the need for external lubricants.",
+        "keywords": ["Surface Engineering", "Nanotechnology", "Coatings"]
+    },
+    { 
+        "id": 2466,
+        "title": "Thermoelectric Materials for Waste Heat Recovery",
+        "domain": "25",
+        "description": "Develop thermoelectric composites that convert industrial waste heat into usable electricity.",
+        "keywords": ["Composites", "Smart Materials", "Energy Harvesting"]
+    },
+    { 
+        "id": 2467,
+        "title": "Corrosion-Resistant Coatings for Offshore Structures",
+        "domain": "25",
+        "description": "Create long-lasting coatings to protect offshore oil rigs and wind turbines from saltwater corrosion.",
+        "keywords": ["Coatings", "Surface Engineering", "Corrosion Resistance"]
+    },
+    { 
+        "id": 2468,
+        "title": "Nanostructured Surfaces for Anti-Icing Applications",
+        "domain": "25",
+        "description": "Develop surfaces that prevent ice buildup on aircraft wings and wind turbine blades.",
+        "keywords": ["Nanotechnology", "Surface Engineering", "Smart Materials"]
+    },
+    { 
+        "id": 2469,
+        "title": "Shape-Memory Alloys for Medical Devices",
+        "domain": "25",
+        "description": "Design shape-memory alloys for minimally invasive surgical instruments and stents.",
+        "keywords": ["Alloys", "Smart Materials", "Medical Devices"]
+    },
+    { 
+        "id": 2470,
+        "title": "Biocompatible Coatings for Neural Implants",
+        "domain": "25",
+        "description": "Develop coatings that reduce immune response in long-term neural implant applications.",
+        "keywords": ["Biomaterials", "Coatings", "Medical Devices"]
+    },
+    { 
+        "id": 2471,
+        "title": "Lightweight Composite Armor",
+        "domain": "25",
+        "description": "Develop composite armor materials that provide high strength while reducing weight for defense applications.",
+        "keywords": ["Composites", "Surface Engineering", "Defense Materials"]
+    },
+    { 
+        "id": 2472,
+        "title": "Self-Charging Nanogenerators in Textiles",
+        "domain": "25",
+        "description": "Integrate nanogenerators into fabrics to harvest mechanical energy from human motion.",
+        "keywords": ["Nanotechnology", "Smart Materials", "Wearable Devices"]
+    },
+
+
+
 
         // TELECOMMUNICATIONS (Domain 26)
         {
