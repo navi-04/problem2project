@@ -21019,13 +21019,688 @@ const PROBLEMS_DATA = {
         // [Additional hundreds of problems would be added here]
 
         // End of problems array - this represents a sample of the full 2000+ problem dataset
-        {
-            "id": 9999,
-            "title": "Universal Problem Solver Framework",
-            "domain": "1",
-            "description": "The ultimate challenge: Create a framework that can understand and solve problems across all domains using advanced AI and human-computer collaboration.",
-            "keywords": ["Universal Solver", "AI", "Cross-Domain", "Human-AI Collaboration"]
-        }
+        
+    {
+        "id": 3204,
+        "title": "Quantum Algorithm Optimization for NISQ Devices",
+        "domain": "32",
+        "description": "Develop optimized quantum algorithms that minimize errors and maximize performance on noisy intermediate-scale quantum devices (NISQ).",
+        "keywords": ["Quantum Algorithms", "NISQ Devices", "Quantum Error Correction", "Quantum Software"]
+    },
+    {
+        "id": 3205,
+        "title": "Quantum Machine Learning for Material Discovery",
+        "domain": "32",
+        "description": "Apply quantum machine learning algorithms to accelerate the discovery of new materials and molecular structures.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3206,
+        "title": "Quantum Cryptography for Secure Communications",
+        "domain": "32",
+        "description": "Develop quantum cryptography protocols to enable ultra-secure data transmission across networks.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Algorithms", "Quantum Security"]
+    },
+    {
+        "id": 3207,
+        "title": "Simulation of Quantum Many-Body Systems",
+        "domain": "32",
+        "description": "Use quantum simulators to model complex many-body systems for physics and material science applications.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3208,
+        "title": "Error Mitigation Techniques for Quantum Circuits",
+        "domain": "32",
+        "description": "Design and test methods for mitigating errors in quantum circuits to improve computation accuracy.",
+        "keywords": ["Quantum Error Correction", "Quantum Hardware", "Quantum Software", "Quantum Algorithms"]
+    },
+    {
+        "id": 3209,
+        "title": "Quantum Sensor Network Optimization",
+        "domain": "32",
+        "description": "Develop networks of quantum sensors for precise measurement of physical quantities like magnetic and electric fields.",
+        "keywords": ["Quantum Sensors", "Quantum Networking", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3210,
+        "title": "Hybrid Quantum-Classical Optimization Algorithms",
+        "domain": "32",
+        "description": "Design hybrid algorithms that leverage classical and quantum computing for complex optimization problems.",
+        "keywords": ["Quantum Algorithms", "Quantum Software", "Quantum Advantage", "NISQ Devices"]
+    },
+    {
+        "id": 3211,
+        "title": "Quantum Machine Learning for Financial Modeling",
+        "domain": "32",
+        "description": "Apply quantum machine learning algorithms to optimize portfolio management and financial predictions.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Software"]
+    },
+    {
+        "id": 3212,
+        "title": "Quantum Networking Protocols for Distributed Systems",
+        "domain": "32",
+        "description": "Develop protocols to enable secure and efficient quantum communication between distributed quantum devices.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Hardware", "Quantum Algorithms"]
+    },
+    {
+        "id": 3213,
+        "title": "Quantum Simulation for Drug Discovery",
+        "domain": "32",
+        "description": "Use quantum simulators to model molecular interactions and accelerate the drug discovery process.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3214,
+        "title": "Error-Resilient Quantum Hardware Design",
+        "domain": "32",
+        "description": "Design quantum hardware systems that are resilient to noise and operational errors for practical quantum computing.",
+        "keywords": ["Quantum Hardware", "Quantum Error Correction", "NISQ Devices", "Quantum Applications"]
+    },
+    {
+        "id": 3215,
+        "title": "Quantum Algorithm Benchmarking Framework",
+        "domain": "32",
+        "description": "Develop benchmarking frameworks to evaluate performance and accuracy of quantum algorithms across different hardware.",
+        "keywords": ["Quantum Algorithms", "Quantum Hardware", "Quantum Software", "NISQ Devices"]
+    },
+    {
+        "id": 3216,
+        "title": "Quantum Cryptography for IoT Security",
+        "domain": "32",
+        "description": "Design quantum cryptographic protocols to secure IoT devices and networks from cyber threats.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3217,
+        "title": "Quantum Machine Learning for Climate Modeling",
+        "domain": "32",
+        "description": "Apply quantum machine learning to improve predictive accuracy of complex climate models.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Simulation", "Quantum Applications"]
+    },
+    {
+        "id": 3218,
+        "title": "Quantum-Enhanced Optimization for Logistics",
+        "domain": "32",
+        "description": "Develop quantum algorithms to solve complex optimization problems in supply chain and logistics.",
+        "keywords": ["Quantum Algorithms", "Quantum Advantage", "Quantum Machine Learning", "Quantum Applications"]
+    },
+    {
+        "id": 3219,
+        "title": "AI-Assisted Quantum Circuit Compilation",
+        "domain": "32",
+        "description": "Use AI techniques to automatically optimize and compile quantum circuits for efficient execution on hardware.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "AI"]
+    },
+    {
+        "id": 3220,
+        "title": "Quantum Machine Learning for Image Recognition",
+        "domain": "32",
+        "description": "Implement quantum machine learning algorithms to improve image classification and recognition tasks.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Software"]
+    },
+    {
+        "id": 3221,
+        "title": "Quantum Simulation of Financial Markets",
+        "domain": "32",
+        "description": "Use quantum simulations to model financial markets for risk analysis and portfolio optimization.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3222,
+        "title": "Quantum Error Corrected Cloud Computing",
+        "domain": "32",
+        "description": "Develop quantum cloud services with integrated error correction to ensure reliable computation.",
+        "keywords": ["Quantum Error Correction", "Quantum Hardware", "Quantum Software", "Quantum Networking"]
+    },
+    {
+        "id": 3223,
+        "title": "Quantum Cryptography for Blockchain Security",
+        "domain": "32",
+        "description": "Integrate quantum cryptography methods to enhance the security of blockchain networks against quantum attacks.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3224,
+        "title": "Quantum Hardware Noise Modeling",
+        "domain": "32",
+        "description": "Develop models to understand and mitigate noise effects in quantum hardware for better computation fidelity.",
+        "keywords": ["Quantum Hardware", "Quantum Error Correction", "NISQ Devices", "Quantum Software"]
+    },
+    {
+        "id": 3225,
+        "title": "Quantum Machine Learning for Genomic Analysis",
+        "domain": "32",
+        "description": "Apply quantum machine learning to analyze genomic data for personalized medicine and drug discovery.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3226,
+        "title": "Quantum Simulation of Chemical Reactions",
+        "domain": "32",
+        "description": "Use quantum simulators to model chemical reactions with higher precision than classical methods.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3227,
+        "title": "Quantum Networking for Distributed Computation",
+        "domain": "32",
+        "description": "Design quantum networking protocols to enable secure distributed quantum computation across multiple nodes.",
+        "keywords": ["Quantum Networking", "Quantum Hardware", "Quantum Software", "Quantum Applications"]
+    },
+    {
+        "id": 3228,
+        "title": "Adaptive Quantum Error Correction Algorithms",
+        "domain": "32",
+        "description": "Create adaptive algorithms that improve error correction efficiency for dynamic quantum systems.",
+        "keywords": ["Quantum Error Correction", "Quantum Software", "Quantum Hardware", "Quantum Algorithms"]
+    },
+    {
+        "id": 3229,
+        "title": "Quantum Machine Learning for Traffic Prediction",
+        "domain": "32",
+        "description": "Use quantum machine learning to model and predict complex traffic flow patterns in urban areas.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3230,
+        "title": "Quantum Hardware Control Systems",
+        "domain": "32",
+        "description": "Develop advanced control systems for precise operation of quantum hardware and qubit manipulation.",
+        "keywords": ["Quantum Hardware", "Quantum Software", "Quantum Error Correction", "Quantum Applications"]
+    },
+    {
+        "id": 3231,
+        "title": "Quantum Simulation for Energy Systems",
+        "domain": "32",
+        "description": "Use quantum simulation to model energy systems for optimization of power generation and storage.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3232,
+        "title": "Quantum Software Tools for Algorithm Development",
+        "domain": "32",
+        "description": "Develop software frameworks and libraries to facilitate the creation, testing, and deployment of quantum algorithms.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3233,
+        "title": "Quantum Cryptography Key Distribution Optimization",
+        "domain": "32",
+        "description": "Design efficient quantum key distribution protocols to improve speed and security in communication networks.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Algorithms", "Quantum Hardware"]
+    },
+    {
+        "id": 3234,
+        "title": "Quantum Machine Learning for Healthcare Diagnostics",
+        "domain": "32",
+        "description": "Apply quantum machine learning algorithms to improve diagnostic accuracy and treatment planning in healthcare.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3235,
+        "title": "Quantum Error Correction for Scalable Computing",
+        "domain": "32",
+        "description": "Develop scalable error correction techniques to enable large-scale quantum computation with high fidelity.",
+        "keywords": ["Quantum Error Correction", "Quantum Hardware", "Quantum Software", "NISQ Devices"]
+    },
+    {
+        "id": 3236,
+        "title": "Quantum Simulation of Environmental Systems",
+        "domain": "32",
+        "description": "Use quantum simulators to model complex environmental processes like climate or ecosystem dynamics.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3237,
+        "title": "Hybrid Classical-Quantum Algorithms for Optimization",
+        "domain": "32",
+        "description": "Design hybrid algorithms combining classical and quantum computing to solve large-scale optimization problems.",
+        "keywords": ["Quantum Algorithms", "Quantum Advantage", "Quantum Software", "NISQ Devices"]
+    },
+    {
+        "id": 3238,
+        "title": "Quantum Sensor Networks for Geophysical Monitoring",
+        "domain": "32",
+        "description": "Deploy networks of quantum sensors for real-time monitoring of geophysical phenomena such as earthquakes and magnetic fields.",
+        "keywords": ["Quantum Sensors", "Quantum Networking", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3239,
+        "title": "Quantum Machine Learning for Natural Language Processing",
+        "domain": "32",
+        "description": "Implement quantum-enhanced machine learning algorithms for processing and understanding human language.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Software", "Quantum Applications"]
+    },
+    {
+        "id": 3240,
+        "title": "Quantum Cryptography for Cloud Security",
+        "domain": "32",
+        "description": "Develop quantum cryptographic solutions to ensure secure cloud computing and storage services.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Hardware", "Quantum Software"]
+    },
+    {
+        "id": 3241,
+        "title": "Quantum Simulation for Aerospace Material Design",
+        "domain": "32",
+        "description": "Use quantum simulations to design and test advanced materials for aerospace applications.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3242,
+        "title": "Quantum Hardware Noise Reduction Techniques",
+        "domain": "32",
+        "description": "Develop techniques to minimize noise in quantum hardware, improving computation fidelity and reliability.",
+        "keywords": ["Quantum Hardware", "Quantum Error Correction", "Quantum Software", "NISQ Devices"]
+    },
+    {
+        "id": 3243,
+        "title": "AI-Assisted Quantum Algorithm Discovery",
+        "domain": "32",
+        "description": "Leverage AI to discover and optimize new quantum algorithms for complex computational problems.",
+        "keywords": ["Quantum Algorithms", "AI", "Quantum Software", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3244,
+        "title": "Quantum Networking for Secure Distributed Ledgers",
+        "domain": "32",
+        "description": "Implement quantum networks to secure distributed ledger technologies against quantum attacks.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3245,
+        "title": "Quantum Machine Learning for Energy Optimization",
+        "domain": "32",
+        "description": "Use quantum-enhanced ML to optimize energy consumption in industrial and smart grid systems.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3246,
+        "title": "Quantum Hardware Scalability Solutions",
+        "domain": "32",
+        "description": "Design approaches to scale quantum hardware while maintaining coherence and reducing error rates.",
+        "keywords": ["Quantum Hardware", "NISQ Devices", "Quantum Error Correction", "Quantum Software"]
+    },
+    {
+        "id": 3247,
+        "title": "Quantum Simulation of Complex Biological Systems",
+        "domain": "32",
+        "description": "Model biological molecules and interactions using quantum simulators for drug discovery and biology research.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3248,
+        "title": "Quantum Cryptography for Financial Transactions",
+        "domain": "32",
+        "description": "Implement quantum cryptographic protocols to secure high-value financial transactions against future quantum threats.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3249,
+        "title": "Quantum Software Optimization for Cloud Platforms",
+        "domain": "32",
+        "description": "Optimize quantum software execution on cloud-accessible quantum computers for performance and reliability.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3250,
+        "title": "Quantum Machine Learning for Cybersecurity",
+        "domain": "32",
+        "description": "Develop quantum-enhanced machine learning systems to detect and prevent cyber threats.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Cryptography"]
+    },
+    {
+        "id": 3251,
+        "title": "Quantum Networking for Multi-Qubit Distributed Computation",
+        "domain": "32",
+        "description": "Enable distributed quantum computation across multiple qubit nodes using advanced quantum networking protocols.",
+        "keywords": ["Quantum Networking", "Quantum Hardware", "Quantum Software", "Quantum Algorithms"]
+    },
+    {
+        "id": 3252,
+        "title": "Adaptive Quantum Error Correction for Dynamic Systems",
+        "domain": "32",
+        "description": "Develop adaptive error correction techniques for quantum systems subject to dynamic noise conditions.",
+        "keywords": ["Quantum Error Correction", "Quantum Hardware", "Quantum Software", "Quantum Algorithms"]
+    },
+    {
+        "id": 3253,
+        "title": "Quantum Simulation for Advanced Battery Materials",
+        "domain": "32",
+        "description": "Use quantum simulation to design high-performance materials for next-generation batteries.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3254,
+        "title": "Quantum Software Debugging Framework",
+        "domain": "32",
+        "description": "Create a debugging framework to detect, diagnose, and correct errors in quantum software code efficiently.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Error Correction"]
+    },
+    {
+        "id": 3255,
+        "title": "Quantum Machine Learning for Traffic Flow Optimization",
+        "domain": "32",
+        "description": "Apply quantum-enhanced ML to model and optimize urban traffic patterns in real time.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3256,
+        "title": "Quantum Cryptography for Healthcare Data",
+        "domain": "32",
+        "description": "Implement quantum cryptographic solutions to secure sensitive healthcare data and patient records.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Applications", "Quantum Software"]
+    },
+    {
+        "id": 3257,
+        "title": "Quantum Hardware Resource Management",
+        "domain": "32",
+        "description": "Develop techniques to efficiently manage qubit resources and optimize quantum hardware utilization.",
+        "keywords": ["Quantum Hardware", "Quantum Software", "Quantum Error Correction", "Quantum Algorithms"]
+    },
+    {
+        "id": 3258,
+        "title": "Quantum Simulation of Environmental Pollutants",
+        "domain": "32",
+        "description": "Model interactions of pollutants in the environment using quantum simulation to predict ecological impacts.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3259,
+        "title": "Hybrid Quantum-Classical Machine Learning",
+        "domain": "32",
+        "description": "Combine quantum and classical computing to enhance machine learning performance on complex datasets.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Software", "Hybrid Computing"]
+    },
+    {
+        "id": 3260,
+        "title": "Quantum Software Security Analysis Tools",
+        "domain": "32",
+        "description": "Create tools to analyze security vulnerabilities in quantum software and recommend mitigation strategies.",
+        "keywords": ["Quantum Software", "Quantum Cryptography", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3261,
+        "title": "Quantum Algorithm Optimization for Logistics",
+        "domain": "32",
+        "description": "Develop quantum algorithms to optimize supply chain logistics, routing, and resource allocation.",
+        "keywords": ["Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning", "Quantum Simulation"]
+    },
+    {
+        "id": 3262,
+        "title": "AI-Guided Quantum Circuit Design",
+        "domain": "32",
+        "description": "Leverage AI to design efficient quantum circuits with minimal error and resource usage.",
+        "keywords": ["Quantum Algorithms", "AI", "Quantum Software", "Quantum Hardware"]
+    },
+    {
+        "id": 3263,
+        "title": "Quantum Networking for Secure Financial Systems",
+        "domain": "32",
+        "description": "Implement quantum communication protocols to enhance the security of banking and financial systems.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3264,
+        "title": "Quantum Simulation for Advanced Drug Design",
+        "domain": "32",
+        "description": "Use quantum simulators to model molecular interactions for accelerated drug discovery and testing.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3265,
+        "title": "Quantum Error Corrected AI Computation",
+        "domain": "32",
+        "description": "Combine quantum error correction with AI to perform high-fidelity computations on quantum devices.",
+        "keywords": ["Quantum Error Correction", "Quantum Machine Learning", "Quantum Hardware", "Quantum Software"]
+    },
+    {
+        "id": 3266,
+        "title": "Quantum Machine Learning for Weather Forecasting",
+        "domain": "32",
+        "description": "Apply quantum machine learning to improve the accuracy and speed of weather prediction models.",
+        "keywords": ["Quantum Machine Learning", "Quantum Simulation", "Quantum Algorithms", "Quantum Applications"]
+    },
+    {
+        "id": 3267,
+        "title": "Quantum Software Automation Framework",
+        "domain": "32",
+        "description": "Develop an automated framework for testing, deploying, and maintaining quantum software applications.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3268,
+        "title": "Quantum Hardware Calibration Optimization",
+        "domain": "32",
+        "description": "Optimize the calibration processes for quantum hardware to improve operational stability and performance.",
+        "keywords": ["Quantum Hardware", "Quantum Software", "Quantum Error Correction", "NISQ Devices"]
+    },
+    {
+        "id": 3269,
+        "title": "Quantum Simulation for Aerospace Optimization",
+        "domain": "32",
+        "description": "Use quantum simulation to optimize aerospace system designs, from aerodynamics to materials.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3270,
+        "title": "AI-Assisted Quantum Software Optimization",
+        "domain": "32",
+        "description": "Leverage AI tools to optimize quantum software for efficiency, accuracy, and reduced resource usage.",
+        "keywords": ["AI", "Quantum Software", "Quantum Algorithms", "Quantum Hardware"]
+    },
+    {
+        "id": 3271,
+        "title": "Quantum Networking for IoT Security",
+        "domain": "32",
+        "description": "Integrate quantum networking protocols to secure IoT devices and data communication.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3272,
+        "title": "Quantum Machine Learning for Energy Grid Optimization",
+        "domain": "32",
+        "description": "Use quantum machine learning models to improve performance, efficiency, and fault tolerance of smart energy grids.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3273,
+        "title": "Quantum Cryptography for National Security",
+        "domain": "32",
+        "description": "Develop quantum cryptographic methods to secure national defense and critical infrastructure communications.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3274,
+        "title": "Quantum Simulation for Nanomaterials",
+        "domain": "32",
+        "description": "Simulate nanoscale materials and devices using quantum computing for material design and characterization.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3275,
+        "title": "Adaptive Quantum Machine Learning Models",
+        "domain": "32",
+        "description": "Develop quantum machine learning models that adapt to changing datasets and environments for improved accuracy.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Software", "Quantum Applications"]
+    },
+    {
+        "id": 3276,
+        "title": "Quantum Hardware for High-Precision Sensors",
+        "domain": "32",
+        "description": "Design quantum devices capable of ultra-high precision sensing for scientific and industrial applications.",
+        "keywords": ["Quantum Hardware", "Quantum Sensors", "Quantum Applications", "Quantum Networking"]
+    },
+    {
+        "id": 3277,
+        "title": "Quantum Software Security Testing Framework",
+        "domain": "32",
+        "description": "Build a framework to test and verify the security of quantum software applications and protocols.",
+        "keywords": ["Quantum Software", "Quantum Cryptography", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3278,
+        "title": "Quantum Algorithm Development for Climate Modeling",
+        "domain": "32",
+        "description": "Develop quantum algorithms to improve computational efficiency and accuracy in climate simulations.",
+        "keywords": ["Quantum Algorithms", "Quantum Simulation", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3279,
+        "title": "Quantum Networking for Telecommunication Security",
+        "domain": "32",
+        "description": "Implement quantum networking protocols to secure telecommunications infrastructure from cyber and quantum threats.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3280,
+        "title": "Quantum Simulation for Drug Interaction Prediction",
+        "domain": "32",
+        "description": "Use quantum simulators to predict drug interactions, reducing development time and experimental costs.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3281,
+        "title": "Hybrid Quantum-Classical Cloud Solutions",
+        "domain": "32",
+        "description": "Develop hybrid computing platforms that integrate quantum and classical resources for scalable cloud solutions.",
+        "keywords": ["Quantum Algorithms", "Quantum Software", "Quantum Hardware", "Hybrid Computing"]
+    },
+    {
+        "id": 3282,
+        "title": "Quantum Machine Learning for Real-Time Analytics",
+        "domain": "32",
+        "description": "Apply quantum machine learning techniques to process and analyze large-scale real-time data efficiently.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Software", "Quantum Applications"]
+    },
+    {
+        "id": 3283,
+        "title": "Quantum Cryptography Protocol Verification",
+        "domain": "32",
+        "description": "Develop methods to verify and validate quantum cryptographic protocols for correctness and security.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Software", "Quantum Hardware"]
+    },
+    {
+        "id": 3284,
+        "title": "Quantum Hardware Emulation for Testing",
+        "domain": "32",
+        "description": "Create emulators to test quantum algorithms on virtual quantum hardware before deploying on physical devices.",
+        "keywords": ["Quantum Hardware", "Quantum Software", "Quantum Algorithms", "NISQ Devices"]
+    },
+    {
+        "id": 3285,
+        "title": "Quantum Simulation of Protein Folding",
+        "domain": "32",
+        "description": "Use quantum computing to simulate protein folding processes to improve understanding of biological functions.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3286,
+        "title": "Quantum Machine Learning for Traffic Control",
+        "domain": "32",
+        "description": "Optimize urban traffic management using quantum-enhanced machine learning for predictive control and routing.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3287,
+        "title": "Quantum Software Deployment Automation",
+        "domain": "32",
+        "description": "Automate the deployment, monitoring, and scaling of quantum software applications across various platforms.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3288,
+        "title": "Quantum Hardware Design for Fault Tolerance",
+        "domain": "32",
+        "description": "Design quantum hardware architectures that maintain high fault tolerance for large-scale computations.",
+        "keywords": ["Quantum Hardware", "Quantum Error Correction", "Quantum Software", "Quantum Algorithms"]
+    },
+    {
+        "id": 3289,
+        "title": "Quantum Simulation for Renewable Energy Systems",
+        "domain": "32",
+        "description": "Simulate renewable energy processes using quantum computing to optimize energy production and storage.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3290,
+        "title": "AI-Enhanced Quantum Machine Learning Models",
+        "domain": "32",
+        "description": "Integrate AI techniques to improve performance, training, and adaptability of quantum machine learning models.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Software", "AI"]
+    },
+    {
+        "id": 3291,
+        "title": "Quantum Networking for Distributed Cloud Systems",
+        "domain": "32",
+        "description": "Develop quantum communication methods to securely connect distributed cloud computing systems.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3292,
+        "title": "Quantum Cryptography for Election Security",
+        "domain": "32",
+        "description": "Design quantum-secure protocols to protect voting systems and election data integrity.",
+        "keywords": ["Quantum Cryptography", "Quantum Networking", "Quantum Applications", "Quantum Hardware"]
+    },
+    {
+        "id": 3293,
+        "title": "Quantum Hardware Performance Monitoring Tools",
+        "domain": "32",
+        "description": "Develop tools to monitor and optimize the performance of quantum hardware in real time.",
+        "keywords": ["Quantum Hardware", "Quantum Software", "Quantum Error Correction", "NISQ Devices"]
+    },
+    {
+        "id": 3294,
+        "title": "Quantum Simulation for Space Mission Design",
+        "domain": "32",
+        "description": "Use quantum simulators to model complex space mission dynamics and optimize spacecraft systems.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3295,
+        "title": "Quantum Machine Learning for Personalized Medicine",
+        "domain": "32",
+        "description": "Apply quantum machine learning to tailor treatments and predict patient-specific health outcomes.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    {
+        "id": 3296,
+        "title": "Quantum Software Testing Automation",
+        "domain": "32",
+        "description": "Automate testing of quantum software for correctness, performance, and compatibility across platforms.",
+        "keywords": ["Quantum Software", "Quantum Algorithms", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3297,
+        "title": "Quantum Hardware for High-Fidelity Quantum Gates",
+        "domain": "32",
+        "description": "Design hardware capable of implementing high-fidelity quantum gates to reduce computation errors.",
+        "keywords": ["Quantum Hardware", "Quantum Algorithms", "Quantum Error Correction", "Quantum Software"]
+    },
+    {
+        "id": 3298,
+        "title": "Quantum Simulation for Urban Planning",
+        "domain": "32",
+        "description": "Use quantum simulation to model urban development, traffic, and resource distribution for optimized city planning.",
+        "keywords": ["Quantum Simulation", "Quantum Algorithms", "Quantum Applications", "Quantum Machine Learning"]
+    },
+    {
+        "id": 3299,
+        "title": "Quantum Networking for Autonomous Vehicle Coordination",
+        "domain": "32",
+        "description": "Enable secure quantum communication between autonomous vehicles for coordinated traffic and safety management.",
+        "keywords": ["Quantum Networking", "Quantum Cryptography", "Quantum Hardware", "Quantum Applications"]
+    },
+    {
+        "id": 3300,
+        "title": "Quantum Machine Learning for Predictive Maintenance",
+        "domain": "32",
+        "description": "Apply quantum machine learning algorithms to predict equipment failures and schedule proactive maintenance.",
+        "keywords": ["Quantum Machine Learning", "Quantum Algorithms", "Quantum Applications", "Quantum Simulation"]
+    },
+    
+
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
