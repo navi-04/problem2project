@@ -20711,27 +20711,286 @@ const PROBLEMS_DATA = {
     },
 
         // VR & METAVERSE (Domain 31)
-        {
-            "id": 3101,
-            "title": "Metaverse Economy Simulator",
-            "domain": "31",
-            "description": "Design a virtual economy system for metaverse platforms that handles digital assets, virtual currencies, and economic interactions.",
-            "keywords": ["Metaverse", "Virtual Economy", "Digital Assets", "Blockchain"]
-        },
-        {
-            "id": 3102,
-            "title": "Avatar Emotion Recognition",
-            "domain": "31",
-            "description": "Build a system that recognizes user emotions and translates them to realistic avatar expressions in virtual environments.",
-            "keywords": ["Avatar Technology", "Emotion Recognition", "Virtual Reality", "Human-Computer Interaction"]
-        },
-        {
-            "id": 3103,
-            "title": "Virtual Collaboration Platform",
-            "domain": "31",
-            "description": "Create an immersive VR platform for remote collaboration with realistic physics, spatial audio, and natural interactions.",
-            "keywords": ["Virtual Collaboration", "Remote Work", "VR", "Spatial Computing"]
-        },
+    {
+        "id": 2965,
+        "title": "AI-Powered Avatar Emotion Recognition",
+        "domain": "31",
+        "description": "Develop AI systems to recognize user emotions and translate them into realistic avatar expressions in virtual environments.",
+        "keywords": ["Virtual Reality", "Avatar Systems", "AI", "Immersive Technology"]
+    },
+    {
+        "id": 2966,
+        "title": "Haptic Feedback Optimization in VR",
+        "domain": "31",
+        "description": "Design and optimize haptic feedback systems for immersive VR experiences to enhance user perception of virtual objects.",
+        "keywords": ["Haptic Feedback", "Virtual Reality", "Immersive Technology", "Spatial Computing"]
+    },
+    {
+        "id": 2967,
+        "title": "AI-Driven Spatial Audio for VR",
+        "domain": "31",
+        "description": "Implement AI-based spatial audio systems to create realistic soundscapes in virtual and mixed reality environments.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Spatial Computing", "AI"]
+    },
+    {
+        "id": 2968,
+        "title": "Cross-Platform Virtual World Synchronization",
+        "domain": "31",
+        "description": "Develop methods to synchronize virtual environments across multiple platforms ensuring real-time interaction.",
+        "keywords": ["Virtual Worlds", "Metaverse", "3D Environments", "Immersive Technology"]
+    },
+    {
+        "id": 2969,
+        "title": "AI-Based Gesture Recognition in VR",
+        "domain": "31",
+        "description": "Create AI models to recognize and interpret user gestures in VR environments for more natural interactions.",
+        "keywords": ["Virtual Reality", "AI", "Spatial Computing", "Immersive Technology"]
+    },
+    {
+        "id": 2970,
+        "title": "Optimizing VR Rendering for Low-Latency Experiences",
+        "domain": "31",
+        "description": "Design algorithms to reduce latency and improve performance in VR rendering for smoother immersive experiences.",
+        "keywords": ["Virtual Reality", "3D Environments", "Spatial Computing", "Immersive Technology"]
+    },
+    {
+        "id": 2971,
+        "title": "Social VR Interaction Analytics",
+        "domain": "31",
+        "description": "Develop analytics tools to study social interactions and behavior within virtual reality platforms.",
+        "keywords": ["Social VR", "Virtual Reality", "Digital Twins", "Immersive Technology"]
+    },
+    {
+        "id": 2972,
+        "title": "AI-Based Object Recognition for AR/VR",
+        "domain": "31",
+        "description": "Implement AI systems to recognize and interact with real-world objects in augmented and virtual reality experiences.",
+        "keywords": ["Augmented Reality", "Virtual Reality", "AI", "Spatial Computing"]
+    },
+    {
+        "id": 2973,
+        "title": "Virtual Tourism in Metaverse",
+        "domain": "31",
+        "description": "Create realistic virtual tours of global landmarks using immersive VR and spatial computing technologies.",
+        "keywords": ["Metaverse", "Virtual Worlds", "Immersive Technology", "3D Environments"]
+    },
+    {
+        "id": 2974,
+        "title": "AI-Powered VR Training Simulations",
+        "domain": "31",
+        "description": "Design VR-based training systems enhanced with AI to adapt difficulty levels and learning experiences in real-time.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "AI", "Digital Twins"]
+    },
+    {
+        "id": 2975,
+        "title": "Virtual Meeting Platforms with Spatial Computing",
+        "domain": "31",
+        "description": "Develop VR meeting platforms using spatial computing to create more natural and interactive remote collaboration.",
+        "keywords": ["Virtual Reality", "Spatial Computing", "Metaverse", "Social VR"]
+    },
+    {
+        "id": 2976,
+        "title": "AI-Enhanced Virtual Reality Storytelling",
+        "domain": "31",
+        "description": "Integrate AI to dynamically adapt narratives and story elements in immersive VR storytelling experiences.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "AI", "3D Environments"]
+    },
+    {
+        "id": 2977,
+        "title": "VR-Based Rehabilitation Systems",
+        "domain": "31",
+        "description": "Develop VR systems for physical and cognitive rehabilitation using immersive and interactive technology.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Haptic Feedback", "Digital Twins"]
+    },
+    {
+        "id": 2978,
+        "title": "Virtual Marketplace for Metaverse Assets",
+        "domain": "31",
+        "description": "Create secure and interactive VR marketplaces for buying, selling, and trading virtual assets in the metaverse.",
+        "keywords": ["Metaverse", "Virtual Worlds", "Immersive Technology", "Digital Twins"]
+    },
+    {
+        "id": 2979,
+        "title": "AI-Powered Realistic Avatar Movement",
+        "domain": "31",
+        "description": "Implement AI algorithms to enhance avatar movement realism and responsiveness in virtual environments.",
+        "keywords": ["Avatar Systems", "Virtual Reality", "AI", "Immersive Technology"]
+    },
+    {
+        "id": 2980,
+        "title": "Virtual Event Hosting in Metaverse",
+        "domain": "31",
+        "description": "Design VR platforms for hosting large-scale virtual events with interactive 3D environments and social VR features.",
+        "keywords": ["Metaverse", "Virtual Worlds", "Social VR", "Immersive Technology"]
+    },
+    {
+        "id": 2981,
+        "title": "AI-Based VR Environment Personalization",
+        "domain": "31",
+        "description": "Develop AI systems to adapt VR environments based on user preferences, behaviors, and interaction history.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "Digital Twins"]
+    },
+    {
+        "id": 2982,
+        "title": "VR Safety and Motion Sickness Mitigation",
+        "domain": "31",
+        "description": "Implement techniques in VR to reduce motion sickness and enhance user comfort during immersive experiences.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Haptic Feedback", "3D Environments"]
+    },
+    {
+        "id": 2983,
+        "title": "Multi-User Immersive VR Classrooms",
+        "domain": "31",
+        "description": "Design VR classrooms that allow multiple users to interact in immersive educational environments.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Social VR", "3D Environments"]
+    },
+    {
+        "id": 2984,
+        "title": "AI-Powered Virtual Object Interaction",
+        "domain": "31",
+        "description": "Develop AI systems enabling realistic interaction with virtual objects in VR and AR spaces.",
+        "keywords": ["Virtual Reality", "Augmented Reality", "AI", "Immersive Technology"]
+    },
+    {
+        "id": 2985,
+        "title": "Metaverse Accessibility for Differently-Abled Users",
+        "domain": "31",
+        "description": "Create inclusive VR/AR systems with adaptive interfaces for users with disabilities in the metaverse.",
+        "keywords": ["Virtual Reality", "Metaverse", "Immersive Technology", "Accessibility"]
+    },
+    {
+        "id": 2986,
+        "title": "Real-Time Multi-Sensory VR Experiences",
+        "domain": "31",
+        "description": "Integrate visual, auditory, and haptic feedback to create fully immersive VR experiences.",
+        "keywords": ["Virtual Reality", "Haptic Feedback", "Immersive Technology", "3D Environments"]
+    },
+    {
+        "id": 2987,
+        "title": "AI-Based Crowd Simulation in VR",
+        "domain": "31",
+        "description": "Simulate realistic crowds and social interactions in VR environments using AI algorithms.",
+        "keywords": ["Virtual Reality", "AI", "Social VR", "Immersive Technology"]
+    },
+    {
+        "id": 2988,
+        "title": "Digital Twin Integration in VR Worlds",
+        "domain": "31",
+        "description": "Develop systems to integrate real-world digital twins into virtual environments for simulation and analysis.",
+        "keywords": ["Digital Twins", "Virtual Worlds", "Immersive Technology", "VR"]
+    },
+    {
+        "id": 2989,
+        "title": "VR-Based Collaborative Design Platforms",
+        "domain": "31",
+        "description": "Create VR platforms that enable collaborative design and prototyping in immersive 3D spaces.",
+        "keywords": ["Virtual Reality", "3D Environments", "Immersive Technology", "Spatial Computing"]
+    },
+    {
+        "id": 2990,
+        "title": "AI-Powered Immersive Language Learning in VR",
+        "domain": "31",
+        "description": "Use VR and AI to create interactive and adaptive language learning experiences in virtual worlds.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "3D Environments"]
+    },
+    {
+        "id": 2991,
+        "title": "Augmented Reality Navigation in Indoor Spaces",
+        "domain": "31",
+        "description": "Develop AR navigation systems for complex indoor environments with spatial computing integration.",
+        "keywords": ["Augmented Reality", "Spatial Computing", "Immersive Technology", "Virtual Reality"]
+    },
+    {
+        "id": 2992,
+        "title": "Metaverse-Based Remote Collaboration Tools",
+        "domain": "31",
+        "description": "Design VR tools for team collaboration with real-time interactions and spatially-aware 3D environments.",
+        "keywords": ["Metaverse", "Virtual Worlds", "Immersive Technology", "Social VR"]
+    },
+    {
+        "id": 2993,
+        "title": "AI-Driven Environmental Interaction in VR",
+        "domain": "31",
+        "description": "Implement AI to enable virtual objects and environments to respond dynamically to user actions.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "3D Environments"]
+    },
+    {
+        "id": 2994,
+        "title": "VR Training Simulations for Emergency Response",
+        "domain": "31",
+        "description": "Create immersive VR simulations for training first responders and emergency personnel.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Digital Twins", "Simulation"]
+    },
+    {
+        "id": 2995,
+        "title": "AI-Based Metaverse Content Moderation",
+        "domain": "31",
+        "description": "Develop AI systems to detect and manage inappropriate content in virtual environments and metaverse platforms.",
+        "keywords": ["Metaverse", "AI", "Virtual Worlds", "Immersive Technology"]
+    },
+    {
+        "id": 2996,
+        "title": "Realistic Water Simulation in VR",
+        "domain": "31",
+        "description": "Design physics-based and AI-enhanced water simulations for realistic interaction in VR worlds.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "3D Environments", "AI"]
+    },
+    {
+        "id": 2997,
+        "title": "AI-Enhanced VR User Engagement Analytics",
+        "domain": "31",
+        "description": "Analyze user behavior and engagement in VR environments using AI to improve design and experience.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "Social VR"]
+    },
+    {
+        "id": 2998,
+        "title": "VR-Based Historical Reconstructions",
+        "domain": "31",
+        "description": "Create accurate historical reconstructions using VR for education and cultural preservation.",
+        "keywords": ["Virtual Reality", "3D Environments", "Immersive Technology", "Digital Twins"]
+    },
+    {
+        "id": 2999,
+        "title": "AI-Powered VR Motion Prediction",
+        "domain": "31",
+        "description": "Predict user movement in VR spaces using AI to improve responsiveness and interaction realism.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "Spatial Computing"]
+    },
+    {
+        "id": 3000,
+        "title": "Immersive VR Storyboarding Tools",
+        "domain": "31",
+        "description": "Develop tools that allow content creators to design and preview VR experiences in immersive 3D space.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "3D Environments", "Digital Twins"]
+    },
+    {
+        "id": 3001,
+        "title": "AI-Driven Virtual Reality Personal Trainers",
+        "domain": "31",
+        "description": "Create VR personal trainer systems using AI to guide exercises and track performance in immersive workouts.",
+        "keywords": ["Virtual Reality", "AI", "Immersive Technology", "Digital Twins"]
+    },
+    {
+        "id": 3002,
+        "title": "Virtual Reality-Based Mental Health Therapy",
+        "domain": "31",
+        "description": "Design VR environments and simulations for therapeutic interventions and mental health support.",
+        "keywords": ["Virtual Reality", "Immersive Technology", "Digital Twins", "Simulation"]
+    },
+    {
+        "id": 3003,
+        "title": "AI-Powered Realistic Facial Animation in VR",
+        "domain": "31",
+        "description": "Develop AI models to generate realistic facial expressions for avatars based on user inputs and emotions.",
+        "keywords": ["Virtual Reality", "AI", "Avatar Systems", "Immersive Technology"]
+    },
+    {
+        "id": 3004,
+        "title": "VR-Based Virtual Co-Working Spaces",
+        "domain": "31",
+        "description": "Create immersive virtual office environments for remote work collaboration and social interaction.",
+        "keywords": ["Virtual Reality", "Social VR", "Immersive Technology", "Virtual Worlds"]
+    },
 
         // QUANTUM COMPUTING (Domain 32)
         {
