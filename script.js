@@ -154,21 +154,6 @@ class Problem2Project {
             });
         });
 
-        // Mobile menu toggle
-        const mobileMenuButton = document.getElementById('mobile-menu-button');
-        const mobileMenu = document.getElementById('mobile-menu');
-        
-        mobileMenuButton?.addEventListener('click', () => {
-            mobileMenu.classList.toggle('hidden');
-        });
-
-        // Close mobile menu when clicking outside
-        document.addEventListener('click', (e) => {
-            if (!mobileMenuButton?.contains(e.target) && !mobileMenu?.contains(e.target)) {
-                mobileMenu?.classList.add('hidden');
-            }
-        });
-
         // Scroll to top button
         const scrollToTopButton = document.getElementById('scrollToTop');
         window.addEventListener('scroll', () => {
@@ -187,16 +172,13 @@ class Problem2Project {
     setupSearch() {
         // Global search overlay
         const searchToggle = document.getElementById('search-toggle');
-        const searchToggleMobile = document.getElementById('search-toggle-mobile');
         const searchOverlay = document.getElementById('search-overlay');
         const searchClose = document.getElementById('search-close');
         const globalSearch = document.getElementById('global-search');
 
-        [searchToggle, searchToggleMobile].forEach(btn => {
-            btn?.addEventListener('click', () => {
-                searchOverlay.classList.remove('hidden');
-                globalSearch.focus();
-            });
+        searchToggle?.addEventListener('click', () => {
+            searchOverlay.classList.remove('hidden');
+            globalSearch.focus();
         });
 
         searchClose?.addEventListener('click', () => {
@@ -375,11 +357,11 @@ class Problem2Project {
         });
 
         // Bookmarks overlay for mobile
-        const bookmarksToggleMobile = document.getElementById('bookmarks-toggle-mobile');
+        const bookmarksToggleMobileBottom = document.getElementById('bookmarks-toggle-mobile-bottom');
         const bookmarksOverlay = document.getElementById('bookmarks-overlay');
         const bookmarksClose = document.getElementById('bookmarks-close');
         
-        bookmarksToggleMobile?.addEventListener('click', () => {
+        bookmarksToggleMobileBottom?.addEventListener('click', () => {
             this.showBookmarksOverlay();
         });
         
@@ -1156,16 +1138,16 @@ class Problem2Project {
     updateBookmarkCounts() {
         const count = this.bookmarkedProblems.length;
         const countElement = document.getElementById('bookmarks-count');
-        const countElementMobile = document.getElementById('bookmarks-count-mobile');
+        const countElementMobileBottom = document.getElementById('bookmarks-count-mobile-bottom');
         
         if (count > 0) {
             countElement?.classList.remove('hidden');
-            countElementMobile?.classList.remove('hidden');
+            countElementMobileBottom?.classList.remove('hidden');
             if (countElement) countElement.textContent = count;
-            if (countElementMobile) countElementMobile.textContent = count;
+            if (countElementMobileBottom) countElementMobileBottom.textContent = count;
         } else {
             countElement?.classList.add('hidden');
-            countElementMobile?.classList.add('hidden');
+            countElementMobileBottom?.classList.add('hidden');
         }
     }
 
