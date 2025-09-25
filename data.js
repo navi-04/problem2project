@@ -23403,6 +23403,1413 @@ const PROBLEMS_DATA = {
         "description": "Design translation AI that avoids cultural or gender biases, ensuring inclusivity in multilingual communication.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
+    // domain 35
+  {
+    "id": 3401,
+    "title": "Neural Signal Emotion Decoder",
+    "domain": "35",
+    "description": "Develop a BCI system that decodes neural activity to detect human emotional states for applications in therapy and human-computer interaction.",
+    "keywords": ["BCI", "Emotion Recognition", "Neuroscience", "Neural Decoding"]
+  },
+  {
+    "id": 3402,
+    "title": "Brain-Controlled Prosthetic Arm",
+    "domain": "35",
+    "description": "Design a prosthetic arm that responds to real-time brain signals, allowing users to control movement through thought.",
+    "keywords": ["Prosthetics", "Brain Signals", "Motor Control", "Rehabilitation"]
+  },
+  {
+    "id": 3403,
+    "title": "Neural Gaming Interface",
+    "domain": "35",
+    "description": "Create a gaming platform controlled entirely by brain activity, offering immersive experiences without traditional controllers.",
+    "keywords": ["BCI Gaming", "Immersive Experience", "Neural Interaction", "Entertainment Tech"]
+  },
+  {
+    "id": 3404,
+    "title": "Cognitive Load Monitor",
+    "domain": "35",
+    "description": "Develop a system that monitors cognitive load through neural signals to optimize learning and productivity.",
+    "keywords": ["Cognitive Science", "Brain Signals", "Education Technology", "Performance Monitoring"]
+  },
+  {
+    "id": 3405,
+    "title": "EEG-Based Lie Detection",
+    "domain": "35",
+    "description": "Design a non-invasive lie detection system that analyzes brainwave activity to identify deceptive behavior.",
+    "keywords": ["EEG", "Neuroscience", "Truth Detection", "Cognitive Analysis"]
+  },
+  {
+    "id": 3406,
+    "title": "Dream Visualization Engine",
+    "domain": "35",
+    "description": "Build a system that reconstructs dream content by analyzing brainwave patterns during REM sleep.",
+    "keywords": ["Dream Analysis", "Brainwaves", "Neural Decoding", "Sleep Science"]
+  },
+  {
+    "id": 3407,
+    "title": "BCI-Assisted Rehabilitation Robot",
+    "domain": "35",
+    "description": "Create a robotic rehabilitation device controlled by brain signals to assist stroke patients in regaining motor functions.",
+    "keywords": ["Rehabilitation", "Neuro-Robotics", "Stroke Recovery", "BCI"]
+  },
+  {
+    "id": 3408,
+    "title": "Neural Signal-Based Password System",
+    "domain": "35",
+    "description": "Develop a secure authentication system where users log in using unique neural signal patterns.",
+    "keywords": ["Cybersecurity", "Neural Biometrics", "Authentication", "BCI Security"]
+  },
+  {
+    "id": 3409,
+    "title": "Brain-Controlled Wheelchair",
+    "domain": "35",
+    "description": "Design a wheelchair that can be navigated through real-time brain activity, enhancing mobility for disabled individuals.",
+    "keywords": ["Assistive Tech", "Mobility", "BCI Control", "Neuroengineering"]
+  },
+  {
+    "id": 3410,
+    "title": "Neurofeedback Anxiety Reduction",
+    "domain": "35",
+    "description": "Develop a neurofeedback system that helps reduce anxiety by training individuals to modulate their own brain activity.",
+    "keywords": ["Neurofeedback", "Mental Health", "Anxiety Management", "Neuroscience"]
+  },
+  {
+    "id": 3411,
+    "title": "Brain-to-Brain Communication System",
+    "domain": "35",
+    "description": "Create a communication system where brain activity from one individual can transmit messages directly to another brain.",
+    "keywords": ["BCI", "Communication", "Neural Signals", "Neuroscience"]
+  },
+  {
+    "id": 3412,
+    "title": "Epileptic Seizure Predictor",
+    "domain": "35",
+    "description": "Develop a BCI system that detects and predicts epileptic seizures before they occur by monitoring brainwave patterns.",
+    "keywords": ["Epilepsy", "Seizure Prediction", "EEG Monitoring", "Healthcare"]
+  },
+  {
+    "id": 3413,
+    "title": "Neural Music Composer",
+    "domain": "35",
+    "description": "Design a system that translates brain signals into musical compositions, allowing users to create music with thought.",
+    "keywords": ["BCI Music", "Neural Signals", "Creativity", "Art-Tech"]
+  },
+  {
+    "id": 3414,
+    "title": "Attention Span Tracker",
+    "domain": "35",
+    "description": "Build a BCI-based tool that tracks and visualizes attention span in real-time for educational applications.",
+    "keywords": ["Learning", "BCI Monitoring", "Education", "Neural Data"]
+  },
+  {
+    "id": 3415,
+    "title": "Brainwave-Controlled Drone",
+    "domain": "35",
+    "description": "Create a drone controlled entirely through brain signals, useful for hands-free navigation in dangerous environments.",
+    "keywords": ["Drone Tech", "BCI Control", "Hands-Free Navigation", "Safety"]
+  },
+  {
+    "id": 3416,
+    "title": "Memory Enhancement Stimulator",
+    "domain": "35",
+    "description": "Design a non-invasive BCI system to enhance memory retention through neural stimulation techniques.",
+    "keywords": ["Memory Boost", "Neurostimulation", "Cognitive Science", "BCI"]
+  },
+  {
+    "id": 3417,
+    "title": "Brain-Driven Virtual Reality",
+    "domain": "35",
+    "description": "Develop a VR environment that responds directly to users’ brain activity, creating adaptive immersive experiences.",
+    "keywords": ["VR", "BCI", "Immersive Tech", "Neural Interaction"]
+  },
+  {
+    "id": 3418,
+    "title": "Sleep Quality Analyzer",
+    "domain": "35",
+    "description": "Create a system that measures and analyzes neural signals to assess and improve sleep quality.",
+    "keywords": ["Sleep Science", "EEG Analysis", "Wellness", "Healthcare"]
+  },
+  {
+    "id": 3419,
+    "title": "Brain-Controlled Art Painter",
+    "domain": "35",
+    "description": "Design a system that converts brain activity into brush strokes, allowing users to paint digitally with thought.",
+    "keywords": ["Art-Tech", "BCI Creativity", "Digital Art", "Neural Signals"]
+  },
+  {
+    "id": 3420,
+    "title": "Cognitive Fatigue Detector",
+    "domain": "35",
+    "description": "Develop a system that detects fatigue by analyzing brainwave patterns to improve safety in high-risk jobs.",
+    "keywords": ["Cognitive Science", "Neural Monitoring", "Workplace Safety", "Fatigue Detection"]
+  },
+  {
+    "id": 3421,
+    "title": "Brain Signal Encryption",
+    "domain": "35",
+    "description": "Build a system that encrypts neural signals to ensure privacy in BCI-based communication systems.",
+    "keywords": ["Cybersecurity", "Neural Privacy", "Encryption", "BCI Security"]
+  },
+  {
+    "id": 3422,
+    "title": "Adaptive Learning Assistant",
+    "domain": "35",
+    "description": "Design an AI tutor that adapts to students’ brain activity, adjusting learning pace based on cognitive engagement.",
+    "keywords": ["EdTech", "BCI Learning", "Personalized Education", "Neural Feedback"]
+  },
+  {
+    "id": 3423,
+    "title": "Brain-Controlled Smart Home",
+    "domain": "35",
+    "description": "Develop a smart home automation system that can be controlled using thought-based commands.",
+    "keywords": ["Smart Home", "BCI Control", "IoT", "Assistive Tech"]
+  },
+  {
+    "id": 3424,
+    "title": "PTSD Therapy via Neurofeedback",
+    "domain": "35",
+    "description": "Create a neurofeedback-based therapy tool to help PTSD patients regulate brain activity and reduce symptoms.",
+    "keywords": ["Mental Health", "PTSD Treatment", "Neurofeedback", "Therapy"]
+  },
+  {
+    "id": 3425,
+    "title": "Brain-Signal Controlled Exoskeleton",
+    "domain": "35",
+    "description": "Design an exoskeleton powered by brain signals to restore mobility for paralyzed patients.",
+    "keywords": ["Exoskeletons", "BCI Mobility", "Rehabilitation", "Neuroengineering"]
+  },
+  {
+    "id": 3426,
+    "title": "Focus Enhancement BCI",
+    "domain": "35",
+    "description": "Build a wearable BCI device that enhances concentration by providing real-time neurofeedback cues.",
+    "keywords": ["Focus", "Neurofeedback", "Wearable Tech", "Cognitive Enhancement"]
+  },
+  {
+    "id": 3427,
+    "title": "Neural Signature Authentication",
+    "domain": "35",
+    "description": "Develop a biometric authentication system based on unique brainwave patterns of individuals.",
+    "keywords": ["Biometrics", "Neural Authentication", "Cybersecurity", "EEG"]
+  },
+  {
+    "id": 3428,
+    "title": "Brain-Controlled Musical Instrument",
+    "domain": "35",
+    "description": "Create a digital instrument that users can play and compose music with using their brain signals.",
+    "keywords": ["Music", "BCI", "Creativity", "Digital Instruments"]
+  },
+  {
+    "id": 3429,
+    "title": "Mental Workload Analyzer",
+    "domain": "35",
+    "description": "Design a tool that assesses mental workload levels through EEG signals for workplace efficiency studies.",
+    "keywords": ["Cognitive Science", "Workload Analysis", "EEG", "Productivity"]
+  },
+  {
+    "id": 3430,
+    "title": "Brain-Controlled Sign Language Generator",
+    "domain": "35",
+    "description": "Develop a system that converts brain activity into sign language gestures to assist communication for disabled users.",
+    "keywords": ["Sign Language", "Communication", "BCI", "Assistive Tech"]
+  },
+  {
+    "id": 3431,
+    "title": "Neuro-Marketing Analyzer",
+    "domain": "35",
+    "description": "Create a tool that measures consumer neural responses to advertisements to optimize marketing strategies.",
+    "keywords": ["Marketing", "Neural Analysis", "Consumer Behavior", "Neuromarketing"]
+  },
+  {
+    "id": 3432,
+    "title": "Brain-Controlled Robotic Arm for Surgery",
+    "domain": "35",
+    "description": "Design a robotic surgical assistant that responds to surgeons’ brain signals for precision operations.",
+    "keywords": ["Surgery", "Neuro-Robotics", "BCI Precision", "Healthcare"]
+  },
+  {
+    "id": 3433,
+    "title": "Real-Time Neural Translator",
+    "domain": "35",
+    "description": "Build a translator that interprets brain signals directly into spoken language in real time.",
+    "keywords": ["Translation", "BCI Communication", "Neural Decoding", "AI Language"]
+  },
+  {
+    "id": 3434,
+    "title": "Brain-Controlled Rehabilitation Game",
+    "domain": "35",
+    "description": "Create a gamified rehabilitation platform where patients use brain signals to interact with therapy exercises.",
+    "keywords": ["Rehabilitation", "Gaming", "BCI Therapy", "Healthcare"]
+  },
+  {
+    "id": 3435,
+    "title": "Mind-Powered Writing Assistant",
+    "domain": "35",
+    "description": "Develop a system where users can write documents by transmitting thoughts directly into text.",
+    "keywords": ["BCI Writing", "Assistive Tech", "Neural Input", "Productivity"]
+  },
+  {
+    "id": 3436,
+    "title": "Brain-Controlled Wheelchair Swarm",
+    "domain": "35",
+    "description": "Design a system where multiple wheelchairs are coordinated and controlled through users’ brain activity.",
+    "keywords": ["Swarm Robotics", "BCI Mobility", "Assistive Devices", "Neural Signals"]
+  },
+  {
+    "id": 3437,
+    "title": "Neural Signature Lie Detection",
+    "domain": "35",
+    "description": "Create a system that identifies lies through unique brainwave responses rather than physical indicators.",
+    "keywords": ["Neural Forensics", "Truth Detection", "EEG", "Cognitive Science"]
+  },
+  {
+    "id": 3438,
+    "title": "Brain-Controlled Virtual Keyboard",
+    "domain": "35",
+    "description": "Build a virtual keyboard controlled by neural signals for hands-free communication.",
+    "keywords": ["Virtual Keyboard", "BCI Communication", "Assistive Tech", "EEG"]
+  },
+  {
+    "id": 3439,
+    "title": "Cognitive Bias Detector",
+    "domain": "35",
+    "description": "Design a neuroscience system that identifies cognitive biases in decision-making by analyzing neural patterns.",
+    "keywords": ["Cognitive Science", "Bias Detection", "Decision-Making", "Neural Data"]
+  },
+  {
+    "id": 3440,
+    "title": "Brain-Controlled Robotic Swarm",
+    "domain": "35",
+    "description": "Create a system where multiple robots act together in response to user brain signals for collaborative tasks.",
+    "keywords": ["Swarm Robotics", "BCI Control", "Collaboration", "Robotics"]
+  },
+  {
+    "id": 3441,
+    "title": "BCI-Based Pain Management System",
+    "domain": "35",
+    "description": "Develop a system that reduces patient pain perception using brainwave modulation techniques.",
+    "keywords": ["Pain Management", "Healthcare", "Neurofeedback", "BCI"]
+  },
+  {
+    "id": 3442,
+    "title": "Brain-Controlled 3D Printer",
+    "domain": "35",
+    "description": "Design a 3D printing system where users control designs and printing through brain signals.",
+    "keywords": ["3D Printing", "BCI Creativity", "Digital Fabrication", "Neuroengineering"]
+  },
+  {
+    "id": 3443,
+    "title": "BCI-Based Stress Monitor",
+    "domain": "35",
+    "description": "Build a stress monitoring system that provides feedback and relaxation exercises based on neural activity.",
+    "keywords": ["Stress Monitoring", "Neurofeedback", "Mental Health", "BCI"]
+  },
+  {
+    "id": 3444,
+    "title": "Brain-Driven AI Assistant",
+    "domain": "35",
+    "description": "Create an AI assistant that responds directly to brain signals instead of voice or touch commands.",
+    "keywords": ["AI Assistant", "BCI Control", "Human-Computer Interaction", "Neuroengineering"]
+  },
+  {
+    "id": 3445,
+    "title": "Mind-Powered Robotics for Disaster Relief",
+    "domain": "35",
+    "description": "Design robots controlled by brain activity to perform search and rescue operations in disaster zones.",
+    "keywords": ["Disaster Relief", "BCI Robotics", "Safety", "Emergency Tech"]
+  },
+  {
+    "id": 3446,
+    "title": "BCI-Based Learning Disability Support",
+    "domain": "35",
+    "description": "Develop a system that helps children with learning disabilities by adapting lessons based on brain activity.",
+    "keywords": ["EdTech", "Learning Disabilities", "Adaptive Learning", "Neurofeedback"]
+  },
+  {
+    "id": 3447,
+    "title": "Brainwave-Based Mental Health Tracker",
+    "domain": "35",
+    "description": "Create a wearable device that tracks mental health conditions like depression and anxiety using neural signals.",
+    "keywords": ["Mental Health", "Wearable Tech", "EEG", "Wellness"]
+  },
+  {
+    "id": 3448,
+    "title": "BCI-Powered Drone Swarm",
+    "domain": "35",
+    "description": "Design a drone swarm system navigated and coordinated through human brain activity.",
+    "keywords": ["Drone Swarm", "BCI Navigation", "Robotics", "Neuroengineering"]
+  },
+  {
+    "id": 3449,
+    "title": "Neuroplasticity Training Platform",
+    "domain": "35",
+    "description": "Build a system that promotes neuroplasticity using brain-computer interfaces for cognitive recovery and growth.",
+    "keywords": ["Neuroplasticity", "BCI Therapy", "Cognitive Training", "Rehabilitation"]
+  },
+  {
+    "id": 3450,
+    "title": "Brain-Controlled Hologram Interaction",
+    "domain": "35",
+    "description": "Develop a holographic display system that users can manipulate and interact with using brain signals.",
+    "keywords": ["Holograms", "BCI Interaction", "Immersive Tech", "Neuroengineering"]
+  },
+
+  // domain 36
+  {
+    "id": 3451,
+    "title": "Synthetic Microbial Factories",
+    "domain": "36",
+    "description": "Design genetically engineered microbes to produce high-value chemicals, biofuels, or pharmaceuticals efficiently.",
+    "keywords": ["Synthetic Biology", "Metabolic Engineering", "Microbial Factories", "Biotechnology"]
+  },
+  {
+    "id": 3452,
+    "title": "Programmable Genetic Circuits",
+    "domain": "36",
+    "description": "Develop synthetic genetic circuits that can perform logical operations inside living cells for biomedical applications.",
+    "keywords": ["Genetic Circuits", "Synthetic Biology", "Cellular Computation", "Bioengineering"]
+  },
+  {
+    "id": 3453,
+    "title": "Bio-Printed Tissue Constructs",
+    "domain": "36",
+    "description": "Create 3D bioprinted tissue models using synthetic cells for drug testing and regenerative medicine.",
+    "keywords": ["Bioprinting", "Tissue Engineering", "Synthetic Cells", "Biomedical Applications"]
+  },
+  {
+    "id": 3454,
+    "title": "Synthetic Probiotics for Gut Health",
+    "domain": "36",
+    "description": "Engineer probiotics with synthetic pathways to enhance gut health and combat gastrointestinal diseases.",
+    "keywords": ["Probiotics", "Synthetic Biology", "Gut Microbiome", "Health"]
+  },
+  {
+    "id": 3455,
+    "title": "DNA-Based Data Storage System",
+    "domain": "36",
+    "description": "Develop a method for encoding digital data into synthetic DNA molecules for high-density, long-term storage.",
+    "keywords": ["DNA Storage", "Synthetic Biology", "Bioinformatics", "Data Storage"]
+  },
+  {
+    "id": 3456,
+    "title": "Artificial Photosynthesis Modules",
+    "domain": "36",
+    "description": "Design synthetic biological systems that mimic photosynthesis for sustainable energy production.",
+    "keywords": ["Artificial Photosynthesis", "Bioengineering", "Renewable Energy", "Synthetic Biology"]
+  },
+  {
+    "id": 3457,
+    "title": "Programmable Biosensors",
+    "domain": "36",
+    "description": "Develop synthetic biosensors that detect specific molecules or pathogens with high sensitivity.",
+    "keywords": ["Biosensors", "Synthetic Biology", "Diagnostics", "Bioengineering"]
+  },
+  {
+    "id": 3458,
+    "title": "Synthetic Gene Therapy Vectors",
+    "domain": "36",
+    "description": "Design synthetic viral or non-viral vectors for targeted gene therapy with improved safety and efficiency.",
+    "keywords": ["Gene Therapy", "Synthetic Biology", "Vectors", "Medical Biotechnology"]
+  },
+  {
+    "id": 3459,
+    "title": "Engineered Synthetic Enzymes",
+    "domain": "36",
+    "description": "Create novel enzymes through synthetic biology approaches for industrial catalysis or bioremediation.",
+    "keywords": ["Enzyme Engineering", "Synthetic Biology", "Catalysis", "Bioremediation"]
+  },
+  {
+    "id": 3460,
+    "title": "Synthetic Viral Attenuation Platforms",
+    "domain": "36",
+    "description": "Develop synthetic viral genomes with controlled attenuation for vaccine development.",
+    "keywords": ["Vaccines", "Synthetic Biology", "Virus Engineering", "Immunology"]
+  },
+  {
+    "id": 3461,
+    "title": "Designer Microbiomes for Agriculture",
+    "domain": "36",
+    "description": "Engineer synthetic microbial communities to enhance plant growth and resist pests.",
+    "keywords": ["Agriculture", "Microbiome Engineering", "Synthetic Biology", "Sustainable Farming"]
+  },
+  {
+    "id": 3462,
+    "title": "Synthetic Biofuel Pathways",
+    "domain": "36",
+    "description": "Create synthetic metabolic pathways in microorganisms to efficiently produce biofuels.",
+    "keywords": ["Biofuels", "Metabolic Engineering", "Synthetic Biology", "Renewable Energy"]
+  },
+  {
+    "id": 3463,
+    "title": "Programmable RNA Regulators",
+    "domain": "36",
+    "description": "Design synthetic RNA molecules that regulate gene expression for therapeutic or industrial applications.",
+    "keywords": ["RNA Engineering", "Synthetic Biology", "Gene Regulation", "Therapeutics"]
+  },
+  {
+    "id": 3464,
+    "title": "Synthetic Antimicrobial Peptides",
+    "domain": "36",
+    "description": "Develop engineered peptides to combat antibiotic-resistant bacteria.",
+    "keywords": ["Antimicrobials", "Synthetic Biology", "Drug Design", "Healthcare"]
+  },
+  {
+    "id": 3465,
+    "title": "Cell-Free Synthetic Systems",
+    "domain": "36",
+    "description": "Build cell-free synthetic biology platforms to produce proteins and metabolites without live cells.",
+    "keywords": ["Cell-Free Systems", "Synthetic Biology", "Biomanufacturing", "Bioengineering"]
+  },
+  {
+    "id": 3466,
+    "title": "Synthetic Biomaterial Scaffolds",
+    "domain": "36",
+    "description": "Design synthetic biomaterials for tissue regeneration and biomedical implants.",
+    "keywords": ["Biomaterials", "Synthetic Biology", "Tissue Engineering", "Regenerative Medicine"]
+  },
+  {
+    "id": 3467,
+    "title": "Programmable Synthetic Viruses",
+    "domain": "36",
+    "description": "Create safe, programmable viruses for targeted delivery of therapeutics or vaccines.",
+    "keywords": ["Synthetic Viruses", "Gene Delivery", "Synthetic Biology", "Medicine"]
+  },
+  {
+    "id": 3468,
+    "title": "Engineered Bioluminescent Systems",
+    "domain": "36",
+    "description": "Design synthetic organisms that produce bioluminescence for environmental sensing and research.",
+    "keywords": ["Bioluminescence", "Synthetic Biology", "Biosensors", "Environmental Monitoring"]
+  },
+  {
+    "id": 3469,
+    "title": "Synthetic Epigenetic Modulators",
+    "domain": "36",
+    "description": "Develop synthetic tools to precisely modify epigenetic marks for gene regulation studies.",
+    "keywords": ["Epigenetics", "Synthetic Biology", "Gene Regulation", "Biotechnology"]
+  },
+  {
+    "id": 3470,
+    "title": "Programmable Bacterial Consortia",
+    "domain": "36",
+    "description": "Engineer synthetic microbial consortia for cooperative production of complex biochemicals.",
+    "keywords": ["Microbial Consortia", "Synthetic Biology", "Metabolic Engineering", "Biomanufacturing"]
+  },
+  {
+    "id": 3471,
+    "title": "Synthetic Immune Modulators",
+    "domain": "36",
+    "description": "Design synthetic molecules or cells to modulate immune responses for therapy.",
+    "keywords": ["Immunotherapy", "Synthetic Biology", "Immune Modulation", "Biotechnology"]
+  },
+  {
+    "id": 3472,
+    "title": "Artificial Photosynthetic Microbes",
+    "domain": "36",
+    "description": "Engineer microbes capable of converting sunlight and CO2 into valuable compounds efficiently.",
+    "keywords": ["Photosynthesis", "Synthetic Biology", "Biofuels", "Microbial Engineering"]
+  },
+  {
+    "id": 3473,
+    "title": "Synthetic Vaccine Platforms",
+    "domain": "36",
+    "description": "Develop synthetic biology platforms for rapid vaccine development and testing.",
+    "keywords": ["Vaccines", "Synthetic Biology", "Immunology", "Biotechnology"]
+  },
+  {
+    "id": 3474,
+    "title": "Genetically Encoded Biosensors",
+    "domain": "36",
+    "description": "Create synthetic genetically encoded sensors for detecting cellular metabolites or toxins.",
+    "keywords": ["Biosensors", "Synthetic Biology", "Metabolite Detection", "Bioengineering"]
+  },
+  {
+    "id": 3475,
+    "title": "Programmable Synthetic Organelles",
+    "domain": "36",
+    "description": "Design synthetic organelles within cells to perform specialized biochemical functions.",
+    "keywords": ["Synthetic Organelles", "Cell Engineering", "Synthetic Biology", "Biotechnology"]
+  },
+  {
+    "id": 3476,
+    "title": "Engineered Microbial Pathways for Plastics",
+    "domain": "36",
+    "description": "Develop microbes to synthesize biodegradable plastics from renewable feedstocks.",
+    "keywords": ["Bioplastics", "Synthetic Biology", "Metabolic Engineering", "Sustainable Materials"]
+  },
+  {
+    "id": 3477,
+    "title": "Synthetic Hormone Production Systems",
+    "domain": "36",
+    "description": "Create engineered cells to produce hormones for therapeutic applications.",
+    "keywords": ["Hormone Synthesis", "Synthetic Biology", "Biopharmaceuticals", "Cell Engineering"]
+  },
+  {
+    "id": 3478,
+    "title": "Artificial Microbial Ecosystems",
+    "domain": "36",
+    "description": "Construct synthetic microbial ecosystems to study ecological interactions in controlled environments.",
+    "keywords": ["Synthetic Ecology", "Microbiomes", "Synthetic Biology", "Environmental Biotechnology"]
+  },
+  {
+    "id": 3479,
+    "title": "Programmable Metabolic Switches",
+    "domain": "36",
+    "description": "Design synthetic switches to control metabolic fluxes dynamically in microorganisms.",
+    "keywords": ["Metabolic Engineering", "Synthetic Biology", "Gene Regulation", "Biomanufacturing"]
+  },
+  {
+    "id": 3480,
+    "title": "Synthetic Neurotransmitter Production",
+    "domain": "36",
+    "description": "Engineer cells to produce neurotransmitters for therapeutic or research applications.",
+    "keywords": ["Neurotransmitters", "Synthetic Biology", "Biotechnology", "Neuroscience"]
+  },
+  {
+    "id": 3481,
+    "title": "Designer Microbes for Soil Remediation",
+    "domain": "36",
+    "description": "Develop synthetic microbes capable of breaking down pollutants in soil.",
+    "keywords": ["Bioremediation", "Synthetic Biology", "Environmental Biotechnology", "Microbial Engineering"]
+  },
+  {
+    "id": 3482,
+    "title": "Synthetic Enzyme Cascades",
+    "domain": "36",
+    "description": "Build multi-enzyme synthetic pathways for efficient production of pharmaceuticals or chemicals.",
+    "keywords": ["Enzyme Engineering", "Synthetic Biology", "Biomanufacturing", "Catalysis"]
+  },
+  {
+    "id": 3483,
+    "title": "Programmable Gene Knock-in Systems",
+    "domain": "36",
+    "description": "Develop synthetic tools to precisely insert genes into host genomes for research or therapy.",
+    "keywords": ["Gene Editing", "Synthetic Biology", "CRISPR", "Biotechnology"]
+  },
+  {
+    "id": 3484,
+    "title": "Synthetic Antibody Production Platforms",
+    "domain": "36",
+    "description": "Engineer synthetic cells to produce monoclonal antibodies for diagnostics or therapeutics.",
+    "keywords": ["Antibodies", "Synthetic Biology", "Biopharmaceuticals", "Immunology"]
+  },
+  {
+    "id": 3485,
+    "title": "Artificial Photosynthetic Biofilms",
+    "domain": "36",
+    "description": "Create engineered biofilms capable of converting CO2 to useful organic compounds using sunlight.",
+    "keywords": ["Biofilms", "Synthetic Biology", "Photosynthesis", "Environmental Biotechnology"]
+  },
+  {
+    "id": 3486,
+    "title": "Synthetic Bioluminescent Pathways",
+    "domain": "36",
+    "description": "Design organisms with synthetic bioluminescent pathways for biosensing and imaging applications.",
+    "keywords": ["Bioluminescence", "Synthetic Biology", "Bioimaging", "Biosensors"]
+  },
+  {
+    "id": 3487,
+    "title": "Programmable Synthetic Immune Cells",
+    "domain": "36",
+    "description": "Engineer immune cells with synthetic pathways for targeted cancer immunotherapy.",
+    "keywords": ["Immunotherapy", "Synthetic Biology", "Cell Engineering", "Cancer Treatment"]
+  },
+  {
+    "id": 3488,
+    "title": "Synthetic Metabolic Enhancers",
+    "domain": "36",
+    "description": "Design molecules that boost metabolic activity in engineered cells for industrial production.",
+    "keywords": ["Metabolic Engineering", "Synthetic Biology", "Biomanufacturing", "Enzyme Enhancement"]
+  },
+  {
+    "id": 3489,
+    "title": "Artificial Cell-Cell Communication",
+    "domain": "36",
+    "description": "Create synthetic signaling pathways to enable communication between engineered cells.",
+    "keywords": ["Cell Signaling", "Synthetic Biology", "Bioengineering", "Cell Communication"]
+  },
+  {
+    "id": 3490,
+    "title": "Synthetic Bioelectronic Interfaces",
+    "domain": "36",
+    "description": "Develop interfaces connecting synthetic biological systems with electronic devices for sensing or control.",
+    "keywords": ["Bioelectronics", "Synthetic Biology", "Biosensors", "Biotechnology"]
+  },
+  {
+    "id": 3491,
+    "title": "Programmable Synthetic Photoswitches",
+    "domain": "36",
+    "description": "Design light-responsive synthetic molecules to control cellular processes with high precision.",
+    "keywords": ["Photoswitches", "Synthetic Biology", "Optogenetics", "Bioengineering"]
+  },
+  {
+    "id": 3492,
+    "title": "Synthetic Cell Factories for Rare Compounds",
+    "domain": "36",
+    "description": "Engineer cells to produce rare or expensive natural compounds synthetically.",
+    "keywords": ["Synthetic Biology", "Metabolic Engineering", "Biomanufacturing", "Bioactive Compounds"]
+  },
+  {
+    "id": 3493,
+    "title": "Artificial Nitrogen-Fixing Microbes",
+    "domain": "36",
+    "description": "Create synthetic microbes capable of fixing atmospheric nitrogen for sustainable agriculture.",
+    "keywords": ["Nitrogen Fixation", "Synthetic Biology", "Agriculture", "Microbial Engineering"]
+  },
+  {
+    "id": 3494,
+    "title": "Synthetic Biopolymer Production",
+    "domain": "36",
+    "description": "Develop engineered systems to produce biodegradable polymers from renewable resources.",
+    "keywords": ["Biopolymers", "Synthetic Biology", "Sustainable Materials", "Bioengineering"]
+  },
+  {
+    "id": 3495,
+    "title": "Programmable Synthetic Epigenomes",
+    "domain": "36",
+    "description": "Engineer synthetic epigenetic modifications to regulate gene expression predictably in cells.",
+    "keywords": ["Epigenetics", "Synthetic Biology", "Gene Regulation", "Cell Engineering"]
+  },
+  {
+    "id": 3496,
+    "title": "Synthetic Pathways for Anticancer Compounds",
+    "domain": "36",
+    "description": "Design microbial systems to produce complex anticancer molecules efficiently.",
+    "keywords": ["Cancer Therapy", "Synthetic Biology", "Metabolic Engineering", "Drug Production"]
+  },
+  {
+    "id": 3497,
+    "title": "Artificial Microbial Sensors for Pollution",
+    "domain": "36",
+    "description": "Develop synthetic microbial sensors to detect environmental pollutants with high sensitivity.",
+    "keywords": ["Biosensors", "Synthetic Biology", "Environmental Monitoring", "Microbial Engineering"]
+  },
+  {
+    "id": 3498,
+    "title": "Synthetic Organ-on-a-Chip Systems",
+    "domain": "36",
+    "description": "Create microfluidic organ models using synthetic biology for drug testing and disease modeling.",
+    "keywords": ["Organ-on-Chip", "Synthetic Biology", "Microfluidics", "Drug Testing"]
+  },
+  {
+    "id": 3499,
+    "title": "Programmable Microbial Therapeutics",
+    "domain": "36",
+    "description": "Engineer synthetic microbes to deliver therapeutic molecules in a controlled manner in the human body.",
+    "keywords": ["Microbial Therapeutics", "Synthetic Biology", "Medicine", "Biotechnology"]
+  },
+  {
+    "id": 3500,
+    "title": "Synthetic Bioreactor Optimization",
+    "domain": "36",
+    "description": "Design synthetic biology-driven bioreactors for enhanced production of biomolecules.",
+    "keywords": ["Bioreactors", "Synthetic Biology", "Biomanufacturing", "Optimization"]
+  },
+  // domain 37
+  {
+    "id": 3501,
+    "title": "Autonomous Planetary Rover Navigation",
+    "domain": "37",
+    "description": "Develop an AI-driven rover capable of navigating unknown planetary terrains autonomously.",
+    "keywords": ["Rover Navigation", "Space Exploration", "Autonomous Systems", "AI"]
+  },
+  {
+    "id": 3502,
+    "title": "Space Debris Tracking System",
+    "domain": "37",
+    "description": "Design a system to detect, track, and predict the trajectory of space debris to prevent satellite collisions.",
+    "keywords": ["Space Debris", "Satellite Safety", "Tracking Systems", "Space Technology"]
+  },
+  {
+    "id": 3503,
+    "title": "Extraterrestrial Habitat Design",
+    "domain": "37",
+    "description": "Create sustainable habitats for human colonization on the Moon or Mars using innovative materials.",
+    "keywords": ["Space Habitat", "Sustainability", "Extraterrestrial Living", "Materials Engineering"]
+  },
+  {
+    "id": 3504,
+    "title": "Satellite-Based Climate Monitoring",
+    "domain": "37",
+    "description": "Develop satellites capable of providing real-time monitoring of climate changes and natural disasters.",
+    "keywords": ["Climate Monitoring", "Satellites", "Earth Observation", "Remote Sensing"]
+  },
+  {
+    "id": 3505,
+    "title": "Asteroid Mining Robotics",
+    "domain": "37",
+    "description": "Design robotic systems to extract minerals and resources from asteroids in a space environment.",
+    "keywords": ["Asteroid Mining", "Space Robotics", "Resource Extraction", "Space Exploration"]
+  },
+  {
+    "id": 3506,
+    "title": "In-Situ Resource Utilization (ISRU)",
+    "domain": "37",
+    "description": "Develop technologies to use local resources on other planets for fuel, water, and construction materials.",
+    "keywords": ["ISRU", "Planetary Resources", "Space Technology", "Sustainability"]
+  },
+  {
+    "id": 3507,
+    "title": "Space-Based Solar Power Systems",
+    "domain": "37",
+    "description": "Design orbiting solar arrays that can efficiently collect and transmit energy back to Earth.",
+    "keywords": ["Solar Power", "Space Energy", "Renewable Energy", "Orbital Systems"]
+  },
+  {
+    "id": 3508,
+    "title": "Interplanetary Communication Network",
+    "domain": "37",
+    "description": "Develop a reliable communication network for deep-space missions with minimal latency.",
+    "keywords": ["Space Communication", "Deep-Space Network", "Interplanetary Links", "Telecommunication"]
+  },
+  {
+    "id": 3509,
+    "title": "AI-Powered Space Traffic Management",
+    "domain": "37",
+    "description": "Create AI systems to manage satellite constellations and prevent collisions in low Earth orbit.",
+    "keywords": ["Space Traffic", "AI", "Satellite Management", "Collision Avoidance"]
+  },
+  {
+    "id": 3510,
+    "title": "Autonomous Space Docking Systems",
+    "domain": "37",
+    "description": "Design robotic systems capable of performing autonomous docking of spacecraft in orbit.",
+    "keywords": ["Space Docking", "Autonomous Systems", "Robotics", "Space Technology"]
+  },
+  {
+    "id": 3511,
+    "title": "Planetary Surface Mapping Drones",
+    "domain": "37",
+    "description": "Develop drones capable of mapping planetary surfaces using LIDAR and imaging sensors.",
+    "keywords": ["Planetary Mapping", "Drones", "Remote Sensing", "Exploration"]
+  },
+  {
+    "id": 3512,
+    "title": "Radiation Shielding Materials for Spacecraft",
+    "domain": "37",
+    "description": "Design advanced materials that protect astronauts from cosmic radiation during deep-space missions.",
+    "keywords": ["Radiation Shielding", "Materials Engineering", "Spacecraft Design", "Astronaut Safety"]
+  },
+  {
+    "id": 3513,
+    "title": "Space Debris Removal Systems",
+    "domain": "37",
+    "description": "Create robotic or AI-assisted systems to capture and remove space debris from Earth's orbit.",
+    "keywords": ["Space Debris", "Robotics", "Orbital Cleanup", "Space Technology"]
+  },
+  {
+    "id": 3514,
+    "title": "Interstellar Propulsion Systems",
+    "domain": "37",
+    "description": "Develop advanced propulsion systems capable of enabling interstellar travel.",
+    "keywords": ["Propulsion", "Space Travel", "Advanced Technology", "Interstellar"]
+  },
+  {
+    "id": 3515,
+    "title": "AI-Based Astronaut Health Monitoring",
+    "domain": "37",
+    "description": "Design AI systems to monitor astronaut health in real-time during long-duration space missions.",
+    "keywords": ["Astronaut Health", "AI Monitoring", "Space Medicine", "Wearable Tech"]
+  },
+  {
+    "id": 3516,
+    "title": "Reusable Launch Vehicle Optimization",
+    "domain": "37",
+    "description": "Develop techniques to enhance the efficiency and reliability of reusable launch vehicles.",
+    "keywords": ["Launch Vehicles", "Space Technology", "Reusability", "Optimization"]
+  },
+  {
+    "id": 3517,
+    "title": "Space-Based Asteroid Deflection",
+    "domain": "37",
+    "description": "Design systems to detect and deflect potentially hazardous asteroids to protect Earth.",
+    "keywords": ["Asteroid Deflection", "Space Safety", "Space Technology", "Planetary Defense"]
+  },
+  {
+    "id": 3518,
+    "title": "Microgravity 3D Printing",
+    "domain": "37",
+    "description": "Develop 3D printing systems capable of manufacturing structures in microgravity conditions.",
+    "keywords": ["3D Printing", "Microgravity", "Space Manufacturing", "Additive Technology"]
+  },
+  {
+    "id": 3519,
+    "title": "Autonomous Lunar Mining Robots",
+    "domain": "37",
+    "description": "Design robotic systems for automated resource extraction on the lunar surface.",
+    "keywords": ["Lunar Mining", "Robotics", "Space Exploration", "Autonomous Systems"]
+  },
+  {
+    "id": 3520,
+    "title": "Planetary Atmosphere Analysis Satellites",
+    "domain": "37",
+    "description": "Develop satellites capable of analyzing atmospheric composition on other planets.",
+    "keywords": ["Planetary Atmosphere", "Satellites", "Space Exploration", "Remote Sensing"]
+  },
+  {
+    "id": 3521,
+    "title": "AI-Assisted Spacewalk Planning",
+    "domain": "37",
+    "description": "Create AI tools to assist astronauts in planning and executing complex spacewalk operations.",
+    "keywords": ["Spacewalk", "AI Assistance", "Astronaut Safety", "Space Missions"]
+  },
+  {
+    "id": 3522,
+    "title": "Cryogenic Fuel Storage Solutions",
+    "domain": "37",
+    "description": "Design systems to safely store and transport cryogenic fuels for deep-space missions.",
+    "keywords": ["Cryogenic Storage", "Fuel Management", "Space Technology", "Propulsion"]
+  },
+  {
+    "id": 3523,
+    "title": "Autonomous Satellite Servicing Robots",
+    "domain": "37",
+    "description": "Develop robotic systems to repair, refuel, or upgrade satellites autonomously in orbit.",
+    "keywords": ["Satellite Servicing", "Robotics", "Autonomous Systems", "Space Technology"]
+  },
+  {
+    "id": 3524,
+    "title": "Planetary Ice Extraction Systems",
+    "domain": "37",
+    "description": "Design technologies to extract water ice from planets or moons for life support and fuel production.",
+    "keywords": ["Ice Extraction", "Planetary Resources", "Space Exploration", "ISRU"]
+  },
+  {
+    "id": 3525,
+    "title": "Deep-Space Radiation Monitoring",
+    "domain": "37",
+    "description": "Create instruments to monitor radiation levels in deep-space environments to protect astronauts.",
+    "keywords": ["Radiation Monitoring", "Deep-Space", "Space Safety", "Instrumentation"]
+  },
+  {
+    "id": 3526,
+    "title": "Autonomous Cargo Transfer in Orbit",
+    "domain": "37",
+    "description": "Develop autonomous systems for transferring cargo between spacecraft in orbit.",
+    "keywords": ["Cargo Transfer", "Autonomous Systems", "Space Logistics", "Robotics"]
+  },
+  {
+    "id": 3527,
+    "title": "AI-Based Space Weather Prediction",
+    "domain": "37",
+    "description": "Design AI systems to predict solar flares, cosmic rays, and other space weather events.",
+    "keywords": ["Space Weather", "AI Prediction", "Satellites", "Space Safety"]
+  },
+  {
+    "id": 3528,
+    "title": "Self-Healing Spacecraft Materials",
+    "domain": "37",
+    "description": "Develop advanced materials capable of self-repairing from micro-meteoroid impacts in space.",
+    "keywords": ["Self-Healing Materials", "Spacecraft Design", "Space Technology", "Materials Engineering"]
+  },
+  {
+    "id": 3529,
+    "title": "Lunar Soil Analysis Drones",
+    "domain": "37",
+    "description": "Design autonomous drones to analyze lunar regolith composition for future construction and mining.",
+    "keywords": ["Lunar Exploration", "Drones", "Soil Analysis", "Space Technology"]
+  },
+  {
+    "id": 3530,
+    "title": "Autonomous Mars Habitat Maintenance",
+    "domain": "37",
+    "description": "Develop robotic systems for maintaining habitats on Mars without direct human intervention.",
+    "keywords": ["Mars Habitat", "Robotics", "Autonomous Systems", "Space Exploration"]
+  },
+  {
+    "id": 3531,
+    "title": "Space-Based Quantum Communication",
+    "domain": "37",
+    "description": "Implement quantum communication systems using satellites to enable ultra-secure interplanetary messaging.",
+    "keywords": ["Quantum Communication", "Satellites", "Space Technology", "Cybersecurity"]
+  },
+  {
+    "id": 3532,
+    "title": "Autonomous Interplanetary Supply Chain",
+    "domain": "37",
+    "description": "Design autonomous logistics systems for transporting goods and materials between planets and moons.",
+    "keywords": ["Space Logistics", "Autonomous Systems", "Interplanetary Transport", "Space Technology"]
+  },
+  {
+    "id": 3533,
+    "title": "Orbital Telescope Swarm",
+    "domain": "37",
+    "description": "Develop a network of small autonomous telescopes in orbit for high-resolution space observation.",
+    "keywords": ["Telescopes", "Swarm Technology", "Space Observation", "Satellites"]
+  },
+  {
+    "id": 3534,
+    "title": "AI-Powered Extraterrestrial Terrain Mapping",
+    "domain": "37",
+    "description": "Create AI algorithms to map and classify planetary terrains using satellite and rover data.",
+    "keywords": ["AI Mapping", "Planetary Exploration", "Satellite Data", "Rovers"]
+  },
+  {
+    "id": 3535,
+    "title": "Autonomous Orbital Refueling Stations",
+    "domain": "37",
+    "description": "Design space stations capable of autonomously refueling spacecraft in orbit.",
+    "keywords": ["Orbital Refueling", "Space Stations", "Autonomous Systems", "Space Technology"]
+  },
+  {
+    "id": 3536,
+    "title": "Planetary Weather Simulation Models",
+    "domain": "37",
+    "description": "Develop advanced simulation models for predicting weather patterns on Mars, Venus, or other planets.",
+    "keywords": ["Planetary Weather", "Simulation Models", "Space Exploration", "Computational Modeling"]
+  },
+  {
+    "id": 3537,
+    "title": "Deep-Space Navigation Beacons",
+    "domain": "37",
+    "description": "Create autonomous beacons to assist spacecraft navigation in deep-space missions.",
+    "keywords": ["Deep-Space Navigation", "Autonomous Systems", "Beacons", "Space Technology"]
+  },
+  {
+    "id": 3538,
+    "title": "AI-Optimized Spacecraft Trajectories",
+    "domain": "37",
+    "description": "Develop AI algorithms to optimize fuel-efficient trajectories for interplanetary missions.",
+    "keywords": ["Spacecraft Trajectories", "AI Optimization", "Interplanetary Travel", "Space Technology"]
+  },
+  {
+    "id": 3539,
+    "title": "Autonomous Space Agriculture Systems",
+    "domain": "37",
+    "description": "Design autonomous systems to grow crops in extraterrestrial environments for long-term missions.",
+    "keywords": ["Space Agriculture", "Autonomous Systems", "Life Support", "Space Exploration"]
+  },
+  {
+    "id": 3540,
+    "title": "Space-Based Synthetic Gravity Platforms",
+    "domain": "37",
+    "description": "Develop artificial gravity systems for long-duration missions to reduce health risks for astronauts.",
+    "keywords": ["Artificial Gravity", "Space Health", "Spacecraft Design", "Life Support"]
+  },
+  {
+    "id": 3541,
+    "title": "Autonomous Lunar Cargo Rovers",
+    "domain": "37",
+    "description": "Create autonomous rovers to transport materials across the lunar surface efficiently.",
+    "keywords": ["Lunar Rovers", "Autonomous Systems", "Space Logistics", "Exploration"]
+  },
+  {
+    "id": 3542,
+    "title": "Planetary Subsurface Exploration Drones",
+    "domain": "37",
+    "description": "Design drones capable of exploring and analyzing subsurface environments on Mars or Moon.",
+    "keywords": ["Subsurface Exploration", "Drones", "Planetary Science", "Space Technology"]
+  },
+  {
+    "id": 3543,
+    "title": "Autonomous Space Habitat Energy Management",
+    "domain": "37",
+    "description": "Develop systems to autonomously manage energy consumption in space habitats.",
+    "keywords": ["Energy Management", "Autonomous Systems", "Space Habitats", "Sustainability"]
+  },
+  {
+    "id": 3544,
+    "title": "AI-Assisted Extraterrestrial Mineral Detection",
+    "domain": "37",
+    "description": "Use AI to detect and map mineral deposits on other planets for future mining operations.",
+    "keywords": ["AI Detection", "Mineral Mapping", "Space Mining", "Planetary Exploration"]
+  },
+  {
+    "id": 3545,
+    "title": "Reusable Lunar Landing Pads",
+    "domain": "37",
+    "description": "Design durable, reusable landing pads for repeated lunar spacecraft landings.",
+    "keywords": ["Lunar Landings", "Reusable Systems", "Space Infrastructure", "Engineering"]
+  },
+  {
+    "id": 3546,
+    "title": "Space-Based High-Resolution Imaging Satellites",
+    "domain": "37",
+    "description": "Develop satellites equipped with high-resolution imaging capabilities for planetary observation.",
+    "keywords": ["Imaging Satellites", "Space Observation", "Remote Sensing", "Planetary Science"]
+  },
+  {
+    "id": 3547,
+    "title": "Autonomous Space Rescue Robots",
+    "domain": "37",
+    "description": "Create robotic systems capable of assisting astronauts during emergencies in orbit or on planets.",
+    "keywords": ["Rescue Robots", "Space Safety", "Autonomous Systems", "Space Exploration"]
+  },
+  {
+    "id": 3548,
+    "title": "AI-Based Space Mission Planning",
+    "domain": "37",
+    "description": "Develop AI tools for planning complex interplanetary missions including trajectory, fuel, and resource optimization.",
+    "keywords": ["Mission Planning", "AI", "Interplanetary Travel", "Space Technology"]
+  },
+  {
+    "id": 3549,
+    "title": "Autonomous Extraterrestrial Sample Collection",
+    "domain": "37",
+    "description": "Design robotic systems for collecting soil, rock, or ice samples on planets and moons autonomously.",
+    "keywords": ["Sample Collection", "Robotics", "Space Exploration", "Autonomous Systems"]
+  },
+  {
+    "id": 3550,
+    "title": "Space Habitat Life Support Recycling Systems",
+    "domain": "37",
+    "description": "Develop efficient recycling systems for water, air, and waste in long-duration space habitats.",
+    "keywords": ["Life Support", "Space Habitats", "Recycling Systems", "Sustainability"]
+  },
+  // domain 38
+  {
+    "id": 3551,
+    "title": "Advanced Nuclear Reactor Design",
+    "domain": "38",
+    "description": "Design high-efficiency nuclear reactors with enhanced safety features and lower waste production.",
+    "keywords": ["Nuclear Reactor", "Safety Engineering", "Energy Efficiency", "Nuclear Technology"]
+  },
+  {
+    "id": 3552,
+    "title": "Small Modular Reactors (SMR)",
+    "domain": "38",
+    "description": "Develop compact modular reactors for decentralized energy production with rapid deployment.",
+    "keywords": ["SMR", "Nuclear Energy", "Modular Reactors", "Clean Energy"]
+  },
+  {
+    "id": 3553,
+    "title": "Nuclear Waste Management Systems",
+    "domain": "38",
+    "description": "Create advanced technologies for safe storage, recycling, or disposal of nuclear waste.",
+    "keywords": ["Nuclear Waste", "Waste Management", "Recycling", "Nuclear Safety"]
+  },
+  {
+    "id": 3554,
+    "title": "Fusion Reactor Simulation Models",
+    "domain": "38",
+    "description": "Develop computational models to simulate fusion reactions and optimize energy output.",
+    "keywords": ["Fusion Energy", "Simulation", "Nuclear Technology", "Plasma Physics"]
+  },
+  {
+    "id": 3555,
+    "title": "Radiation Shielding Materials",
+    "domain": "38",
+    "description": "Design new materials to protect humans and sensitive equipment from nuclear radiation.",
+    "keywords": ["Radiation Shielding", "Materials Science", "Nuclear Safety", "Engineering"]
+  },
+  {
+    "id": 3556,
+    "title": "Nuclear Reactor Cooling Optimization",
+    "domain": "38",
+    "description": "Develop efficient cooling systems to improve reactor safety and performance.",
+    "keywords": ["Cooling Systems", "Nuclear Reactors", "Thermal Management", "Energy Efficiency"]
+  },
+  {
+    "id": 3557,
+    "title": "Automated Nuclear Plant Monitoring",
+    "domain": "38",
+    "description": "Design AI systems for real-time monitoring and predictive maintenance of nuclear facilities.",
+    "keywords": ["AI Monitoring", "Nuclear Plant", "Automation", "Safety Systems"]
+  },
+  {
+    "id": 3558,
+    "title": "Nuclear Fuel Recycling Technologies",
+    "domain": "38",
+    "description": "Develop methods for recycling spent nuclear fuel to reduce waste and improve sustainability.",
+    "keywords": ["Fuel Recycling", "Nuclear Waste", "Sustainability", "Nuclear Technology"]
+  },
+  {
+    "id": 3559,
+    "title": "Next-Generation Nuclear Sensors",
+    "domain": "38",
+    "description": "Create sensitive sensors for detecting radiation, reactor leaks, and operational anomalies.",
+    "keywords": ["Sensors", "Radiation Detection", "Nuclear Safety", "Technology"]
+  },
+  {
+    "id": 3560,
+    "title": "Nuclear Decommissioning Automation",
+    "domain": "38",
+    "description": "Develop robotic and AI-assisted systems for safely decommissioning nuclear facilities.",
+    "keywords": ["Decommissioning", "Robotics", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3561,
+    "title": "Compact Nuclear Batteries",
+    "domain": "38",
+    "description": "Design small, long-lasting nuclear batteries for remote or space-based applications.",
+    "keywords": ["Nuclear Batteries", "Energy Storage", "Compact Power", "Nuclear Technology"]
+  },
+  {
+    "id": 3562,
+    "title": "Thorium-Based Reactor Development",
+    "domain": "38",
+    "description": "Explore thorium as a safer and sustainable alternative nuclear fuel for next-generation reactors.",
+    "keywords": ["Thorium", "Nuclear Fuel", "Reactor Design", "Clean Energy"]
+  },
+  {
+    "id": 3563,
+    "title": "Nuclear Plant Cybersecurity",
+    "domain": "38",
+    "description": "Develop cybersecurity solutions to protect nuclear power plants from digital threats.",
+    "keywords": ["Cybersecurity", "Nuclear Safety", "Digital Protection", "Critical Infrastructure"]
+  },
+  {
+    "id": 3564,
+    "title": "Radioisotope Thermoelectric Generators (RTGs)",
+    "domain": "38",
+    "description": "Design efficient RTGs for long-duration space missions and remote energy needs.",
+    "keywords": ["RTGs", "Nuclear Power", "Space Applications", "Energy Generation"]
+  },
+  {
+    "id": 3565,
+    "title": "Passive Safety Reactor Systems",
+    "domain": "38",
+    "description": "Develop nuclear reactors that rely on passive safety mechanisms to prevent accidents.",
+    "keywords": ["Passive Safety", "Reactor Design", "Nuclear Technology", "Safety Systems"]
+  },
+  {
+    "id": 3566,
+    "title": "Nuclear Fusion Magnetic Confinement",
+    "domain": "38",
+    "description": "Optimize magnetic confinement systems for stable and efficient nuclear fusion reactions.",
+    "keywords": ["Fusion Energy", "Magnetic Confinement", "Plasma Control", "Nuclear Technology"]
+  },
+  {
+    "id": 3567,
+    "title": "Nuclear Radiation Mapping Drones",
+    "domain": "38",
+    "description": "Design autonomous drones capable of detecting and mapping radiation in nuclear sites.",
+    "keywords": ["Radiation Mapping", "Drones", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3568,
+    "title": "Small-Scale Fusion Test Reactors",
+    "domain": "38",
+    "description": "Develop compact experimental fusion reactors for research and proof-of-concept studies.",
+    "keywords": ["Fusion Reactor", "Research", "Nuclear Technology", "Experimental"]
+  },
+  {
+    "id": 3569,
+    "title": "Nuclear Waste Transmutation",
+    "domain": "38",
+    "description": "Develop technologies to transform long-lived nuclear waste into less harmful isotopes.",
+    "keywords": ["Waste Transmutation", "Nuclear Technology", "Radioactive Waste", "Sustainability"]
+  },
+  {
+    "id": 3570,
+    "title": "AI-Optimized Nuclear Reactor Core",
+    "domain": "38",
+    "description": "Use AI to optimize core design for efficiency, safety, and longevity of nuclear reactors.",
+    "keywords": ["Reactor Core", "AI Optimization", "Nuclear Safety", "Energy Efficiency"]
+  },
+  {
+    "id": 3571,
+    "title": "Next-Gen Nuclear Fuel Rods",
+    "domain": "38",
+    "description": "Develop fuel rods with improved efficiency, thermal resistance, and longevity.",
+    "keywords": ["Fuel Rods", "Nuclear Fuel", "Reactor Design", "Materials Science"]
+  },
+  {
+    "id": 3572,
+    "title": "Nuclear-Powered Desalination Systems",
+    "domain": "38",
+    "description": "Design nuclear reactors to provide energy for large-scale seawater desalination projects.",
+    "keywords": ["Desalination", "Nuclear Energy", "Water Supply", "Sustainable Technology"]
+  },
+  {
+    "id": 3573,
+    "title": "Robotic Nuclear Inspection Systems",
+    "domain": "38",
+    "description": "Create robotic systems to inspect and maintain nuclear plants safely and efficiently.",
+    "keywords": ["Robotics", "Inspection", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3574,
+    "title": "Advanced Nuclear Simulation Software",
+    "domain": "38",
+    "description": "Develop high-fidelity simulation tools for nuclear reactor modeling and safety analysis.",
+    "keywords": ["Simulation Software", "Nuclear Modeling", "Safety Analysis", "Energy Technology"]
+  },
+  {
+    "id": 3575,
+    "title": "Thorium Fuel Cycle Optimization",
+    "domain": "38",
+    "description": "Optimize the thorium nuclear fuel cycle for safer and more sustainable energy production.",
+    "keywords": ["Thorium Fuel", "Nuclear Technology", "Sustainable Energy", "Fuel Cycle"]
+  },
+  {
+    "id": 3576,
+    "title": "Nuclear Plant Emergency Response AI",
+    "domain": "38",
+    "description": "Design AI systems to support rapid decision-making during nuclear emergencies.",
+    "keywords": ["AI", "Emergency Response", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3577,
+    "title": "Advanced Neutron Detection Systems",
+    "domain": "38",
+    "description": "Develop sensitive neutron detectors for nuclear facilities and security applications.",
+    "keywords": ["Neutron Detection", "Nuclear Safety", "Sensors", "Technology"]
+  },
+  {
+    "id": 3578,
+    "title": "Nuclear Reactor Vibration Monitoring",
+    "domain": "38",
+    "description": "Create systems to monitor and mitigate vibrations in nuclear reactors for improved safety.",
+    "keywords": ["Vibration Monitoring", "Reactor Safety", "Sensors", "Nuclear Technology"]
+  },
+  {
+    "id": 3579,
+    "title": "Nuclear-Powered Space Propulsion",
+    "domain": "38",
+    "description": "Develop nuclear propulsion systems for efficient long-duration space travel.",
+    "keywords": ["Space Propulsion", "Nuclear Energy", "Space Technology", "Advanced Reactors"]
+  },
+  {
+    "id": 3580,
+    "title": "Radiation-Tolerant Electronics",
+    "domain": "38",
+    "description": "Design electronic systems that can withstand high levels of nuclear radiation.",
+    "keywords": ["Radiation-Tolerant Electronics", "Nuclear Technology", "Engineering", "Safety"]
+  },
+  {
+    "id": 3581,
+    "title": "AI-Based Nuclear Fuel Management",
+    "domain": "38",
+    "description": "Use AI to optimize fuel usage, scheduling, and efficiency in nuclear reactors.",
+    "keywords": ["AI", "Fuel Management", "Nuclear Reactors", "Optimization"]
+  },
+  {
+    "id": 3582,
+    "title": "Fusion Plasma Diagnostics Tools",
+    "domain": "38",
+    "description": "Develop diagnostic tools for monitoring plasma conditions in fusion reactors.",
+    "keywords": ["Fusion Plasma", "Diagnostics", "Nuclear Technology", "Research"]
+  },
+  {
+    "id": 3583,
+    "title": "Automated Radiation Decontamination Systems",
+    "domain": "38",
+    "description": "Create robotic systems for safe decontamination of radioactive environments.",
+    "keywords": ["Radiation Decontamination", "Robotics", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3584,
+    "title": "Portable Nuclear Detection Devices",
+    "domain": "38",
+    "description": "Design compact devices for detecting radioactive materials in various environments.",
+    "keywords": ["Portable Detectors", "Radiation Detection", "Nuclear Safety", "Technology"]
+  },
+  {
+    "id": 3585,
+    "title": "Advanced Nuclear Waste Encapsulation",
+    "domain": "38",
+    "description": "Develop new methods for safely encapsulating radioactive waste for long-term storage.",
+    "keywords": ["Waste Encapsulation", "Nuclear Safety", "Materials Science", "Sustainability"]
+  },
+  {
+    "id": 3586,
+    "title": "AI-Assisted Nuclear Risk Assessment",
+    "domain": "38",
+    "description": "Implement AI systems to assess and predict risks in nuclear power plants.",
+    "keywords": ["AI Risk Assessment", "Nuclear Safety", "Predictive Analytics", "Technology"]
+  },
+  {
+    "id": 3587,
+    "title": "Next-Generation Reactor Core Cooling",
+    "domain": "38",
+    "description": "Design cooling systems that improve thermal efficiency and reactor safety for next-gen reactors.",
+    "keywords": ["Cooling Systems", "Reactor Core", "Nuclear Technology", "Engineering"]
+  },
+  {
+    "id": 3588,
+    "title": "Robotic Nuclear Fuel Handling",
+    "domain": "38",
+    "description": "Develop robotic systems for safe fuel handling and refueling operations in nuclear plants.",
+    "keywords": ["Robotics", "Fuel Handling", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3589,
+    "title": "Nuclear Plant Remote Monitoring Platforms",
+    "domain": "38",
+    "description": "Design platforms for remote monitoring and control of nuclear facilities.",
+    "keywords": ["Remote Monitoring", "Nuclear Technology", "Automation", "Safety Systems"]
+  },
+  {
+    "id": 3590,
+    "title": "High-Temperature Reactor Materials",
+    "domain": "38",
+    "description": "Develop materials capable of withstanding extreme temperatures in advanced nuclear reactors.",
+    "keywords": ["High-Temperature Materials", "Reactor Design", "Nuclear Technology", "Materials Science"]
+  },
+  {
+    "id": 3591,
+    "title": "Nuclear-Powered Desalination Robots",
+    "domain": "38",
+    "description": "Create autonomous nuclear-powered robots to operate desalination plants in remote locations.",
+    "keywords": ["Robotics", "Nuclear Energy", "Desalination", "Automation"]
+  },
+  {
+    "id": 3592,
+    "title": "AI-Assisted Nuclear Regulatory Compliance",
+    "domain": "38",
+    "description": "Develop AI tools to ensure nuclear facilities comply with safety and regulatory standards.",
+    "keywords": ["AI", "Regulatory Compliance", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3593,
+    "title": "Fusion Reactor Heat Extraction Systems",
+    "domain": "38",
+    "description": "Design systems for efficient heat extraction from fusion reactors to maximize energy output.",
+    "keywords": ["Heat Extraction", "Fusion Reactors", "Energy Efficiency", "Nuclear Technology"]
+  },
+  {
+    "id": 3594,
+    "title": "Portable Nuclear Power Units",
+    "domain": "38",
+    "description": "Develop compact, portable nuclear power units for emergency or remote energy supply.",
+    "keywords": ["Portable Nuclear Power", "Energy Supply", "Nuclear Technology", "Emergency Power"]
+  },
+  {
+    "id": 3595,
+    "title": "AI-Optimized Nuclear Waste Transportation",
+    "domain": "38",
+    "description": "Use AI to optimize routes and methods for safe transportation of nuclear waste.",
+    "keywords": ["AI", "Waste Transport", "Nuclear Safety", "Logistics"]
+  },
+  {
+    "id": 3596,
+    "title": "Next-Generation Radiation Therapy Systems",
+    "domain": "38",
+    "description": "Develop nuclear-based radiation therapy systems for precise cancer treatment.",
+    "keywords": ["Radiation Therapy", "Nuclear Technology", "Healthcare", "Precision Medicine"]
+  },
+  {
+    "id": 3597,
+    "title": "Advanced Nuclear Isotope Production",
+    "domain": "38",
+    "description": "Create methods for producing isotopes for medicine, research, and industrial applications.",
+    "keywords": ["Isotope Production", "Nuclear Technology", "Medical Applications", "Industrial Use"]
+  },
+  {
+    "id": 3598,
+    "title": "Robotic Nuclear Site Decontamination",
+    "domain": "38",
+    "description": "Design robotic systems to safely decontaminate nuclear accident sites and reduce human exposure.",
+    "keywords": ["Robotics", "Decontamination", "Nuclear Safety", "Automation"]
+  },
+  {
+    "id": 3599,
+    "title": "Fusion Reactor Plasma Stabilization",
+    "domain": "38",
+    "description": "Develop systems to stabilize plasma in fusion reactors to maintain continuous energy production.",
+    "keywords": ["Plasma Stabilization", "Fusion Energy", "Nuclear Technology", "Engineering"]
+  },
+  {
+    "id": 3600,
+    "title": "Nuclear Emergency Evacuation Planning AI",
+    "domain": "38",
+    "description": "Design AI systems to plan and optimize emergency evacuations for nuclear plant incidents.",
+    "keywords": ["AI", "Emergency Planning", "Nuclear Safety", "Automation"]
+  },
+
+
 
 
 
