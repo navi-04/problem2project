@@ -25263,7 +25263,7 @@ const PROBLEMS_DATA = {
   { "id": 3699, "title": "Rapid Prototyping Error Debugger", "domain": "3D Printing / Additive Manufacturing", "description": "Create a debugging system that helps designers identify and fix errors in prototypes before printing.", "keywords": ["Rapid Prototyping", "Error Detection", "3D Modeling"] },
 
   { "id": 3700, "title": "Layer Manufacturing AI Supervisor", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an AI system that supervises layer manufacturing, making adjustments dynamically for consistency.", "keywords": ["Layer Manufacturing", "AI", "Print Quality"] }
-]
+  //domain-41
 
 
 
