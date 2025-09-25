@@ -1170,7 +1170,7 @@ const DOMAIN_KEYWORDS = {
             "Quantum Machine Learning", "Quantum Simulation", "Quantum Error Correction",
             "Quantum Networking", "Quantum Sensors", "Quantum Advantage", "NISQ Devices", "Quantum Applications"
         ]
-    },
+    },//new domains
       "Blockchain": {
             "domain": "Blockchain / Web3",
             "keywords": [
@@ -22848,6 +22848,184 @@ const PROBLEMS_DATA = {
                 "description": "Build an AI-powered system to optimize cryptocurrency portfolios based on risk tolerance, market conditions, and DeFi yield opportunities across multiple protocols.",
                 "keywords": ["Portfolio Optimization", "DeFi Yield", "Risk Management", "AI Trading"]
             },
+            
+  {
+    "id": 3322,
+    "title": "Smart Contract Vulnerability Analyzer",
+    "domain": "Blockchain / Web3",
+    "description": "Build a tool that automatically detects vulnerabilities in smart contracts and suggests secure coding practices.",
+    "keywords": ["Smart Contracts", "Blockchain Security", "Web3 Applications"]
+  },
+  {
+    "id": 3323,
+    "title": "Decentralized Insurance Platform",
+    "domain": "Blockchain / Web3",
+    "description": "Design a DeFi-based insurance model where claims are handled via smart contracts and governed by DAOs.",
+    "keywords": ["DeFi", "Smart Contracts", "DAOs"]
+  },
+  {
+    "id": 3324,
+    "title": "NFT-Based Ticketing System",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a blockchain-based ticketing platform using NFTs to prevent fraud and ensure transparent resale markets.",
+    "keywords": ["NFTs", "Web3 Applications", "Smart Contracts"]
+  },
+  {
+    "id": 3325,
+    "title": "Cross-Chain Asset Transfer Protocol",
+    "domain": "Blockchain / Web3",
+    "description": "Create a cross-chain bridge that enables secure and fast transfer of assets between multiple blockchains.",
+    "keywords": ["Cross-chain", "Layer 2", "Distributed Ledger"]
+  },
+  {
+    "id": 3326,
+    "title": "Layer 2 Gas Fee Optimizer",
+    "domain": "Blockchain / Web3",
+    "description": "Design a Layer 2 payment aggregator that automatically selects the most cost-effective network for transactions.",
+    "keywords": ["Layer 2", "DeFi", "Token Economics"]
+  },
+  {
+    "id": 3327,
+    "title": "Decentralized Autonomous Governance Framework",
+    "domain": "Blockchain / Web3",
+    "description": "Build a DAO toolkit that enables transparent governance and decision-making using consensus algorithms.",
+    "keywords": ["DAOs", "Consensus Algorithms", "Token Economics"]
+  },
+  {
+    "id": 3328,
+    "title": "Blockchain Voting System",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a tamper-proof voting system leveraging blockchain security and distributed ledgers.",
+    "keywords": ["Blockchain Security", "Distributed Ledger", "Consensus Algorithms"]
+  },
+  {
+    "id": 3329,
+    "title": "DeFi Lending Risk Assessment",
+    "domain": "Blockchain / Web3",
+    "description": "Create a system that assesses the risk of DeFi lending pools using smart contract audits and token metrics.",
+    "keywords": ["DeFi", "Smart Contracts", "Token Economics"]
+  },
+  {
+    "id": 3330,
+    "title": "NFT Intellectual Property Registry",
+    "domain": "Blockchain / Web3",
+    "description": "Build an NFT-based IP registry to verify and enforce ownership of digital assets across platforms.",
+    "keywords": ["NFTs", "Distributed Ledger", "Web3 Applications"]
+  },
+  {
+    "id": 3331,
+    "title": "Cryptocurrency Tax Reporting Tool",
+    "domain": "Blockchain / Web3",
+    "description": "Design a Web3 application that tracks transactions across multiple wallets to generate tax reports.",
+    "keywords": ["Cryptocurrency", "Web3 Applications", "Distributed Ledger"]
+  },
+  {
+    "id": 3332,
+    "title": "Consensus Algorithm Simulator",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a simulation environment to compare efficiency, energy use, and security of various consensus algorithms.",
+    "keywords": ["Consensus Algorithms", "Distributed Ledger", "Blockchain Security"]
+  },
+  {
+    "id": 3333,
+    "title": "Decentralized Prediction Market",
+    "domain": "Blockchain / Web3",
+    "description": "Build a DeFi-powered prediction market where users trade tokens based on event outcomes.",
+    "keywords": ["DeFi", "Token Economics", "Smart Contracts"]
+  },
+  {
+    "id": 3334,
+    "title": "NFT Gaming Reward Engine",
+    "domain": "Blockchain / Web3",
+    "description": "Design a gaming platform that rewards players with NFTs and cryptocurrency via smart contracts.",
+    "keywords": ["NFTs", "Cryptocurrency", "Smart Contracts"]
+  },
+  {
+    "id": 3335,
+    "title": "Cross-Chain DAO Collaboration",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a protocol that allows DAOs across different blockchains to collaborate securely.",
+    "keywords": ["DAOs", "Cross-chain", "Consensus Algorithms"]
+  },
+  {
+    "id": 3336,
+    "title": "Blockchain Supply Chain Tracker",
+    "domain": "Blockchain / Web3",
+    "description": "Build a distributed ledger system that tracks products across the supply chain with smart contract verification.",
+    "keywords": ["Distributed Ledger", "Smart Contracts", "Web3 Applications"]
+  },
+  {
+    "id": 3337,
+    "title": "Privacy-Preserving Cryptocurrency Wallet",
+    "domain": "Blockchain / Web3",
+    "description": "Design a cryptocurrency wallet that integrates zero-knowledge proofs for enhanced transaction privacy.",
+    "keywords": ["Cryptocurrency", "Blockchain Security", "Web3 Applications"]
+  },
+  {
+    "id": 3338,
+    "title": "DeFi Yield Farming Optimizer",
+    "domain": "Blockchain / Web3",
+    "description": "Create an aggregator that reallocates assets across multiple DeFi protocols for maximum yield.",
+    "keywords": ["DeFi", "Layer 2", "Token Economics"]
+  },
+  {
+    "id": 3339,
+    "title": "NFT Carbon Credit Marketplace",
+    "domain": "Blockchain / Web3",
+    "description": "Develop an NFT marketplace for trading verifiable carbon credits to encourage sustainable practices.",
+    "keywords": ["NFTs", "Web3 Applications", "Token Economics"]
+  },
+  {
+    "id": 3340,
+    "title": "Blockchain-Based Digital Identity",
+    "domain": "Blockchain / Web3",
+    "description": "Build a Web3 identity system that uses distributed ledgers and smart contracts to verify credentials.",
+    "keywords": ["Distributed Ledger", "Smart Contracts", "Web3 Applications"]
+  },
+  {
+    "id": 3341,
+    "title": "Tokenized Real Estate Investment Platform",
+    "domain": "Blockchain / Web3",
+    "description": "Create a platform where real estate properties are tokenized and traded like cryptocurrency assets.",
+    "keywords": ["Token Economics", "Cryptocurrency", "DeFi"]
+  },
+  {
+    "id": 3342,
+    "title": "DAO-Powered Philanthropy Network",
+    "domain": "Blockchain / Web3",
+    "description": "Design a DAO where members vote on funding charitable initiatives using pooled cryptocurrency.",
+    "keywords": ["DAOs", "Cryptocurrency", "Smart Contracts"]
+  },
+  {
+    "id": 3343,
+    "title": "Layer 2 Micropayment System",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a Layer 2 micropayment channel that enables instant and low-cost digital transactions.",
+    "keywords": ["Layer 2", "Cryptocurrency", "Web3 Applications"]
+  },
+  {
+    "id": 3344,
+    "title": "Smart Contract Dispute Resolver",
+    "domain": "Blockchain / Web3",
+    "description": "Build an arbitration framework where disputes in smart contract execution are resolved via DAOs.",
+    "keywords": ["Smart Contracts", "DAOs", "Blockchain Security"]
+  },
+  {
+    "id": 3345,
+    "title": "Cross-Chain NFT Lending",
+    "domain": "Blockchain / Web3",
+    "description": "Design a DeFi system that enables NFT lending and borrowing across multiple blockchain networks.",
+    "keywords": ["NFTs", "DeFi", "Cross-chain"]
+  },
+  {
+    "id": 3346,
+    "title": "Blockchain Energy Trading Platform",
+    "domain": "Blockchain / Web3",
+    "description": "Develop a peer-to-peer energy trading marketplace powered by smart contracts and token incentives.",
+    "keywords": ["Smart Contracts", "Token Economics", "Distributed Ledger"]
+  },
+
+
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
