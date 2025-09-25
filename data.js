@@ -619,7 +619,407 @@ const DOMAIN_KEYWORDS = {
             "Quantum Machine Learning", "Quantum Simulation", "Quantum Error Correction",
             "Quantum Networking", "Quantum Sensors", "Quantum Advantage", "NISQ Devices", "Quantum Applications"
         ]
-    }
+    },
+      "Blockchain": {
+            "domain": "Blockchain / Web3",
+            "keywords": [
+                "Smart Contracts", "DeFi", "NFTs", "Cryptocurrency", "Distributed Ledger",
+                "Consensus Algorithms", "Token Economics", "DAOs", "Cross-chain", "Layer 2",
+                "Blockchain Security", "Web3 Applications"
+            ]
+        },
+        "AI_Ethics": {
+            "domain": "Artificial Intelligence Ethics",
+            "keywords": [
+                "Bias Detection", "Fairness", "Transparency", "Explainable AI", "Privacy",
+                "Algorithmic Accountability", "AI Governance", "Ethical Decision Making",
+                "AI Safety", "Human Rights", "Responsible AI", "AI Auditing"
+            ]
+        },
+        "Neuroscience": {
+            "domain": "Neuroscience / Brain-Computer Interface",
+            "keywords": [
+                "BCI", "Neural Networks", "Brain Mapping", "Neuroplasticity", "Neural Prosthetics",
+                "EEG", "fMRI", "Neural Decoding", "Cognitive Enhancement", "Brain Stimulation",
+                "Neurofeedback", "Neural Interfaces"
+            ]
+        },
+        "Biotechnology": {
+            "domain": "Biotechnology / Synthetic Biology",
+            "keywords": [
+                "Gene Editing", "CRISPR", "Synthetic Organisms", "Bioengineering", "Biofuels",
+                "Protein Design", "Metabolic Engineering", "Bioprocessing", "Cell Culture",
+                "Bioremediation", "Biosensors", "Genetic Circuits"
+            ]
+        },
+        "Space_Technology": {
+            "domain": "Space Technology / Exploration",
+            "keywords": [
+                "Satellite Technology", "Space Missions", "Rocket Propulsion", "Space Habitats",
+                "Planetary Exploration", "Space Communication", "Orbital Mechanics",
+                "Space Materials", "Life Support Systems", "Space Manufacturing", "Astrobiology", "Space Debris"
+            ]
+        },
+        "Nuclear_Technology": {
+            "domain": "Nuclear Technology",
+            "keywords": [
+                "Nuclear Reactors", "Nuclear Safety", "Radioactive Waste", "Nuclear Fusion",
+                "Nuclear Medicine", "Radiation Detection", "Nuclear Materials", "Reactor Design",
+                "Nuclear Physics", "Radiation Therapy", "Nuclear Security", "Isotope Applications"
+            ]
+        },
+        "Nanotechnology": {
+            "domain": "Nanotechnology",
+            "keywords": [
+                "Nanomaterials", "Nanoelectronics", "Nanomedicine", "Nanoparticles",
+                "Molecular Assembly", "Nano Sensors", "Nano Fabrication", "Carbon Nanotubes",
+                "Quantum Dots", "Nano Robotics", "Surface Engineering", "Nano Coatings"
+            ]
+        },
+        "3D_Printing": {
+            "domain": "3D Printing / Additive Manufacturing",
+            "keywords": [
+                "Additive Manufacturing", "3D Modeling", "Print Materials", "Bioprinting",
+                "Metal Printing", "Rapid Prototyping", "Layer Manufacturing", "Print Quality",
+                "Post Processing", "Design for AM", "Multi-material", "4D Printing"
+            ]
+        },
+        "Renewable_Energy": {
+            "domain": "Renewable Energy Systems",
+            "keywords": [
+                "Solar Energy", "Wind Energy", "Energy Storage", "Grid Integration",
+                "Battery Technology", "Hydroelectric", "Geothermal", "Biomass",
+                "Energy Efficiency", "Power Electronics", "Smart Grid", "Energy Harvesting"
+            ]
+        },
+        "Smart_Cities": {
+            "domain": "Smart Cities / Urban Planning",
+            "keywords": [
+                "Urban Analytics", "Smart Infrastructure", "Traffic Management", "City Planning",
+                "Urban Sensors", "Digital Governance", "Citizen Services", "Urban Mobility",
+                "Smart Buildings", "Waste Management", "Urban IoT", "City Data"
+            ]
+        },
+        "Ocean_Technology": {
+            "domain": "Ocean Technology / Marine Engineering",
+            "keywords": [
+                "Underwater Vehicles", "Marine Sensors", "Ocean Exploration", "Offshore Systems",
+                "Marine Robotics", "Oceanography", "Marine Materials", "Subsea Technology",
+                "Ocean Energy", "Marine Biology", "Coastal Engineering", "Deep Sea Technology"
+            ]
+        },
+        "Disaster_Management": {
+            "domain": "Disaster Management / Emergency Response",
+            "keywords": [
+                "Emergency Systems", "Disaster Prediction", "Crisis Communication", "Evacuation Planning",
+                "First Aid Technology", "Disaster Recovery", "Emergency Logistics", "Risk Assessment",
+                "Emergency Networks", "Rescue Technology", "Disaster Monitoring", "Community Resilience"
+            ]
+        },
+        "Sports_Technology": {
+            "domain": "Sports Technology / Performance Analytics",
+            "keywords": [
+                "Performance Analytics", "Sports Wearables", "Athlete Monitoring", "Sports Data",
+                "Training Technology", "Biomechanics", "Sports Medicine", "Fan Engagement",
+                "Sports Equipment", "Game Analysis", "Fitness Tracking", "Sports Broadcasting"
+            ]
+        },
+        "Fashion_Technology": {
+            "domain": "Fashion Technology / Wearables",
+            "keywords": [
+                "Smart Textiles", "Wearable Computing", "Fashion Design", "Textile Innovation",
+                "Smart Clothing", "Fashion Analytics", "Sustainable Fashion", "3D Fashion",
+                "Fashion Tech", "Digital Fashion", "Fabric Technology", "Fashion AI"
+            ]
+        },
+        "Food_Science": {
+            "domain": "Food Science / Nutrition Technology",
+            "keywords": [
+                "Food Safety", "Nutrition Analysis", "Food Processing", "Alternative Proteins",
+                "Food Packaging", "Fermentation", "Food Preservation", "Functional Foods",
+                "Food Sensors", "Culinary Technology", "Food Waste", "Personalized Nutrition"
+            ]
+        },
+        "Mental_Health": {
+            "domain": "Mental Health Technology",
+            "keywords": [
+                "Digital Therapy", "Mental Health Apps", "Stress Monitoring", "Mood Tracking",
+                "Therapy Platforms", "Mental Health Analytics", "Wellness Technology", "Mindfulness Apps",
+                "Depression Detection", "Anxiety Management", "Behavioral Intervention", "Mental Health Support"
+            ]
+        },
+        "Language_Technology": {
+            "domain": "Language Technology / NLP",
+            "keywords": [
+                "Natural Language Processing", "Language Models", "Text Analysis", "Machine Translation",
+                "Speech Recognition", "Language Generation", "Sentiment Analysis", "Text Mining",
+                "Conversational AI", "Language Understanding", "Linguistic AI", "Text Processing"
+            ]
+        },
+        "Computer_Vision": {
+            "domain": "Computer Vision / Image Processing",
+            "keywords": [
+                "Image Recognition", "Object Detection", "Image Segmentation", "Facial Recognition",
+                "Medical Imaging", "Video Analysis", "Image Enhancement", "Pattern Recognition",
+                "Visual AI", "Image Classification", "3D Vision", "Image Restoration"
+            ]
+        },
+        "Cybersecurity": {
+            "domain": "Cybersecurity / Information Warfare",
+            "keywords": [
+                "Threat Detection", "Cyber Defense", "Information Security", "Penetration Testing",
+                "Malware Analysis", "Security Protocols", "Incident Response", "Vulnerability Assessment",
+                "Cyber Forensics", "Security Analytics", "Identity Management", "Security Architecture"
+            ]
+        },
+        "Database_Systems": {
+            "domain": "Database Systems / Big Data",
+            "keywords": [
+                "Database Design", "Data Warehousing", "Big Data Analytics", "Data Mining",
+                "NoSQL Databases", "Data Processing", "Data Integration", "Real-time Analytics",
+                "Data Storage", "Query Optimization", "Data Management", "Distributed Databases"
+            ]
+        },
+        "Cloud_Computing": {
+            "domain": "Cloud Computing / Distributed Systems",
+            "keywords": [
+                "Cloud Architecture", "Distributed Systems", "Microservices", "Container Technology",
+                "Serverless Computing", "Cloud Security", "Load Balancing", "Auto-scaling",
+                "Cloud Migration", "Multi-cloud", "Edge Computing", "Cloud Native"
+            ]
+        },
+        "Mobile_Technology": {
+            "domain": "Mobile Technology / App Development",
+            "keywords": [
+                "Mobile Apps", "Cross-platform Development", "Mobile UI/UX", "App Performance",
+                "Mobile Security", "App Store Optimization", "Mobile Testing", "Progressive Web Apps",
+                "Mobile Analytics", "App Monetization", "Mobile Backend", "Native Development"
+            ]
+        },
+        "Network_Security": {
+            "domain": "Network Security / Infrastructure",
+            "keywords": [
+                "Network Protocols", "Firewall Systems", "Network Monitoring", "VPN Technology",
+                "Network Architecture", "Intrusion Detection", "Network Performance", "Wireless Security",
+                "Network Forensics", "SDN", "Network Automation", "Zero Trust"
+            ]
+        },
+        "Human_Computer": {
+            "domain": "Human-Computer Interaction",
+            "keywords": [
+                "User Interface Design", "User Experience", "Interaction Design", "Usability Testing",
+                "Accessibility", "Gesture Recognition", "Multi-modal Interfaces", "Interface Psychology",
+                "Design Patterns", "User Research", "Prototype Development", "Interface Evaluation"
+            ]
+        },
+        "Augmented_Reality": {
+            "domain": "Augmented Reality / Mixed Reality",
+            "keywords": [
+                "AR Applications", "Mixed Reality", "Spatial Computing", "AR Hardware",
+                "3D Tracking", "Virtual Objects", "AR Development", "Spatial Mapping",
+                "AR User Experience", "Holographic Displays", "AR Gaming", "Industrial AR"
+            ]
+        },
+        "Voice_Technology": {
+            "domain": "Voice Technology / Speech Processing",
+            "keywords": [
+                "Speech Recognition", "Voice Assistants", "Text-to-Speech", "Voice UI",
+                "Audio Processing", "Voice Analytics", "Speaker Recognition", "Voice Synthesis",
+                "Conversational Interfaces", "Voice Security", "Audio AI", "Speech Enhancement"
+            ]
+        },
+        "Bioinformatics": {
+            "domain": "Bioinformatics / Computational Biology",
+            "keywords": [
+                "Genomics", "Proteomics", "Sequence Analysis", "Phylogenetics",
+                "Structural Biology", "Systems Biology", "Computational Genomics", "Biostatistics",
+                "Molecular Modeling", "Drug Discovery", "Evolutionary Biology", "Omics Data"
+            ]
+        },
+        "Environmental_Monitoring": {
+            "domain": "Environmental Monitoring / Sensors",
+            "keywords": [
+                "Environmental Sensors", "Air Quality Monitoring", "Water Quality", "Pollution Detection",
+                "Climate Monitoring", "Ecosystem Monitoring", "Remote Sensing", "Environmental Data",
+                "Sensor Networks", "Environmental Analytics", "Biodiversity Monitoring", "Conservation Technology"
+            ]
+        },
+        "Digital_Twin": {
+            "domain": "Digital Twin Technology",
+            "keywords": [
+                "Digital Twins", "Simulation Models", "Real-time Synchronization", "Predictive Analytics",
+                "Asset Management", "System Monitoring", "Virtual Models", "IoT Integration",
+                "Model Validation", "Digital Representation", "Cyber-physical Systems", "Twin Analytics"
+            ]
+        },
+        "Edge_Computing": {
+            "domain": "Edge Computing / Fog Computing",
+            "keywords": [
+                "Edge Devices", "Fog Computing", "Distributed Processing", "Edge Analytics",
+                "Low Latency", "Edge AI", "Local Processing", "Edge Security",
+                "Real-time Computing", "Edge Networks", "Mobile Edge", "IoT Edge"
+            ]
+        },
+        "Autonomous_Systems": {
+            "domain": "Autonomous Systems / Self-Driving",
+            "keywords": [
+                "Self-driving Cars", "Autonomous Navigation", "Computer Vision", "Sensor Fusion",
+                "Path Planning", "Vehicle Control", "LIDAR", "Machine Learning", "Safety Systems",
+                "Traffic Systems", "Autonomous Drones", "Robotics Control"
+            ]
+        },
+        "Digital_Health": {
+            "domain": "Digital Health / Telemedicine",
+            "keywords": [
+                "Telemedicine", "Remote Monitoring", "Health Apps", "Electronic Health Records",
+                "Medical Devices", "Health Analytics", "Patient Care", "Digital Therapeutics",
+                "Health IoT", "Medical AI", "Health Data", "Remote Diagnosis"
+            ]
+        },
+        "Social_Media": {
+            "domain": "Social Media Technology / Platforms",
+            "keywords": [
+                "Social Networks", "Content Management", "User Engagement", "Social Analytics",
+                "Content Moderation", "Social Algorithms", "Community Building", "Viral Content",
+                "Social Commerce", "Influencer Technology", "Social Data", "Platform Security"
+            ]
+        },
+        "E_commerce": {
+            "domain": "E-commerce / Digital Marketplace",
+            "keywords": [
+                "Online Shopping", "Payment Systems", "Recommendation Engines", "Supply Chain",
+                "Customer Analytics", "Inventory Management", "Digital Marketing", "Order Fulfillment",
+                "Marketplace Technology", "Shopping Experience", "E-commerce Security", "Mobile Commerce"
+            ]
+        },
+        "PropTech": {
+            "domain": "Real Estate Technology / PropTech",
+            "keywords": [
+                "Property Management", "Real Estate Analytics", "Smart Buildings", "Property Search",
+                "Virtual Tours", "Real Estate Apps", "Property Investment", "Facility Management",
+                "Tenant Services", "Property Data", "Real Estate Finance", "Construction Tech"
+            ]
+        },
+        "LegalTech": {
+            "domain": "Legal Technology / LegalTech",
+            "keywords": [
+                "Legal Research", "Contract Analysis", "Legal Document Management", "Compliance Technology",
+                "Legal Analytics", "E-discovery", "Legal AI", "Court Technology", "Legal Practice Management",
+                "Legal Automation", "Regulatory Technology", "Intellectual Property"
+            ]
+        },
+        "InsurTech": {
+            "domain": "Insurance Technology / InsurTech",
+            "keywords": [
+                "Insurance Analytics", "Risk Assessment", "Claims Processing", "Underwriting Technology",
+                "Insurance Apps", "Fraud Detection", "Actuarial Technology", "Policy Management",
+                "Insurance Data", "Customer Onboarding", "Parametric Insurance", "Microinsurance"
+            ]
+        },
+        "TravelTech": {
+            "domain": "Travel Technology / TravelTech",
+            "keywords": [
+                "Travel Booking", "Trip Planning", "Travel Apps", "Hospitality Technology",
+                "Travel Analytics", "Location Services", "Travel Recommendations", "Travel Safety",
+                "Tourism Technology", "Travel Experience", "Transportation Apps", "Travel Data"
+            ]
+        },
+        "Music_Technology": {
+            "domain": "Music Technology / Audio Processing",
+            "keywords": [
+                "Audio Processing", "Music Production", "Audio Effects", "Music Streaming",
+                "Audio Recognition", "Music Analytics", "Sound Design", "Digital Audio",
+                "Music AI", "Audio Enhancement", "Music Discovery", "Concert Technology"
+            ]
+        },
+        "Video_Technology": {
+            "domain": "Video Technology / Streaming",
+            "keywords": [
+                "Video Streaming", "Video Processing", "Video Analytics", "Video Compression",
+                "Live Streaming", "Video Enhancement", "Content Delivery", "Video Production",
+                "Video Recognition", "Broadcasting", "Video Security", "Interactive Video"
+            ]
+        },
+        "Photography": {
+            "domain": "Photography / Image Enhancement",
+            "keywords": [
+                "Image Enhancement", "Photo Editing", "Computational Photography", "Camera Technology",
+                "Image Filters", "Photo Management", "Digital Photography", "Image Quality",
+                "Photo Analytics", "Image Restoration", "HDR Photography", "Portrait Enhancement"
+            ]
+        },
+        "Accessibility": {
+            "domain": "Accessibility Technology",
+            "keywords": [
+                "Assistive Technology", "Screen Readers", "Voice Control", "Sign Language",
+                "Braille Technology", "Mobility Aids", "Cognitive Assistance", "Sensory Technology",
+                "Inclusive Design", "Disability Support", "Adaptive Interfaces", "Universal Design"
+            ]
+        },
+        "AgeTech": {
+            "domain": "Elderly Care Technology / AgeTech",
+            "keywords": [
+                "Senior Care", "Health Monitoring", "Fall Detection", "Medication Management",
+                "Elderly Apps", "Social Connection", "Cognitive Health", "Independent Living",
+                "Caregiver Support", "Senior Safety", "Elder Technology", "Aging in Place"
+            ]
+        },
+        "Kids_Tech": {
+            "domain": "Child Development Technology / EdTech Kids",
+            "keywords": [
+                "Educational Games", "Child Safety", "Learning Apps", "Parental Controls",
+                "Child Development", "Interactive Learning", "STEM Education", "Creative Tools",
+                "Digital Playground", "Child Analytics", "Safe Technology", "Family Apps"
+            ]
+        },
+        "Pet_Technology": {
+            "domain": "Pet Technology / Animal Welfare",
+            "keywords": [
+                "Pet Monitoring", "Animal Health", "Pet Apps", "Smart Pet Devices",
+                "Animal Behavior", "Veterinary Technology", "Pet Safety", "Animal Tracking",
+                "Pet Care", "Animal Welfare", "Pet Training", "Wildlife Conservation"
+            ]
+        },
+        "Smart_Home": {
+            "domain": "Home Automation / Smart Home",
+            "keywords": [
+                "Home Automation", "Smart Devices", "IoT Home", "Energy Management",
+                "Home Security", "Smart Appliances", "Voice Control", "Home Analytics",
+                "Connected Home", "Building Automation", "Smart Lighting", "Climate Control"
+            ]
+        },
+        "Retail_Tech": {
+            "domain": "Retail Technology / Commerce Innovation",
+            "keywords": [
+                "Retail Analytics", "Point of Sale", "Inventory Management", "Customer Experience",
+                "Retail Automation", "Smart Stores", "Cashierless Shopping", "Retail AI",
+                "Visual Merchandising", "Omnichannel", "Retail Data", "Store Technology"
+            ]
+        },
+        "Library_Science": {
+            "domain": "Library Science / Information Systems",
+            "keywords": [
+                "Digital Libraries", "Information Retrieval", "Knowledge Management", "Cataloging Systems",
+                "Library Technology", "Information Architecture", "Digital Archives", "Library Analytics",
+                "Research Tools", "Information Organization", "Digital Collections", "Library Services"
+            ]
+        },
+        "Archaeological": {
+            "domain": "Archaeological Technology / Digital Heritage",
+            "keywords": [
+                "Digital Archaeology", "3D Scanning", "Cultural Heritage", "Archaeological Data",
+                "Heritage Preservation", "Virtual Museums", "Historical Reconstruction", "Artifact Analysis",
+                "Archaeological GIS", "Digital Preservation", "Heritage Technology", "Archaeological Imaging"
+            ]
+        },
+        "Religious_Tech": {
+            "domain": "Religious Technology / Spiritual Apps",
+            "keywords": [
+                "Prayer Apps", "Religious Education", "Spiritual Wellness", "Faith Communities",
+                "Religious Content", "Meditation Apps", "Scripture Technology", "Religious Analytics",
+                "Faith-based Apps", "Spiritual Guidance", "Religious Communication", "Sacred Technology"
+            ]
+        }
 };
 
 // Comprehensive Problems Dataset (2000+ problems across 32 domains)
