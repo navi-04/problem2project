@@ -24808,6 +24808,359 @@ const PROBLEMS_DATA = {
     "description": "Design AI systems to plan and optimize emergency evacuations for nuclear plant incidents.",
     "keywords": ["AI", "Emergency Planning", "Nuclear Safety", "Automation"]
   },
+  //domain-39
+  {
+  "id": 3601,
+  "title": "Nanomaterials for High-Strength Lightweight Composites",
+  "domain": "39",
+  "description": "Develop advanced nanomaterial-based composites that provide high strength-to-weight ratio, enhancing applications in aerospace, automotive, and construction while ensuring durability and cost-effectiveness.",
+  "keywords": ["Nanomaterials", "Surface Engineering", "Nano Coatings"]
+},
+{
+  "id": 3602,
+  "title": "Nanoelectronics for Ultra-Low Power Devices",
+  "domain": "39",
+  "description": "Design nanoelectronic circuits and architectures that drastically reduce power consumption, enabling the next generation of portable and wearable devices with longer battery life.",
+  "keywords": ["Nanoelectronics", "Nano Fabrication", "Carbon Nanotubes"]
+},
+{
+  "id": 3603,
+  "title": "Nanomedicine for Targeted Drug Delivery",
+  "domain": "39",
+  "description": "Build a nanoparticle-based drug delivery system that selectively targets diseased cells, improving therapeutic efficiency while reducing side effects in treatments like cancer therapy.",
+  "keywords": ["Nanomedicine", "Nanoparticles", "Molecular Assembly"]
+},
+{
+  "id": 3604,
+  "title": "Self-Healing Nano Coatings",
+  "domain": "39",
+  "description": "Develop smart nano coatings with self-healing properties to protect metals, plastics, and composites against corrosion, scratches, and environmental degradation.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3605,
+  "title": "Nano Sensors for Real-Time Health Monitoring",
+  "domain": "39",
+  "description": "Create nano-scale sensors capable of continuously monitoring vital biomarkers in human fluids, providing real-time feedback for preventive healthcare applications.",
+  "keywords": ["Nano Sensors", "Nanomedicine", "Nanoelectronics"]
+},
+{
+  "id": 3606,
+  "title": "Carbon Nanotubes for Flexible Electronics",
+  "domain": "39",
+  "description": "Investigate the use of carbon nanotube networks to build flexible, transparent, and stretchable electronic devices for next-generation wearable technology.",
+  "keywords": ["Carbon Nanotubes", "Nanoelectronics", "Nano Fabrication"]
+},
+{
+  "id": 3607,
+  "title": "Quantum Dots for Solar Energy Harvesting",
+  "domain": "39",
+  "description": "Develop solar cells enhanced with quantum dots that capture a wider spectrum of sunlight, increasing the overall efficiency of renewable energy systems.",
+  "keywords": ["Quantum Dots", "Nanomaterials", "Surface Engineering"]
+},
+{
+  "id": 3608,
+  "title": "Nano Robotics for Precision Surgery",
+  "domain": "39",
+  "description": "Design nano robotic systems capable of navigating the human bloodstream to perform highly precise surgical tasks at the cellular and molecular level.",
+  "keywords": ["Nano Robotics", "Nanomedicine", "Molecular Assembly"]
+},
+{
+  "id": 3609,
+  "title": "Molecular Assembly for Smart Materials",
+  "domain": "39",
+  "description": "Explore programmable molecular assembly techniques to create smart nanomaterials with adaptive properties for use in electronics, coatings, and biomedical devices.",
+  "keywords": ["Molecular Assembly", "Nanomaterials", "Surface Engineering"]
+},
+{
+  "id": 3610,
+  "title": "Nano Coatings for Antimicrobial Surfaces",
+  "domain": "39",
+  "description": "Develop antimicrobial nano coatings for hospital surfaces and medical devices to reduce healthcare-associated infections and improve patient safety.",
+  "keywords": ["Nano Coatings", "Nanomedicine", "Surface Engineering"]
+},
+{
+  "id": 3611,
+  "title": "Nanoparticles for Water Purification",
+  "domain": "39",
+  "description": "Design nanoparticle-based filtration systems that remove heavy metals, bacteria, and toxins from contaminated water sources efficiently and sustainably.",
+  "keywords": ["Nanoparticles", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3612,
+  "title": "Nanoelectronics for Quantum Computing",
+  "domain": "39",
+  "description": "Research nanoelectronic transistors and interconnects optimized for scalable quantum computing systems with minimal error rates and high processing speeds.",
+  "keywords": ["Nanoelectronics", "Quantum Dots", "Carbon Nanotubes"]
+},
+{
+  "id": 3613,
+  "title": "Nanomedicine for Regenerative Therapy",
+  "domain": "39",
+  "description": "Investigate nanotechnology-enabled scaffolds and nanoparticles to accelerate tissue regeneration and stem cell therapy for wound healing and organ repair.",
+  "keywords": ["Nanomedicine", "Molecular Assembly", "Nanoparticles"]
+},
+{
+  "id": 3614,
+  "title": "Nano Sensors for Environmental Monitoring",
+  "domain": "39",
+  "description": "Build nano-scale sensors to detect pollutants, greenhouse gases, and toxins in air and water for real-time environmental quality assessment.",
+  "keywords": ["Nano Sensors", "Nanoparticles", "Surface Engineering"]
+},
+{
+  "id": 3615,
+  "title": "Carbon Nanotubes for High-Energy Batteries",
+  "domain": "39",
+  "description": "Develop carbon nanotube-enhanced electrodes for high-capacity, long-life batteries powering electric vehicles and renewable energy storage.",
+  "keywords": ["Carbon Nanotubes", "Nano Fabrication", "Nanomaterials"]
+},
+{
+  "id": 3616,
+  "title": "Nano Robotics for Drug Delivery",
+  "domain": "39",
+  "description": "Design nano robots capable of transporting drugs precisely to tumor sites, reducing toxicity and increasing therapeutic effectiveness.",
+  "keywords": ["Nano Robotics", "Nanomedicine", "Nanoparticles"]
+},
+{
+  "id": 3617,
+  "title": "Nano Coatings for Heat Resistance",
+  "domain": "39",
+  "description": "Develop heat-resistant nano coatings for industrial turbines, engines, and aerospace applications to extend material life and performance.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3618,
+  "title": "Quantum Dots for Biomedical Imaging",
+  "domain": "39",
+  "description": "Create biocompatible quantum dots that provide high-resolution imaging for diagnostics, enabling early disease detection.",
+  "keywords": ["Quantum Dots", "Nanomedicine", "Nanoparticles"]
+},
+{
+  "id": 3619,
+  "title": "Nano Sensors for Food Safety",
+  "domain": "39",
+  "description": "Develop nano sensors that detect pathogens, allergens, and contaminants in food products to improve safety and quality assurance.",
+  "keywords": ["Nano Sensors", "Nanoparticles", "Surface Engineering"]
+},
+{
+  "id": 3620,
+  "title": "Nanomaterials for Next-Gen Wearable Devices",
+  "domain": "39",
+  "description": "Create flexible nanomaterials for wearable electronics that provide durability, stretchability, and advanced sensing capabilities.",
+  "keywords": ["Nanomaterials", "Carbon Nanotubes", "Nanoelectronics"]
+},
+{
+  "id": 3621,
+  "title": "Nanoelectronics for Brain-Computer Interfaces",
+  "domain": "39",
+  "description": "Design nanoelectronic components for seamless brain-computer communication, improving applications in healthcare and human augmentation.",
+  "keywords": ["Nanoelectronics", "Nano Sensors", "Carbon Nanotubes"]
+},
+{
+  "id": 3622,
+  "title": "Nano Fabrication for Miniaturized Sensors",
+  "domain": "39",
+  "description": "Explore advanced nano fabrication techniques to produce ultra-miniaturized sensors for industrial, medical, and environmental applications.",
+  "keywords": ["Nano Fabrication", "Nano Sensors", "Nanomaterials"]
+},
+{
+  "id": 3623,
+  "title": "Nanomedicine for Personalized Cancer Therapy",
+  "domain": "39",
+  "description": "Design patient-specific nanoparticle formulations to deliver chemotherapy drugs precisely, minimizing systemic side effects.",
+  "keywords": ["Nanomedicine", "Nanoparticles", "Molecular Assembly"]
+},
+{
+  "id": 3624,
+  "title": "Nano Coatings for Anti-Icing Applications",
+  "domain": "39",
+  "description": "Develop nano-engineered anti-icing coatings for aircraft, vehicles, and power lines to prevent accidents and improve safety.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3625,
+  "title": "Nano Robotics for Environmental Cleanup",
+  "domain": "39",
+  "description": "Build nano robotic systems capable of breaking down pollutants and microplastics in water and soil, contributing to sustainable ecosystems.",
+  "keywords": ["Nano Robotics", "Nanoparticles", "Surface Engineering"]
+},
+{
+  "id": 3626,
+  "title": "Molecular Assembly for Artificial Enzymes",
+  "domain": "39",
+  "description": "Develop molecularly assembled nanostructures that mimic natural enzymes for use in industrial catalysis and biomedical applications.",
+  "keywords": ["Molecular Assembly", "Nanomaterials", "Nanomedicine"]
+},
+{
+  "id": 3627,
+  "title": "Carbon Nanotubes for Ultra-Fast Transistors",
+  "domain": "39",
+  "description": "Research carbon nanotube-based transistors to achieve ultra-fast processing speeds in computing and nanoelectronics.",
+  "keywords": ["Carbon Nanotubes", "Nanoelectronics", "Nano Fabrication"]
+},
+{
+  "id": 3628,
+  "title": "Nano Sensors for Space Exploration",
+  "domain": "39",
+  "description": "Design nano-scale sensors that can withstand extreme environments for monitoring radiation, gases, and materials in space missions.",
+  "keywords": ["Nano Sensors", "Nanomaterials", "Surface Engineering"]
+},
+{
+  "id": 3629,
+  "title": "Quantum Dots for Smart Displays",
+  "domain": "39",
+  "description": "Develop quantum dot-enhanced display technology with superior color accuracy, brightness, and energy efficiency for consumer electronics.",
+  "keywords": ["Quantum Dots", "Nanoelectronics", "Nanomaterials"]
+},
+{
+  "id": 3630,
+  "title": "Nanoparticles for Vaccine Delivery",
+  "domain": "39",
+  "description": "Create nanoparticle-based carriers that improve the stability and delivery of vaccines, enhancing immune response and accessibility.",
+  "keywords": ["Nanoparticles", "Nanomedicine", "Molecular Assembly"]
+},
+{
+  "id": 3631,
+  "title": "Nano Coatings for Energy-Efficient Buildings",
+  "domain": "39",
+  "description": "Develop nano coatings that regulate heat and light transmission, reducing energy consumption in smart building designs.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3632,
+  "title": "Nano Robotics for Agriculture",
+  "domain": "39",
+  "description": "Design nano robots capable of monitoring soil nutrients, delivering fertilizers, and protecting crops against pests with precision.",
+  "keywords": ["Nano Robotics", "Nano Sensors", "Nanoparticles"]
+},
+{
+  "id": 3633,
+  "title": "Nanomaterials for Next-Gen Prosthetics",
+  "domain": "39",
+  "description": "Create lightweight, high-strength nanomaterials to build advanced prosthetics that mimic natural limb functionality.",
+  "keywords": ["Nanomaterials", "Surface Engineering", "Nano Fabrication"]
+},
+{
+  "id": 3634,
+  "title": "Nanoelectronics for Neuromorphic Computing",
+  "domain": "39",
+  "description": "Investigate nanoelectronic devices for neuromorphic architectures that replicate brain-like learning and processing.",
+  "keywords": ["Nanoelectronics", "Carbon Nanotubes", "Quantum Dots"]
+},
+{
+  "id": 3635,
+  "title": "Nanoparticles for Anti-Cancer Imaging",
+  "domain": "39",
+  "description": "Design nanoparticles that selectively bind to cancer cells for high-resolution imaging during diagnostics and surgery.",
+  "keywords": ["Nanoparticles", "Nanomedicine", "Quantum Dots"]
+},
+{
+  "id": 3636,
+  "title": "Nano Fabrication for Smart Textiles",
+  "domain": "39",
+  "description": "Develop nano-fabricated textiles embedded with sensors for monitoring body parameters and environmental conditions.",
+  "keywords": ["Nano Fabrication", "Nanomaterials", "Nano Sensors"]
+},
+{
+  "id": 3637,
+  "title": "Nano Sensors for Industrial Safety",
+  "domain": "39",
+  "description": "Create nano sensors to detect toxic gases and structural weaknesses in factories, improving worker safety.",
+  "keywords": ["Nano Sensors", "Nanomaterials", "Surface Engineering"]
+},
+{
+  "id": 3638,
+  "title": "Carbon Nanotubes for Spacecraft Shielding",
+  "domain": "39",
+  "description": "Research carbon nanotube composites for radiation shielding in spacecraft, improving astronaut safety on long missions.",
+  "keywords": ["Carbon Nanotubes", "Nanomaterials", "Surface Engineering"]
+},
+{
+  "id": 3639,
+  "title": "Quantum Dots for Bio-Sensing Applications",
+  "domain": "39",
+  "description": "Investigate quantum dot-based biosensors capable of detecting biomolecules at ultra-low concentrations for early disease diagnostics.",
+  "keywords": ["Quantum Dots", "Nano Sensors", "Nanomedicine"]
+},
+{
+  "id": 3640,
+  "title": "Nano Robotics for Precision Agriculture",
+  "domain": "39",
+  "description": "Develop nano robots to analyze soil health and deliver targeted micro-doses of fertilizers, boosting crop yields sustainably.",
+  "keywords": ["Nano Robotics", "Molecular Assembly", "Nano Sensors"]
+},
+{
+  "id": 3641,
+  "title": "Nano Coatings for Anti-Fouling Marine Surfaces",
+  "domain": "39",
+  "description": "Design anti-fouling nano coatings that prevent marine organism growth on ship hulls, reducing fuel consumption and maintenance costs.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3642,
+  "title": "Nanoparticles for Gene Therapy",
+  "domain": "39",
+  "description": "Build nanoparticle vectors to safely deliver genes into human cells, opening new possibilities in genetic disorder treatments.",
+  "keywords": ["Nanoparticles", "Nanomedicine", "Molecular Assembly"]
+},
+{
+  "id": 3643,
+  "title": "Nanoelectronics for Flexible Displays",
+  "domain": "39",
+  "description": "Develop nanoelectronic materials and architectures to enable foldable, rollable, and flexible display technologies.",
+  "keywords": ["Nanoelectronics", "Carbon Nanotubes", "Nano Fabrication"]
+},
+{
+  "id": 3644,
+  "title": "Nanomaterials for Thermal Management",
+  "domain": "39",
+  "description": "Design nanomaterials with high thermal conductivity for efficient heat dissipation in electronic devices and high-power systems.",
+  "keywords": ["Nanomaterials", "Surface Engineering", "Carbon Nanotubes"]
+},
+{
+  "id": 3645,
+  "title": "Nano Sensors for Smart Packaging",
+  "domain": "39",
+  "description": "Develop nano sensors integrated into packaging to detect spoilage, contamination, and freshness in food and pharmaceuticals.",
+  "keywords": ["Nano Sensors", "Nanoparticles", "Surface Engineering"]
+},
+{
+  "id": 3646,
+  "title": "Nano Fabrication for Lab-on-a-Chip Devices",
+  "domain": "39",
+  "description": "Use advanced nano fabrication methods to build lab-on-a-chip devices that integrate diagnostics and testing in a portable format.",
+  "keywords": ["Nano Fabrication", "Nanomedicine", "Nano Sensors"]
+},
+{
+  "id": 3647,
+  "title": "Nano Robotics for Waste Management",
+  "domain": "39",
+  "description": "Create nano robotic swarms that can break down hazardous waste at the molecular level, reducing environmental risks.",
+  "keywords": ["Nano Robotics", "Molecular Assembly", "Nanoparticles"]
+},
+{
+  "id": 3648,
+  "title": "Quantum Dots for Photodynamic Therapy",
+  "domain": "39",
+  "description": "Investigate quantum dot-assisted photodynamic therapy for treating tumors with high precision and minimal invasiveness.",
+  "keywords": ["Quantum Dots", "Nanomedicine", "Nanoparticles"]
+},
+{
+  "id": 3649,
+  "title": "Nano Coatings for Wear Resistance",
+  "domain": "39",
+  "description": "Develop ultra-hard nano coatings to improve wear resistance of industrial tools, extending their lifespan and reducing costs.",
+  "keywords": ["Nano Coatings", "Surface Engineering", "Nanomaterials"]
+},
+{
+  "id": 3650,
+  "title": "Nanoparticles for Brain Drug Delivery",
+  "domain": "39",
+  "description": "Design nanoparticles that can cross the blood-brain barrier, enabling effective delivery of drugs for neurological disorders.",
+  "keywords": ["Nanoparticles", "Nanomedicine", "Molecular Assembly"]
+},
+//domain-40
+
 
 
 
