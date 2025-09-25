@@ -1607,7 +1607,7 @@ const PROBLEMS_DATA = {
         "29": "Supply Chain / Logistics",
         "30": "Climate Science / Weather",
         "31": "Virtual Reality / Metaverse",
-        "32": "Quantum Computing"
+        "32": "Quantum Computing",
         "33": "Blockchain / Web3",
         "34": "Artificial Intelligence Ethics",
         "35": "Neuroscience / Brain-Computer Interface",
