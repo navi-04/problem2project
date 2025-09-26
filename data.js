@@ -25614,6 +25614,359 @@ const PROBLEMS_DATA = {
     "description": "Develop a centralized biomass heating system for rural communities to reduce reliance on fossil fuels.",
     "keywords": ["Biomass", "Energy Efficiency", "Smart Grid"]
   },
+//domain- 42
+  {
+    "id": 3751,
+    "title": "AI-Driven Traffic Signal Optimization",
+    "domain": "42",
+    "description": "Urban traffic congestion leads to wasted fuel and increased pollution. The project aims to develop AI-based adaptive traffic light systems that use real-time traffic data to optimize signal timings dynamically, reducing wait times and emissions.",
+    "keywords": ["Traffic Management", "Urban Analytics", "Urban Mobility", "City Data"]
+  },
+  {
+    "id": 3752,
+    "title": "IoT-Powered Waste Bin Monitoring",
+    "domain": "42",
+    "description": "Overflowing waste bins create hygiene and environmental issues in cities. This project proposes IoT-enabled smart bins that track fill levels and alert municipal services for timely collection, reducing costs and improving cleanliness.",
+    "keywords": ["Waste Management", "Urban IoT", "Citizen Services", "Smart Infrastructure"]
+  },
+  {
+    "id": 3753,
+    "title": "Smart Parking Guidance System",
+    "domain": "42",
+    "description": "Finding parking in urban areas wastes time and increases traffic congestion. The challenge is to build a sensor-based parking system that guides drivers to available spots in real time through mobile apps or digital signboards.",
+    "keywords": ["Urban Mobility", "Urban Sensors", "Traffic Management", "Smart Infrastructure"]
+  },
+  {
+    "id": 3754,
+    "title": "Digital Twin for Urban Planning",
+    "domain": "42",
+    "description": "Urban planning often lacks simulation tools for evaluating large-scale infrastructure decisions. This project aims to create a digital twin of a city to simulate traffic flow, energy usage, and citizen services for better planning outcomes.",
+    "keywords": ["City Planning", "Urban Analytics", "Smart Infrastructure", "City Data"]
+  },
+  {
+    "id": 3755,
+    "title": "Smart Street Lighting System",
+    "domain": "42",
+    "description": "Conventional street lights waste energy by running at full brightness all night. The project focuses on a smart lighting system that adjusts brightness based on pedestrian movement, weather, and traffic density.",
+    "keywords": ["Smart Infrastructure", "Urban Sensors", "Energy Efficiency", "City Data"]
+  },
+  {
+    "id": 3756,
+    "title": "Urban Air Quality Monitoring Network",
+    "domain": "42",
+    "description": "Air pollution in cities severely affects health. This project proposes a distributed IoT sensor network that monitors air quality in real time and integrates with public dashboards to support data-driven urban policies.",
+    "keywords": ["Urban Sensors", "Urban Analytics", "Citizen Services", "Urban IoT"]
+  },
+  {
+    "id": 3757,
+    "title": "AI-Powered Public Transport Scheduling",
+    "domain": "42",
+    "description": "Public transport systems often struggle with delays and overcrowding. This project explores AI algorithms that analyze passenger demand and traffic conditions to optimize bus and train schedules dynamically.",
+    "keywords": ["Urban Mobility", "Urban Analytics", "Traffic Management", "Digital Governance"]
+  },
+  {
+    "id": 3758,
+    "title": "Blockchain-Based Land Record System",
+    "domain": "42",
+    "description": "Urban land ownership disputes are common due to fraudulent or missing records. The challenge is to build a blockchain-based land registry for transparent, tamper-proof, and citizen-accessible property documentation.",
+    "keywords": ["Digital Governance", "City Planning", "Citizen Services", "Smart Infrastructure"]
+  },
+  {
+    "id": 3759,
+    "title": "Emergency Vehicle Priority Routing",
+    "domain": "42",
+    "description": "Emergency vehicles often face traffic delays, risking lives. This project designs a system that communicates between traffic lights and emergency vehicles, giving them priority routes for faster response times.",
+    "keywords": ["Traffic Management", "Urban Mobility", "Smart Infrastructure", "City Data"]
+  },
+  {
+    "id": 3760,
+    "title": "AI-Based Noise Pollution Mapping",
+    "domain": "42",
+    "description": "Noise pollution is an overlooked urban problem impacting health. The project aims to deploy sound sensors across the city and use AI analytics to map noise hotspots and inform urban planning decisions.",
+    "keywords": ["Urban Sensors", "Urban Analytics", "City Data", "Citizen Services"]
+  },
+  {
+    "id": 3761,
+    "title": "Smart Building Energy Optimization",
+    "domain": "42",
+    "description": "Buildings consume a significant portion of urban energy. This project develops IoT-enabled smart meters and AI-driven analytics to monitor and optimize energy consumption in commercial and residential complexes.",
+    "keywords": ["Smart Buildings", "Urban IoT", "Energy Efficiency", "Urban Analytics"]
+  },
+  {
+    "id": 3762,
+    "title": "E-Governance Citizen Feedback Portal",
+    "domain": "42",
+    "description": "Citizens often lack a structured platform to provide feedback on urban services. This project proposes a digital governance system where residents can report issues, suggest improvements, and track resolution progress.",
+    "keywords": ["Digital Governance", "Citizen Services", "Smart Infrastructure", "City Data"]
+  },
+  {
+    "id": 3763,
+    "title": "Smart Water Distribution System",
+    "domain": "42",
+    "description": "Urban areas face water loss due to leakage and poor distribution. The project envisions a smart water grid with sensors to monitor flow, detect leaks, and ensure equitable water supply across city regions.",
+    "keywords": ["Smart Infrastructure", "Urban Sensors", "City Planning", "Urban IoT"]
+  },
+  {
+    "id": 3764,
+    "title": "Pedestrian Safety Monitoring System",
+    "domain": "42",
+    "description": "Pedestrian accidents are common in high-traffic areas. The project develops smart crosswalks with embedded sensors and real-time alerts to enhance pedestrian safety and improve traffic compliance.",
+    "keywords": ["Traffic Management", "Urban Sensors", "Citizen Services", "Urban Mobility"]
+  },
+  {
+    "id": 3765,
+    "title": "AI-Based Urban Heat Island Mitigation",
+    "domain": "42",
+    "description": "Urban heat islands increase health risks and energy demand. This project applies AI-based analytics to identify heat-prone zones and recommend green infrastructure solutions such as parks and reflective materials.",
+    "keywords": ["Urban Analytics", "City Planning", "Smart Infrastructure", "City Data"]
+  },
+  {
+    "id": 3766,
+    "title": "Smart Flood Management System",
+    "domain": "42",
+    "description": "Flooding causes major damage in urban regions. The project focuses on a sensor-driven flood monitoring system that integrates with city data to issue early warnings and guide emergency response operations.",
+    "keywords": ["Urban Sensors", "Smart Infrastructure", "City Data", "Citizen Services"]
+  },
+  {
+    "id": 3767,
+    "title": "Urban Mobility-as-a-Service Platform",
+    "domain": "42",
+    "description": "Citizens often use multiple apps for buses, cabs, and bikes. This project integrates all transport options into a single Mobility-as-a-Service (MaaS) platform with route optimization and real-time availability tracking.",
+    "keywords": ["Urban Mobility", "Smart Infrastructure", "Traffic Management", "Digital Governance"]
+  },
+  {
+    "id": 3768,
+    "title": "AI-Enabled Smart Grid for Cities",
+    "domain": "42",
+    "description": "Urban energy grids face frequent demand fluctuations. This project proposes a smart grid that leverages AI to balance supply-demand, integrate renewable sources, and ensure resilient urban power systems.",
+    "keywords": ["Smart Infrastructure", "City Data", "Urban IoT", "Smart Buildings"]
+  },
+  {
+    "id": 3769,
+    "title": "Smart Disaster Response Coordination",
+    "domain": "42",
+    "description": "Urban disaster response is often uncoordinated due to poor data flow. The project builds a digital governance platform that connects rescue teams, city sensors, and citizen apps for coordinated disaster management.",
+    "keywords": ["Digital Governance", "Citizen Services", "Urban IoT", "City Data"]
+  },
+  {
+    "id": 3770,
+    "title": "AI-Powered Smart Zoning System",
+    "domain": "42",
+    "description": "City zoning regulations are outdated and inefficient. The project leverages AI to analyze urban growth trends, citizen needs, and infrastructure requirements to create dynamic, adaptive zoning policies.",
+    "keywords": ["City Planning", "Urban Analytics", "Digital Governance", "City Data"]
+  },
+  {
+    "id": 3771,
+    "title": "Urban Crowd Management Using AI",
+    "domain": "42",
+    "description": "Large public gatherings often lead to overcrowding and safety risks. This project proposes AI-powered video analytics to monitor crowd density, predict congestion, and provide real-time alerts to authorities.",
+    "keywords": ["Urban Analytics", "Urban Sensors", "Citizen Services", "City Data"]
+  },
+  {
+    "id": 3772,
+    "title": "Smart Public Toilet Monitoring",
+    "domain": "42",
+    "description": "Public toilets in cities often face poor hygiene and maintenance issues. This project develops IoT-enabled monitoring systems to track cleanliness, water availability, and usage to ensure better citizen services.",
+    "keywords": ["Urban IoT", "Citizen Services", "Smart Infrastructure", "Urban Sensors"]
+  },
+  {
+    "id": 3773,
+    "title": "AI-Driven Traffic Accident Prediction",
+    "domain": "42",
+    "description": "Urban roads face frequent accidents due to poor traffic management. The project applies AI models on city traffic and weather data to predict high-risk zones and suggest preventive measures.",
+    "keywords": ["Traffic Management", "Urban Analytics", "City Data", "Urban Mobility"]
+  },
+  {
+    "id": 3774,
+    "title": "Smart Noise-Reducing Barriers",
+    "domain": "42",
+    "description": "Highway and urban traffic produce harmful noise levels. This project designs smart sound barriers with embedded sensors to adaptively reduce noise based on traffic density and time of day.",
+    "keywords": ["Smart Infrastructure", "Urban Sensors", "Citizen Services", "City Planning"]
+  },
+  {
+    "id": 3775,
+    "title": "Green Roof Monitoring System",
+    "domain": "42",
+    "description": "Urban green roofs help reduce pollution and improve heat resilience but require proper maintenance. This project proposes IoT-enabled monitoring systems to track soil moisture, vegetation health, and cooling effects.",
+    "keywords": ["Smart Buildings", "Urban IoT", "City Planning", "Urban Analytics"]
+  },
+  {
+    "id": 3776,
+    "title": "AI-Powered Smart Traffic Cameras",
+    "domain": "42",
+    "description": "Traffic law enforcement in cities is often inefficient. This project uses AI-based cameras to automatically detect violations such as red-light jumping, over-speeding, and illegal parking.",
+    "keywords": ["Traffic Management", "Urban Sensors", "Digital Governance", "Urban Analytics"]
+  },
+  {
+    "id": 3777,
+    "title": "Smart Waste-to-Energy Conversion Units",
+    "domain": "42",
+    "description": "Urban waste management systems often struggle with landfill overflows. The project envisions decentralized smart units that convert organic waste into energy using IoT-enabled tracking and analytics.",
+    "keywords": ["Waste Management", "Smart Infrastructure", "Urban IoT", "City Data"]
+  },
+  {
+    "id": 3778,
+    "title": "AI-Enabled Smart Housing Allocation",
+    "domain": "42",
+    "description": "Affordable housing allocation in cities is often inequitable. This project uses AI-based analytics on citizen and city data to ensure fair, transparent, and optimized allocation of housing resources.",
+    "keywords": ["City Planning", "Digital Governance", "Citizen Services", "Urban Analytics"]
+  },
+  {
+    "id": 3779,
+    "title": "Smart Fire Detection and Response",
+    "domain": "42",
+    "description": "Urban fire incidents escalate due to delayed detection. This project proposes IoT-enabled fire sensors integrated with city emergency services for real-time alerts and automated response coordination.",
+    "keywords": ["Urban Sensors", "Smart Infrastructure", "Citizen Services", "Urban IoT"]
+  },
+  {
+    "id": 3780,
+    "title": "Digital Twin for Smart Buildings",
+    "domain": "42",
+    "description": "Building management systems lack predictive analytics. This project builds digital twins of smart buildings to simulate energy consumption, maintenance needs, and optimize long-term sustainability.",
+    "keywords": ["Smart Buildings", "Urban Analytics", "Urban IoT", "City Data"]
+  },
+  {
+    "id": 3781,
+    "title": "Smart Bicycle Sharing Network",
+    "domain": "42",
+    "description": "Bike-sharing systems often face uneven distribution of bicycles across stations. This project applies AI and IoT to balance bike availability dynamically and improve last-mile connectivity in cities.",
+    "keywords": ["Urban Mobility", "Smart Infrastructure", "City Data", "Urban IoT"]
+  },
+  {
+    "id": 3782,
+    "title": "AI-Based Traffic Noise Forecasting",
+    "domain": "42",
+    "description": "Urban noise levels fluctuate due to traffic patterns. This project leverages AI analytics on traffic and weather data to forecast noise levels and recommend urban design interventions.",
+    "keywords": ["Urban Analytics", "Traffic Management", "City Data", "Citizen Services"]
+  },
+  {
+    "id": 3783,
+    "title": "Smart Underground Utility Monitoring",
+    "domain": "42",
+    "description": "Underground utilities like water pipes and gas lines are difficult to monitor. This project develops IoT-based smart monitoring systems to detect leaks, blockages, and potential hazards.",
+    "keywords": ["Smart Infrastructure", "Urban IoT", "City Data", "Citizen Services"]
+  },
+  {
+    "id": 3784,
+    "title": "AI-Enabled Urban Waste Segregation",
+    "domain": "42",
+    "description": "Improper waste segregation leads to recycling inefficiency. This project uses AI-powered vision systems in smart bins to automatically categorize waste into recyclable, organic, and hazardous categories.",
+    "keywords": ["Waste Management", "Urban IoT", "Urban Analytics", "Citizen Services"]
+  },
+  {
+    "id": 3785,
+    "title": "Smart Pavement Health Monitoring",
+    "domain": "42",
+    "description": "City pavements often deteriorate unnoticed, causing accidents. This project implements embedded IoT sensors in roads to detect cracks, monitor load, and schedule predictive maintenance.",
+    "keywords": ["Urban Sensors", "Smart Infrastructure", "City Planning", "City Data"]
+  },
+  {
+    "id": 3786,
+    "title": "AI-Powered Digital Citizen ID",
+    "domain": "42",
+    "description": "Urban services are often fragmented across platforms. This project proposes a unified AI-driven digital citizen ID that integrates health, transport, and governance services for seamless access.",
+    "keywords": ["Digital Governance", "Citizen Services", "Urban IoT", "City Data"]
+  },
+  {
+    "id": 3787,
+    "title": "Smart Drone-Based City Surveillance",
+    "domain": "42",
+    "description": "City surveillance systems often lack flexibility. This project designs drones with smart cameras and AI analytics to monitor traffic, crime hotspots, and environmental issues in real time.",
+    "keywords": ["Urban Sensors", "Urban Analytics", "Traffic Management", "Digital Governance"]
+  },
+  {
+    "id": 3788,
+    "title": "AI-Driven Evacuation Planning",
+    "domain": "42",
+    "description": "Emergency evacuation in urban disasters is often chaotic. This project develops AI algorithms that simulate urban mobility patterns to design effective evacuation strategies during crises.",
+    "keywords": ["City Planning", "Urban Analytics", "Citizen Services", "Urban Mobility"]
+  },
+  {
+    "id": 3789,
+    "title": "Smart Urban Noise-Reducing Windows",
+    "domain": "42",
+    "description": "Urban households face high noise levels from traffic and industry. This project creates smart windows that use active noise-canceling technology integrated with IoT sensors for real-time adjustment.",
+    "keywords": ["Smart Buildings", "Urban IoT", "Citizen Services", "Urban Sensors"]
+  },
+  {
+    "id": 3790,
+    "title": "AI-Based Smart Street Vendor Management",
+    "domain": "42",
+    "description": "Street vending in cities often creates congestion and disputes. This project uses AI and IoT to monitor vending zones, ensure fair allocation, and balance economic and urban planning needs.",
+    "keywords": ["City Planning", "Digital Governance", "Citizen Services", "Urban Analytics"]
+  },
+  {
+    "id": 3791,
+    "title": "Urban Smart EV Charging Network",
+    "domain": "42",
+    "description": "Electric vehicle charging infrastructure in cities is limited and unevenly distributed. This project develops a smart EV charging network with AI-based demand prediction and IoT-based monitoring.",
+    "keywords": ["Urban Mobility", "Smart Infrastructure", "Urban IoT", "City Data"]
+  },
+  {
+    "id": 3792,
+    "title": "AI-Powered Urban Resource Allocation",
+    "domain": "42",
+    "description": "Urban governments often allocate resources inefficiently. This project proposes AI-driven decision systems to allocate budgets, water, energy, and emergency services based on real-time city data.",
+    "keywords": ["Digital Governance", "Urban Analytics", "City Planning", "City Data"]
+  },
+  {
+    "id": 3793,
+    "title": "Smart Public WiFi with Analytics",
+    "domain": "42",
+    "description": "Public WiFi systems lack smart monitoring. This project integrates AI analytics into citywide WiFi to manage load, enhance security, and improve digital citizen services.",
+    "keywords": ["Digital Governance", "Citizen Services", "Smart Infrastructure", "City Data"]
+  },
+  {
+    "id": 3794,
+    "title": "AI-Driven Smart Building Safety System",
+    "domain": "42",
+    "description": "Building safety systems are often reactive rather than preventive. This project integrates AI analytics with IoT-enabled fire, gas, and structural sensors for predictive urban building safety.",
+    "keywords": ["Smart Buildings", "Urban IoT", "Citizen Services", "Urban Sensors"]
+  },
+  {
+    "id": 3795,
+    "title": "Smart Public Transport Accessibility",
+    "domain": "42",
+    "description": "Disabled citizens often face difficulties using public transport. This project develops IoT-based accessibility features and AI route planners to improve inclusivity in urban mobility systems.",
+    "keywords": ["Urban Mobility", "Citizen Services", "Smart Infrastructure", "Urban IoT"]
+  },
+  {
+    "id": 3796,
+    "title": "AI-Powered Urban Tree Health Monitoring",
+    "domain": "42",
+    "description": "Urban trees play a key role in sustainability but lack proper monitoring. This project leverages AI and IoT sensors to track tree health, detect diseases, and inform city greening policies.",
+    "keywords": ["City Planning", "Urban Analytics", "Urban Sensors", "Smart Infrastructure"]
+  },
+  {
+    "id": 3797,
+    "title": "Smart Traffic Incident Response",
+    "domain": "42",
+    "description": "Traffic accidents cause long delays due to slow response. This project designs a real-time incident detection and automated alert system using IoT sensors and AI analytics to improve emergency handling.",
+    "keywords": ["Traffic Management", "Urban IoT", "Urban Analytics", "Citizen Services"]
+  },
+  {
+    "id": 3798,
+    "title": "Urban Smart Flood Drainage Network",
+    "domain": "42",
+    "description": "Poorly managed drainage leads to flooding in cities. This project proposes IoT-enabled drainage systems that self-monitor water flow, detect blockages, and optimize drainage operations.",
+    "keywords": ["Smart Infrastructure", "Urban Sensors", "City Data", "Citizen Services"]
+  },
+  {
+    "id": 3799,
+    "title": "AI-Based Urban Gentrification Analysis",
+    "domain": "42",
+    "description": "Gentrification impacts urban equity and housing affordability. This project applies AI to analyze socio-economic data, housing trends, and mobility patterns to guide sustainable city planning.",
+    "keywords": ["City Planning", "Urban Analytics", "City Data", "Digital Governance"]
+  },
+  {
+    "id": 3800,
+    "title": "Smart Pedestrian Flow Optimization",
+    "domain": "42",
+    "description": "Pedestrian bottlenecks occur in stations, malls, and city centers. This project develops IoT-enabled pedestrian flow sensors combined with AI analytics to optimize pathways and improve safety.",
+    "keywords": ["Urban Mobility", "Urban Sensors", "City Data", "Urban Analytics"]
+  }
+  //domain-43
+
 
 
 
