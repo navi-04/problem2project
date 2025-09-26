@@ -26318,6 +26318,710 @@ const PROBLEMS_DATA = {
     "keywords": ["Ocean Energy", "Offshore Systems", "Marine Engineering"]
   },
   //domain-44
+  {
+    "id": 3851,
+    "title": "AI-Powered Flood Prediction System",
+    "domain": "44",
+    "description": "Floods cause severe damage to life and property. This project aims to build an AI-driven model that predicts flood risks using weather patterns, soil moisture, and satellite imagery, enabling timely warnings and preventive measures.",
+    "keywords": ["Disaster Prediction", "Disaster Monitoring", "Risk Assessment"]
+  },
+  {
+    "id": 3852,
+    "title": "IoT-Based Earthquake Early Warning Network",
+    "domain": "44",
+    "description": "Earthquakes strike without warning, leading to major loss of life. This project proposes a distributed IoT sensor network capable of detecting seismic activity and broadcasting early warnings to vulnerable communities in seconds.",
+    "keywords": ["Emergency Networks", "Disaster Prediction", "Community Resilience"]
+  },
+  {
+    "id": 3853,
+    "title": "Smart Evacuation Route Planner",
+    "domain": "44",
+    "description": "In chaotic situations like fires or earthquakes, people often panic and get stuck in blocked routes. The project aims to design a dynamic evacuation system that uses real-time building layouts, crowd density, and hazard maps to guide individuals safely.",
+    "keywords": ["Evacuation Planning", "Emergency Systems", "Rescue Technology"]
+  },
+  {
+    "id": 3854,
+    "title": "Drone-Assisted Search and Rescue",
+    "domain": "44",
+    "description": "Rescue operations in disaster-hit areas often face delays due to inaccessibility. This project proposes drones equipped with cameras, infrared sensors, and AI recognition to detect survivors and relay coordinates to rescue teams.",
+    "keywords": ["Rescue Technology", "Disaster Monitoring", "Emergency Logistics"]
+  },
+  {
+    "id": 3855,
+    "title": "Community-Based Crisis Communication App",
+    "domain": "44",
+    "description": "Communication lines often fail during disasters. This project aims to develop a peer-to-peer mobile application that allows offline messaging and SOS alerts between community members, ensuring connectivity even without internet.",
+    "keywords": ["Crisis Communication", "Emergency Networks", "Community Resilience"]
+  },
+  {
+    "id": 3856,
+    "title": "AI-Enhanced Wildfire Spread Prediction",
+    "domain": "44",
+    "description": "Wildfires spread rapidly, making containment difficult. This project aims to model and predict wildfire spread using satellite data, vegetation density, wind patterns, and machine learning for faster firefighting responses.",
+    "keywords": ["Disaster Prediction", "Disaster Monitoring", "Risk Assessment"]
+  },
+  {
+    "id": 3857,
+    "title": "Wearable First Aid Assistance Device",
+    "domain": "44",
+    "description": "Victims often lack immediate medical support during disasters. The project proposes a wearable device that provides real-time first aid guidance, monitors vitals, and connects with emergency responders for faster medical help.",
+    "keywords": ["First Aid Technology", "Emergency Systems", "Rescue Technology"]
+  },
+  {
+    "id": 3858,
+    "title": "Emergency Logistics Optimization System",
+    "domain": "44",
+    "description": "Relief distribution during disasters often faces bottlenecks. This project develops an AI system that optimizes logistics by predicting demand hotspots, mapping safe transport routes, and coordinating supply chains efficiently.",
+    "keywords": ["Emergency Logistics", "Disaster Recovery", "Risk Assessment"]
+  },
+  {
+    "id": 3859,
+    "title": "Satellite-Based Tsunami Monitoring and Alert System",
+    "domain": "44",
+    "description": "Tsunamis hit coastal regions with little preparation time. This project uses satellite data, ocean sensors, and AI to detect seismic activity and generate instant warnings to minimize casualties in vulnerable areas.",
+    "keywords": ["Disaster Prediction", "Disaster Monitoring", "Emergency Systems"]
+  },
+  {
+    "id": 3860,
+    "title": "Smart Shelter Allocation System",
+    "domain": "44",
+    "description": "Managing shelters during disasters is challenging. This project proposes a digital platform that allocates disaster victims to nearby safe shelters based on capacity, distance, and transportation availability.",
+    "keywords": ["Evacuation Planning", "Emergency Systems", "Community Resilience"]
+  },
+  {
+    "id": 3861,
+    "title": "AI-Based Landslide Prediction System",
+    "domain": "44",
+    "description": "Landslides pose threats in hilly regions. This project uses terrain analysis, rainfall data, and soil stability monitoring to create predictive models that issue early warnings to residents and authorities.",
+    "keywords": ["Disaster Prediction", "Disaster Monitoring", "Risk Assessment"]
+  },
+  {
+    "id": 3862,
+    "title": "Smart Firefighting Robots",
+    "domain": "44",
+    "description": "Firefighters often face high-risk environments. This project develops autonomous robots capable of navigating burning structures, extinguishing fires, and rescuing trapped individuals safely.",
+    "keywords": ["Rescue Technology", "Emergency Systems", "Disaster Recovery"]
+  },
+  {
+    "id": 3863,
+    "title": "Blockchain-Based Relief Fund Tracking",
+    "domain": "44",
+    "description": "Relief funds often face corruption and mismanagement. This project proposes a blockchain-based transparent system to track donations, disbursements, and aid distribution to ensure accountability.",
+    "keywords": ["Disaster Recovery", "Emergency Systems", "Community Resilience"]
+  },
+  {
+    "id": 3864,
+    "title": "Smart Flood-Resilient Infrastructure Planning",
+    "domain": "44",
+    "description": "Urban areas face flooding due to poor planning. This project aims to design AI-driven models that suggest resilient urban layouts, drainage systems, and green zones to mitigate flood risks.",
+    "keywords": ["Risk Assessment", "Community Resilience", "Disaster Recovery"]
+  },
+  {
+    "id": 3865,
+    "title": "AI-Powered Epidemic Outbreak Prediction",
+    "domain": "44",
+    "description": "Pandemics spread rapidly in disaster-hit zones. This project develops predictive models using population density, mobility data, and infection trends to forecast outbreaks and assist emergency planning.",
+    "keywords": ["Disaster Prediction", "Emergency Systems", "Disaster Monitoring"]
+  },
+  {
+    "id": 3866,
+    "title": "Portable Water Purification Units for Emergencies",
+    "domain": "44",
+    "description": "Disaster victims often lack access to clean drinking water. This project proposes affordable, portable, and solar-powered purification systems for rapid deployment in crisis situations.",
+    "keywords": ["Emergency Logistics", "Disaster Recovery", "Community Resilience"]
+  },
+  {
+    "id": 3867,
+    "title": "AI-Powered Disaster Damage Assessment",
+    "domain": "44",
+    "description": "Authorities need quick post-disaster assessments. This project uses drone imagery and AI to estimate damage to infrastructure, helping prioritize recovery operations and resource allocation.",
+    "keywords": ["Disaster Monitoring", "Risk Assessment", "Disaster Recovery"]
+  },
+  {
+    "id": 3868,
+    "title": "Offline Mesh Communication Network",
+    "domain": "44",
+    "description": "During disasters, internet and cellular services collapse. This project develops an offline mesh communication system where devices form peer-to-peer networks for communication.",
+    "keywords": ["Emergency Networks", "Crisis Communication", "Community Resilience"]
+  },
+  {
+    "id": 3869,
+    "title": "Rescue Dog Tracking and Health Monitoring System",
+    "domain": "44",
+    "description": "Rescue dogs play a vital role in locating survivors. This project proposes smart collars with GPS and health monitors to track and ensure the safety of rescue animals during operations.",
+    "keywords": ["Rescue Technology", "Emergency Systems", "Disaster Monitoring"]
+  },
+  {
+    "id": 3870,
+    "title": "Smart Panic Button for Emergencies",
+    "domain": "44",
+    "description": "Victims often struggle to seek help quickly. This project proposes a panic button integrated into wearables or smartphones that instantly transmits location and distress signals to emergency services.",
+    "keywords": ["Emergency Systems", "Crisis Communication", "Rescue Technology"]
+  },
+  {
+    "id": 3871,
+    "title": "AI-Driven Emergency Resource Allocation",
+    "domain": "44",
+    "description": "Emergency resources like ambulances, food, and medical kits must be deployed efficiently. This project designs an AI-based allocation system that predicts needs and dispatches resources optimally.",
+    "keywords": ["Emergency Logistics", "Risk Assessment", "Disaster Recovery"]
+  },
+  {
+    "id": 3872,
+    "title": "VR-Based Disaster Preparedness Training",
+    "domain": "44",
+    "description": "Communities often lack awareness of disaster responses. This project develops VR-based simulations to train people in evacuation drills, first aid, and emergency protocols.",
+    "keywords": ["Community Resilience", "Emergency Systems", "Evacuation Planning"]
+  },
+  {
+    "id": 3873,
+    "title": "Smart Flood Detection Sensors",
+    "domain": "44",
+    "description": "Flood-prone regions require real-time alerts. This project proposes IoT water-level sensors connected to alert systems that warn communities of rising flood risks.",
+    "keywords": ["Disaster Monitoring", "Emergency Systems", "Risk Assessment"]
+  },
+  {
+    "id": 3874,
+    "title": "AI-Powered Emergency Call Triage",
+    "domain": "44",
+    "description": "Emergency call centers get overloaded during crises. This project develops an AI system that prioritizes calls based on urgency, providing real-time assistance and routing to responders.",
+    "keywords": ["Crisis Communication", "Emergency Systems", "Rescue Technology"]
+  },
+  {
+    "id": 3875,
+    "title": "Smart Heatwave Early Warning System",
+    "domain": "44",
+    "description": "Heatwaves lead to health risks and deaths. This project builds a monitoring system that predicts extreme heat events and broadcasts health safety alerts to vulnerable groups.",
+    "keywords": ["Disaster Prediction", "Emergency Systems", "Community Resilience"]
+  },
+  {
+    "id": 3876,
+    "title": "Autonomous Rescue Boat for Floods",
+    "domain": "44",
+    "description": "Floodwaters often trap victims in isolated areas. This project designs an autonomous rescue boat with GPS and sensors to navigate and evacuate stranded people.",
+    "keywords": ["Rescue Technology", "Emergency Logistics", "Disaster Monitoring"]
+  },
+  {
+    "id": 3877,
+    "title": "AI-Based Building Collapse Prediction",
+    "domain": "44",
+    "description": "Buildings in disaster zones are prone to collapse. This project proposes an AI system that analyzes structural integrity using vibration sensors and material fatigue data.",
+    "keywords": ["Disaster Prediction", "Risk Assessment", "Emergency Systems"]
+  },
+  {
+    "id": 3878,
+    "title": "Emergency Energy Supply Using Portable Solar Kits",
+    "domain": "44",
+    "description": "Power outages worsen disaster impacts. This project develops compact, portable solar-powered energy kits to provide essential electricity in emergency shelters.",
+    "keywords": ["Disaster Recovery", "Emergency Logistics", "Community Resilience"]
+  },
+  {
+    "id": 3879,
+    "title": "AI-Powered Crisis Misinformation Detection",
+    "domain": "44",
+    "description": "Misinformation spreads quickly during disasters. This project develops an AI system to detect and flag false emergency news, ensuring reliable crisis communication.",
+    "keywords": ["Crisis Communication", "Disaster Monitoring", "Community Resilience"]
+  },
+  {
+    "id": 3880,
+    "title": "Mobile App for Real-Time Volunteer Coordination",
+    "domain": "44",
+    "description": "Volunteer efforts often lack organization during crises. This project proposes a mobile app that matches volunteers to tasks like rescue, medical help, or food distribution in real time.",
+    "keywords": ["Emergency Logistics", "Community Resilience", "Crisis Communication"]
+  },
+  {
+    "id": 3881,
+    "title": "AI-Enhanced Road Clearance Planning",
+    "domain": "44",
+    "description": "Blocked roads delay emergency response. This project develops an AI tool that uses satellite imagery to prioritize road clearance for ambulances and relief vehicles.",
+    "keywords": ["Emergency Logistics", "Risk Assessment", "Disaster Recovery"]
+  },
+  {
+    "id": 3882,
+    "title": "Emergency Multi-Language Translation System",
+    "domain": "44",
+    "description": "Language barriers hinder disaster communication. This project proposes a real-time translation app for emergency responders and victims to communicate across different languages.",
+    "keywords": ["Crisis Communication", "Emergency Systems", "Community Resilience"]
+  },
+  {
+    "id": 3883,
+    "title": "Smart Inventory Management for Relief Camps",
+    "domain": "44",
+    "description": "Relief camps often mismanage supplies. This project develops a system to track food, medicine, and water inventory using IoT and analytics for efficient distribution.",
+    "keywords": ["Emergency Logistics", "Disaster Recovery", "Community Resilience"]
+  },
+  {
+    "id": 3884,
+    "title": "AI-Powered Real-Time Disaster Mapping",
+    "domain": "44",
+    "description": "First responders need situational awareness. This project uses drone footage and AI to generate real-time maps showing safe zones, blocked areas, and survivor locations.",
+    "keywords": ["Disaster Monitoring", "Rescue Technology", "Emergency Systems"]
+  },
+  {
+    "id": 3885,
+    "title": "Portable Emergency Medical Diagnosis Device",
+    "domain": "44",
+    "description": "Medical staff are limited in disaster zones. This project develops a portable device that uses AI to provide quick diagnosis of injuries and illnesses in the field.",
+    "keywords": ["First Aid Technology", "Emergency Systems", "Disaster Recovery"]
+  },
+  {
+    "id": 3886,
+    "title": "AI-Powered Refugee Camp Risk Assessment",
+    "domain": "44",
+    "description": "Refugee camps face overcrowding, disease, and safety risks. This project develops predictive models to assess risks and suggest preventive measures for safer camp management.",
+    "keywords": ["Risk Assessment", "Community Resilience", "Emergency Systems"]
+  },
+  {
+    "id": 3887,
+    "title": "Smart Earthquake-Proof Shelter Pods",
+    "domain": "44",
+    "description": "People in earthquake-prone zones need safe shelters. This project designs modular, portable pods that can withstand seismic activity and provide temporary housing.",
+    "keywords": ["Evacuation Planning", "Community Resilience", "Emergency Systems"]
+  },
+  {
+    "id": 3888,
+    "title": "AI-Powered Social Media Disaster Signal Detection",
+    "domain": "44",
+    "description": "Victims often post distress messages online. This project develops an AI system that scans social media for SOS signals and directs rescue teams accordingly.",
+    "keywords": ["Crisis Communication", "Disaster Monitoring", "Rescue Technology"]
+  },
+  {
+    "id": 3889,
+    "title": "Smart Wearable for Senior Citizen Safety",
+    "domain": "44",
+    "description": "Elderly people are especially vulnerable in disasters. This project proposes a wearable that monitors health, location, and sends automatic alerts during emergencies.",
+    "keywords": ["First Aid Technology", "Emergency Systems", "Community Resilience"]
+  },
+  {
+    "id": 3890,
+    "title": "AI-Powered Fire Evacuation Simulation Tool",
+    "domain": "44",
+    "description": "Fire evacuation planning often fails in real scenarios. This project develops an AI simulator that models building evacuation under fire conditions for better planning.",
+    "keywords": ["Evacuation Planning", "Risk Assessment", "Emergency Systems"]
+  },
+  {
+    "id": 3891,
+    "title": "Emergency Food Supply Using 3D Printing",
+    "domain": "44",
+    "description": "Disaster-hit areas struggle with food scarcity. This project explores 3D printing of nutrient-rich emergency meals using available ingredients to support relief operations.",
+    "keywords": ["Emergency Logistics", "Disaster Recovery", "Community Resilience"]
+  },
+  {
+    "id": 3892,
+    "title": "AI-Based Cyclone Path Prediction System",
+    "domain": "44",
+    "description": "Cyclones devastate coastal regions. This project uses meteorological data and AI models to predict cyclone paths more accurately and assist in evacuation planning.",
+    "keywords": ["Disaster Prediction", "Disaster Monitoring", "Risk Assessment"]
+  },
+  {
+    "id": 3893,
+    "title": "Emergency Drone Delivery of Medical Supplies",
+    "domain": "44",
+    "description": "Blocked roads delay medicine delivery. This project proposes drones capable of transporting vaccines, blood, and essential drugs to disaster-hit regions.",
+    "keywords": ["Emergency Logistics", "Rescue Technology", "First Aid Technology"]
+  },
+  {
+    "id": 3894,
+    "title": "AI-Powered Emergency Mental Health Support",
+    "domain": "44",
+    "description": "Disasters take a psychological toll on survivors. This project develops an AI chatbot and telehealth system to provide mental health support in crisis situations.",
+    "keywords": ["Crisis Communication", "Community Resilience", "Disaster Recovery"]
+  },
+  {
+    "id": 3895,
+    "title": "Smart Power Grid Resilience System",
+    "domain": "44",
+    "description": "Power grids often collapse during disasters. This project proposes a smart microgrid system that can operate independently and restore electricity to critical facilities.",
+    "keywords": ["Disaster Recovery", "Risk Assessment", "Emergency Systems"]
+  },
+  {
+    "id": 3896,
+    "title": "AI-Powered Emergency Transportation Routing",
+    "domain": "44",
+    "description": "Ambulances and rescue vehicles face delays due to blocked roads. This project develops a real-time AI routing system using traffic and hazard data for faster responses.",
+    "keywords": ["Emergency Logistics", "Rescue Technology", "Evacuation Planning"]
+  },
+  {
+    "id": 3897,
+    "title": "Smart Wearable for Child Safety During Disasters",
+    "domain": "44",
+    "description": "Children often get separated during crises. This project proposes a GPS-enabled wearable that tracks location and sends alerts to guardians and rescue teams.",
+    "keywords": ["Emergency Systems", "Crisis Communication", "Community Resilience"]
+  },
+  {
+    "id": 3898,
+    "title": "AI-Driven Post-Disaster Recovery Planner",
+    "domain": "44",
+    "description": "Rebuilding after disasters requires planning. This project develops an AI tool that prioritizes infrastructure recovery, resource allocation, and economic rebuilding strategies.",
+    "keywords": ["Disaster Recovery", "Risk Assessment", "Community Resilience"]
+  },
+  {
+    "id": 3899,
+    "title": "Smart Flood-Resistant Housing Design",
+    "domain": "44",
+    "description": "Houses in flood-prone regions need resilience. This project designs affordable modular housing that resists flood damage and provides quick rehabilitation options.",
+    "keywords": ["Community Resilience", "Evacuation Planning", "Disaster Recovery"]
+  },
+  {
+    "id": 3900,
+    "title": "AI-Powered Emergency Health Record System",
+    "domain": "44",
+    "description": "Victims often lose medical records during disasters. This project builds a cloud-based, secure, and AI-driven system that provides instant access to patient health data for emergency responders.",
+    "keywords": ["First Aid Technology", "Emergency Systems", "Disaster Recovery"]
+  },
+  //domain-45
+  {
+    "id": 3901,
+    "title": "AI-Powered Athlete Performance Predictor",
+    "domain": "45",
+    "description": "Develop a system that uses sports data and machine learning to predict athlete performance in upcoming matches, enabling coaches to optimize team strategy and training.",
+    "keywords": ["Performance Analytics", "Sports Data", "Athlete Monitoring"]
+  },
+  {
+    "id": 3902,
+    "title": "Wearable Sensor for Real-Time Hydration Tracking",
+    "domain": "45",
+    "description": "Create a sports wearable that continuously monitors hydration levels using sweat analysis and alerts athletes to drink water before dehydration affects performance.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Sports Medicine"]
+  },
+  {
+    "id": 3903,
+    "title": "Biomechanics-Based Injury Prevention Tool",
+    "domain": "45",
+    "description": "Design a biomechanics-driven platform that analyzes movement patterns to predict injury risks and recommend corrective training programs.",
+    "keywords": ["Biomechanics", "Athlete Monitoring", "Sports Medicine"]
+  },
+  {
+    "id": 3904,
+    "title": "Smart Training Feedback System",
+    "domain": "45",
+    "description": "Build a training technology solution that provides real-time audio or haptic feedback to athletes when their form deviates from optimal biomechanics.",
+    "keywords": ["Training Technology", "Biomechanics", "Performance Analytics"]
+  },
+  {
+    "id": 3905,
+    "title": "AI Game Analysis Dashboard",
+    "domain": "45",
+    "description": "Develop a game analysis system that automatically extracts key insights from match videos, including player heatmaps, tactical formations, and pass accuracy.",
+    "keywords": ["Game Analysis", "Sports Data", "Performance Analytics"]
+  },
+  {
+    "id": 3906,
+    "title": "Fan Engagement through Interactive Data Visualization",
+    "domain": "45",
+    "description": "Create a platform that provides fans with interactive dashboards showcasing real-time player stats, comparisons, and predictive outcomes during live matches.",
+    "keywords": ["Fan Engagement", "Sports Data", "Sports Broadcasting"]
+  },
+  {
+    "id": 3907,
+    "title": "Smart Footwear with Gait Analysis",
+    "domain": "45",
+    "description": "Design sports shoes embedded with pressure sensors to analyze gait, providing feedback to improve running efficiency and reduce injuries.",
+    "keywords": ["Sports Equipment", "Sports Wearables", "Biomechanics"]
+  },
+  {
+    "id": 3908,
+    "title": "AI-Driven Personalized Fitness Coach",
+    "domain": "45",
+    "description": "Build a fitness tracking system that adapts training plans based on performance data and athlete recovery cycles for maximum efficiency.",
+    "keywords": ["Fitness Tracking", "Performance Analytics", "Training Technology"]
+  },
+  {
+    "id": 3909,
+    "title": "Virtual Reality Sports Training Simulator",
+    "domain": "45",
+    "description": "Develop a VR-based training platform that simulates real-game conditions, enabling athletes to practice decision-making under pressure.",
+    "keywords": ["Training Technology", "Sports Data", "Game Analysis"]
+  },
+  {
+    "id": 3910,
+    "title": "Injury Recovery Monitoring Platform",
+    "domain": "45",
+    "description": "Create a sports medicine tool that tracks athlete recovery progress using wearable sensors and provides doctors with actionable insights.",
+    "keywords": ["Sports Medicine", "Athlete Monitoring", "Sports Wearables"]
+  },
+  {
+    "id": 3911,
+    "title": "AI-Powered Scouting Platform",
+    "domain": "45",
+    "description": "Design a scouting system that evaluates young athletes based on video analysis and biometric performance data to identify future talent.",
+    "keywords": ["Game Analysis", "Performance Analytics", "Sports Data"]
+  },
+  {
+    "id": 3912,
+    "title": "Smart Jersey with Physiological Monitoring",
+    "domain": "45",
+    "description": "Develop a jersey equipped with embedded sensors to monitor heart rate, temperature, and exertion levels in real-time during matches.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Sports Equipment"]
+  },
+  {
+    "id": 3913,
+    "title": "Real-Time Fatigue Detection System",
+    "domain": "45",
+    "description": "Build an AI model that detects signs of fatigue in athletes using biomechanical data, recommending substitutions before performance drops.",
+    "keywords": ["Athlete Monitoring", "Biomechanics", "Performance Analytics"]
+  },
+  {
+    "id": 3914,
+    "title": "Fan Immersion via Augmented Reality Broadcasting",
+    "domain": "45",
+    "description": "Create an AR-enhanced sports broadcasting platform that overlays player stats, ball trajectories, and tactical insights during live matches.",
+    "keywords": ["Fan Engagement", "Sports Broadcasting", "Sports Data"]
+  },
+  {
+    "id": 3915,
+    "title": "Smart Racket for Tennis Analytics",
+    "domain": "45",
+    "description": "Design a tennis racket with integrated motion sensors to analyze swing speed, ball impact location, and spin for performance optimization.",
+    "keywords": ["Sports Equipment", "Performance Analytics", "Training Technology"]
+  },
+  {
+    "id": 3916,
+    "title": "Cloud-Based Sports Data Repository",
+    "domain": "45",
+    "description": "Develop a centralized data platform where teams can store, access, and analyze historical performance data securely.",
+    "keywords": ["Sports Data", "Performance Analytics", "Game Analysis"]
+  },
+  {
+    "id": 3917,
+    "title": "AI-Powered Tactical Assistant",
+    "domain": "45",
+    "description": "Build a tactical assistant tool that analyzes opponent patterns from past matches and suggests counter-strategies for coaches.",
+    "keywords": ["Game Analysis", "Performance Analytics", "Sports Data"]
+  },
+  {
+    "id": 3918,
+    "title": "Smart Helmet for Concussion Detection",
+    "domain": "45",
+    "description": "Create a helmet with impact sensors that detect potential concussions in contact sports and alert medical staff immediately.",
+    "keywords": ["Sports Equipment", "Sports Medicine", "Athlete Monitoring"]
+  },
+  {
+    "id": 3919,
+    "title": "Wearable Sleep Quality Tracker for Athletes",
+    "domain": "45",
+    "description": "Design a wearable that monitors sleep patterns and recovery quality, integrating insights into training schedules.",
+    "keywords": ["Sports Wearables", "Fitness Tracking", "Athlete Monitoring"]
+  },
+  {
+    "id": 3920,
+    "title": "Automated Video Highlight Generator",
+    "domain": "45",
+    "description": "Develop an AI-driven system that extracts key moments from match footage and creates highlight reels for fans and broadcasters.",
+    "keywords": ["Sports Broadcasting", "Game Analysis", "Fan Engagement"]
+  },
+  {
+    "id": 3921,
+    "title": "AI Referee Assistance System",
+    "domain": "45",
+    "description": "Build a decision-support system for referees that uses video analytics and sensor data to reduce human error in officiating.",
+    "keywords": ["Game Analysis", "Sports Broadcasting", "Performance Analytics"]
+  },
+  {
+    "id": 3922,
+    "title": "Wearable Motion Capture for Amateur Athletes",
+    "domain": "45",
+    "description": "Develop a low-cost wearable system that provides biomechanics insights for amateur athletes similar to professional-level analysis.",
+    "keywords": ["Biomechanics", "Sports Wearables", "Training Technology"]
+  },
+  {
+    "id": 3923,
+    "title": "Crowdsourced Fan Data Insights",
+    "domain": "45",
+    "description": "Create a fan engagement platform where spectators contribute real-time opinions and reactions, enhancing broadcasting insights.",
+    "keywords": ["Fan Engagement", "Sports Data", "Sports Broadcasting"]
+  },
+  {
+    "id": 3924,
+    "title": "IoT-Enabled Smart Gym Equipment",
+    "domain": "45",
+    "description": "Design gym equipment that tracks workout intensity, repetitions, and biomechanics, syncing data to personal fitness dashboards.",
+    "keywords": ["Sports Equipment", "Training Technology", "Fitness Tracking"]
+  },
+  {
+    "id": 3925,
+    "title": "Predictive Injury Recovery Timeline Estimator",
+    "domain": "45",
+    "description": "Develop a machine learning model that predicts recovery timelines for injured athletes based on medical and performance data.",
+    "keywords": ["Sports Medicine", "Performance Analytics", "Athlete Monitoring"]
+  },
+  {
+    "id": 3926,
+    "title": "AI-Based Opponent Weakness Identifier",
+    "domain": "45",
+    "description": "Build a system that analyzes video and stats of opposing players to highlight exploitable weaknesses for strategic planning.",
+    "keywords": ["Game Analysis", "Sports Data", "Performance Analytics"]
+  },
+  {
+    "id": 3927,
+    "title": "Smart Glove for Grip Strength Monitoring",
+    "domain": "45",
+    "description": "Design a wearable glove with pressure sensors to track grip strength and hand fatigue during training and matches.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Sports Equipment"]
+  },
+  {
+    "id": 3928,
+    "title": "Enhanced Sports Broadcasting with AI Commentary",
+    "domain": "45",
+    "description": "Develop an AI-powered commentary system that provides real-time insights, statistics, and tactical breakdowns during matches.",
+    "keywords": ["Sports Broadcasting", "Fan Engagement", "Sports Data"]
+  },
+  {
+    "id": 3929,
+    "title": "Biomechanical Load Management System",
+    "domain": "45",
+    "description": "Create a system that calculates physical load distribution during training sessions to prevent overtraining and injuries.",
+    "keywords": ["Biomechanics", "Training Technology", "Performance Analytics"]
+  },
+  {
+    "id": 3930,
+    "title": "Smart Camera for Automated Player Tracking",
+    "domain": "45",
+    "description": "Design an AI camera system that tracks player movements automatically, generating heatmaps and tactical insights.",
+    "keywords": ["Game Analysis", "Sports Data", "Performance Analytics"]
+  },
+  {
+    "id": 3931,
+    "title": "Athlete Nutrition Monitoring System",
+    "domain": "45",
+    "description": "Build a platform that integrates diet logs, biometric tracking, and performance analytics to optimize athlete nutrition.",
+    "keywords": ["Sports Medicine", "Athlete Monitoring", "Performance Analytics"]
+  },
+  {
+    "id": 3932,
+    "title": "Wearable Stress Level Detector",
+    "domain": "45",
+    "description": "Develop a wearable device that monitors cortisol levels or stress biomarkers, helping athletes manage mental health.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Sports Medicine"]
+  },
+  {
+    "id": 3933,
+    "title": "AI-Powered Strategy Simulation Tool",
+    "domain": "45",
+    "description": "Create a strategy simulator that models game outcomes based on player data and tactical inputs from coaches.",
+    "keywords": ["Game Analysis", "Performance Analytics", "Sports Data"]
+  },
+  {
+    "id": 3934,
+    "title": "Smart Wristband for Real-Time Performance Metrics",
+    "domain": "45",
+    "description": "Design a wearable wristband that provides athletes with live stats like speed, stamina, and exertion levels during play.",
+    "keywords": ["Sports Wearables", "Fitness Tracking", "Performance Analytics"]
+  },
+  {
+    "id": 3935,
+    "title": "Athlete Mental Health Monitoring App",
+    "domain": "45",
+    "description": "Develop an app that tracks mood, stress, and sleep data to identify mental health risks and suggest interventions.",
+    "keywords": ["Athlete Monitoring", "Sports Medicine", "Fitness Tracking"]
+  },
+  {
+    "id": 3936,
+    "title": "AI-Powered Fan Sentiment Analysis",
+    "domain": "45",
+    "description": "Build a tool that analyzes fan reactions on social media and live chats to measure engagement and predict attendance.",
+    "keywords": ["Fan Engagement", "Sports Data", "Sports Broadcasting"]
+  },
+  {
+    "id": 3937,
+    "title": "Real-Time Heat Stress Detector",
+    "domain": "45",
+    "description": "Create a wearable device that warns athletes and coaches about dangerous heat stress levels during outdoor sports.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Sports Medicine"]
+  },
+  {
+    "id": 3938,
+    "title": "AI-Based Game Outcome Predictor",
+    "domain": "45",
+    "description": "Design a predictive analytics system that forecasts match outcomes based on historical data, current form, and live updates.",
+    "keywords": ["Performance Analytics", "Game Analysis", "Sports Data"]
+  },
+  {
+    "id": 3939,
+    "title": "Smart Ball with Embedded Sensors",
+    "domain": "45",
+    "description": "Develop a sports ball with built-in sensors to measure speed, spin, and impact forces, improving training analysis.",
+    "keywords": ["Sports Equipment", "Sports Wearables", "Game Analysis"]
+  },
+  {
+    "id": 3940,
+    "title": "AI-Powered Athlete Burnout Detector",
+    "domain": "45",
+    "description": "Build a system that uses biometric and psychological data to detect signs of athlete burnout early and recommend recovery strategies.",
+    "keywords": ["Athlete Monitoring", "Performance Analytics", "Sports Medicine"]
+  },
+  {
+    "id": 3941,
+    "title": "Crowd Noise Analytics for Performance Impact",
+    "domain": "45",
+    "description": "Analyze how crowd noise influences athlete performance using real-time audio and performance data correlations.",
+    "keywords": ["Fan Engagement", "Performance Analytics", "Sports Broadcasting"]
+  },
+  {
+    "id": 3942,
+    "title": "AI-Enhanced Replay System",
+    "domain": "45",
+    "description": "Develop a sports broadcasting solution that automatically generates slow-motion replays highlighting key tactical details.",
+    "keywords": ["Sports Broadcasting", "Game Analysis", "Fan Engagement"]
+  },
+  {
+    "id": 3943,
+    "title": "Predictive Weather Impact Analyzer",
+    "domain": "45",
+    "description": "Create a system that analyzes how upcoming weather conditions may affect player performance and match strategies.",
+    "keywords": ["Performance Analytics", "Sports Data", "Training Technology"]
+  },
+  {
+    "id": 3944,
+    "title": "Athlete Cognitive Performance Tracker",
+    "domain": "45",
+    "description": "Build a platform that monitors cognitive metrics such as reaction time and decision-making speed for performance optimization.",
+    "keywords": ["Athlete Monitoring", "Performance Analytics", "Training Technology"]
+  },
+  {
+    "id": 3945,
+    "title": "Smart Compression Clothing with Recovery Tracking",
+    "domain": "45",
+    "description": "Design compression garments that track blood circulation and muscle recovery during and after intense sports activities.",
+    "keywords": ["Sports Wearables", "Sports Medicine", "Athlete Monitoring"]
+  },
+  {
+    "id": 3946,
+    "title": "AI-Powered Sports Betting Integrity Tool",
+    "domain": "45",
+    "description": "Develop a system that analyzes suspicious player behavior and match data patterns to detect potential match-fixing.",
+    "keywords": ["Game Analysis", "Sports Data", "Performance Analytics"]
+  },
+  {
+    "id": 3947,
+    "title": "Wearable Altitude Training Monitor",
+    "domain": "45",
+    "description": "Create a wearable that tracks oxygen saturation and adaptation metrics for athletes training at high altitudes.",
+    "keywords": ["Sports Wearables", "Athlete Monitoring", "Fitness Tracking"]
+  },
+  {
+    "id": 3948,
+    "title": "AI-Based Substitution Recommendation System",
+    "domain": "45",
+    "description": "Build a tool that recommends player substitutions during matches by analyzing fatigue levels and tactical needs in real-time.",
+    "keywords": ["Game Analysis", "Performance Analytics", "Athlete Monitoring"]
+  },
+  {
+    "id": 3949,
+    "title": "Sports Injury Risk Prediction Dashboard",
+    "domain": "45",
+    "description": "Develop a dashboard that uses biomechanics and performance analytics to predict the probability of specific injuries.",
+    "keywords": ["Biomechanics", "Sports Medicine", "Performance Analytics"]
+  },
+  {
+    "id": 3950,
+    "title": "Athlete Social Media Engagement Analyzer",
+    "domain": "45",
+    "description": "Create a fan engagement tool that analyzes athlete social media presence and correlates it with ticket sales and sponsorship value.",
+    "keywords": ["Fan Engagement", "Sports Data", "Performance Analytics"]
+  },
+  //domain -46
+
+
 
 
 
