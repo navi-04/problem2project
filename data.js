@@ -28425,6 +28425,359 @@ const PROBLEMS_DATA = {
         "keywords": ["Sentiment Analysis", "Text Mining", "Language Models"]
     },
     domain-50
+    {
+        "id": 4151,
+        "title": "Real-Time Object Detection for Autonomous Vehicles",
+        "domain": "50",
+        "description": "Develop a computer vision system capable of detecting and tracking multiple objects in real-time for autonomous driving. The system should identify pedestrians, vehicles, and obstacles with high accuracy under varying lighting and weather conditions.",
+        "keywords": ["Object Detection", "Image Recognition", "Visual AI", "Video Analysis"]
+    },
+    {
+        "id": 4152,
+        "title": "Medical Image Segmentation for Tumor Detection",
+        "domain": "50",
+        "description": "Create an AI model to segment medical images and accurately identify tumor regions in MRI and CT scans. The system should improve early diagnosis and assist radiologists in treatment planning.",
+        "keywords": ["Medical Imaging", "Image Segmentation", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4153,
+        "title": "Facial Recognition for Secure Access",
+        "domain": "50",
+        "description": "Develop a facial recognition system for secure access control. The system should detect and authenticate faces in real-time, handle variations in lighting and facial expressions, and ensure privacy and anti-spoofing measures.",
+        "keywords": ["Facial Recognition", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4154,
+        "title": "Video Surveillance Anomaly Detection",
+        "domain": "50",
+        "description": "Build a video analysis system that identifies anomalous activities in surveillance footage, such as unattended objects, suspicious movements, or crowd density changes, enhancing security monitoring.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4155,
+        "title": "AI-Powered Image Enhancement Tool",
+        "domain": "50",
+        "description": "Create an image enhancement tool using AI to automatically improve low-light, blurred, or noisy images while preserving details, colors, and textures for photography or scientific applications.",
+        "keywords": ["Image Enhancement", "Image Restoration", "Visual AI", "Image Classification"]
+    },
+    {
+        "id": 4156,
+        "title": "3D Vision for Industrial Automation",
+        "domain": "50",
+        "description": "Develop a 3D vision system to assist robotic arms in industrial automation, enabling precise object manipulation, dimension measurement, and defect detection in manufacturing lines.",
+        "keywords": ["3D Vision", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4157,
+        "title": "Wildlife Species Classification from Camera Traps",
+        "domain": "50",
+        "description": "Implement an AI model to classify wildlife species from images captured by camera traps. The system should identify animals, count populations, and monitor behavior for ecological research.",
+        "keywords": ["Image Classification", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4158,
+        "title": "Automated Road Damage Detection",
+        "domain": "50",
+        "description": "Build a computer vision system to detect road cracks, potholes, and surface damages from vehicle-mounted cameras. The system should generate maintenance alerts and prioritize repair schedules.",
+        "keywords": ["Object Detection", "Image Segmentation", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4159,
+        "title": "Hand Gesture Recognition for Human-Computer Interaction",
+        "domain": "50",
+        "description": "Create a vision-based hand gesture recognition system to control devices and applications without physical input. The system should detect dynamic gestures and enable intuitive interaction.",
+        "keywords": ["Image Recognition", "Pattern Recognition", "Visual AI", "Video Analysis"]
+    },
+    {
+        "id": 4160,
+        "title": "Automatic License Plate Recognition System",
+        "domain": "50",
+        "description": "Design a computer vision system to detect and recognize vehicle license plates in real-time for parking management and traffic monitoring. The system should handle different lighting conditions and plate formats.",
+        "keywords": ["Object Detection", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4161,
+        "title": "AI-Based Skin Lesion Classification",
+        "domain": "50",
+        "description": "Develop a medical imaging system to classify skin lesions from dermoscopic images, assisting dermatologists in early detection of melanoma and other skin conditions.",
+        "keywords": ["Medical Imaging", "Image Classification", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4162,
+        "title": "Image Restoration for Historical Photographs",
+        "domain": "50",
+        "description": "Build an AI system to restore old or damaged photographs by removing noise, scratches, and color degradation while preserving historical details.",
+        "keywords": ["Image Restoration", "Image Enhancement", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4163,
+        "title": "Real-Time Sports Player Tracking",
+        "domain": "50",
+        "description": "Create a computer vision system to track players and ball movements in live sports broadcasts. The system should generate performance analytics and visual overlays for commentators.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4164,
+        "title": "AI-Based Emotion Recognition from Facial Expressions",
+        "domain": "50",
+        "description": "Develop a facial recognition system capable of analyzing micro-expressions to determine emotions in real-time, useful in mental health assessment and user experience research.",
+        "keywords": ["Facial Recognition", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4165,
+        "title": "Autonomous Drone Navigation Using 3D Vision",
+        "domain": "50",
+        "description": "Implement a 3D vision system for drones to navigate autonomously, detect obstacles, and map terrains for surveillance or delivery applications.",
+        "keywords": ["3D Vision", "Object Detection", "Visual AI", "Video Analysis"]
+    },
+    {
+        "id": 4166,
+        "title": "Document Image Classification and OCR",
+        "domain": "50",
+        "description": "Create a system that classifies scanned documents, extracts text via OCR, and organizes them into structured databases automatically.",
+        "keywords": ["Image Classification", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4167,
+        "title": "AI-Based Autonomous Retail Checkout",
+        "domain": "50",
+        "description": "Develop a computer vision system that recognizes products in retail environments without barcode scanning, enabling fully automated checkout systems.",
+        "keywords": ["Object Detection", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4168,
+        "title": "Agricultural Crop Disease Detection",
+        "domain": "50",
+        "description": "Build an AI system to identify crop diseases from leaf images, enabling early treatment recommendations and reducing agricultural losses.",
+        "keywords": ["Image Classification", "Pattern Recognition", "Visual AI", "Image Enhancement"]
+    },
+    {
+        "id": 4169,
+        "title": "Autonomous Traffic Sign Recognition",
+        "domain": "50",
+        "description": "Create a system for vehicles to detect and interpret traffic signs using real-time video, improving driver assistance and autonomous driving safety.",
+        "keywords": ["Object Detection", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4170,
+        "title": "Real-Time Crowd Counting and Density Estimation",
+        "domain": "50",
+        "description": "Develop a vision system that analyzes video feeds to count people and estimate crowd density for event management and safety monitoring.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4171,
+        "title": "AI-Powered Retail Shelf Monitoring",
+        "domain": "50",
+        "description": "Create a computer vision system to monitor retail shelves, detecting empty spots, misplaced products, or stockouts, improving inventory management efficiency.",
+        "keywords": ["Object Detection", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4172,
+        "title": "Real-Time Sign Language Recognition",
+        "domain": "50",
+        "description": "Develop a vision-based system to recognize and translate sign language gestures into text or speech in real-time, aiding communication for the hearing impaired.",
+        "keywords": ["Video Analysis", "Pattern Recognition", "Visual AI", "Image Classification"]
+    },
+    {
+        "id": 4173,
+        "title": "AI-Based Vehicle Damage Assessment",
+        "domain": "50",
+        "description": "Build a computer vision system to automatically detect and assess vehicle damages from images, streamlining insurance claim processing.",
+        "keywords": ["Image Recognition", "Object Detection", "Image Segmentation", "Visual AI"]
+    },
+    {
+        "id": 4174,
+        "title": "Smart Parking Slot Detection System",
+        "domain": "50",
+        "description": "Design a vision-based system to detect free and occupied parking spaces in real-time using CCTV or drone footage for efficient parking management.",
+        "keywords": ["Object Detection", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4175,
+        "title": "AI-Based Food Recognition for Diet Tracking",
+        "domain": "50",
+        "description": "Develop a system to recognize different food items from images and estimate portion sizes to assist in diet tracking and nutrition management.",
+        "keywords": ["Image Classification", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4176,
+        "title": "Automated Wildlife Poaching Detection",
+        "domain": "50",
+        "description": "Implement a video analysis system to detect poaching activities in wildlife reserves using motion tracking, object detection, and anomaly recognition.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4177,
+        "title": "AI-Based Retail Checkout Fraud Detection",
+        "domain": "50",
+        "description": "Create a computer vision system to detect fraudulent activities at retail checkouts, such as product switching or barcode manipulation, in real-time.",
+        "keywords": ["Object Detection", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4178,
+        "title": "Facial Recognition for Attendance Systems",
+        "domain": "50",
+        "description": "Develop a facial recognition-based attendance system that automatically logs attendance for students or employees while ensuring privacy and data security.",
+        "keywords": ["Facial Recognition", "Image Recognition", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4179,
+        "title": "AI-Based Road Lane Detection",
+        "domain": "50",
+        "description": "Design a computer vision system for real-time road lane detection and tracking to assist autonomous vehicles in lane keeping and navigation.",
+        "keywords": ["Image Segmentation", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4180,
+        "title": "Augmented Reality Furniture Placement",
+        "domain": "50",
+        "description": "Create a vision system that recognizes room layouts and enables virtual furniture placement in real-time using AR technology.",
+        "keywords": ["3D Vision", "Object Detection", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4181,
+        "title": "AI-Powered Microscopic Cell Analysis",
+        "domain": "50",
+        "description": "Develop a system to analyze microscopic cell images, classify cell types, detect anomalies, and assist in medical research and diagnostics.",
+        "keywords": ["Image Classification", "Medical Imaging", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4182,
+        "title": "Real-Time Construction Site Monitoring",
+        "domain": "50",
+        "description": "Build a vision-based monitoring system for construction sites to detect safety violations, equipment usage, and worker presence in real-time.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4183,
+        "title": "AI-Based Traffic Violation Detection",
+        "domain": "50",
+        "description": "Design a computer vision system to detect traffic violations such as signal jumps, overspeeding, and illegal turns using live video feeds.",
+        "keywords": ["Video Analysis", "Object Detection", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4184,
+        "title": "Smart Shelf Weight Estimation with Image Analysis",
+        "domain": "50",
+        "description": "Develop a vision system to estimate the weight or quantity of products on shelves using image analysis and AI for inventory optimization.",
+        "keywords": ["Image Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4185,
+        "title": "AI-Based Emotion Recognition from Video Streams",
+        "domain": "50",
+        "description": "Create a video analysis system to detect and classify human emotions in real-time from facial expressions for marketing or mental health applications.",
+        "keywords": ["Video Analysis", "Facial Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4186,
+        "title": "Autonomous Warehouse Item Picking",
+        "domain": "50",
+        "description": "Design a 3D vision system to guide robots in warehouses for item picking and placement using real-time object recognition and spatial mapping.",
+        "keywords": ["3D Vision", "Object Detection", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4187,
+        "title": "AI-Powered Garbage Detection for Smart Cities",
+        "domain": "50",
+        "description": "Develop a computer vision system to detect and classify garbage in urban areas for optimized waste collection and recycling management.",
+        "keywords": ["Object Detection", "Image Classification", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4188,
+        "title": "Real-Time Vehicle Counting at Intersections",
+        "domain": "50",
+        "description": "Implement a video analysis system to count vehicles passing through intersections in real-time for traffic management and urban planning.",
+        "keywords": ["Video Analysis", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4189,
+        "title": "AI-Based Plant Growth Monitoring",
+        "domain": "50",
+        "description": "Create a vision system to monitor plant growth stages using time-lapse images and detect abnormalities for agriculture optimization.",
+        "keywords": ["Image Classification", "Image Recognition", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4190,
+        "title": "Autonomous Robot Navigation Using Image Segmentation",
+        "domain": "50",
+        "description": "Build a computer vision system that enables robots to navigate complex environments by segmenting obstacles, pathways, and landmarks in real-time.",
+        "keywords": ["Image Segmentation", "Object Detection", "3D Vision", "Visual AI"]
+    },
+    {
+        "id": 4191,
+        "title": "AI-Powered Fashion Item Recognition",
+        "domain": "50",
+        "description": "Develop a system to recognize and classify fashion items in images or videos, enabling virtual try-ons, inventory management, and trend analysis.",
+        "keywords": ["Image Classification", "Object Detection", "Visual AI", "Pattern Recognition"]
+    },
+    {
+        "id": 4192,
+        "title": "Autonomous Drone Inspection of Power Lines",
+        "domain": "50",
+        "description": "Create a 3D vision system for drones to detect defects and anomalies in power lines, reducing manual inspection risks and improving maintenance efficiency.",
+        "keywords": ["3D Vision", "Object Detection", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4193,
+        "title": "AI-Based Food Calorie Estimation from Images",
+        "domain": "50",
+        "description": "Develop a system that estimates calorie content from food images using object recognition, segmentation, and classification techniques.",
+        "keywords": ["Image Classification", "Image Segmentation", "Object Detection", "Visual AI"]
+    },
+    {
+        "id": 4194,
+        "title": "Real-Time Road Sign Language Detection",
+        "domain": "50",
+        "description": "Build a system to recognize traffic sign languages and hand signals from drivers or traffic officers in real-time for intelligent vehicle assistance.",
+        "keywords": ["Image Recognition", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4195,
+        "title": "AI-Based Packaging Defect Detection",
+        "domain": "50",
+        "description": "Design a vision system to detect defects in product packaging on production lines, ensuring quality control and reducing waste.",
+        "keywords": ["Image Segmentation", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4196,
+        "title": "Autonomous Indoor Navigation for the Visually Impaired",
+        "domain": "50",
+        "description": "Develop a 3D vision system that assists visually impaired individuals to navigate indoor environments safely using obstacle detection and spatial mapping.",
+        "keywords": ["3D Vision", "Object Detection", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4197,
+        "title": "AI-Based Detection of Counterfeit Products",
+        "domain": "50",
+        "description": "Create a computer vision system to detect counterfeit products in retail or e-commerce using image recognition and pattern analysis.",
+        "keywords": ["Image Recognition", "Object Detection", "Pattern Recognition", "Visual AI"]
+    },
+    {
+        "id": 4198,
+        "title": "AI-Powered Face Mask Detection",
+        "domain": "50",
+        "description": "Build a vision system to detect whether individuals are wearing face masks correctly in public spaces, aiding health and safety compliance.",
+        "keywords": ["Facial Recognition", "Object Detection", "Image Classification", "Visual AI"]
+    },
+    {
+        "id": 4199,
+        "title": "Real-Time Road Obstacle Detection for Autonomous Cars",
+        "domain": "50",
+        "description": "Develop a computer vision system to detect obstacles like pedestrians, animals, and debris on roads in real-time to improve autonomous vehicle safety.",
+        "keywords": ["Object Detection", "3D Vision", "Image Recognition", "Visual AI"]
+    },
+    {
+        "id": 4200,
+        "title": "AI-Based Artwork Style Recognition",
+        "domain": "50",
+        "description": "Create a vision system that classifies artwork styles, detects forgeries, and assists in art curation using pattern recognition and image classification techniques.",
+        "keywords": ["Image Classification", "Pattern Recognition", "Visual AI", "Image Recognition"]
+    },
+    //domain 51
+    
+
 
 
 
