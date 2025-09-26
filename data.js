@@ -27723,6 +27723,357 @@ const PROBLEMS_DATA = {
         "keywords": ["Food Safety", "Food Sensors", "Food Preservation"]
     },
     //domain -48
+    {
+        "id": 4051,
+        "title": "AI-Based Mood Prediction App",
+        "domain": "48",
+        "description": "Develop an AI-powered mobile app that predicts a user's mood based on daily inputs such as text, voice, and activity patterns. The system should provide personalized insights and suggest coping strategies.",
+        "keywords": ["Mood Tracking", "Mental Health Apps", "Mental Health Analytics"]
+    },
+    {
+        "id": 4052,
+        "title": "Digital Therapy Chatbot",
+        "domain": "48",
+        "description": "Create a chatbot capable of providing digital therapy sessions. It should interact with users, recognize emotional cues, and suggest cognitive behavioral exercises to manage stress and anxiety.",
+        "keywords": ["Digital Therapy", "Mental Health Support", "Behavioral Intervention"]
+    },
+    {
+        "id": 4053,
+        "title": "Stress Monitoring Wearable Integration",
+        "domain": "48",
+        "description": "Design a system that integrates wearable sensors to continuously monitor physiological indicators of stress such as heart rate variability and sleep patterns, providing real-time feedback and stress management suggestions.",
+        "keywords": ["Stress Monitoring", "Wellness Technology", "Mental Health Analytics"]
+    },
+    {
+        "id": 4054,
+        "title": "Mindfulness Guided Sessions App",
+        "domain": "48",
+        "description": "Build a mobile application offering personalized mindfulness exercises and guided meditation sessions. The app should adapt session length and type based on user mood and stress data.",
+        "keywords": ["Mindfulness Apps", "Wellness Technology", "Mental Health Support"]
+    },
+    {
+        "id": 4055,
+        "title": "Depression Early Detection System",
+        "domain": "48",
+        "description": "Develop a platform that analyzes user interaction patterns, voice, and textual inputs to detect early signs of depression. The system should recommend professional intervention or self-help exercises.",
+        "keywords": ["Depression Detection", "Mental Health Analytics", "Digital Therapy"]
+    },
+    {
+        "id": 4056,
+        "title": "Anxiety Management Virtual Coach",
+        "domain": "48",
+        "description": "Create a virtual coach that assists users in managing anxiety through guided exercises, breathing techniques, and personalized routines based on real-time user feedback.",
+        "keywords": ["Anxiety Management", "Digital Therapy", "Behavioral Intervention"]
+    },
+    {
+        "id": 4057,
+        "title": "Behavioral Intervention Recommendation Engine",
+        "domain": "48",
+        "description": "Develop an engine that recommends evidence-based behavioral interventions for mental health issues by analyzing user activity patterns, mood logs, and stress indicators.",
+        "keywords": ["Behavioral Intervention", "Mental Health Analytics", "Mental Health Support"]
+    },
+    {
+        "id": 4058,
+        "title": "Integrated Mental Health Analytics Dashboard",
+        "domain": "48",
+        "description": "Build a dashboard for users and clinicians that consolidates mental health data from apps, wearables, and therapy platforms, offering actionable insights and trend analysis.",
+        "keywords": ["Mental Health Analytics", "Digital Therapy", "Wellness Technology"]
+    },
+    {
+        "id": 4059,
+        "title": "Personalized Digital Therapy Sessions",
+        "domain": "48",
+        "description": "Design a system that adapts digital therapy sessions to user preferences, emotional state, and progress, providing personalized exercises and feedback for improved mental well-being.",
+        "keywords": ["Digital Therapy", "Behavioral Intervention", "Mental Health Apps"]
+    },
+    {
+        "id": 4060,
+        "title": "AI-Based Mood Journal Analyzer",
+        "domain": "48",
+        "description": "Develop an AI system that analyzes user mood journals to detect patterns, triggers, and emotional trends. It should provide suggestions for improving mental health.",
+        "keywords": ["Mood Tracking", "Mental Health Analytics", "Mental Health Support"]
+    },
+    {
+        "id": 4061,
+        "title": "Gamified Mindfulness App",
+        "domain": "48",
+        "description": "Create a gamified app that encourages users to practice mindfulness daily. Rewards, challenges, and progress tracking should be integrated to increase engagement.",
+        "keywords": ["Mindfulness Apps", "Wellness Technology", "Mental Health Apps"]
+    },
+    {
+        "id": 4062,
+        "title": "Real-Time Stress Alert System",
+        "domain": "48",
+        "description": "Build a system that monitors physiological and behavioral indicators to alert users of high stress in real-time and suggest immediate coping strategies.",
+        "keywords": ["Stress Monitoring", "Wellness Technology", "Behavioral Intervention"]
+    },
+    {
+        "id": 4063,
+        "title": "Virtual Therapy Platform for Teenagers",
+        "domain": "48",
+        "description": "Develop an online platform offering therapy and support for teenagers. The system should include chat, video sessions, and mood tracking to provide holistic mental health support.",
+        "keywords": ["Therapy Platforms", "Mental Health Support", "Digital Therapy"]
+    },
+    {
+        "id": 4064,
+        "title": "Emotion Recognition for Mental Health Apps",
+        "domain": "48",
+        "description": "Implement emotion recognition technology using facial expressions and voice analysis to enhance the accuracy of mental health apps in providing personalized recommendations.",
+        "keywords": ["Mental Health Apps", "Digital Therapy", "Mental Health Analytics"]
+    },
+    {
+        "id": 4065,
+        "title": "Sleep Pattern Monitoring for Anxiety Reduction",
+        "domain": "48",
+        "description": "Design a system that monitors sleep patterns and suggests adjustments or exercises to reduce anxiety, improve sleep quality, and enhance overall mental well-being.",
+        "keywords": ["Anxiety Management", "Stress Monitoring", "Wellness Technology"]
+    },
+    {
+        "id": 4066,
+        "title": "Interactive Mental Health Support Community",
+        "domain": "48",
+        "description": "Create an online community platform where users can share experiences, support each other, and access expert advice while maintaining privacy and safety.",
+        "keywords": ["Mental Health Support", "Digital Therapy", "Therapy Platforms"]
+    },
+    {
+        "id": 4067,
+        "title": "Personalized Anxiety Coping Plan Generator",
+        "domain": "48",
+        "description": "Develop a system that generates personalized coping plans for users based on their anxiety levels, lifestyle data, and behavioral patterns, adapting plans dynamically.",
+        "keywords": ["Anxiety Management", "Behavioral Intervention", "Mental Health Apps"]
+    },
+    {
+        "id": 4068,
+        "title": "Stress Level Forecasting System",
+        "domain": "48",
+        "description": "Build a predictive system that forecasts potential high-stress periods using historical user data and external triggers, offering preemptive interventions.",
+        "keywords": ["Stress Monitoring", "Mental Health Analytics", "Wellness Technology"]
+    },
+    {
+        "id": 4069,
+        "title": "AI-Powered Depression Screening Tool",
+        "domain": "48",
+        "description": "Develop a tool that uses AI to screen users for depression based on interactions with apps, voice patterns, and behavior, recommending further therapy or interventions.",
+        "keywords": ["Depression Detection", "Mental Health Apps", "Digital Therapy"]
+    },
+    {
+        "id": 4070,
+        "title": "Mindfulness Habit Tracker",
+        "domain": "48",
+        "description": "Create an app that tracks daily mindfulness practices, sends reminders, and provides analytics to help users establish consistent mental wellness habits.",
+        "keywords": ["Mindfulness Apps", "Mental Health Analytics", "Wellness Technology"]
+    },
+    {
+        "id": 4071,
+        "title": "Therapy Progress Tracking App",
+        "domain": "48",
+        "description": "Build a mobile app that tracks users' progress in therapy sessions, visualizes improvements, and provides motivational feedback to enhance engagement.",
+        "keywords": ["Digital Therapy", "Mental Health Apps", "Mental Health Analytics"]
+    },
+    {
+        "id": 4072,
+        "title": "AI-Based Emotional Support Chatbot",
+        "domain": "48",
+        "description": "Develop a chatbot capable of providing empathetic conversation and immediate emotional support to users experiencing stress or anxiety.",
+        "keywords": ["Digital Therapy", "Mental Health Support", "Behavioral Intervention"]
+    },
+    {
+        "id": 4073,
+        "title": "Gamified Anxiety Management App",
+        "domain": "48",
+        "description": "Create a gamified app to teach and reinforce anxiety management techniques through interactive exercises, progress tracking, and rewards.",
+        "keywords": ["Anxiety Management", "Mindfulness Apps", "Behavioral Intervention"]
+    },
+    {
+        "id": 4074,
+        "title": "AI-Enhanced Mental Health Assessment Tool",
+        "domain": "48",
+        "description": "Design a tool that uses AI to assess mental health conditions through questionnaires, behavior tracking, and sentiment analysis, providing actionable insights.",
+        "keywords": ["Mental Health Analytics", "Digital Therapy", "Depression Detection"]
+    },
+    {
+        "id": 4075,
+        "title": "Personalized Wellness Recommendation Engine",
+        "domain": "48",
+        "description": "Develop a system that provides personalized wellness recommendations based on user activity, mood tracking, and stress monitoring data.",
+        "keywords": ["Wellness Technology", "Mental Health Apps", "Stress Monitoring"]
+    },
+    {
+        "id": 4076,
+        "title": "Virtual Reality Therapy Platform",
+        "domain": "48",
+        "description": "Create a VR platform that immerses users in calming environments or simulated social scenarios to assist with anxiety and depression therapy.",
+        "keywords": ["Therapy Platforms", "Digital Therapy", "Mental Health Support"]
+    },
+    {
+        "id": 4077,
+        "title": "AI-Powered Mood Journal Feedback",
+        "domain": "48",
+        "description": "Build an AI tool that analyzes users’ mood journals, identifies patterns, and suggests interventions to improve mental health outcomes.",
+        "keywords": ["Mood Tracking", "Mental Health Analytics", "Behavioral Intervention"]
+    },
+    {
+        "id": 4078,
+        "title": "Real-Time Emotion Recognition Wearable",
+        "domain": "48",
+        "description": "Develop a wearable device that detects real-time emotional changes through physiological signals and provides instant coping recommendations.",
+        "keywords": ["Stress Monitoring", "Mental Health Apps", "Wellness Technology"]
+    },
+    {
+        "id": 4079,
+        "title": "Mindfulness-Based Gamified Platform",
+        "domain": "48",
+        "description": "Create a gamified platform encouraging users to practice mindfulness, track progress, and receive rewards for consistency.",
+        "keywords": ["Mindfulness Apps", "Digital Therapy", "Wellness Technology"]
+    },
+    {
+        "id": 4080,
+        "title": "AI-Powered Anxiety Pattern Detection",
+        "domain": "48",
+        "description": "Develop a system that analyzes user behavior and physiological data to detect anxiety patterns and provide early interventions.",
+        "keywords": ["Anxiety Management", "Mental Health Analytics", "Behavioral Intervention"]
+    },
+    {
+        "id": 4081,
+        "title": "Interactive Digital Therapy Modules",
+        "domain": "48",
+        "description": "Build interactive modules for digital therapy apps that adapt based on user responses and mental health progress.",
+        "keywords": ["Digital Therapy", "Therapy Platforms", "Mental Health Apps"]
+    },
+    {
+        "id": 4082,
+        "title": "AI-Enhanced Depression Monitoring App",
+        "domain": "48",
+        "description": "Create an app that continuously monitors for depression indicators, analyzes trends, and provides alerts or resources to users.",
+        "keywords": ["Depression Detection", "Mental Health Apps", "Mental Health Analytics"]
+    },
+    {
+        "id": 4083,
+        "title": "Behavioral Intervention Scheduler",
+        "domain": "48",
+        "description": "Develop a system that schedules personalized behavioral interventions based on user stress and mood patterns, optimizing therapy outcomes.",
+        "keywords": ["Behavioral Intervention", "Digital Therapy", "Mental Health Support"]
+    },
+    {
+        "id": 4084,
+        "title": "Stress Reduction Mobile Game",
+        "domain": "48",
+        "description": "Create a mobile game designed to reduce stress through interactive relaxation exercises and adaptive difficulty levels.",
+        "keywords": ["Stress Monitoring", "Mindfulness Apps", "Wellness Technology"]
+    },
+    {
+        "id": 4085,
+        "title": "Mood-Based Content Recommendation",
+        "domain": "48",
+        "description": "Develop a system that recommends content (music, articles, videos) tailored to the user’s current mood to support mental wellness.",
+        "keywords": ["Mood Tracking", "Digital Therapy", "Wellness Technology"]
+    },
+    {
+        "id": 4086,
+        "title": "Teletherapy Management Platform",
+        "domain": "48",
+        "description": "Build a platform to manage remote therapy sessions, track patient progress, and provide analytics for therapists.",
+        "keywords": ["Therapy Platforms", "Digital Therapy", "Mental Health Analytics"]
+    },
+    {
+        "id": 4087,
+        "title": "Interactive AI Mindfulness Coach",
+        "domain": "48",
+        "description": "Create an AI coach that guides users through personalized mindfulness exercises and adapts based on real-time feedback.",
+        "keywords": ["Mindfulness Apps", "Behavioral Intervention", "Wellness Technology"]
+    },
+    {
+        "id": 4088,
+        "title": "Virtual Mental Health Support Group",
+        "domain": "48",
+        "description": "Develop a secure virtual platform for support groups where users can share experiences and access professional advice.",
+        "keywords": ["Mental Health Support", "Therapy Platforms", "Digital Therapy"]
+    },
+    {
+        "id": 4089,
+        "title": "Personalized Coping Strategy Recommender",
+        "domain": "48",
+        "description": "Build a system that recommends coping strategies for stress, anxiety, or depression based on individual user data and patterns.",
+        "keywords": ["Behavioral Intervention", "Digital Therapy", "Mental Health Apps"]
+    },
+    {
+        "id": 4090,
+        "title": "AI Mood Analytics for Workplace Wellness",
+        "domain": "48",
+        "description": "Develop a system for monitoring employee moods and stress levels to provide actionable insights for improving workplace mental health.",
+        "keywords": ["Mood Tracking", "Stress Monitoring", "Mental Health Analytics"]
+    },
+    {
+        "id": 4091,
+        "title": "Mental Health Gamification Platform",
+        "domain": "48",
+        "description": "Create a platform that gamifies mental health exercises and behavioral interventions to increase engagement and adherence.",
+        "keywords": ["Behavioral Intervention", "Mindfulness Apps", "Digital Therapy"]
+    },
+    {
+        "id": 4092,
+        "title": "Digital Therapy Progress AI Tracker",
+        "domain": "48",
+        "description": "Build an AI system that tracks therapy session progress and provides feedback to both users and therapists for improved outcomes.",
+        "keywords": ["Digital Therapy", "Mental Health Analytics", "Therapy Platforms"]
+    },
+    {
+        "id": 4093,
+        "title": "Smart Stress Diary",
+        "domain": "48",
+        "description": "Develop a mobile app for tracking stress levels, triggers, and coping mechanisms, providing visual insights and recommendations.",
+        "keywords": ["Stress Monitoring", "Mental Health Apps", "Wellness Technology"]
+    },
+    {
+        "id": 4094,
+        "title": "Mood-Based AI Intervention System",
+        "domain": "48",
+        "description": "Create an AI system that triggers personalized interventions based on real-time mood tracking and behavioral data.",
+        "keywords": ["Mood Tracking", "Behavioral Intervention", "Digital Therapy"]
+    },
+    {
+        "id": 4095,
+        "title": "Mindfulness Voice Assistant",
+        "domain": "48",
+        "description": "Develop a voice assistant that guides users through mindfulness exercises, meditation, and stress-relief routines.",
+        "keywords": ["Mindfulness Apps", "Digital Therapy", "Wellness Technology"]
+    },
+    {
+        "id": 4096,
+        "title": "AI-Powered Depression Risk Predictor",
+        "domain": "48",
+        "description": "Build an AI system that predicts the risk of depression by analyzing user behavior, interactions, and mood trends over time.",
+        "keywords": ["Depression Detection", "Mental Health Analytics", "Digital Therapy"]
+    },
+    {
+        "id": 4097,
+        "title": "Virtual Reality Anxiety Exposure Therapy",
+        "domain": "48",
+        "description": "Create a VR platform that helps users manage anxiety through controlled exposure exercises in simulated environments.",
+        "keywords": ["Therapy Platforms", "Anxiety Management", "Digital Therapy"]
+    },
+    {
+        "id": 4098,
+        "title": "Personalized Mental Wellness Planner",
+        "domain": "48",
+        "description": "Design a planner app that integrates mood tracking, mindfulness exercises, and behavioral interventions into daily routines.",
+        "keywords": ["Mindfulness Apps", "Behavioral Intervention", "Wellness Technology"]
+    },
+    {
+        "id": 4099,
+        "title": "Emotion-Based AI Chat Companion",
+        "domain": "48",
+        "description": "Develop a chat companion that provides emotional support by recognizing user emotions and responding with empathetic conversation.",
+        "keywords": ["Digital Therapy", "Mental Health Support", "Behavioral Intervention"]
+    },
+    {
+        "id": 4100,
+        "title": "Comprehensive Mental Health Analytics Suite",
+        "domain": "48",
+        "description": "Build an analytics suite that aggregates data from apps, wearables, and therapy sessions to provide insights and personalized recommendations for users.",
+        "keywords": ["Mental Health Analytics", "Digital Therapy", "Wellness Technology"]
+    },
+
 
 
 
