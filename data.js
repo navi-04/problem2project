@@ -25966,6 +25966,360 @@ const PROBLEMS_DATA = {
     "keywords": ["Urban Mobility", "Urban Sensors", "City Data", "Urban Analytics"]
   }
   //domain-43
+  {
+    "id": 3801,
+    "title": "Autonomous Underwater Vehicle for Coral Reef Mapping",
+    "domain": "43",
+    "description": "Design an autonomous underwater vehicle equipped with advanced imaging and navigation systems to map coral reef structures in detail, aiding marine biodiversity studies and conservation efforts.",
+    "keywords": ["Underwater Vehicles", "Marine Biology", "Ocean Exploration"]
+  },
+  {
+    "id": 3802,
+    "title": "Real-time Marine Pollution Sensor Network",
+    "domain": "43",
+    "description": "Develop a distributed marine sensor system capable of detecting oil spills, plastics, and chemical pollutants in real time, with data transmitted to coastal monitoring stations.",
+    "keywords": ["Marine Sensors", "Oceanography", "Subsea Technology"]
+  },
+  {
+    "id": 3803,
+    "title": "Deep Sea Robotic Arm for Sample Collection",
+    "domain": "43",
+    "description": "Create a deep-sea robotic manipulator arm capable of withstanding extreme pressures for precise collection of biological and mineral samples from the ocean floor.",
+    "keywords": ["Marine Robotics", "Deep Sea Technology", "Subsea Technology"]
+  },
+  {
+    "id": 3804,
+    "title": "AI-driven Ocean Current Prediction System",
+    "domain": "43",
+    "description": "Build an AI-based model that integrates satellite data and marine sensors to predict ocean current patterns for safer shipping and better resource management.",
+    "keywords": ["Oceanography", "Marine Sensors", "Ocean Exploration"]
+  },
+  {
+    "id": 3805,
+    "title": "Biofouling Resistant Materials for Marine Vessels",
+    "domain": "43",
+    "description": "Design and test advanced marine materials that resist biofouling, reducing maintenance costs and improving fuel efficiency of ships and offshore structures.",
+    "keywords": ["Marine Materials", "Coastal Engineering", "Offshore Systems"]
+  },
+  {
+    "id": 3806,
+    "title": "Wave Energy Conversion Platform",
+    "domain": "43",
+    "description": "Develop a floating platform that efficiently converts wave motion into electrical energy while withstanding harsh ocean conditions.",
+    "keywords": ["Ocean Energy", "Offshore Systems", "Marine Engineering"]
+  },
+  {
+    "id": 3807,
+    "title": "Smart Buoys for Ocean Data Collection",
+    "domain": "43",
+    "description": "Design intelligent buoys equipped with multi-sensor arrays to collect and transmit real-time oceanographic data on temperature, salinity, and pH levels.",
+    "keywords": ["Marine Sensors", "Oceanography", "Subsea Technology"]
+  },
+  {
+    "id": 3808,
+    "title": "Underwater Swarm Robotics for Exploration",
+    "domain": "43",
+    "description": "Develop swarm-based underwater robots that collaborate to map large unexplored ocean areas more efficiently than single vehicles.",
+    "keywords": ["Marine Robotics", "Underwater Vehicles", "Ocean Exploration"]
+  },
+  {
+    "id": 3809,
+    "title": "Coastal Erosion Monitoring Using Drones and Sensors",
+    "domain": "43",
+    "description": "Create a system integrating aerial drones and marine sensors to monitor and model coastal erosion, enabling better coastal engineering solutions.",
+    "keywords": ["Coastal Engineering", "Marine Sensors", "Oceanography"]
+  },
+  {
+    "id": 3810,
+    "title": "Autonomous Subsea Pipeline Inspection Robot",
+    "domain": "43",
+    "description": "Build an autonomous underwater robot capable of inspecting subsea pipelines for leaks, cracks, and structural weaknesses in offshore oil and gas systems.",
+    "keywords": ["Subsea Technology", "Offshore Systems", "Marine Robotics"]
+  },
+  {
+    "id": 3811,
+    "title": "Marine Renewable Hybrid Platform",
+    "domain": "43",
+    "description": "Develop a hybrid offshore platform that integrates wave, tidal, and wind energy systems for sustainable ocean-based power generation.",
+    "keywords": ["Ocean Energy", "Offshore Systems", "Marine Materials"]
+  },
+  {
+    "id": 3812,
+    "title": "AI-based Fish Population Monitoring",
+    "domain": "43",
+    "description": "Design an AI-driven system using underwater cameras and acoustic sensors to monitor fish populations and migration patterns in real time.",
+    "keywords": ["Marine Biology", "Marine Sensors", "Ocean Exploration"]
+  },
+  {
+    "id": 3813,
+    "title": "Underwater Acoustic Communication Network",
+    "domain": "43",
+    "description": "Build an efficient underwater acoustic communication network to improve data transfer between submarines, sensors, and autonomous vehicles.",
+    "keywords": ["Subsea Technology", "Underwater Vehicles", "Marine Robotics"]
+  },
+  {
+    "id": 3814,
+    "title": "Deep Sea Mining Safety Robot",
+    "domain": "43",
+    "description": "Develop a robotic system capable of monitoring deep-sea mining operations to detect hazards and ensure environmental safety.",
+    "keywords": ["Deep Sea Technology", "Subsea Technology", "Marine Robotics"]
+  },
+  {
+    "id": 3815,
+    "title": "Coastal Flood Prediction Model",
+    "domain": "43",
+    "description": "Create a machine learning model integrating ocean sensors, tides, and weather data to predict and mitigate coastal flooding risks.",
+    "keywords": ["Coastal Engineering", "Oceanography", "Marine Sensors"]
+  },
+  {
+    "id": 3816,
+    "title": "Underwater Drone for Shipwreck Exploration",
+    "domain": "43",
+    "description": "Design an underwater drone with advanced navigation and imaging systems to safely explore shipwrecks and submerged archaeological sites.",
+    "keywords": ["Underwater Vehicles", "Ocean Exploration", "Marine Robotics"]
+  },
+  {
+    "id": 3817,
+    "title": "Eco-friendly Offshore Oil Platform Design",
+    "domain": "43",
+    "description": "Develop an offshore oil platform with reduced environmental impact using eco-friendly marine materials and smart waste management systems.",
+    "keywords": ["Offshore Systems", "Marine Materials", "Coastal Engineering"]
+  },
+  {
+    "id": 3818,
+    "title": "Tidal Energy Turbine Array",
+    "domain": "43",
+    "description": "Create an array of underwater tidal turbines optimized for maximum energy conversion with minimal ecological disruption.",
+    "keywords": ["Ocean Energy", "Subsea Technology", "Marine Engineering"]
+  },
+  {
+    "id": 3819,
+    "title": "Submersible for Deep Sea Exploration",
+    "domain": "43",
+    "description": "Design a manned submersible capable of reaching extreme ocean depths to explore hydrothermal vents and unknown ecosystems.",
+    "keywords": ["Deep Sea Technology", "Ocean Exploration", "Marine Robotics"]
+  },
+  {
+    "id": 3820,
+    "title": "Marine Plastic Waste Collection Robot",
+    "domain": "43",
+    "description": "Build an autonomous underwater robot that identifies and collects floating and submerged plastic debris to reduce marine pollution.",
+    "keywords": ["Marine Robotics", "Marine Sensors", "Ocean Exploration"]
+  },
+  {
+    "id": 3821,
+    "title": "Smart Offshore Wind Turbine Foundations",
+    "domain": "43",
+    "description": "Develop advanced marine materials and subsea technology to design durable foundations for offshore wind turbines.",
+    "keywords": ["Offshore Systems", "Marine Materials", "Ocean Energy"]
+  },
+  {
+    "id": 3822,
+    "title": "Marine Seismic Sensor Network",
+    "domain": "43",
+    "description": "Create a network of marine seismic sensors to monitor underwater earthquakes and tsunamis for early warning systems.",
+    "keywords": ["Marine Sensors", "Oceanography", "Subsea Technology"]
+  },
+  {
+    "id": 3823,
+    "title": "Robotic Crab for Coastal Inspections",
+    "domain": "43",
+    "description": "Design a bio-inspired robotic crab capable of navigating rocky coastal terrain to inspect underwater structures and pipelines.",
+    "keywords": ["Marine Robotics", "Coastal Engineering", "Subsea Technology"]
+  },
+  {
+    "id": 3824,
+    "title": "3D Mapping of Ocean Floor Habitats",
+    "domain": "43",
+    "description": "Develop a system using autonomous underwater vehicles and sonar to create detailed 3D maps of ocean floor habitats.",
+    "keywords": ["Underwater Vehicles", "Ocean Exploration", "Marine Biology"]
+  },
+  {
+    "id": 3825,
+    "title": "Marine Drone Swarm for Oil Spill Cleanup",
+    "domain": "43",
+    "description": "Build a swarm of autonomous marine drones that collaborate to contain and clean oil spills more efficiently than traditional methods.",
+    "keywords": ["Marine Robotics", "Offshore Systems", "Marine Sensors"]
+  },
+  {
+    "id": 3826,
+    "title": "Ocean Acidification Monitoring System",
+    "domain": "43",
+    "description": "Design a real-time sensor network to measure ocean acidification levels and their impact on marine ecosystems.",
+    "keywords": ["Marine Sensors", "Oceanography", "Marine Biology"]
+  },
+  {
+    "id": 3827,
+    "title": "Pressure-resistant Batteries for Subsea Technology",
+    "domain": "43",
+    "description": "Develop high-capacity batteries that can function efficiently in deep-sea pressure environments for powering underwater vehicles.",
+    "keywords": ["Subsea Technology", "Marine Materials", "Deep Sea Technology"]
+  },
+  {
+    "id": 3828,
+    "title": "Autonomous Surface Vehicle for Ocean Surveys",
+    "domain": "43",
+    "description": "Create an autonomous surface vehicle capable of coordinating with underwater drones for integrated oceanographic surveys.",
+    "keywords": ["Underwater Vehicles", "Ocean Exploration", "Marine Robotics"]
+  },
+  {
+    "id": 3829,
+    "title": "Smart Coastal Barrier Systems",
+    "domain": "43",
+    "description": "Design adaptive coastal barriers using smart marine materials and real-time monitoring to protect cities from storm surges.",
+    "keywords": ["Coastal Engineering", "Marine Materials", "Offshore Systems"]
+  },
+  {
+    "id": 3830,
+    "title": "AI-assisted Subsea Construction Robots",
+    "domain": "43",
+    "description": "Develop AI-powered subsea robots to assist in constructing offshore infrastructure like pipelines and energy platforms.",
+    "keywords": ["Subsea Technology", "Offshore Systems", "Marine Robotics"]
+  },
+
+  {
+    "id": 3831,
+    "title": "Autonomous Underwater Docking Station",
+    "domain": "43",
+    "description": "Design an underwater docking and recharging station that allows autonomous underwater vehicles to extend their mission duration without surfacing.",
+    "keywords": ["Underwater Vehicles", "Subsea Technology", "Marine Robotics"]
+  },
+  {
+    "id": 3832,
+    "title": "AI-driven Ship Hull Inspection Robot",
+    "domain": "43",
+    "description": "Develop an autonomous robot capable of inspecting ship hulls for cracks, corrosion, and biofouling using AI-based image recognition.",
+    "keywords": ["Marine Robotics", "Marine Materials", "Subsea Technology"]
+  },
+  {
+    "id": 3833,
+    "title": "Deep Ocean Sensor Capsules",
+    "domain": "43",
+    "description": "Create pressure-resistant sensor capsules that can be dropped into deep ocean trenches to collect long-term environmental data.",
+    "keywords": ["Deep Sea Technology", "Marine Sensors", "Oceanography"]
+  },
+  {
+    "id": 3834,
+    "title": "Robotic Jellyfish for Marine Exploration",
+    "domain": "43",
+    "description": "Design a bio-inspired robotic jellyfish capable of silent propulsion for monitoring delicate marine ecosystems.",
+    "keywords": ["Marine Robotics", "Ocean Exploration", "Marine Biology"]
+  },
+  {
+    "id": 3835,
+    "title": "Ocean Thermal Energy Conversion System",
+    "domain": "43",
+    "description": "Develop a sustainable system that uses temperature differences between ocean surface and deep water to generate clean electricity.",
+    "keywords": ["Ocean Energy", "Offshore Systems", "Marine Engineering"]
+  },
+  {
+    "id": 3836,
+    "title": "AI-based Whale Tracking and Protection System",
+    "domain": "43",
+    "description": "Build an AI-driven tracking system using underwater microphones and sensors to monitor whale migrations and prevent ship collisions.",
+    "keywords": ["Marine Biology", "Marine Sensors", "Ocean Exploration"]
+  },
+  {
+    "id": 3837,
+    "title": "Autonomous Robot for Coral Reef Restoration",
+    "domain": "43",
+    "description": "Design a robot capable of planting coral fragments on damaged reefs and monitoring their growth to aid ecosystem recovery.",
+    "keywords": ["Marine Robotics", "Marine Biology", "Ocean Exploration"]
+  },
+  {
+    "id": 3838,
+    "title": "Smart Offshore Aquaculture Monitoring",
+    "domain": "43",
+    "description": "Develop a smart sensor system to monitor water quality, fish health, and feeding efficiency in offshore aquaculture farms.",
+    "keywords": ["Marine Sensors", "Marine Biology", "Offshore Systems"]
+  },
+  {
+    "id": 3839,
+    "title": "Self-healing Marine Materials",
+    "domain": "43",
+    "description": "Create advanced marine construction materials with self-healing properties to repair micro-cracks in underwater structures.",
+    "keywords": ["Marine Materials", "Subsea Technology", "Coastal Engineering"]
+  },
+  {
+    "id": 3840,
+    "title": "Hybrid Underwater-Drone Exploration System",
+    "domain": "43",
+    "description": "Design a hybrid vehicle that can operate both underwater and on the surface, switching modes seamlessly for exploration missions.",
+    "keywords": ["Underwater Vehicles", "Ocean Exploration", "Marine Robotics"]
+  },
+  {
+    "id": 3841,
+    "title": "Underwater Noise Pollution Monitoring",
+    "domain": "43",
+    "description": "Develop a marine sensor system to monitor and analyze underwater noise pollution and its effects on marine species.",
+    "keywords": ["Marine Sensors", "Oceanography", "Marine Biology"]
+  },
+  {
+    "id": 3842,
+    "title": "AI-assisted Deep Sea Navigation System",
+    "domain": "43",
+    "description": "Build an AI-powered navigation system for deep sea vehicles to overcome GPS unavailability and maintain accurate positioning.",
+    "keywords": ["Deep Sea Technology", "Underwater Vehicles", "Marine Robotics"]
+  },
+  {
+    "id": 3843,
+    "title": "Floating Ocean Data Hub",
+    "domain": "43",
+    "description": "Design a floating hub platform that collects, processes, and transmits real-time oceanographic data from distributed sensors.",
+    "keywords": ["Oceanography", "Marine Sensors", "Offshore Systems"]
+  },
+  {
+    "id": 3844,
+    "title": "Robotic Octopus for Pipeline Inspection",
+    "domain": "43",
+    "description": "Create a bio-inspired robotic octopus capable of maneuvering around complex subsea pipelines for inspection and maintenance.",
+    "keywords": ["Marine Robotics", "Subsea Technology", "Offshore Systems"]
+  },
+  {
+    "id": 3845,
+    "title": "Smart Anchoring System for Offshore Platforms",
+    "domain": "43",
+    "description": "Develop an intelligent anchoring system that adapts to seabed conditions, improving stability and safety of offshore structures.",
+    "keywords": ["Offshore Systems", "Marine Materials", "Coastal Engineering"]
+  },
+  {
+    "id": 3846,
+    "title": "Underwater Earthquake Early Warning System",
+    "domain": "43",
+    "description": "Design a subsea sensor array to detect early seismic activities and provide alerts for tsunamis and undersea earthquakes.",
+    "keywords": ["Subsea Technology", "Marine Sensors", "Oceanography"]
+  },
+  {
+    "id": 3847,
+    "title": "AI-powered Submersible Maintenance Drone",
+    "domain": "43",
+    "description": "Build an AI-driven submersible drone capable of detecting and repairing minor damages in offshore energy platforms.",
+    "keywords": ["Marine Robotics", "Subsea Technology", "Offshore Systems"]
+  },
+  {
+    "id": 3848,
+    "title": "Marine Algae Energy Harvesting System",
+    "domain": "43",
+    "description": "Develop a system that harnesses marine algae biomass as a renewable source of biofuel for coastal communities.",
+    "keywords": ["Ocean Energy", "Marine Biology", "Coastal Engineering"]
+  },
+  {
+    "id": 3849,
+    "title": "Underwater Archaeological Exploration Robot",
+    "domain": "43",
+    "description": "Design a precision underwater robot to explore, document, and protect submerged archaeological heritage sites.",
+    "keywords": ["Underwater Vehicles", "Ocean Exploration", "Marine Robotics"]
+  },
+  {
+    "id": 3850,
+    "title": "Floating Desalination Plant Using Wave Power",
+    "domain": "43",
+    "description": "Create a floating desalination unit powered by wave energy to provide fresh water for coastal and island communities.",
+    "keywords": ["Ocean Energy", "Offshore Systems", "Marine Engineering"]
+  },
+  //domain-44
+
+
 
 
 
