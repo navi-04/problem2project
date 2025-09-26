@@ -25262,8 +25262,359 @@ const PROBLEMS_DATA = {
 
   { "id": 3699, "title": "Rapid Prototyping Error Debugger", "domain": "40", "description": "Create a debugging system that helps designers identify and fix errors in prototypes before printing.", "keywords": ["Rapid Prototyping", "Error Detection", "3D Modeling"] },
 
-  { "id": 3700, "title": "Layer Manufacturing AI Supervisor", "domain": "40", "description": "Develop an AI system that supervises layer manufacturing, making adjustments dynamically for consistency.", "keywords": ["Layer Manufacturing", "AI", "Print Quality"] }
+  { "id": 3700, "title": "Layer Manufacturing AI Supervisor", "domain": "40", "description": "Develop an AI system that supervises layer manufacturing, making adjustments dynamically for consistency.", "keywords": ["Layer Manufacturing", "AI", "Print Quality"] },
   //domain-41
+  {
+    "id": 3701,
+    "title": "AI-Driven Solar Panel Efficiency Optimizer",
+    "domain": "41",
+    "description": "Develop an AI-based tool that analyzes real-time weather and shading conditions to optimize the angle and positioning of solar panels for maximum efficiency.",
+    "keywords": ["Solar Energy", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3702,
+    "title": "Wind Turbine Fault Prediction System",
+    "domain": "41",
+    "description": "Design a predictive maintenance system that monitors turbine vibrations and wind conditions to predict failures before they occur, reducing downtime.",
+    "keywords": ["Wind Energy", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 3703,
+    "title": "Next-Gen Battery Recycling Platform",
+    "domain": "41",
+    "description": "Create a scalable platform for recycling lithium-ion batteries used in renewable systems to reduce waste and improve circular economy practices.",
+    "keywords": ["Battery Technology", "Energy Storage", "Sustainability"]
+  },
+  {
+    "id": 3704,
+    "title": "Smart Grid Load Balancing with Renewable Sources",
+    "domain": "41",
+    "description": "Develop a smart grid system capable of balancing unpredictable renewable energy sources with real-time energy demand using AI algorithms.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3705,
+    "title": "IoT-Enabled Microgrid for Remote Villages",
+    "domain": "41",
+    "description": "Design an IoT-enabled microgrid that integrates solar, wind, and battery storage to provide reliable electricity to off-grid communities.",
+    "keywords": ["Solar Energy", "Wind Energy", "Grid Integration", "Energy Storage"]
+  },
+  {
+    "id": 3706,
+    "title": "Floating Solar Plant Feasibility Study",
+    "domain": "41",
+    "description": "Investigate the feasibility and efficiency of installing floating solar power plants on reservoirs to save land and reduce evaporation losses.",
+    "keywords": ["Solar Energy", "Energy Efficiency", "Grid Integration"]
+  },
+  {
+    "id": 3707,
+    "title": "Geothermal Smart Heating System",
+    "domain": "41",
+    "description": "Create a smart home heating and cooling system powered by geothermal energy, integrated with IoT sensors for real-time energy optimization.",
+    "keywords": ["Geothermal", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 3708,
+    "title": "Hydropower-Turbine Hybrid Storage",
+    "domain": "41",
+    "description": "Develop a system combining hydropower turbines with pumped hydro storage to stabilize renewable energy fluctuations.",
+    "keywords": ["Hydroelectric", "Energy Storage", "Grid Integration"]
+  },
+  {
+    "id": 3709,
+    "title": "AI-Based Demand Forecasting for Renewable Grids",
+    "domain": "41",
+    "description": "Design an AI model that predicts household and industrial energy demand patterns to improve renewable integration in smart grids.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3710,
+    "title": "Biomass-Powered Hybrid Charging Station",
+    "domain": "41",
+    "description": "Develop a hybrid EV charging station powered by biomass energy combined with solar and battery storage for rural areas.",
+    "keywords": ["Biomass", "Energy Storage", "Solar Energy", "Grid Integration"]
+  },
+  {
+    "id": 3711,
+    "title": "Solar Road Surface Energy Harvesting",
+    "domain": "41",
+    "description": "Create durable solar panels embedded in roads and sidewalks that harvest energy while supporting vehicle traffic.",
+    "keywords": ["Solar Energy", "Energy Harvesting", "Power Electronics"]
+  },
+  {
+    "id": 3712,
+    "title": "Smart Inverter for Renewable Microgrids",
+    "domain": "41",
+    "description": "Design a next-gen inverter that optimizes renewable power conversion and stabilizes voltage fluctuations in microgrids.",
+    "keywords": ["Power Electronics", "Smart Grid", "Grid Integration"]
+  },
+  {
+    "id": 3713,
+    "title": "Energy Harvesting from Ocean Waves",
+    "domain": "41",
+    "description": "Explore new turbine and buoy designs that efficiently capture ocean wave energy and integrate it into renewable grids.",
+    "keywords": ["Energy Harvesting", "Hydroelectric", "Grid Integration"]
+  },
+  {
+    "id": 3714,
+    "title": "Blockchain-Based Renewable Energy Trading",
+    "domain": "41",
+    "description": "Build a blockchain platform that allows prosumers to trade excess renewable energy securely and transparently.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3715,
+    "title": "Hybrid Solar-Wind Street Lighting System",
+    "domain": "41",
+    "description": "Develop an autonomous street lighting system powered by both solar panels and small-scale wind turbines with battery storage.",
+    "keywords": ["Solar Energy", "Wind Energy", "Energy Storage"]
+  },
+  {
+    "id": 3716,
+    "title": "AI-Powered Battery Degradation Predictor",
+    "domain": "41",
+    "description": "Design a machine learning model that predicts battery degradation over time to optimize storage system performance.",
+    "keywords": ["Battery Technology", "Energy Storage", "Smart Grid"]
+  },
+  {
+    "id": 3717,
+    "title": "Urban Vertical Wind Turbine Network",
+    "domain": "41",
+    "description": "Create compact vertical-axis wind turbines designed for urban rooftops, connected into a shared renewable energy network.",
+    "keywords": ["Wind Energy", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3718,
+    "title": "Hydrogen Production from Surplus Solar",
+    "domain": "41",
+    "description": "Develop an electrolysis system that converts surplus solar power into hydrogen fuel for storage and later use.",
+    "keywords": ["Solar Energy", "Energy Storage", "Smart Grid"]
+  },
+  {
+    "id": 3719,
+    "title": "Smart Grid Cybersecurity Framework",
+    "domain": "41",
+    "description": "Create a robust cybersecurity framework to protect renewable-integrated smart grids from cyberattacks and data breaches.",
+    "keywords": ["Smart Grid", "Grid Integration", "Power Electronics"]
+  },
+  {
+    "id": 3720,
+    "title": "AI-Assisted Geothermal Resource Mapping",
+    "domain": "41",
+    "description": "Use machine learning models and satellite data to identify high-potential geothermal energy sites globally.",
+    "keywords": ["Geothermal", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3721,
+    "title": "Community-Driven Solar Microfinancing Platform",
+    "domain": "41",
+    "description": "Develop a peer-to-peer microfinancing platform that helps communities crowdfund solar installations and track their energy savings.",
+    "keywords": ["Solar Energy", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 3722,
+    "title": "Smart Battery Swapping for EV Fleets",
+    "domain": "41",
+    "description": "Design a smart battery swapping system that integrates with renewable-powered charging stations for electric vehicle fleets.",
+    "keywords": ["Battery Technology", "Energy Storage", "Smart Grid"]
+  },
+  {
+    "id": 3723,
+    "title": "Offshore Wind Energy Monitoring System",
+    "domain": "41",
+    "description": "Create a sensor-based monitoring network that tracks performance, maintenance needs, and weather impacts on offshore wind farms.",
+    "keywords": ["Wind Energy", "Smart Grid", "Grid Integration"]
+  },
+  {
+    "id": 3724,
+    "title": "AI-Optimized Hydroelectric Scheduling",
+    "domain": "41",
+    "description": "Build an AI system that schedules hydroelectric power generation based on rainfall forecasts, grid demand, and energy pricing.",
+    "keywords": ["Hydroelectric", "Smart Grid", "Grid Integration"]
+  },
+  {
+    "id": 3725,
+    "title": "Solar-Powered Cold Storage for Farmers",
+    "domain": "41",
+    "description": "Design a solar-powered cold storage system to help farmers preserve perishable crops and reduce post-harvest losses.",
+    "keywords": ["Solar Energy", "Energy Efficiency", "Battery Technology"]
+  },
+  {
+    "id": 3726,
+    "title": "Smart Energy Harvesting Wearables",
+    "domain": "41",
+    "description": "Develop wearable devices that harvest solar and kinetic energy to power sensors and communication modules.",
+    "keywords": ["Energy Harvesting", "Solar Energy", "Power Electronics"]
+  },
+  {
+    "id": 3727,
+    "title": "Hybrid Renewable-Powered Desalination Plant",
+    "domain": "41",
+    "description": "Design a desalination system powered by solar, wind, and battery storage to provide clean water in arid regions.",
+    "keywords": ["Solar Energy", "Wind Energy", "Energy Storage"]
+  },
+  {
+    "id": 3728,
+    "title": "Biomass Waste-to-Energy Conversion System",
+    "domain": "41",
+    "description": "Create an efficient system that converts agricultural and municipal biomass waste into electricity with minimal emissions.",
+    "keywords": ["Biomass", "Energy Efficiency", "Power Electronics"]
+  },
+  {
+    "id": 3729,
+    "title": "Smart Grid Energy Theft Detection",
+    "domain": "41",
+    "description": "Develop an AI-based anomaly detection system to identify and prevent illegal tapping of renewable-powered smart grids.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3730,
+    "title": "Geothermal-Powered Greenhouse Automation",
+    "domain": "41",
+    "description": "Design an automated greenhouse climate control system powered by geothermal energy for sustainable farming.",
+    "keywords": ["Geothermal", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3731,
+    "title": "Solar Drone Charging Infrastructure",
+    "domain": "41",
+    "description": "Build a network of solar-powered drone charging stations for logistics and delivery services in rural areas.",
+    "keywords": ["Solar Energy", "Energy Harvesting", "Battery Technology"]
+  },
+  {
+    "id": 3732,
+    "title": "Smart Power Electronics for Grid Integration",
+    "domain": "41",
+    "description": "Develop adaptive power electronic converters that improve renewable energy integration and reduce transmission losses.",
+    "keywords": ["Power Electronics", "Grid Integration", "Smart Grid"]
+  },
+  {
+    "id": 3733,
+    "title": "Hybrid Wind-Solar Agricultural Irrigation System",
+    "domain": "41",
+    "description": "Design an irrigation system powered by wind and solar energy with battery storage for small-scale farmers.",
+    "keywords": ["Solar Energy", "Wind Energy", "Energy Storage"]
+  },
+  {
+    "id": 3734,
+    "title": "AI-Powered Renewable Forecasting Dashboard",
+    "domain": "41",
+    "description": "Build a dashboard that forecasts renewable energy generation using AI models trained on weather and sensor data.",
+    "keywords": ["Solar Energy", "Wind Energy", "Smart Grid"]
+  },
+  {
+    "id": 3735,
+    "title": "Smart EV-to-Grid Energy Sharing",
+    "domain": "41",
+    "description": "Create a system that allows electric vehicles to feed surplus battery energy back into the renewable-powered grid.",
+    "keywords": ["Battery Technology", "Smart Grid", "Grid Integration"]
+  },
+  {
+    "id": 3736,
+    "title": "Energy Harvesting Pavement Tiles",
+    "domain": "41",
+    "description": "Develop pavement tiles that harvest energy from footsteps and vehicle movement, integrating into renewable microgrids.",
+    "keywords": ["Energy Harvesting", "Smart Grid", "Power Electronics"]
+  },
+  {
+    "id": 3737,
+    "title": "Biogas-Based Smart Cooking System",
+    "domain": "41",
+    "description": "Design an IoT-enabled biogas cooking system with real-time monitoring of gas production and usage efficiency.",
+    "keywords": ["Biomass", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3738,
+    "title": "Wind Energy-Powered Water Pumping System",
+    "domain": "41",
+    "description": "Develop a small-scale wind energy-powered water pumping system for irrigation in rural areas.",
+    "keywords": ["Wind Energy", "Energy Efficiency", "Grid Integration"]
+  },
+  {
+    "id": 3739,
+    "title": "AI-Enhanced Energy Storage Management",
+    "domain": "41",
+    "description": "Build an AI-driven platform that optimizes charge and discharge cycles in renewable energy storage systems.",
+    "keywords": ["Energy Storage", "Battery Technology", "Smart Grid"]
+  },
+  {
+    "id": 3740,
+    "title": "Hydropower-Powered Smart Street Lights",
+    "domain": "41",
+    "description": "Create a smart street lighting system powered by mini-hydropower turbines in urban drainage channels.",
+    "keywords": ["Hydroelectric", "Smart Grid", "Energy Efficiency"]
+  },
+  {
+    "id": 3741,
+    "title": "Solar-Powered Smart Homes",
+    "domain": "41",
+    "description": "Develop a smart home system with IoT devices powered entirely by solar energy, optimized for energy efficiency.",
+    "keywords": ["Solar Energy", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3742,
+    "title": "Off-Grid Geothermal Cooling Systems",
+    "domain": "41",
+    "description": "Design an off-grid cooling solution for households powered entirely by geothermal energy sources.",
+    "keywords": ["Geothermal", "Energy Efficiency", "Grid Integration"]
+  },
+  {
+    "id": 3743,
+    "title": "AI-Powered Solar Farm Layout Optimizer",
+    "domain": "41",
+    "description": "Build a tool that uses AI to design solar farm layouts for maximum energy capture and land utilization.",
+    "keywords": ["Solar Energy", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 3744,
+    "title": "Hybrid Biomass and Solar Cooking Device",
+    "domain": "41",
+    "description": "Create a cooking device that combines biomass combustion with solar thermal energy for clean cooking solutions.",
+    "keywords": ["Biomass", "Solar Energy", "Energy Efficiency"]
+  },
+  {
+    "id": 3745,
+    "title": "Portable Solar-Powered Medical Units",
+    "domain": "41",
+    "description": "Develop portable medical units with solar-powered refrigeration and diagnostic tools for disaster relief zones.",
+    "keywords": ["Solar Energy", "Battery Technology", "Energy Storage"]
+  },
+  {
+    "id": 3746,
+    "title": "Hydropower for Smart Agriculture Sensors",
+    "domain": "41",
+    "description": "Design micro-hydropower systems that power precision agriculture sensors for water and soil monitoring.",
+    "keywords": ["Hydroelectric", "Energy Harvesting", "Smart Grid"]
+  },
+  {
+    "id": 3747,
+    "title": "AI-Driven Renewable Grid Stability Analysis",
+    "domain": "41",
+    "description": "Develop AI models to analyze renewable grid fluctuations and provide real-time stability recommendations.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3748,
+    "title": "Urban Wind-Solar Hybrid Bus Stops",
+    "domain": "41",
+    "description": "Design smart bus stops powered by hybrid wind-solar energy systems, including Wi-Fi and charging ports.",
+    "keywords": ["Wind Energy", "Solar Energy", "Energy Storage"]
+  },
+  {
+    "id": 3749,
+    "title": "AI-Powered Renewable Energy Pricing Model",
+    "domain": "41",
+    "description": "Build a dynamic pricing system for renewable energy markets based on AI-driven demand and supply forecasts.",
+    "keywords": ["Smart Grid", "Grid Integration", "Energy Efficiency"]
+  },
+  {
+    "id": 3750,
+    "title": "Community Biomass Heating System",
+    "domain": "41",
+    "description": "Develop a centralized biomass heating system for rural communities to reduce reliance on fossil fuels.",
+    "keywords": ["Biomass", "Energy Efficiency", "Smart Grid"]
+  },
+
 
 
 
