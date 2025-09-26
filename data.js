@@ -25964,7 +25964,7 @@ const PROBLEMS_DATA = {
     "domain": "42",
     "description": "Pedestrian bottlenecks occur in stations, malls, and city centers. This project develops IoT-enabled pedestrian flow sensors combined with AI analytics to optimize pathways and improve safety.",
     "keywords": ["Urban Mobility", "Urban Sensors", "City Data", "Urban Analytics"]
-  }
+  },
   //domain-43
   {
     "id": 3801,
