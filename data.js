@@ -1170,7 +1170,8 @@ const DOMAIN_KEYWORDS = {
             "Quantum Machine Learning", "Quantum Simulation", "Quantum Error Correction",
             "Quantum Networking", "Quantum Sensors", "Quantum Advantage", "NISQ Devices", "Quantum Applications"
         ]
-    },//new domains
+    },
+    //new domains
       "Blockchain": {
             "domain": "Blockchain / Web3",
             "keywords": [
@@ -27020,6 +27021,708 @@ const PROBLEMS_DATA = {
     "keywords": ["Fan Engagement", "Sports Data", "Performance Analytics"]
   },
   //domain -46
+    {
+        "id": 3951,
+        "title": "Smart Temperature-Regulating Jacket",
+        "domain": "46",
+        "description": "Develop a jacket using smart textiles that can automatically regulate body temperature based on external conditions, providing comfort in both cold and hot climates.",
+        "keywords": ["Smart Textiles", "Smart Clothing", "Wearable Computing"]
+    },
+    {
+        "id": 3952,
+        "title": "AI-Powered Fashion Style Recommender",
+        "domain": "46",
+        "description": "Build a system that uses AI and fashion analytics to suggest outfit combinations personalized for user preferences, weather, and current trends.",
+        "keywords": ["Fashion AI", "Fashion Analytics", "Digital Fashion"]
+    },
+    {
+        "id": 3953,
+        "title": "Self-Cleaning Smart Fabric",
+        "domain": "46",
+        "description": "Design innovative textile that can repel stains and odors automatically using nanotechnology, making clothing maintenance easier and more sustainable.",
+        "keywords": ["Textile Innovation", "Smart Textiles", "Sustainable Fashion"]
+    },
+    {
+        "id": 3954,
+        "title": "Wearable Health Monitoring Shirt",
+        "domain": "46",
+        "description": "Create a shirt embedded with sensors to monitor heart rate, posture, and activity levels in real time, integrating data with a smartphone app.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3955,
+        "title": "3D Printed Custom Shoes",
+        "domain": "46",
+        "description": "Develop a platform to design and 3D print personalized shoes based on user foot scans and style preferences, enhancing comfort and fashion.",
+        "keywords": ["3D Fashion", "Fashion Design", "Fabric Technology"]
+    },
+    {
+        "id": 3956,
+        "title": "Color-Changing Smart Dress",
+        "domain": "46",
+        "description": "Implement smart textiles capable of changing color dynamically according to lighting, mood, or environmental conditions for expressive fashion statements.",
+        "keywords": ["Smart Textiles", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3957,
+        "title": "Sustainable Fabric Recycling Tracker",
+        "domain": "46",
+        "description": "Build a system that tracks clothing lifecycle and provides insights on recycling options using IoT-enabled fabrics, promoting circular fashion.",
+        "keywords": ["Sustainable Fashion", "Textile Innovation", "Fashion Analytics"]
+    },
+    {
+        "id": 3958,
+        "title": "Gesture-Controlled Wearable Accessories",
+        "domain": "46",
+        "description": "Design wearable accessories that can respond to user gestures for interaction, combining fashion aesthetics with innovative wearable computing.",
+        "keywords": ["Wearable Computing", "Fashion Tech", "Smart Clothing"]
+    },
+    {
+        "id": 3959,
+        "title": "AI-Powered Fabric Pattern Generator",
+        "domain": "46",
+        "description": "Develop an AI tool that generates unique textile patterns and prints based on user preferences, trends, and seasonality for fashion designers.",
+        "keywords": ["Fashion AI", "Fashion Design", "Textile Innovation"]
+    },
+    {
+        "id": 3960,
+        "title": "Smart Fitness Apparel with Posture Correction",
+        "domain": "46",
+        "description": "Create wearable clothing that monitors posture during exercise and gives real-time feedback to prevent injuries and improve performance.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3961,
+        "title": "Interactive LED Fashion Wear",
+        "domain": "46",
+        "description": "Design clothing integrated with programmable LEDs to display patterns or messages controlled via a smartphone app for personalized digital fashion.",
+        "keywords": ["Digital Fashion", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3962,
+        "title": "Smart Fabrics for UV Protection",
+        "domain": "46",
+        "description": "Develop fabrics that can detect UV exposure and provide adaptive protection to minimize skin damage during outdoor activities.",
+        "keywords": ["Smart Textiles", "Fabric Technology", "Fashion Tech"]
+    },
+    {
+        "id": 3963,
+        "title": "Fashion Analytics Dashboard for Retail",
+        "domain": "46",
+        "description": "Create a platform that analyzes customer preferences, purchase behavior, and fashion trends to assist designers and retailers in decision-making.",
+        "keywords": ["Fashion Analytics", "Fashion Tech", "Digital Fashion"]
+    },
+    {
+        "id": 3964,
+        "title": "Smart Sleepwear for Health Monitoring",
+        "domain": "46",
+        "description": "Design sleepwear embedded with sensors that track sleep quality, heart rate, and body temperature for personalized wellness recommendations.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3965,
+        "title": "Eco-Friendly Smart Textile Dyeing",
+        "domain": "46",
+        "description": "Develop sustainable dyeing techniques for smart textiles that reduce water usage and environmental impact while maintaining vibrant colors.",
+        "keywords": ["Textile Innovation", "Sustainable Fashion", "Fabric Technology"]
+    },
+    {
+        "id": 3966,
+        "title": "AI-Based Virtual Try-On App",
+        "domain": "46",
+        "description": "Create an app that allows users to virtually try on clothes using AR and AI, improving e-commerce experience and reducing returns.",
+        "keywords": ["Fashion AI", "Digital Fashion", "Fashion Design"]
+    },
+    {
+        "id": 3967,
+        "title": "Smart Gloves for Gesture Control",
+        "domain": "46",
+        "description": "Develop gloves with embedded sensors to interpret hand gestures for controlling smart devices or interacting with virtual environments.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3968,
+        "title": "Temperature-Adaptive Smart Footwear",
+        "domain": "46",
+        "description": "Design footwear that adjusts insulation or cooling based on ambient temperature and activity, enhancing comfort and performance.",
+        "keywords": ["Smart Clothing", "Fabric Technology", "Wearable Computing"]
+    },
+    {
+        "id": 3969,
+        "title": "Personalized 3D Fashion Avatars",
+        "domain": "46",
+        "description": "Build a system that creates 3D avatars based on body scans to visualize clothing fit and style before purchase, improving customization.",
+        "keywords": ["3D Fashion", "Digital Fashion", "Fashion Design"]
+    },
+    {
+        "id": 3970,
+        "title": "Smart Jacket with Gesture-Controlled Heating",
+        "domain": "46",
+        "description": "Develop a jacket that allows users to control internal heating levels via simple gestures, combining comfort and wearable computing.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3971,
+        "title": "AI-Generated Sustainable Textile Patterns",
+        "domain": "46",
+        "description": "Use AI to generate unique, eco-friendly textile patterns that minimize fabric waste during production.",
+        "keywords": ["Fashion AI", "Textile Innovation", "Sustainable Fashion"]
+    },
+    {
+        "id": 3972,
+        "title": "Smart Backpack with Health Monitoring",
+        "domain": "46",
+        "description": "Create a backpack equipped with sensors to monitor posture and load distribution, ensuring ergonomic and safe carrying.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3973,
+        "title": "Fabric-Integrated Solar Panels for Wearables",
+        "domain": "46",
+        "description": "Design smart clothing that incorporates flexible solar panels to charge wearable devices or small electronics on the go.",
+        "keywords": ["Smart Textiles", "Wearable Computing", "Textile Innovation"]
+    },
+    {
+        "id": 3974,
+        "title": "AI-Based Trend Prediction for Fashion Designers",
+        "domain": "46",
+        "description": "Develop an AI platform to analyze social media and sales data to predict upcoming fashion trends for designers.",
+        "keywords": ["Fashion AI", "Fashion Analytics", "Fashion Tech"]
+    },
+    {
+        "id": 3975,
+        "title": "Mood-Responsive Smart Apparel",
+        "domain": "46",
+        "description": "Create clothing that changes color or texture based on the wearer’s mood detected through physiological sensors.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Digital Fashion"]
+    },
+    {
+        "id": 3976,
+        "title": "Smart Fabrics for Moisture Management",
+        "domain": "46",
+        "description": "Develop textiles that actively manage sweat and moisture, keeping the wearer comfortable during sports and physical activity.",
+        "keywords": ["Smart Textiles", "Fabric Technology", "Wearable Computing"]
+    },
+    {
+        "id": 3977,
+        "title": "3D-Printed Fashion Accessories",
+        "domain": "46",
+        "description": "Design a system for creating custom 3D-printed fashion accessories tailored to user preferences and style.",
+        "keywords": ["3D Fashion", "Fashion Design", "Digital Fashion"]
+    },
+    {
+        "id": 3978,
+        "title": "Smart Hat for UV and Weather Alerts",
+        "domain": "46",
+        "description": "Develop a wearable hat that senses UV levels and weather changes, alerting the wearer to take precautions.",
+        "keywords": ["Smart Textiles", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3979,
+        "title": "AI-Powered Fashion Sketch Assistant",
+        "domain": "46",
+        "description": "Build an AI tool that assists designers in creating fashion sketches based on trend analysis and fabric constraints.",
+        "keywords": ["Fashion AI", "Fashion Design", "Textile Innovation"]
+    },
+    {
+        "id": 3980,
+        "title": "Posture-Correcting Smart Shirt",
+        "domain": "46",
+        "description": "Design a shirt embedded with sensors to detect posture and provide gentle feedback for correction in real time.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3981,
+        "title": "Smart Socks for Activity Tracking",
+        "domain": "46",
+        "description": "Create socks with embedded sensors to monitor steps, running form, and foot pressure, providing health insights.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3982,
+        "title": "Thermochromic Fabric Fashion Line",
+        "domain": "46",
+        "description": "Develop a line of fabrics that change color in response to temperature, enabling dynamic fashion designs.",
+        "keywords": ["Smart Textiles", "Fashion Design", "Fabric Technology"]
+    },
+    {
+        "id": 3983,
+        "title": "AI-Based Personalized Outfit Generator",
+        "domain": "46",
+        "description": "Use AI to recommend daily outfit combinations based on user wardrobe, weather, and occasion.",
+        "keywords": ["Fashion AI", "Fashion Analytics", "Digital Fashion"]
+    },
+    {
+        "id": 3984,
+        "title": "Smart Jewelry with Health Sensors",
+        "domain": "46",
+        "description": "Design wearable jewelry that monitors heart rate, stress levels, and provides discreet notifications.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3985,
+        "title": "Interactive AR Fashion Show Platform",
+        "domain": "46",
+        "description": "Create an AR platform to host virtual fashion shows where users can interact with garments digitally.",
+        "keywords": ["Digital Fashion", "Fashion Tech", "3D Fashion"]
+    },
+    {
+        "id": 3986,
+        "title": "Eco-Friendly Smart Textile Manufacturing",
+        "domain": "46",
+        "description": "Develop sustainable manufacturing processes for smart textiles to minimize environmental impact.",
+        "keywords": ["Sustainable Fashion", "Textile Innovation", "Fabric Technology"]
+    },
+    {
+        "id": 3987,
+        "title": "Smart Winter Gloves with Heating Control",
+        "domain": "46",
+        "description": "Design gloves with embedded heating elements that adjust temperature based on hand sensors and environmental conditions.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3988,
+        "title": "3D Virtual Fitting Room",
+        "domain": "46",
+        "description": "Develop a 3D virtual fitting room that allows users to try clothes digitally before purchase, improving e-commerce experience.",
+        "keywords": ["3D Fashion", "Digital Fashion", "Fashion Design"]
+    },
+    {
+        "id": 3989,
+        "title": "Smart Fabric with Anti-Microbial Properties",
+        "domain": "46",
+        "description": "Create textile that actively kills bacteria, ensuring hygiene and long-lasting freshness for clothing.",
+        "keywords": ["Smart Textiles", "Textile Innovation", "Fashion Tech"]
+    },
+    {
+        "id": 3990,
+        "title": "Wearable AR Fashion Design Tool",
+        "domain": "46",
+        "description": "Design AR-based wearable tools for fashion designers to visualize and prototype clothing in real time.",
+        "keywords": ["Digital Fashion", "Fashion Design", "Fashion Tech"]
+    },
+    {
+        "id": 3991,
+        "title": "Smart Sportswear for Muscle Recovery",
+        "domain": "46",
+        "description": "Develop sportswear that aids muscle recovery using embedded sensors and adaptive compression technology.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3992,
+        "title": "Fashion AI for Color Palette Optimization",
+        "domain": "46",
+        "description": "Create an AI system that suggests optimal color palettes for garments based on trends and user preferences.",
+        "keywords": ["Fashion AI", "Fashion Analytics", "Fashion Design"]
+    },
+    {
+        "id": 3993,
+        "title": "Smart Umbrella-Compatible Fashion Accessories",
+        "domain": "46",
+        "description": "Design wearable accessories that sync with smart umbrellas to alert users about weather conditions and adjust features accordingly.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3994,
+        "title": "Temperature-Sensitive Smart Scarves",
+        "domain": "46",
+        "description": "Create scarves that adjust insulation based on environmental temperature, combining fashion and functionality.",
+        "keywords": ["Smart Textiles", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3995,
+        "title": "AI-Based Fabric Defect Detection",
+        "domain": "46",
+        "description": "Develop an AI system that detects defects in textiles during production, ensuring quality and reducing waste.",
+        "keywords": ["Fashion AI", "Textile Innovation", "Fashion Tech"]
+    },
+    {
+        "id": 3996,
+        "title": "Smart Raincoat with Integrated Sensors",
+        "domain": "46",
+        "description": "Design a raincoat that detects precipitation and adjusts features like ventilation, hoods, and temperature regulation automatically.",
+        "keywords": ["Smart Clothing", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 3997,
+        "title": "Interactive Fashion E-Learning Platform",
+        "domain": "46",
+        "description": "Build a platform for teaching fashion design using interactive AR, AI-assisted design suggestions, and virtual prototyping.",
+        "keywords": ["Digital Fashion", "Fashion AI", "Fashion Design"]
+    },
+    {
+        "id": 3998,
+        "title": "Smart Travel Wear with Safety Features",
+        "domain": "46",
+        "description": "Create travel clothing embedded with location tracking, emergency alerts, and adaptive comfort features.",
+        "keywords": ["Wearable Computing", "Smart Clothing", "Fashion Tech"]
+    },
+    {
+        "id": 3999,
+        "title": "Smart Textile for Adaptive Compression",
+        "domain": "46",
+        "description": "Develop textiles that adaptively provide compression to muscles for sports performance or medical purposes.",
+        "keywords": ["Smart Textiles", "Wearable Computing", "Fashion Tech"]
+    },
+    {
+        "id": 4000,
+        "title": "AI-Generated Virtual Fashion Collections",
+        "domain": "46",
+        "description": "Use AI to generate complete digital fashion collections, enabling designers to experiment with styles and trends virtually.",
+        "keywords": ["Fashion AI", "Digital Fashion", "Fashion Design"]
+    },
+    //domain-47
+    {
+        "id": 4001,
+        "title": "AI-Based Food Safety Monitoring System",
+        "domain": "47",
+        "description": "Develop an AI-powered system to monitor food safety in real-time by detecting contamination, pathogens, or spoilage in packaged and raw food items using sensors and image recognition.",
+        "keywords": ["Food Safety", "Food Sensors", "Food Packaging"]
+    },
+    {
+        "id": 4002,
+        "title": "Personalized Nutrition Recommendation Engine",
+        "domain": "47",
+        "description": "Create a platform that analyzes individual health data, dietary habits, and genetic markers to provide personalized meal plans, ensuring balanced nutrient intake and better health outcomes.",
+        "keywords": ["Nutrition Analysis", "Personalized Nutrition", "Functional Foods"]
+    },
+    {
+        "id": 4003,
+        "title": "Smart Fermentation Monitoring Tool",
+        "domain": "47",
+        "description": "Design a sensor-based system that monitors pH, temperature, and microbial growth during fermentation processes in food and beverages to optimize quality and safety.",
+        "keywords": ["Fermentation", "Food Sensors", "Food Processing"]
+    },
+    {
+        "id": 4004,
+        "title": "Waste-to-Nutrition Conversion System",
+        "domain": "47",
+        "description": "Develop a method to convert food waste into nutrient-rich ingredients for human or animal consumption, reducing waste and promoting sustainable food practices.",
+        "keywords": ["Food Waste", "Alternative Proteins", "Food Processing"]
+    },
+    {
+        "id": 4005,
+        "title": "Smart Food Packaging for Shelf-Life Extension",
+        "domain": "47",
+        "description": "Create intelligent packaging solutions that monitor temperature, humidity, and spoilage indicators to extend shelf life and ensure food safety.",
+        "keywords": ["Food Packaging", "Food Safety", "Food Preservation"]
+    },
+    {
+        "id": 4006,
+        "title": "AI-Powered Culinary Skill Enhancement App",
+        "domain": "47",
+        "description": "Build an app that guides users in cooking techniques, ingredient substitutions, and recipe optimization based on dietary preferences and nutritional goals.",
+        "keywords": ["Culinary Technology", "Nutrition Analysis", "Functional Foods"]
+    },
+    {
+        "id": 4007,
+        "title": "Automated Food Quality Inspection System",
+        "domain": "47",
+        "description": "Implement a computer vision system to inspect the quality, ripeness, and safety of fruits, vegetables, and packaged foods, reducing manual inspection errors.",
+        "keywords": ["Food Safety", "Food Sensors", "Food Processing"]
+    },
+    {
+        "id": 4008,
+        "title": "Functional Food Ingredient Analyzer",
+        "domain": "47",
+        "description": "Develop a tool that analyzes the presence and concentration of bioactive compounds in food, helping manufacturers design functional foods with targeted health benefits.",
+        "keywords": ["Functional Foods", "Nutrition Analysis", "Food Processing"]
+    },
+    {
+        "id": 4009,
+        "title": "Smart Preservation Techniques Using AI",
+        "domain": "47",
+        "description": "Create AI algorithms to recommend the best preservation techniques (e.g., freezing, dehydration, fermentation) for different foods to maximize shelf life and nutritional value.",
+        "keywords": ["Food Preservation", "Food Processing", "Food Safety"]
+    },
+    {
+        "id": 4010,
+        "title": "IoT-Based Kitchen Waste Tracker",
+        "domain": "47",
+        "description": "Design an IoT system to monitor and quantify food waste in households or restaurants and provide suggestions for reducing waste through optimized meal planning.",
+        "keywords": ["Food Waste", "Food Sensors", "Personalized Nutrition"]
+    },
+    {
+        "id": 4011,
+        "title": "Alternative Protein Development Lab",
+        "domain": "47",
+        "description": "Develop a research platform for testing and producing alternative proteins such as plant-based, insect-based, or lab-grown meat to support sustainable diets.",
+        "keywords": ["Alternative Proteins", "Food Processing", "Functional Foods"]
+    },
+    {
+        "id": 4012,
+        "title": "AI-Based Food Spoilage Prediction",
+        "domain": "47",
+        "description": "Build a predictive system using AI and sensor data to forecast spoilage of perishable foods in supply chains, reducing waste and ensuring safety.",
+        "keywords": ["Food Safety", "Food Sensors", "Food Preservation"]
+    },
+    {
+        "id": 4013,
+        "title": "Smart Nutrient Analyzer for Meals",
+        "domain": "47",
+        "description": "Develop a device that analyzes meals for macronutrients and micronutrients in real-time to help individuals track and balance their dietary intake.",
+        "keywords": ["Nutrition Analysis", "Food Sensors", "Personalized Nutrition"]
+    },
+    {
+        "id": 4014,
+        "title": "Culinary AI Recipe Optimizer",
+        "domain": "47",
+        "description": "Create an AI system that adjusts recipes for taste, nutrition, and dietary restrictions, suggesting ingredient swaps or cooking techniques to improve meals.",
+        "keywords": ["Culinary Technology", "Functional Foods", "Nutrition Analysis"]
+    },
+    {
+        "id": 4015,
+        "title": "Edible Food Packaging Materials",
+        "domain": "47",
+        "description": "Develop biodegradable and edible packaging materials to reduce plastic usage while maintaining food safety and freshness.",
+        "keywords": ["Food Packaging", "Food Safety", "Food Preservation"]
+    },
+    {
+        "id": 4016,
+        "title": "IoT Fermentation Controller",
+        "domain": "47",
+        "description": "Design an IoT-enabled device to monitor and automatically control fermentation conditions such as temperature, humidity, and pH for consistent product quality.",
+        "keywords": ["Fermentation", "Food Sensors", "Food Processing"]
+    },
+    {
+        "id": 4017,
+        "title": "Smart Dietary Planner App",
+        "domain": "47",
+        "description": "Create an app that suggests daily meal plans based on nutritional goals, health data, and local food availability to optimize personalized diets.",
+        "keywords": ["Personalized Nutrition", "Nutrition Analysis", "Functional Foods"]
+    },
+    {
+        "id": 4018,
+        "title": "Automated Food Waste Sorting System",
+        "domain": "47",
+        "description": "Develop a robotic system to sort and process food waste into compost, animal feed, or energy generation, improving sustainability in food industries.",
+        "keywords": ["Food Waste", "Food Processing", "Alternative Proteins"]
+    },
+    {
+        "id": 4019,
+        "title": "Sensor-Based Dairy Quality Monitor",
+        "domain": "47",
+        "description": "Create a sensor system to check milk and dairy products for contamination, freshness, and nutrient content in real-time.",
+        "keywords": ["Food Safety", "Food Sensors", "Nutrition Analysis"]
+    },
+    {
+        "id": 4020,
+        "title": "Functional Snack Development Platform",
+        "domain": "47",
+        "description": "Design a platform to develop healthy snacks enriched with functional ingredients targeting specific health benefits like immunity, digestion, or energy.",
+        "keywords": ["Functional Foods", "Food Processing", "Nutrition Analysis"]
+    },
+    {
+        "id": 4021,
+        "title": "AI-Powered Food Label Verifier",
+        "domain": "47",
+        "description": "Build an AI system that scans and verifies food labels for accuracy, nutritional claims, allergens, and safety compliance.",
+        "keywords": ["Food Safety", "Nutrition Analysis", "Food Packaging"]
+    },
+    {
+        "id": 4022,
+        "title": "3D Food Printing with Personalized Nutrition",
+        "domain": "47",
+        "description": "Develop a 3D food printer that creates meals customized to individual nutrient requirements and dietary preferences.",
+        "keywords": ["Culinary Technology", "Personalized Nutrition", "Functional Foods"]
+    },
+    {
+        "id": 4023,
+        "title": "Smart Cold Chain Management System",
+        "domain": "47",
+        "description": "Implement IoT sensors and AI to monitor and optimize temperature and humidity in food transportation, reducing spoilage and enhancing safety.",
+        "keywords": ["Food Preservation", "Food Sensors", "Food Safety"]
+    },
+    {
+        "id": 4024,
+        "title": "Edible Probiotic Food Development",
+        "domain": "47",
+        "description": "Develop new food products enriched with probiotics that enhance gut health while maintaining taste and shelf-life.",
+        "keywords": ["Functional Foods", "Fermentation", "Food Processing"]
+    },
+    {
+        "id": 4025,
+        "title": "AI Meal Planner for Chronic Conditions",
+        "domain": "47",
+        "description": "Create an AI platform that designs meals tailored for individuals with chronic conditions like diabetes or hypertension, ensuring nutritional balance.",
+        "keywords": ["Personalized Nutrition", "Nutrition Analysis", "Functional Foods"]
+    },
+    {
+        "id": 4026,
+        "title": "Smart Food Safety Compliance System",
+        "domain": "47",
+        "description": "Build a digital system to track food safety compliance in kitchens, factories, and restaurants using sensors and automated reporting.",
+        "keywords": ["Food Safety", "Food Sensors", "Food Packaging"]
+    },
+    {
+        "id": 4027,
+        "title": "IoT-Based Food Freshness Tracker",
+        "domain": "47",
+        "description": "Develop sensors and mobile alerts to monitor freshness and quality of perishable foods at homes or retail stores.",
+        "keywords": ["Food Sensors", "Food Preservation", "Food Safety"]
+    },
+    {
+        "id": 4028,
+        "title": "Plant-Based Meat Texture Analyzer",
+        "domain": "47",
+        "description": "Create a system to measure and optimize texture, taste, and nutritional content of plant-based meat alternatives for better consumer acceptance.",
+        "keywords": ["Alternative Proteins", "Food Processing", "Nutrition Analysis"]
+    },
+    {
+        "id": 4029,
+        "title": "Smart Nutrient Fortification System",
+        "domain": "47",
+        "description": "Design a platform to automatically fortify staple foods with essential vitamins and minerals based on population nutritional needs.",
+        "keywords": ["Nutrition Analysis", "Functional Foods", "Food Processing"]
+    },
+    {
+        "id": 4030,
+        "title": "Fermentation Data Analytics Platform",
+        "domain": "47",
+        "description": "Build a platform to collect and analyze fermentation data, optimizing production of foods like yogurt, kimchi, and kombucha.",
+        "keywords": ["Fermentation", "Food Processing", "Food Sensors"]
+    },
+    {
+        "id": 4031,
+        "title": "AI-Powered Food Waste Reduction App",
+        "domain": "47",
+        "description": "Develop an application that suggests recipes or storage techniques to reduce household food waste based on available ingredients.",
+        "keywords": ["Food Waste", "Food Preservation", "Culinary Technology"]
+    },
+    {
+        "id": 4032,
+        "title": "Smart Packaging with Spoilage Indicators",
+        "domain": "47",
+        "description": "Create packaging with visual indicators that change color when food spoils, ensuring safe consumption and reducing waste.",
+        "keywords": ["Food Packaging", "Food Safety", "Food Sensors"]
+    },
+    {
+        "id": 4033,
+        "title": "Nutrition Tracking Wearable for Athletes",
+        "domain": "47",
+        "description": "Develop a wearable device that tracks nutrient intake and energy expenditure, providing real-time recommendations for athletes.",
+        "keywords": ["Nutrition Analysis", "Personalized Nutrition", "Functional Foods"]
+    },
+    {
+        "id": 4034,
+        "title": "AI-Optimized Alternative Protein Recipes",
+        "domain": "47",
+        "description": "Build an AI system that suggests recipes using alternative proteins while ensuring taste, nutrition, and texture optimization.",
+        "keywords": ["Alternative Proteins", "Culinary Technology", "Nutrition Analysis"]
+    },
+    {
+        "id": 4035,
+        "title": "IoT-Controlled Smart Kitchen Appliances",
+        "domain": "47",
+        "description": "Design kitchen appliances that automatically adjust cooking parameters for nutrition optimization and food safety.",
+        "keywords": ["Culinary Technology", "Food Safety", "Nutrition Analysis"]
+    },
+    {
+        "id": 4036,
+        "title": "Functional Beverage Development Platform",
+        "domain": "47",
+        "description": "Develop a platform to formulate beverages enriched with functional ingredients like antioxidants, probiotics, or vitamins for health benefits.",
+        "keywords": ["Functional Foods", "Food Processing", "Nutrition Analysis"]
+    },
+    {
+        "id": 4037,
+        "title": "AI-Based Allergen Detection System",
+        "domain": "47",
+        "description": "Create a sensor-enabled system that identifies common food allergens in meals and packaged foods in real-time.",
+        "keywords": ["Food Safety", "Food Sensors", "Nutrition Analysis"]
+    },
+    {
+        "id": 4038,
+        "title": "Smart Cold Storage Optimization",
+        "domain": "47",
+        "description": "Design an AI system to monitor and adjust temperature and humidity in cold storage units to maximize food preservation and reduce energy consumption.",
+        "keywords": ["Food Preservation", "Food Safety", "Food Sensors"]
+    },
+    {
+        "id": 4039,
+        "title": "Personalized Functional Snack Subscription",
+        "domain": "47",
+        "description": "Develop a service that delivers functional snacks tailored to an individual's nutritional needs, health goals, and dietary preferences.",
+        "keywords": ["Functional Foods", "Personalized Nutrition", "Nutrition Analysis"]
+    },
+    {
+        "id": 4040,
+        "title": "Food Quality Blockchain Tracking",
+        "domain": "47",
+        "description": "Implement blockchain technology to trace food quality and safety from farm to fork, ensuring transparency and authenticity.",
+        "keywords": ["Food Safety", "Food Packaging", "Food Sensors"]
+    },
+    {
+        "id": 4041,
+        "title": "AI-Based Fruit Ripeness Detector",
+        "domain": "47",
+        "description": "Create an AI tool to assess fruit ripeness using images and sensor data to improve harvest timing and reduce waste.",
+        "keywords": ["Food Sensors", "Food Safety", "Food Processing"]
+    },
+    {
+        "id": 4042,
+        "title": "Smart Nutritional Supplement Generator",
+        "domain": "47",
+        "description": "Design a system that generates personalized supplements based on individual nutrient deficiencies detected through analysis.",
+        "keywords": ["Nutrition Analysis", "Personalized Nutrition", "Functional Foods"]
+    },
+    {
+        "id": 4043,
+        "title": "IoT-Based Fermentation Automation",
+        "domain": "47",
+        "description": "Build a fully automated fermentation system using IoT sensors and AI to ensure consistent quality in foods like yogurt and kombucha.",
+        "keywords": ["Fermentation", "Food Sensors", "Food Processing"]
+    },
+    {
+        "id": 4044,
+        "title": "Smart Kitchen Inventory Management",
+        "domain": "47",
+        "description": "Develop a system to track kitchen ingredients in real-time, suggest recipes, and reduce food waste automatically.",
+        "keywords": ["Food Waste", "Culinary Technology", "Nutrition Analysis"]
+    },
+    {
+        "id": 4045,
+        "title": "Alternative Protein Texture Enhancer",
+        "domain": "47",
+        "description": "Create methods to improve the texture and mouthfeel of alternative protein foods for better consumer acceptance.",
+        "keywords": ["Alternative Proteins", "Food Processing", "Culinary Technology"]
+    },
+    {
+        "id": 4046,
+        "title": "AI-Based Recipe Nutrient Optimizer",
+        "domain": "47",
+        "description": "Design a system that analyzes recipes and suggests ingredient adjustments to meet specific nutritional requirements.",
+        "keywords": ["Nutrition Analysis", "Culinary Technology", "Functional Foods"]
+    },
+    {
+        "id": 4047,
+        "title": "Edible Biodegradable Food Containers",
+        "domain": "47",
+        "description": "Develop edible and biodegradable containers for food storage that are safe, sustainable, and reduce packaging waste.",
+        "keywords": ["Food Packaging", "Food Safety", "Food Preservation"]
+    },
+    {
+        "id": 4048,
+        "title": "Smart AI Fermentation Assistant",
+        "domain": "47",
+        "description": "Build an AI assistant to guide fermentation processes with real-time feedback on temperature, pH, and microbial activity.",
+        "keywords": ["Fermentation", "Food Sensors", "Food Processing"]
+    },
+    {
+        "id": 4049,
+        "title": "IoT-Enabled Personalized Meal Prep Station",
+        "domain": "47",
+        "description": "Create a connected kitchen station that guides users in preparing meals tailored to personal nutritional needs using sensors and AI.",
+        "keywords": ["Personalized Nutrition", "Culinary Technology", "Nutrition Analysis"]
+    },
+    {
+        "id": 4050,
+        "title": "Food Spoilage Early Warning System",
+        "domain": "47",
+        "description": "Design a system that uses sensors and AI to detect early signs of spoilage in perishable food, alerting consumers or retailers before waste occurs.",
+        "keywords": ["Food Safety", "Food Sensors", "Food Preservation"]
+    },
+    //domain -48
 
 
 
