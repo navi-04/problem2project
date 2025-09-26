@@ -25166,103 +25166,103 @@ const PROBLEMS_DATA = {
       "description": "Develop a machine learning-based system that evaluates print quality in real-time during additive manufacturing to reduce defects and wastage.",
        "keywords": ["Print Quality", "Additive Manufacturing", "Automation"] },
 
-  { "id": 3652, "title": "3D Model to Print Material Optimizer", "domain": "3D Printing / Additive Manufacturing", "description": "Build a tool that recommends the best print material for a 3D model based on strength, durability, and cost requirements.", "keywords": ["3D Modeling", "Print Materials", "Optimization"] },
+  { "id": 3652, "title": "3D Model to Print Material Optimizer", "domain": "40", "description": "Build a tool that recommends the best print material for a 3D model based on strength, durability, and cost requirements.", "keywords": ["3D Modeling", "Print Materials", "Optimization"] },
 
-  { "id": 3653, "title": "Bioprinting Tissue Scaffold Generator", "domain": "3D Printing / Additive Manufacturing", "description": "Design a system that generates custom 3D-printed scaffolds for tissue engineering using bioprinting techniques.", "keywords": ["Bioprinting", "Additive Manufacturing", "Medical"] },
+  { "id": 3653, "title": "Bioprinting Tissue Scaffold Generator", "domain": "40", "description": "Design a system that generates custom 3D-printed scaffolds for tissue engineering using bioprinting techniques.", "keywords": ["Bioprinting", "Additive Manufacturing", "Medical"] },
 
-  { "id": 3654, "title": "Metal Printing Defect Prediction System", "domain": "3D Printing / Additive Manufacturing", "description": "Create a predictive model that identifies potential defects in metal 3D printing before the manufacturing process starts.", "keywords": ["Metal Printing", "Print Quality", "Prediction"] },
+  { "id": 3654, "title": "Metal Printing Defect Prediction System", "domain": "40", "description": "Create a predictive model that identifies potential defects in metal 3D printing before the manufacturing process starts.", "keywords": ["Metal Printing", "Print Quality", "Prediction"] },
 
-  { "id": 3655, "title": "Rapid Prototyping Workflow Automator", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a workflow automation system that speeds up design iteration and reduces manual intervention in rapid prototyping.", "keywords": ["Rapid Prototyping", "Automation", "3D Modeling"] },
+  { "id": 3655, "title": "Rapid Prototyping Workflow Automator", "domain": "40", "description": "Develop a workflow automation system that speeds up design iteration and reduces manual intervention in rapid prototyping.", "keywords": ["Rapid Prototyping", "Automation", "3D Modeling"] },
 
-  { "id": 3656, "title": "Layer Manufacturing Optimization Tool", "domain": "3D Printing / Additive Manufacturing", "description": "Implement a software solution that optimizes layer thickness and orientation to reduce print time while maintaining strength.", "keywords": ["Layer Manufacturing", "Optimization", "Additive Manufacturing"] },
+  { "id": 3656, "title": "Layer Manufacturing Optimization Tool", "domain": "40", "description": "Implement a software solution that optimizes layer thickness and orientation to reduce print time while maintaining strength.", "keywords": ["Layer Manufacturing", "Optimization", "Additive Manufacturing"] },
 
-  { "id": 3657, "title": "Smart Post-Processing Recommender", "domain": "3D Printing / Additive Manufacturing", "description": "Create a system that suggests optimal post-processing techniques based on material type and desired surface finish.", "keywords": ["Post Processing", "Print Materials", "Design for AM"] },
+  { "id": 3657, "title": "Smart Post-Processing Recommender", "domain": "40", "description": "Create a system that suggests optimal post-processing techniques based on material type and desired surface finish.", "keywords": ["Post Processing", "Print Materials", "Design for AM"] },
 
-  { "id": 3658, "title": "AI-driven Design for AM Assistant", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an AI assistant that helps engineers redesign traditional CAD models to be optimized for additive manufacturing.", "keywords": ["Design for AM", "3D Modeling", "Additive Manufacturing"] },
+  { "id": 3658, "title": "AI-driven Design for AM Assistant", "domain": "40", "description": "Develop an AI assistant that helps engineers redesign traditional CAD models to be optimized for additive manufacturing.", "keywords": ["Design for AM", "3D Modeling", "Additive Manufacturing"] },
 
-  { "id": 3659, "title": "Multi-Material Print Scheduler", "domain": "3D Printing / Additive Manufacturing", "description": "Build a scheduling system for printers capable of handling multiple materials to reduce errors and material wastage.", "keywords": ["Multi-material", "Print Materials", "Layer Manufacturing"] },
+  { "id": 3659, "title": "Multi-Material Print Scheduler", "domain": "40", "description": "Build a scheduling system for printers capable of handling multiple materials to reduce errors and material wastage.", "keywords": ["Multi-material", "Print Materials", "Layer Manufacturing"] },
 
-  { "id": 3660, "title": "4D Printing Shape-Memory Structures", "domain": "3D Printing / Additive Manufacturing", "description": "Design 4D printed objects that change shape when exposed to stimuli like heat or moisture for adaptive applications.", "keywords": ["4D Printing", "Additive Manufacturing", "Smart Materials"] },
+  { "id": 3660, "title": "4D Printing Shape-Memory Structures", "domain": "40", "description": "Design 4D printed objects that change shape when exposed to stimuli like heat or moisture for adaptive applications.", "keywords": ["4D Printing", "Additive Manufacturing", "Smart Materials"] },
 
-  { "id": 3661, "title": "Print Quality Sensor Network", "domain": "3D Printing / Additive Manufacturing", "description": "Implement IoT-enabled sensors inside 3D printers to monitor and ensure consistent print quality across multiple devices.", "keywords": ["Print Quality", "IoT", "Additive Manufacturing"] },
+  { "id": 3661, "title": "Print Quality Sensor Network", "domain": "40", "description": "Implement IoT-enabled sensors inside 3D printers to monitor and ensure consistent print quality across multiple devices.", "keywords": ["Print Quality", "IoT", "Additive Manufacturing"] },
 
-  { "id": 3662, "title": "3D Model Error Detection Tool", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a system that scans 3D models for design flaws that could cause failures during additive manufacturing.", "keywords": ["3D Modeling", "Print Quality", "Design for AM"] },
+  { "id": 3662, "title": "3D Model Error Detection Tool", "domain": "40", "description": "Develop a system that scans 3D models for design flaws that could cause failures during additive manufacturing.", "keywords": ["3D Modeling", "Print Quality", "Design for AM"] },
 
-  { "id": 3663, "title": "Sustainable Print Material Analyzer", "domain": "3D Printing / Additive Manufacturing", "description": "Build a tool that evaluates the environmental impact of different print materials and suggests greener alternatives.", "keywords": ["Print Materials", "Sustainability", "Additive Manufacturing"] },
+  { "id": 3663, "title": "Sustainable Print Material Analyzer", "domain": "40", "description": "Build a tool that evaluates the environmental impact of different print materials and suggests greener alternatives.", "keywords": ["Print Materials", "Sustainability", "Additive Manufacturing"] },
 
-  { "id": 3664, "title": "Custom Bioprinting Blueprint Generator", "domain": "3D Printing / Additive Manufacturing", "description": "Create a software solution that generates custom blueprints for organ or tissue bioprinting applications.", "keywords": ["Bioprinting", "3D Modeling", "Medical"] },
+  { "id": 3664, "title": "Custom Bioprinting Blueprint Generator", "domain": "40", "description": "Create a software solution that generates custom blueprints for organ or tissue bioprinting applications.", "keywords": ["Bioprinting", "3D Modeling", "Medical"] },
 
-  { "id": 3665, "title": "Metal Printing Energy Optimizer", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an algorithm that minimizes energy consumption in metal printing without compromising product strength.", "keywords": ["Metal Printing", "Energy Efficiency", "Optimization"] },
+  { "id": 3665, "title": "Metal Printing Energy Optimizer", "domain": "40", "description": "Develop an algorithm that minimizes energy consumption in metal printing without compromising product strength.", "keywords": ["Metal Printing", "Energy Efficiency", "Optimization"] },
 
-  { "id": 3666, "title": "Rapid Prototyping Cloud Collaboration", "domain": "3D Printing / Additive Manufacturing", "description": "Build a cloud-based platform that allows teams to collaborate and iterate faster during rapid prototyping.", "keywords": ["Rapid Prototyping", "Cloud", "Collaboration"] },
+  { "id": 3666, "title": "Rapid Prototyping Cloud Collaboration", "domain": "40", "description": "Build a cloud-based platform that allows teams to collaborate and iterate faster during rapid prototyping.", "keywords": ["Rapid Prototyping", "Cloud", "Collaboration"] },
 
-  { "id": 3667, "title": "Smart Layer Manufacturing Simulator", "domain": "3D Printing / Additive Manufacturing", "description": "Design a simulator that predicts structural properties based on different layer orientations before actual printing.", "keywords": ["Layer Manufacturing", "Simulation", "Additive Manufacturing"] },
+  { "id": 3667, "title": "Smart Layer Manufacturing Simulator", "domain": "40", "description": "Design a simulator that predicts structural properties based on different layer orientations before actual printing.", "keywords": ["Layer Manufacturing", "Simulation", "Additive Manufacturing"] },
 
-  { "id": 3668, "title": "AI-driven Post-Processing Defect Reducer", "domain": "3D Printing / Additive Manufacturing", "description": "Implement AI algorithms that detect and reduce post-processing errors in 3D printed objects.", "keywords": ["Post Processing", "AI", "Print Quality"] },
+  { "id": 3668, "title": "AI-driven Post-Processing Defect Reducer", "domain": "40", "description": "Implement AI algorithms that detect and reduce post-processing errors in 3D printed objects.", "keywords": ["Post Processing", "AI", "Print Quality"] },
 
-  { "id": 3669, "title": "Design for AM Cost Estimator", "domain": "3D Printing / Additive Manufacturing", "description": "Create a tool that estimates the cost of redesigning traditional products to be optimized for additive manufacturing.", "keywords": ["Design for AM", "Cost Estimation", "Additive Manufacturing"] },
+  { "id": 3669, "title": "Design for AM Cost Estimator", "domain": "40", "description": "Create a tool that estimates the cost of redesigning traditional products to be optimized for additive manufacturing.", "keywords": ["Design for AM", "Cost Estimation", "Additive Manufacturing"] },
 
-  { "id": 3670, "title": "Multi-Material Print Failure Detector", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an AI-based detector for identifying and correcting failures during multi-material 3D printing processes.", "keywords": ["Multi-material", "Print Quality", "Additive Manufacturing"] },
+  { "id": 3670, "title": "Multi-Material Print Failure Detector", "domain": "40", "description": "Develop an AI-based detector for identifying and correcting failures during multi-material 3D printing processes.", "keywords": ["Multi-material", "Print Quality", "Additive Manufacturing"] },
 
-  { "id": 3671, "title": "4D Printing Smart Medical Devices", "domain": "3D Printing / Additive Manufacturing", "description": "Build medical implants using 4D printing that adapt to body temperature or environment over time.", "keywords": ["4D Printing", "Bioprinting", "Medical"] },
+  { "id": 3671, "title": "4D Printing Smart Medical Devices", "domain": "40", "description": "Build medical implants using 4D printing that adapt to body temperature or environment over time.", "keywords": ["4D Printing", "Bioprinting", "Medical"] },
 
-  { "id": 3672, "title": "3D Print Quality Benchmarking Platform", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a benchmarking platform that compares print quality across different 3D printers and materials.", "keywords": ["Print Quality", "Benchmarking", "Additive Manufacturing"] },
+  { "id": 3672, "title": "3D Print Quality Benchmarking Platform", "domain": "40", "description": "Develop a benchmarking platform that compares print quality across different 3D printers and materials.", "keywords": ["Print Quality", "Benchmarking", "Additive Manufacturing"] },
 
-  { "id": 3673, "title": "AI-based 3D Model Simplification Tool", "domain": "3D Printing / Additive Manufacturing", "description": "Create an AI-powered tool that simplifies complex 3D models without compromising structural integrity for faster printing.", "keywords": ["3D Modeling", "AI", "Additive Manufacturing"] },
+  { "id": 3673, "title": "AI-based 3D Model Simplification Tool", "domain": "40", "description": "Create an AI-powered tool that simplifies complex 3D models without compromising structural integrity for faster printing.", "keywords": ["3D Modeling", "AI", "Additive Manufacturing"] },
 
-  { "id": 3674, "title": "Eco-Friendly Print Material Development", "domain": "3D Printing / Additive Manufacturing", "description": "Design and test biodegradable or recyclable materials specifically for 3D printing applications.", "keywords": ["Print Materials", "Sustainability", "Additive Manufacturing"] },
+  { "id": 3674, "title": "Eco-Friendly Print Material Development", "domain": "40", "description": "Design and test biodegradable or recyclable materials specifically for 3D printing applications.", "keywords": ["Print Materials", "Sustainability", "Additive Manufacturing"] },
 
-  { "id": 3675, "title": "Bioprinting Error Recovery System", "domain": "3D Printing / Additive Manufacturing", "description": "Build a system that automatically detects and corrects errors during bioprinting to avoid failed prints.", "keywords": ["Bioprinting", "Error Detection", "Automation"] },
+  { "id": 3675, "title": "Bioprinting Error Recovery System", "domain": "40", "description": "Build a system that automatically detects and corrects errors during bioprinting to avoid failed prints.", "keywords": ["Bioprinting", "Error Detection", "Automation"] },
 
-  { "id": 3676, "title": "Metal Printing Supply Chain Optimizer", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a supply chain optimization tool for sourcing and managing raw materials for metal printing.", "keywords": ["Metal Printing", "Supply Chain", "Optimization"] },
+  { "id": 3676, "title": "Metal Printing Supply Chain Optimizer", "domain": "40", "description": "Develop a supply chain optimization tool for sourcing and managing raw materials for metal printing.", "keywords": ["Metal Printing", "Supply Chain", "Optimization"] },
 
-  { "id": 3677, "title": "Rapid Prototyping Digital Twin", "domain": "3D Printing / Additive Manufacturing", "description": "Implement a digital twin system to simulate and optimize prototypes before actual printing.", "keywords": ["Rapid Prototyping", "Digital Twin", "Simulation"] },
+  { "id": 3677, "title": "Rapid Prototyping Digital Twin", "domain": "40", "description": "Implement a digital twin system to simulate and optimize prototypes before actual printing.", "keywords": ["Rapid Prototyping", "Digital Twin", "Simulation"] },
 
-  { "id": 3678, "title": "Layer Manufacturing Speed Enhancer", "domain": "3D Printing / Additive Manufacturing", "description": "Design a printing algorithm that accelerates layer manufacturing without sacrificing print quality.", "keywords": ["Layer Manufacturing", "Optimization", "Print Quality"] },
+  { "id": 3678, "title": "Layer Manufacturing Speed Enhancer", "domain": "40", "description": "Design a printing algorithm that accelerates layer manufacturing without sacrificing print quality.", "keywords": ["Layer Manufacturing", "Optimization", "Print Quality"] },
 
-  { "id": 3679, "title": "Post-Processing Automation Robot", "domain": "3D Printing / Additive Manufacturing", "description": "Create a robotic system that automates common post-processing steps like sanding, curing, or polishing.", "keywords": ["Post Processing", "Automation", "Robotics"] },
+  { "id": 3679, "title": "Post-Processing Automation Robot", "domain": "40", "description": "Create a robotic system that automates common post-processing steps like sanding, curing, or polishing.", "keywords": ["Post Processing", "Automation", "Robotics"] },
 
-  { "id": 3680, "title": "Design for AM Topology Optimization", "domain": "3D Printing / Additive Manufacturing", "description": "Build a tool that performs topology optimization specifically for parts manufactured through additive techniques.", "keywords": ["Design for AM", "Topology Optimization", "3D Modeling"] },
+  { "id": 3680, "title": "Design for AM Topology Optimization", "domain": "40", "description": "Build a tool that performs topology optimization specifically for parts manufactured through additive techniques.", "keywords": ["Design for AM", "Topology Optimization", "3D Modeling"] },
 
-  { "id": 3681, "title": "Multi-Material Print Simulation Engine", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a simulation engine that predicts structural performance of multi-material 3D printed products.", "keywords": ["Multi-material", "Simulation", "Additive Manufacturing"] },
+  { "id": 3681, "title": "Multi-Material Print Simulation Engine", "domain": "40", "description": "Develop a simulation engine that predicts structural performance of multi-material 3D printed products.", "keywords": ["Multi-material", "Simulation", "Additive Manufacturing"] },
 
-  { "id": 3682, "title": "4D Printing Responsive Architecture", "domain": "3D Printing / Additive Manufacturing", "description": "Design building components using 4D printing that adapt to temperature and sunlight for energy efficiency.", "keywords": ["4D Printing", "Architecture", "Additive Manufacturing"] },
+  { "id": 3682, "title": "4D Printing Responsive Architecture", "domain": "40", "description": "Design building components using 4D printing that adapt to temperature and sunlight for energy efficiency.", "keywords": ["4D Printing", "Architecture", "Additive Manufacturing"] },
 
-  { "id": 3683, "title": "AI-Enhanced Print Quality Control", "domain": "3D Printing / Additive Manufacturing", "description": "Implement AI-driven real-time monitoring to detect surface roughness or inconsistencies during printing.", "keywords": ["Print Quality", "AI", "Additive Manufacturing"] },
+  { "id": 3683, "title": "AI-Enhanced Print Quality Control", "domain": "40", "description": "Implement AI-driven real-time monitoring to detect surface roughness or inconsistencies during printing.", "keywords": ["Print Quality", "AI", "Additive Manufacturing"] },
 
-  { "id": 3684, "title": "3D Model Repair for Additive Manufacturing", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a repair tool that fixes broken or incomplete 3D models so they are manufacturable via AM.", "keywords": ["3D Modeling", "Design for AM", "Repair"] },
+  { "id": 3684, "title": "3D Model Repair for Additive Manufacturing", "domain": "40", "description": "Develop a repair tool that fixes broken or incomplete 3D models so they are manufacturable via AM.", "keywords": ["3D Modeling", "Design for AM", "Repair"] },
 
-  { "id": 3685, "title": "Smart Print Material Recycling System", "domain": "3D Printing / Additive Manufacturing", "description": "Create a system that collects, recycles, and reuses failed print material to minimize waste.", "keywords": ["Print Materials", "Recycling", "Sustainability"] },
+  { "id": 3685, "title": "Smart Print Material Recycling System", "domain": "40", "description": "Create a system that collects, recycles, and reuses failed print material to minimize waste.", "keywords": ["Print Materials", "Recycling", "Sustainability"] },
 
-  { "id": 3686, "title": "Bioprinting Patient-Specific Implants", "domain": "3D Printing / Additive Manufacturing", "description": "Build a solution that generates patient-specific 3D-printed implants using bioprinting technologies.", "keywords": ["Bioprinting", "Medical", "Customization"] },
+  { "id": 3686, "title": "Bioprinting Patient-Specific Implants", "domain": "40", "description": "Build a solution that generates patient-specific 3D-printed implants using bioprinting technologies.", "keywords": ["Bioprinting", "Medical", "Customization"] },
 
-  { "id": 3687, "title": "Metal Printing Heat Distribution Optimizer", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a simulation tool that predicts and optimizes heat distribution during metal printing.", "keywords": ["Metal Printing", "Simulation", "Optimization"] },
+  { "id": 3687, "title": "Metal Printing Heat Distribution Optimizer", "domain": "40", "description": "Develop a simulation tool that predicts and optimizes heat distribution during metal printing.", "keywords": ["Metal Printing", "Simulation", "Optimization"] },
 
-  { "id": 3688, "title": "Rapid Prototyping AI Design Assistant", "domain": "3D Printing / Additive Manufacturing", "description": "Create an AI assistant that helps designers quickly iterate and refine prototypes for faster production.", "keywords": ["Rapid Prototyping", "AI", "3D Modeling"] },
+  { "id": 3688, "title": "Rapid Prototyping AI Design Assistant", "domain": "40", "description": "Create an AI assistant that helps designers quickly iterate and refine prototypes for faster production.", "keywords": ["Rapid Prototyping", "AI", "3D Modeling"] },
 
-  { "id": 3689, "title": "Layer Manufacturing Waste Reducer", "domain": "3D Printing / Additive Manufacturing", "description": "Design an optimization tool that reduces material waste in layer-by-layer additive manufacturing processes.", "keywords": ["Layer Manufacturing", "Waste Reduction", "Optimization"] },
+  { "id": 3689, "title": "Layer Manufacturing Waste Reducer", "domain": "40", "description": "Design an optimization tool that reduces material waste in layer-by-layer additive manufacturing processes.", "keywords": ["Layer Manufacturing", "Waste Reduction", "Optimization"] },
 
-  { "id": 3690, "title": "Post-Processing Surface Quality Enhancer", "domain": "3D Printing / Additive Manufacturing", "description": "Build a smart finishing system that enhances surface smoothness through automated polishing and coating.", "keywords": ["Post Processing", "Surface Quality", "Automation"] },
+  { "id": 3690, "title": "Post-Processing Surface Quality Enhancer", "domain": "40", "description": "Build a smart finishing system that enhances surface smoothness through automated polishing and coating.", "keywords": ["Post Processing", "Surface Quality", "Automation"] },
 
-  { "id": 3691, "title": "Design for AM Lightweight Structures", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a tool that helps engineers design lightweight yet strong structures optimized for additive manufacturing.", "keywords": ["Design for AM", "Lightweight", "3D Modeling"] },
+  { "id": 3691, "title": "Design for AM Lightweight Structures", "domain": "40", "description": "Develop a tool that helps engineers design lightweight yet strong structures optimized for additive manufacturing.", "keywords": ["Design for AM", "Lightweight", "3D Modeling"] },
 
-  { "id": 3692, "title": "Multi-Material Print Alignment Corrector", "domain": "3D Printing / Additive Manufacturing", "description": "Implement a correction system that ensures perfect alignment between different materials during multi-material printing.", "keywords": ["Multi-material", "Alignment", "Print Quality"] },
+  { "id": 3692, "title": "Multi-Material Print Alignment Corrector", "domain": "40", "description": "Implement a correction system that ensures perfect alignment between different materials during multi-material printing.", "keywords": ["Multi-material", "Alignment", "Print Quality"] },
 
-  { "id": 3693, "title": "4D Printing Self-Assembling Devices", "domain": "3D Printing / Additive Manufacturing", "description": "Create 4D printed devices capable of self-assembling when triggered by external conditions.", "keywords": ["4D Printing", "Self-Assembly", "Smart Materials"] },
+  { "id": 3693, "title": "4D Printing Self-Assembling Devices", "domain": "40", "description": "Create 4D printed devices capable of self-assembling when triggered by external conditions.", "keywords": ["4D Printing", "Self-Assembly", "Smart Materials"] },
 
-  { "id": 3694, "title": "AI-based Print Quality Forecasting", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an AI forecasting model that predicts print quality based on model geometry and selected materials.", "keywords": ["Print Quality", "Forecasting", "AI"] },
+  { "id": 3694, "title": "AI-based Print Quality Forecasting", "domain": "40", "description": "Develop an AI forecasting model that predicts print quality based on model geometry and selected materials.", "keywords": ["Print Quality", "Forecasting", "AI"] },
 
-  { "id": 3695, "title": "3D Model to AM Conversion Optimizer", "domain": "3D Printing / Additive Manufacturing", "description": "Build a system that automatically converts complex 3D models into optimized AM-ready files.", "keywords": ["3D Modeling", "Design for AM", "Additive Manufacturing"] },
+  { "id": 3695, "title": "3D Model to AM Conversion Optimizer", "domain": "40", "description": "Build a system that automatically converts complex 3D models into optimized AM-ready files.", "keywords": ["3D Modeling", "Design for AM", "Additive Manufacturing"] },
 
-  { "id": 3696, "title": "Smart Print Materials Marketplace", "domain": "3D Printing / Additive Manufacturing", "description": "Create a marketplace platform that matches designers with suppliers of innovative 3D printing materials.", "keywords": ["Print Materials", "Marketplace", "Additive Manufacturing"] },
+  { "id": 3696, "title": "Smart Print Materials Marketplace", "domain": "40", "description": "Create a marketplace platform that matches designers with suppliers of innovative 3D printing materials.", "keywords": ["Print Materials", "Marketplace", "Additive Manufacturing"] },
 
-  { "id": 3697, "title": "Bioprinting Nutrient Delivery System", "domain": "3D Printing / Additive Manufacturing", "description": "Develop a method for embedding nutrient channels within bioprinted tissues for better cell growth.", "keywords": ["Bioprinting", "Medical", "Additive Manufacturing"] },
+  { "id": 3697, "title": "Bioprinting Nutrient Delivery System", "domain": "40", "description": "Develop a method for embedding nutrient channels within bioprinted tissues for better cell growth.", "keywords": ["Bioprinting", "Medical", "Additive Manufacturing"] },
 
-  { "id": 3698, "title": "Metal Printing Cost Reduction Model", "domain": "3D Printing / Additive Manufacturing", "description": "Implement a cost model that helps manufacturers minimize expenses in large-scale metal printing.", "keywords": ["Metal Printing", "Cost Estimation", "Optimization"] },
+  { "id": 3698, "title": "Metal Printing Cost Reduction Model", "domain": "40", "description": "Implement a cost model that helps manufacturers minimize expenses in large-scale metal printing.", "keywords": ["Metal Printing", "Cost Estimation", "Optimization"] },
 
-  { "id": 3699, "title": "Rapid Prototyping Error Debugger", "domain": "3D Printing / Additive Manufacturing", "description": "Create a debugging system that helps designers identify and fix errors in prototypes before printing.", "keywords": ["Rapid Prototyping", "Error Detection", "3D Modeling"] },
+  { "id": 3699, "title": "Rapid Prototyping Error Debugger", "domain": "40", "description": "Create a debugging system that helps designers identify and fix errors in prototypes before printing.", "keywords": ["Rapid Prototyping", "Error Detection", "3D Modeling"] },
 
-  { "id": 3700, "title": "Layer Manufacturing AI Supervisor", "domain": "3D Printing / Additive Manufacturing", "description": "Develop an AI system that supervises layer manufacturing, making adjustments dynamically for consistency.", "keywords": ["Layer Manufacturing", "AI", "Print Quality"] }
+  { "id": 3700, "title": "Layer Manufacturing AI Supervisor", "domain": "40", "description": "Develop an AI system that supervises layer manufacturing, making adjustments dynamically for consistency.", "keywords": ["Layer Manufacturing", "AI", "Print Quality"] }
   //domain-41
 
 
