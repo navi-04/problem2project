@@ -29500,366 +29500,364 @@ const PROBLEMS_DATA = {
         "keywords": ["Data Warehousing", "Query Optimization", "Explainable AI"]
     },
 //domain 53
-[
+
     {
-        "id": 4348,
+        "id": 4304,
         "title": "Quantum-Assisted Supply Chain Optimization",
         "domain": "53",
         "description": "Design a quantum-inspired algorithm to optimize global supply chain logistics under uncertainty and dynamic disruptions.",
         "keywords": ["Quantum Optimization", "Supply Chain", "Operations Research"]
     },
     {
-        "id": 4349,
+        "id": 4305,
         "title": "Quantum-Resistant Blockchain Protocol",
         "domain": "53",
         "description": "Develop a blockchain consensus mechanism resistant to attacks from future quantum computers while ensuring scalability.",
         "keywords": ["Quantum Security", "Blockchain", "Post-Quantum Cryptography"]
     },
     {
-        "id": 4350,
+        "id": 4306,
         "title": "Quantum Machine Learning for Drug Discovery",
         "domain": "53",
         "description": "Build a quantum-enhanced ML system to accelerate molecule simulation and predict promising drug candidates.",
         "keywords": ["Quantum ML", "Drug Discovery", "Healthcare"]
     },
     {
-        "id": 4351,
+        "id": 4307,
         "title": "Quantum-Based Secure Cloud Storage",
         "domain": "53",
         "description": "Design a cloud storage architecture that uses quantum key distribution for ultra-secure data storage and retrieval.",
         "keywords": ["Quantum Cryptography", "Cloud Security", "Quantum Networking"]
     },
     {
-        "id": 4352,
+        "id": 4308,
         "title": "Quantum Algorithms for Climate Modeling",
         "domain": "53",
         "description": "Create quantum algorithms capable of simulating climate models with higher accuracy than classical methods.",
         "keywords": ["Quantum Simulation", "Climate Science", "Sustainability"]
     },
     {
-        "id": 4353,
+        "id": 4309,
         "title": "Quantum-Inspired Financial Risk Prediction",
         "domain": "53",
         "description": "Develop a system that uses quantum-inspired optimization for predicting and managing financial risks in real-time markets.",
         "keywords": ["Quantum Finance", "Risk Prediction", "Optimization"]
     },
     {
-        "id": 4354,
+        "id": 4310,
         "title": "Quantum Error Correction Simulator",
         "domain": "53",
         "description": "Build a scalable simulator to test and evaluate quantum error correction codes for fault-tolerant quantum computing.",
         "keywords": ["Quantum Error Correction", "Quantum Hardware", "Stability"]
     },
     {
-        "id": 4355,
+        "id": 4311,
         "title": "Quantum AI for Personalized Education",
         "domain": "53",
         "description": "Develop a personalized learning platform leveraging quantum AI to recommend adaptive learning paths for students.",
         "keywords": ["Quantum AI", "Education", "Personalization"]
     },
     {
-        "id": 4356,
+        "id": 4312,
         "title": "Quantum-Enhanced Cyber Threat Detection",
         "domain": "53",
         "description": "Design a quantum-inspired anomaly detection system to identify sophisticated cyber threats in real-time.",
         "keywords": ["Quantum Security", "Cybersecurity", "Anomaly Detection"]
     },
     {
-        "id": 4357,
+        "id": 4313,
         "title": "Quantum Simulation of Protein Folding",
         "domain": "53",
         "description": "Create a quantum algorithm that models protein folding processes for biomedical and therapeutic applications.",
         "keywords": ["Quantum Simulation", "Biomedicine", "Protein Folding"]
     },
     {
-        "id": 4358,
+        "id": 4314,
         "title": "Quantum-Assisted Urban Traffic Management",
         "domain": "53",
         "description": "Develop a real-time traffic optimization engine using quantum algorithms for smart cities.",
         "keywords": ["Quantum Optimization", "Traffic", "Smart Cities"]
     },
     {
-        "id": 4359,
+        "id": 4315,
         "title": "Quantum Cloud Platform for Researchers",
         "domain": "53",
         "description": "Build a quantum computing cloud platform with APIs for researchers to test and deploy quantum algorithms.",
         "keywords": ["Quantum Cloud", "Research", "APIs"]
     },
     {
-        "id": 4360,
+        "id": 4316,
         "title": "Quantum-Driven Energy Grid Optimization",
         "domain": "53",
         "description": "Design quantum algorithms to manage and optimize renewable energy grids under fluctuating demand.",
         "keywords": ["Quantum Optimization", "Energy", "Smart Grids"]
     },
     {
-        "id": 4361,
+        "id": 4317,
         "title": "Quantum Framework for Natural Language Processing",
         "domain": "53",
         "description": "Develop a quantum-enhanced NLP system for faster semantic understanding and text classification.",
         "keywords": ["Quantum NLP", "AI", "Text Processing"]
     },
     {
-        "id": 4362,
+        "id": 4318,
         "title": "Quantum-Secure IoT Communication Protocol",
         "domain": "53",
         "description": "Create a communication standard for IoT devices using quantum cryptographic keys for enhanced security.",
         "keywords": ["Quantum IoT", "Secure Communication", "Cryptography"]
     },
     {
-        "id": 4363,
+        "id": 4319,
         "title": "Quantum Digital Twin for Manufacturing",
         "domain": "53",
         "description": "Develop a quantum-powered digital twin system for predictive maintenance in manufacturing plants.",
         "keywords": ["Quantum Simulation", "Digital Twin", "Manufacturing"]
     },
     {
-        "id": 4364,
+        "id": 4320,
         "title": "Quantum Search Algorithms for Big Data",
         "domain": "53",
         "description": "Design quantum algorithms to efficiently search, filter, and analyze big data repositories.",
         "keywords": ["Quantum Search", "Big Data", "Algorithms"]
     },
     {
-        "id": 4365,
+        "id": 4321,
         "title": "Quantum-Enabled Personalized Healthcare",
         "domain": "53",
         "description": "Develop a healthcare analytics platform that uses quantum ML for personalized treatment recommendations.",
         "keywords": ["Quantum Healthcare", "Personalization", "Quantum ML"]
     },
     {
-        "id": 4366,
+        "id": 4322,
         "title": "Quantum-Resilient Voting System",
         "domain": "53",
         "description": "Build a secure and transparent voting system resistant to quantum decryption attacks.",
         "keywords": ["Quantum Security", "Voting", "Cryptography"]
     },
     {
-        "id": 4367,
+        "id": 4323,
         "title": "Quantum AI for Space Mission Optimization",
         "domain": "53",
         "description": "Design a system that applies quantum optimization for trajectory and mission planning in space exploration.",
         "keywords": ["Quantum AI", "Space", "Optimization"]
     },
     {
-        "id": 4368,
+        "id": 4324,
         "title": "Quantum Algorithms for Genome Sequencing",
         "domain": "53",
         "description": "Create quantum-enhanced methods to accelerate genome sequencing and mutation analysis.",
         "keywords": ["Quantum Genomics", "Healthcare", "Quantum Algorithms"]
     },
     {
-        "id": 4369,
+        "id": 4325,
         "title": "Quantum Secure Digital Identity Management",
         "domain": "53",
         "description": "Develop a quantum-safe identity management platform for secure authentication and authorization.",
         "keywords": ["Quantum Security", "Digital Identity", "Authentication"]
     },
     {
-        "id": 4370,
+        "id": 4326,
         "title": "Quantum Optimization for Airline Scheduling",
         "domain": "53",
         "description": "Design a scheduling system for airlines leveraging quantum algorithms to minimize delays and fuel costs.",
         "keywords": ["Quantum Optimization", "Airlines", "Scheduling"]
     },
     {
-        "id": 4371,
+        "id": 4327,
         "title": "Quantum-Safe Smart Contracts",
         "domain": "53",
         "description": "Create a smart contract framework that is resistant to quantum decryption threats.",
         "keywords": ["Quantum Security", "Blockchain", "Smart Contracts"]
     },
     {
-        "id": 4372,
+        "id": 4328,
         "title": "Quantum-Inspired Fraud Detection System",
         "domain": "53",
         "description": "Build a fraud detection model that leverages quantum ML for identifying suspicious financial transactions.",
         "keywords": ["Quantum ML", "Fraud Detection", "Finance"]
     },
     {
-        "id": 4373,
+        "id": 4329,
         "title": "Quantum Algorithms for Real-Time Language Translation",
         "domain": "53",
         "description": "Develop a quantum-powered translation system with real-time accuracy and context understanding.",
         "keywords": ["Quantum NLP", "Translation", "AI"]
     },
     {
-        "id": 4374,
+        "id": 4330,
         "title": "Quantum-Enhanced Disaster Prediction Models",
         "domain": "53",
         "description": "Create quantum models to predict natural disasters like earthquakes and hurricanes more accurately.",
         "keywords": ["Quantum Simulation", "Disaster Prediction", "Climate"]
     },
     {
-        "id": 4375,
+        "id": 4331,
         "title": "Quantum-Assisted Robotics for Surgery",
         "domain": "53",
         "description": "Design surgical robots that use quantum ML for enhanced precision and adaptive decision-making.",
         "keywords": ["Quantum ML", "Robotics", "Surgery"]
     },
     {
-        "id": 4376,
+        "id": 4332,
         "title": "Quantum-Aided Optimization of Supply Networks",
         "domain": "53",
         "description": "Build an optimization engine for global supply networks using quantum-inspired algorithms.",
         "keywords": ["Quantum Optimization", "Supply Networks", "Logistics"]
     },
     {
-        "id": 4377,
+        "id": 4333,
         "title": "Quantum Energy Forecasting System",
         "domain": "53",
         "description": "Develop a forecasting platform that uses quantum ML to predict energy demand and optimize supply.",
         "keywords": ["Quantum ML", "Energy", "Forecasting"]
     },
     {
-        "id": 4378,
+        "id": 4334,
         "title": "Quantum-Safe Biometric Authentication",
         "domain": "53",
         "description": "Create a biometric authentication platform resistant to quantum brute-force attacks.",
         "keywords": ["Quantum Security", "Biometrics", "Authentication"]
     },
     {
-        "id": 4379,
+        "id": 4335,
         "title": "Quantum-Powered Predictive Policing",
         "domain": "53",
         "description": "Design a predictive policing system using quantum optimization for resource allocation and crime prevention.",
         "keywords": ["Quantum AI", "Policing", "Optimization"]
     },
     {
-        "id": 4380,
+        "id": 4336,
         "title": "Quantum-Enhanced Image Recognition",
         "domain": "53",
         "description": "Build a quantum ML model for faster and more accurate image recognition tasks.",
         "keywords": ["Quantum ML", "Image Recognition", "AI"]
     },
     {
-        "id": 4381,
+        "id": 4337,
         "title": "Quantum Logistics for Space Cargo",
         "domain": "53",
         "description": "Develop a quantum optimization model for managing space cargo and interplanetary logistics.",
         "keywords": ["Quantum Optimization", "Space Logistics", "Supply Chain"]
     },
     {
-        "id": 4382,
+        "id": 4338,
         "title": "Quantum-Aware Operating System",
         "domain": "53",
         "description": "Design an OS that can allocate resources between classical and quantum processors dynamically.",
         "keywords": ["Quantum OS", "Hybrid Computing", "Resource Allocation"]
     },
     {
-        "id": 4383,
+        "id": 4339,
         "title": "Quantum Simulation for Material Discovery",
         "domain": "53",
         "description": "Create a quantum-based simulator to discover new materials with desired physical and chemical properties.",
         "keywords": ["Quantum Simulation", "Materials Science", "Discovery"]
     },
     {
-        "id": 4384,
+        "id": 4340,
         "title": "Quantum-Enhanced Robotics for Autonomous Vehicles",
         "domain": "53",
         "description": "Develop a self-driving system that integrates quantum ML for improved navigation and decision-making.",
         "keywords": ["Quantum ML", "Autonomous Vehicles", "Robotics"]
     },
     {
-        "id": 4385,
+        "id": 4341,
         "title": "Quantum Cryptography for 6G Networks",
         "domain": "53",
         "description": "Design quantum-secure protocols to ensure privacy and safety in future 6G wireless networks.",
         "keywords": ["Quantum Cryptography", "6G Networks", "Telecommunications"]
     },
     {
-        "id": 4386,
+        "id": 4342,
         "title": "Quantum Algorithms for Epidemic Spread Modeling",
         "domain": "53",
         "description": "Build a quantum-based model to predict epidemic spread patterns and support public health planning.",
         "keywords": ["Quantum Simulation", "Epidemiology", "Public Health"]
     },
     {
-        "id": 4387,
+        "id": 4343,
         "title": "Quantum-Powered Smart Farming",
         "domain": "53",
         "description": "Create quantum optimization models for crop yield prediction, resource management, and pest control.",
         "keywords": ["Quantum Optimization", "Smart Farming", "Agriculture"]
     },
     {
-        "id": 4388,
+        "id": 4344,
         "title": "Quantum Digital Rights Management System",
         "domain": "53",
         "description": "Develop a DRM system secured with quantum cryptographic methods for protecting digital content.",
         "keywords": ["Quantum Security", "DRM", "Cryptography"]
     },
     {
-        "id": 4389,
+        "id": 4345,
         "title": "Quantum-Enhanced Path Planning for Drones",
         "domain": "53",
         "description": "Build a drone navigation system using quantum algorithms for optimized path planning.",
         "keywords": ["Quantum Optimization", "Drones", "Navigation"]
     },
     {
-        "id": 4390,
+        "id": 4346,
         "title": "Quantum-Safe Digital Banking Platform",
         "domain": "53",
         "description": "Design a banking platform resilient against quantum-based cryptographic attacks.",
         "keywords": ["Quantum Security", "Banking", "Finance"]
     },
     {
-        "id": 4391,
+        "id": 4347,
         "title": "Quantum Simulation of Chemical Reactions",
         "domain": "53",
         "description": "Develop quantum algorithms to simulate complex chemical reactions with industrial applications.",
         "keywords": ["Quantum Simulation", "Chemistry", "Industrial"]
     },
     {
-        "id": 4392,
+        "id": 4348,
         "title": "Quantum Data Compression Algorithms",
         "domain": "53",
         "description": "Design quantum-inspired data compression methods for faster transmission and storage efficiency.",
         "keywords": ["Quantum Algorithms", "Data Compression", "Big Data"]
     },
     {
-        "id": 4393,
+        "id": 4349,
         "title": "Quantum Optimization for Disaster Relief",
         "domain": "53",
         "description": "Develop optimization models to allocate resources during disaster relief using quantum techniques.",
         "keywords": ["Quantum Optimization", "Disaster Relief", "Logistics"]
     },
     {
-        "id": 4394,
+        "id": 4350,
         "title": "Quantum-Enhanced Recommendation Engine",
         "domain": "53",
         "description": "Build a personalized recommendation system powered by quantum ML for e-commerce and media platforms.",
         "keywords": ["Quantum ML", "Recommendation Systems", "E-Commerce"]
     },
     {
-        "id": 4395,
+        "id": 4351,
         "title": "Quantum-Aware Hybrid Databases",
         "domain": "53",
         "description": "Create a hybrid database that optimizes queries across classical and quantum processors.",
         "keywords": ["Quantum Databases", "Hybrid Computing", "Big Data"]
     },
     {
-        "id": 4396,
+        "id": 4352,
         "title": "Quantum Algorithms for Real-Time Cyber Defense",
         "domain": "53",
         "description": "Design quantum-enhanced algorithms for detecting and mitigating cyberattacks in real-time.",
         "keywords": ["Quantum Security", "Cyber Defense", "AI"]
     },
     {
-        "id": 4397,
+        "id": 4353,
         "title": "Quantum-Based Global Navigation Systems",
         "domain": "53",
         "description": "Develop quantum-powered navigation solutions as an alternative to GPS with higher precision.",
         "keywords": ["Quantum Navigation", "GPS", "Geospatial"]
     },
     {
-        "id": 4398,
+        "id": 4354,
         "title": "Quantum-Aided Renewable Energy Forecasting",
         "domain": "53",
         "description": "Build quantum ML models for accurate renewable energy production and demand forecasting.",
         "keywords": ["Quantum ML", "Energy Forecasting", "Renewables"]
     },
-    //domain 53
-    
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
