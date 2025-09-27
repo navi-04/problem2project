@@ -141,11 +141,11 @@
                 <!-- Stats -->
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16 animate-fade-in-up animation-delay-300 px-4 sm:px-0">
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-blue-600">1000+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-blue-600" id="total-problems-about">2000+</div>
                         <div class="text-sm sm:text-base text-gray-600">Problems</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600">20+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600" id="total-domains-about">82+</div>
                         <div class="text-sm sm:text-base text-gray-600">Domains</div>
                     </div>
                     <div class="text-center">
@@ -553,5 +553,28 @@
             </a>
         </div>
     </nav>
+
+    <!-- Include JavaScript for dynamic problem count -->
+    <script src="data.js"></script>
+    <script>
+        // Update problem count dynamically
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                // Load problems data
+                if (typeof loadProblemsData === 'function') {
+                    await loadProblemsData();
+                }
+                
+                // Update total problems count in about page
+                const totalProblemsAbout = document.getElementById('total-problems-about');
+                if (totalProblemsAbout && window.PROBLEMS_DATA && window.PROBLEMS_DATA.problems) {
+                    const count = window.PROBLEMS_DATA.problems.length;
+                    totalProblemsAbout.textContent = `${count}+`;
+                }
+            } catch (error) {
+                console.warn('Could not load dynamic problem count:', error);
+            }
+        });
+    </script>
 </body>
 </html>

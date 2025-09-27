@@ -1574,7 +1574,7 @@ const DOMAIN_KEYWORDS = {
         }
 };
 
-// Comprehensive Problems Dataset (2000+ problems across 32 domains)
+// Comprehensive Problems Dataset (2000+ problems across 82+ domains)
 const PROBLEMS_DATA = {
     "domains": {
         "1": "Programming / Algorithms (incl. project ideas)",
