@@ -31606,6 +31606,7 @@ const PROBLEMS_DATA = {
         "keywords": ["Speech Summarization", "Podcasts", "AI"]
     },
     //domain 59
+    
   
     {
         "id": 4603,
@@ -31977,6 +31978,358 @@ const PROBLEMS_DATA = {
         "domain": "59",
         "description": "Predict functions of uncharacterized genes using multi-omics datasets and AI.",
         "keywords": ["Genomics", "Functional Annotation", "AI"]
+    },
+    //domain 60
+
+    {
+        "id": 4656,
+        "title": "Air Quality Prediction Using IoT Sensors",
+        "domain": "60",
+        "description": "Develop a system to predict air pollution levels using real-time data from distributed IoT sensors.",
+        "keywords": ["Air Quality Monitoring", "IoT Sensors", "Prediction"]
+    },
+    {
+        "id": 4657,
+        "title": "Water Contamination Detection System",
+        "domain": "60",
+        "description": "Create sensors and algorithms to detect chemical and biological contaminants in water bodies.",
+        "keywords": ["Water Quality", "Pollution Detection", "Environmental Sensors"]
+    },
+    {
+        "id": 4658,
+        "title": "Real-Time Soil Moisture Monitoring",
+        "domain": "60",
+        "description": "Design an IoT-based solution for monitoring soil moisture and predicting irrigation needs.",
+        "keywords": ["Soil Monitoring", "IoT", "Agriculture"]
+    },
+    {
+        "id": 4659,
+        "title": "Noise Pollution Mapping",
+        "domain": "60",
+        "description": "Develop a system to map noise pollution levels in urban areas using sensor networks.",
+        "keywords": ["Noise Monitoring", "Sensor Networks", "Urban Planning"]
+    },
+    {
+        "id": 4660,
+        "title": "Forest Fire Early Detection",
+        "domain": "60",
+        "description": "Design a sensor-based network to detect early signs of forest fires using environmental data.",
+        "keywords": ["Forest Fire Detection", "IoT Sensors", "Environmental Monitoring"]
+    },
+    {
+        "id": 4661,
+        "title": "Remote Sensing for Deforestation Tracking",
+        "domain": "60",
+        "description": "Use satellite and drone-based sensors to monitor deforestation in real-time.",
+        "keywords": ["Remote Sensing", "Deforestation Monitoring", "Environmental Data"]
+    },
+    {
+        "id": 4662,
+        "title": "Airborne Particulate Matter Monitoring",
+        "domain": "60",
+        "description": "Develop a system to measure PM2.5 and PM10 levels in urban environments using IoT devices.",
+        "keywords": ["Air Quality", "Particulate Matter", "IoT"]
+    },
+    {
+        "id": 4663,
+        "title": "Predictive Flood Monitoring",
+        "domain": "60",
+        "description": "Use environmental sensors and weather data to predict flood events in real-time.",
+        "keywords": ["Flood Prediction", "Sensors", "Environmental Monitoring"]
+    },
+    {
+        "id": 4664,
+        "title": "Industrial Emission Tracking",
+        "domain": "60",
+        "description": "Monitor and analyze pollutant emissions from factories using IoT-enabled sensors.",
+        "keywords": ["Industrial Emissions", "IoT Sensors", "Pollution Monitoring"]
+    },
+    {
+        "id": 4665,
+        "title": "Smart Waste Management Monitoring",
+        "domain": "60",
+        "description": "Design sensors to track waste bin levels and optimize collection routes in cities.",
+        "keywords": ["Waste Management", "IoT", "Environmental Monitoring"]
+    },
+    {
+        "id": 4666,
+        "title": "Airborne VOC Detection System",
+        "domain": "60",
+        "description": "Detect and quantify volatile organic compounds (VOCs) in indoor and outdoor air environments.",
+        "keywords": ["Air Quality", "VOCs", "Environmental Sensors"]
+    },
+    {
+        "id": 4667,
+        "title": "Real-Time River Water Quality Monitoring",
+        "domain": "60",
+        "description": "Deploy sensors along rivers to continuously monitor pH, turbidity, and chemical contaminants.",
+        "keywords": ["Water Quality", "Sensors", "Environmental Monitoring"]
+    },
+    {
+        "id": 4668,
+        "title": "Urban Heat Island Mapping",
+        "domain": "60",
+        "description": "Use distributed temperature sensors to map and analyze urban heat islands in cities.",
+        "keywords": ["Temperature Sensors", "Urban Heat", "Environmental Monitoring"]
+    },
+    {
+        "id": 4669,
+        "title": "Agricultural Pest Detection System",
+        "domain": "60",
+        "description": "Develop IoT sensors to monitor and predict pest infestations in crops.",
+        "keywords": ["Agriculture", "Pest Detection", "IoT Sensors"]
+    },
+    {
+        "id": 4670,
+        "title": "Real-Time Coastal Erosion Monitoring",
+        "domain": "60",
+        "description": "Deploy sensors and drones to track coastal erosion and sediment movement.",
+        "keywords": ["Coastal Monitoring", "Sensors", "Environmental Data"]
+    },
+    {
+        "id": 4671,
+        "title": "AI-Powered Air Pollution Forecasting",
+        "domain": "60",
+        "description": "Use AI models on sensor data to predict air quality trends and pollution hotspots.",
+        "keywords": ["Air Quality", "AI Forecasting", "Environmental Monitoring"]
+    },
+    {
+        "id": 4672,
+        "title": "Detection of Heavy Metals in Soil",
+        "domain": "60",
+        "description": "Develop sensor-based systems to detect heavy metal contamination in agricultural soils.",
+        "keywords": ["Soil Contamination", "Heavy Metals", "Environmental Sensors"]
+    },
+    {
+        "id": 4673,
+        "title": "Smart Greenhouse Environmental Control",
+        "domain": "60",
+        "description": "Use sensors to monitor and optimize greenhouse temperature, humidity, and light for crops.",
+        "keywords": ["Greenhouse", "Environmental Control", "IoT"]
+    },
+    {
+        "id": 4674,
+        "title": "Real-Time Radiation Monitoring",
+        "domain": "60",
+        "description": "Deploy sensors to monitor radiation levels in sensitive industrial and natural areas.",
+        "keywords": ["Radiation Monitoring", "Sensors", "Environmental Safety"]
+    },
+    {
+        "id": 4675,
+        "title": "IoT-Based Snow and Ice Monitoring",
+        "domain": "60",
+        "description": "Use sensors to track snow and ice accumulation for roads and mountainous regions.",
+        "keywords": ["Environmental Sensors", "Snow Monitoring", "IoT"]
+    },
+    {
+        "id": 4676,
+        "title": "Smart City Airflow Monitoring",
+        "domain": "60",
+        "description": "Deploy IoT sensors to monitor airflow and pollutant dispersion in urban environments.",
+        "keywords": ["Airflow", "Pollution Monitoring", "Smart Cities"]
+    },
+    {
+        "id": 4677,
+        "title": "Real-Time Ecosystem Health Monitoring",
+        "domain": "60",
+        "description": "Use environmental sensors to track indicators of ecosystem health such as species activity and water quality.",
+        "keywords": ["Ecosystem Monitoring", "Sensors", "Environmental Health"]
+    },
+    {
+        "id": 4678,
+        "title": "Airborne Pollen Monitoring System",
+        "domain": "60",
+        "description": "Deploy sensors to monitor pollen levels in urban and rural areas for allergy management.",
+        "keywords": ["Air Quality", "Pollen Monitoring", "IoT Sensors"]
+    },
+    {
+        "id": 4679,
+        "title": "Real-Time Ocean Salinity and Temperature Monitoring",
+        "domain": "60",
+        "description": "Use sensor buoys to continuously monitor ocean salinity, temperature, and currents.",
+        "keywords": ["Ocean Monitoring", "Sensors", "Environmental Data"]
+    },
+    {
+        "id": 4680,
+        "title": "Smart Irrigation with Environmental Feedback",
+        "domain": "60",
+        "description": "Optimize irrigation systems using soil and weather sensors to conserve water resources.",
+        "keywords": ["Irrigation", "Environmental Sensors", "Smart Agriculture"]
+    },
+    {
+        "id": 4681,
+        "title": "Pollutant Detection in Industrial Effluents",
+        "domain": "60",
+        "description": "Monitor chemical effluents from factories to ensure compliance with environmental standards.",
+        "keywords": ["Water Pollution", "Industrial Monitoring", "Sensors"]
+    },
+    {
+        "id": 4682,
+        "title": "AI-Based Wildfire Risk Prediction",
+        "domain": "60",
+        "description": "Use environmental sensors and AI models to predict wildfire risk zones in forests.",
+        "keywords": ["Wildfire Prediction", "AI", "Sensors"]
+    },
+    {
+        "id": 4683,
+        "title": "Noise and Vibration Monitoring for Industrial Zones",
+        "domain": "60",
+        "description": "Deploy sensors to monitor noise and vibrations from factories for regulatory compliance.",
+        "keywords": ["Noise Monitoring", "Vibration", "Industrial Sensors"]
+    },
+    {
+        "id": 4684,
+        "title": "Real-Time Airborne Allergen Monitoring",
+        "domain": "60",
+        "description": "Develop sensor networks to track allergens in the air for public health management.",
+        "keywords": ["Air Quality", "Allergens", "IoT Sensors"]
+    },
+    {
+        "id": 4685,
+        "title": "Urban Flood Detection and Alert System",
+        "domain": "60",
+        "description": "Deploy sensors in flood-prone areas to detect water levels and trigger alerts.",
+        "keywords": ["Flood Monitoring", "IoT", "Environmental Sensors"]
+    },
+    {
+        "id": 4686,
+        "title": "AI-Enhanced Climate Data Analysis",
+        "domain": "60",
+        "description": "Apply AI to large-scale environmental sensor data for climate trend analysis.",
+        "keywords": ["Climate Data", "AI", "Environmental Monitoring"]
+    },
+    {
+        "id": 4687,
+        "title": "Real-Time Glacial Melting Monitoring",
+        "domain": "60",
+        "description": "Use sensors and drones to monitor glacial melt rates and ice thickness changes.",
+        "keywords": ["Glacial Monitoring", "Environmental Sensors", "Climate Change"]
+    },
+    {
+        "id": 4688,
+        "title": "IoT-Based Rainfall Measurement Network",
+        "domain": "60",
+        "description": "Deploy distributed sensors to monitor rainfall intensity and accumulation in real-time.",
+        "keywords": ["Rainfall Monitoring", "IoT Sensors", "Environmental Data"]
+    },
+    {
+        "id": 4689,
+        "title": "Remote Monitoring of Mangrove Ecosystems",
+        "domain": "60",
+        "description": "Use sensors and satellite data to monitor mangrove health and conservation efforts.",
+        "keywords": ["Mangrove Monitoring", "Remote Sensing", "Environmental Sensors"]
+    },
+    {
+        "id": 4690,
+        "title": "Real-Time Volcanic Gas Emission Detection",
+        "domain": "60",
+        "description": "Monitor volcanic gases to predict eruptions and assess environmental impact.",
+        "keywords": ["Volcanic Monitoring", "Sensors", "Environmental Safety"]
+    },
+    {
+        "id": 4691,
+        "title": "Smart Urban Microclimate Monitoring",
+        "domain": "60",
+        "description": "Deploy sensors across cities to track temperature, humidity, and pollution at a micro level.",
+        "keywords": ["Urban Microclimate", "Sensors", "Environmental Monitoring"]
+    },
+    {
+        "id": 4692,
+        "title": "Real-Time Avalanche Monitoring System",
+        "domain": "60",
+        "description": "Use environmental sensors to monitor snowpack stability and predict avalanches.",
+        "keywords": ["Avalanche Monitoring", "Sensors", "Environmental Safety"]
+    },
+    {
+        "id": 4693,
+        "title": "Smart Energy Consumption Monitoring",
+        "domain": "60",
+        "description": "Monitor energy usage in buildings using sensors and optimize for environmental efficiency.",
+        "keywords": ["Energy Monitoring", "IoT Sensors", "Environmental Efficiency"]
+    },
+    {
+        "id": 4694,
+        "title": "Water Level Monitoring for Dams",
+        "domain": "60",
+        "description": "Use sensor networks to monitor water levels in dams for flood prevention and management.",
+        "keywords": ["Water Monitoring", "Dams", "IoT Sensors"]
+    },
+    {
+        "id": 4695,
+        "title": "Airborne Microplastic Detection System",
+        "domain": "60",
+        "description": "Develop sensors to detect and quantify airborne microplastics in urban environments.",
+        "keywords": ["Microplastics", "Air Quality", "Sensors"]
+    },
+    {
+        "id": 4696,
+        "title": "AI-Powered Urban Pollution Hotspot Identification",
+        "domain": "60",
+        "description": "Analyze sensor data using AI to identify and predict pollution hotspots in cities.",
+        "keywords": ["Air Quality", "AI", "Urban Sensors"]
+    },
+    {
+        "id": 4697,
+        "title": "Forest Canopy Health Monitoring",
+        "domain": "60",
+        "description": "Use drones and sensors to monitor forest canopy health and detect disease or damage.",
+        "keywords": ["Forest Monitoring", "Sensors", "Environmental Health"]
+    },
+    {
+        "id": 4698,
+        "title": "Smart Irrigation with Evapotranspiration Data",
+        "domain": "60",
+        "description": "Integrate sensors measuring soil moisture and evapotranspiration to optimize irrigation.",
+        "keywords": ["Irrigation", "Environmental Sensors", "Smart Agriculture"]
+    },
+    {
+        "id": 4699,
+        "title": "Automated Landslide Monitoring System",
+        "domain": "60",
+        "description": "Deploy sensors on slopes to monitor soil movement and predict landslides in real-time.",
+        "keywords": ["Landslide Monitoring", "IoT Sensors", "Environmental Safety"]
+    },
+    {
+        "id": 4700,
+        "title": "Real-Time Glacier Albedo Monitoring",
+        "domain": "60",
+        "description": "Measure changes in glacier surface reflectivity to monitor climate impact using sensors.",
+        "keywords": ["Glacier Monitoring", "Albedo", "Environmental Sensors"]
+    },
+    {
+        "id": 4701,
+        "title": "IoT-Enabled Wetland Health Monitoring",
+        "domain": "60",
+        "description": "Use sensors to monitor water levels, vegetation, and biodiversity in wetlands.",
+        "keywords": ["Wetland Monitoring", "Sensors", "Environmental Data"]
+    },
+    {
+        "id": 4702,
+        "title": "Real-Time Methane Leak Detection",
+        "domain": "60",
+        "description": "Develop sensor networks to detect methane leaks in natural gas pipelines and industrial sites.",
+        "keywords": ["Methane Detection", "Environmental Sensors", "Safety"]
+    },
+    {
+        "id": 4703,
+        "title": "Soil Nutrient Monitoring for Precision Agriculture",
+        "domain": "60",
+        "description": "Deploy sensors to measure soil nutrients and optimize fertilization strategies.",
+        "keywords": ["Soil Monitoring", "Precision Agriculture", "IoT Sensors"]
+    },
+    {
+        "id": 4704,
+        "title": "AI-Powered Air Pollution Source Tracking",
+        "domain": "60",
+        "description": "Use AI to analyze sensor data and identify sources of air pollution in real-time.",
+        "keywords": ["Air Quality", "AI", "Environmental Monitoring"]
+    },
+    {
+        "id": 4705,
+        "title": "Real-Time Avalanche and Snowpack Risk Monitoring",
+        "domain": "60",
+        "description": "Integrate sensors to monitor snowpack conditions and predict avalanche risk.",
+        "keywords": ["Avalanche Monitoring", "Snowpack", "Sensors"]
     },
 
         // Note: In a real implementation, this array would contain 2000+ problems
