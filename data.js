@@ -35754,10 +35754,348 @@ const PROBLEMS_DATA = {
 },
 //domain-70
 
+{
+    "id": 5193,
+    "title": "AI-Powered Travel Booking Assistant",
+    "domain": "70",
+    "description": "Develop a smart AI assistant that helps users compare flights, hotels, and packages across multiple platforms, providing cost-effective and personalized booking options in real time.",
+    "keywords": ["Travel Booking", "Travel Apps", "Travel Analytics", "Travel Recommendations"]
+},
+{
+    "id": 5194,
+    "title": "Smart Trip Planner with Itinerary Optimization",
+    "domain": "70",
+    "description": "Build a trip planning platform that generates optimized itineraries based on user preferences, location data, time constraints, and budget, including transportation and activity suggestions.",
+    "keywords": ["Trip Planning", "Travel Experience", "Location Services", "Travel Recommendations"]
+},
+{
+    "id": 5195,
+    "title": "Hospitality Technology for Contactless Check-in",
+    "domain": "70",
+    "description": "Design a hotel check-in/check-out system using QR codes and NFC-enabled mobile apps to provide a safe, seamless, and contactless hospitality experience.",
+    "keywords": ["Hospitality Technology", "Travel Safety", "Travel Apps", "Tourism Technology"]
+},
+{
+    "id": 5196,
+    "title": "Predictive Travel Analytics Dashboard",
+    "domain": "70",
+    "description": "Create a dashboard for travel agencies that uses data analytics and machine learning to forecast travel demand, seasonal trends, and customer preferences for better decision-making.",
+    "keywords": ["Travel Analytics", "Travel Data", "Travel Recommendations", "Tourism Technology"]
+},
+{
+    "id": 5197,
+    "title": "Location-Aware Travel Recommendations App",
+    "domain": "70",
+    "description": "Develop a mobile app that uses real-time GPS and AI to suggest nearby attractions, restaurants, and hidden gems tailored to user interests and cultural preferences.",
+    "keywords": ["Location Services", "Travel Recommendations", "Travel Apps", "Travel Experience"]
+},
+{
+    "id": 5198,
+    "title": "Travel Safety Companion with Emergency Alerts",
+    "domain": "70",
+    "description": "Build a travel safety app that tracks user location, provides real-time safety ratings of neighborhoods, and sends emergency alerts to contacts during distress situations.",
+    "keywords": ["Travel Safety", "Location Services", "Travel Apps", "Travel Data"]
+},
+{
+    "id": 5199,
+    "title": "Smart Tourism Technology Platform",
+    "domain": "70",
+    "description": "Create a digital platform for tourism boards that integrates AR/VR tours, smart guides, and interactive maps to enhance tourist experiences before and during travel.",
+    "keywords": ["Tourism Technology", "Travel Experience", "Location Services", "Travel Apps"]
+},
+{
+    "id": 5200,
+    "title": "Intelligent Multi-Modal Transportation App",
+    "domain": "70",
+    "description": "Develop an app that integrates flights, trains, buses, and ride-sharing services into a single booking and tracking interface, optimizing routes and reducing travel costs.",
+    "keywords": ["Transportation Apps", "Travel Booking", "Travel Analytics", "Trip Planning"]
+},
+{
+    "id": 5201,
+    "title": "AI-Powered Travel Expense Tracker",
+    "domain": "70",
+    "description": "Build an app that automatically tracks travel expenses, categorizes spending, and suggests budget-friendly alternatives based on travel analytics and user history.",
+    "keywords": ["Travel Analytics", "Travel Data", "Travel Apps", "Trip Planning"]
+},
+{
+    "id": 5202,
+    "title": "Smart Hotel Energy Management System",
+    "domain": "70",
+    "description": "Design an IoT-enabled hospitality technology system that optimizes hotel energy consumption based on guest presence, preferences, and predictive analytics.",
+    "keywords": ["Hospitality Technology", "Travel Analytics", "Tourism Technology", "Travel Safety"]
+},
+{
+    "id": 5203,
+    "title": "Voice-Enabled Trip Planning Assistant",
+    "domain": "70",
+    "description": "Create a voice-based virtual travel planner that generates itineraries, books hotels and transportation, and provides travel updates through natural language conversations.",
+    "keywords": ["Trip Planning", "Travel Apps", "Travel Recommendations", "Travel Experience"]
+},
+{
+    "id": 5204,
+    "title": "Blockchain-Based Travel Booking Platform",
+    "domain": "70",
+    "description": "Develop a decentralized booking platform using blockchain to eliminate middlemen, reduce fraud, and ensure transparent pricing for flights and hotels.",
+    "keywords": ["Travel Booking", "Travel Data", "Travel Analytics", "Hospitality Technology"]
+},
+{
+    "id": 5205,
+    "title": "Travel Data-Driven Personalization Engine",
+    "domain": "70",
+    "description": "Build a personalization engine that uses user data, travel history, and analytics to recommend destinations, hotels, and activities tailored to individual travelers.",
+    "keywords": ["Travel Data", "Travel Recommendations", "Travel Analytics", "Trip Planning"]
+},
+{
+    "id": 5206,
+    "title": "Augmented Reality City Guide",
+    "domain": "70",
+    "description": "Design an AR-powered travel guide app that overlays information about landmarks, restaurants, and transportation on the live camera feed for immersive exploration.",
+    "keywords": ["Tourism Technology", "Travel Experience", "Location Services", "Travel Apps"]
+},
+{
+    "id": 5207,
+    "title": "Travel Companion AI Chatbot",
+    "domain": "70",
+    "description": "Develop an AI chatbot that assists travelers with bookings, itinerary updates, local recommendations, and emergency guidance through messaging apps.",
+    "keywords": ["Travel Apps", "Travel Booking", "Travel Recommendations", "Travel Safety"]
+},
+{
+    "id": 5208,
+    "title": "Real-Time Flight Delay Prediction System",
+    "domain": "70",
+    "description": "Create a machine learning system that predicts flight delays using weather data, airline history, and travel analytics to help travelers adjust their plans proactively.",
+    "keywords": ["Travel Analytics", "Transportation Apps", "Travel Data", "Travel Safety"]
+},
+{
+    "id": 5209,
+    "title": "Smart Luggage Tracking System",
+    "domain": "70",
+    "description": "Develop an IoT-enabled smart luggage system that uses GPS and mobile apps to track baggage location in real time and send alerts if lost or delayed.",
+    "keywords": ["Travel Safety", "Location Services", "Travel Apps", "Transportation Apps"]
+},
+{
+    "id": 5210,
+    "title": "Eco-Friendly Travel Recommendation Engine",
+    "domain": "70",
+    "description": "Create a recommendation system that suggests eco-friendly travel options such as green hotels, carbon-neutral flights, and sustainable destinations.",
+    "keywords": ["Travel Recommendations", "Tourism Technology", "Travel Analytics", "Travel Experience"]
+},
+{
+    "id": 5211,
+    "title": "Hospitality Robot Concierge",
+    "domain": "70",
+    "description": "Design a robotic concierge for hotels that assists guests with check-in, luggage handling, and personalized recommendations using AI and hospitality technology.",
+    "keywords": ["Hospitality Technology", "Travel Apps", "Travel Experience", "Tourism Technology"]
+},
+{
+    "id": 5212,
+    "title": "Multi-Currency Travel Wallet App",
+    "domain": "70",
+    "description": "Build a secure mobile wallet for travelers that supports multiple currencies, real-time exchange rates, and safe transactions for travel-related expenses.",
+    "keywords": ["Travel Apps", "Travel Booking", "Travel Safety", "Travel Data"]
+},
+{
+    "id": 5213,
+    "title": "AI-Powered Cultural Tour Guide",
+    "domain": "70",
+    "description": "Develop an AI-based mobile guide that narrates cultural and historical insights about landmarks while suggesting personalized experiences based on user interests.",
+    "keywords": ["Tourism Technology", "Travel Experience", "Travel Recommendations", "Location Services"]
+},
+{
+    "id": 5214,
+    "title": "Dynamic Travel Insurance Platform",
+    "domain": "70",
+    "description": "Create a travel insurance system that dynamically adjusts coverage based on real-time trip data, destinations, and traveler health conditions.",
+    "keywords": ["Travel Safety", "Travel Data", "Travel Analytics", "Travel Booking"]
+},
+{
+    "id": 5215,
+    "title": "Smart Airport Navigation System",
+    "domain": "70",
+    "description": "Design an indoor navigation app that uses beacons and AR to guide passengers through airports, including gates, lounges, baggage claims, and services.",
+    "keywords": ["Transportation Apps", "Location Services", "Travel Apps", "Travel Experience"]
+},
+{
+    "id": 5216,
+    "title": "Personalized Travel Subscription Service",
+    "domain": "70",
+    "description": "Build a subscription-based platform that offers personalized travel deals, curated itineraries, and discounts based on user preferences and travel history.",
+    "keywords": ["Travel Booking", "Trip Planning", "Travel Recommendations", "Travel Analytics"]
+},
+{
+    "id": 5217,
+    "title": "AI-Powered Lost & Found for Travelers",
+    "domain": "70",
+    "description": "Develop a platform that uses image recognition and location data to help travelers recover lost belongings in airports, hotels, or transportation hubs.",
+    "keywords": ["Travel Safety", "Location Services", "Travel Data", "Travel Apps"]
+},
+{
+    "id": 5218,
+    "title": "Virtual Reality Destination Explorer",
+    "domain": "70",
+    "description": "Create a VR platform that allows travelers to preview destinations, hotels, and attractions in immersive 3D before booking their trips.",
+    "keywords": ["Tourism Technology", "Travel Experience", "Travel Recommendations", "Travel Apps"]
+},
+{
+    "id": 5219,
+    "title": "Intelligent Language Translation Travel App",
+    "domain": "70",
+    "description": "Build a mobile app with AI-powered real-time translation for speech, text, and signs to help travelers communicate seamlessly across languages.",
+    "keywords": ["Travel Apps", "Travel Experience", "Travel Safety", "Location Services"]
+},
+{
+    "id": 5220,
+    "title": "Crowdsourced Travel Safety Index",
+    "domain": "70",
+    "description": "Design a platform where travelers share real-time safety updates, ratings, and incident reports to generate a global travel safety index.",
+    "keywords": ["Travel Safety", "Travel Data", "Travel Analytics", "Tourism Technology"]
+},
+{
+    "id": 5221,
+    "title": "AI-Driven Dynamic Pricing for Travel Packages",
+    "domain": "70",
+    "description": "Develop a system that adjusts travel package prices dynamically using analytics on demand, seasonality, and traveler behavior to optimize revenue and affordability.",
+    "keywords": ["Travel Booking", "Travel Analytics", "Travel Data", "Trip Planning"]
+},
+{
+    "id": 5222,
+    "title": "Smart Cruise Experience Platform",
+    "domain": "70",
+    "description": "Build a cruise management platform that enhances passenger experience with smart dining reservations, onboard navigation, and personalized activity suggestions.",
+    "keywords": ["Hospitality Technology", "Travel Experience", "Travel Apps", "Transportation Apps"]
+},
+{
+    "id": 5223,
+    "title": "Geo-Fenced Travel Recommendation System",
+    "domain": "70",
+    "description": "Create a recommendation engine that pushes curated travel suggestions, discounts, and experiences when travelers enter specific geographic regions.",
+    "keywords": ["Location Services", "Travel Recommendations", "Travel Apps", "Tourism Technology"]
+},
+{
+    "id": 5224,
+    "title": "AI-Powered Travel Health Advisor",
+    "domain": "70",
+    "description": "Design a mobile advisor that provides real-time travel health guidance, vaccination reminders, and alerts about disease outbreaks in destinations.",
+    "keywords": ["Travel Safety", "Travel Data", "Travel Apps", "Travel Analytics"]
+},
+{
+    "id": 5225,
+    "title": "Smart Ride-Sharing for Tourists",
+    "domain": "70",
+    "description": "Develop a ride-sharing platform optimized for tourists that matches travelers going to similar destinations, reducing costs and enhancing convenience.",
+    "keywords": ["Transportation Apps", "Travel Apps", "Location Services", "Travel Analytics"]
+},
+{
+    "id": 5226,
+    "title": "AI-Powered Travel Fraud Detection",
+    "domain": "70",
+    "description": "Create a fraud detection system that analyzes booking patterns, payment anomalies, and travel data to prevent scams in online travel platforms.",
+    "keywords": ["Travel Booking", "Travel Safety", "Travel Data", "Travel Analytics"]
+},
+{
+    "id": 5227,
+    "title": "Sustainable Destination Finder",
+    "domain": "70",
+    "description": "Build a travel app that recommends eco-friendly destinations, hotels, and tours based on sustainability ratings and traveler preferences.",
+    "keywords": ["Travel Recommendations", "Tourism Technology", "Travel Experience", "Travel Analytics"]
+},
+{
+    "id": 5228,
+    "title": "Personalized Airport Lounge Access Platform",
+    "domain": "70",
+    "description": "Design a system that provides personalized airport lounge access options, with real-time availability, booking, and tailored service recommendations.",
+    "keywords": ["Hospitality Technology", "Travel Booking", "Travel Experience", "Transportation Apps"]
+},
+{
+    "id": 5229,
+    "title": "AI-Driven Trip Cancellation Predictor",
+    "domain": "70",
+    "description": "Develop a machine learning model that predicts potential trip cancellations by analyzing booking trends, traveler behavior, and external events.",
+    "keywords": ["Travel Analytics", "Travel Data", "Travel Safety", "Travel Booking"]
+},
+{
+    "id": 5230,
+    "title": "Gamified Travel Experience App",
+    "domain": "70",
+    "description": "Create a mobile app that gamifies travel by rewarding users with points, badges, and discounts for exploring new destinations and completing challenges.",
+    "keywords": ["Travel Experience", "Travel Apps", "Tourism Technology", "Location Services"]
+},
+{
+    "id": 5231,
+    "title": "AI-Powered Hospitality Chatbot",
+    "domain": "70",
+    "description": "Build an AI chatbot for hotels and resorts that automates bookings, answers FAQs, provides local recommendations, and enhances guest engagement.",
+    "keywords": ["Hospitality Technology", "Travel Apps", "Travel Recommendations", "Travel Experience"]
+},
+{
+    "id": 5232,
+    "title": "Smart Travel Loyalty Rewards Platform",
+    "domain": "70",
+    "description": "Develop a platform that integrates multiple airlines, hotels, and travel services into one loyalty rewards system with personalized redemption offers.",
+    "keywords": ["Travel Booking", "Hospitality Technology", "Travel Analytics", "Travel Experience"]
+},
+{
+    "id": 5233,
+    "title": "AI-Based Smart Packing Assistant",
+    "domain": "70",
+    "description": "Create an AI assistant that generates personalized packing lists based on trip duration, destination weather, and planned activities.",
+    "keywords": ["Trip Planning", "Travel Apps", "Travel Experience", "Travel Data"]
+},
+{
+    "id": 5234,
+    "title": "Travel Companion Matching Platform",
+    "domain": "70",
+    "description": "Develop a platform that connects solo travelers with compatible travel companions based on preferences, itineraries, and interests.",
+    "keywords": ["Travel Experience", "Travel Apps", "Trip Planning", "Tourism Technology"]
+},
+{
+    "id": 5235,
+    "title": "Smart Hotel Room Personalization System",
+    "domain": "70",
+    "description": "Design a hospitality system that personalizes hotel rooms with preferred lighting, temperature, and entertainment based on guest profiles.",
+    "keywords": ["Hospitality Technology", "Travel Experience", "Travel Analytics", "Travel Apps"]
+},
+{
+    "id": 5236,
+    "title": "AI-Powered Jet Lag Management App",
+    "domain": "70",
+    "description": "Build a mobile app that uses AI to recommend personalized sleep schedules, meal times, and light exposure plans to minimize jet lag.",
+    "keywords": ["Travel Apps", "Travel Safety", "Travel Experience", "Travel Data"]
+},
+{
+    "id": 5237,
+    "title": "Smart Travel Photography Assistant",
+    "domain": "70",
+    "description": "Develop an app that uses AI and AR to recommend the best photo spots, golden hour timings, and framing guides at travel destinations.",
+    "keywords": ["Travel Experience", "Tourism Technology", "Location Services", "Travel Apps"]
+},
+{
+    "id": 5238,
+    "title": "AI-Powered Travel Review Analyzer",
+    "domain": "70",
+    "description": "Create a system that aggregates and analyzes hotel, airline, and destination reviews to provide summarized insights and unbiased travel recommendations.",
+    "keywords": ["Travel Analytics", "Travel Data", "Travel Recommendations", "Tourism Technology"]
+},
+{
+    "id": 5239,
+    "title": "Smart Travel Accessibility Platform",
+    "domain": "70",
+    "description": "Build a platform that helps travelers with disabilities by mapping accessible hotels, attractions, and transport options with user ratings and reviews.",
+    "keywords": ["Travel Safety", "Hospitality Technology", "Tourism Technology", "Travel Apps"]
+},
+{
+    "id": 5240,
+    "title": "Dynamic Group Travel Planner",
+    "domain": "70",
+    "description": "Design a collaborative trip planning tool that enables groups to vote on destinations, split expenses, and coordinate itineraries in real time.",
+    "keywords": ["Trip Planning", "Travel Apps", "Travel Experience", "Travel Analytics"]
+},
+//domain-71
 
 
 
-    
+
+
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
