@@ -31311,6 +31311,302 @@ const PROBLEMS_DATA = {
     },
     //domain 58
     
+    {
+        "id": 4561,
+        "title": "Real-Time Multilingual Speech Translation",
+        "domain": "58",
+        "description": "Develop a system that translates spoken language in real-time across multiple languages for seamless communication.",
+        "keywords": ["Speech Recognition", "Multilingual Translation", "Real-Time Processing"]
+    },
+    {
+        "id": 4562,
+        "title": "Voice Biometrics for Secure Authentication",
+        "domain": "58",
+        "description": "Create a voice-based authentication system using biometrics to enhance security in digital platforms.",
+        "keywords": ["Voice Recognition", "Biometrics", "Authentication", "Security"]
+    },
+    {
+        "id": 4563,
+        "title": "Emotion Detection from Voice Signals",
+        "domain": "58",
+        "description": "Develop an AI model that detects human emotions from voice signals for applications in customer service and mental health.",
+        "keywords": ["Speech Processing", "Emotion Detection", "AI"]
+    },
+    {
+        "id": 4564,
+        "title": "Context-Aware Voice Assistants",
+        "domain": "58",
+        "description": "Create virtual assistants that understand contextual cues in speech for more intelligent and adaptive responses.",
+        "keywords": ["Voice Assistants", "Context Awareness", "Natural Language Processing"]
+    },
+    {
+        "id": 4565,
+        "title": "Noise-Robust Speech Recognition",
+        "domain": "58",
+        "description": "Develop a speech recognition system that maintains high accuracy in noisy environments.",
+        "keywords": ["Speech Recognition", "Noise Reduction", "Audio Processing"]
+    },
+    {
+        "id": 4566,
+        "title": "Voice-Based Smart Home Control",
+        "domain": "58",
+        "description": "Design a system that allows users to control smart home devices using natural voice commands.",
+        "keywords": ["Voice Commands", "Smart Home", "Speech Processing"]
+    },
+    {
+        "id": 4567,
+        "title": "Speaker Diarization in Multi-Speaker Settings",
+        "domain": "58",
+        "description": "Create a system that identifies and separates multiple speakers in conversations for accurate transcription.",
+        "keywords": ["Speaker Recognition", "Diarization", "Speech Analytics"]
+    },
+    {
+        "id": 4568,
+        "title": "Personalized Text-to-Speech Generation",
+        "domain": "58",
+        "description": "Develop TTS systems that generate personalized voices for users based on individual voice profiles.",
+        "keywords": ["Text-to-Speech", "Personalization", "Speech Synthesis"]
+    },
+    {
+        "id": 4569,
+        "title": "Real-Time Voice Cloning",
+        "domain": "58",
+        "description": "Create a system that clones a speaker's voice in real-time for applications in entertainment or content creation.",
+        "keywords": ["Voice Cloning", "Real-Time", "Speech Synthesis"]
+    },
+    {
+        "id": 4570,
+        "title": "Speech Analytics for Customer Support",
+        "domain": "58",
+        "description": "Analyze customer and agent voice data to improve service quality and detect conversation trends.",
+        "keywords": ["Speech Analytics", "Customer Support", "AI"]
+    },
+    {
+        "id": 4571,
+        "title": "Voice-Powered Health Diagnostics",
+        "domain": "58",
+        "description": "Design AI systems that analyze voice patterns to detect health issues like respiratory or neurological conditions.",
+        "keywords": ["Voice Analysis", "Healthcare", "Diagnostics"]
+    },
+    {
+        "id": 4572,
+        "title": "Adaptive Speech Enhancement for Hearing Devices",
+        "domain": "58",
+        "description": "Develop speech enhancement algorithms that adapt to varying environments for hearing aid users.",
+        "keywords": ["Speech Enhancement", "Hearing Aids", "Noise Reduction"]
+    },
+    {
+        "id": 4573,
+        "title": "Voice Command Interfaces for Vehicles",
+        "domain": "58",
+        "description": "Create voice-controlled interfaces for cars to safely operate infotainment and navigation systems.",
+        "keywords": ["Voice Commands", "Automotive Systems", "Speech Recognition"]
+    },
+    {
+        "id": 4574,
+        "title": "Speech-to-Code Programming Assistant",
+        "domain": "58",
+        "description": "Develop a system that converts natural language voice commands into executable programming code.",
+        "keywords": ["Speech Recognition", "Programming Assistance", "AI"]
+    },
+    {
+        "id": 4575,
+        "title": "Voice-Enabled AR/VR Experiences",
+        "domain": "58",
+        "description": "Integrate voice commands into AR/VR applications for interactive and immersive experiences.",
+        "keywords": ["Voice Commands", "AR/VR", "Speech Interaction"]
+    },
+    {
+        "id": 4576,
+        "title": "Cross-Device Voice Synchronization",
+        "domain": "58",
+        "description": "Develop a system that allows voice commands to sync seamlessly across multiple devices.",
+        "keywords": ["Voice Interaction", "Cross-Device", "Speech Processing"]
+    },
+    {
+        "id": 4577,
+        "title": "AI-Based Accented Speech Recognition",
+        "domain": "58",
+        "description": "Create speech recognition models that understand diverse accents with high accuracy.",
+        "keywords": ["Speech Recognition", "Accent Adaptation", "AI"]
+    },
+    {
+        "id": 4578,
+        "title": "Voice Authentication in Noisy Environments",
+        "domain": "58",
+        "description": "Design secure voice authentication systems that work effectively even with background noise.",
+        "keywords": ["Voice Authentication", "Noise Robustness", "Security"]
+    },
+    {
+        "id": 4579,
+        "title": "AI Voice Summarization for Meetings",
+        "domain": "58",
+        "description": "Develop a system that converts meeting speech into concise summaries automatically.",
+        "keywords": ["Speech Summarization", "AI", "Meetings"]
+    },
+    {
+        "id": 4580,
+        "title": "Voice-Driven Accessibility Tools",
+        "domain": "58",
+        "description": "Create voice interfaces that enhance accessibility for users with visual or motor impairments.",
+        "keywords": ["Accessibility", "Voice Commands", "Assistive Technology"]
+    },
+    {
+        "id": 4581,
+        "title": "Speaker Verification for Banking Applications",
+        "domain": "58",
+        "description": "Design secure voice verification systems for financial transactions in digital banking.",
+        "keywords": ["Speaker Verification", "Banking Security", "Voice Biometrics"]
+    },
+    {
+        "id": 4582,
+        "title": "Real-Time Emotion Detection for Customer Service",
+        "domain": "58",
+        "description": "Analyze customer speech in real-time to detect emotion and adjust service responses accordingly.",
+        "keywords": ["Emotion Detection", "Speech Analytics", "Customer Service"]
+    },
+    {
+        "id": 4583,
+        "title": "Voice-Powered IoT Device Management",
+        "domain": "58",
+        "description": "Control IoT devices using natural voice commands for smart home and industrial applications.",
+        "keywords": ["Voice Commands", "IoT Management", "Speech Processing"]
+    },
+    {
+        "id": 4584,
+        "title": "AI Speech Generation for Content Creation",
+        "domain": "58",
+        "description": "Generate realistic AI voices for podcasts, videos, or audiobooks using advanced TTS models.",
+        "keywords": ["Speech Synthesis", "AI Content Creation", "Text-to-Speech"]
+    },
+    {
+        "id": 4585,
+        "title": "Real-Time Voice Noise Cancellation",
+        "domain": "58",
+        "description": "Develop algorithms for cancelling background noise in real-time during calls and recordings.",
+        "keywords": ["Noise Cancellation", "Real-Time", "Speech Enhancement"]
+    },
+    {
+        "id": 4586,
+        "title": "Conversational AI for Healthcare Support",
+        "domain": "58",
+        "description": "Create AI voice assistants that provide healthcare guidance and patient support through conversation.",
+        "keywords": ["Conversational AI", "Healthcare", "Voice Assistants"]
+    },
+    {
+        "id": 4587,
+        "title": "Multi-Speaker Real-Time Transcription",
+        "domain": "58",
+        "description": "Develop systems that can transcribe multiple speakers in real-time for meetings and conferences.",
+        "keywords": ["Real-Time Transcription", "Multi-Speaker", "Speech Recognition"]
+    },
+    {
+        "id": 4588,
+        "title": "Voice Command Prediction Using AI",
+        "domain": "58",
+        "description": "Create predictive models that anticipate voice commands for faster user interaction.",
+        "keywords": ["Voice Commands", "Prediction", "AI"]
+    },
+    {
+        "id": 4589,
+        "title": "Adaptive Voice Assistant for Elderly Users",
+        "domain": "58",
+        "description": "Design voice assistants that adapt to speech patterns and preferences of elderly users.",
+        "keywords": ["Voice Assistants", "Adaptive AI", "Elderly Care"]
+    },
+    {
+        "id": 4590,
+        "title": "Speech-Driven Virtual Reality Interaction",
+        "domain": "58",
+        "description": "Integrate voice control for VR applications to enable hands-free immersive experiences.",
+        "keywords": ["Speech Interaction", "Virtual Reality", "Voice Commands"]
+    },
+    {
+        "id": 4591,
+        "title": "Voice-Based Authentication for Smart Devices",
+        "domain": "58",
+        "description": "Secure smart devices using voice-based authentication with AI verification.",
+        "keywords": ["Voice Authentication", "Smart Devices", "Security"]
+    },
+    {
+        "id": 4592,
+        "title": "AI-Powered Speech-to-Text for Legal Documentation",
+        "domain": "58",
+        "description": "Automatically convert courtroom or legal proceedings speech into accurate text using AI.",
+        "keywords": ["Speech-to-Text", "Legal Tech", "AI"]
+    },
+    {
+        "id": 4593,
+        "title": "Voice Recognition for Vehicle Control Systems",
+        "domain": "58",
+        "description": "Implement voice recognition systems for controlling vehicle functions and navigation safely.",
+        "keywords": ["Voice Recognition", "Automotive", "Speech Commands"]
+    },
+    {
+        "id": 4594,
+        "title": "AI-Based Speech Accent Normalization",
+        "domain": "58",
+        "description": "Develop models that normalize accented speech for better recognition and understanding.",
+        "keywords": ["Accent Normalization", "Speech Recognition", "AI"]
+    },
+    {
+        "id": 4595,
+        "title": "Voice-Powered Educational Assistants",
+        "domain": "58",
+        "description": "Create voice assistants that help students learn interactively via speech commands and feedback.",
+        "keywords": ["Voice Assistants", "Education", "Speech Interaction"]
+    },
+    {
+        "id": 4596,
+        "title": "Contextual Voice Commands for Smart Homes",
+        "domain": "58",
+        "description": "Develop systems that interpret voice commands in context to perform complex smart home operations.",
+        "keywords": ["Voice Commands", "Context Awareness", "Smart Home"]
+    },
+    {
+        "id": 4597,
+        "title": "Speech Analysis for Mental Health Monitoring",
+        "domain": "58",
+        "description": "Analyze voice patterns to detect stress, anxiety, or depression for early intervention.",
+        "keywords": ["Speech Analytics", "Mental Health", "AI"]
+    },
+    {
+        "id": 4598,
+        "title": "AI Voice Moderation for Online Platforms",
+        "domain": "58",
+        "description": "Develop AI systems to monitor and filter inappropriate speech on social media or gaming platforms.",
+        "keywords": ["Voice Moderation", "AI", "Online Safety"]
+    },
+    {
+        "id": 4599,
+        "title": "Personalized Voice-Activated Workout Trainer",
+        "domain": "58",
+        "description": "Create AI-powered voice assistants that guide personalized workouts and fitness routines.",
+        "keywords": ["Voice Assistants", "Fitness", "Personalization"]
+    },
+    {
+        "id": 4600,
+        "title": "Voice-Based Event Scheduling Assistant",
+        "domain": "58",
+        "description": "Develop assistants that schedule, remind, and manage events through natural voice interactions.",
+        "keywords": ["Voice Assistants", "Scheduling", "AI"]
+    },
+    {
+        "id": 4601,
+        "title": "AI-Driven Speech Enhancement for Video Conferencing",
+        "domain": "58",
+        "description": "Enhance voice clarity and reduce noise for seamless video conferencing experiences using AI.",
+        "keywords": ["Speech Enhancement", "Video Conferencing", "AI"]
+    },
+    {
+        "id": 4602,
+        "title": "Voice Summarization for Long Audio Content",
+        "domain": "58",
+        "description": "Automatically generate concise summaries from long podcasts, lectures, or meetings using AI.",
+        "keywords": ["Speech Summarization", "Podcasts", "AI"]
+    },
+    //domain 59
+
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
