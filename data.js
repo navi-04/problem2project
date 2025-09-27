@@ -29138,11 +29138,6 @@ const PROBLEMS_DATA = {
 
 
 
-
-
-
-
-
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
