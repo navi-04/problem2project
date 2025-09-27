@@ -29858,6 +29858,401 @@ const PROBLEMS_DATA = {
         "description": "Build quantum ML models for accurate renewable energy production and demand forecasting.",
         "keywords": ["Quantum ML", "Energy Forecasting", "Renewables"]
     },
+    //domain 54
+  
+  {
+    "id": 4355,
+    "title": "AI-Powered Renewable Energy Forecasting",
+    "domain": "54",
+    "description": "Develop an AI model to predict renewable energy generation from sources like solar and wind based on weather and seasonal data.",
+    "keywords": ["Renewable Energy", "Forecasting", "AI Models"]
+  },
+  {
+    "id": 4356,
+    "title": "Blockchain-Based Energy Trading System",
+    "domain": "54",
+    "description": "Create a blockchain-enabled peer-to-peer energy trading platform for local communities to trade surplus renewable energy securely.",
+    "keywords": ["Blockchain", "Energy Trading", "Renewable Energy"]
+  },
+  {
+    "id": 4357,
+    "title": "IoT-Enabled Smart Grids",
+    "domain": "54",
+    "description": "Design an IoT-based smart grid system to balance energy demand and supply while integrating renewable sources.",
+    "keywords": ["IoT", "Smart Grid", "Energy Management"]
+  },
+  {
+    "id": 4358,
+    "title": "Waste-to-Energy Conversion Monitoring System",
+    "domain": "54",
+    "description": "Develop a monitoring system that tracks the efficiency of waste-to-energy plants and provides insights for optimization.",
+    "keywords": ["Waste-to-Energy", "Sustainability", "Monitoring System"]
+  },
+  {
+    "id": 4359,
+    "title": "AI for Carbon Footprint Reduction",
+    "domain": "54",
+    "description": "Build an AI-driven platform that suggests personalized strategies for reducing carbon emissions in industries.",
+    "keywords": ["Carbon Footprint", "AI", "Sustainability"]
+  },
+  {
+    "id": 4360,
+    "title": "Smart Battery Management System",
+    "domain": "54",
+    "description": "Create an intelligent battery management system that optimizes charge-discharge cycles for renewable energy storage.",
+    "keywords": ["Battery Management", "Energy Storage", "Optimization"]
+  },
+  {
+    "id": 4361,
+    "title": "Sustainable Supply Chain Analyzer",
+    "domain": "54",
+    "description": "Develop a system to analyze and monitor the sustainability of supply chain practices across industries.",
+    "keywords": ["Supply Chain", "Sustainability", "Analytics"]
+  },
+  {
+    "id": 4362,
+    "title": "AI-Optimized Water Desalination",
+    "domain": "54",
+    "description": "Build an AI system to optimize energy use in desalination plants for sustainable water production.",
+    "keywords": ["Desalination", "AI Optimization", "Sustainable Water"]
+  },
+  {
+    "id": 4363,
+    "title": "Urban Heat Island Effect Mitigator",
+    "domain": "54",
+    "description": "Design an urban planning tool to simulate and reduce the urban heat island effect using green infrastructure.",
+    "keywords": ["Urban Planning", "Heat Island", "Green Infrastructure"]
+  },
+  {
+    "id": 4364,
+    "title": "Circular Economy Marketplace",
+    "domain": "54",
+    "description": "Create a marketplace platform to facilitate reuse, recycling, and upcycling of industrial and household materials.",
+    "keywords": ["Circular Economy", "Recycling", "Marketplace"]
+  },
+  {
+    "id": 4365,
+    "title": "AI-Based Air Quality Prediction",
+    "domain": "54",
+    "description": "Develop a predictive AI system for forecasting air pollution levels and suggesting mitigation strategies.",
+    "keywords": ["Air Quality", "AI Prediction", "Sustainability"]
+  },
+  {
+    "id": 4366,
+    "title": "Renewable Energy-Powered EV Charging Network",
+    "domain": "54",
+    "description": "Build a network of electric vehicle charging stations powered entirely by renewable energy.",
+    "keywords": ["EV Charging", "Renewable Energy", "Sustainability"]
+  },
+  {
+    "id": 4367,
+    "title": "IoT-Based Water Conservation System",
+    "domain": "54",
+    "description": "Develop an IoT-based system to monitor and reduce water wastage in urban households and industries.",
+    "keywords": ["IoT", "Water Conservation", "Sustainability"]
+  },
+  {
+    "id": 4368,
+    "title": "AI-Driven Deforestation Monitoring",
+    "domain": "54",
+    "description": "Create an AI-powered monitoring system to track and predict deforestation patterns using satellite data.",
+    "keywords": ["Deforestation", "AI", "Satellite Monitoring"]
+  },
+  {
+    "id": 4369,
+    "title": "Smart Waste Sorting System",
+    "domain": "54",
+    "description": "Design an AI-enabled waste sorting system to automatically segregate biodegradable and non-biodegradable materials.",
+    "keywords": ["Waste Sorting", "AI", "Recycling"]
+  },
+  {
+    "id": 4370,
+    "title": "Sustainable Agriculture Planner",
+    "domain": "54",
+    "description": "Develop a tool that helps farmers plan crop cycles while reducing water and fertilizer usage.",
+    "keywords": ["Sustainable Agriculture", "Planning", "Crop Cycles"]
+  },
+  {
+    "id": 4371,
+    "title": "Green Building Energy Analyzer",
+    "domain": "54",
+    "description": "Create a tool that measures the energy efficiency of buildings and suggests green retrofitting solutions.",
+    "keywords": ["Green Buildings", "Energy Efficiency", "Sustainability"]
+  },
+  {
+    "id": 4372,
+    "title": "AI-Powered Ocean Plastic Detection",
+    "domain": "54",
+    "description": "Develop an AI system using satellite images to detect and track ocean plastic accumulation zones.",
+    "keywords": ["Ocean Pollution", "AI", "Plastic Detection"]
+  },
+  {
+    "id": 4373,
+    "title": "Carbon Credit Trading Platform",
+    "domain": "54",
+    "description": "Build a secure platform to facilitate transparent carbon credit trading among organizations.",
+    "keywords": ["Carbon Credits", "Sustainability", "Trading Platform"]
+  },
+  {
+    "id": 4374,
+    "title": "AI for Wildfire Risk Prediction",
+    "domain": "54",
+    "description": "Develop an AI system to predict wildfire risks and provide early warning alerts for affected regions.",
+    "keywords": ["Wildfires", "AI Prediction", "Risk Management"]
+  },
+  {
+    "id": 4375,
+    "title": "IoT-Based Renewable Microgrids",
+    "domain": "54",
+    "description": "Create an IoT-based microgrid management system to improve renewable energy distribution in rural areas.",
+    "keywords": ["IoT", "Microgrids", "Renewable Energy"]
+  },
+  {
+    "id": 4376,
+    "title": "AI-Enhanced Recycling Plant Automation",
+    "domain": "54",
+    "description": "Develop an AI-driven system to enhance efficiency and reduce contamination in recycling plants.",
+    "keywords": ["Recycling", "AI Automation", "Sustainability"]
+  },
+  {
+    "id": 4377,
+    "title": "Digital Twin for Renewable Power Plants",
+    "domain": "54",
+    "description": "Create digital twin models of solar and wind farms to simulate performance and optimize maintenance.",
+    "keywords": ["Digital Twin", "Renewable Energy", "Simulation"]
+  },
+  {
+    "id": 4378,
+    "title": "AI-Optimized Sustainable Transport Planner",
+    "domain": "54",
+    "description": "Build a transport planning system that uses AI to suggest sustainable routes and reduce emissions.",
+    "keywords": ["Sustainable Transport", "AI Optimization", "Emissions Reduction"]
+  },
+  {
+    "id": 4379,
+    "title": "Smart Irrigation System",
+    "domain": "54",
+    "description": "Design an IoT-enabled irrigation system that adjusts water usage based on soil and weather data.",
+    "keywords": ["Smart Irrigation", "IoT", "Water Efficiency"]
+  },
+  {
+    "id": 4380,
+    "title": "Sustainable Fashion Supply Chain Tracker",
+    "domain": "54",
+    "description": "Develop a platform to monitor the sustainability practices across the fashion industry's supply chain.",
+    "keywords": ["Sustainable Fashion", "Supply Chain", "Sustainability"]
+  },
+  {
+    "id": 4381,
+    "title": "AI-Driven Noise Pollution Monitor",
+    "domain": "54",
+    "description": "Create an AI-powered system to monitor and analyze noise pollution in urban environments.",
+    "keywords": ["Noise Pollution", "AI", "Urban Sustainability"]
+  },
+  {
+    "id": 4382,
+    "title": "Carbon-Neutral Smart Homes",
+    "domain": "54",
+    "description": "Design a smart home system that integrates renewable energy and energy-saving appliances to achieve carbon neutrality.",
+    "keywords": ["Smart Homes", "Carbon Neutrality", "Sustainability"]
+  },
+  {
+    "id": 4383,
+    "title": "AI-Powered Wildlife Protection System",
+    "domain": "54",
+    "description": "Build an AI model to detect and prevent illegal poaching activities using camera traps and drones.",
+    "keywords": ["Wildlife Protection", "AI", "Conservation"]
+  },
+  {
+    "id": 4384,
+    "title": "Smart Composting System",
+    "domain": "54",
+    "description": "Create a smart composting system that tracks decomposition and generates organic fertilizers efficiently.",
+    "keywords": ["Composting", "Sustainability", "Smart Systems"]
+  },
+  {
+    "id": 4385,
+    "title": "Sustainable Urban Mobility Planner",
+    "domain": "54",
+    "description": "Develop a city mobility planner that promotes cycling, public transport, and low-carbon commuting options.",
+    "keywords": ["Urban Mobility", "Sustainability", "Low Carbon"]
+  },
+  {
+    "id": 4386,
+    "title": "IoT-Based Flood Risk Monitoring",
+    "domain": "54",
+    "description": "Build an IoT system to monitor flood risks in urban areas and alert authorities in real time.",
+    "keywords": ["IoT", "Flood Monitoring", "Risk Management"]
+  },
+  {
+    "id": 4387,
+    "title": "AI for Energy Demand Forecasting",
+    "domain": "54",
+    "description": "Develop an AI-powered forecasting tool for predicting energy demand patterns to optimize renewable integration.",
+    "keywords": ["Energy Demand", "AI Forecasting", "Renewable Energy"]
+  },
+  {
+    "id": 4388,
+    "title": "Plastic Waste Blockchain Tracker",
+    "domain": "54",
+    "description": "Create a blockchain-based platform to track plastic waste from collection to recycling plants.",
+    "keywords": ["Plastic Waste", "Blockchain", "Recycling"]
+  },
+  {
+    "id": 4389,
+    "title": "Sustainable Tourism Planner",
+    "domain": "54",
+    "description": "Design a platform that promotes eco-friendly tourism options while tracking environmental impact.",
+    "keywords": ["Sustainable Tourism", "Eco-Friendly", "Planner"]
+  },
+  {
+    "id": 4390,
+    "title": "AI-Enhanced Smart Lighting Systems",
+    "domain": "54",
+    "description": "Build AI-based smart street lighting systems that reduce energy use based on traffic and pedestrian flow.",
+    "keywords": ["Smart Lighting", "AI Optimization", "Energy Efficiency"]
+  },
+  {
+    "id": 4391,
+    "title": "IoT for Indoor Air Quality",
+    "domain": "54",
+    "description": "Develop an IoT-enabled system to monitor and improve air quality in homes and offices.",
+    "keywords": ["IoT", "Indoor Air Quality", "Sustainability"]
+  },
+  {
+    "id": 4392,
+    "title": "Smart Recycling Incentive System",
+    "domain": "54",
+    "description": "Create a system that rewards households and businesses with credits for effective recycling practices.",
+    "keywords": ["Recycling", "Incentive System", "Sustainability"]
+  },
+  {
+    "id": 4393,
+    "title": "Sustainable Data Center Optimizer",
+    "domain": "54",
+    "description": "Develop a system to monitor and optimize energy usage in data centers with renewable sources.",
+    "keywords": ["Data Centers", "Sustainability", "Energy Optimization"]
+  },
+  {
+    "id": 4394,
+    "title": "AI-Powered Marine Conservation",
+    "domain": "54",
+    "description": "Build an AI system to track endangered marine species and monitor coral reef health.",
+    "keywords": ["Marine Conservation", "AI", "Ocean Sustainability"]
+  },
+  {
+    "id": 4395,
+    "title": "IoT-Based Smart Farming",
+    "domain": "54",
+    "description": "Create an IoT-enabled smart farming system to optimize irrigation, fertilizer, and energy usage.",
+    "keywords": ["Smart Farming", "IoT", "Sustainability"]
+  },
+  {
+    "id": 4396,
+    "title": "Carbon Emission Reduction Advisor",
+    "domain": "54",
+    "description": "Develop a digital advisor that suggests carbon emission reduction strategies for households and businesses.",
+    "keywords": ["Carbon Emissions", "Advisor", "Sustainability"]
+  },
+  {
+    "id": 4397,
+    "title": "Sustainable Packaging Optimizer",
+    "domain": "54",
+    "description": "Build an AI-driven system to suggest sustainable packaging materials for different industries.",
+    "keywords": ["Sustainable Packaging", "AI", "Green Materials"]
+  },
+  {
+    "id": 4398,
+    "title": "AI-Powered Disaster Recovery System",
+    "domain": "54",
+    "description": "Create an AI system to simulate post-disaster scenarios and suggest sustainable recovery plans.",
+    "keywords": ["Disaster Recovery", "AI", "Sustainability"]
+  },
+  {
+    "id": 4399,
+    "title": "IoT-Based Renewable Energy Dashboard",
+    "domain": "54",
+    "description": "Design a dashboard to track, monitor, and optimize renewable energy usage in smart cities.",
+    "keywords": ["IoT", "Dashboard", "Renewable Energy"]
+  },
+  {
+    "id": 4400,
+    "title": "AI-Driven Urban Tree Plantation Planner",
+    "domain": "54",
+    "description": "Develop a planner that identifies ideal urban locations for planting trees to reduce pollution.",
+    "keywords": ["Urban Planning", "AI", "Tree Plantation"]
+  },
+  {
+    "id": 4401,
+    "title": "Sustainable Cold Chain Management",
+    "domain": "54",
+    "description": "Create a system that reduces energy consumption in cold chain logistics using renewable power.",
+    "keywords": ["Cold Chain", "Sustainability", "Energy Efficiency"]
+  },
+  {
+    "id": 4402,
+    "title": "AI for Energy Efficiency Audits",
+    "domain": "54",
+    "description": "Build an AI-based auditing system to assess and optimize energy efficiency in industries.",
+    "keywords": ["Energy Efficiency", "AI Audits", "Sustainability"]
+  },
+  {
+    "id": 4403,
+    "title": "IoT-Powered Carbon Monitoring System",
+    "domain": "54",
+    "description": "Develop an IoT system to track real-time carbon emissions in cities and industries.",
+    "keywords": ["IoT", "Carbon Monitoring", "Sustainability"]
+  },
+  {
+    "id": 4404,
+    "title": "Sustainable Smart City Planner",
+    "domain": "54",
+    "description": "Design a planner that integrates renewable energy, smart transport, and sustainable waste management for smart cities.",
+    "keywords": ["Smart Cities", "Sustainability", "Urban Planning"]
+  },
+  {
+    "id": 4405,
+    "title": "AI for Soil Quality Analysis",
+    "domain": "54",
+    "description": "Create an AI model that analyzes soil samples and suggests sustainable farming practices.",
+    "keywords": ["Soil Quality", "AI", "Sustainable Farming"]
+  },
+  {
+    "id": 4406,
+    "title": "Sustainable Energy Microfinance Platform",
+    "domain": "54",
+    "description": "Develop a microfinance platform that supports small-scale renewable energy projects in rural areas.",
+    "keywords": ["Microfinance", "Renewable Energy", "Sustainability"]
+  },
+  {
+    "id": 4407,
+    "title": "IoT-Enabled Smart Water Grid",
+    "domain": "54",
+    "description": "Build an IoT-based water grid system to optimize water distribution and reduce losses.",
+    "keywords": ["IoT", "Water Grid", "Sustainability"]
+  },
+  {
+    "id": 4408,
+    "title": "AI for Sustainable Mining",
+    "domain": "54",
+    "description": "Create an AI-based platform that promotes eco-friendly mining practices and reduces environmental harm.",
+    "keywords": ["Sustainable Mining", "AI", "Eco-Friendly Practices"]
+  },
+  {
+    "id": 4409,
+    "title": "Renewable Energy-Powered Agriculture Tools",
+    "domain": "54",
+    "description": "Design smart agriculture tools powered by renewable energy sources for rural sustainability.",
+    "keywords": ["Agriculture Tools", "Renewable Energy", "Sustainability"]
+  },
+  {
+    "id": 4410,
+    "title": "AI-Based Sustainable Investment Advisor",
+    "domain": "54",
+    "description": "Develop an AI advisor that helps investors choose eco-friendly and sustainable investment portfolios.",
+    "keywords": ["Investment Advisor", "AI", "Sustainable Finance"]
+  },
+  //domain 55
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
