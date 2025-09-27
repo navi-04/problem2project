@@ -36091,6 +36091,3074 @@ const PROBLEMS_DATA = {
     "keywords": ["Trip Planning", "Travel Apps", "Travel Experience", "Travel Analytics"]
 },
 //domain-71
+{
+  "id": 5241,
+  "title": "AI-Powered Music Genre Classification",
+  "domain": "71",
+  "description": "Develop a system that automatically classifies songs into genres using AI-based audio feature analysis.",
+  "keywords": ["Music Classification", "AI Analysis", "Audio Processing", "Genre Detection"]
+},
+{
+  "id": 5242,
+  "title": "Automatic Music Transcription System",
+  "domain": "71",
+  "description": "Create a tool that converts audio recordings into sheet music using AI and signal processing techniques.",
+  "keywords": ["Music Transcription", "Audio Processing", "AI", "Sheet Music Generation"]
+},
+{
+  "id": 5243,
+  "title": "AI-Powered Music Recommendation Engine",
+  "domain": "71",
+  "description": "Design a system that suggests personalized music tracks based on user listening behavior and audio analysis.",
+  "keywords": ["Music Recommendation", "AI Personalization", "Audio Analysis", "User Preferences"]
+},
+{
+  "id": 5244,
+  "title": "Automatic Beat and Tempo Detection",
+  "domain": "71",
+  "description": "Develop a tool that analyzes music tracks to detect tempo, beats, and rhythm patterns automatically.",
+  "keywords": ["Beat Detection", "Tempo Analysis", "Audio Processing", "AI"]
+},
+{
+  "id": 5245,
+  "title": "AI-Powered Vocal Separation from Music",
+  "domain": "71",
+  "description": "Create a system that separates vocals and instruments from audio tracks using deep learning techniques.",
+  "keywords": ["Vocal Separation", "Audio Processing", "Deep Learning", "Music Technology"]
+},
+{
+  "id": 5246,
+  "title": "Music Mood Detection System",
+  "domain": "71",
+  "description": "Design a platform that classifies music based on mood or emotion using AI audio feature extraction.",
+  "keywords": ["Mood Detection", "Audio Analysis", "AI Classification", "Music Emotion"]
+},
+{
+  "id": 5247,
+  "title": "AI-Powered Audio Noise Reduction",
+  "domain": "71",
+  "description": "Develop a system that removes background noise from music or recordings using deep learning techniques.",
+  "keywords": ["Noise Reduction", "Audio Processing", "AI Denoising", "Music Technology"]
+},
+{
+  "id": 5248,
+  "title": "Automatic Instrument Recognition in Music",
+  "domain": "71",
+  "description": "Create a platform that identifies instruments present in a music track using AI audio analysis.",
+  "keywords": ["Instrument Recognition", "Audio Processing", "AI Analysis", "Music Technology"]
+},
+{
+  "id": 5249,
+  "title": "AI-Powered Music Remix Generator",
+  "domain": "71",
+  "description": "Develop a tool that creates music remixes automatically by analyzing audio features and patterns.",
+  "keywords": ["Music Remix", "Audio Processing", "AI Generation", "Music Technology"]
+},
+{
+  "id": 5250,
+  "title": "Automatic Music Key Detection",
+  "domain": "71",
+  "description": "Create a system that detects the musical key of a track automatically for analysis or remix purposes.",
+  "keywords": ["Key Detection", "Audio Analysis", "AI Music", "Music Processing"]
+},
+{
+  "id": 5251,
+  "title": "AI-Powered Music Cover Generation",
+  "domain": "71",
+  "description": "Develop a system that generates cover versions of songs by analyzing the original audio and recreating instrumentals.",
+  "keywords": ["Music Cover", "Audio Generation", "AI Music", "Audio Processing"]
+},
+{
+  "id": 5252,
+  "title": "Automatic Music Similarity Detection",
+  "domain": "71",
+  "description": "Create a platform that identifies similar music tracks based on audio features using AI algorithms.",
+  "keywords": ["Music Similarity", "AI Analysis", "Audio Processing", "Music Recommendation"]
+},
+{
+  "id": 5253,
+  "title": "AI-Powered Music Tempo Modification",
+  "domain": "71",
+  "description": "Develop a tool to change the tempo of music tracks without affecting pitch using audio processing techniques.",
+  "keywords": ["Tempo Modification", "Audio Processing", "AI Music", "Pitch Preservation"]
+},
+{
+  "id": 5254,
+  "title": "Automatic Music Genre Fusion",
+  "domain": "71",
+  "description": "Create a system that combines elements from multiple genres to generate new music using AI.",
+  "keywords": ["Genre Fusion", "AI Generation", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5255,
+  "title": "AI-Powered Music Volume Normalization",
+  "domain": "71",
+  "description": "Develop a platform that normalizes audio volume across tracks for a consistent listening experience.",
+  "keywords": ["Volume Normalization", "Audio Processing", "AI Music", "Sound Engineering"]
+},
+{
+  "id": 5256,
+  "title": "Automatic Music Chord Recognition",
+  "domain": "71",
+  "description": "Develop a system that detects and displays chords being played in a music track using AI audio analysis.",
+  "keywords": ["Chord Recognition", "Audio Processing", "AI Music Analysis", "Music Technology"]
+},
+{
+  "id": 5257,
+  "title": "AI-Powered Music Style Transfer",
+  "domain": "71",
+  "description": "Create a tool that transforms a music track into the style of another genre or artist using deep learning.",
+  "keywords": ["Style Transfer", "AI Music", "Audio Processing", "Music Generation"]
+},
+{
+  "id": 5258,
+  "title": "Automatic Music Tempo and Beat Synchronization",
+  "domain": "71",
+  "description": "Develop a platform that aligns beats and tempo of multiple tracks automatically for mixing or DJ purposes.",
+  "keywords": ["Beat Synchronization", "Tempo Alignment", "Audio Processing", "AI Music"]
+},
+{
+  "id": 5259,
+  "title": "AI-Powered Music Audio Fingerprinting",
+  "domain": "71",
+  "description": "Create a system that identifies music tracks uniquely using audio fingerprinting techniques.",
+  "keywords": ["Audio Fingerprinting", "Music Identification", "AI Analysis", "Audio Processing"]
+},
+{
+  "id": 5260,
+  "title": "Automatic Music Genre Transition Detection",
+  "domain": "71",
+  "description": "Develop a tool that detects transitions between genres or styles within a music track using AI analysis.",
+  "keywords": ["Genre Transition", "AI Detection", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5261,
+  "title": "AI-Powered Music Lyric Alignment",
+  "domain": "71",
+  "description": "Create a system that synchronizes lyrics with audio tracks automatically for karaoke or visualization purposes.",
+  "keywords": ["Lyric Alignment", "Audio Processing", "AI Music", "Music Technology"]
+},
+{
+  "id": 5262,
+  "title": "Automatic Music Instrument Tuner",
+  "domain": "71",
+  "description": "Develop a platform that detects and tunes instruments in real time using audio analysis and AI techniques.",
+  "keywords": ["Instrument Tuning", "Audio Processing", "AI Music", "Sound Engineering"]
+},
+{
+  "id": 5263,
+  "title": "AI-Powered Music Remix Suggestion System",
+  "domain": "71",
+  "description": "Create a tool that analyzes tracks and suggests remix possibilities using AI audio feature extraction.",
+  "keywords": ["Remix Suggestions", "Audio Processing", "AI Music", "Music Generation"]
+},
+{
+  "id": 5264,
+  "title": "Automatic Music Genre Clustering",
+  "domain": "71",
+  "description": "Develop a system that groups music tracks into clusters based on audio similarity using machine learning.",
+  "keywords": ["Genre Clustering", "Audio Analysis", "AI Music", "Machine Learning"]
+},
+{
+  "id": 5265,
+  "title": "AI-Powered Music Audio Effects Generator",
+  "domain": "71",
+  "description": "Create a platform that generates audio effects like reverb, echo, and distortion automatically using AI.",
+  "keywords": ["Audio Effects", "AI Generation", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5266,
+  "title": "Automatic Music Tempo Suggestion for Workouts",
+  "domain": "71",
+  "description": "Develop a tool that suggests music tracks with tempo matching workout intensity using AI analysis.",
+  "keywords": ["Tempo Suggestion", "Workout Music", "AI Analysis", "Audio Processing"]
+},
+{
+  "id": 5267,
+  "title": "AI-Powered Music Key Transposition",
+  "domain": "71",
+  "description": "Create a system that transposes music tracks to different keys automatically without affecting audio quality.",
+  "keywords": ["Key Transposition", "Audio Processing", "AI Music", "Music Technology"]
+},
+{
+  "id": 5268,
+  "title": "Automatic Music Loop Detection",
+  "domain": "71",
+  "description": "Develop a tool that identifies repeating loops or segments in music tracks for sampling or remixing purposes.",
+  "keywords": ["Loop Detection", "Audio Processing", "AI Music", "Music Technology"]
+},
+{
+  "id": 5269,
+  "title": "AI-Powered Music Audio Feature Extraction",
+  "domain": "71",
+  "description": "Create a system that extracts features like pitch, tempo, and timbre from music tracks for analysis or recommendation.",
+  "keywords": ["Feature Extraction", "Audio Processing", "AI Analysis", "Music Technology"]
+},
+{
+  "id": 5270,
+  "title": "Automatic Music Remix Alignment Tool",
+  "domain": "71",
+  "description": "Develop a platform that aligns multiple music tracks for remixing purposes using AI beat and tempo analysis.",
+  "keywords": ["Remix Alignment", "AI Audio Processing", "Music Technology", "Beat Synchronization"]
+},
+{
+  "id": 5271,
+  "title": "AI-Powered Music Dynamic Range Compression",
+  "domain": "71",
+  "description": "Develop a system that automatically applies dynamic range compression to music tracks for balanced audio output.",
+  "keywords": ["Dynamic Range Compression", "Audio Processing", "AI Music", "Sound Engineering"]
+},
+{
+  "id": 5272,
+  "title": "Automatic Music Genre Evolution Tracker",
+  "domain": "71",
+  "description": "Create a tool that analyzes music over time to detect changes and evolution in genre styles using AI.",
+  "keywords": ["Genre Evolution", "AI Analysis", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5273,
+  "title": "AI-Powered Music Remix Quality Analyzer",
+  "domain": "71",
+  "description": "Develop a system that evaluates the quality of music remixes and suggests improvements using AI audio analysis.",
+  "keywords": ["Remix Quality", "AI Analysis", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5274,
+  "title": "Automatic Music Key and Scale Detection",
+  "domain": "71",
+  "description": "Create a platform that identifies the key and scale of music tracks for musicians and composers using AI.",
+  "keywords": ["Key Detection", "Scale Identification", "Audio Processing", "AI Music"]
+},
+{
+  "id": 5275,
+  "title": "AI-Powered Music Instrument Sound Enhancement",
+  "domain": "71",
+  "description": "Develop a system that enhances the audio quality of individual instruments in a track using AI.",
+  "keywords": ["Instrument Enhancement", "Audio Processing", "AI Music", "Sound Engineering"]
+},
+{
+  "id": 5276,
+  "title": "Automatic Music Vocal Pitch Correction",
+  "domain": "71",
+  "description": "Create a tool that corrects vocal pitch in recordings automatically using AI and audio signal processing.",
+  "keywords": ["Pitch Correction", "Vocal Processing", "AI Music", "Audio Enhancement"]
+},
+{
+  "id": 5277,
+  "title": "AI-Powered Music Emotion Mapping",
+  "domain": "71",
+  "description": "Develop a platform that maps emotions in music tracks for playlists, recommendations, or mood-based listening.",
+  "keywords": ["Emotion Mapping", "AI Analysis", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5278,
+  "title": "Automatic Music Multi-Track Separation",
+  "domain": "71",
+  "description": "Create a system that separates multi-track recordings into individual instrument and vocal tracks using AI.",
+  "keywords": ["Multi-Track Separation", "Audio Processing", "AI Music", "Music Technology"]
+},
+{
+  "id": 5279,
+  "title": "AI-Powered Music Audio Restoration",
+  "domain": "71",
+  "description": "Develop a tool that restores old or degraded music recordings by removing noise and enhancing quality using AI.",
+  "keywords": ["Audio Restoration", "AI Processing", "Music Technology", "Sound Enhancement"]
+},
+{
+  "id": 5280,
+  "title": "Automatic Music Rhythm Pattern Detection",
+  "domain": "71",
+  "description": "Create a platform that identifies rhythm patterns in music tracks for analysis, remixing, or educational purposes.",
+  "keywords": ["Rhythm Detection", "Audio Processing", "AI Music Analysis", "Music Technology"]
+},
+{
+  "id": 5281,
+  "title": "AI-Powered Music Audio Style Classification",
+  "domain": "71",
+  "description": "Develop a system that classifies music tracks into audio styles like acoustic, electronic, or orchestral using AI.",
+  "keywords": ["Audio Style Classification", "AI Analysis", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5282,
+  "title": "Automatic Music Tempo Adjustment for Videos",
+  "domain": "71",
+  "description": "Create a tool that adjusts music tempo automatically to match the timing of video content using AI.",
+  "keywords": ["Tempo Adjustment", "Audio Processing", "AI Music", "Video Synchronization"]
+},
+{
+  "id": 5283,
+  "title": "AI-Powered Music Live Performance Enhancer",
+  "domain": "71",
+  "description": "Develop a system that enhances live music performance audio in real time using AI signal processing.",
+  "keywords": ["Live Performance", "Audio Enhancement", "AI Music", "Real-Time Processing"]
+},
+{
+  "id": 5284,
+  "title": "Automatic Music Key Compatibility Checker",
+  "domain": "71",
+  "description": "Create a platform that checks compatibility of multiple tracks for mashups or DJ sets using AI key analysis.",
+  "keywords": ["Key Compatibility", "AI Analysis", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5285,
+  "title": "AI-Powered Music Audio Compression Optimizer",
+  "domain": "71",
+  "description": "Develop a system that optimizes audio compression for music files while preserving quality using AI algorithms.",
+  "keywords": ["Audio Compression", "AI Optimization", "Music Technology", "Sound Engineering"]
+},
+{
+  "id": 5286,
+  "title": "Automatic Music Tempo Matching Tool",
+  "domain": "71",
+  "description": "Create a system that matches the tempo of different music tracks automatically for mixing or mashups using AI.",
+  "keywords": ["Tempo Matching", "AI Music", "Audio Processing", "Mixing Tool"]
+},
+{
+  "id": 5287,
+  "title": "AI-Powered Music Style Consistency Checker",
+  "domain": "71",
+  "description": "Develop a platform that analyzes and ensures consistency in style across multiple tracks in an album or playlist.",
+  "keywords": ["Style Consistency", "AI Analysis", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5288,
+  "title": "Automatic Music Audio Quality Scorer",
+  "domain": "71",
+  "description": "Create a tool that evaluates and scores the audio quality of music tracks using AI audio feature analysis.",
+  "keywords": ["Audio Quality", "AI Analysis", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5289,
+  "title": "AI-Powered Music Instrument Separation for Education",
+  "domain": "71",
+  "description": "Develop a system that separates instruments in tracks to help music students learn and practice using AI.",
+  "keywords": ["Instrument Separation", "AI Music", "Audio Processing", "Music Education"]
+},
+{
+  "id": 5290,
+  "title": "Automatic Music Remix Style Suggestion",
+  "domain": "71",
+  "description": "Create a platform that suggests remix styles and arrangements based on original track analysis using AI.",
+  "keywords": ["Remix Style Suggestion", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5291,
+  "title": "AI-Powered Music Audio Fingerprint Matching",
+  "domain": "71",
+  "description": "Develop a system that identifies music tracks using unique audio fingerprints for copyright protection and identification.",
+  "keywords": ["Audio Fingerprint", "AI Music", "Audio Processing", "Track Identification"]
+},
+{
+  "id": 5292,
+  "title": "Automatic Music Harmonization Tool",
+  "domain": "71",
+  "description": "Create a platform that generates harmonies automatically for melodies using AI audio processing techniques.",
+  "keywords": ["Music Harmonization", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5293,
+  "title": "AI-Powered Music Audio Visualization",
+  "domain": "71",
+  "description": "Develop a system that generates visual representations of music tracks based on audio features for analysis or entertainment.",
+  "keywords": ["Audio Visualization", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5294,
+  "title": "Automatic Music Mood-Based Playlist Generator",
+  "domain": "71",
+  "description": "Create a tool that generates playlists based on detected mood or emotion in music tracks using AI analysis.",
+  "keywords": ["Mood Detection", "Playlist Generation", "AI Music", "Audio Processing"]
+},
+{
+  "id": 5295,
+  "title": "AI-Powered Music Live Audio Mixing",
+  "domain": "71",
+  "description": "Develop a platform that performs real-time audio mixing for live performances using AI to balance instruments and vocals.",
+  "keywords": ["Live Audio Mixing", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5296,
+  "title": "Automatic Music Tempo and Key Matching for DJs",
+  "domain": "71",
+  "description": "Create a system that analyzes and matches tempo and key of multiple tracks for DJ sets using AI.",
+  "keywords": ["Tempo Matching", "Key Matching", "AI Music", "Audio Processing"]
+},
+{
+  "id": 5297,
+  "title": "AI-Powered Music Instrument Sound Classification",
+  "domain": "71",
+  "description": "Develop a tool that classifies different instrument sounds in tracks for analysis, education, or remixing using AI.",
+  "keywords": ["Instrument Classification", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5298,
+  "title": "Automatic Music Audio Level Balancer",
+  "domain": "71",
+  "description": "Create a platform that automatically balances audio levels across multiple tracks using AI for consistent output.",
+  "keywords": ["Audio Level Balancer", "AI Music", "Audio Processing", "Sound Engineering"]
+},
+{
+  "id": 5299,
+  "title": "AI-Powered Music Audio Texture Analysis",
+  "domain": "71",
+  "description": "Develop a system that analyzes the audio texture of music tracks for classification, recommendation, or enhancement purposes.",
+  "keywords": ["Audio Texture", "AI Analysis", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5300,
+  "title": "Automatic Music Vocal Emotion Detection",
+  "domain": "71",
+  "description": "Create a platform that detects emotions in vocal tracks for playlists, recommendations, or music analytics using AI.",
+  "keywords": ["Vocal Emotion Detection", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5301,
+  "title": "AI-Powered Music Beat Mapping",
+  "domain": "71",
+  "description": "Develop a tool that maps beats across a track to assist in DJing, remixing, and music analysis using AI.",
+  "keywords": ["Beat Mapping", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5302,
+  "title": "Automatic Music Instrument Sound Enhancement",
+  "domain": "71",
+  "description": "Create a system that enhances the audio quality of each instrument in a track using AI for better clarity and impact.",
+  "keywords": ["Instrument Enhancement", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5303,
+  "title": "AI-Powered Music Audio Pattern Recognition",
+  "domain": "71",
+  "description": "Develop a platform that identifies recurring audio patterns in tracks for remixing, sampling, or analysis using AI.",
+  "keywords": ["Pattern Recognition", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5304,
+  "title": "Automatic Music Vocal Timing Correction",
+  "domain": "71",
+  "description": "Create a tool that adjusts vocal timing in recordings automatically using AI to improve synchronization with instruments.",
+  "keywords": ["Vocal Timing Correction", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5305,
+  "title": "AI-Powered Music Crossfade Generator",
+  "domain": "71",
+  "description": "Develop a system that generates smooth crossfades between tracks automatically for playlists or DJ sets using AI.",
+  "keywords": ["Crossfade Generation", "AI Music", "Audio Processing", "Music Technology"]
+},
+{
+  "id": 5306,
+  "title": "Automatic Music Audio Fingerprint-Based Search",
+  "domain": "71",
+  "description": "Create a platform that allows searching for tracks using audio samples via AI-powered fingerprinting techniques.",
+  "keywords": ["Audio Search", "AI Fingerprinting", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5307,
+  "title": "AI-Powered Music Style Consistency for Albums",
+  "domain": "71",
+  "description": "Develop a tool that ensures a consistent musical style across all tracks in an album using AI audio analysis.",
+  "keywords": ["Style Consistency", "AI Analysis", "Music Technology", "Audio Processing"]
+},
+{
+  "id": 5308,
+  "title": "Automatic Music Audio Reverb Adjustment",
+  "domain": "71",
+  "description": "Create a system that adjusts reverb levels in tracks automatically using AI to match desired acoustics and ambiance.",
+  "keywords": ["Reverb Adjustment", "AI Music", "Audio Processing", "Sound Engineering"]
+},
+{
+  "id": 5309,
+  "title": "AI-Powered Music Beat Suggestion for Composition",
+  "domain": "71",
+  "description": "Develop a platform that suggests beat patterns for new compositions based on existing tracks using AI analysis.",
+  "keywords": ["Beat Suggestion", "AI Music", "Audio Processing", "Music Composition"]
+},
+{
+  "id": 5310,
+  "title": "Automatic Music Audio Phase Correction",
+  "domain": "71",
+  "description": "Create a tool that detects and corrects phase issues in multi-track recordings automatically using AI.",
+  "keywords": ["Phase Correction", "AI Music", "Audio Processing", "Sound Engineering"]
+},
+// domain 72
+{
+  "id": 5311,
+  "title": "AI-Powered Video Content Recommendation",
+  "domain": "72",
+  "description": "Develop a system that recommends personalized video content to users based on viewing history and AI analysis.",
+  "keywords": ["Video Recommendation", "AI Personalization", "Streaming", "User Engagement"]
+},
+{
+  "id": 5312,
+  "title": "Automatic Video Quality Enhancement",
+  "domain": "72",
+  "description": "Create a platform that enhances video quality in real time, improving resolution, color, and contrast using AI.",
+  "keywords": ["Video Enhancement", "AI Processing", "Streaming Technology", "Quality Improvement"]
+},
+{
+  "id": 5313,
+  "title": "AI-Powered Video Scene Detection",
+  "domain": "72",
+  "description": "Develop a tool that automatically detects and labels scenes in videos for indexing and search purposes using AI.",
+  "keywords": ["Scene Detection", "AI Analysis", "Video Indexing", "Streaming Technology"]
+},
+{
+  "id": 5314,
+  "title": "Automatic Video Caption Generation",
+  "domain": "72",
+  "description": "Create a system that generates captions for videos automatically using AI-based speech recognition and NLP.",
+  "keywords": ["Caption Generation", "AI Speech Recognition", "Video Streaming", "Accessibility"]
+},
+{
+  "id": 5315,
+  "title": "AI-Powered Video Content Summarization",
+  "domain": "72",
+  "description": "Develop a tool that summarizes long videos into short highlights for quick viewing using AI analysis.",
+  "keywords": ["Video Summarization", "AI Analysis", "Streaming Technology", "Content Highlights"]
+},
+{
+  "id": 5316,
+  "title": "Automatic Video Background Removal",
+  "domain": "72",
+  "description": "Create a system that removes or replaces video backgrounds in real time using AI and computer vision techniques.",
+  "keywords": ["Background Removal", "AI Processing", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5317,
+  "title": "AI-Powered Video Object Tracking",
+  "domain": "72",
+  "description": "Develop a tool that tracks moving objects in videos for analytics, editing, or streaming enhancements using AI.",
+  "keywords": ["Object Tracking", "AI Analysis", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5318,
+  "title": "Automatic Video Scene Transition Detection",
+  "domain": "72",
+  "description": "Create a system that identifies scene transitions in videos to improve editing and content indexing using AI.",
+  "keywords": ["Scene Transition Detection", "AI Video Analysis", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5319,
+  "title": "AI-Powered Video Streaming Bandwidth Optimization",
+  "domain": "72",
+  "description": "Develop a system that optimizes video streaming quality in real time based on network conditions using AI.",
+  "keywords": ["Streaming Optimization", "AI Analysis", "Bandwidth Management", "Video Technology"]
+},
+{
+  "id": 5320,
+  "title": "Automatic Video Face Recognition",
+  "domain": "72",
+  "description": "Create a platform that recognizes and tags faces in video content using AI for analytics or streaming features.",
+  "keywords": ["Face Recognition", "AI Analysis", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5321,
+  "title": "AI-Powered Video Emotion Detection",
+  "domain": "72",
+  "description": "Develop a system that detects emotions of people in video streams for enhanced analytics and content personalization.",
+  "keywords": ["Emotion Detection", "AI Analysis", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5322,
+  "title": "Automatic Video Noise Reduction",
+  "domain": "72",
+  "description": "Create a tool that removes noise and artifacts from video streams in real time using AI processing techniques.",
+  "keywords": ["Noise Reduction", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5323,
+  "title": "AI-Powered Video Motion Stabilization",
+  "domain": "72",
+  "description": "Develop a system that stabilizes shaky video footage in real time using AI algorithms.",
+  "keywords": ["Motion Stabilization", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5324,
+  "title": "Automatic Video Highlight Reel Generator",
+  "domain": "72",
+  "description": "Create a platform that generates highlight reels from long videos automatically using AI scene and action detection.",
+  "keywords": ["Highlight Reel", "AI Video Analysis", "Video Summarization", "Streaming Technology"]
+},
+{
+  "id": 5325,
+  "title": "AI-Powered Video Content Moderation",
+  "domain": "72",
+  "description": "Develop a system that automatically detects inappropriate content in video streams using AI and computer vision.",
+  "keywords": ["Content Moderation", "AI Analysis", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5326,
+  "title": "Automatic Video Frame Interpolation",
+  "domain": "72",
+  "description": "Develop a system that generates intermediate frames to create smooth slow-motion or high-frame-rate video using AI.",
+  "keywords": ["Frame Interpolation", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5327,
+  "title": "AI-Powered Video Super-Resolution",
+  "domain": "72",
+  "description": "Create a platform that enhances low-resolution videos to high-resolution quality using AI-based super-resolution techniques.",
+  "keywords": ["Super-Resolution", "AI Video Processing", "Video Enhancement", "Streaming Technology"]
+},
+{
+  "id": 5328,
+  "title": "Automatic Video Subtitle Synchronization",
+  "domain": "72",
+  "description": "Develop a tool that aligns subtitles accurately with spoken content in video streams using AI and speech recognition.",
+  "keywords": ["Subtitle Synchronization", "AI Speech Recognition", "Video Streaming", "Accessibility"]
+},
+{
+  "id": 5329,
+  "title": "AI-Powered Video Object Removal",
+  "domain": "72",
+  "description": "Create a system that removes unwanted objects from videos seamlessly using AI video inpainting techniques.",
+  "keywords": ["Object Removal", "AI Video Processing", "Video Editing", "Streaming Technology"]
+},
+{
+  "id": 5330,
+  "title": "Automatic Video Color Grading",
+  "domain": "72",
+  "description": "Develop a platform that applies professional color grading to videos automatically using AI analysis.",
+  "keywords": ["Color Grading", "AI Video Processing", "Video Enhancement", "Streaming Technology"]
+},
+{
+  "id": 5331,
+  "title": "AI-Powered Real-Time Video Translation",
+  "domain": "72",
+  "description": "Create a system that translates spoken content in videos in real time and overlays translated subtitles using AI.",
+  "keywords": ["Real-Time Translation", "AI Speech Recognition", "Video Streaming", "Subtitles"]
+},
+{
+  "id": 5332,
+  "title": "Automatic Video Background Blur",
+  "domain": "72",
+  "description": "Develop a tool that automatically blurs video backgrounds for privacy or artistic purposes using AI segmentation.",
+  "keywords": ["Background Blur", "AI Video Processing", "Video Editing", "Streaming Technology"]
+},
+{
+  "id": 5333,
+  "title": "AI-Powered Video Object Counting",
+  "domain": "72",
+  "description": "Create a system that counts objects or people in video streams in real time using AI and computer vision.",
+  "keywords": ["Object Counting", "AI Video Analysis", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5334,
+  "title": "Automatic Video Highlight Detection",
+  "domain": "72",
+  "description": "Develop a platform that identifies exciting or key moments in videos for highlight generation using AI.",
+  "keywords": ["Highlight Detection", "AI Video Analysis", "Video Summarization", "Streaming Technology"]
+},
+{
+  "id": 5335,
+  "title": "AI-Powered Video Content Tagging",
+  "domain": "72",
+  "description": "Create a system that automatically tags video content with relevant keywords and metadata using AI analysis.",
+  "keywords": ["Content Tagging", "AI Video Analysis", "Metadata Generation", "Streaming Technology"]
+},
+{
+  "id": 5336,
+  "title": "Automatic Video Object Motion Analysis",
+  "domain": "72",
+  "description": "Develop a tool that analyzes motion of objects in videos for sports analytics, surveillance, or content editing using AI.",
+  "keywords": ["Motion Analysis", "AI Video Processing", "Video Streaming", "Computer Vision"]
+},
+{
+  "id": 5337,
+  "title": "AI-Powered Video Audio-Visual Synchronization",
+  "domain": "72",
+  "description": "Create a platform that ensures perfect lip-sync and audio-visual alignment in videos using AI analysis.",
+  "keywords": ["Audio-Visual Sync", "AI Video Processing", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5338,
+  "title": "Automatic Video Summarization for Educational Content",
+  "domain": "72",
+  "description": "Develop a system that generates concise summaries of educational videos using AI scene and audio analysis.",
+  "keywords": ["Video Summarization", "Educational Videos", "AI Analysis", "Streaming Technology"]
+},
+{
+  "id": 5339,
+  "title": "AI-Powered Video Compression Optimization",
+  "domain": "72",
+  "description": "Create a tool that optimizes video compression without quality loss for efficient streaming using AI.",
+  "keywords": ["Video Compression", "AI Optimization", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5340,
+  "title": "Automatic Video Content Moderation for Live Streams",
+  "domain": "72",
+  "description": "Develop a system that detects and flags inappropriate content in live video streams using AI and computer vision.",
+  "keywords": ["Content Moderation", "AI Video Analysis", "Live Streaming", "Computer Vision"]
+},
+{
+  "id": 5341,
+  "title": "AI-Powered Video Multi-Camera Synchronization",
+  "domain": "72",
+  "description": "Develop a system that synchronizes feeds from multiple cameras for live streaming or production using AI analysis.",
+  "keywords": ["Multi-Camera Sync", "AI Video Processing", "Streaming Technology", "Video Production"]
+},
+{
+  "id": 5342,
+  "title": "Automatic Video Scene Classification",
+  "domain": "72",
+  "description": "Create a tool that classifies video scenes based on content type, setting, or action using AI.",
+  "keywords": ["Scene Classification", "AI Video Analysis", "Streaming Technology", "Video Tagging"]
+},
+{
+  "id": 5343,
+  "title": "AI-Powered Video Motion Blur Reduction",
+  "domain": "72",
+  "description": "Develop a platform that reduces motion blur in fast-moving video scenes in real time using AI algorithms.",
+  "keywords": ["Motion Blur Reduction", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5344,
+  "title": "Automatic Video Content Personalization",
+  "domain": "72",
+  "description": "Create a system that tailors video content presentation to individual viewers using AI-based analysis of preferences.",
+  "keywords": ["Content Personalization", "AI Streaming", "Video Recommendation", "User Engagement"]
+},
+{
+  "id": 5345,
+  "title": "AI-Powered Video Object Segmentation",
+  "domain": "72",
+  "description": "Develop a tool that segments objects in video frames for editing, augmented reality, or analytics using AI.",
+  "keywords": ["Object Segmentation", "AI Video Processing", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5346,
+  "title": "Automatic Video Content Summarization for Social Media",
+  "domain": "72",
+  "description": "Create a system that generates short video summaries optimized for social media consumption using AI.",
+  "keywords": ["Video Summarization", "Social Media", "AI Video Analysis", "Streaming Technology"]
+},
+{
+  "id": 5347,
+  "title": "AI-Powered Real-Time Video Background Replacement",
+  "domain": "72",
+  "description": "Develop a platform that replaces video backgrounds in real time during live streaming using AI segmentation.",
+  "keywords": ["Background Replacement", "Real-Time Video", "AI Processing", "Streaming Technology"]
+},
+{
+  "id": 5348,
+  "title": "Automatic Video Shot Boundary Detection",
+  "domain": "72",
+  "description": "Create a tool that detects boundaries between shots in videos automatically for editing and analysis using AI.",
+  "keywords": ["Shot Boundary Detection", "AI Video Processing", "Video Editing", "Streaming Technology"]
+},
+{
+  "id": 5349,
+  "title": "AI-Powered Video Highlight Detection for Sports",
+  "domain": "72",
+  "description": "Develop a system that identifies and extracts key moments from sports videos using AI analysis of actions and events.",
+  "keywords": ["Sports Highlight Detection", "AI Video Analysis", "Streaming Technology", "Video Summarization"]
+},
+{
+  "id": 5350,
+  "title": "Automatic Video Color Palette Extraction",
+  "domain": "72",
+  "description": "Create a platform that extracts dominant color palettes from video frames for design, editing, or content analysis using AI.",
+  "keywords": ["Color Palette Extraction", "AI Video Processing", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5351,
+  "title": "AI-Powered Video Object Behavior Analysis",
+  "domain": "72",
+  "description": "Develop a system that analyzes movement patterns and behaviors of objects in videos for analytics or security using AI.",
+  "keywords": ["Object Behavior Analysis", "AI Video Processing", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5352,
+  "title": "Automatic Video Scene Highlight Ranking",
+  "domain": "72",
+  "description": "Create a tool that ranks the most important or engaging scenes in a video using AI analysis for highlight generation.",
+  "keywords": ["Scene Ranking", "AI Video Analysis", "Streaming Technology", "Video Summarization"]
+},
+{
+  "id": 5353,
+  "title": "AI-Powered Video Quality Assessment",
+  "domain": "72",
+  "description": "Develop a system that evaluates the quality of video streams and suggests improvements using AI algorithms.",
+  "keywords": ["Video Quality Assessment", "AI Analysis", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5354,
+  "title": "Automatic Video Audio-Visual Event Detection",
+  "domain": "72",
+  "description": "Create a platform that detects significant events in videos using combined audio and visual analysis powered by AI.",
+  "keywords": ["Event Detection", "AI Video Analysis", "Audio-Visual Processing", "Streaming Technology"]
+},
+{
+  "id": 5355,
+  "title": "AI-Powered Video Face Blurring for Privacy",
+  "domain": "72",
+  "description": "Develop a tool that automatically detects and blurs faces in videos to protect privacy using AI video processing.",
+  "keywords": ["Face Blurring", "AI Video Processing", "Streaming Technology", "Privacy Protection"]
+},
+{
+  "id": 5356,
+  "title": "Automatic Video Scene Text Recognition",
+  "domain": "72",
+  "description": "Create a system that detects and extracts text appearing in video scenes using AI-based OCR techniques.",
+  "keywords": ["Text Recognition", "AI Video Processing", "Streaming Technology", "OCR"]
+},
+{
+  "id": 5357,
+  "title": "AI-Powered Video Frame Interpolation for Smooth Playback",
+  "domain": "72",
+  "description": "Develop a platform that generates intermediate frames in videos to improve smoothness using AI analysis.",
+  "keywords": ["Frame Interpolation", "AI Video Processing", "Smooth Playback", "Streaming Technology"]
+},
+{
+  "id": 5358,
+  "title": "Automatic Video Motion Detection for Security",
+  "domain": "72",
+  "description": "Create a tool that detects motion in video streams for security and surveillance applications using AI.",
+  "keywords": ["Motion Detection", "AI Video Analysis", "Streaming Technology", "Security"]
+},
+{
+  "id": 5359,
+  "title": "AI-Powered Video Style Transfer",
+  "domain": "72",
+  "description": "Develop a system that applies the visual style of one video to another for creative effects using AI.",
+  "keywords": ["Style Transfer", "AI Video Processing", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5360,
+  "title": "Automatic Video Object Recognition for Analytics",
+  "domain": "72",
+  "description": "Create a platform that recognizes and labels objects in video streams for analytics using AI.",
+  "keywords": ["Object Recognition", "AI Video Analysis", "Streaming Technology", "Analytics"]
+},
+{
+  "id": 5361,
+  "title": "AI-Powered Video Real-Time Color Correction",
+  "domain": "72",
+  "description": "Develop a tool that performs automatic color correction on video streams in real time using AI.",
+  "keywords": ["Color Correction", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5362,
+  "title": "Automatic Video Event Highlighting",
+  "domain": "72",
+  "description": "Create a system that detects and highlights key events in videos automatically using AI analysis.",
+  "keywords": ["Event Highlighting", "AI Video Analysis", "Streaming Technology", "Video Summarization"]
+},
+{
+  "id": 5363,
+  "title": "AI-Powered Video Audio Enhancement",
+  "domain": "72",
+  "description": "Develop a platform that improves the audio quality in video streams using AI noise reduction and enhancement techniques.",
+  "keywords": ["Audio Enhancement", "AI Video Processing", "Streaming Technology", "Video Audio"]
+},
+{
+  "id": 5364,
+  "title": "Automatic Video Background Substitution",
+  "domain": "72",
+  "description": "Create a system that replaces video backgrounds in pre-recorded or live streams using AI segmentation.",
+  "keywords": ["Background Substitution", "AI Video Processing", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5365,
+  "title": "AI-Powered Video Frame Quality Assessment",
+  "domain": "72",
+  "description": "Develop a platform that evaluates individual video frames for quality issues and suggests improvements using AI.",
+  "keywords": ["Frame Quality Assessment", "AI Video Analysis", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5366,
+  "title": "Automatic Video Object Movement Prediction",
+  "domain": "72",
+  "description": "Create a system that predicts movement of objects in video streams for tracking or analytics using AI.",
+  "keywords": ["Object Movement Prediction", "AI Video Analysis", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5367,
+  "title": "AI-Powered Video Resolution Adaptation",
+  "domain": "72",
+  "description": "Develop a tool that adjusts video resolution dynamically based on network conditions to ensure smooth streaming.",
+  "keywords": ["Resolution Adaptation", "AI Video Processing", "Streaming Technology", "Video Quality"]
+},
+{
+  "id": 5368,
+  "title": "Automatic Video Shot Type Classification",
+  "domain": "72",
+  "description": "Create a system that classifies video shots into types like close-up, wide, or aerial using AI video analysis.",
+  "keywords": ["Shot Classification", "AI Video Analysis", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5369,
+  "title": "AI-Powered Video Content Tag Suggestion",
+  "domain": "72",
+  "description": "Develop a platform that automatically suggests relevant tags for video content to improve search and discoverability using AI.",
+  "keywords": ["Content Tagging", "AI Video Analysis", "Streaming Technology", "Metadata"]
+},
+{
+  "id": 5370,
+  "title": "Automatic Video Noise Detection",
+  "domain": "72",
+  "description": "Create a tool that detects noise, artifacts, or compression errors in video streams using AI for quality control.",
+  "keywords": ["Noise Detection", "AI Video Analysis", "Streaming Technology", "Video Quality"]
+},
+{
+  "id": 5371,
+  "title": "AI-Powered Video Scene Consistency Checker",
+  "domain": "72",
+  "description": "Develop a system that ensures visual consistency across scenes in a video or series using AI analysis.",
+  "keywords": ["Scene Consistency", "AI Video Analysis", "Streaming Technology", "Video Editing"]
+},
+{
+  "id": 5372,
+  "title": "Automatic Video Event Categorization",
+  "domain": "72",
+  "description": "Create a platform that categorizes events in videos like sports, news, or entertainment automatically using AI.",
+  "keywords": ["Event Categorization", "AI Video Analysis", "Streaming Technology", "Video Tagging"]
+},
+{
+  "id": 5373,
+  "title": "AI-Powered Video Real-Time Frame Supervision",
+  "domain": "72",
+  "description": "Develop a system that monitors and adjusts individual video frames in live streams for optimal quality using AI.",
+  "keywords": ["Frame Supervision", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5374,
+  "title": "Automatic Video Motion Segmentation",
+  "domain": "72",
+  "description": "Create a tool that segments moving objects in video streams for tracking or effects using AI video analysis.",
+  "keywords": ["Motion Segmentation", "AI Video Processing", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5375,
+  "title": "AI-Powered Video Quality Prediction",
+  "domain": "72",
+  "description": "Develop a platform that predicts perceived video quality for streaming optimization using AI algorithms.",
+  "keywords": ["Quality Prediction", "AI Video Analysis", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5376,
+  "title": "Automatic Video Highlight Reel Generation for Events",
+  "domain": "72",
+  "description": "Create a system that generates highlight reels for events like sports or concerts using AI scene and motion analysis.",
+  "keywords": ["Highlight Reel Generation", "AI Video Analysis", "Streaming Technology", "Video Summarization"]
+},
+{
+  "id": 5377,
+  "title": "AI-Powered Video Frame Rate Conversion",
+  "domain": "72",
+  "description": "Develop a tool that converts videos to different frame rates while maintaining smoothness using AI algorithms.",
+  "keywords": ["Frame Rate Conversion", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5378,
+  "title": "Automatic Video Live Stream Analytics",
+  "domain": "72",
+  "description": "Create a platform that provides real-time analytics for live video streams, including viewer behavior and engagement using AI.",
+  "keywords": ["Live Stream Analytics", "AI Video Analysis", "Streaming Technology", "Viewer Insights"]
+},
+{
+  "id": 5379,
+  "title": "AI-Powered Video Background Audio Detection",
+  "domain": "72",
+  "description": "Develop a system that identifies and separates background audio from main audio in video streams using AI.",
+  "keywords": ["Background Audio Detection", "AI Video Processing", "Streaming Technology", "Audio Separation"]
+},
+{
+  "id": 5380,
+  "title": "Automatic Video Camera Angle Recommendation",
+  "domain": "72",
+  "description": "Create a tool that recommends optimal camera angles for video recording or live streaming using AI analysis.",
+  "keywords": ["Camera Angle Recommendation", "AI Video Analysis", "Streaming Technology", "Video Production"]
+},
+{
+  "id": 5381,
+  "title": "AI-Powered Video Real-Time Face Recognition",
+  "domain": "72",
+  "description": "Develop a system that identifies faces in live video streams in real time using AI for analytics or security.",
+  "keywords": ["Face Recognition", "AI Video Processing", "Streaming Technology", "Security"]
+},
+{
+  "id": 5382,
+  "title": "Automatic Video Audio-Visual Event Summarization",
+  "domain": "72",
+  "description": "Create a platform that generates summaries of videos by analyzing combined audio and visual events using AI.",
+  "keywords": ["Event Summarization", "AI Video Analysis", "Streaming Technology", "Video Highlights"]
+},
+{
+  "id": 5383,
+  "title": "AI-Powered Video Real-Time Text Overlay",
+  "domain": "72",
+  "description": "Develop a system that adds real-time captions or text overlays to live streams using AI-based speech recognition.",
+  "keywords": ["Text Overlay", "AI Video Processing", "Streaming Technology", "Live Captions"]
+},
+{
+  "id": 5384,
+  "title": "Automatic Video Multi-Object Tracking",
+  "domain": "72",
+  "description": "Create a tool that tracks multiple moving objects simultaneously in video streams using AI for analytics or effects.",
+  "keywords": ["Multi-Object Tracking", "AI Video Analysis", "Streaming Technology", "Computer Vision"]
+},
+{
+  "id": 5385,
+  "title": "AI-Powered Video Real-Time Noise Filtering",
+  "domain": "72",
+  "description": "Develop a platform that reduces visual noise in video streams in real time using AI algorithms.",
+  "keywords": ["Noise Filtering", "AI Video Processing", "Streaming Technology", "Video Enhancement"]
+},
+{
+  "id": 5386,
+  "title": "Automatic Video Content Summarization for Marketing",
+  "domain": "72",
+  "description": "Create a system that generates short marketing-focused summaries of long videos using AI analysis.",
+  "keywords": ["Video Summarization", "Marketing", "AI Video Analysis", "Streaming Technology"]
+},
+{
+  "id": 5387,
+  "title": "AI-Powered Video Frame Artifact Detection",
+  "domain": "72",
+  "description": "Develop a tool that detects visual artifacts in video frames and suggests corrections using AI.",
+  "keywords": ["Artifact Detection", "AI Video Processing", "Streaming Technology", "Video Quality"]
+},
+{
+  "id": 5388,
+  "title": "Automatic Video Adaptive Streaming Optimization",
+  "domain": "72",
+  "description": "Create a system that dynamically adjusts video quality based on network conditions using AI for smooth playback.",
+  "keywords": ["Adaptive Streaming", "AI Video Processing", "Streaming Technology", "Quality Optimization"]
+},
+{
+  "id": 5389,
+  "title": "AI-Powered Video Visual Attention Mapping",
+  "domain": "72",
+  "description": "Develop a platform that identifies areas of visual focus in videos to guide editing, compression, or analytics using AI.",
+  "keywords": ["Visual Attention Mapping", "AI Video Analysis", "Streaming Technology", "Video Processing"]
+},
+// domain 73
+{
+  "id": 5390,
+  "title": "AI-Powered Image Noise Reduction",
+  "domain": "73",
+  "description": "Develop a system that removes noise from photographs using AI to produce cleaner and sharper images.",
+  "keywords": ["Noise Reduction", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5391,
+  "title": "Automatic Image Color Correction",
+  "domain": "73",
+  "description": "Create a tool that automatically adjusts color balance, saturation, and contrast in images using AI.",
+  "keywords": ["Color Correction", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5392,
+  "title": "AI-Powered Image Super-Resolution",
+  "domain": "73",
+  "description": "Develop a platform that enhances low-resolution images to high-resolution quality using AI super-resolution techniques.",
+  "keywords": ["Super-Resolution", "AI Image Enhancement", "Photography", "Image Quality"]
+},
+{
+  "id": 5393,
+  "title": "Automatic Image Background Removal",
+  "domain": "73",
+  "description": "Create a system that detects and removes backgrounds from photos automatically using AI segmentation.",
+  "keywords": ["Background Removal", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5394,
+  "title": "AI-Powered Image Style Transfer",
+  "domain": "73",
+  "description": "Develop a tool that applies artistic styles from one image to another using AI-based image processing.",
+  "keywords": ["Style Transfer", "AI Image Processing", "Photography Enhancement", "Creative Editing"]
+},
+{
+  "id": 5395,
+  "title": "Automatic Image Sharpening",
+  "domain": "73",
+  "description": "Create a platform that enhances details and sharpness in photos automatically using AI algorithms.",
+  "keywords": ["Image Sharpening", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5396,
+  "title": "AI-Powered Image Contrast Enhancement",
+  "domain": "73",
+  "description": "Develop a system that optimizes contrast in images automatically to improve visual quality using AI.",
+  "keywords": ["Contrast Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5397,
+  "title": "Automatic Image Artifact Removal",
+  "domain": "73",
+  "description": "Create a tool that detects and removes visual artifacts in images automatically using AI.",
+  "keywords": ["Artifact Removal", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5398,
+  "title": "AI-Powered Image HDR Enhancement",
+  "domain": "73",
+  "description": "Develop a platform that enhances dynamic range in photos automatically using AI algorithms for HDR effect.",
+  "keywords": ["HDR Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5399,
+  "title": "Automatic Image Perspective Correction",
+  "domain": "73",
+  "description": "Create a system that corrects perspective distortions in photos automatically using AI-based analysis.",
+  "keywords": ["Perspective Correction", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5400,
+  "title": "AI-Powered Image Object Detection",
+  "domain": "73",
+  "description": "Develop a tool that detects and labels objects within photos automatically using AI for analytics or editing.",
+  "keywords": ["Object Detection", "AI Image Processing", "Photography Enhancement", "Image Analysis"]
+},
+{
+  "id": 5401,
+  "title": "Automatic Image Skin Tone Correction",
+  "domain": "73",
+  "description": "Create a system that detects and adjusts skin tones in portraits automatically using AI for natural appearance.",
+  "keywords": ["Skin Tone Correction", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5402,
+  "title": "AI-Powered Image Background Blur",
+  "domain": "73",
+  "description": "Develop a platform that blurs backgrounds in photos automatically to emphasize the subject using AI.",
+  "keywords": ["Background Blur", "AI Image Processing", "Photography Enhancement", "Portrait Photography"]
+},
+{
+  "id": 5403,
+  "title": "Automatic Image Exposure Adjustment",
+  "domain": "73",
+  "description": "Create a system that adjusts exposure levels in photos automatically using AI for optimal brightness and contrast.",
+  "keywords": ["Exposure Adjustment", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5404,
+  "title": "AI-Powered Image Color Palette Suggestion",
+  "domain": "73",
+  "description": "Develop a tool that analyzes images and suggests optimal color palettes for design or editing using AI.",
+  "keywords": ["Color Palette Suggestion", "AI Image Processing", "Photography Enhancement", "Image Design"]
+},
+{
+  "id": 5405,
+  "title": "Automatic Image Face Detection and Enhancement",
+  "domain": "73",
+  "description": "Create a system that detects faces in photos and enhances them automatically using AI-based algorithms.",
+  "keywords": ["Face Detection", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5406,
+  "title": "AI-Powered Image Retouching",
+  "domain": "73",
+  "description": "Develop a system that automatically retouches portraits and product images to enhance aesthetics using AI.",
+  "keywords": ["Image Retouching", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5407,
+  "title": "Automatic Image Lens Distortion Correction",
+  "domain": "73",
+  "description": "Create a tool that corrects lens distortions like barrel or pincushion automatically in photos using AI.",
+  "keywords": ["Lens Distortion Correction", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5408,
+  "title": "AI-Powered Image Focus Enhancement",
+  "domain": "73",
+  "description": "Develop a platform that enhances focus and clarity in blurry images automatically using AI algorithms.",
+  "keywords": ["Focus Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5409,
+  "title": "Automatic Image Saturation Adjustment",
+  "domain": "73",
+  "description": "Create a system that adjusts color saturation in photos automatically using AI for visually pleasing results.",
+  "keywords": ["Saturation Adjustment", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5410,
+  "title": "AI-Powered Image Shadow and Highlight Correction",
+  "domain": "73",
+  "description": "Develop a tool that corrects shadows and highlights in photos automatically to enhance image details using AI.",
+  "keywords": ["Shadow Highlight Correction", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5411,
+  "title": "Automatic Image Object Removal",
+  "domain": "73",
+  "description": "Create a platform that removes unwanted objects from photos seamlessly using AI inpainting techniques.",
+  "keywords": ["Object Removal", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5412,
+  "title": "AI-Powered Image Texture Enhancement",
+  "domain": "73",
+  "description": "Develop a system that enhances textures in photographs for richer details automatically using AI.",
+  "keywords": ["Texture Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5413,
+  "title": "Automatic Image Color Grading",
+  "domain": "73",
+  "description": "Create a tool that applies professional color grading styles to photos automatically using AI algorithms.",
+  "keywords": ["Color Grading", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5414,
+  "title": "AI-Powered Image Perspective Transformation",
+  "domain": "73",
+  "description": "Develop a system that transforms the perspective of images automatically to correct distortions or create artistic effects using AI.",
+  "keywords": ["Perspective Transformation", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5415,
+  "title": "Automatic Image Skin Smoothing",
+  "domain": "73",
+  "description": "Create a platform that smooths skin in portraits naturally using AI-based image processing techniques.",
+  "keywords": ["Skin Smoothing", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5416,
+  "title": "AI-Powered Image Low-Light Enhancement",
+  "domain": "73",
+  "description": "Develop a tool that enhances images taken in low-light conditions automatically using AI for better visibility.",
+  "keywords": ["Low-Light Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5417,
+  "title": "Automatic Image Tone Mapping",
+  "domain": "73",
+  "description": "Create a system that maps tones in images for HDR effect or stylistic improvements automatically using AI.",
+  "keywords": ["Tone Mapping", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5418,
+  "title": "AI-Powered Image Detail Enhancement",
+  "domain": "73",
+  "description": "Develop a platform that enhances fine details in photographs automatically using AI algorithms.",
+  "keywords": ["Detail Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5419,
+  "title": "Automatic Image Facial Feature Enhancement",
+  "domain": "73",
+  "description": "Create a system that enhances facial features like eyes, lips, and smile in portraits using AI automatically.",
+  "keywords": ["Facial Feature Enhancement", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5420,
+  "title": "AI-Powered Image Background Replacement",
+  "domain": "73",
+  "description": "Develop a tool that replaces photo backgrounds with new scenery or designs automatically using AI segmentation.",
+  "keywords": ["Background Replacement", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5421,
+  "title": "Automatic Image Red-Eye Removal",
+  "domain": "73",
+  "description": "Create a platform that detects and removes red-eye from portraits automatically using AI algorithms.",
+  "keywords": ["Red-Eye Removal", "AI Image Processing", "Photography Enhancement", "Portrait Editing"]
+},
+{
+  "id": 5422,
+  "title": "AI-Powered Image Color Harmony Adjustment",
+  "domain": "73",
+  "description": "Develop a system that adjusts image colors to create visual harmony automatically using AI for aesthetic appeal.",
+  "keywords": ["Color Harmony", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5423,
+  "title": "Automatic Image Lens Flare Removal",
+  "domain": "73",
+  "description": "Create a tool that removes unwanted lens flares from photos automatically using AI-based image processing.",
+  "keywords": ["Lens Flare Removal", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5424,
+  "title": "AI-Powered Image HDR Tone Mapping",
+  "domain": "73",
+  "description": "Develop a platform that applies HDR tone mapping to images automatically using AI for richer dynamic range.",
+  "keywords": ["HDR Tone Mapping", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5425,
+  "title": "Automatic Image Contrast Stretching",
+  "domain": "73",
+  "description": "Create a system that stretches image contrast automatically using AI to enhance visual quality.",
+  "keywords": ["Contrast Stretching", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5426,
+  "title": "AI-Powered Image Noise Pattern Detection",
+  "domain": "73",
+  "description": "Develop a tool that detects and analyzes noise patterns in images automatically for better noise reduction using AI.",
+  "keywords": ["Noise Pattern Detection", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5427,
+  "title": "Automatic Image Brightness Optimization",
+  "domain": "73",
+  "description": "Create a platform that optimizes image brightness automatically for natural appearance using AI.",
+  "keywords": ["Brightness Optimization", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5428,
+  "title": "AI-Powered Image Edge Enhancement",
+  "domain": "73",
+  "description": "Develop a system that enhances edges in photographs to improve clarity and definition automatically using AI.",
+  "keywords": ["Edge Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5429,
+  "title": "Automatic Image Object Highlighting",
+  "domain": "73",
+  "description": "Create a tool that highlights main objects in photographs automatically using AI for better visual focus.",
+  "keywords": ["Object Highlighting", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5430,
+  "title": "AI-Powered Image Histogram Equalization",
+  "domain": "73",
+  "description": "Develop a platform that equalizes image histograms automatically to improve overall contrast using AI.",
+  "keywords": ["Histogram Equalization", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5431,
+  "title": "Automatic Image White Balance Correction",
+  "domain": "73",
+  "description": "Create a system that adjusts white balance in photographs automatically for natural color reproduction using AI.",
+  "keywords": ["White Balance Correction", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5432,
+  "title": "AI-Powered Image Perspective Enhancement",
+  "domain": "73",
+  "description": "Develop a tool that improves image perspective for artistic or realistic representation automatically using AI.",
+  "keywords": ["Perspective Enhancement", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5433,
+  "title": "Automatic Image Shadow Enhancement",
+  "domain": "73",
+  "description": "Create a platform that enhances shadow details in photos automatically using AI for improved visual depth.",
+  "keywords": ["Shadow Enhancement", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+{
+  "id": 5434,
+  "title": "AI-Powered Image Reflection Removal",
+  "domain": "73",
+  "description": "Develop a system that removes unwanted reflections from images automatically using AI image processing techniques.",
+  "keywords": ["Reflection Removal", "AI Image Processing", "Photography Enhancement", "Image Editing"]
+},
+{
+  "id": 5435,
+  "title": "Automatic Image Fine-Tuning for Print",
+  "domain": "73",
+  "description": "Create a tool that optimizes images automatically for print quality using AI-based adjustments for colors, sharpness, and contrast.",
+  "keywords": ["Print Optimization", "AI Image Processing", "Photography Enhancement", "Image Quality"]
+},
+// domain 74
+{
+  "id": 5436,
+  "title": "AI-Powered Screen Reader for Visually Impaired",
+  "domain": "74",
+  "description": "Develop a screen reader that uses AI to describe content on websites and applications in natural language for visually impaired users.",
+  "keywords": ["Screen Reader", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5437,
+  "title": "Automatic Sign Language Translation",
+  "domain": "74",
+  "description": "Create a system that translates sign language gestures into text or speech in real time using AI.",
+  "keywords": ["Sign Language Translation", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5438,
+  "title": "AI-Powered Voice Command Interface for Disabled Users",
+  "domain": "74",
+  "description": "Develop a voice-controlled interface that allows physically disabled users to navigate applications and devices using AI voice recognition.",
+  "keywords": ["Voice Command", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5439,
+  "title": "Automatic Captioning for Live Events",
+  "domain": "74",
+  "description": "Create a system that generates real-time captions for live events, webinars, and videos using AI speech recognition.",
+  "keywords": ["Captioning", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5440,
+  "title": "AI-Powered Text-to-Speech for eBooks",
+  "domain": "74",
+  "description": "Develop a tool that converts eBooks and digital documents into natural-sounding speech for visually impaired users using AI.",
+  "keywords": ["Text-to-Speech", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5441,
+  "title": "Automatic Color Contrast Adjustment for Accessibility",
+  "domain": "74",
+  "description": "Create a system that adjusts color contrast in applications and websites automatically to enhance readability for users with visual impairments.",
+  "keywords": ["Color Contrast", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5442,
+  "title": "AI-Powered Eye-Tracking Interface",
+  "domain": "74",
+  "description": "Develop an interface that uses eye-tracking technology for navigation and interaction in devices for physically disabled users using AI.",
+  "keywords": ["Eye Tracking", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5443,
+  "title": "Automatic Audio Description for Videos",
+  "domain": "74",
+  "description": "Create a tool that generates audio descriptions for video content automatically using AI for visually impaired audiences.",
+  "keywords": ["Audio Description", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5444,
+  "title": "AI-Powered Hearing Aid Optimization",
+  "domain": "74",
+  "description": "Develop a system that optimizes hearing aid settings in real time using AI for improved audio clarity and speech recognition.",
+  "keywords": ["Hearing Aid Optimization", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5445,
+  "title": "Automatic Gesture Recognition for Accessibility",
+  "domain": "74",
+  "description": "Create a system that interprets hand or body gestures for controlling devices and applications using AI for disabled users.",
+  "keywords": ["Gesture Recognition", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5446,
+  "title": "AI-Powered Voice Amplification for Speech Impairment",
+  "domain": "74",
+  "description": "Develop a tool that amplifies and clarifies speech for users with speech impairments using AI signal processing.",
+  "keywords": ["Voice Amplification", "AI Accessibility", "Speech Impaired", "Assistive Technology"]
+},
+{
+  "id": 5447,
+  "title": "Automatic Reading Assistance for Dyslexia",
+  "domain": "74",
+  "description": "Create a system that highlights, reads aloud, and simplifies text for dyslexic users using AI-based text analysis.",
+  "keywords": ["Dyslexia Assistance", "AI Accessibility", "Reading Support", "Assistive Technology"]
+},
+{
+  "id": 5448,
+  "title": "AI-Powered Haptic Feedback for Touch Interfaces",
+  "domain": "74",
+  "description": "Develop a system that provides adaptive haptic feedback on touch devices for physically impaired users using AI.",
+  "keywords": ["Haptic Feedback", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5449,
+  "title": "Automatic Voice-to-Text for Accessibility",
+  "domain": "74",
+  "description": "Create a tool that converts spoken language into text in real time for hearing-impaired users using AI.",
+  "keywords": ["Voice-to-Text", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5450,
+  "title": "AI-Powered Screen Magnification for Low Vision",
+  "domain": "74",
+  "description": "Develop a system that magnifies screen content intelligently to aid users with low vision using AI algorithms.",
+  "keywords": ["Screen Magnification", "AI Accessibility", "Low Vision", "Assistive Technology"]
+},
+{
+  "id": 5451,
+  "title": "Automatic Text Simplification for Cognitive Disabilities",
+  "domain": "74",
+  "description": "Create a system that simplifies complex text automatically using AI to make it easier for users with cognitive disabilities to read.",
+  "keywords": ["Text Simplification", "AI Accessibility", "Cognitive Disability", "Assistive Technology"]
+},
+{
+  "id": 5452,
+  "title": "AI-Powered Adaptive Keyboard for Accessibility",
+  "domain": "74",
+  "description": "Develop a keyboard that adapts layout and key sensitivity automatically based on user needs using AI for physically impaired users.",
+  "keywords": ["Adaptive Keyboard", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5453,
+  "title": "Automatic Caption Translation for Accessibility",
+  "domain": "74",
+  "description": "Create a system that translates captions in real time into multiple languages for hearing-impaired users using AI.",
+  "keywords": ["Caption Translation", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5454,
+  "title": "AI-Powered Smart Glasses for Visually Impaired",
+  "domain": "74",
+  "description": "Develop smart glasses that provide real-time navigation, object detection, and text recognition for visually impaired users using AI.",
+  "keywords": ["Smart Glasses", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5455,
+  "title": "Automatic Audio Summarization for Accessibility",
+  "domain": "74",
+  "description": "Create a system that summarizes audio content automatically for hearing-impaired users using AI.",
+  "keywords": ["Audio Summarization", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5456,
+  "title": "AI-Powered Text Highlighting for Reading Assistance",
+  "domain": "74",
+  "description": "Develop a platform that highlights important text automatically to aid users with reading difficulties using AI.",
+  "keywords": ["Text Highlighting", "AI Accessibility", "Reading Assistance", "Assistive Technology"]
+},
+{
+  "id": 5457,
+  "title": "Automatic Haptic Navigation for Indoor Spaces",
+  "domain": "74",
+  "description": "Create a system that provides real-time haptic feedback to guide visually impaired users through indoor environments using AI.",
+  "keywords": ["Haptic Navigation", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5458,
+  "title": "AI-Powered Assistive Chatbot for Disabled Users",
+  "domain": "74",
+  "description": "Develop a chatbot that understands accessibility needs and provides assistance for daily tasks using AI.",
+  "keywords": ["Assistive Chatbot", "AI Accessibility", "Disabled Users", "Assistive Technology"]
+},
+{
+  "id": 5459,
+  "title": "Automatic Voice Modulation for Speech Therapy",
+  "domain": "74",
+  "description": "Create a system that modulates user speech in real time to assist with speech therapy using AI.",
+  "keywords": ["Voice Modulation", "AI Accessibility", "Speech Therapy", "Assistive Technology"]
+},
+{
+  "id": 5460,
+  "title": "AI-Powered Emotion Recognition for Accessibility",
+  "domain": "74",
+  "description": "Develop a system that detects user emotions to adapt interfaces for accessibility in real time using AI.",
+  "keywords": ["Emotion Recognition", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5461,
+  "title": "Automatic Reading Progress Tracker for Dyslexia",
+  "domain": "74",
+  "description": "Create a tool that monitors and provides feedback on reading progress for dyslexic users using AI.",
+  "keywords": ["Reading Progress Tracker", "AI Accessibility", "Dyslexia", "Assistive Technology"]
+},
+{
+  "id": 5462,
+  "title": "AI-Powered Motion Detection for Safety Assistance",
+  "domain": "74",
+  "description": "Develop a system that detects falls or unusual motion patterns to alert caregivers for physically impaired users using AI.",
+  "keywords": ["Motion Detection", "AI Accessibility", "Physically Disabled", "Safety Assistance"]
+},
+{
+  "id": 5463,
+  "title": "Automatic Symbol-to-Speech Conversion",
+  "domain": "74",
+  "description": "Create a platform that converts visual symbols or pictograms into speech for users with communication difficulties using AI.",
+  "keywords": ["Symbol-to-Speech", "AI Accessibility", "Communication Assistance", "Assistive Technology"]
+},
+{
+  "id": 5464,
+  "title": "AI-Powered Voice Command Personalization",
+  "domain": "74",
+  "description": "Develop a system that personalizes voice command recognition based on individual user patterns for accessibility using AI.",
+  "keywords": ["Voice Command Personalization", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5465,
+  "title": "Automatic Visual Alert System for Hearing Impaired",
+  "domain": "74",
+  "description": "Create a system that converts audio alerts into visual cues automatically for hearing-impaired users using AI.",
+  "keywords": ["Visual Alerts", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5466,
+  "title": "AI-Powered Language Simplification for Accessibility",
+  "domain": "74",
+  "description": "Develop a system that simplifies complex language content automatically for users with cognitive or learning disabilities using AI.",
+  "keywords": ["Language Simplification", "AI Accessibility", "Cognitive Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5467,
+  "title": "Automatic Haptic Keyboard Feedback",
+  "domain": "74",
+  "description": "Create a system that provides haptic feedback for key presses to improve typing accessibility for physically impaired users using AI.",
+  "keywords": ["Haptic Keyboard", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5468,
+  "title": "AI-Powered Real-Time Audio Signaling",
+  "domain": "74",
+  "description": "Develop a system that translates audio signals into visual or tactile feedback for hearing-impaired users using AI.",
+  "keywords": ["Audio Signaling", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5469,
+  "title": "Automatic Reading Comprehension Assistance",
+  "domain": "74",
+  "description": "Create a platform that explains or summarizes text content in real time for users with cognitive disabilities using AI.",
+  "keywords": ["Reading Comprehension", "AI Accessibility", "Cognitive Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5470,
+  "title": "AI-Powered Motion-Adaptive User Interfaces",
+  "domain": "74",
+  "description": "Develop interfaces that adapt layout and control sensitivity automatically based on user physical motion patterns using AI.",
+  "keywords": ["Motion-Adaptive Interface", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5471,
+  "title": "Automatic Braille Translation for Digital Content",
+  "domain": "74",
+  "description": "Create a system that converts digital text and documents into Braille automatically for visually impaired users using AI.",
+  "keywords": ["Braille Translation", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5472,
+  "title": "AI-Powered Accessibility Testing Tool",
+  "domain": "74",
+  "description": "Develop a tool that automatically checks websites and applications for accessibility compliance using AI.",
+  "keywords": ["Accessibility Testing", "AI Accessibility", "Assistive Technology", "Compliance"]
+},
+{
+  "id": 5473,
+  "title": "Automatic Voice Navigation for Smart Homes",
+  "domain": "74",
+  "description": "Create a system that allows disabled users to navigate smart home devices using voice commands and AI.",
+  "keywords": ["Voice Navigation", "AI Accessibility", "Smart Home", "Assistive Technology"]
+},
+{
+  "id": 5474,
+  "title": "AI-Powered Real-Time Subtitling",
+  "domain": "74",
+  "description": "Develop a platform that generates real-time subtitles for videos and live events for hearing-impaired users using AI.",
+  "keywords": ["Subtitling", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5475,
+  "title": "Automatic Cognitive Load Adjustment for Interfaces",
+  "domain": "74",
+  "description": "Create a system that adjusts interface complexity automatically based on user cognitive load using AI for accessibility.",
+  "keywords": ["Cognitive Load Adjustment", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5476,
+  "title": "AI-Powered Audio Navigation for Visually Impaired",
+  "domain": "74",
+  "description": "Develop a system that provides audio-based navigation cues for visually impaired users in digital and physical spaces using AI.",
+  "keywords": ["Audio Navigation", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5477,
+  "title": "Automatic Text Magnification for Low Vision",
+  "domain": "74",
+  "description": "Create a platform that magnifies text content automatically for users with low vision using AI.",
+  "keywords": ["Text Magnification", "AI Accessibility", "Low Vision", "Assistive Technology"]
+},
+{
+  "id": 5478,
+  "title": "AI-Powered Environmental Sound Recognition",
+  "domain": "74",
+  "description": "Develop a system that identifies important environmental sounds and alerts hearing-impaired users using AI.",
+  "keywords": ["Sound Recognition", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5479,
+  "title": "Automatic User Preference Adaptation for Accessibility",
+  "domain": "74",
+  "description": "Create a system that learns user accessibility preferences and adapts interfaces automatically using AI.",
+  "keywords": ["User Preference Adaptation", "AI Accessibility", "Assistive Technology", "Personalization"]
+},
+{
+  "id": 5480,
+  "title": "AI-Powered Multimodal Accessibility Assistance",
+  "domain": "74",
+  "description": "Develop a platform that combines visual, auditory, and haptic feedback for accessibility support using AI.",
+  "keywords": ["Multimodal Assistance", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5481,
+  "title": "Automatic Sign Language Avatar for Digital Content",
+  "domain": "74",
+  "description": "Create a system that generates an animated sign language avatar to translate digital content automatically for hearing-impaired users using AI.",
+  "keywords": ["Sign Language Avatar", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5482,
+  "title": "AI-Powered Real-Time Text Magnifier",
+  "domain": "74",
+  "description": "Develop a tool that magnifies on-screen text dynamically for low-vision users using AI.",
+  "keywords": ["Text Magnifier", "AI Accessibility", "Low Vision", "Assistive Technology"]
+},
+{
+  "id": 5483,
+  "title": "Automatic Audio Cue Generation for Games",
+  "domain": "74",
+  "description": "Create a system that generates auditory cues in games for visually impaired or hearing-impaired users using AI.",
+  "keywords": ["Audio Cue Generation", "AI Accessibility", "Game Accessibility", "Assistive Technology"]
+},
+{
+  "id": 5484,
+  "title": "AI-Powered Dynamic Interface Scaling",
+  "domain": "74",
+  "description": "Develop a platform that adjusts interface size, elements, and layout automatically for accessibility using AI.",
+  "keywords": ["Interface Scaling", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5485,
+  "title": "Automatic Speech Clarity Enhancement",
+  "domain": "74",
+  "description": "Create a tool that enhances speech clarity in real time for hearing-impaired users using AI audio processing.",
+  "keywords": ["Speech Clarity Enhancement", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5486,
+  "title": "AI-Powered Smart Text Reader for Dyslexia",
+  "domain": "74",
+  "description": "Develop a system that reads and highlights text intelligently to assist dyslexic users using AI.",
+  "keywords": ["Smart Text Reader", "AI Accessibility", "Dyslexia", "Assistive Technology"]
+},
+{
+  "id": 5487,
+  "title": "Automatic Haptic Alerts for Notifications",
+  "domain": "74",
+  "description": "Create a platform that converts notifications into haptic signals automatically for hearing-impaired or visually impaired users using AI.",
+  "keywords": ["Haptic Alerts", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5488,
+  "title": "AI-Powered Cognitive Task Assistance",
+  "domain": "74",
+  "description": "Develop a system that assists users with cognitive disabilities in performing tasks through AI-guided instructions and support.",
+  "keywords": ["Cognitive Task Assistance", "AI Accessibility", "Cognitive Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5489,
+  "title": "Automatic Audio-Visual Synchronization for Accessibility",
+  "domain": "74",
+  "description": "Create a system that synchronizes audio and visual content automatically to improve accessibility for users with hearing or cognitive impairments using AI.",
+  "keywords": ["Audio-Visual Synchronization", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5490,
+  "title": "AI-Powered Personalized Learning Assistance",
+  "domain": "74",
+  "description": "Develop a platform that adapts learning materials automatically for users with learning disabilities using AI.",
+  "keywords": ["Personalized Learning", "AI Accessibility", "Learning Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5491,
+  "title": "Automatic Environmental Awareness for Disabled Users",
+  "domain": "74",
+  "description": "Create a system that alerts users to obstacles or hazards in their environment automatically using AI.",
+  "keywords": ["Environmental Awareness", "AI Accessibility", "Physically Disabled", "Assistive Technology"]
+},
+{
+  "id": 5492,
+  "title": "AI-Powered Real-Time Language Simplification",
+  "domain": "74",
+  "description": "Develop a tool that simplifies spoken or written language dynamically for users with cognitive or learning disabilities using AI.",
+  "keywords": ["Language Simplification", "AI Accessibility", "Cognitive Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5493,
+  "title": "Automatic Voice-Activated Navigation in Apps",
+  "domain": "74",
+  "description": "Create a system that allows users to navigate apps and devices entirely via voice commands using AI for accessibility.",
+  "keywords": ["Voice Navigation", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5494,
+  "title": "AI-Powered Adaptive Reading Interface",
+  "domain": "74",
+  "description": "Develop a reading interface that adapts font size, spacing, and layout automatically based on user needs using AI.",
+  "keywords": ["Adaptive Reading Interface", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5495,
+  "title": "Automatic Assistive Audio Alerts for Devices",
+  "domain": "74",
+  "description": "Create a system that generates audio alerts automatically for users with visual impairments to interact with smart devices using AI.",
+  "keywords": ["Assistive Audio Alerts", "AI Accessibility", "Visually Impaired", "Assistive Technology"]
+},
+{
+  "id": 5496,
+  "title": "AI-Powered Predictive Text for Accessibility",
+  "domain": "74",
+  "description": "Develop a predictive text tool that adapts to user input style and assists users with typing difficulties using AI.",
+  "keywords": ["Predictive Text", "AI Accessibility", "Typing Assistance", "Assistive Technology"]
+},
+{
+  "id": 5497,
+  "title": "Automatic Real-Time Visual Notifications",
+  "domain": "74",
+  "description": "Create a system that converts audio alerts into visual notifications automatically for hearing-impaired users using AI.",
+  "keywords": ["Visual Notifications", "AI Accessibility", "Hearing Impaired", "Assistive Technology"]
+},
+{
+  "id": 5498,
+  "title": "AI-Powered Real-Time Task Guidance",
+  "domain": "74",
+  "description": "Develop a platform that guides users with cognitive or physical disabilities through tasks in real time using AI.",
+  "keywords": ["Task Guidance", "AI Accessibility", "Cognitive Disabilities", "Assistive Technology"]
+},
+{
+  "id": 5499,
+  "title": "Automatic Adaptive Interface for Mobile Devices",
+  "domain": "74",
+  "description": "Create a system that automatically adapts mobile interfaces based on user accessibility needs using AI.",
+  "keywords": ["Adaptive Interface", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+{
+  "id": 5500,
+  "title": "AI-Powered Accessibility Analytics",
+  "domain": "74",
+  "description": "Develop a tool that analyzes application or website accessibility in real time and provides actionable improvements using AI.",
+  "keywords": ["Accessibility Analytics", "AI Accessibility", "Assistive Technology", "User Experience"]
+},
+// domain 75
+{
+  "id": 5501,
+  "title": "AI-Powered Fall Detection System",
+  "domain": "75",
+  "description": "Develop a wearable device that detects falls in elderly individuals in real time and sends alerts to caregivers using AI.",
+  "keywords": ["Fall Detection", "AI AgeTech", "Elderly Care", "Wearable Technology"]
+},
+{
+  "id": 5502,
+  "title": "Automatic Medication Reminder and Monitoring",
+  "domain": "75",
+  "description": "Create a system that reminds elderly users to take their medications and monitors adherence automatically using AI.",
+  "keywords": ["Medication Reminder", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5503,
+  "title": "AI-Powered Vital Signs Monitoring",
+  "domain": "75",
+  "description": "Develop a wearable or home device that continuously monitors vital signs like heart rate, blood pressure, and oxygen levels for elderly users using AI.",
+  "keywords": ["Vital Signs Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5504,
+  "title": "Automatic Cognitive Health Assessment",
+  "domain": "75",
+  "description": "Create a system that evaluates cognitive function in elderly users periodically using AI-based assessments and alerts caregivers to changes.",
+  "keywords": ["Cognitive Health", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5505,
+  "title": "AI-Powered Social Engagement Platform",
+  "domain": "75",
+  "description": "Develop a platform that connects elderly individuals with friends, family, and community activities using AI to recommend interactions.",
+  "keywords": ["Social Engagement", "AI AgeTech", "Elderly Care", "Community"]
+},
+{
+  "id": 5506,
+  "title": "Automatic Emergency Response System",
+  "domain": "75",
+  "description": "Create a system that detects emergencies like falls or sudden health issues in elderly users and contacts emergency services automatically using AI.",
+  "keywords": ["Emergency Response", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5507,
+  "title": "AI-Powered Home Safety Monitoring",
+  "domain": "75",
+  "description": "Develop a system that monitors home environments for hazards and provides alerts or suggestions to elderly users using AI.",
+  "keywords": ["Home Safety", "AI AgeTech", "Elderly Care", "Smart Home"]
+},
+{
+  "id": 5508,
+  "title": "Automatic Physical Activity Tracker",
+  "domain": "75",
+  "description": "Create a wearable system that tracks physical activity and provides personalized exercise recommendations for elderly users using AI.",
+  "keywords": ["Physical Activity Tracker", "AI AgeTech", "Elderly Care", "Wearable Technology"]
+},
+{
+  "id": 5509,
+  "title": "AI-Powered Nutrition Monitoring",
+  "domain": "75",
+  "description": "Develop a system that tracks diet and nutrition for elderly individuals and provides personalized recommendations using AI.",
+  "keywords": ["Nutrition Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5510,
+  "title": "Automatic Sleep Quality Monitoring",
+  "domain": "75",
+  "description": "Create a wearable device that monitors sleep patterns in elderly users and provides suggestions for better sleep using AI.",
+  "keywords": ["Sleep Monitoring", "AI AgeTech", "Elderly Care", "Wearable Technology"]
+},
+{
+  "id": 5511,
+  "title": "AI-Powered Voice Assistance for Elderly",
+  "domain": "75",
+  "description": "Develop a voice-controlled assistant that helps elderly users with reminders, information, and communication using AI.",
+  "keywords": ["Voice Assistant", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5512,
+  "title": "Automatic Medication Interaction Alert",
+  "domain": "75",
+  "description": "Create a system that detects potential medication interactions for elderly users and sends alerts automatically using AI.",
+  "keywords": ["Medication Interaction", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5513,
+  "title": "AI-Powered Mental Health Monitoring",
+  "domain": "75",
+  "description": "Develop a platform that monitors mental health indicators in elderly users and provides support or alerts to caregivers using AI.",
+  "keywords": ["Mental Health Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5514,
+  "title": "Automatic Emergency Location Detection",
+  "domain": "75",
+  "description": "Create a system that detects the location of elderly users in emergencies and shares it with caregivers or emergency services using AI.",
+  "keywords": ["Emergency Location Detection", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5515,
+  "title": "AI-Powered Daily Routine Planner",
+  "domain": "75",
+  "description": "Develop a platform that helps elderly users manage daily routines, medications, and appointments automatically using AI.",
+  "keywords": ["Daily Routine Planner", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5516,
+  "title": "Automatic Blood Pressure Monitoring",
+  "domain": "75",
+  "description": "Create a wearable or home device that monitors blood pressure continuously for elderly users and alerts anomalies using AI.",
+  "keywords": ["Blood Pressure Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5517,
+  "title": "AI-Powered Heart Health Prediction",
+  "domain": "75",
+  "description": "Develop a system that predicts potential heart issues in elderly users based on vital signs and historical data using AI.",
+  "keywords": ["Heart Health Prediction", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5518,
+  "title": "Automatic Hydration Reminder",
+  "domain": "75",
+  "description": "Create a platform that reminds elderly users to drink water at regular intervals and monitors hydration levels using AI.",
+  "keywords": ["Hydration Reminder", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5519,
+  "title": "AI-Powered Emergency Contact Management",
+  "domain": "75",
+  "description": "Develop a system that automatically contacts designated emergency contacts when an elderly user encounters a health or safety issue using AI.",
+  "keywords": ["Emergency Contact", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5520,
+  "title": "Automatic Medication Supply Tracking",
+  "domain": "75",
+  "description": "Create a system that monitors medication supply for elderly users and alerts caregivers or pharmacies when stocks run low using AI.",
+  "keywords": ["Medication Tracking", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5521,
+  "title": "AI-Powered Cognitive Games for Elderly",
+  "domain": "75",
+  "description": "Develop a platform offering games and exercises designed to improve cognitive function in elderly users using AI personalization.",
+  "keywords": ["Cognitive Games", "AI AgeTech", "Elderly Care", "Mental Health"]
+},
+{
+  "id": 5522,
+  "title": "Automatic Daily Health Summary",
+  "domain": "75",
+  "description": "Create a system that generates a daily health summary for elderly users and caregivers, summarizing vitals, medication adherence, and activity using AI.",
+  "keywords": ["Daily Health Summary", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5523,
+  "title": "AI-Powered Voice-Based Health Check",
+  "domain": "75",
+  "description": "Develop a system that analyzes voice patterns to detect early signs of health issues in elderly users using AI.",
+  "keywords": ["Voice Health Check", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5524,
+  "title": "Automatic Emergency Detection via Smart Home Sensors",
+  "domain": "75",
+  "description": "Create a system using smart home sensors to detect falls, unusual movement, or accidents in elderly users and alert caregivers automatically using AI.",
+  "keywords": ["Emergency Detection", "AI AgeTech", "Elderly Care", "Smart Home"]
+},
+{
+  "id": 5525,
+  "title": "AI-Powered Mobility Assistance",
+  "domain": "75",
+  "description": "Develop a platform that provides navigation assistance and mobility suggestions for elderly users using AI based on their physical condition.",
+  "keywords": ["Mobility Assistance", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5526,
+  "title": "Automatic Sleep Quality Analysis",
+  "domain": "75",
+  "description": "Create a wearable system that analyzes sleep quality in elderly users and provides personalized improvement suggestions using AI.",
+  "keywords": ["Sleep Analysis", "AI AgeTech", "Elderly Care", "Wearable Technology"]
+},
+{
+  "id": 5527,
+  "title": "AI-Powered Emergency Prediction System",
+  "domain": "75",
+  "description": "Develop a system that predicts potential emergencies in elderly users based on behavioral patterns, vitals, and history using AI.",
+  "keywords": ["Emergency Prediction", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5528,
+  "title": "Automatic Mental Wellness Monitoring",
+  "domain": "75",
+  "description": "Create a platform that monitors mental wellness indicators like mood and stress levels for elderly users and provides suggestions using AI.",
+  "keywords": ["Mental Wellness", "AI AgeTech", "Elderly Care", "Mental Health"]
+},
+{
+  "id": 5529,
+  "title": "AI-Powered Meal Planning Assistance",
+  "domain": "75",
+  "description": "Develop a system that suggests healthy meals and tracks nutritional intake for elderly users using AI.",
+  "keywords": ["Meal Planning", "AI AgeTech", "Elderly Care", "Nutrition"]
+},
+{
+  "id": 5530,
+  "title": "Automatic Emergency Voice Alert",
+  "domain": "75",
+  "description": "Create a wearable system that detects emergencies and allows elderly users to send voice alerts to caregivers automatically using AI.",
+  "keywords": ["Emergency Voice Alert", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5531,
+  "title": "AI-Powered Personalized Exercise Recommendation",
+  "domain": "75",
+  "description": "Develop a system that suggests personalized exercises for elderly users based on physical capability and health data using AI.",
+  "keywords": ["Exercise Recommendation", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5532,
+  "title": "Automatic Health Risk Assessment",
+  "domain": "75",
+  "description": "Create a platform that analyzes health data to assess risk factors for elderly users and alerts caregivers using AI.",
+  "keywords": ["Health Risk Assessment", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5533,
+  "title": "AI-Powered Companion Robot",
+  "domain": "75",
+  "description": "Develop a robotic companion for elderly users that provides social interaction, reminders, and emergency assistance using AI.",
+  "keywords": ["Companion Robot", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5534,
+  "title": "Automatic Blood Sugar Monitoring",
+  "domain": "75",
+  "description": "Create a system that continuously monitors blood sugar levels for elderly users and provides alerts or recommendations using AI.",
+  "keywords": ["Blood Sugar Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5535,
+  "title": "AI-Powered Hearing Assistance",
+  "domain": "75",
+  "description": "Develop a system that enhances hearing and provides adaptive sound amplification for elderly users using AI.",
+  "keywords": ["Hearing Assistance", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5536,
+  "title": "Automatic Hydration Level Monitoring",
+  "domain": "75",
+  "description": "Create a wearable that tracks hydration levels of elderly users and alerts them or caregivers when levels are low using AI.",
+  "keywords": ["Hydration Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5537,
+  "title": "AI-Powered Medication Side Effect Alert",
+  "domain": "75",
+  "description": "Develop a system that predicts potential side effects from medications for elderly users and provides alerts using AI.",
+  "keywords": ["Medication Side Effect", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5538,
+  "title": "Automatic Vital Signs Trend Analysis",
+  "domain": "75",
+  "description": "Create a platform that analyzes trends in vital signs over time for elderly users and alerts anomalies using AI.",
+  "keywords": ["Vital Signs Trend Analysis", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5539,
+  "title": "AI-Powered Remote Health Consultation",
+  "domain": "75",
+  "description": "Develop a platform for elderly users to receive AI-assisted health consultations remotely.",
+  "keywords": ["Remote Health Consultation", "AI AgeTech", "Elderly Care", "Telemedicine"]
+},
+{
+  "id": 5540,
+  "title": "Automatic Daily Activity Monitoring",
+  "domain": "75",
+  "description": "Create a system that tracks daily activities of elderly users and provides insights for healthy living using AI.",
+  "keywords": ["Activity Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5541,
+  "title": "AI-Powered Personalized Health Coaching",
+  "domain": "75",
+  "description": "Develop a system that provides personalized health advice and coaching for elderly users using AI.",
+  "keywords": ["Health Coaching", "AI AgeTech", "Elderly Care", "Assistive Technology"]
+},
+{
+  "id": 5542,
+  "title": "Automatic Safety Alert for Home Appliances",
+  "domain": "75",
+  "description": "Create a system that monitors home appliances for unsafe usage by elderly users and provides alerts using AI.",
+  "keywords": ["Safety Alert", "AI AgeTech", "Elderly Care", "Smart Home"]
+},
+{
+  "id": 5543,
+  "title": "AI-Powered Cognitive Stimulation Programs",
+  "domain": "75",
+  "description": "Develop AI-driven games and activities that stimulate cognitive function for elderly users.",
+  "keywords": ["Cognitive Stimulation", "AI AgeTech", "Elderly Care", "Mental Health"]
+},
+{
+  "id": 5544,
+  "title": "Automatic Emergency Alert via Wearable Sensors",
+  "domain": "75",
+  "description": "Create a wearable that detects emergencies like falls and abnormal vitals in elderly users and sends alerts to caregivers automatically using AI.",
+  "keywords": ["Emergency Alert", "AI AgeTech", "Elderly Care", "Wearable Technology"]
+},
+{
+  "id": 5545,
+  "title": "AI-Powered Personalized Entertainment for Elderly",
+  "domain": "75",
+  "description": "Develop a system that suggests personalized entertainment and activities for elderly users to enhance well-being using AI.",
+  "keywords": ["Personalized Entertainment", "AI AgeTech", "Elderly Care", "Well-being"]
+},
+{
+  "id": 5546,
+  "title": "Automatic Posture Monitoring",
+  "domain": "75",
+  "description": "Create a system that monitors elderly users' posture and provides corrective suggestions using AI.",
+  "keywords": ["Posture Monitoring", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+{
+  "id": 5547,
+  "title": "AI-Powered Emergency Risk Prediction",
+  "domain": "75",
+  "description": "Develop a platform that predicts potential emergency situations for elderly users and provides proactive alerts using AI.",
+  "keywords": ["Emergency Risk Prediction", "AI AgeTech", "Elderly Care", "Health Monitoring"]
+},
+// domain 76
+{
+  "id": 5548,
+  "title": "AI-Powered Adaptive Learning Platform",
+  "domain": "76",
+  "description": "Develop an AI platform that personalizes learning content based on each child's progress, learning style, and strengths.",
+  "keywords": ["Adaptive Learning", "AI EdTech", "Child Development", "Personalized Education"]
+},
+{
+  "id": 5549,
+  "title": "Automatic Reading Level Assessment",
+  "domain": "76",
+  "description": "Create a system that evaluates children's reading skills in real time and adjusts content difficulty using AI.",
+  "keywords": ["Reading Assessment", "AI EdTech", "Child Development", "Literacy"]
+},
+{
+  "id": 5550,
+  "title": "AI-Powered Math Skill Builder",
+  "domain": "76",
+  "description": "Develop an AI tool that identifies children's math learning gaps and provides personalized exercises and guidance.",
+  "keywords": ["Math Skills", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5551,
+  "title": "Automatic Cognitive Skill Tracker",
+  "domain": "76",
+  "description": "Create a system that tracks children's cognitive development over time and provides insights for parents and educators using AI.",
+  "keywords": ["Cognitive Skills", "AI EdTech", "Child Development", "Progress Tracking"]
+},
+{
+  "id": 5552,
+  "title": "AI-Powered Language Development Assistant",
+  "domain": "76",
+  "description": "Develop a tool that helps children improve language skills through interactive exercises and AI-driven feedback.",
+  "keywords": ["Language Development", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5553,
+  "title": "Automatic Learning Progress Dashboard",
+  "domain": "76",
+  "description": "Create a dashboard that visualizes children's learning progress and recommends next steps for improvement using AI.",
+  "keywords": ["Progress Dashboard", "AI EdTech", "Child Development", "Analytics"]
+},
+{
+  "id": 5554,
+  "title": "AI-Powered Emotional Development Monitor",
+  "domain": "76",
+  "description": "Develop a system that observes children's emotional responses during learning activities and suggests interventions using AI.",
+  "keywords": ["Emotional Development", "AI EdTech", "Child Development", "Behavioral Analytics"]
+},
+{
+  "id": 5555,
+  "title": "Automatic Homework Assistance",
+  "domain": "76",
+  "description": "Create a system that helps children complete homework by providing hints, explanations, and guidance using AI.",
+  "keywords": ["Homework Assistance", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5556,
+  "title": "AI-Powered STEM Learning Games",
+  "domain": "76",
+  "description": "Develop interactive STEM games that adapt difficulty and provide feedback to improve children's problem-solving skills using AI.",
+  "keywords": ["STEM Games", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5557,
+  "title": "Automatic Attention and Focus Tracker",
+  "domain": "76",
+  "description": "Create a system that monitors children's attention and engagement during learning sessions and suggests personalized activities using AI.",
+  "keywords": ["Attention Tracker", "AI EdTech", "Child Development", "Behavior Monitoring"]
+},
+{
+  "id": 5558,
+  "title": "AI-Powered Creativity Booster",
+  "domain": "76",
+  "description": "Develop a platform that encourages creativity in children through AI-guided art, music, and storytelling exercises.",
+  "keywords": ["Creativity Booster", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5559,
+  "title": "Automatic Language Pronunciation Checker",
+  "domain": "76",
+  "description": "Create a system that analyzes children's speech and provides feedback to improve pronunciation and language fluency using AI.",
+  "keywords": ["Pronunciation Checker", "AI EdTech", "Child Development", "Language Skills"]
+},
+{
+  "id": 5560,
+  "title": "AI-Powered Personalized Quiz Generator",
+  "domain": "76",
+  "description": "Develop a platform that generates quizzes tailored to each child's learning level and tracks performance over time using AI.",
+  "keywords": ["Personalized Quiz", "AI EdTech", "Child Development", "Assessment"]
+},
+{
+  "id": 5561,
+  "title": "Automatic Behavior Pattern Recognition",
+  "domain": "76",
+  "description": "Create a system that recognizes patterns in children's behavior during learning and suggests interventions using AI.",
+  "keywords": ["Behavior Pattern Recognition", "AI EdTech", "Child Development", "Analytics"]
+},
+{
+  "id": 5562,
+  "title": "AI-Powered Early Learning Companion",
+  "domain": "76",
+  "description": "Develop a virtual companion that guides preschool children through educational activities personalized by AI.",
+  "keywords": ["Early Learning Companion", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5563,
+  "title": "Automatic Skill Gap Identification",
+  "domain": "76",
+  "description": "Create a system that identifies gaps in children's academic or cognitive skills and recommends personalized interventions using AI.",
+  "keywords": ["Skill Gap Identification", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5564,
+  "title": "AI-Powered Learning Motivation Tracker",
+  "domain": "76",
+  "description": "Develop a system that tracks children's motivation levels during learning and adjusts content or activities accordingly using AI.",
+  "keywords": ["Motivation Tracker", "AI EdTech", "Child Development", "Behavior Monitoring"]
+},
+{
+  "id": 5565,
+  "title": "Automatic Multi-Sensory Learning Enhancer",
+  "domain": "76",
+  "description": "Create a platform that uses visual, auditory, and interactive stimuli to enhance children's learning experience personalized by AI.",
+  "keywords": ["Multi-Sensory Learning", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5566,
+  "title": "AI-Powered Personalized Storytelling",
+  "domain": "76",
+  "description": "Develop a system that generates interactive stories tailored to each child's age, interests, and learning level using AI.",
+  "keywords": ["Personalized Storytelling", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5567,
+  "title": "Automatic Cognitive Game Recommendations",
+  "domain": "76",
+  "description": "Create a platform that recommends educational games to children based on their cognitive development and learning needs using AI.",
+  "keywords": ["Game Recommendations", "AI EdTech", "Child Development", "Cognitive Skills"]
+},
+{
+  "id": 5568,
+  "title": "AI-Powered Social Skill Development",
+  "domain": "76",
+  "description": "Develop a system that helps children improve social skills and emotional intelligence through AI-guided activities.",
+  "keywords": ["Social Skills", "AI EdTech", "Child Development", "Emotional Intelligence"]
+},
+{
+  "id": 5569,
+  "title": "Automatic Handwriting Improvement System",
+  "domain": "76",
+  "description": "Create a tool that analyzes children's handwriting and provides suggestions and exercises for improvement using AI.",
+  "keywords": ["Handwriting Improvement", "AI EdTech", "Child Development", "Writing Skills"]
+},
+{
+  "id": 5570,
+  "title": "AI-Powered Early Math Skill Detection",
+  "domain": "76",
+  "description": "Develop a system that identifies early math skill gaps in children and provides personalized learning exercises using AI.",
+  "keywords": ["Math Skills Detection", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5571,
+  "title": "Automatic Learning Style Detection",
+  "domain": "76",
+  "description": "Create a system that identifies a child's preferred learning style and adapts content delivery accordingly using AI.",
+  "keywords": ["Learning Style Detection", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5572,
+  "title": "AI-Powered Interactive Science Experiments",
+  "domain": "76",
+  "description": "Develop a platform that guides children through interactive science experiments safely with AI-generated instructions.",
+  "keywords": ["Interactive Science", "AI EdTech", "Child Development", "STEM Learning"]
+},
+{
+  "id": 5573,
+  "title": "Automatic Language Comprehension Tracker",
+  "domain": "76",
+  "description": "Create a system that monitors children's comprehension of spoken and written language and provides feedback using AI.",
+  "keywords": ["Language Comprehension", "AI EdTech", "Child Development", "Assessment"]
+},
+{
+  "id": 5574,
+  "title": "AI-Powered Phonics Learning Tool",
+  "domain": "76",
+  "description": "Develop a system that teaches phonics interactively and adapts difficulty according to the child's progress using AI.",
+  "keywords": ["Phonics Learning", "AI EdTech", "Child Development", "Language Skills"]
+},
+{
+  "id": 5575,
+  "title": "Automatic Progress-Based Reward System",
+  "domain": "76",
+  "description": "Create a system that rewards children for learning milestones and progress using AI-driven gamification techniques.",
+  "keywords": ["Reward System", "AI EdTech", "Child Development", "Gamification"]
+},
+{
+  "id": 5576,
+  "title": "AI-Powered Art and Drawing Assistant",
+  "domain": "76",
+  "description": "Develop a platform that guides children in creating digital art and drawings, providing suggestions and corrections using AI.",
+  "keywords": ["Art Assistant", "AI EdTech", "Child Development", "Creativity"]
+},
+{
+  "id": 5577,
+  "title": "Automatic Spelling and Grammar Checker",
+  "domain": "76",
+  "description": "Create a system that helps children improve spelling and grammar in real time during writing exercises using AI.",
+  "keywords": ["Spelling Checker", "AI EdTech", "Child Development", "Writing Skills"]
+},
+{
+  "id": 5578,
+  "title": "AI-Powered Music Learning Platform",
+  "domain": "76",
+  "description": "Develop a system that teaches music theory and instrument skills interactively, adapting lessons based on the child's learning pace using AI.",
+  "keywords": ["Music Learning", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5579,
+  "title": "Automatic Learning Engagement Monitor",
+  "domain": "76",
+  "description": "Create a system that measures children's engagement and interest levels during learning and adapts content using AI.",
+  "keywords": ["Engagement Monitor", "AI EdTech", "Child Development", "Behavior Monitoring"]
+},
+{
+  "id": 5580,
+  "title": "AI-Powered Virtual Classroom Assistant",
+  "domain": "76",
+  "description": "Develop a virtual classroom assistant that provides real-time feedback, guidance, and support to children using AI.",
+  "keywords": ["Virtual Classroom", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5581,
+  "title": "Automatic Peer Interaction Analyzer",
+  "domain": "76",
+  "description": "Create a system that analyzes children's peer interactions in educational settings and suggests interventions using AI.",
+  "keywords": ["Peer Interaction", "AI EdTech", "Child Development", "Social Skills"]
+},
+{
+  "id": 5582,
+  "title": "AI-Powered Personalized Vocabulary Builder",
+  "domain": "76",
+  "description": "Develop a tool that helps children expand their vocabulary with personalized exercises and games using AI.",
+  "keywords": ["Vocabulary Builder", "AI EdTech", "Child Development", "Language Skills"]
+},
+{
+  "id": 5583,
+  "title": "Automatic Problem-Solving Skill Tracker",
+  "domain": "76",
+  "description": "Create a system that monitors children's problem-solving skills over time and suggests exercises using AI.",
+  "keywords": ["Problem-Solving Tracker", "AI EdTech", "Child Development", "Cognitive Skills"]
+},
+{
+  "id": 5584,
+  "title": "AI-Powered Reading Comprehension Games",
+  "domain": "76",
+  "description": "Develop interactive games that improve reading comprehension skills and adapt content difficulty using AI.",
+  "keywords": ["Reading Comprehension", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5585,
+  "title": "Automatic Learning Analytics Dashboard",
+  "domain": "76",
+  "description": "Create a dashboard that visualizes learning progress, strengths, and weaknesses for children using AI analytics.",
+  "keywords": ["Learning Analytics", "AI EdTech", "Child Development", "Progress Tracking"]
+},
+{
+  "id": 5586,
+  "title": "AI-Powered Personalized Science Learning",
+  "domain": "76",
+  "description": "Develop a platform that provides tailored science lessons and experiments for children using AI.",
+  "keywords": ["Science Learning", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5587,
+  "title": "Automatic Attention Span Tracker",
+  "domain": "76",
+  "description": "Create a system that monitors children's attention span during learning activities and adapts content to maintain engagement using AI.",
+  "keywords": ["Attention Span Tracker", "AI EdTech", "Child Development", "Behavior Monitoring"]
+},
+{
+  "id": 5588,
+  "title": "AI-Powered Personalized Homework Planner",
+  "domain": "76",
+  "description": "Develop a tool that creates individualized homework plans and reminders based on each child's learning progress using AI.",
+  "keywords": ["Homework Planner", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5589,
+  "title": "Automatic Interactive Quiz Feedback",
+  "domain": "76",
+  "description": "Create a system that provides real-time, AI-generated feedback for quizzes taken by children, guiding further learning.",
+  "keywords": ["Quiz Feedback", "AI EdTech", "Child Development", "Assessment"]
+},
+{
+  "id": 5590,
+  "title": "AI-Powered Early Literacy Games",
+  "domain": "76",
+  "description": "Develop interactive games that teach early literacy skills to children and adapt difficulty using AI.",
+  "keywords": ["Early Literacy", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5591,
+  "title": "Automatic Interactive Math Tutor",
+  "domain": "76",
+  "description": "Develop a system that provides interactive math exercises and guidance for children, adapting difficulty using AI.",
+  "keywords": ["Math Tutor", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5592,
+  "title": "AI-Powered Personalized Spelling Games",
+  "domain": "76",
+  "description": "Create a platform that helps children improve spelling through adaptive AI-driven games and exercises.",
+  "keywords": ["Spelling Games", "AI EdTech", "Child Development", "Language Skills"]
+},
+{
+  "id": 5593,
+  "title": "Automatic Learning Goal Tracker",
+  "domain": "76",
+  "description": "Develop a system that tracks children's learning goals and progress, providing AI-generated recommendations for improvement.",
+  "keywords": ["Goal Tracker", "AI EdTech", "Child Development", "Progress Monitoring"]
+},
+{
+  "id": 5594,
+  "title": "AI-Powered Interactive Story Creation",
+  "domain": "76",
+  "description": "Create a system that allows children to create their own interactive stories with AI guidance and feedback.",
+  "keywords": ["Story Creation", "AI EdTech", "Child Development", "Creativity"]
+},
+{
+  "id": 5595,
+  "title": "Automatic Critical Thinking Skill Builder",
+  "domain": "76",
+  "description": "Develop a platform that improves children's critical thinking skills using AI-generated problem-solving exercises.",
+  "keywords": ["Critical Thinking", "AI EdTech", "Child Development", "Cognitive Skills"]
+},
+{
+  "id": 5596,
+  "title": "AI-Powered Science Experiment Simulator",
+  "domain": "76",
+  "description": "Create a virtual lab where children can perform science experiments safely and receive AI-driven feedback.",
+  "keywords": ["Science Simulator", "AI EdTech", "Child Development", "STEM Learning"]
+},
+{
+  "id": 5597,
+  "title": "Automatic Learning Style Optimizer",
+  "domain": "76",
+  "description": "Develop a system that identifies each child's preferred learning style and optimizes content delivery accordingly using AI.",
+  "keywords": ["Learning Style Optimizer", "AI EdTech", "Child Development", "Personalized Learning"]
+},
+{
+  "id": 5598,
+  "title": "AI-Powered Early Numeracy Games",
+  "domain": "76",
+  "description": "Create interactive games that develop early numeracy skills in children and adapt difficulty using AI.",
+  "keywords": ["Numeracy Games", "AI EdTech", "Child Development", "Math Skills"]
+},
+{
+  "id": 5599,
+  "title": "Automatic Engagement Feedback System",
+  "domain": "76",
+  "description": "Develop a platform that measures children's engagement in learning activities and provides AI-based recommendations for improvement.",
+  "keywords": ["Engagement Feedback", "AI EdTech", "Child Development", "Behavior Monitoring"]
+},
+{
+  "id": 5600,
+  "title": "AI-Powered Personalized Music Lessons",
+  "domain": "76",
+  "description": "Create a system that delivers music lessons tailored to each child's skill level and learning pace using AI.",
+  "keywords": ["Music Lessons", "AI EdTech", "Child Development", "Interactive Learning"]
+},
+{
+  "id": 5601,
+  "title": "Automatic Cognitive Load Monitoring",
+  "domain": "76",
+  "description": "Develop a system that monitors children's cognitive load during learning and adjusts content difficulty using AI.",
+  "keywords": ["Cognitive Load Monitoring", "AI EdTech", "Child Development", "Learning Optimization"]
+},
+{
+  "id": 5602,
+  "title": "AI-Powered Personalized Art Classes",
+  "domain": "76",
+  "description": "Create a platform that teaches art skills to children with lessons personalized by AI based on their progress.",
+  "keywords": ["Art Classes", "AI EdTech", "Child Development", "Creativity"]
+},
+{
+  "id": 5603,
+  "title": "Automatic Language Fluency Tracker",
+  "domain": "76",
+  "description": "Develop a system that tracks children's progress in language fluency and provides personalized AI-based recommendations.",
+  "keywords": ["Language Fluency", "AI EdTech", "Child Development", "Language Skills"]
+},
+{
+  "id": 5604,
+  "title": "AI-Powered Interactive Science Lessons",
+  "domain": "76",
+  "description": "Create a platform that delivers interactive, AI-personalized science lessons to enhance children's learning experience.",
+  "keywords": ["Interactive Science Lessons", "AI EdTech", "Child Development", "STEM Learning"]
+},
+{
+  "id": 5605,
+  "title": "Automatic Progress-Based Learning Rewards",
+  "domain": "76",
+  "description": "Develop a system that rewards children for reaching learning milestones and achieving goals using AI-driven gamification.",
+  "keywords": ["Learning Rewards", "AI EdTech", "Child Development", "Gamification"]
+},
+{
+  "id": 5606,
+  "title": "AI-Powered Personalized Problem-Solving Games",
+  "domain": "76",
+  "description": "Create interactive games that develop problem-solving skills in children, adapting to their level using AI.",
+  "keywords": ["Problem-Solving Games", "AI EdTech", "Child Development", "Cognitive Skills"]
+},
+// domain 77
+{
+  "id": 5607,
+  "title": "AI-Powered Pet Health Monitoring",
+  "domain": "77",
+  "description": "Develop a wearable device for pets that continuously monitors vital signs, activity levels, and health status using AI.",
+  "keywords": ["Pet Health", "AI PetTech", "Animal Welfare", "Wearable Technology"]
+},
+{
+  "id": 5608,
+  "title": "Automatic Pet Feeding System",
+  "domain": "77",
+  "description": "Create a smart feeder that dispenses the correct food portions for pets at scheduled times and adjusts portions based on activity levels using AI.",
+  "keywords": ["Pet Feeding", "AI PetTech", "Animal Welfare", "Smart Home"]
+},
+{
+  "id": 5609,
+  "title": "AI-Powered Pet Activity Tracker",
+  "domain": "77",
+  "description": "Develop a system that tracks pets' daily activity, exercise, and sleep patterns and provides health insights using AI.",
+  "keywords": ["Activity Tracker", "AI PetTech", "Animal Welfare", "Wearable Technology"]
+},
+{
+  "id": 5610,
+  "title": "Automatic Pet Behavior Analysis",
+  "domain": "77",
+  "description": "Create a platform that monitors and analyzes pet behavior to detect stress, aggression, or illness using AI.",
+  "keywords": ["Behavior Analysis", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5611,
+  "title": "AI-Powered Pet Nutrition Advisor",
+  "domain": "77",
+  "description": "Develop a system that provides personalized diet recommendations for pets based on breed, age, and health using AI.",
+  "keywords": ["Pet Nutrition", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5612,
+  "title": "Automatic Pet Location Tracker",
+  "domain": "77",
+  "description": "Create a GPS-enabled system that tracks pets' locations in real-time and sends alerts if they leave a designated area using AI.",
+  "keywords": ["Pet Location", "AI PetTech", "Animal Welfare", "Tracking"]
+},
+{
+  "id": 5613,
+  "title": "AI-Powered Pet Mood Recognition",
+  "domain": "77",
+  "description": "Develop a system that analyzes pets' vocalizations and body language to assess their mood and stress levels using AI.",
+  "keywords": ["Pet Mood", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5614,
+  "title": "Automatic Pet Vaccination Reminder",
+  "domain": "77",
+  "description": "Create a system that tracks pets' vaccination schedules and sends reminders to owners using AI.",
+  "keywords": ["Vaccination Reminder", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5615,
+  "title": "AI-Powered Pet Socialization Platform",
+  "domain": "77",
+  "description": "Develop a platform that connects pets with others for socialization, playdates, and training using AI recommendations.",
+  "keywords": ["Pet Socialization", "AI PetTech", "Animal Welfare", "Interactive Platform"]
+},
+{
+  "id": 5616,
+  "title": "Automatic Pet Grooming Assistant",
+  "domain": "77",
+  "description": "Create a system that assists in grooming pets, analyzing coat condition, and providing AI-based grooming recommendations.",
+  "keywords": ["Pet Grooming", "AI PetTech", "Animal Welfare", "Care Assistance"]
+},
+{
+  "id": 5617,
+  "title": "AI-Powered Pet Training Assistant",
+  "domain": "77",
+  "description": "Develop a system that provides personalized training exercises and feedback for pets using AI.",
+  "keywords": ["Pet Training", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5618,
+  "title": "Automatic Pet Health Risk Prediction",
+  "domain": "77",
+  "description": "Create a platform that predicts potential health risks in pets based on activity, vitals, and behavior using AI.",
+  "keywords": ["Health Risk Prediction", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5619,
+  "title": "AI-Powered Pet Communication Assistant",
+  "domain": "77",
+  "description": "Develop a system that interprets pet vocalizations and gestures to help owners understand their pets' needs using AI.",
+  "keywords": ["Pet Communication", "AI PetTech", "Animal Welfare", "Behavior Analysis"]
+},
+{
+  "id": 5620,
+  "title": "Automatic Pet Hydration Monitor",
+  "domain": "77",
+  "description": "Create a system that monitors pets' water intake and alerts owners to ensure proper hydration using AI.",
+  "keywords": ["Hydration Monitoring", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5621,
+  "title": "AI-Powered Pet Anxiety Detection",
+  "domain": "77",
+  "description": "Develop a system that identifies signs of anxiety or stress in pets and provides recommendations to owners using AI.",
+  "keywords": ["Anxiety Detection", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5622,
+  "title": "Automatic Pet Exercise Planner",
+  "domain": "77",
+  "description": "Create a system that plans and recommends personalized exercise routines for pets based on their breed, age, and activity using AI.",
+  "keywords": ["Exercise Planner", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5623,
+  "title": "AI-Powered Pet Disease Early Detection",
+  "domain": "77",
+  "description": "Develop a platform that detects early signs of diseases in pets using behavioral and health data with AI.",
+  "keywords": ["Disease Detection", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5624,
+  "title": "Automatic Pet Emergency Alert System",
+  "domain": "77",
+  "description": "Create a system that detects emergencies such as injury or abnormal vitals in pets and sends alerts to owners using AI.",
+  "keywords": ["Emergency Alert", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5625,
+  "title": "AI-Powered Pet Behavior Prediction",
+  "domain": "77",
+  "description": "Develop a system that predicts pets' behavior patterns and potential aggression or anxiety episodes using AI.",
+  "keywords": ["Behavior Prediction", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5626,
+  "title": "Automatic Pet Sleep Monitor",
+  "domain": "77",
+  "description": "Create a system that tracks pets' sleep patterns and provides insights on sleep quality and health using AI.",
+  "keywords": ["Sleep Monitor", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5627,
+  "title": "AI-Powered Pet Obesity Prevention",
+  "domain": "77",
+  "description": "Develop a system that monitors pets' diet and activity to prevent obesity and maintain a healthy lifestyle using AI.",
+  "keywords": ["Obesity Prevention", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5628,
+  "title": "Automatic Pet Training Progress Tracker",
+  "domain": "77",
+  "description": "Create a platform that tracks pets' training progress and provides AI-driven feedback for improvement.",
+  "keywords": ["Training Progress", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5629,
+  "title": "AI-Powered Pet Social Behavior Analysis",
+  "domain": "77",
+  "description": "Develop a system that analyzes pets' social interactions with humans and other animals using AI.",
+  "keywords": ["Social Behavior Analysis", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5630,
+  "title": "Automatic Pet Safety Monitoring",
+  "domain": "77",
+  "description": "Create a system that monitors environmental hazards and potential dangers to pets, alerting owners using AI.",
+  "keywords": ["Safety Monitoring", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5631,
+  "title": "AI-Powered Pet Voice Recognition",
+  "domain": "77",
+  "description": "Develop a system that recognizes pets' vocalizations and translates them into meaningful alerts for owners using AI.",
+  "keywords": ["Voice Recognition", "AI PetTech", "Animal Welfare", "Behavior Analysis"]
+},
+{
+  "id": 5632,
+  "title": "Automatic Pet Emotion Detection via Video",
+  "domain": "77",
+  "description": "Create a platform that analyzes pets' facial expressions and body language through video to detect emotions using AI.",
+  "keywords": ["Emotion Detection", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5633,
+  "title": "AI-Powered Pet Health History Tracker",
+  "domain": "77",
+  "description": "Develop a system that maintains detailed health records of pets and provides AI-based predictive insights for future care.",
+  "keywords": ["Health History", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5634,
+  "title": "Automatic Pet Playtime Recommendations",
+  "domain": "77",
+  "description": "Create a system that suggests interactive play activities for pets based on energy levels, age, and breed using AI.",
+  "keywords": ["Playtime Recommendations", "AI PetTech", "Animal Welfare", "Interactive Learning"]
+},
+{
+  "id": 5635,
+  "title": "AI-Powered Lost Pet Locator",
+  "domain": "77",
+  "description": "Develop a system that tracks missing pets using GPS and AI-based predictive modeling to locate them quickly.",
+  "keywords": ["Lost Pet Locator", "AI PetTech", "Animal Welfare", "Tracking"]
+},
+{
+  "id": 5636,
+  "title": "Automatic Pet Stress Reduction System",
+  "domain": "77",
+  "description": "Create a system that detects pet stress and provides AI-suggested interventions, such as sound therapy or activity changes.",
+  "keywords": ["Stress Reduction", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5637,
+  "title": "AI-Powered Pet Grooming Reminder",
+  "domain": "77",
+  "description": "Develop a system that tracks pets' grooming schedules and sends reminders for baths, nail trimming, and haircuts using AI.",
+  "keywords": ["Grooming Reminder", "AI PetTech", "Animal Welfare", "Care Assistance"]
+},
+{
+  "id": 5638,
+  "title": "Automatic Pet Hydration Recommendation",
+  "domain": "77",
+  "description": "Create a platform that calculates the optimal water intake for pets based on activity, breed, and age using AI.",
+  "keywords": ["Hydration Recommendation", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5639,
+  "title": "AI-Powered Pet Anxiety Relief Companion",
+  "domain": "77",
+  "description": "Develop a robotic or interactive companion that helps reduce pets' anxiety using AI-guided activities and responses.",
+  "keywords": ["Anxiety Relief", "AI PetTech", "Animal Welfare", "Interactive Companion"]
+},
+{
+  "id": 5640,
+  "title": "Automatic Pet Weight Monitoring",
+  "domain": "77",
+  "description": "Create a system that tracks pets' weight and growth trends, providing AI-based alerts for potential health concerns.",
+  "keywords": ["Weight Monitoring", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5641,
+  "title": "AI-Powered Pet Training Reminder System",
+  "domain": "77",
+  "description": "Develop a system that reminds owners of scheduled training sessions and provides AI-driven guidance for improvement.",
+  "keywords": ["Training Reminder", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5642,
+  "title": "Automatic Pet Social Media Analyzer",
+  "domain": "77",
+  "description": "Create a system that analyzes pets' interactions on social platforms and suggests improvements for socialization using AI.",
+  "keywords": ["Social Media Analyzer", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5643,
+  "title": "AI-Powered Pet Environmental Enrichment",
+  "domain": "77",
+  "description": "Develop a platform that suggests toys, games, or activities to enrich pets’ environment based on behavior and preferences using AI.",
+  "keywords": ["Environmental Enrichment", "AI PetTech", "Animal Welfare", "Interactive Learning"]
+},
+{
+  "id": 5644,
+  "title": "Automatic Pet Health Alert via Wearables",
+  "domain": "77",
+  "description": "Create a wearable system that monitors vitals and alerts owners of abnormal readings using AI.",
+  "keywords": ["Health Alert", "AI PetTech", "Animal Welfare", "Wearable Technology"]
+},
+{
+  "id": 5645,
+  "title": "AI-Powered Multi-Pet Management System",
+  "domain": "77",
+  "description": "Develop a platform that manages multiple pets’ schedules, health, and activity using AI recommendations.",
+  "keywords": ["Multi-Pet Management", "AI PetTech", "Animal Welfare", "Care Assistance"]
+},
+{
+  "id": 5646,
+  "title": "Automatic Pet Diet Adjustment System",
+  "domain": "77",
+  "description": "Create a system that adjusts pets' food portions and nutritional content automatically based on health and activity using AI.",
+  "keywords": ["Diet Adjustment", "AI PetTech", "Animal Welfare", "Nutrition"]
+},
+{
+  "id": 5647,
+  "title": "AI-Powered Pet Emergency Response System",
+  "domain": "77",
+  "description": "Develop a platform that predicts potential emergencies and provides alerts and guidance for owners to act quickly using AI.",
+  "keywords": ["Emergency Response", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5648,
+  "title": "Automatic Pet Grooming Quality Analyzer",
+  "domain": "77",
+  "description": "Create a system that assesses the effectiveness of grooming and provides AI-based feedback for improvement.",
+  "keywords": ["Grooming Quality", "AI PetTech", "Animal Welfare", "Care Assistance"]
+},
+{
+  "id": 5649,
+  "title": "AI-Powered Pet Behavior Correction",
+  "domain": "77",
+  "description": "Develop a system that provides corrective suggestions for undesired pet behaviors using AI-based analysis.",
+  "keywords": ["Behavior Correction", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5650,
+  "title": "Automatic Pet Hydration Alert via Smart Bowl",
+  "domain": "77",
+  "description": "Create a smart water bowl that monitors pets' water intake and sends AI-based alerts to owners when hydration is low.",
+  "keywords": ["Hydration Alert", "AI PetTech", "Animal Welfare", "Smart Home"]
+},
+{
+  "id": 5651,
+  "title": "AI-Powered Pet Training Progress Analyzer",
+  "domain": "77",
+  "description": "Develop a system that evaluates pets’ training performance and provides AI-guided recommendations for improvement.",
+  "keywords": ["Training Analyzer", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5652,
+  "title": "Automatic Pet Mood Tracker via Wearables",
+  "domain": "77",
+  "description": "Create a wearable device that tracks pets' mood indicators and provides AI-based insights to owners.",
+  "keywords": ["Mood Tracker", "AI PetTech", "Animal Welfare", "Wearable Technology"]
+},
+{
+  "id": 5653,
+  "title": "AI-Powered Pet Nutrition Optimization",
+  "domain": "77",
+  "description": "Develop a system that recommends optimized diet plans for pets based on health, breed, and activity using AI.",
+  "keywords": ["Nutrition Optimization", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5654,
+  "title": "Automatic Pet Emergency Location System",
+  "domain": "77",
+  "description": "Create a system that identifies pets in distress and provides real-time location to owners or emergency responders using AI.",
+  "keywords": ["Emergency Location", "AI PetTech", "Animal Welfare", "Tracking"]
+},
+{
+  "id": 5655,
+  "title": "AI-Powered Pet Stress Behavior Analyzer",
+  "domain": "77",
+  "description": "Develop a platform that analyzes pets’ stress behaviors and provides actionable AI-based interventions.",
+  "keywords": ["Stress Behavior Analyzer", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5656,
+  "title": "Automatic Pet Activity Suggestion System",
+  "domain": "77",
+  "description": "Create a system that recommends physical and mental activities for pets based on age, breed, and activity history using AI.",
+  "keywords": ["Activity Suggestion", "AI PetTech", "Animal Welfare", "Interactive Learning"]
+},
+{
+  "id": 5657,
+  "title": "AI-Powered Pet Health Forecasting",
+  "domain": "77",
+  "description": "Develop a predictive system that forecasts potential health issues in pets based on behavior and vitals using AI.",
+  "keywords": ["Health Forecasting", "AI PetTech", "Animal Welfare", "Predictive Analytics"]
+},
+{
+  "id": 5658,
+  "title": "Automatic Multi-Pet Behavior Monitor",
+  "domain": "77",
+  "description": "Create a system that monitors interactions and behavior patterns of multiple pets and provides AI-based insights.",
+  "keywords": ["Multi-Pet Monitor", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5659,
+  "title": "AI-Powered Pet Safety Alert System",
+  "domain": "77",
+  "description": "Develop a system that alerts owners about environmental hazards or unsafe conditions for pets using AI.",
+  "keywords": ["Safety Alert", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5660,
+  "title": "Automatic Pet Hydration Optimization",
+  "domain": "77",
+  "description": "Create a system that calculates ideal water intake and adjusts alerts or recommendations for pets using AI.",
+  "keywords": ["Hydration Optimization", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5661,
+  "title": "AI-Powered Pet Emotion-Based Interaction",
+  "domain": "77",
+  "description": "Develop a system that adapts interactions with pets based on their detected emotional state using AI.",
+  "keywords": ["Emotion-Based Interaction", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5662,
+  "title": "Automatic Pet Health Insights Dashboard",
+  "domain": "77",
+  "description": "Create a dashboard that consolidates pets' health, behavior, and activity data and provides AI-based insights.",
+  "keywords": ["Health Insights", "AI PetTech", "Animal Welfare", "Analytics"]
+},
+{
+  "id": 5663,
+  "title": "AI-Powered Pet Behavioral Prediction for Shelter Animals",
+  "domain": "77",
+  "description": "Develop a system to predict behavioral patterns of shelter pets to improve adoption success using AI.",
+  "keywords": ["Behavior Prediction", "AI PetTech", "Animal Welfare", "Shelter Pets"]
+},
+{
+  "id": 5664,
+  "title": "Automatic Pet Vaccination Compliance Tracker",
+  "domain": "77",
+  "description": "Create a system that tracks pets’ vaccinations and ensures compliance, sending reminders using AI.",
+  "keywords": ["Vaccination Tracker", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5665,
+  "title": "AI-Powered Pet Interaction Recommender",
+  "domain": "77",
+  "description": "Develop a system that recommends appropriate play and socialization activities for pets using AI analysis.",
+  "keywords": ["Interaction Recommender", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5666,
+  "title": "Automatic Pet Fitness Level Analyzer",
+  "domain": "77",
+  "description": "Create a system that monitors pets’ fitness levels and suggests personalized exercise routines using AI.",
+  "keywords": ["Fitness Level Analyzer", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5667,
+  "title": "AI-Powered Lost Pet Recovery System",
+  "domain": "77",
+  "description": "Develop a platform that uses AI and GPS to help recover lost pets efficiently.",
+  "keywords": ["Lost Pet Recovery", "AI PetTech", "Animal Welfare", "Tracking"]
+},
+{
+  "id": 5668,
+  "title": "Automatic Pet Anxiety Relief Recommendation",
+  "domain": "77",
+  "description": "Create a system that detects anxiety in pets and recommends AI-guided calming activities or interventions.",
+  "keywords": ["Anxiety Relief", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5669,
+  "title": "AI-Powered Multi-Pet Scheduling Assistant",
+  "domain": "77",
+  "description": "Develop a system that manages schedules, feeding, exercise, and health checks for multiple pets using AI.",
+  "keywords": ["Scheduling Assistant", "AI PetTech", "Animal Welfare", "Care Assistance"]
+},
+{
+  "id": 5670,
+  "title": "Automatic Pet Health Anomaly Detection",
+  "domain": "77",
+  "description": "Create a system that detects unusual behavior or vitals in pets and alerts owners using AI.",
+  "keywords": ["Health Anomaly Detection", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5671,
+  "title": "AI-Powered Pet Behavior Simulation",
+  "domain": "77",
+  "description": "Develop a platform that simulates pet behavior for training, adoption, or care planning using AI.",
+  "keywords": ["Behavior Simulation", "AI PetTech", "Animal Welfare", "Interactive Learning"]
+},
+{
+  "id": 5672,
+  "title": "Automatic Pet Feeding Pattern Analyzer",
+  "domain": "77",
+  "description": "Create a system that analyzes pets' feeding patterns and provides AI-based dietary suggestions.",
+  "keywords": ["Feeding Pattern Analyzer", "AI PetTech", "Animal Welfare", "Nutrition"]
+},
+{
+  "id": 5673,
+  "title": "AI-Powered Shelter Pet Health Monitor",
+  "domain": "77",
+  "description": "Develop a system to monitor the health and behavior of shelter animals, providing AI-based care insights.",
+  "keywords": ["Shelter Pet Health", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5674,
+  "title": "Automatic Pet Mood-Based Play Recommendation",
+  "domain": "77",
+  "description": "Create a platform that recommends play activities based on pets’ detected mood using AI.",
+  "keywords": ["Play Recommendation", "AI PetTech", "Animal Welfare", "Behavior Monitoring"]
+},
+{
+  "id": 5675,
+  "title": "AI-Powered Pet Adoption Matching",
+  "domain": "77",
+  "description": "Develop a system that matches potential adopters with suitable pets based on behavior and needs using AI.",
+  "keywords": ["Adoption Matching", "AI PetTech", "Animal Welfare", "Shelter Pets"]
+},
+{
+  "id": 5676,
+  "title": "Automatic Pet Safety and Hazard Detector",
+  "domain": "77",
+  "description": "Create a system that detects potential hazards in pets’ environment and provides AI-based alerts to owners.",
+  "keywords": ["Safety Detector", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+{
+  "id": 5677,
+  "title": "AI-Powered Multi-Pet Health Analytics",
+  "domain": "77",
+  "description": "Develop a platform that analyzes health and activity data for multiple pets, providing AI-driven insights and recommendations.",
+  "keywords": ["Multi-Pet Analytics", "AI PetTech", "Animal Welfare", "Health Monitoring"]
+},
+// domain 78
+
+
 
 
 
