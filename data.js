@@ -22853,557 +22853,559 @@ const PROBLEMS_DATA = {
   {
     "id": 3322,
     "title": "Smart Contract Vulnerability Analyzer",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a tool that automatically detects vulnerabilities in smart contracts and suggests secure coding practices.",
     "keywords": ["Smart Contracts", "Blockchain Security", "Web3 Applications"]
   },
   {
     "id": 3323,
     "title": "Decentralized Insurance Platform",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a DeFi-based insurance model where claims are handled via smart contracts and governed by DAOs.",
     "keywords": ["DeFi", "Smart Contracts", "DAOs"]
   },
   {
     "id": 3324,
     "title": "NFT-Based Ticketing System",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a blockchain-based ticketing platform using NFTs to prevent fraud and ensure transparent resale markets.",
     "keywords": ["NFTs", "Web3 Applications", "Smart Contracts"]
   },
   {
     "id": 3325,
     "title": "Cross-Chain Asset Transfer Protocol",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Create a cross-chain bridge that enables secure and fast transfer of assets between multiple blockchains.",
     "keywords": ["Cross-chain", "Layer 2", "Distributed Ledger"]
   },
   {
     "id": 3326,
     "title": "Layer 2 Gas Fee Optimizer",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a Layer 2 payment aggregator that automatically selects the most cost-effective network for transactions.",
     "keywords": ["Layer 2", "DeFi", "Token Economics"]
   },
   {
     "id": 3327,
     "title": "Decentralized Autonomous Governance Framework",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a DAO toolkit that enables transparent governance and decision-making using consensus algorithms.",
     "keywords": ["DAOs", "Consensus Algorithms", "Token Economics"]
   },
   {
     "id": 3328,
     "title": "Blockchain Voting System",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a tamper-proof voting system leveraging blockchain security and distributed ledgers.",
     "keywords": ["Blockchain Security", "Distributed Ledger", "Consensus Algorithms"]
   },
   {
     "id": 3329,
     "title": "DeFi Lending Risk Assessment",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Create a system that assesses the risk of DeFi lending pools using smart contract audits and token metrics.",
     "keywords": ["DeFi", "Smart Contracts", "Token Economics"]
   },
   {
     "id": 3330,
     "title": "NFT Intellectual Property Registry",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build an NFT-based IP registry to verify and enforce ownership of digital assets across platforms.",
     "keywords": ["NFTs", "Distributed Ledger", "Web3 Applications"]
   },
   {
     "id": 3331,
     "title": "Cryptocurrency Tax Reporting Tool",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a Web3 application that tracks transactions across multiple wallets to generate tax reports.",
     "keywords": ["Cryptocurrency", "Web3 Applications", "Distributed Ledger"]
   },
   {
     "id": 3332,
     "title": "Consensus Algorithm Simulator",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a simulation environment to compare efficiency, energy use, and security of various consensus algorithms.",
     "keywords": ["Consensus Algorithms", "Distributed Ledger", "Blockchain Security"]
   },
   {
     "id": 3333,
     "title": "Decentralized Prediction Market",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a DeFi-powered prediction market where users trade tokens based on event outcomes.",
     "keywords": ["DeFi", "Token Economics", "Smart Contracts"]
   },
   {
     "id": 3334,
     "title": "NFT Gaming Reward Engine",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a gaming platform that rewards players with NFTs and cryptocurrency via smart contracts.",
     "keywords": ["NFTs", "Cryptocurrency", "Smart Contracts"]
   },
   {
     "id": 3335,
     "title": "Cross-Chain DAO Collaboration",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a protocol that allows DAOs across different blockchains to collaborate securely.",
     "keywords": ["DAOs", "Cross-chain", "Consensus Algorithms"]
   },
   {
     "id": 3336,
     "title": "Blockchain Supply Chain Tracker",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a distributed ledger system that tracks products across the supply chain with smart contract verification.",
     "keywords": ["Distributed Ledger", "Smart Contracts", "Web3 Applications"]
   },
   {
     "id": 3337,
     "title": "Privacy-Preserving Cryptocurrency Wallet",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a cryptocurrency wallet that integrates zero-knowledge proofs for enhanced transaction privacy.",
     "keywords": ["Cryptocurrency", "Blockchain Security", "Web3 Applications"]
   },
   {
     "id": 3338,
     "title": "DeFi Yield Farming Optimizer",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Create an aggregator that reallocates assets across multiple DeFi protocols for maximum yield.",
     "keywords": ["DeFi", "Layer 2", "Token Economics"]
   },
   {
     "id": 3339,
     "title": "NFT Carbon Credit Marketplace",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop an NFT marketplace for trading verifiable carbon credits to encourage sustainable practices.",
     "keywords": ["NFTs", "Web3 Applications", "Token Economics"]
   },
   {
     "id": 3340,
     "title": "Blockchain-Based Digital Identity",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a Web3 identity system that uses distributed ledgers and smart contracts to verify credentials.",
     "keywords": ["Distributed Ledger", "Smart Contracts", "Web3 Applications"]
   },
   {
     "id": 3341,
     "title": "Tokenized Real Estate Investment Platform",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Create a platform where real estate properties are tokenized and traded like cryptocurrency assets.",
     "keywords": ["Token Economics", "Cryptocurrency", "DeFi"]
   },
   {
     "id": 3342,
     "title": "DAO-Powered Philanthropy Network",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a DAO where members vote on funding charitable initiatives using pooled cryptocurrency.",
     "keywords": ["DAOs", "Cryptocurrency", "Smart Contracts"]
   },
   {
     "id": 3343,
     "title": "Layer 2 Micropayment System",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a Layer 2 micropayment channel that enables instant and low-cost digital transactions.",
     "keywords": ["Layer 2", "Cryptocurrency", "Web3 Applications"]
   },
   {
     "id": 3344,
     "title": "Smart Contract Dispute Resolver",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build an arbitration framework where disputes in smart contract execution are resolved via DAOs.",
     "keywords": ["Smart Contracts", "DAOs", "Blockchain Security"]
   },
   {
     "id": 3345,
     "title": "Cross-Chain NFT Lending",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a DeFi system that enables NFT lending and borrowing across multiple blockchain networks.",
     "keywords": ["NFTs", "DeFi", "Cross-chain"]
   },
   {
     "id": 3346,
     "title": "Blockchain Energy Trading Platform",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a peer-to-peer energy trading marketplace powered by smart contracts and token incentives.",
     "keywords": ["Smart Contracts", "Token Economics", "Distributed Ledger"]
   },
   {
     "id": 3347,
     "title": "Blockchain-Based Healthcare Records",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Create a distributed ledger solution to store and share healthcare records securely with patient-controlled access.",
     "keywords": ["Distributed Ledger", "Web3 Applications", "Blockchain Security"]
   },
   {
     "id": 3348,
     "title": "Decentralized Music Royalty Platform",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Build a Web3 marketplace that uses smart contracts to distribute music royalties transparently to artists and producers.",
     "keywords": ["Smart Contracts", "NFTs", "Token Economics"]
   },
   {
     "id": 3349,
     "title": "Cross-Chain Stablecoin Settlement",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Design a protocol for seamless settlement of stablecoins across different blockchain ecosystems.",
     "keywords": ["Cross-chain", "Cryptocurrency", "Layer 2"]
   },
   {
     "id": 3350,
     "title": "DAO-Driven Talent Hiring Marketplace",
-    "domain": "Blockchain / Web3",
+    "domain": "33",
     "description": "Develop a hiring platform governed by DAOs where freelancers are matched with employers using token incentives.",
     "keywords": ["DAOs", "Token Economics", "Web3 Applications"]
   },
+
   //domain-34
     {
         "id": 3351,
         "title": "Automated Bias Detection in Hiring Systems",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a framework to detect and mitigate bias in AI-driven hiring platforms to ensure fairness across gender, race, and socio-economic groups.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
     {
         "id": 3352,
         "title": "Transparent Credit Scoring Models",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design a transparent AI credit scoring model that explains its decision-making process to ensure accountability and fairness in financial systems.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3353,
         "title": "Explainable AI for Healthcare Diagnosis",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build an explainable AI system for medical diagnosis that provides reasoning for predictions, improving trust and patient safety.",
         "keywords": ["Explainable AI", "AI Safety", "Transparency"]
     },
     {
         "id": 3354,
         "title": "Privacy-Preserving AI in Smart Homes",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create AI solutions for smart home devices that ensure user privacy through data anonymization and secure processing.",
         "keywords": ["Privacy", "Responsible AI", "AI Governance"]
     },
     {
         "id": 3355,
         "title": "Bias-Free Chatbot Moderation",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop an AI chatbot moderation system that avoids biased responses and promotes inclusive and respectful communication.",
         "keywords": ["Bias Detection", "Fairness", "Ethical Decision Making"]
     },
     {
         "id": 3356,
         "title": "AI Governance Dashboard",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design a governance dashboard for AI systems that monitors ethical compliance, bias risks, and fairness metrics in real time.",
         "keywords": ["AI Governance", "Transparency", "AI Auditing"]
     },
     {
         "id": 3357,
         "title": "Algorithmic Fairness in Education Platforms",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop AI models for online education that ensure fairness in grading and recommendations regardless of student backgrounds.",
         "keywords": ["Fairness", "Bias Detection", "Responsible AI"]
     },
     {
         "id": 3358,
         "title": "Human Rights Impact Analyzer for AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create a tool that evaluates AI applications against human rights principles to prevent harmful deployment.",
         "keywords": ["Human Rights", "AI Governance", "Ethical Decision Making"]
     },
     {
         "id": 3359,
         "title": "Explainable Sentiment Analysis",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop an explainable sentiment analysis model that justifies its classifications, reducing risks of misinterpretation in social platforms.",
         "keywords": ["Explainable AI", "Transparency", "Responsible AI"]
     },
     {
         "id": 3360,
         "title": "AI Auditing Toolkit",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build a toolkit that automates auditing of AI systems for fairness, transparency, and ethical risks before deployment.",
         "keywords": ["AI Auditing", "Algorithmic Accountability", "AI Governance"]
     },
     {
         "id": 3361,
         "title": "Bias-Free Image Recognition System",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create an image recognition model that reduces racial and gender bias by training on diverse and balanced datasets.",
         "keywords": ["Bias Detection", "Fairness", "AI Safety"]
     },
     {
         "id": 3362,
         "title": "Fairness Metrics Library for AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a reusable library of fairness metrics for AI practitioners to evaluate bias in machine learning models.",
         "keywords": ["Fairness", "Algorithmic Accountability", "Bias Detection"]
     },
     {
         "id": 3363,
         "title": "Ethical Decision-Making in Autonomous Vehicles",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design an ethical decision-making system for self-driving cars to handle edge cases like accident prevention fairly.",
         "keywords": ["Ethical Decision Making", "AI Safety", "Transparency"]
     },
     {
         "id": 3364,
         "title": "AI Safety Simulator for Risk Scenarios",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a simulator that tests AI behavior in safety-critical scenarios, identifying risks of unethical or harmful actions.",
         "keywords": ["AI Safety", "Responsible AI", "AI Auditing"]
     },
     {
         "id": 3365,
         "title": "Privacy-First AI for Wearables",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design AI models for wearable devices that prioritize user privacy while offering health and fitness insights.",
         "keywords": ["Privacy", "Responsible AI", "Ethical Decision Making"]
     },
     {
         "id": 3366,
         "title": "Algorithmic Accountability in Social Media Feeds",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create a system that explains how social media algorithms rank and recommend content to ensure fairness and accountability.",
         "keywords": ["Algorithmic Accountability", "Transparency", "Explainable AI"]
     },
     {
         "id": 3367,
         "title": "Responsible AI Certification Framework",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a certification framework for AI systems that verifies adherence to ethical guidelines before deployment.",
         "keywords": ["Responsible AI", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3368,
         "title": "Explainable Fraud Detection AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build an explainable AI model for fraud detection that ensures fairness in decisions and provides transparent reasoning.",
         "keywords": ["Explainable AI", "Transparency", "Fairness"]
     },
     {
         "id": 3369,
         "title": "AI Whistleblower Protection System",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design a system that enables employees to report unethical AI practices safely while ensuring accountability.",
         "keywords": ["Algorithmic Accountability", "AI Governance", "Human Rights"]
     },
     {
         "id": 3370,
         "title": "Bias-Resistant Voice Assistants",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop AI voice assistants that avoid biased interpretations across accents and dialects, ensuring inclusivity.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
     {
         "id": 3371,
         "title": "AI Safety Standards for Robotics",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create standardized AI safety protocols for robotics systems to prevent harmful actions in human environments.",
         "keywords": ["AI Safety", "AI Governance", "Responsible AI"]
     },
     {
         "id": 3372,
         "title": "Transparent Loan Approval AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design an AI loan approval system that explains decisions clearly to applicants, ensuring fairness and accountability.",
         "keywords": ["Transparency", "Fairness", "Explainable AI"]
     },
     {
         "id": 3373,
         "title": "Ethical AI Recommendation Engine",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build a recommendation engine that balances personalization with ethical standards, avoiding harmful echo chambers.",
         "keywords": ["Ethical Decision Making", "Responsible AI", "Transparency"]
     },
     {
         "id": 3374,
         "title": "Bias Detection in Judicial AI Tools",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a system to detect and mitigate bias in AI tools used for sentencing or parole decisions in courts.",
         "keywords": ["Bias Detection", "Human Rights", "Fairness"]
     },
     {
         "id": 3375,
         "title": "AI Auditing Framework for Startups",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create a lightweight AI auditing framework tailored for startups to ensure responsible AI development practices.",
         "keywords": ["AI Auditing", "Algorithmic Accountability", "Responsible AI"]
     },
     {
         "id": 3376,
         "title": "Ethical ChatGPT Guardrails",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design a guardrail system for large language models that prevents harmful, biased, or unethical outputs.",
         "keywords": ["Ethical Decision Making", "AI Safety", "Bias Detection"]
     },
     {
         "id": 3377,
         "title": "Privacy-Respecting AI in Retail",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop AI-driven retail personalization systems that respect customer privacy and provide transparent data usage policies.",
         "keywords": ["Privacy", "Transparency", "Responsible AI"]
     },
     {
         "id": 3378,
         "title": "AI Governance Policy Generator",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build a tool that helps organizations generate AI governance policies aligned with ethical and legal standards.",
         "keywords": ["AI Governance", "Algorithmic Accountability", "Human Rights"]
     },
     {
         "id": 3379,
         "title": "Fairness-Aware Predictive Policing AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create predictive policing systems that minimize bias and promote fairness in law enforcement applications.",
         "keywords": ["Fairness", "Bias Detection", "Ethical Decision Making"]
     },
     {
         "id": 3380,
         "title": "AI Safety Testing Suite",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a testing suite that evaluates AI models for safety, robustness, and adherence to ethical principles.",
         "keywords": ["AI Safety", "AI Auditing", "Responsible AI"]
     },
     {
         "id": 3381,
         "title": "Transparent Content Moderation AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design an AI content moderation system that explains moderation decisions to users while maintaining fairness.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3382,
         "title": "AI Ethics Risk Analyzer",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create a tool that analyzes AI projects for potential ethical risks, providing mitigation strategies before launch.",
         "keywords": ["Ethical Decision Making", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3383,
         "title": "Bias-Free Facial Recognition",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a facial recognition system that eliminates demographic biases and ensures human rights compliance.",
         "keywords": ["Bias Detection", "Fairness", "Human Rights"]
     },
     {
         "id": 3384,
         "title": "Responsible AI in Disaster Response",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design AI tools for disaster management that prioritize human safety and fairness in resource allocation.",
         "keywords": ["Responsible AI", "AI Safety", "Ethical Decision Making"]
     },
     {
         "id": 3385,
         "title": "Algorithmic Transparency in Insurance Claims",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop an AI insurance claims system that clearly explains approval and rejection decisions to policyholders.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3386,
         "title": "AI Ethics Compliance Checker",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build an AI ethics compliance checker that evaluates projects against responsible AI development principles.",
         "keywords": ["Responsible AI", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3387,
         "title": "Bias-Aware Healthcare AI",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create AI healthcare models that detect and correct biases to ensure equitable treatment outcomes across populations.",
         "keywords": ["Bias Detection", "Fairness", "AI Safety"]
     },
     {
         "id": 3388,
         "title": "Explainable AI in Legal Document Review",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design explainable AI models that assist in legal document review while maintaining transparency and accountability.",
         "keywords": ["Explainable AI", "Transparency", "Algorithmic Accountability"]
     },
     {
         "id": 3389,
         "title": "Human-Centered AI Governance Platform",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a governance platform that includes diverse human perspectives in shaping ethical AI policies.",
         "keywords": ["AI Governance", "Human Rights", "Responsible AI"]
     },
     {
         "id": 3390,
         "title": "AI Safety Sandbox",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build a sandbox environment to test AI systems in controlled settings for ethical compliance and safety.",
         "keywords": ["AI Safety", "AI Auditing", "Responsible AI"]
     },
     {
         "id": 3391,
         "title": "Fairness in AI-Powered Lending",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create lending AI models that evaluate loan applications fairly and avoid discrimination against vulnerable groups.",
         "keywords": ["Fairness", "Bias Detection", "Algorithmic Accountability"]
     },
     {
         "id": 3392,
         "title": "Ethical AI for Mental Health Chatbots",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop mental health chatbot AI that ensures responsible advice delivery, protects privacy, and avoids bias.",
         "keywords": ["Ethical Decision Making", "Privacy", "Responsible AI"]
     },
     {
         "id": 3393,
         "title": "Algorithmic Accountability in Job Matching",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design a job-matching AI system that ensures fair opportunities for candidates through transparent ranking methods.",
         "keywords": ["Algorithmic Accountability", "Fairness", "Transparency"]
     },
     {
         "id": 3394,
         "title": "Responsible AI in Public Policy",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create AI systems to support policy-making with fairness and transparency, ensuring decisions respect human rights.",
         "keywords": ["Responsible AI", "Transparency", "Human Rights"]
     },
     {
         "id": 3395,
         "title": "Bias Detection in AI-Powered Advertising",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop a system to detect bias in targeted advertising to prevent discriminatory ad delivery.",
         "keywords": ["Bias Detection", "Fairness", "Algorithmic Accountability"]
     },
     {
         "id": 3396,
         "title": "Ethical AI in Criminal Investigations",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design ethical frameworks for AI tools used in criminal investigations to ensure fairness and prevent misuse.",
         "keywords": ["Ethical Decision Making", "Human Rights", "Responsible AI"]
     },
     {
         "id": 3397,
         "title": "AI Governance Knowledge Hub",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Build an online hub that collects best practices, policies, and guidelines for AI governance worldwide.",
         "keywords": ["AI Governance", "Transparency", "Responsible AI"]
     },
     {
         "id": 3398,
         "title": "Explainable AI in Financial Forecasting",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Create explainable forecasting models that clarify decision processes for investors and regulators.",
         "keywords": ["Explainable AI", "Transparency", "Algorithmic Accountability"]
     },
     {
         "id": 3399,
         "title": "AI Safety in Military Applications",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Develop ethical guardrails for AI military applications to ensure compliance with human rights and global safety standards.",
         "keywords": ["AI Safety", "Human Rights", "AI Governance"]
     },
     {
         "id": 3400,
         "title": "Bias-Free AI Translation Systems",
-        "domain": "Artificial Intelligence Ethics",
+        "domain": 34,
         "description": "Design translation AI that avoids cultural or gender biases, ensuring inclusivity in multilingual communication.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
+
     // domain 35
   {
     "id": 3401,
