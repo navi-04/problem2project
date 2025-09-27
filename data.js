@@ -30253,6 +30253,294 @@ const PROBLEMS_DATA = {
     "keywords": ["Investment Advisor", "AI", "Sustainable Finance"]
   },
   //domain 55
+  
+    {
+        "id": 4411,
+        "title": "AI-Powered Intrusion Detection System",
+        "domain": "55",
+        "description": "Develop an AI-driven system to detect network intrusions in real-time using pattern recognition and anomaly detection.",
+        "keywords": ["Intrusion Detection", "AI", "Network Security"]
+    },
+    {
+        "id": 4412,
+        "title": "Zero Trust Network Implementation Framework",
+        "domain": "55",
+        "description": "Create a framework for implementing zero trust security across enterprise networks with automated access control policies.",
+        "keywords": ["Zero Trust", "Access Control", "Network Security"]
+    },
+    {
+        "id": 4413,
+        "title": "Automated Firewall Policy Optimization",
+        "domain": "55",
+        "description": "Design a system that analyzes network traffic and automatically updates firewall rules to optimize security and performance.",
+        "keywords": ["Firewall", "Automation", "Network Optimization"]
+    },
+    {
+        "id": 4414,
+        "title": "Blockchain-Based Secure Network Logging",
+        "domain": "55",
+        "description": "Develop a blockchain-enabled system to securely log network events for tamper-proof auditing.",
+        "keywords": ["Blockchain", "Network Logging", "Security"]
+    },
+    {
+        "id": 4415,
+        "title": "IoT Network Security Monitoring",
+        "domain": "55",
+        "description": "Create a monitoring system for IoT networks that detects unusual device behavior and potential security threats.",
+        "keywords": ["IoT Security", "Network Monitoring", "Threat Detection"]
+    },
+    {
+        "id": 4416,
+        "title": "Automated Phishing Detection for Corporate Networks",
+        "domain": "55",
+        "description": "Build an AI-based system to detect phishing attempts in emails and network communications within enterprises.",
+        "keywords": ["Phishing Detection", "AI", "Corporate Security"]
+    },
+    {
+        "id": 4417,
+        "title": "Network Forensics Automation Tool",
+        "domain": "55",
+        "description": "Develop a tool that automates the collection and analysis of network data for forensic investigations.",
+        "keywords": ["Network Forensics", "Automation", "Cybersecurity"]
+    },
+    {
+        "id": 4418,
+        "title": "Adaptive VPN Management System",
+        "domain": "55",
+        "description": "Create a system that dynamically adjusts VPN settings based on network conditions and threat levels for optimized security.",
+        "keywords": ["VPN", "Adaptive Security", "Network Management"]
+    },
+    {
+        "id": 4419,
+        "title": "Wireless Network Threat Detection",
+        "domain": "55",
+        "description": "Develop a real-time monitoring system to detect threats and vulnerabilities in wireless networks.",
+        "keywords": ["Wireless Security", "Threat Detection", "Network Monitoring"]
+    },
+    {
+        "id": 4420,
+        "title": "SDN Security Controller",
+        "domain": "55",
+        "description": "Design a software-defined networking controller that enforces security policies and detects anomalies in the network.",
+        "keywords": ["SDN", "Network Security", "Anomaly Detection"]
+    },
+    {
+        "id": 4421,
+        "title": "Automated Patch Management System",
+        "domain": "55",
+        "description": "Create a system that automatically identifies and applies security patches across networked devices.",
+        "keywords": ["Patch Management", "Automation", "Network Security"]
+    },
+    {
+        "id": 4422,
+        "title": "Insider Threat Detection Platform",
+        "domain": "55",
+        "description": "Develop a platform that monitors network activity to detect and mitigate insider threats in real-time.",
+        "keywords": ["Insider Threat", "Network Monitoring", "Security"]
+    },
+    {
+        "id": 4423,
+        "title": "AI-Powered DDoS Mitigation System",
+        "domain": "55",
+        "description": "Design an AI system that detects and mitigates DDoS attacks on enterprise networks proactively.",
+        "keywords": ["DDoS Mitigation", "AI", "Network Security"]
+    },
+    {
+        "id": 4424,
+        "title": "Network Access Control via Behavioral Analytics",
+        "domain": "55",
+        "description": "Build a system that grants or restricts network access based on user and device behavioral patterns.",
+        "keywords": ["Behavioral Analytics", "Access Control", "Network Security"]
+    },
+    {
+        "id": 4425,
+        "title": "Threat Intelligence Sharing Platform",
+        "domain": "55",
+        "description": "Develop a secure platform to share real-time threat intelligence among organizations to improve collective network defense.",
+        "keywords": ["Threat Intelligence", "Collaboration", "Network Security"]
+    },
+    {
+        "id": 4426,
+        "title": "Secure Cloud Network Gateway",
+        "domain": "55",
+        "description": "Create a cloud network gateway that ensures secure communication between cloud services and enterprise networks.",
+        "keywords": ["Cloud Security", "Network Gateway", "Secure Communication"]
+    },
+    {
+        "id": 4427,
+        "title": "AI-Enhanced Malware Detection in Networks",
+        "domain": "55",
+        "description": "Build an AI-driven system to detect malware spread within corporate networks and isolate infected devices.",
+        "keywords": ["Malware Detection", "AI", "Network Security"]
+    },
+    {
+        "id": 4428,
+        "title": "Automated Network Risk Assessment",
+        "domain": "55",
+        "description": "Develop a system that continuously evaluates network vulnerabilities and provides prioritized risk reports.",
+        "keywords": ["Risk Assessment", "Automation", "Network Security"]
+    },
+    {
+        "id": 4429,
+        "title": "Encrypted IoT Communication Protocol",
+        "domain": "55",
+        "description": "Design a lightweight encryption protocol for secure communication between IoT devices and gateways.",
+        "keywords": ["IoT Security", "Encryption", "Network Protocols"]
+    },
+    {
+        "id": 4430,
+        "title": "Network Traffic Anomaly Detection",
+        "domain": "55",
+        "description": "Create a system to detect unusual patterns in network traffic that may indicate security breaches.",
+        "keywords": ["Traffic Analysis", "Anomaly Detection", "Network Security"]
+    },
+    {
+        "id": 4431,
+        "title": "AI-Powered Security Policy Advisor",
+        "domain": "55",
+        "description": "Develop an AI system that recommends optimal security policies based on network topology and historical incidents.",
+        "keywords": ["AI Advisor", "Security Policies", "Network Security"]
+    },
+    {
+        "id": 4432,
+        "title": "Automated Incident Response System",
+        "domain": "55",
+        "description": "Build a system that automatically responds to network security incidents, reducing human intervention time.",
+        "keywords": ["Incident Response", "Automation", "Network Security"]
+    },
+    {
+        "id": 4433,
+        "title": "AI-Based Network Traffic Classification",
+        "domain": "55",
+        "description": "Design an AI system to classify and prioritize network traffic to enhance security and performance.",
+        "keywords": ["Traffic Classification", "AI", "Network Security"]
+    },
+    {
+        "id": 4434,
+        "title": "Adaptive Wireless Intrusion Prevention",
+        "domain": "55",
+        "description": "Develop a system that dynamically adjusts wireless intrusion prevention rules based on threat intelligence.",
+        "keywords": ["Wireless Security", "Intrusion Prevention", "Adaptive System"]
+    },
+    {
+        "id": 4435,
+        "title": "Network Security Visualization Dashboard",
+        "domain": "55",
+        "description": "Create a dashboard that visualizes real-time network security status and threat metrics for administrators.",
+        "keywords": ["Dashboard", "Network Security", "Visualization"]
+    },
+    {
+        "id": 4436,
+        "title": "AI-Powered Rogue Device Detection",
+        "domain": "55",
+        "description": "Build a system to detect unauthorized devices on the network using AI and behavioral analytics.",
+        "keywords": ["Rogue Device Detection", "AI", "Network Security"]
+    },
+    {
+        "id": 4437,
+        "title": "Firewall Rule Conflict Resolver",
+        "domain": "55",
+        "description": "Develop a tool to automatically detect and resolve conflicting firewall rules across network segments.",
+        "keywords": ["Firewall", "Rule Conflict", "Automation"]
+    },
+    {
+        "id": 4438,
+        "title": "Network Honeypot Automation",
+        "domain": "55",
+        "description": "Create an automated honeypot system to lure attackers and collect intelligence on attack strategies.",
+        "keywords": ["Honeypot", "Automation", "Network Security"]
+    },
+    {
+        "id": 4439,
+        "title": "AI-Driven Cloud Security Monitoring",
+        "domain": "55",
+        "description": "Develop an AI system to monitor and detect anomalies in cloud-based network environments.",
+        "keywords": ["Cloud Security", "AI", "Monitoring"]
+    },
+    {
+        "id": 4440,
+        "title": "Dynamic Network Access Management",
+        "domain": "55",
+        "description": "Create a system that dynamically grants or revokes network access based on device health and compliance.",
+        "keywords": ["Access Management", "Dynamic Policies", "Network Security"]
+    },
+    {
+        "id": 4441,
+        "title": "IoT Device Behavior Profiling",
+        "domain": "55",
+        "description": "Develop a system to create behavioral profiles of IoT devices for anomaly detection and network security.",
+        "keywords": ["IoT Security", "Behavioral Profiling", "Network Security"]
+    },
+    {
+        "id": 4442,
+        "title": "AI-Powered Threat Hunting Platform",
+        "domain": "55",
+        "description": "Design a platform that uses AI to proactively search for vulnerabilities and potential threats in networks.",
+        "keywords": ["Threat Hunting", "AI", "Network Security"]
+    },
+    {
+        "id": 4443,
+        "title": "Automated Network Compliance Auditor",
+        "domain": "55",
+        "description": "Create a tool to automatically audit network configurations against compliance standards and generate reports.",
+        "keywords": ["Compliance", "Automation", "Network Security"]
+    },
+    {
+        "id": 4444,
+        "title": "Secure SD-WAN Management System",
+        "domain": "55",
+        "description": "Develop a secure SD-WAN management platform that ensures encrypted communication and monitors threats.",
+        "keywords": ["SD-WAN", "Security", "Network Management"]
+    },
+    {
+        "id": 4445,
+        "title": "AI-Based Malware Propagation Simulator",
+        "domain": "55",
+        "description": "Build an AI tool that simulates malware propagation in networks to identify weak points and mitigation strategies.",
+        "keywords": ["Malware Simulation", "AI", "Network Security"]
+    },
+    {
+        "id": 4446,
+        "title": "Secure Remote Access Management",
+        "domain": "55",
+        "description": "Create a system to manage and secure remote access for employees, ensuring endpoint compliance.",
+        "keywords": ["Remote Access", "Security", "Network Management"]
+    },
+    {
+        "id": 4447,
+        "title": "AI-Powered Network Threat Forecasting",
+        "domain": "55",
+        "description": "Develop a forecasting system using AI to predict future network threats based on historical data.",
+        "keywords": ["Threat Forecasting", "AI", "Network Security"]
+    },
+    {
+        "id": 4448,
+        "title": "Dynamic VPN Traffic Analyzer",
+        "domain": "55",
+        "description": "Create a tool to analyze VPN traffic in real-time and detect anomalies or potential breaches.",
+        "keywords": ["VPN Analysis", "Traffic Monitoring", "Network Security"]
+    },
+    {
+        "id": 4449,
+        "title": "Network Security Risk Prioritization Tool",
+        "domain": "55",
+        "description": "Develop a tool that prioritizes network security risks and recommends mitigation actions automatically.",
+        "keywords": ["Risk Prioritization", "Automation", "Network Security"]
+    },
+    {
+        "id": 4450,
+        "title": "Secure Multi-Tenant Network Architecture",
+        "domain": "55",
+        "description": "Design a multi-tenant network architecture that ensures isolation and security between tenants.",
+        "keywords": ["Multi-Tenant", "Network Architecture", "Security"]
+    },
+    {
+        "id": 4451,
+        "title": "AI-Based Network Configuration Advisor",
+        "domain": "55",
+        "description": "Develop an AI system that recommends optimal network configurations to enhance security and performance.",
+        "keywords": ["AI Advisor", "Network Configuration", "Security"]
+    },
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
