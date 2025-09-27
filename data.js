@@ -32725,6 +32725,408 @@ const PROBLEMS_DATA = {
         "description": "Simulate industrial air emissions and monitor air quality to optimize pollution control.",
         "keywords": ["Digital Twins", "Air Quality", "Industrial Monitoring"]
     },
+    //domain 62
+    
+    {
+        "id": 4762,
+        "title": "Edge AI for Real-Time Traffic Monitoring",
+        "domain": "62",
+        "description": "Develop edge computing solutions to process traffic camera data in real-time to reduce latency and congestion.",
+        "keywords": ["Edge Computing", "Traffic Monitoring", "Real-Time Analytics"]
+    },
+    {
+        "id": 4763,
+        "title": "Fog Computing for Smart Factories",
+        "domain": "62",
+        "description": "Implement fog computing to optimize resource allocation and real-time monitoring in industrial production lines.",
+        "keywords": ["Fog Computing", "Smart Factory", "Industrial IoT"]
+    },
+    {
+        "id": 4764,
+        "title": "Edge Computing for Autonomous Drones",
+        "domain": "62",
+        "description": "Use edge devices on drones to process navigation and object detection data locally for low-latency decisions.",
+        "keywords": ["Edge Computing", "Drones", "Autonomous Navigation"]
+    },
+    {
+        "id": 4765,
+        "title": "Fog-Based Smart Agriculture Monitoring",
+        "domain": "62",
+        "description": "Deploy fog nodes to process soil and crop sensor data locally to optimize irrigation and fertilizer application.",
+        "keywords": ["Fog Computing", "Smart Agriculture", "IoT Sensors"]
+    },
+    {
+        "id": 4766,
+        "title": "Edge Computing for Predictive Maintenance",
+        "domain": "62",
+        "description": "Analyze machinery data at the edge to predict failures and schedule maintenance efficiently.",
+        "keywords": ["Edge Computing", "Predictive Maintenance", "Industrial IoT"]
+    },
+    {
+        "id": 4767,
+        "title": "Fog-Based Real-Time Health Monitoring",
+        "domain": "62",
+        "description": "Use edge/fog devices to analyze patient vitals locally for faster detection of anomalies.",
+        "keywords": ["Fog Computing", "Healthcare", "Real-Time Monitoring"]
+    },
+    {
+        "id": 4768,
+        "title": "Edge Video Analytics for Security",
+        "domain": "62",
+        "description": "Implement edge video processing to detect suspicious activities in real-time for enhanced security.",
+        "keywords": ["Edge Computing", "Video Analytics", "Security"]
+    },
+    {
+        "id": 4769,
+        "title": "Fog Computing for Smart Home Automation",
+        "domain": "62",
+        "description": "Use fog nodes to process smart home device data locally, reducing latency and cloud dependency.",
+        "keywords": ["Fog Computing", "Smart Home", "IoT"]
+    },
+    {
+        "id": 4770,
+        "title": "Edge Computing for Autonomous Vehicles",
+        "domain": "62",
+        "description": "Process vehicle sensor data on edge devices to enable real-time decision-making and navigation.",
+        "keywords": ["Edge Computing", "Autonomous Vehicles", "Real-Time Processing"]
+    },
+    {
+        "id": 4771,
+        "title": "Fog Computing for Disaster Management",
+        "domain": "62",
+        "description": "Deploy fog nodes in disaster-prone areas to process sensor and satellite data locally for fast response.",
+        "keywords": ["Fog Computing", "Disaster Management", "Real-Time Analytics"]
+    },
+    {
+        "id": 4772,
+        "title": "Edge AI for Retail Analytics",
+        "domain": "62",
+        "description": "Use edge devices to analyze customer behavior in stores for real-time product recommendations.",
+        "keywords": ["Edge Computing", "Retail Analytics", "Edge AI"]
+    },
+    {
+        "id": 4773,
+        "title": "Fog Computing for Industrial Robotics",
+        "domain": "62",
+        "description": "Process robot sensor data locally using fog nodes to reduce latency in manufacturing environments.",
+        "keywords": ["Fog Computing", "Industrial Robotics", "Edge Analytics"]
+    },
+    {
+        "id": 4774,
+        "title": "Edge-Based Environmental Monitoring",
+        "domain": "62",
+        "description": "Deploy edge devices for local processing of air and water quality sensors to provide instant alerts.",
+        "keywords": ["Edge Computing", "Environmental Monitoring", "IoT Sensors"]
+    },
+    {
+        "id": 4775,
+        "title": "Fog Computing for Smart Traffic Lights",
+        "domain": "62",
+        "description": "Use fog computing to process traffic sensor data locally and optimize signal timings dynamically.",
+        "keywords": ["Fog Computing", "Smart City", "Traffic Optimization"]
+    },
+    {
+        "id": 4776,
+        "title": "Edge Computing for Wearable Health Devices",
+        "domain": "62",
+        "description": "Analyze wearable health sensor data locally to provide immediate feedback and alerts to users.",
+        "keywords": ["Edge Computing", "Wearables", "Health Monitoring"]
+    },
+    {
+        "id": 4777,
+        "title": "Fog-Based Smart Grid Management",
+        "domain": "62",
+        "description": "Use fog nodes to process energy consumption data locally for real-time grid optimization.",
+        "keywords": ["Fog Computing", "Smart Grid", "Energy Management"]
+    },
+    {
+        "id": 4778,
+        "title": "Edge AI for Predictive Retail Inventory",
+        "domain": "62",
+        "description": "Analyze sales and stock data locally at store edges to predict inventory needs in real-time.",
+        "keywords": ["Edge Computing", "Retail", "Inventory Management"]
+    },
+    {
+        "id": 4779,
+        "title": "Fog-Based Public Transport Monitoring",
+        "domain": "62",
+        "description": "Process bus and train sensor data locally to optimize routes and schedules dynamically.",
+        "keywords": ["Fog Computing", "Public Transport", "Edge Analytics"]
+    },
+    {
+        "id": 4780,
+        "title": "Edge-Based Industrial Process Control",
+        "domain": "62",
+        "description": "Use edge devices to monitor and control manufacturing processes for low-latency automation.",
+        "keywords": ["Edge Computing", "Process Control", "Industrial IoT"]
+    },
+    {
+        "id": 4781,
+        "title": "Fog Computing for Smart Parking Management",
+        "domain": "62",
+        "description": "Deploy fog nodes to process parking sensor data locally and provide real-time availability updates.",
+        "keywords": ["Fog Computing", "Smart Parking", "IoT"]
+    },
+    {
+        "id": 4782,
+        "title": "Edge AI for Video Surveillance Analytics",
+        "domain": "62",
+        "description": "Process CCTV feeds locally with edge AI to detect anomalies and alert security in real-time.",
+        "keywords": ["Edge Computing", "Video Analytics", "Security"]
+    },
+    {
+        "id": 4783,
+        "title": "Fog-Based Energy Consumption Optimization",
+        "domain": "62",
+        "description": "Use fog nodes to process building energy usage data locally for immediate optimization decisions.",
+        "keywords": ["Fog Computing", "Energy Optimization", "Edge Analytics"]
+    },
+    {
+        "id": 4784,
+        "title": "Edge Computing for Autonomous Shipping",
+        "domain": "62",
+        "description": "Process real-time data from cargo ships on edge devices for navigation and safety decisions.",
+        "keywords": ["Edge Computing", "Maritime", "Autonomous Navigation"]
+    },
+    {
+        "id": 4785,
+        "title": "Fog Computing for Industrial Quality Control",
+        "domain": "62",
+        "description": "Analyze production line sensor data locally using fog nodes to detect defects and improve quality.",
+        "keywords": ["Fog Computing", "Quality Control", "Edge Analytics"]
+    },
+    {
+        "id": 4786,
+        "title": "Edge-Based Smart Home Energy Management",
+        "domain": "62",
+        "description": "Use edge devices to optimize energy usage in smart homes based on real-time consumption data.",
+        "keywords": ["Edge Computing", "Smart Home", "Energy Management"]
+    },
+    {
+        "id": 4787,
+        "title": "Fog Computing for Autonomous Warehouse Robots",
+        "domain": "62",
+        "description": "Deploy fog nodes to process robot navigation and task data locally in warehouse environments.",
+        "keywords": ["Fog Computing", "Warehouse Robotics", "Edge Analytics"]
+    },
+    {
+        "id": 4788,
+        "title": "Edge Computing for Agricultural Drone Analytics",
+        "domain": "62",
+        "description": "Process drone imagery and sensor data locally on farms to monitor crop health in real-time.",
+        "keywords": ["Edge Computing", "Agriculture", "Drones"]
+    },
+    {
+        "id": 4789,
+        "title": "Fog-Based Industrial Asset Tracking",
+        "domain": "62",
+        "description": "Monitor industrial assets using fog nodes to provide real-time location and condition updates.",
+        "keywords": ["Fog Computing", "Asset Tracking", "Industrial IoT"]
+    },
+    {
+        "id": 4790,
+        "title": "Edge AI for Emergency Response",
+        "domain": "62",
+        "description": "Use edge devices to process emergency sensor and video data for immediate response actions.",
+        "keywords": ["Edge Computing", "Emergency Response", "Real-Time Analytics"]
+    },
+    {
+        "id": 4791,
+        "title": "Fog Computing for Smart Street Lighting",
+        "domain": "62",
+        "description": "Optimize street lighting using fog nodes to process sensor data locally and adjust lighting dynamically.",
+        "keywords": ["Fog Computing", "Smart City", "Street Lighting"]
+    },
+    {
+        "id": 4792,
+        "title": "Edge Computing for Industrial Safety Monitoring",
+        "domain": "62",
+        "description": "Monitor hazardous zones in factories using edge devices for immediate safety alerts.",
+        "keywords": ["Edge Computing", "Safety Monitoring", "Industrial IoT"]
+    },
+    {
+        "id": 4793,
+        "title": "Fog-Based Smart Water Management",
+        "domain": "62",
+        "description": "Process water sensor data locally to optimize irrigation and water supply systems.",
+        "keywords": ["Fog Computing", "Water Management", "IoT"]
+    },
+    {
+        "id": 4794,
+        "title": "Edge Computing for Fleet Vehicle Diagnostics",
+        "domain": "62",
+        "description": "Analyze vehicle sensor data on edge devices to detect maintenance needs in real-time.",
+        "keywords": ["Edge Computing", "Fleet Management", "Vehicle Diagnostics"]
+    },
+    {
+        "id": 4795,
+        "title": "Fog Computing for Smart Building HVAC Optimization",
+        "domain": "62",
+        "description": "Use fog nodes to process building HVAC data locally and optimize energy consumption and comfort.",
+        "keywords": ["Fog Computing", "Smart Building", "HVAC"]
+    },
+    {
+        "id": 4796,
+        "title": "Edge AI for Retail Theft Detection",
+        "domain": "62",
+        "description": "Implement edge AI on surveillance cameras to detect theft and suspicious activity instantly.",
+        "keywords": ["Edge Computing", "Retail Security", "AI Analytics"]
+    },
+    {
+        "id": 4797,
+        "title": "Fog Computing for Smart Airport Operations",
+        "domain": "62",
+        "description": "Process airport sensor data locally to optimize passenger flow, baggage handling, and flight operations.",
+        "keywords": ["Fog Computing", "Airport Management", "Edge Analytics"]
+    },
+    {
+        "id": 4798,
+        "title": "Edge Computing for Remote Industrial Sites",
+        "domain": "62",
+        "description": "Deploy edge devices in remote locations to process industrial data locally and reduce latency.",
+        "keywords": ["Edge Computing", "Remote Monitoring", "Industrial IoT"]
+    },
+    {
+        "id": 4799,
+        "title": "Fog Computing for Smart Meter Data Analysis",
+        "domain": "62",
+        "description": "Process energy meter data locally using fog nodes for real-time billing and consumption insights.",
+        "keywords": ["Fog Computing", "Smart Meters", "Energy Analytics"]
+    },
+    {
+        "id": 4800,
+        "title": "Edge AI for Wildlife Monitoring",
+        "domain": "62",
+        "description": "Deploy edge devices to analyze wildlife camera feeds locally to detect poaching or track animal movement.",
+        "keywords": ["Edge Computing", "Wildlife Monitoring", "AI Analytics"]
+    },
+    {
+        "id": 4801,
+        "title": "Fog Computing for Autonomous Bus Systems",
+        "domain": "62",
+        "description": "Use fog nodes to process bus navigation and passenger data locally for real-time route optimization.",
+        "keywords": ["Fog Computing", "Autonomous Vehicles", "Public Transport"]
+    },
+    {
+        "id": 4802,
+        "title": "Edge Computing for Smart Factory Quality Control",
+        "domain": "62",
+        "description": "Analyze production line images and sensor data locally on edge devices to detect defects instantly.",
+        "keywords": ["Edge Computing", "Smart Factory", "Quality Control"]
+    },
+    {
+        "id": 4803,
+        "title": "Fog Computing for Real-Time Sports Analytics",
+        "domain": "62",
+        "description": "Process sports sensor and video data locally using fog nodes for instant performance insights.",
+        "keywords": ["Fog Computing", "Sports Analytics", "Edge Computing"]
+    },
+    {
+        "id": 4804,
+        "title": "Edge AI for Retail Customer Sentiment Analysis",
+        "domain": "62",
+        "description": "Analyze customer interactions in stores locally to gauge sentiment and improve service in real-time.",
+        "keywords": ["Edge Computing", "Retail Analytics", "Customer Experience"]
+    },
+    {
+        "id": 4805,
+        "title": "Fog Computing for Industrial Waste Monitoring",
+        "domain": "62",
+        "description": "Monitor and process waste disposal data locally using fog nodes to ensure compliance and efficiency.",
+        "keywords": ["Fog Computing", "Industrial Waste", "Edge Analytics"]
+    },
+    {
+        "id": 4806,
+        "title": "Edge Computing for Smart Campus Energy Monitoring",
+        "domain": "62",
+        "description": "Process energy usage data in campus buildings locally using edge devices for optimized consumption.",
+        "keywords": ["Edge Computing", "Smart Campus", "Energy Analytics"]
+    },
+    {
+        "id": 4807,
+        "title": "Fog-Based Autonomous Delivery Vehicle Optimization",
+        "domain": "62",
+        "description": "Use fog computing to process navigation and route optimization data for autonomous delivery vehicles.",
+        "keywords": ["Fog Computing", "Autonomous Vehicles", "Delivery Optimization"]
+    },
+    {
+        "id": 4808,
+        "title": "Edge Computing for Industrial Equipment Health Monitoring",
+        "domain": "62",
+        "description": "Analyze industrial machinery sensor data locally to detect anomalies and predict maintenance needs.",
+        "keywords": ["Edge Computing", "Industrial IoT", "Predictive Maintenance"]
+    },
+    {
+        "id": 4809,
+        "title": "Fog Computing for Smart City Waste Management",
+        "domain": "62",
+        "description": "Process city-wide waste collection and sensor data locally to optimize garbage truck routes and schedules.",
+        "keywords": ["Fog Computing", "Smart City", "Waste Management"]
+    },
+    {
+        "id": 4810,
+        "title": "Edge AI for Traffic Accident Detection",
+        "domain": "62",
+        "description": "Use edge devices to analyze live traffic camera feeds and detect accidents in real-time.",
+        "keywords": ["Edge Computing", "Traffic Safety", "Real-Time Analytics"]
+    },
+    {
+        "id": 4811,
+        "title": "Fog Computing for Renewable Energy Microgrid Optimization",
+        "domain": "62",
+        "description": "Simulate and optimize microgrid energy distribution locally using fog nodes for efficiency.",
+        "keywords": ["Fog Computing", "Renewable Energy", "Microgrid"]
+    },
+    {
+        "id": 4812,
+        "title": "Edge Computing for Autonomous Agricultural Vehicles",
+        "domain": "62",
+        "description": "Use edge devices on tractors and harvesters to process sensor data locally for autonomous operation.",
+        "keywords": ["Edge Computing", "Autonomous Vehicles", "Smart Agriculture"]
+    },
+    {
+        "id": 4813,
+        "title": "Fog Computing for Smart Water Leak Detection",
+        "domain": "62",
+        "description": "Process sensor data from water pipelines locally to detect leaks and prevent water loss.",
+        "keywords": ["Fog Computing", "Water Management", "IoT Sensors"]
+    },
+    {
+        "id": 4814,
+        "title": "Edge AI for Industrial Video Surveillance",
+        "domain": "62",
+        "description": "Analyze factory camera feeds locally to detect safety violations or anomalies instantly.",
+        "keywords": ["Edge Computing", "Industrial Safety", "Video Analytics"]
+    },
+    {
+        "id": 4815,
+        "title": "Fog Computing for Intelligent Public Lighting",
+        "domain": "62",
+        "description": "Process street lighting and occupancy data locally to optimize energy usage in cities.",
+        "keywords": ["Fog Computing", "Smart City", "Lighting Optimization"]
+    },
+    {
+        "id": 4816,
+        "title": "Edge Computing for Retail Checkout Queue Management",
+        "domain": "62",
+        "description": "Analyze real-time queue lengths locally to dynamically allocate checkout counters and reduce wait time.",
+        "keywords": ["Edge Computing", "Retail Analytics", "Queue Management"]
+    },
+    {
+        "id": 4817,
+        "title": "Fog Computing for Industrial Safety Compliance",
+        "domain": "62",
+        "description": "Monitor factory conditions locally using fog nodes to ensure safety compliance and reduce hazards.",
+        "keywords": ["Fog Computing", "Industrial Safety", "Edge Analytics"]
+    },
+    {
+        "id": 4818,
+        "title": "Edge AI for Smart Logistics Fleet Optimization",
+        "domain": "62",
+        "description": "Use edge devices to analyze vehicle data locally for real-time fleet route and load optimization.",
+        "keywords": ["Edge Computing", "Fleet Management", "Logistics Optimization"]
+    },
+    //domain 63
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
