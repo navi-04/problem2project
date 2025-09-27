@@ -30929,6 +30929,388 @@ const PROBLEMS_DATA = {
         "keywords": ["Error Highlighting", "Context Awareness", "User Guidance"]
     },
     //domain 57
+    
+    {
+        "id": 4507,
+        "title": "AR-Based Industrial Maintenance Training",
+        "domain": "57",
+        "description": "Develop AR systems to provide real-time guidance and interactive training for industrial equipment maintenance.",
+        "keywords": ["AR Applications", "Industrial Training", "Interactive Guidance"]
+    },
+    {
+        "id": 4508,
+        "title": "Spatial Mapping for Indoor AR Navigation",
+        "domain": "57",
+        "description": "Create AR solutions that generate accurate indoor spatial maps for navigation in complex buildings.",
+        "keywords": ["Spatial Mapping", "Indoor Navigation", "AR"]
+    },
+    {
+        "id": 4509,
+        "title": "AR Object Recognition for Retail",
+        "domain": "57",
+        "description": "Develop AR systems to identify and overlay product information in retail environments for enhanced shopping experience.",
+        "keywords": ["AR", "Object Recognition", "Retail Experience"]
+    },
+    {
+        "id": 4510,
+        "title": "Collaborative AR Workspace",
+        "domain": "57",
+        "description": "Design an AR platform allowing multiple users to collaborate on virtual objects in real time.",
+        "keywords": ["Collaborative AR", "Virtual Objects", "Spatial Computing"]
+    },
+    {
+        "id": 4511,
+        "title": "AR-Assisted Surgery Planning",
+        "domain": "57",
+        "description": "Implement AR systems that help surgeons visualize patient anatomy and simulate procedures pre-operatively.",
+        "keywords": ["AR Applications", "Surgery Planning", "Medical Visualization"]
+    },
+    {
+        "id": 4512,
+        "title": "AR-Based Historical Site Tours",
+        "domain": "57",
+        "description": "Create immersive AR experiences for tourists to explore historical sites with contextual overlays.",
+        "keywords": ["AR Tourism", "Historical Sites", "Immersive Experience"]
+    },
+    {
+        "id": 4513,
+        "title": "AR-Enhanced Educational Labs",
+        "domain": "57",
+        "description": "Develop AR applications for science labs to provide interactive simulations and visualizations for students.",
+        "keywords": ["AR Education", "Interactive Labs", "Simulation"]
+    },
+    {
+        "id": 4514,
+        "title": "AR-Based Furniture Placement Tool",
+        "domain": "57",
+        "description": "Design AR apps that allow users to visualize and place furniture virtually in their homes before purchase.",
+        "keywords": ["AR", "Interior Design", "Virtual Placement"]
+    },
+    {
+        "id": 4515,
+        "title": "AR Sign Language Translator",
+        "domain": "57",
+        "description": "Develop AR tools that translate sign language gestures into text or speech in real-time.",
+        "keywords": ["AR", "Sign Language", "Accessibility"]
+    },
+    {
+        "id": 4516,
+        "title": "AR-Assisted Vehicle Repair Guidance",
+        "domain": "57",
+        "description": "Create AR applications for automotive repair, overlaying step-by-step instructions on vehicle components.",
+        "keywords": ["AR", "Vehicle Repair", "Interactive Guidance"]
+    },
+    {
+        "id": 4517,
+        "title": "AR-Based Fitness Coaching",
+        "domain": "57",
+        "description": "Develop AR apps to monitor users' movements and provide real-time feedback for exercise and posture correction.",
+        "keywords": ["AR Fitness", "Motion Tracking", "Health Monitoring"]
+    },
+    {
+        "id": 4518,
+        "title": "AR Gamified Learning Platform",
+        "domain": "57",
+        "description": "Create AR platforms that integrate gamification with educational content to enhance engagement.",
+        "keywords": ["AR Education", "Gamification", "Interactive Learning"]
+    },
+    {
+        "id": 4519,
+        "title": "AR-Enhanced Product Assembly Instructions",
+        "domain": "57",
+        "description": "Design AR solutions to guide users visually through complex product assembly tasks.",
+        "keywords": ["AR", "Assembly Guidance", "Interactive Instructions"]
+    },
+    {
+        "id": 4520,
+        "title": "AR Emergency Evacuation Guidance",
+        "domain": "57",
+        "description": "Develop AR systems that provide real-time evacuation directions in emergency situations.",
+        "keywords": ["AR", "Safety", "Emergency Guidance"]
+    },
+    {
+        "id": 4521,
+        "title": "AR-Based Museum Interaction",
+        "domain": "57",
+        "description": "Implement AR to provide visitors with interactive content and multimedia overlays in museums.",
+        "keywords": ["AR", "Museums", "Interactive Media"]
+    },
+    {
+        "id": 4522,
+        "title": "AR Navigation for Warehouses",
+        "domain": "57",
+        "description": "Create AR applications to guide warehouse staff in locating and managing inventory efficiently.",
+        "keywords": ["AR", "Warehouse Management", "Spatial Navigation"]
+    },
+    {
+        "id": 4523,
+        "title": "AR-Driven Remote Assistance",
+        "domain": "57",
+        "description": "Develop AR platforms to allow experts to provide live guidance remotely by annotating real-world objects.",
+        "keywords": ["AR", "Remote Assistance", "Interactive Guidance"]
+    },
+    {
+        "id": 4524,
+        "title": "AR-Based Vehicle HUD Enhancements",
+        "domain": "57",
+        "description": "Design AR heads-up displays that overlay navigation, safety, and performance data for drivers.",
+        "keywords": ["AR", "Heads-Up Display", "Automotive"]
+    },
+    {
+        "id": 4525,
+        "title": "AR Fashion Try-On App",
+        "domain": "57",
+        "description": "Create AR applications allowing users to virtually try on clothing and accessories in real-time.",
+        "keywords": ["AR", "Fashion", "Virtual Try-On"]
+    },
+    {
+        "id": 4526,
+        "title": "AR-Based Maintenance of Industrial Equipment",
+        "domain": "57",
+        "description": "Develop AR solutions that overlay instructions and safety information for industrial machinery maintenance.",
+        "keywords": ["AR", "Industrial Equipment", "Maintenance"]
+    },
+    {
+        "id": 4527,
+        "title": "AR Wayfinding for Smart Cities",
+        "domain": "57",
+        "description": "Implement AR navigation systems to guide pedestrians and commuters in urban environments.",
+        "keywords": ["AR", "Wayfinding", "Smart Cities"]
+    },
+    {
+        "id": 4528,
+        "title": "AR-Assisted Retail Shelf Management",
+        "domain": "57",
+        "description": "Design AR tools for retailers to optimize product placement and inventory checks on shelves.",
+        "keywords": ["AR", "Retail", "Inventory Management"]
+    },
+    {
+        "id": 4529,
+        "title": "AR Virtual Meetings with Spatial Context",
+        "domain": "57",
+        "description": "Create AR platforms that enable virtual meetings with spatially aware avatars and shared objects.",
+        "keywords": ["AR", "Virtual Meetings", "Spatial Computing"]
+    },
+    {
+        "id": 4530,
+        "title": "AR Wildlife Education",
+        "domain": "57",
+        "description": "Develop AR apps for interactive wildlife education, showing virtual animals in their habitats.",
+        "keywords": ["AR", "Wildlife Education", "Interactive Learning"]
+    },
+    {
+        "id": 4531,
+        "title": "AR-Based Navigation for the Visually Impaired",
+        "domain": "57",
+        "description": "Create AR systems that provide audio and haptic guidance for visually impaired users navigating spaces.",
+        "keywords": ["AR", "Accessibility", "Navigation"]
+    },
+    {
+        "id": 4532,
+        "title": "AR Language Learning Applications",
+        "domain": "57",
+        "description": "Design AR apps that overlay translations, pronunciation, and interactive exercises for language learning.",
+        "keywords": ["AR", "Language Learning", "Education"]
+    },
+    {
+        "id": 4533,
+        "title": "AR-Based Construction Site Safety Monitoring",
+        "domain": "57",
+        "description": "Develop AR applications that detect hazards and provide real-time safety alerts on construction sites.",
+        "keywords": ["AR", "Safety Monitoring", "Construction"]
+    },
+    {
+        "id": 4534,
+        "title": "AR-Enhanced Storytelling",
+        "domain": "57",
+        "description": "Implement AR to create interactive storytelling experiences with overlays and animations.",
+        "keywords": ["AR", "Storytelling", "Interactive Media"]
+    },
+    {
+        "id": 4535,
+        "title": "AR-Assisted Navigation for Large Venues",
+        "domain": "57",
+        "description": "Create AR apps that guide visitors in large stadiums, airports, or convention centers.",
+        "keywords": ["AR", "Navigation", "Large Venues"]
+    },
+    {
+        "id": 4536,
+        "title": "AR Furniture Customization Tool",
+        "domain": "57",
+        "description": "Develop AR applications that allow users to customize furniture virtually and see real-time changes.",
+        "keywords": ["AR", "Furniture", "Customization"]
+    },
+    {
+        "id": 4537,
+        "title": "AR-Assisted Disaster Response",
+        "domain": "57",
+        "description": "Implement AR platforms that assist first responders with real-time situational information in emergencies.",
+        "keywords": ["AR", "Disaster Response", "Emergency Management"]
+    },
+    {
+        "id": 4538,
+        "title": "AR-Based Cultural Heritage Preservation",
+        "domain": "57",
+        "description": "Develop AR apps that visualize and preserve cultural heritage artifacts for educational and tourism purposes.",
+        "keywords": ["AR", "Cultural Heritage", "Education"]
+    },
+    {
+        "id": 4539,
+        "title": "AR Navigation in Hospitals",
+        "domain": "57",
+        "description": "Create AR solutions to guide patients and staff efficiently within hospital facilities.",
+        "keywords": ["AR", "Healthcare", "Navigation"]
+    },
+    {
+        "id": 4540,
+        "title": "AR-Based Interactive Language Dictionaries",
+        "domain": "57",
+        "description": "Develop AR apps where users can point at objects to see translations and learn pronunciation in real time.",
+        "keywords": ["AR", "Language Learning", "Interactive Education"]
+    },
+    {
+        "id": 4541,
+        "title": "AR Safety Training for Hazardous Workplaces",
+        "domain": "57",
+        "description": "Implement AR simulations for training employees in hazardous environments safely.",
+        "keywords": ["AR", "Safety Training", "Industrial"]
+    },
+    {
+        "id": 4542,
+        "title": "AR Sports Performance Analysis",
+        "domain": "57",
+        "description": "Design AR tools to analyze athletes' movements and provide real-time feedback for improvement.",
+        "keywords": ["AR", "Sports", "Performance Analysis"]
+    },
+    {
+        "id": 4543,
+        "title": "AR-Assisted Home Repair Guidance",
+        "domain": "57",
+        "description": "Create AR apps that guide homeowners through repair tasks with interactive overlays and instructions.",
+        "keywords": ["AR", "Home Repair", "Guidance"]
+    },
+    {
+        "id": 4544,
+        "title": "AR Virtual Classroom Collaboration",
+        "domain": "57",
+        "description": "Develop AR platforms for students and teachers to interact with 3D objects collaboratively in virtual classrooms.",
+        "keywords": ["AR", "Education", "Collaboration"]
+    },
+    {
+        "id": 4545,
+        "title": "AR-Based Fitness Gamification",
+        "domain": "57",
+        "description": "Create AR apps that gamify fitness activities to increase user engagement and motivation.",
+        "keywords": ["AR", "Fitness", "Gamification"]
+    },
+    {
+        "id": 4546,
+        "title": "AR-Assisted Interior Design Workflow",
+        "domain": "57",
+        "description": "Develop AR systems that allow designers to overlay and adjust interior layouts in real-time.",
+        "keywords": ["AR", "Interior Design", "Workflow Optimization"]
+    },
+    
+    {
+        "id": 4547,
+        "title": "AR-Based Real-Time Crowd Monitoring",
+        "domain": "57",
+        "description": "Develop AR systems to visualize crowd density in public spaces for safety and management.",
+        "keywords": ["AR", "Crowd Monitoring", "Public Safety"]
+    },
+    {
+        "id": 4548,
+        "title": "AR-Enhanced Navigation for Shopping Malls",
+        "domain": "57",
+        "description": "Create AR apps to guide visitors efficiently through shopping malls with interactive maps and offers.",
+        "keywords": ["AR", "Navigation", "Retail Experience"]
+    },
+    {
+        "id": 4549,
+        "title": "AR-Based Language Pronunciation Feedback",
+        "domain": "57",
+        "description": "Design AR applications that visually show mouth and tongue positioning for correct pronunciation.",
+        "keywords": ["AR", "Language Learning", "Pronunciation"]
+    },
+    {
+        "id": 4550,
+        "title": "AR-Powered Event Planning Visualization",
+        "domain": "57",
+        "description": "Develop AR tools to visualize event layouts, seating arrangements, and decorations interactively.",
+        "keywords": ["AR", "Event Planning", "Visualization"]
+    },
+    {
+        "id": 4551,
+        "title": "AR-Based Remote Industrial Inspections",
+        "domain": "57",
+        "description": "Create AR solutions that enable experts to inspect industrial sites remotely with real-time overlays.",
+        "keywords": ["AR", "Remote Inspection", "Industrial"]
+    },
+    {
+        "id": 4552,
+        "title": "AR-Assisted Emergency Medical Procedures",
+        "domain": "57",
+        "description": "Develop AR apps to guide paramedics with step-by-step instructions during critical procedures.",
+        "keywords": ["AR", "Medical Assistance", "Emergency"]
+    },
+    {
+        "id": 4553,
+        "title": "AR-Powered Interactive Storybooks",
+        "domain": "57",
+        "description": "Create AR storybooks that overlay animations and interactive elements to enhance children’s learning.",
+        "keywords": ["AR", "Interactive Storytelling", "Education"]
+    },
+    {
+        "id": 4554,
+        "title": "AR-Based Assembly Line Assistance",
+        "domain": "57",
+        "description": "Design AR systems to guide workers during complex assembly tasks in manufacturing environments.",
+        "keywords": ["AR", "Assembly Line", "Guidance"]
+    },
+    {
+        "id": 4555,
+        "title": "AR Navigation for Museums and Exhibits",
+        "domain": "57",
+        "description": "Develop AR apps to enhance visitor experience in museums with interactive exhibit information.",
+        "keywords": ["AR", "Museum Navigation", "Interactive Exhibits"]
+    },
+    {
+        "id": 4556,
+        "title": "AR-Powered Remote Technical Support",
+        "domain": "57",
+        "description": "Create AR tools for remote technical support, overlaying instructions and guidance on user devices.",
+        "keywords": ["AR", "Remote Support", "Technical Assistance"]
+    },
+    {
+        "id": 4557,
+        "title": "AR-Based Real Estate Property Visualization",
+        "domain": "57",
+        "description": "Develop AR apps for real estate to allow users to visualize and customize property layouts virtually.",
+        "keywords": ["AR", "Real Estate", "Property Visualization"]
+    },
+    {
+        "id": 4558,
+        "title": "AR-Enhanced Language Immersion",
+        "domain": "57",
+        "description": "Design AR applications that immerse users in foreign language environments for contextual learning.",
+        "keywords": ["AR", "Language Learning", "Immersion"]
+    },
+    {
+        "id": 4559,
+        "title": "AR-Based Disaster Simulation Training",
+        "domain": "57",
+        "description": "Create AR simulations for training personnel in emergency response and disaster management.",
+        "keywords": ["AR", "Disaster Training", "Simulation"]
+    },
+    {
+        "id": 4560,
+        "title": "AR-Assisted Vehicle Maintenance Tutorials",
+        "domain": "57",
+        "description": "Develop AR apps to guide vehicle owners through maintenance and repair tasks interactively.",
+        "keywords": ["AR", "Vehicle Maintenance", "Tutorials"]
+    },
+    //domain 58
+    
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
