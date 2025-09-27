@@ -29499,7 +29499,7 @@ const PROBLEMS_DATA = {
         "description": "Create a recommendation engine that guides analysts on schema design, indexing, and query strategies with explainable justifications.",
         "keywords": ["Data Warehousing", "Query Optimization", "Explainable AI"]
     },
-//domain 53
+    //domain 53
 
     {
         "id": 4304,
@@ -30541,6 +30541,394 @@ const PROBLEMS_DATA = {
         "description": "Develop an AI system that recommends optimal network configurations to enhance security and performance.",
         "keywords": ["AI Advisor", "Network Configuration", "Security"]
     },
+    //domain 56
+    
+    {
+        "id": 4452,
+        "title": "Adaptive UI for Accessibility",
+        "domain": "56",
+        "description": "Develop a user interface that dynamically adapts to the needs of users with different accessibility requirements.",
+        "keywords": ["Accessibility", "Adaptive UI", "User Experience"]
+    },
+    {
+        "id": 4453,
+        "title": "Gesture Recognition for Smart Devices",
+        "domain": "56",
+        "description": "Create a gesture recognition system that allows intuitive interaction with smart devices and applications.",
+        "keywords": ["Gesture Recognition", "Interaction Design", "Smart Devices"]
+    },
+    {
+        "id": 4454,
+        "title": "Emotion-Aware Interfaces",
+        "domain": "56",
+        "description": "Design interfaces that detect user emotions through facial expressions or voice and adapt content accordingly.",
+        "keywords": ["Emotion Recognition", "Adaptive Interface", "User Experience"]
+    },
+    {
+        "id": 4455,
+        "title": "AI-Driven Personalized UI",
+        "domain": "56",
+        "description": "Develop an AI system that personalizes user interface layouts based on individual user behavior and preferences.",
+        "keywords": ["AI", "Personalization", "User Interface"]
+    },
+    {
+        "id": 4456,
+        "title": "Multi-Modal Interaction System",
+        "domain": "56",
+        "description": "Create an HCI system that integrates voice, touch, and gestures for seamless multi-modal interaction.",
+        "keywords": ["Multi-Modal Interaction", "User Experience", "HCI"]
+    },
+    {
+        "id": 4457,
+        "title": "Usability Testing Automation Tool",
+        "domain": "56",
+        "description": "Develop a tool that automates usability testing and provides actionable insights to improve interface design.",
+        "keywords": ["Usability Testing", "Automation", "Interface Evaluation"]
+    },
+    {
+        "id": 4458,
+        "title": "AI-Powered Interface Recommendation",
+        "domain": "56",
+        "description": "Build an AI system that recommends interface modifications based on user engagement and interaction data.",
+        "keywords": ["AI", "Interface Recommendation", "User Engagement"]
+    },
+    {
+        "id": 4459,
+        "title": "Virtual Reality User Interaction Analysis",
+        "domain": "56",
+        "description": "Design a system to analyze user interactions within VR environments to optimize usability and immersion.",
+        "keywords": ["VR", "User Interaction", "Usability Analysis"]
+    },
+    {
+        "id": 4460,
+        "title": "Adaptive Learning Interfaces",
+        "domain": "56",
+        "description": "Create interfaces for educational software that adapt in real-time to the learner's progress and understanding.",
+        "keywords": ["Adaptive Learning", "User Interface", "Education Technology"]
+    },
+    {
+        "id": 4461,
+        "title": "Cognitive Load Reduction UI",
+        "domain": "56",
+        "description": "Develop interface designs that minimize cognitive load and improve user comprehension and efficiency.",
+        "keywords": ["Cognitive Load", "UI Design", "User Experience"]
+    },
+    {
+        "id": 4462,
+        "title": "Voice-Controlled Interface Optimization",
+        "domain": "56",
+        "description": "Create systems that optimize voice-controlled interfaces for accuracy and responsiveness across contexts.",
+        "keywords": ["Voice Interface", "Optimization", "HCI"]
+    },
+    {
+        "id": 4463,
+        "title": "Predictive Text UI Enhancements",
+        "domain": "56",
+        "description": "Develop predictive text interfaces that adapt to user typing patterns and context for enhanced efficiency.",
+        "keywords": ["Predictive Text", "User Interface", "AI"]
+    },
+    {
+        "id": 4464,
+        "title": "Spatial Interaction in AR Interfaces",
+        "domain": "56",
+        "description": "Design augmented reality interfaces that utilize spatial interaction to improve user engagement and task performance.",
+        "keywords": ["AR", "Spatial Interaction", "User Experience"]
+    },
+    {
+        "id": 4465,
+        "title": "AI-Assisted Interface Personalization",
+        "domain": "56",
+        "description": "Build AI algorithms that dynamically personalize interface layouts and elements based on usage patterns.",
+        "keywords": ["AI", "Personalization", "Interface Design"]
+    },
+    {
+        "id": 4466,
+        "title": "Accessible Navigation System for Apps",
+        "domain": "56",
+        "description": "Develop navigation aids within mobile or web apps to help users with disabilities interact efficiently.",
+        "keywords": ["Accessibility", "Navigation", "User Experience"]
+    },
+    {
+        "id": 4467,
+        "title": "Haptic Feedback Enhancement for Touch Interfaces",
+        "domain": "56",
+        "description": "Design haptic feedback systems that improve tactile interaction and user satisfaction on touch devices.",
+        "keywords": ["Haptic Feedback", "Touch Interface", "HCI"]
+    },
+    {
+        "id": 4468,
+        "title": "Context-Aware Mobile UI",
+        "domain": "56",
+        "description": "Create mobile interfaces that adapt dynamically to context such as location, activity, or device orientation.",
+        "keywords": ["Context-Aware UI", "Mobile UX", "Adaptive Interfaces"]
+    },
+    {
+        "id": 4469,
+        "title": "Gesture-Based Navigation for Web Applications",
+        "domain": "56",
+        "description": "Implement gesture recognition to navigate web applications and enhance user interaction without traditional controls.",
+        "keywords": ["Gesture Recognition", "Web UX", "Interaction Design"]
+    },
+    {
+        "id": 4470,
+        "title": "AI-Powered Accessibility Testing",
+        "domain": "56",
+        "description": "Develop AI tools that automatically test software for accessibility compliance and suggest improvements.",
+        "keywords": ["Accessibility Testing", "AI", "HCI"]
+    },
+    {
+        "id": 4471,
+        "title": "Adaptive Dashboard for User Roles",
+        "domain": "56",
+        "description": "Design dashboards that automatically adapt interface elements based on user roles and permissions.",
+        "keywords": ["Adaptive UI", "Dashboards", "User Roles"]
+    },
+    {
+        "id": 4472,
+        "title": "Virtual Assistant Interface Optimization",
+        "domain": "56",
+        "description": "Create intelligent virtual assistant interfaces that adapt conversation style and content based on user interaction.",
+        "keywords": ["Virtual Assistant", "Interface Design", "AI"]
+    },
+    {
+        "id": 4473,
+        "title": "Multi-Language Adaptive UI",
+        "domain": "56",
+        "description": "Develop user interfaces that automatically adapt language and layout based on user preferences and locale.",
+        "keywords": ["Localization", "Adaptive UI", "User Experience"]
+    },
+    {
+        "id": 4474,
+        "title": "Predictive Interaction Hints",
+        "domain": "56",
+        "description": "Create systems that provide predictive hints to guide users through complex tasks in applications.",
+        "keywords": ["Predictive UI", "Interaction Design", "HCI"]
+    },
+    {
+        "id": 4475,
+        "title": "Eye-Tracking-Based Interface Adaptation",
+        "domain": "56",
+        "description": "Design interfaces that adapt content and layout dynamically based on eye-tracking data from users.",
+        "keywords": ["Eye Tracking", "Interface Adaptation", "User Experience"]
+    },
+    {
+        "id": 4476,
+        "title": "VR Environment Usability Analytics",
+        "domain": "56",
+        "description": "Develop tools to analyze user interactions and usability within virtual reality environments for optimization.",
+        "keywords": ["VR", "Usability Analytics", "HCI"]
+    },
+    {
+        "id": 4477,
+        "title": "Personalized Notification Management",
+        "domain": "56",
+        "description": "Create systems that prioritize and personalize notifications based on user context and preferences.",
+        "keywords": ["Notification Management", "Personalization", "User Experience"]
+    },
+    {
+        "id": 4478,
+        "title": "AI-Powered Interaction Pattern Analysis",
+        "domain": "56",
+        "description": "Develop AI systems that analyze user interaction patterns to suggest interface improvements automatically.",
+        "keywords": ["AI", "Interaction Analysis", "Interface Design"]
+    },
+    {
+        "id": 4479,
+        "title": "Accessible AR Interface Design",
+        "domain": "56",
+        "description": "Create augmented reality interfaces designed for accessibility, including audio and haptic feedback.",
+        "keywords": ["AR", "Accessibility", "Interface Design"]
+    },
+    {
+        "id": 4480,
+        "title": "Context-Sensitive Help System",
+        "domain": "56",
+        "description": "Design help systems that provide contextual guidance based on current user actions in software applications.",
+        "keywords": ["Context-Sensitive Help", "User Support", "HCI"]
+    },
+    {
+        "id": 4481,
+        "title": "Multi-Device Interaction Synchronization",
+        "domain": "56",
+        "description": "Develop systems that synchronize interactions across multiple devices to maintain a consistent user experience.",
+        "keywords": ["Multi-Device", "Synchronization", "User Experience"]
+    },
+    {
+        "id": 4482,
+        "title": "AI-Powered Task Automation Interface",
+        "domain": "56",
+        "description": "Create user interfaces that enable AI-assisted task automation for increased efficiency and reduced user effort.",
+        "keywords": ["AI", "Task Automation", "Interface Design"]
+    },
+    {
+        "id": 4483,
+        "title": "Dynamic Content Layout for Diverse Users",
+        "domain": "56",
+        "description": "Design interfaces that dynamically adjust content layout for users with diverse abilities and preferences.",
+        "keywords": ["Dynamic Layout", "Accessibility", "User Experience"]
+    },
+    {
+        "id": 4484,
+        "title": "Adaptive Feedback System in Educational Apps",
+        "domain": "56",
+        "description": "Develop systems that provide adaptive feedback based on user performance and interaction patterns in learning apps.",
+        "keywords": ["Adaptive Feedback", "Educational Apps", "User Interaction"]
+    },
+    {
+        "id": 4485,
+        "title": "Gesture-Based VR Control Optimization",
+        "domain": "56",
+        "description": "Optimize gesture controls in VR applications for intuitive and ergonomic user interaction.",
+        "keywords": ["VR", "Gesture Control", "HCI"]
+    },
+    {
+        "id": 4486,
+        "title": "Personalized Multi-Modal Learning Interface",
+        "domain": "56",
+        "description": "Create educational interfaces that adapt to multi-modal learning preferences using AI.",
+        "keywords": ["Multi-Modal Learning", "AI", "Interface Personalization"]
+    },
+    {
+        "id": 4487,
+        "title": "Real-Time UX Analytics Dashboard",
+        "domain": "56",
+        "description": "Develop a dashboard that provides real-time analytics of user behavior and interface usability.",
+        "keywords": ["UX Analytics", "Dashboard", "User Experience"]
+    },
+    {
+        "id": 4488,
+        "title": "AI-Assisted Error Prevention in Forms",
+        "domain": "56",
+        "description": "Design interfaces that use AI to prevent user input errors in online forms and applications.",
+        "keywords": ["AI", "Error Prevention", "Form Design"]
+    },
+    {
+        "id": 4489,
+        "title": "Spatial Audio Feedback in HCI",
+        "domain": "56",
+        "description": "Integrate spatial audio cues into interfaces to enhance user interaction and spatial awareness.",
+        "keywords": ["Spatial Audio", "HCI", "User Interaction"]
+    },
+    {
+        "id": 4490,
+        "title": "Adaptive Menu Systems",
+        "domain": "56",
+        "description": "Develop menu systems that adapt dynamically to user preferences and frequently used features.",
+        "keywords": ["Adaptive Menu", "UI Design", "User Experience"]
+    },
+    {
+        "id": 4491,
+        "title": "AI-Powered Error Recovery Interface",
+        "domain": "56",
+        "description": "Create interfaces that guide users through error recovery steps intelligently using AI suggestions.",
+        "keywords": ["AI", "Error Recovery", "Interface Design"]
+    },
+    {
+        "id": 4492,
+        "title": "Context-Aware Interaction Shortcuts",
+        "domain": "56",
+        "description": "Design systems that provide interaction shortcuts dynamically based on user context and workflow.",
+        "keywords": ["Context-Aware", "Interaction Shortcuts", "User Experience"]
+    },
+    {
+        "id": 4493,
+        "title": "Interactive Prototype Evaluation Tool",
+        "domain": "56",
+        "description": "Develop tools to evaluate interactive prototypes and collect detailed user feedback for interface improvement.",
+        "keywords": ["Prototype Evaluation", "User Feedback", "HCI"]
+    },
+    {
+        "id": 4494,
+        "title": "AI-Driven Multilingual UI Adaptation",
+        "domain": "56",
+        "description": "Create interfaces that automatically adapt text, layout, and design for multiple languages using AI.",
+        "keywords": ["AI", "Multilingual UI", "User Interface"]
+    },
+    {
+        "id": 4495,
+        "title": "Adaptive Navigation for VR Applications",
+        "domain": "56",
+        "description": "Design VR navigation systems that adjust pathways and interactions based on user behavior and preferences.",
+        "keywords": ["VR Navigation", "Adaptive UI", "User Experience"]
+    },
+    {
+        "id": 4496,
+        "title": "Adaptive Font Scaling for Readability",
+        "domain": "56",
+        "description": "Develop interfaces that dynamically adjust font sizes based on user preferences and device resolution for optimal readability.",
+        "keywords": ["Adaptive UI", "Font Scaling", "Accessibility"]
+    },
+    {
+        "id": 4497,
+        "title": "AI-Powered Interaction Prediction",
+        "domain": "56",
+        "description": "Create a system that predicts likely user interactions and preloads interface elements for faster response.",
+        "keywords": ["AI", "Interaction Prediction", "UI Optimization"]
+    },
+    {
+        "id": 4498,
+        "title": "Context-Sensitive Voice Assistance",
+        "domain": "56",
+        "description": "Design voice-controlled interfaces that adapt their responses and actions based on current user context.",
+        "keywords": ["Voice UI", "Context-Aware", "HCI"]
+    },
+    {
+        "id": 4499,
+        "title": "Intelligent Tooltip System",
+        "domain": "56",
+        "description": "Develop tooltips that appear dynamically and provide context-specific guidance based on user behavior.",
+        "keywords": ["Tooltips", "Context Awareness", "User Guidance"]
+    },
+    {
+        "id": 4500,
+        "title": "Adaptive Color Contrast for Accessibility",
+        "domain": "56",
+        "description": "Create interfaces that automatically adjust color contrast based on ambient light and user vision needs.",
+        "keywords": ["Accessibility", "Color Contrast", "Adaptive UI"]
+    },
+    {
+        "id": 4501,
+        "title": "Interactive Onboarding Assistance",
+        "domain": "56",
+        "description": "Design onboarding interfaces that adapt steps and guidance based on user familiarity and progress.",
+        "keywords": ["Onboarding", "Adaptive UI", "User Experience"]
+    },
+    {
+        "id": 4502,
+        "title": "Emotion-Adaptive Dashboard Widgets",
+        "domain": "56",
+        "description": "Create dashboard interfaces that adapt widget placement and display based on detected user emotions.",
+        "keywords": ["Emotion Detection", "Dashboard", "Adaptive UI"]
+    },
+    {
+        "id": 4503,
+        "title": "Real-Time Interaction Heatmap",
+        "domain": "56",
+        "description": "Develop analytics to visualize user interaction density on interfaces in real-time to optimize layouts.",
+        "keywords": ["Heatmap", "Interaction Analytics", "UI Optimization"]
+    },
+    {
+        "id": 4504,
+        "title": "Adaptive Shortcut Suggestions",
+        "domain": "56",
+        "description": "Design systems that suggest personalized keyboard or gesture shortcuts based on user habits.",
+        "keywords": ["Adaptive UI", "Shortcut Suggestions", "User Experience"]
+    },
+    {
+        "id": 4505,
+        "title": "AI-Powered Multimodal Feedback System",
+        "domain": "56",
+        "description": "Create feedback systems that combine visual, auditory, and haptic feedback for improved interaction efficiency.",
+        "keywords": ["Multimodal Feedback", "AI", "HCI"]
+    },
+    {
+        "id": 4506,
+        "title": "Context-Aware Error Highlighting",
+        "domain": "56",
+        "description": "Develop interfaces that highlight errors contextually and provide actionable suggestions dynamically.",
+        "keywords": ["Error Highlighting", "Context Awareness", "User Guidance"]
+    },
+    //domain 57
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
     ]
