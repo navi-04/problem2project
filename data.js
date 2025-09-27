@@ -31606,6 +31606,378 @@ const PROBLEMS_DATA = {
         "keywords": ["Speech Summarization", "Podcasts", "AI"]
     },
     //domain 59
+  
+    {
+        "id": 4603,
+        "title": "AI-Driven Genome Annotation",
+        "domain": "59",
+        "description": "Develop AI models to automatically annotate genes and functional regions in newly sequenced genomes.",
+        "keywords": ["Genomics", "Gene Annotation", "AI"]
+    },
+    {
+        "id": 4604,
+        "title": "Protein Structure Prediction",
+        "domain": "59",
+        "description": "Predict 3D protein structures from amino acid sequences using deep learning models.",
+        "keywords": ["Proteomics", "Protein Structure", "Deep Learning"]
+    },
+    {
+        "id": 4605,
+        "title": "Single-Cell RNA-Seq Analysis",
+        "domain": "59",
+        "description": "Analyze single-cell transcriptomics data to identify cell types and gene expression patterns.",
+        "keywords": ["Genomics", "Single-Cell Analysis", "Transcriptomics"]
+    },
+    {
+        "id": 4606,
+        "title": "Pathway Analysis for Disease Mechanisms",
+        "domain": "59",
+        "description": "Develop computational models to identify biological pathways implicated in diseases.",
+        "keywords": ["Bioinformatics", "Pathway Analysis", "Disease Mechanisms"]
+    },
+    {
+        "id": 4607,
+        "title": "AI-Based Variant Prioritization",
+        "domain": "59",
+        "description": "Create models to prioritize genetic variants that are likely to be disease-causing.",
+        "keywords": ["Genomics", "Variant Analysis", "AI"]
+    },
+    {
+        "id": 4608,
+        "title": "Multi-Omics Data Integration",
+        "domain": "59",
+        "description": "Integrate genomics, transcriptomics, proteomics, and metabolomics data for holistic biological insights.",
+        "keywords": ["Multi-Omics", "Data Integration", "Bioinformatics"]
+    },
+    {
+        "id": 4609,
+        "title": "Computational Drug Target Identification",
+        "domain": "59",
+        "description": "Identify potential drug targets by analyzing genomic and proteomic datasets.",
+        "keywords": ["Drug Discovery", "Bioinformatics", "Target Identification"]
+    },
+    {
+        "id": 4610,
+        "title": "AI-Powered Epigenomics Analysis",
+        "domain": "59",
+        "description": "Analyze epigenetic modifications to understand gene regulation using machine learning.",
+        "keywords": ["Epigenomics", "Machine Learning", "Gene Regulation"]
+    },
+    {
+        "id": 4611,
+        "title": "Predictive Modeling for Protein-Protein Interactions",
+        "domain": "59",
+        "description": "Use computational approaches to predict interactions between proteins in complex networks.",
+        "keywords": ["Proteomics", "Protein Interactions", "Predictive Modeling"]
+    },
+    {
+        "id": 4612,
+        "title": "Genome-Wide Association Studies (GWAS) Automation",
+        "domain": "59",
+        "description": "Automate GWAS analysis pipelines to identify genetic variants associated with diseases.",
+        "keywords": ["Genomics", "GWAS", "Automation"]
+    },
+    {
+        "id": 4613,
+        "title": "Functional Annotation of Non-Coding RNAs",
+        "domain": "59",
+        "description": "Develop computational tools to predict functions of non-coding RNAs in gene regulation.",
+        "keywords": ["Genomics", "Non-Coding RNA", "Functional Annotation"]
+    },
+    {
+        "id": 4614,
+        "title": "AI-Driven Microbiome Analysis",
+        "domain": "59",
+        "description": "Analyze microbial communities from metagenomic data to understand their role in health and disease.",
+        "keywords": ["Microbiome", "Metagenomics", "AI"]
+    },
+    {
+        "id": 4615,
+        "title": "Computational Metabolomics for Biomarker Discovery",
+        "domain": "59",
+        "description": "Develop algorithms to identify biomarkers from metabolomics data for disease diagnosis.",
+        "keywords": ["Metabolomics", "Biomarkers", "Computational Biology"]
+    },
+    {
+        "id": 4616,
+        "title": "Evolutionary Analysis of Genomic Sequences",
+        "domain": "59",
+        "description": "Use computational methods to study evolutionary relationships between organisms based on genomic data.",
+        "keywords": ["Genomics", "Evolution", "Bioinformatics"]
+    },
+    {
+        "id": 4617,
+        "title": "AI-Based RNA Secondary Structure Prediction",
+        "domain": "59",
+        "description": "Predict RNA secondary structures from sequences using deep learning techniques.",
+        "keywords": ["RNA", "Structure Prediction", "AI"]
+    },
+    {
+        "id": 4618,
+        "title": "Protein-Ligand Interaction Modeling",
+        "domain": "59",
+        "description": "Develop computational tools to predict how proteins interact with small molecules for drug design.",
+        "keywords": ["Proteomics", "Drug Design", "Molecular Modeling"]
+    },
+    {
+        "id": 4619,
+        "title": "Genome Assembly Optimization",
+        "domain": "59",
+        "description": "Improve algorithms for assembling high-quality genomes from next-generation sequencing data.",
+        "keywords": ["Genome Assembly", "Sequencing", "Bioinformatics"]
+    },
+    {
+        "id": 4620,
+        "title": "AI for Protein Function Prediction",
+        "domain": "59",
+        "description": "Predict unknown protein functions from sequence and structural information using AI.",
+        "keywords": ["Proteomics", "Function Prediction", "Machine Learning"]
+    },
+    {
+        "id": 4621,
+        "title": "Computational Identification of Drug Resistance Genes",
+        "domain": "59",
+        "description": "Analyze genomic data to detect genes responsible for drug resistance in pathogens.",
+        "keywords": ["Genomics", "Drug Resistance", "Computational Biology"]
+    },
+    {
+        "id": 4622,
+        "title": "Bioinformatics Pipeline for Cancer Genomics",
+        "domain": "59",
+        "description": "Develop automated pipelines to analyze cancer genomics datasets for mutation profiling.",
+        "keywords": ["Cancer Genomics", "Bioinformatics", "Pipeline Automation"]
+    },
+    {
+        "id": 4623,
+        "title": "AI-Enhanced Phylogenetic Tree Construction",
+        "domain": "59",
+        "description": "Construct phylogenetic trees using AI to improve accuracy in evolutionary studies.",
+        "keywords": ["Phylogenetics", "AI", "Evolution"]
+    },
+    {
+        "id": 4624,
+        "title": "Computational Analysis of Alternative Splicing",
+        "domain": "59",
+        "description": "Analyze RNA-Seq data to detect alternative splicing events and their functional impact.",
+        "keywords": ["RNA-Seq", "Alternative Splicing", "Bioinformatics"]
+    },
+    {
+        "id": 4625,
+        "title": "Predicting Post-Translational Modifications",
+        "domain": "59",
+        "description": "Use computational models to predict PTMs in proteins and their functional effects.",
+        "keywords": ["Proteomics", "PTM Prediction", "Computational Biology"]
+    },
+    {
+        "id": 4626,
+        "title": "Integrative Analysis of Cancer Omics Data",
+        "domain": "59",
+        "description": "Combine genomics, transcriptomics, and proteomics data to identify cancer biomarkers.",
+        "keywords": ["Cancer", "Multi-Omics", "Bioinformatics"]
+    },
+    {
+        "id": 4627,
+        "title": "AI-Driven Non-Coding Variant Interpretation",
+        "domain": "59",
+        "description": "Develop AI tools to predict the functional impact of non-coding variants in the genome.",
+        "keywords": ["Genomics", "Non-Coding Variants", "AI"]
+    },
+    {
+        "id": 4628,
+        "title": "Protein Interaction Network Reconstruction",
+        "domain": "59",
+        "description": "Construct protein-protein interaction networks from experimental and computational data.",
+        "keywords": ["Proteomics", "Network Analysis", "Bioinformatics"]
+    },
+    {
+        "id": 4629,
+        "title": "Metagenomic Pathogen Detection",
+        "domain": "59",
+        "description": "Identify pathogens in metagenomic samples using computational tools for rapid diagnostics.",
+        "keywords": ["Metagenomics", "Pathogen Detection", "Computational Biology"]
+    },
+    {
+        "id": 4630,
+        "title": "Machine Learning for Gene Expression Prediction",
+        "domain": "59",
+        "description": "Predict gene expression levels from genomic features using machine learning algorithms.",
+        "keywords": ["Gene Expression", "Machine Learning", "Bioinformatics"]
+    },
+    {
+        "id": 4631,
+        "title": "AI-Based Functional Genomics Analysis",
+        "domain": "59",
+        "description": "Analyze functional genomics datasets to identify gene regulatory elements using AI.",
+        "keywords": ["Functional Genomics", "AI", "Gene Regulation"]
+    },
+    {
+        "id": 4632,
+        "title": "Computational Drug Repositioning",
+        "domain": "59",
+        "description": "Use bioinformatics and AI to find new therapeutic uses for existing drugs.",
+        "keywords": ["Drug Repositioning", "Bioinformatics", "AI"]
+    },
+    {
+        "id": 4633,
+        "title": "Predicting Protein Stability",
+        "domain": "59",
+        "description": "Develop models to predict the thermal and chemical stability of proteins for bioengineering.",
+        "keywords": ["Proteomics", "Protein Stability", "AI"]
+    },
+    {
+        "id": 4634,
+        "title": "AI for Functional Annotation of Metabolites",
+        "domain": "59",
+        "description": "Use computational approaches to predict the biological functions of metabolites.",
+        "keywords": ["Metabolomics", "Functional Annotation", "AI"]
+    },
+    {
+        "id": 4635,
+        "title": "Integrative Analysis of Epigenomic and Transcriptomic Data",
+        "domain": "59",
+        "description": "Combine epigenomic and transcriptomic datasets to uncover gene regulatory mechanisms.",
+        "keywords": ["Epigenomics", "Transcriptomics", "Data Integration"]
+    },
+    {
+        "id": 4636,
+        "title": "AI-Powered CRISPR Target Prediction",
+        "domain": "59",
+        "description": "Develop AI models to predict optimal CRISPR target sites with minimal off-target effects.",
+        "keywords": ["CRISPR", "AI", "Gene Editing"]
+    },
+    {
+        "id": 4637,
+        "title": "Computational Analysis of Alternative Polyadenylation",
+        "domain": "59",
+        "description": "Identify alternative polyadenylation sites in RNA transcripts and their functional implications.",
+        "keywords": ["RNA Analysis", "Polyadenylation", "Bioinformatics"]
+    },
+    {
+        "id": 4638,
+        "title": "Protein-Ligand Docking Automation",
+        "domain": "59",
+        "description": "Automate protein-ligand docking simulations for drug discovery pipelines.",
+        "keywords": ["Proteomics", "Docking", "Drug Discovery"]
+    },
+    {
+        "id": 4639,
+        "title": "Machine Learning for Epitope Prediction",
+        "domain": "59",
+        "description": "Predict B-cell and T-cell epitopes from protein sequences using AI.",
+        "keywords": ["Proteomics", "Epitope Prediction", "AI"]
+    },
+    {
+        "id": 4640,
+        "title": "Integrative Network Analysis of Omics Data",
+        "domain": "59",
+        "description": "Construct integrated biological networks combining multiple omics datasets for systems biology insights.",
+        "keywords": ["Omics Integration", "Network Analysis", "Bioinformatics"]
+    },
+    {
+        "id": 4641,
+        "title": "Computational Modeling of Gene Regulatory Networks",
+        "domain": "59",
+        "description": "Simulate and predict dynamics of gene regulatory networks under various conditions.",
+        "keywords": ["Gene Regulation", "Network Modeling", "Computational Biology"]
+    },
+    {
+        "id": 4642,
+        "title": "AI for Identification of Disease-Associated Mutations",
+        "domain": "59",
+        "description": "Use AI to detect mutations strongly associated with specific diseases from genomic datasets.",
+        "keywords": ["Genomics", "Disease Mutations", "AI"]
+    },
+    {
+        "id": 4643,
+        "title": "Functional Annotation of Long Non-Coding RNAs",
+        "domain": "59",
+        "description": "Predict functions of lncRNAs using sequence, structural, and expression features.",
+        "keywords": ["lncRNA", "Functional Annotation", "Bioinformatics"]
+    },
+    {
+        "id": 4644,
+        "title": "AI-Powered MicroRNA Target Prediction",
+        "domain": "59",
+        "description": "Predict microRNA targets and regulatory effects using machine learning models.",
+        "keywords": ["miRNA", "Target Prediction", "AI"]
+    },
+    {
+        "id": 4645,
+        "title": "Computational Epitope Mapping for Vaccine Design",
+        "domain": "59",
+        "description": "Identify potential epitopes for vaccine targets using computational methods.",
+        "keywords": ["Vaccine Design", "Epitope Mapping", "Computational Biology"]
+    },
+    {
+        "id": 4646,
+        "title": "Automated Phylogenomic Pipeline",
+        "domain": "59",
+        "description": "Develop pipelines to integrate phylogenomic data for large-scale evolutionary studies.",
+        "keywords": ["Phylogenomics", "Automation", "Bioinformatics"]
+    },
+    {
+        "id": 4647,
+        "title": "AI-Based Functional Prediction of Proteoforms",
+        "domain": "59",
+        "description": "Predict functions of different proteoforms generated by post-translational modifications.",
+        "keywords": ["Proteomics", "Proteoforms", "AI"]
+    },
+    {
+        "id": 4648,
+        "title": "Computational Identification of Genetic Interactions",
+        "domain": "59",
+        "description": "Detect epistatic interactions between genes using genomic and phenotypic datasets.",
+        "keywords": ["Genomics", "Genetic Interactions", "Computational Biology"]
+    },
+    {
+        "id": 4649,
+        "title": "Predictive Modeling of Metabolic Pathways",
+        "domain": "59",
+        "description": "Model metabolic pathways to predict flux changes under different environmental conditions.",
+        "keywords": ["Metabolomics", "Pathway Modeling", "Predictive Analytics"]
+    },
+    {
+        "id": 4650,
+        "title": "AI for Transcript Isoform Quantification",
+        "domain": "59",
+        "description": "Use AI to quantify and compare transcript isoforms across different conditions.",
+        "keywords": ["Transcriptomics", "Isoform Quantification", "AI"]
+    },
+    {
+        "id": 4651,
+        "title": "Computational Detection of Gene Fusions",
+        "domain": "59",
+        "description": "Identify gene fusion events from RNA-Seq and genomic data for cancer research.",
+        "keywords": ["Gene Fusion", "RNA-Seq", "Computational Biology"]
+    },
+    {
+        "id": 4652,
+        "title": "AI-Enhanced Protein Domain Annotation",
+        "domain": "59",
+        "description": "Automatically annotate protein domains and functional motifs using machine learning.",
+        "keywords": ["Proteomics", "Domain Annotation", "AI"]
+    },
+    {
+        "id": 4653,
+        "title": "Computational Modeling of RNA-Protein Interactions",
+        "domain": "59",
+        "description": "Predict RNA-protein interactions to understand post-transcriptional regulation mechanisms.",
+        "keywords": ["RNA-Protein Interactions", "Modeling", "Bioinformatics"]
+    },
+    {
+        "id": 4654,
+        "title": "Predictive Modeling of Gene Expression Noise",
+        "domain": "59",
+        "description": "Develop models to predict variability in gene expression across single cells.",
+        "keywords": ["Gene Expression", "Noise Modeling", "Bioinformatics"]
+    },
+    {
+        "id": 4655,
+        "title": "AI-Driven Functional Annotation of Unknown Genes",
+        "domain": "59",
+        "description": "Predict functions of uncharacterized genes using multi-omics datasets and AI.",
+        "keywords": ["Genomics", "Functional Annotation", "AI"]
+    },
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
