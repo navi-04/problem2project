@@ -33127,6 +33127,1286 @@ const PROBLEMS_DATA = {
         "keywords": ["Edge Computing", "Fleet Management", "Logistics Optimization"]
     },
     //domain 63
+    {
+  "id": 4819,
+  "title": "AI-Powered Highway Lane Changing Assistant",
+  "domain": "63",
+  "description": "Develop an autonomous driving system that uses AI to analyze traffic flow and make safe, efficient lane-changing decisions on highways.",
+  "keywords": ["Lane Changing", "Highway Driving", "Traffic Analysis", "Safety"]
+},
+{
+  "id": 4820,
+  "title": "Urban Self-Driving Navigation Optimizer",
+  "domain": "63",
+  "description": "Create a navigation engine for self-driving cars that dynamically adapts to urban traffic signals, pedestrians, and congestion patterns.",
+  "keywords": ["Urban Navigation", "Traffic Signals", "Pedestrian Detection", "Route Optimization"]
+},
+{
+  "id": 4821,
+  "title": "Autonomous Emergency Vehicle Detection System",
+  "domain": "63",
+  "description": "Design a self-driving car feature that detects emergency vehicles and yields appropriately, even in noisy or complex environments.",
+  "keywords": ["Emergency Detection", "Audio Recognition", "Traffic Safety", "Self-Driving Cars"]
+},
+{
+  "id": 4822,
+  "title": "Self-Driving Weather Adaptation Module",
+  "domain": "63",
+  "description": "Build a module that enables autonomous vehicles to adjust driving patterns in real time based on changing weather conditions like rain, fog, or snow.",
+  "keywords": ["Weather Adaptation", "Real-Time Control", "Safety", "Autonomous Systems"]
+},
+{
+  "id": 4823,
+  "title": "AI-Driven Pedestrian Intention Predictor",
+  "domain": "63",
+  "description": "Develop a predictive system for self-driving cars to analyze pedestrian movements and anticipate crossing intentions.",
+  "keywords": ["Pedestrian Detection", "Behavior Prediction", "Computer Vision", "Safety"]
+},
+{
+  "id": 4824,
+  "title": "Autonomous Parking Space Finder",
+  "domain": "63",
+  "description": "Create an autonomous system that detects and navigates toward available parking spaces in crowded areas.",
+  "keywords": ["Parking Automation", "Computer Vision", "Urban Driving", "Navigation"]
+},
+{
+  "id": 4825,
+  "title": "Self-Driving Energy Efficiency Optimizer",
+  "domain": "63",
+  "description": "Develop a system that enables autonomous cars to minimize energy consumption by adjusting driving style, acceleration, and braking.",
+  "keywords": ["Energy Optimization", "Efficiency", "Driving Patterns", "Eco-Friendly AI"]
+},
+{
+  "id": 4826,
+  "title": "Autonomous Vehicle-to-Vehicle Communication",
+  "domain": "63",
+  "description": "Design a protocol for self-driving cars to communicate with each other to prevent collisions and optimize traffic flow.",
+  "keywords": ["V2V Communication", "Traffic Flow", "Collision Prevention", "Networking"]
+},
+{
+  "id": 4827,
+  "title": "AI-Powered Obstacle Avoidance in Construction Zones",
+  "domain": "63",
+  "description": "Develop a system that enables self-driving cars to detect and safely navigate around temporary obstacles in construction areas.",
+  "keywords": ["Obstacle Avoidance", "Construction Zones", "Computer Vision", "Safety"]
+},
+{
+  "id": 4828,
+  "title": "Autonomous Highway Platooning System",
+  "domain": "63",
+  "description": "Create a self-driving feature that allows vehicles to travel in coordinated platoons to improve fuel efficiency and reduce congestion.",
+  "keywords": ["Platooning", "Highway Driving", "Traffic Efficiency", "Autonomous Systems"]
+},
+{
+  "id": 4829,
+  "title": "Smart Self-Driving Traffic Light Negotiation",
+  "domain": "63",
+  "description": "Build a system for autonomous cars that negotiates optimal crossing strategies at intersections with traffic lights.",
+  "keywords": ["Traffic Lights", "Intersection Management", "AI Control", "Urban Driving"]
+},
+{
+  "id": 4830,
+  "title": "AI-Enabled Animal Detection for Rural Roads",
+  "domain": "63",
+  "description": "Develop a detection system for self-driving cars to identify animals crossing rural roads and take precautionary actions.",
+  "keywords": ["Animal Detection", "Rural Driving", "Safety", "Computer Vision"]
+},
+{
+  "id": 4831,
+  "title": "Autonomous Roundabout Navigation System",
+  "domain": "63",
+  "description": "Design a self-driving algorithm that efficiently and safely handles entry, circulation, and exit in roundabouts.",
+  "keywords": ["Roundabout Navigation", "Traffic Flow", "Decision Making", "Autonomous Systems"]
+},
+{
+  "id": 4832,
+  "title": "AI-Driven Road Surface Hazard Detection",
+  "domain": "63",
+  "description": "Build a system for autonomous vehicles that detects potholes, debris, or uneven road surfaces in real time and adjusts driving behavior.",
+  "keywords": ["Hazard Detection", "Road Safety", "Computer Vision", "Real-Time Analysis"]
+},
+{
+  "id": 4833,
+  "title": "Self-Driving Adaptive Cruise Control with AI",
+  "domain": "63",
+  "description": "Develop an adaptive cruise control system for autonomous cars that learns driver preferences while ensuring safety and comfort.",
+  "keywords": ["Cruise Control", "Adaptive Driving", "Machine Learning", "Comfort"]
+},
+{
+  "id": 4834,
+  "title": "AI-Powered Bicycle Rider Detection",
+  "domain": "63",
+  "description": "Create a system that enables self-driving cars to detect cyclists and predict their movements to avoid collisions.",
+  "keywords": ["Bicycle Detection", "Behavior Prediction", "Computer Vision", "Safety"]
+},
+{
+  "id": 4835,
+  "title": "Autonomous Toll Booth Navigation",
+  "domain": "63",
+  "description": "Design a module that helps self-driving cars automatically detect, queue, and process toll booth payments seamlessly.",
+  "keywords": ["Toll Booth", "Navigation", "Automation", "Payment Systems"]
+},
+{
+  "id": 4836,
+  "title": "Self-Driving Night Vision Enhancer",
+  "domain": "63",
+  "description": "Develop a vision enhancement system that improves autonomous driving safety during nighttime or low-light conditions.",
+  "keywords": ["Night Vision", "Low-Light Detection", "Safety", "Computer Vision"]
+},
+{
+  "id": 4837,
+  "title": "AI-Based Wrong-Way Driver Alert System",
+  "domain": "63",
+  "description": "Create a detection and response system that alerts autonomous cars of nearby wrong-way drivers and initiates safe maneuvers.",
+  "keywords": ["Wrong-Way Detection", "Collision Prevention", "Safety", "AI Alerts"]
+},
+{
+  "id": 4838,
+  "title": "Self-Driving Carpool Coordination Platform",
+  "domain": "63",
+  "description": "Build a coordination system that enables autonomous cars to group passengers traveling in the same direction, optimizing routes.",
+  "keywords": ["Carpooling", "Route Optimization", "Efficiency", "AI Coordination"]
+},
+{
+  "id": 4839,
+  "title": "AI-Powered School Zone Detection",
+  "domain": "63",
+  "description": "Design an autonomous driving system that detects school zones, adjusts speed, and enhances pedestrian safety.",
+  "keywords": ["School Zones", "Speed Control", "Pedestrian Safety", "Autonomous Driving"]
+},
+{
+  "id": 4840,
+  "title": "Autonomous U-Turn Decision System",
+  "domain": "63",
+  "description": "Develop a decision-making module for self-driving cars to safely execute U-turns in complex traffic environments.",
+  "keywords": ["U-Turns", "Decision Making", "Traffic Management", "Self-Driving Cars"]
+},
+{
+  "id": 4841,
+  "title": "AI-Driven Highway Merge Assistance",
+  "domain": "63",
+  "description": "Create a feature for self-driving cars that facilitates safe and efficient merging onto busy highways.",
+  "keywords": ["Highway Merge", "Traffic Flow", "Safety", "Autonomous Systems"]
+},
+{
+  "id": 4842,
+  "title": "Autonomous Speed Bump Recognition System",
+  "domain": "63",
+  "description": "Develop a recognition system for autonomous vehicles to detect speed bumps and adjust driving speed accordingly.",
+  "keywords": ["Speed Bump Detection", "Road Safety", "Computer Vision", "Autonomous Driving"]
+},
+{
+  "id": 4843,
+  "title": "AI-Powered Blind Spot Monitoring",
+  "domain": "63",
+  "description": "Design an AI system that enhances autonomous cars’ ability to detect vehicles in blind spots and avoid unsafe maneuvers.",
+  "keywords": ["Blind Spot Detection", "Safety", "Sensor Fusion", "Autonomous Vehicles"]
+},
+{
+  "id": 4844,
+  "title": "Self-Driving Highway Exit Navigator",
+  "domain": "63",
+  "description": "Build a module that ensures autonomous cars identify and take correct highway exits while maintaining passenger safety.",
+  "keywords": ["Highway Exits", "Navigation", "Route Optimization", "Safety"]
+},
+{
+  "id": 4845,
+  "title": "AI-Enhanced Traffic Jam Assist",
+  "domain": "63",
+  "description": "Create an autonomous driving feature that manages low-speed driving in congested traffic while reducing driver stress.",
+  "keywords": ["Traffic Jam Assist", "Low-Speed Driving", "Autonomous Cars", "Efficiency"]
+},
+{
+  "id": 4846,
+  "title": "Autonomous Overtaking Decision System",
+  "domain": "63",
+  "description": "Develop a decision-making module for self-driving cars that determines safe overtaking opportunities on multi-lane roads.",
+  "keywords": ["Overtaking", "Decision Making", "Safety", "Autonomous Vehicles"]
+},
+{
+  "id": 4847,
+  "title": "AI-Powered Traffic Sign Recognition",
+  "domain": "63",
+  "description": "Create a vision-based system for autonomous vehicles to recognize and respond accurately to traffic signs in real time.",
+  "keywords": ["Traffic Signs", "Computer Vision", "Autonomous Driving", "Safety"]
+},
+{
+  "id": 4848,
+  "title": "Self-Driving Roadside Assistance Requester",
+  "domain": "63",
+  "description": "Design a feature for autonomous cars to automatically request roadside assistance in case of mechanical failures or tire issues.",
+  "keywords": ["Roadside Assistance", "Automation", "Safety", "Vehicle Health"]
+},
+{
+  "id": 4849,
+  "title": "AI-Driven Pedestrian Crosswalk Negotiation",
+  "domain": "63",
+  "description": "Build a system that enables self-driving cars to detect crosswalks, anticipate pedestrian actions, and safely yield.",
+  "keywords": ["Crosswalks", "Pedestrian Detection", "Safety", "Computer Vision"]
+},
+{
+  "id": 4850,
+  "title": "Autonomous Adaptive Headlight Control",
+  "domain": "63",
+  "description": "Develop a lighting system for self-driving vehicles that adjusts headlights based on oncoming traffic, weather, and road conditions.",
+  "keywords": ["Adaptive Headlights", "Night Driving", "Safety", "Autonomous Vehicles"]
+},
+{
+  "id": 4851,
+  "title": "AI-Powered Vehicle Behavior Prediction",
+  "domain": "63",
+  "description": "Create a predictive system for autonomous cars that anticipates the movements of surrounding vehicles to avoid collisions.",
+  "keywords": ["Vehicle Behavior", "Prediction", "Safety", "Machine Learning"]
+},
+{
+  "id": 4852,
+  "title": "Autonomous Bridge Crossing System",
+  "domain": "63",
+  "description": "Design a module that enables self-driving cars to navigate narrow or crowded bridges with enhanced safety protocols.",
+  "keywords": ["Bridge Navigation", "Safety", "Autonomous Driving", "Route Planning"]
+},
+{
+  "id": 4853,
+  "title": "AI-Driven Fuel Station Navigator",
+  "domain": "63",
+  "description": "Develop an intelligent system that guides self-driving cars to nearby fuel or charging stations based on real-time availability.",
+  "keywords": ["Fuel Stations", "Navigation", "Route Optimization", "Autonomous Systems"]
+},
+{
+  "id": 4854,
+  "title": "Self-Driving Lane Departure Prevention",
+  "domain": "63",
+  "description": "Build a safety feature for autonomous cars that detects unintended lane departures and corrects steering automatically.",
+  "keywords": ["Lane Departure", "Safety", "Computer Vision", "Autonomous Vehicles"]
+},
+{
+  "id": 4855,
+  "title": "Autonomous Ferry Boarding System",
+  "domain": "63",
+  "description": "Design a self-driving algorithm that safely boards and exits ferries, accounting for ramps, queues, and space management.",
+  "keywords": ["Ferry Boarding", "Navigation", "Automation", "Safety"]
+},
+{
+  "id": 4856,
+  "title": "AI-Powered Dynamic Speed Control",
+  "domain": "63",
+  "description": "Create a speed management system for self-driving cars that adjusts speed dynamically based on traffic density and road rules.",
+  "keywords": ["Speed Control", "Traffic Analysis", "Safety", "Autonomous Systems"]
+},
+{
+  "id": 4857,
+  "title": "Autonomous Intersection Collision Avoidance",
+  "domain": "63",
+  "description": "Develop a real-time decision system that prevents collisions at intersections by predicting and managing vehicle paths.",
+  "keywords": ["Collision Avoidance", "Intersections", "Safety", "AI Decision Making"]
+},
+{
+  "id": 4858,
+  "title": "AI-Enabled Passenger Comfort Optimizer",
+  "domain": "63",
+  "description": "Design a self-driving feature that adjusts acceleration, braking, and steering for maximum passenger comfort during rides.",
+  "keywords": ["Passenger Comfort", "Smooth Driving", "AI Optimization", "Self-Driving Cars"]
+},
+{
+  "id": 4859,
+  "title": "Autonomous Emergency Lane Creation",
+  "domain": "63",
+  "description": "Build a system that allows self-driving cars to coordinate and create lanes for ambulances and fire trucks in traffic jams.",
+  "keywords": ["Emergency Lanes", "V2V Communication", "Traffic Management", "Safety"]
+},
+{
+  "id": 4860,
+  "title": "AI-Powered Slippery Road Detection",
+  "domain": "63",
+  "description": "Develop a detection system for self-driving cars to identify slippery road conditions and adjust driving behavior accordingly.",
+  "keywords": ["Slippery Roads", "Weather Conditions", "Safety", "Autonomous Driving"]
+},
+{
+  "id": 4861,
+  "title": "Autonomous Highway Exit Ramp Safety System",
+  "domain": "63",
+  "description": "Develop a module that ensures safe navigation of self-driving cars onto and off highway exit ramps under varying traffic conditions.",
+  "keywords": ["Exit Ramps", "Highway Driving", "Safety", "Autonomous Vehicles"]
+},
+{
+  "id": 4862,
+  "title": "AI-Powered Child Detection Near Vehicles",
+  "domain": "63",
+  "description": "Create a detection system that enables autonomous cars to recognize children near vehicles and adjust driving behaviors for enhanced safety.",
+  "keywords": ["Child Detection", "Pedestrian Safety", "Computer Vision", "Autonomous Cars"]
+},
+{
+  "id": 4863,
+  "title": "Self-Driving Tunnel Navigation System",
+  "domain": "63",
+  "description": "Design a control system that helps autonomous cars navigate through tunnels where GPS and sensors may be limited.",
+  "keywords": ["Tunnel Navigation", "GPS-Free Driving", "Sensor Fusion", "Safety"]
+},
+{
+  "id": 4864,
+  "title": "AI-Driven Stop Sign Recognition",
+  "domain": "63",
+  "description": "Build a recognition system for self-driving cars to detect and respond accurately to stop signs in diverse conditions.",
+  "keywords": ["Stop Signs", "Computer Vision", "Traffic Safety", "Autonomous Vehicles"]
+},
+{
+  "id": 4865,
+  "title": "Autonomous Driving Style Customizer",
+  "domain": "63",
+  "description": "Develop a feature that allows passengers to select between cautious, balanced, or aggressive autonomous driving styles.",
+  "keywords": ["Driving Styles", "Passenger Experience", "Customization", "Autonomous Cars"]
+},
+{
+  "id": 4866,
+  "title": "AI-Powered Accident Aftermath Navigation",
+  "domain": "63",
+  "description": "Design a system that enables self-driving cars to detect accident sites and safely reroute without causing additional congestion.",
+  "keywords": ["Accident Detection", "Navigation", "Traffic Management", "Safety"]
+},
+{
+  "id": 4867,
+  "title": "Autonomous Multi-Stop Route Planner",
+  "domain": "63",
+  "description": "Build a planning system for self-driving cars that efficiently manages routes with multiple stops and dynamic changes.",
+  "keywords": ["Route Planning", "Multi-Stop", "Optimization", "Autonomous Systems"]
+},
+{
+  "id": 4868,
+  "title": "AI-Driven Construction Detour Navigator",
+  "domain": "63",
+  "description": "Develop a module that guides autonomous vehicles through construction detours while minimizing delays and safety risks.",
+  "keywords": ["Construction Detours", "Navigation", "Traffic Management", "Autonomous Cars"]
+},
+{
+  "id": 4869,
+  "title": "Self-Driving Lane Merge Negotiation System",
+  "domain": "63",
+  "description": "Create a negotiation system for autonomous cars to merge into congested lanes using predictive modeling of human driver behavior.",
+  "keywords": ["Lane Merging", "Traffic Prediction", "Autonomous Driving", "Safety"]
+},
+{
+  "id": 4870,
+  "title": "Autonomous Over-Speeding Prevention",
+  "domain": "63",
+  "description": "Design a feature that prevents self-driving cars from exceeding legal speed limits by integrating real-time road sign detection.",
+  "keywords": ["Speed Limit Detection", "Safety", "Traffic Laws", "Autonomous Vehicles"]
+},
+{
+  "id": 4871,
+  "title": "AI-Powered Road Curvature Analyzer",
+  "domain": "63",
+  "description": "Develop a module for autonomous cars that analyzes road curvature ahead and adjusts speed and steering accordingly.",
+  "keywords": ["Road Curvature", "Safety", "Prediction", "Autonomous Driving"]
+},
+{
+  "id": 4872,
+  "title": "Autonomous Dynamic Detour Planner",
+  "domain": "63",
+  "description": "Build a self-driving feature that instantly recalculates detours when sudden road closures or blockages occur.",
+  "keywords": ["Dynamic Detours", "Route Optimization", "Autonomous Systems", "Safety"]
+},
+{
+  "id": 4873,
+  "title": "AI-Enabled Lane Marking Restoration Detector",
+  "domain": "63",
+  "description": "Create a system for autonomous cars to identify faded or unclear lane markings and still maintain safe lane discipline.",
+  "keywords": ["Lane Markings", "Computer Vision", "Autonomous Driving", "Safety"]
+},
+{
+  "id": 4874,
+  "title": "Autonomous Hill Climb Assistance",
+  "domain": "63",
+  "description": "Design a driving system for self-driving cars that provides optimal power management while climbing steep inclines.",
+  "keywords": ["Hill Climb", "Power Management", "Safety", "Autonomous Systems"]
+},
+{
+  "id": 4875,
+  "title": "AI-Powered Traffic Gap Selection",
+  "domain": "63",
+  "description": "Develop an AI algorithm for self-driving cars to safely select and enter traffic gaps during highway entry or lane changes.",
+  "keywords": ["Gap Selection", "Highway Driving", "Traffic Flow", "Autonomous Cars"]
+},
+{
+  "id": 4876,
+  "title": "Autonomous Vehicle Evacuation Route Planner",
+  "domain": "63",
+  "description": "Design a system that guides self-driving cars along designated evacuation routes during natural disasters or emergencies.",
+  "keywords": ["Evacuation Routes", "Emergency Response", "Navigation", "Autonomous Driving"]
+},
+{
+  "id": 4877,
+  "title": "AI-Powered Adaptive Suspension Control",
+  "domain": "63",
+  "description": "Develop a suspension control system for autonomous cars that adapts in real time to road conditions for comfort and stability.",
+  "keywords": ["Suspension Control", "Ride Comfort", "Adaptive Systems", "Safety"]
+},
+{
+  "id": 4878,
+  "title": "Self-Driving Rural Road Navigator",
+  "domain": "63",
+  "description": "Build an autonomous driving system optimized for unmarked and narrow rural roads with unpredictable obstacles.",
+  "keywords": ["Rural Roads", "Navigation", "Obstacle Detection", "Autonomous Vehicles"]
+},
+{
+  "id": 4879,
+  "title": "Autonomous Traffic Roundabout Negotiator",
+  "domain": "63",
+  "description": "Create an intelligent module that allows self-driving cars to negotiate multi-lane roundabouts with human-driven vehicles.",
+  "keywords": ["Roundabout Negotiation", "Traffic Flow", "Autonomous Driving", "Safety"]
+},
+{
+  "id": 4880,
+  "title": "AI-Powered Hazardous Material Transport Monitor",
+  "domain": "63",
+  "description": "Design an autonomous system that ensures safe navigation and handling when transporting hazardous materials.",
+  "keywords": ["Hazardous Materials", "Safety", "Transport", "Autonomous Systems"]
+},
+{
+  "id": 4881,
+  "title": "Self-Driving Emergency Stop System",
+  "domain": "63",
+  "description": "Develop a system that allows autonomous vehicles to perform controlled emergency stops in case of technical or safety failures.",
+  "keywords": ["Emergency Stop", "Safety", "Fail-Safe", "Autonomous Cars"]
+},
+{
+  "id": 4882,
+  "title": "AI-Enabled Crowd Event Traffic Navigator",
+  "domain": "63",
+  "description": "Build a feature that reroutes self-driving cars around large gatherings, concerts, or sports events to minimize delays.",
+  "keywords": ["Crowd Events", "Navigation", "Traffic Management", "Autonomous Vehicles"]
+},
+{
+  "id": 4883,
+  "title": "Autonomous Road Shoulder Utilization System",
+  "domain": "63",
+  "description": "Create a feature that allows self-driving cars to safely use road shoulders during emergencies or extreme congestion.",
+  "keywords": ["Road Shoulders", "Emergency Use", "Traffic Flow", "Autonomous Cars"]
+},
+{
+  "id": 4884,
+  "title": "AI-Powered Bridge Load Awareness",
+  "domain": "63",
+  "description": "Develop a system that enables self-driving cars to account for bridge load limits and adjust routes accordingly.",
+  "keywords": ["Bridge Safety", "Load Awareness", "Navigation", "Autonomous Vehicles"]
+},
+{
+  "id": 4885,
+  "title": "Self-Driving Car Wash Docking Assistant",
+  "domain": "63",
+  "description": "Design an autonomous docking system that guides self-driving cars into automated car wash facilities without human intervention.",
+  "keywords": ["Car Wash", "Docking", "Automation", "Autonomous Systems"]
+},
+{
+  "id": 4886,
+  "title": "AI-Powered Snow-Covered Road Navigation",
+  "domain": "63",
+  "description": "Build a module that enables autonomous cars to safely navigate snow-covered or icy roads with limited visibility.",
+  "keywords": ["Snow Roads", "Winter Driving", "Safety", "Autonomous Vehicles"]
+},
+{
+  "id": 4887,
+  "title": "Autonomous Pedestrian Priority Enforcement",
+  "domain": "63",
+  "description": "Develop a system that ensures self-driving cars consistently prioritize pedestrian crossings in compliance with traffic laws.",
+  "keywords": ["Pedestrian Priority", "Traffic Laws", "Safety", "Autonomous Driving"]
+},
+{
+  "id": 4888,
+  "title": "AI-Powered Highway Rest Stop Navigator",
+  "domain": "63",
+  "description": "Create a navigation feature for autonomous cars to identify and route to nearby rest stops for long-distance travel comfort.",
+  "keywords": ["Rest Stops", "Navigation", "Highway Driving", "Autonomous Systems"]
+},
+{
+  "id": 4889,
+  "title": "Autonomous Vehicle Noise Reduction System",
+  "domain": "63",
+  "description": "Design a system that optimizes autonomous vehicle operations to minimize noise pollution in urban environments.",
+  "keywords": ["Noise Reduction", "Urban Driving", "Passenger Comfort", "Autonomous Cars"]
+},
+{
+  "id": 4890,
+  "title": "AI-Driven Tire Pressure Monitoring and Response",
+  "domain": "63",
+  "description": "Develop a system that monitors tire pressure in real time and enables autonomous cars to adjust driving behavior or stop safely.",
+  "keywords": ["Tire Pressure", "Vehicle Health", "Safety", "Autonomous Driving"]
+},
+{
+  "id": 4891,
+  "title": "Self-Driving Ferry Queue Coordinator",
+  "domain": "63",
+  "description": "Build a coordination module that allows self-driving cars to line up, wait, and board ferries in an organized manner.",
+  "keywords": ["Ferry Queue", "Automation", "Navigation", "Autonomous Vehicles"]
+},
+
+// domain 64
+{
+  "id": 4892,
+  "title": "AI-Powered Virtual Health Assistant",
+  "domain": "64",
+  "description": "Develop a telemedicine system that provides patients with an AI-powered assistant for answering health queries, booking consultations, and offering preliminary guidance.",
+  "keywords": ["Virtual Assistant", "Telemedicine", "AI Healthcare", "Patient Support"]
+},
+{
+  "id": 4893,
+  "title": "Remote Chronic Disease Monitoring System",
+  "domain": "64",
+  "description": "Design a platform that allows patients with chronic diseases to regularly share health data with doctors via wearables and IoT devices for proactive interventions.",
+  "keywords": ["Chronic Disease", "Remote Monitoring", "IoT Healthcare", "Telemedicine"]
+},
+{
+  "id": 4894,
+  "title": "Tele-ICU Remote Patient Supervision",
+  "domain": "64",
+  "description": "Create a tele-ICU solution that enables specialists to monitor critical patients remotely with real-time data and AI-driven alerts.",
+  "keywords": ["ICU Monitoring", "Remote Healthcare", "AI Alerts", "Tele-ICU"]
+},
+{
+  "id": 4895,
+  "title": "AI-Driven Symptom Checker for Teleconsultations",
+  "domain": "64",
+  "description": "Develop a symptom analysis tool that helps patients input their conditions and suggests possible causes before connecting with a telemedicine doctor.",
+  "keywords": ["Symptom Checker", "AI Diagnosis", "Teleconsultation", "Digital Health"]
+},
+{
+  "id": 4896,
+  "title": "Language Translation for Global Telemedicine",
+  "domain": "64",
+  "description": "Build a multilingual telemedicine platform that automatically translates doctor-patient conversations in real time to break language barriers.",
+  "keywords": ["Language Translation", "Telemedicine", "Real-Time Communication", "Global Health"]
+},
+{
+  "id": 4897,
+  "title": "Secure Prescription Delivery via Telehealth",
+  "domain": "64",
+  "description": "Design a secure system for generating and delivering e-prescriptions after teleconsultations with fraud detection and patient verification features.",
+  "keywords": ["E-Prescriptions", "Telehealth Security", "Digital Prescriptions", "Healthcare IT"]
+},
+{
+  "id": 4898,
+  "title": "Remote Physiotherapy with AI Motion Tracking",
+  "domain": "64",
+  "description": "Create a tele-rehabilitation solution that uses AI motion tracking to guide patients through physiotherapy exercises at home.",
+  "keywords": ["Physiotherapy", "Motion Tracking", "Tele-Rehabilitation", "AI Healthcare"]
+},
+{
+  "id": 4899,
+  "title": "Telemedicine for Mental Health Counseling",
+  "domain": "64",
+  "description": "Develop a secure platform for providing virtual therapy sessions with emotion recognition and stress detection tools.",
+  "keywords": ["Mental Health", "Teletherapy", "Emotion Recognition", "Digital Counseling"]
+},
+{
+  "id": 4900,
+  "title": "Blockchain-Powered Telemedicine Records",
+  "domain": "64",
+  "description": "Design a blockchain-secured system for storing and sharing telemedicine consultation records across healthcare providers.",
+  "keywords": ["Blockchain", "Telemedicine Records", "Healthcare Security", "Digital Health"]
+},
+{
+  "id": 4901,
+  "title": "AI Scheduler for Telehealth Appointments",
+  "domain": "64",
+  "description": "Build an intelligent scheduling system that matches patients with available doctors based on urgency, specialty, and time zone.",
+  "keywords": ["Telehealth", "AI Scheduling", "Healthcare Access", "Digital Appointments"]
+},
+{
+  "id": 4902,
+  "title": "Remote Pediatric Health Monitoring",
+  "domain": "64",
+  "description": "Develop a telemedicine platform specialized for pediatric care, enabling remote monitoring of vital signs and developmental progress.",
+  "keywords": ["Pediatrics", "Remote Monitoring", "Telemedicine", "Digital Health"]
+},
+{
+  "id": 4903,
+  "title": "AI-Powered Telecardiology Platform",
+  "domain": "64",
+  "description": "Create a system for remote cardiac monitoring that uses AI to detect irregular heart patterns and alert doctors in real time.",
+  "keywords": ["Telecardiology", "AI Monitoring", "Heart Health", "Remote Healthcare"]
+},
+{
+  "id": 4904,
+  "title": "Tele-Dermatology Diagnosis Assistant",
+  "domain": "64",
+  "description": "Design a platform allowing patients to upload skin images for AI-assisted dermatological analysis and remote dermatologist consultations.",
+  "keywords": ["Dermatology", "Telemedicine", "AI Diagnosis", "Skin Health"]
+},
+{
+  "id": 4905,
+  "title": "Virtual Health Risk Assessment Tool",
+  "domain": "64",
+  "description": "Develop an AI system that evaluates lifestyle and medical history to assess health risks remotely and suggest preventive measures.",
+  "keywords": ["Health Risk", "Telehealth", "AI Assessment", "Preventive Care"]
+},
+{
+  "id": 4906,
+  "title": "Remote Diabetes Management Platform",
+  "domain": "64",
+  "description": "Create a telemedicine solution that allows continuous glucose monitoring, AI insights, and remote consultations for diabetes patients.",
+  "keywords": ["Diabetes Management", "Telehealth", "Continuous Monitoring", "AI Insights"]
+},
+{
+  "id": 4907,
+  "title": "Tele-Obstetrics Monitoring System",
+  "domain": "64",
+  "description": "Design a platform for remote pregnancy monitoring with AI-based fetal health tracking and alerts for expecting mothers.",
+  "keywords": ["Obstetrics", "Pregnancy Monitoring", "Telemedicine", "AI Healthcare"]
+},
+{
+  "id": 4908,
+  "title": "AI-Enhanced Remote Lab Test Interpretation",
+  "domain": "64",
+  "description": "Develop a system that interprets lab results remotely using AI, providing insights to both patients and doctors instantly.",
+  "keywords": ["Lab Tests", "Remote Interpretation", "AI Analysis", "Telehealth"]
+},
+{
+  "id": 4909,
+  "title": "Virtual Elderly Care Monitoring",
+  "domain": "64",
+  "description": "Create a telemedicine platform to remotely monitor elderly patients’ vitals, medication adherence, and emergency alerts.",
+  "keywords": ["Elderly Care", "Remote Monitoring", "Telehealth", "AI Alerts"]
+},
+{
+  "id": 4910,
+  "title": "AI-Powered Remote Eye Care",
+  "domain": "64",
+  "description": "Develop a system for teleophthalmology that uses AI to detect vision issues from images or video consultations.",
+  "keywords": ["Eye Care", "Teleophthalmology", "AI Diagnosis", "Digital Health"]
+},
+{
+  "id": 4911,
+  "title": "Telemedicine Chatbot for Medication Queries",
+  "domain": "64",
+  "description": "Design an AI chatbot that provides patients with accurate information on medication usage, interactions, and reminders.",
+  "keywords": ["Medication Management", "Telemedicine Chatbot", "AI Assistance", "Patient Support"]
+},
+{
+  "id": 4912,
+  "title": "Remote Post-Surgery Recovery Monitoring",
+  "domain": "64",
+  "description": "Create a telemedicine platform to track post-operative patients’ recovery metrics and alert doctors for complications.",
+  "keywords": ["Post-Surgery Care", "Remote Monitoring", "Telehealth", "AI Alerts"]
+},
+{
+  "id": 4913,
+  "title": "Virtual Nutrition and Diet Planner",
+  "domain": "64",
+  "description": "Develop an AI-powered telehealth platform that provides personalized diet plans and monitors patient adherence remotely.",
+  "keywords": ["Nutrition", "Diet Planning", "Telehealth", "AI Assistance"]
+},
+{
+  "id": 4914,
+  "title": "Tele-Rehabilitation for Stroke Patients",
+  "domain": "64",
+  "description": "Design a remote rehabilitation system for stroke patients, including AI-guided exercises and progress tracking.",
+  "keywords": ["Stroke Rehabilitation", "Tele-Rehab", "AI Guidance", "Remote Healthcare"]
+},
+{
+  "id": 4915,
+  "title": "AI-Driven Remote Mental Health Screening",
+  "domain": "64",
+  "description": "Create a telemedicine platform that uses AI to assess mental health conditions through questionnaires, speech, and behavior analysis.",
+  "keywords": ["Mental Health", "Telemedicine", "AI Screening", "Digital Health"]
+},
+{
+  "id": 4916,
+  "title": "Remote Pediatric Vaccination Tracker",
+  "domain": "64",
+  "description": "Develop a telemedicine platform that tracks children’s vaccination schedules, sends reminders, and connects with pediatricians remotely.",
+  "keywords": ["Pediatrics", "Vaccination Tracking", "Telemedicine", "AI Alerts"]
+},
+{
+  "id": 4917,
+  "title": "AI-Powered Remote Sleep Monitoring",
+  "domain": "64",
+  "description": "Create a system for telehealth that monitors sleep patterns remotely, providing insights and recommendations for patients with sleep disorders.",
+  "keywords": ["Sleep Monitoring", "Telehealth", "AI Analysis", "Remote Healthcare"]
+},
+{
+  "id": 4918,
+  "title": "Telemedicine AI Triage System",
+  "domain": "64",
+  "description": "Design an AI system that triages patient requests based on severity, directing them to appropriate teleconsultation or emergency care.",
+  "keywords": ["Triage", "Telemedicine", "AI Decision Making", "Patient Management"]
+},
+{
+  "id": 4919,
+  "title": "Virtual Dermatology Remote Follow-up",
+  "domain": "64",
+  "description": "Develop a platform for teledermatology follow-ups where patients can upload images and receive AI-assisted or doctor-reviewed updates.",
+  "keywords": ["Dermatology", "Telemedicine", "Remote Follow-Up", "AI Assistance"]
+},
+{
+  "id": 4920,
+  "title": "Remote AI-Powered Blood Pressure Monitoring",
+  "domain": "64",
+  "description": "Create a telehealth system for continuous blood pressure monitoring with AI alerts for irregular readings and trends.",
+  "keywords": ["Blood Pressure", "Remote Monitoring", "AI Alerts", "Telemedicine"]
+},
+{
+  "id": 4921,
+  "title": "Tele-Ophthalmology AI Eye Disease Detection",
+  "domain": "64",
+  "description": "Develop a platform that uses AI to detect early eye diseases such as glaucoma or diabetic retinopathy through remote imaging.",
+  "keywords": ["Ophthalmology", "AI Diagnosis", "Telemedicine", "Eye Health"]
+},
+{
+  "id": 4922,
+  "title": "Virtual Chronic Pain Management System",
+  "domain": "64",
+  "description": "Design a telemedicine solution for remote chronic pain management including patient tracking, AI recommendations, and virtual therapy.",
+  "keywords": ["Chronic Pain", "Telehealth", "AI Assistance", "Remote Monitoring"]
+},
+{
+  "id": 4923,
+  "title": "AI-Driven Remote Lab Test Scheduling",
+  "domain": "64",
+  "description": "Create a system that schedules lab tests remotely, optimizes slots based on patient location, and sends automated reminders.",
+  "keywords": ["Lab Tests", "Scheduling", "Telemedicine", "AI Optimization"]
+},
+{
+  "id": 4924,
+  "title": "Telehealth AI Symptom Progress Tracker",
+  "domain": "64",
+  "description": "Develop a system to track patient symptoms over time remotely, providing AI insights and alerts to healthcare providers.",
+  "keywords": ["Symptom Tracking", "Telehealth", "AI Monitoring", "Patient Care"]
+},
+{
+  "id": 4925,
+  "title": "Remote AI Nutrition Monitoring for Diabetic Patients",
+  "domain": "64",
+  "description": "Design a telemedicine platform that tracks diet and glucose levels for diabetic patients, providing AI-based recommendations.",
+  "keywords": ["Diabetes", "Nutrition Monitoring", "AI Assistance", "Telehealth"]
+},
+{
+  "id": 4926,
+  "title": "Tele-Audiology Remote Hearing Assessment",
+  "domain": "64",
+  "description": "Create a telehealth platform that allows remote hearing assessments using AI to analyze results and guide interventions.",
+  "keywords": ["Audiology", "Remote Assessment", "Telemedicine", "AI Diagnostics"]
+},
+{
+  "id": 4927,
+  "title": "AI-Powered Remote Vaccination Adherence Monitor",
+  "domain": "64",
+  "description": "Develop a system that monitors patients’ adherence to vaccination schedules and sends AI-driven reminders.",
+  "keywords": ["Vaccination", "Telehealth", "AI Monitoring", "Patient Adherence"]
+},
+{
+  "id": 4928,
+  "title": "Tele-Rehabilitation Gamified Exercises",
+  "domain": "64",
+  "description": "Design a platform that uses gamification and AI to engage patients in remote rehabilitation exercises for better compliance.",
+  "keywords": ["Tele-Rehabilitation", "Gamification", "AI Assistance", "Remote Healthcare"]
+},
+{
+  "id": 4929,
+  "title": "Virtual Oncology Patient Support System",
+  "domain": "64",
+  "description": "Create a telemedicine platform providing AI-assisted support for oncology patients, including symptom tracking and virtual counseling.",
+  "keywords": ["Oncology", "Telemedicine", "AI Support", "Patient Care"]
+},
+{
+  "id": 4930,
+  "title": "AI-Powered Remote Cardiac Rehabilitation",
+  "domain": "64",
+  "description": "Develop a telehealth platform that delivers AI-guided cardiac rehabilitation exercises and monitors patient adherence remotely.",
+  "keywords": ["Cardiac Rehabilitation", "Telehealth", "AI Guidance", "Remote Monitoring"]
+},
+// domain 65
+{
+  "id": 4931,
+  "title": "AI-Powered Content Recommendation Engine",
+  "domain": "65",
+  "description": "Develop an intelligent system that analyzes user behavior and preferences to suggest personalized social media content.",
+  "keywords": ["Content Recommendation", "User Behavior", "AI Algorithms", "Social Media"]
+},
+{
+  "id": 4932,
+  "title": "Social Media Sentiment Analysis Tool",
+  "domain": "65",
+  "description": "Create a platform that uses AI to monitor user comments, posts, and reactions to gauge sentiment trends in social networks.",
+  "keywords": ["Sentiment Analysis", "Social Media Monitoring", "AI", "User Insights"]
+},
+{
+  "id": 4933,
+  "title": "Fake News Detection on Social Platforms",
+  "domain": "65",
+  "description": "Design an AI-driven system to identify misinformation and flag potentially false news on social media platforms.",
+  "keywords": ["Fake News", "AI Detection", "Social Media Security", "Content Verification"]
+},
+{
+  "id": 4934,
+  "title": "Automated Hashtag Generation for Posts",
+  "domain": "65",
+  "description": "Develop a tool that suggests trending and relevant hashtags for user posts to maximize reach and engagement.",
+  "keywords": ["Hashtag Generator", "Social Media Marketing", "AI Suggestions", "User Engagement"]
+},
+{
+  "id": 4935,
+  "title": "Real-Time Social Media Trend Analyzer",
+  "domain": "65",
+  "description": "Create a system that tracks and analyzes trending topics across multiple platforms in real time using AI algorithms.",
+  "keywords": ["Trend Analysis", "Real-Time Monitoring", "Social Media", "AI Insights"]
+},
+{
+  "id": 4936,
+  "title": "AI-Powered Comment Moderation System",
+  "domain": "65",
+  "description": "Design a moderation tool that automatically filters harmful, abusive, or spam comments on social media posts.",
+  "keywords": ["Comment Moderation", "AI Filtering", "Social Media Safety", "Content Management"]
+},
+{
+  "id": 4937,
+  "title": "Personalized Social Feed Optimization",
+  "domain": "65",
+  "description": "Develop a system that optimizes the order of posts in user feeds to maximize engagement using machine learning algorithms.",
+  "keywords": ["Feed Optimization", "Machine Learning", "User Engagement", "Social Media"]
+},
+{
+  "id": 4938,
+  "title": "AI-Powered Influencer Identification",
+  "domain": "65",
+  "description": "Create a platform that identifies potential social media influencers based on engagement metrics, follower growth, and content quality.",
+  "keywords": ["Influencer Detection", "AI Analysis", "Social Media Marketing", "User Analytics"]
+},
+{
+  "id": 4939,
+  "title": "Social Media Platform Accessibility Enhancer",
+  "domain": "65",
+  "description": "Develop a system that uses AI to enhance accessibility for users with disabilities, including text-to-speech, alt text, and captions.",
+  "keywords": ["Accessibility", "AI Assistance", "Social Media", "Inclusive Design"]
+},
+{
+  "id": 4940,
+  "title": "Automated Social Media Post Scheduler",
+  "domain": "65",
+  "description": "Design a tool that schedules posts automatically based on audience engagement patterns and optimal posting times.",
+  "keywords": ["Post Scheduling", "AI Automation", "Social Media Management", "Engagement Optimization"]
+},
+{
+  "id": 4941,
+  "title": "AI-Driven Social Ad Targeting",
+  "domain": "65",
+  "description": "Create a system that uses machine learning to target social media ads to the most relevant audience segments for better ROI.",
+  "keywords": ["Ad Targeting", "Machine Learning", "Social Media Marketing", "User Analytics"]
+},
+{
+  "id": 4942,
+  "title": "Social Media Spam Detection System",
+  "domain": "65",
+  "description": "Develop an AI-powered platform to identify and remove spam accounts or messages to maintain community integrity.",
+  "keywords": ["Spam Detection", "AI Security", "Social Media", "Community Management"]
+},
+{
+  "id": 4943,
+  "title": "AI-Powered Social Event Recommendation",
+  "domain": "65",
+  "description": "Build a system that suggests social events, groups, or meetups to users based on their interests and network activity.",
+  "keywords": ["Event Recommendation", "Social Networking", "AI Suggestions", "User Engagement"]
+},
+{
+  "id": 4944,
+  "title": "Automated Visual Content Tagging",
+  "domain": "65",
+  "description": "Develop a tool that automatically tags images and videos on social media using AI-based object and scene recognition.",
+  "keywords": ["Visual Tagging", "AI Recognition", "Social Media Content", "Automation"]
+},
+{
+  "id": 4945,
+  "title": "AI-Based Social Network Anomaly Detection",
+  "domain": "65",
+  "description": "Create a system to detect unusual activity patterns, such as bot accounts or coordinated campaigns, on social platforms.",
+  "keywords": ["Anomaly Detection", "AI Security", "Social Media Monitoring", "Bot Detection"]
+},
+{
+  "id": 4946,
+  "title": "AI-Powered Social Media Analytics Dashboard",
+  "domain": "65",
+  "description": "Develop a dashboard that provides insights on user engagement, growth metrics, and content performance using AI analytics.",
+  "keywords": ["Analytics Dashboard", "Social Media Insights", "AI Metrics", "User Engagement"]
+},
+{
+  "id": 4947,
+  "title": "Social Media Chatbot for Customer Support",
+  "domain": "65",
+  "description": "Create an AI chatbot that handles customer inquiries on social platforms, providing instant responses and issue resolution.",
+  "keywords": ["Chatbot", "Customer Support", "AI Assistance", "Social Media"]
+},
+{
+  "id": 4948,
+  "title": "Automated Social Media Trend Prediction",
+  "domain": "65",
+  "description": "Build a machine learning system that predicts emerging trends on social media before they become viral.",
+  "keywords": ["Trend Prediction", "Machine Learning", "Social Media Analytics", "AI Forecasting"]
+},
+{
+  "id": 4949,
+  "title": "AI-Powered Social Media Reputation Management",
+  "domain": "65",
+  "description": "Develop a platform that monitors brand mentions, sentiment, and reputation across social media and suggests corrective actions.",
+  "keywords": ["Reputation Management", "AI Monitoring", "Social Media", "Brand Analytics"]
+},
+{
+  "id": 4950,
+  "title": "Personalized Social Media Learning Feeds",
+  "domain": "65",
+  "description": "Create a system that curates educational content on social media tailored to individual user learning preferences.",
+  "keywords": ["Learning Feeds", "Personalization", "AI Curation", "Social Media Education"]
+},
+{
+  "id": 4951,
+  "title": "AI-Powered Social Media Content Summarizer",
+  "domain": "65",
+  "description": "Design a tool that automatically summarizes long posts, articles, or videos shared on social media for quick user consumption.",
+  "keywords": ["Content Summarizer", "AI Text Analysis", "Social Media", "Automation"]
+},
+{
+  "id": 4952,
+  "title": "Automated Social Media Engagement Booster",
+  "domain": "65",
+  "description": "Develop an AI system that suggests actions or post enhancements to boost engagement and reach on social media.",
+  "keywords": ["Engagement Boost", "AI Suggestions", "Social Media Marketing", "User Interaction"]
+},
+{
+  "id": 4953,
+  "title": "AI-Powered Influencer Campaign Tracker",
+  "domain": "65",
+  "description": "Create a platform to monitor influencer campaigns, engagement metrics, and ROI using machine learning algorithms.",
+  "keywords": ["Influencer Campaigns", "AI Analytics", "Social Media Marketing", "Performance Tracking"]
+},
+{
+  "id": 4954,
+  "title": "Social Media Image Quality Enhancer",
+  "domain": "65",
+  "description": "Develop an AI-based tool to automatically enhance images and videos before posting to improve visual appeal and engagement.",
+  "keywords": ["Image Enhancement", "AI Editing", "Social Media", "Visual Content"]
+},
+{
+  "id": 4955,
+  "title": "AI-Powered Content Virality Predictor",
+  "domain": "65",
+  "description": "Design a system that predicts the potential virality of posts and suggests improvements to maximize reach.",
+  "keywords": ["Virality Prediction", "AI Analysis", "Social Media Engagement", "Content Optimization"]
+},
+{
+  "id": 4956,
+  "title": "Automated Social Media Language Moderation",
+  "domain": "65",
+  "description": "Create a platform that filters offensive, inappropriate, or abusive language automatically using AI NLP techniques.",
+  "keywords": ["Language Moderation", "AI NLP", "Social Media Safety", "Content Filtering"]
+},
+{
+  "id": 4957,
+  "title": "AI-Based Social Media Collaboration Tool",
+  "domain": "65",
+  "description": "Develop a tool that facilitates collaborative content creation and scheduling among multiple social media managers using AI suggestions.",
+  "keywords": ["Collaboration Tool", "AI Assistance", "Social Media Management", "Content Scheduling"]
+},
+{
+  "id": 4958,
+  "title": "Social Media Automated Meme Generator",
+  "domain": "65",
+  "description": "Create a system that generates trending and contextually relevant memes using AI to increase engagement.",
+  "keywords": ["Meme Generator", "AI Creativity", "Social Media Engagement", "Content Automation"]
+},
+{
+  "id": 4959,
+  "title": "AI-Powered Social Media Network Analysis",
+  "domain": "65",
+  "description": "Develop a platform that visualizes user connections and interactions to identify key influencers and community clusters.",
+  "keywords": ["Network Analysis", "AI Visualization", "Social Media", "Community Detection"]
+},
+{
+  "id": 4960,
+  "title": "Automated Social Media Poll & Survey Analyzer",
+  "domain": "65",
+  "description": "Build a system that collects, analyzes, and summarizes social media polls and survey responses using AI.",
+  "keywords": ["Poll Analysis", "AI Insights", "Social Media Surveys", "Data Analytics"]
+},
+{
+  "id": 4961,
+  "title": "AI-Powered Social Media Content Scheduler",
+  "domain": "65",
+  "description": "Develop a tool that automatically schedules posts at optimal times based on audience engagement data using AI.",
+  "keywords": ["Post Scheduling", "AI Automation", "Social Media Management", "Engagement Optimization"]
+},
+{
+  "id": 4962,
+  "title": "Social Media Emotion Recognition Tool",
+  "domain": "65",
+  "description": "Create a system that analyzes user posts, comments, and reactions to detect emotions and trends in social communities.",
+  "keywords": ["Emotion Recognition", "AI Analysis", "Social Media Insights", "User Engagement"]
+},
+{
+  "id": 4963,
+  "title": "Automated Social Media Contest Manager",
+  "domain": "65",
+  "description": "Build a platform that manages social media contests, selects winners fairly, and tracks participant engagement automatically.",
+  "keywords": ["Contest Management", "AI Automation", "Social Media Engagement", "User Participation"]
+},
+{
+  "id": 4964,
+  "title": "AI-Powered Social Video Summarizer",
+  "domain": "65",
+  "description": "Develop a system that summarizes long social media videos into short highlights using AI for faster user consumption.",
+  "keywords": ["Video Summarization", "AI Analysis", "Social Media Content", "Automation"]
+},
+{
+  "id": 4965,
+  "title": "Social Media Fake Profile Detection",
+  "domain": "65",
+  "description": "Design a system to identify and flag fake or duplicate accounts on social media platforms using machine learning.",
+  "keywords": ["Fake Profile Detection", "Machine Learning", "Social Media Security", "AI Verification"]
+},
+{
+  "id": 4966,
+  "title": "AI-Powered Social Media Story Analyzer",
+  "domain": "65",
+  "description": "Create a tool that analyzes trending social media stories and suggests engagement strategies for creators and marketers.",
+  "keywords": ["Story Analysis", "AI Insights", "Social Media Trends", "Engagement"]
+},
+{
+  "id": 4967,
+  "title": "Automated Social Media Influencer Outreach",
+  "domain": "65",
+  "description": "Develop a system that identifies potential influencers and automates outreach for campaigns using AI analytics.",
+  "keywords": ["Influencer Outreach", "AI Automation", "Social Media Marketing", "Campaign Management"]
+},
+{
+  "id": 4968,
+  "title": "AI-Powered Social Media Ad Performance Tracker",
+  "domain": "65",
+  "description": "Design a tool that monitors social media ad performance in real time, providing AI-driven recommendations for optimization.",
+  "keywords": ["Ad Performance", "AI Analytics", "Social Media Marketing", "Optimization"]
+},
+{
+  "id": 4969,
+  "title": "Social Media Post Content Analyzer",
+  "domain": "65",
+  "description": "Create a system that evaluates post quality, readability, and engagement potential using AI content analysis techniques.",
+  "keywords": ["Content Analysis", "AI Evaluation", "Social Media Posts", "User Engagement"]
+},
+{
+  "id": 4970,
+  "title": "AI-Powered Social Media Engagement Predictor",
+  "domain": "65",
+  "description": "Develop a platform that predicts the potential engagement of posts before publishing to maximize reach and interaction.",
+  "keywords": ["Engagement Prediction", "AI Analysis", "Social Media", "Content Optimization"]
+},
+{
+  "id": 4971,
+  "title": "Automated Social Media Hashtag Trend Tracker",
+  "domain": "65",
+  "description": "Design a tool that tracks trending hashtags across platforms and suggests the most relevant ones for posts.",
+  "keywords": ["Hashtag Trends", "AI Analysis", "Social Media Marketing", "Engagement"]
+},
+{
+  "id": 4972,
+  "title": "AI-Powered Social Media Live Stream Analyzer",
+  "domain": "65",
+  "description": "Create a system that monitors live streams on social media for viewer engagement, comments, and sentiment analysis.",
+  "keywords": ["Live Stream Analysis", "AI Monitoring", "Social Media", "User Engagement"]
+},
+{
+  "id": 4973,
+  "title": "Social Media Post Topic Categorizer",
+  "domain": "65",
+  "description": "Develop an AI tool that automatically categorizes posts into topics or interests for better feed personalization.",
+  "keywords": ["Topic Categorization", "AI Analysis", "Social Media Feeds", "Content Personalization"]
+},
+{
+  "id": 4974,
+  "title": "Automated Social Media Trend Alert System",
+  "domain": "65",
+  "description": "Build a platform that alerts users or marketers about emerging trends and viral topics in real time using AI.",
+  "keywords": ["Trend Alerts", "AI Monitoring", "Social Media", "Real-Time Insights"]
+},
+{
+  "id": 4975,
+  "title": "AI-Powered Social Media Video Engagement Booster",
+  "domain": "65",
+  "description": "Create a system that suggests edits, captions, and thumbnails to boost video engagement on social media.",
+  "keywords": ["Video Engagement", "AI Suggestions", "Social Media", "Content Optimization"]
+},
+{
+  "id": 4976,
+  "title": "Social Media Automated User Sentiment Tracker",
+  "domain": "65",
+  "description": "Develop a platform that tracks sentiment trends among users over time to provide actionable insights for brands.",
+  "keywords": ["Sentiment Tracking", "AI Analytics", "Social Media Insights", "User Feedback"]
+},
+{
+  "id": 4977,
+  "title": "AI-Powered Social Media Caption Generator",
+  "domain": "65",
+  "description": "Create a system that generates engaging captions for posts based on image, video content, and trending topics.",
+  "keywords": ["Caption Generator", "AI Creativity", "Social Media", "Content Optimization"]
+},
+{
+  "id": 4978,
+  "title": "Automated Social Media Content Diversity Analyzer",
+  "domain": "65",
+  "description": "Design a tool that evaluates the diversity of content types and topics on social media feeds using AI.",
+  "keywords": ["Content Diversity", "AI Analysis", "Social Media", "Feed Optimization"]
+},
+{
+  "id": 4979,
+  "title": "AI-Powered Social Media Audience Segmentation",
+  "domain": "65",
+  "description": "Develop a platform that segments social media audiences based on behavior, interests, and engagement patterns.",
+  "keywords": ["Audience Segmentation", "AI Analysis", "Social Media Marketing", "User Analytics"]
+},
+{
+  "id": 4980,
+  "title": "Social Media Automated Brand Mention Tracker",
+  "domain": "65",
+  "description": "Create a system that tracks brand mentions and evaluates sentiment across multiple social media platforms using AI.",
+  "keywords": ["Brand Tracking", "Sentiment Analysis", "Social Media Monitoring", "AI Insights"]
+},
+{
+  "id": 4981,
+  "title": "AI-Powered Social Media Image Recognition",
+  "domain": "65",
+  "description": "Develop a platform that identifies objects, logos, or people in images shared on social media for analysis or moderation.",
+  "keywords": ["Image Recognition", "AI Analysis", "Social Media", "Content Monitoring"]
+},
+{
+  "id": 4982,
+  "title": "Automated Social Media Story Scheduling",
+  "domain": "65",
+  "description": "Create a tool that schedules stories across platforms at optimal times to maximize visibility and engagement.",
+  "keywords": ["Story Scheduling", "AI Automation", "Social Media Marketing", "User Engagement"]
+},
+{
+  "id": 4983,
+  "title": "AI-Powered Social Media Content Plagiarism Checker",
+  "domain": "65",
+  "description": "Develop a system that detects duplicate or plagiarized content on social media posts to maintain originality and authenticity.",
+  "keywords": ["Plagiarism Detection", "AI Monitoring", "Social Media Content", "Content Authenticity"]
+},
+{
+  "id": 4984,
+  "title": "Social Media Automated User Behavior Predictor",
+  "domain": "65",
+  "description": "Create a platform that predicts user engagement patterns and preferences using AI for better content targeting.",
+  "keywords": ["User Behavior Prediction", "AI Analysis", "Social Media Marketing", "Engagement Insights"]
+},
+{
+  "id": 4985,
+  "title": "AI-Powered Social Media Accessibility Enhancer",
+  "domain": "65",
+  "description": "Develop tools that improve accessibility, such as automated alt text, captions, and voice guidance for social media content.",
+  "keywords": ["Accessibility", "AI Assistance", "Social Media", "Inclusive Design"]
+},
+{
+  "id": 4986,
+  "title": "Automated Social Media Hashtag Optimizer",
+  "domain": "65",
+  "description": "Build a system that recommends the most effective hashtags based on post content, trends, and AI analysis.",
+  "keywords": ["Hashtag Optimization", "AI Suggestions", "Social Media Marketing", "Content Reach"]
+},
+{
+  "id": 4987,
+  "title": "AI-Powered Social Media Engagement Heatmap",
+  "domain": "65",
+  "description": "Develop a visualization tool that shows user engagement activity across different times, regions, and content types using AI.",
+  "keywords": ["Engagement Heatmap", "AI Visualization", "Social Media Analytics", "User Interaction"]
+},
+{
+  "id": 4988,
+  "title": "Social Media AI Comment Sentiment Analyzer",
+  "domain": "65",
+  "description": "Create a platform that analyzes the sentiment of user comments on posts, videos, and images in real time.",
+  "keywords": ["Comment Sentiment", "AI Analysis", "Social Media Insights", "User Feedback"]
+},
+{
+  "id": 4989,
+  "title": "Automated Social Media Engagement Report Generator",
+  "domain": "65",
+  "description": "Design a system that generates detailed reports on content performance, engagement, and reach using AI analytics.",
+  "keywords": ["Engagement Reports", "AI Analytics", "Social Media", "Performance Tracking"]
+},
+{
+  "id": 4990,
+  "title": "AI-Powered Social Media Influencer Matchmaker",
+  "domain": "65",
+  "description": "Develop a platform that matches brands with the most suitable influencers based on engagement data and audience overlap.",
+  "keywords": ["Influencer Matching", "AI Analysis", "Social Media Marketing", "Brand Collaboration"]
+},
+{
+  "id": 4991,
+  "title": "Automated Social Media Viral Content Identifier",
+  "domain": "65",
+  "description": "Create a tool that predicts content with high viral potential using AI analysis of trends, engagement, and topic relevance.",
+  "keywords": ["Viral Content", "AI Prediction", "Social Media Trends", "Content Optimization"]
+},
+{
+  "id": 4992,
+  "title": "AI-Powered Social Media Network Growth Tracker",
+  "domain": "65",
+  "description": "Develop a system that monitors and predicts social media network growth and follower patterns using AI algorithms.",
+  "keywords": ["Network Growth", "AI Monitoring", "Social Media Analytics", "User Insights"]
+},
+{
+  "id": 4993,
+  "title": "Social Media Automated Video Captioning Tool",
+  "domain": "65",
+  "description": "Build a system that generates captions for social media videos automatically using AI and NLP technologies.",
+  "keywords": ["Video Captioning", "AI NLP", "Social Media Content", "Accessibility"]
+},
+{
+  "id": 4994,
+  "title": "AI-Powered Social Media Cross-Platform Manager",
+  "domain": "65",
+  "description": "Create a platform that manages multiple social media accounts, content, and analytics across platforms using AI.",
+  "keywords": ["Cross-Platform Management", "AI Assistance", "Social Media", "Automation"]
+},
+{
+  "id": 4995,
+  "title": "Automated Social Media Post Sentiment Optimizer",
+  "domain": "65",
+  "description": "Develop a system that analyzes post sentiment and suggests modifications to increase positive engagement using AI.",
+  "keywords": ["Sentiment Optimization", "AI Suggestions", "Social Media Content", "User Engagement"]
+},
+{
+  "id": 4996,
+  "title": "AI-Powered Social Media Hashtag Trend Analyzer",
+  "domain": "65",
+  "description": "Create a tool that tracks trending hashtags, evaluates performance, and suggests optimal tags for posts.",
+  "keywords": ["Hashtag Trends", "AI Analysis", "Social Media Marketing", "Content Optimization"]
+},
+{
+  "id": 4997,
+  "title": "Social Media Automated Poll Insights Generator",
+  "domain": "65",
+  "description": "Design a platform that collects and analyzes responses from polls or surveys on social media using AI.",
+  "keywords": ["Poll Insights", "AI Analytics", "Social Media Data", "User Feedback"]
+},
+{
+  "id": 4998,
+  "title": "AI-Powered Social Media Influencer ROI Tracker",
+  "domain": "65",
+  "description": "Develop a system that measures and predicts the ROI of influencer campaigns using engagement and conversion data.",
+  "keywords": ["Influencer ROI", "AI Analytics", "Social Media Marketing", "Campaign Performance"]
+},
+{
+  "id": 4999,
+  "title": "Automated Social Media Content Calendar Generator",
+  "domain": "65",
+  "description": "Create a platform that generates content calendars automatically based on engagement patterns, trends, and AI insights.",
+  "keywords": ["Content Calendar", "AI Automation", "Social Media Management", "Engagement Optimization"]
+},
+{
+  "id": 5000,
+  "title": "AI-Powered Social Media Viral Trend Tracker",
+  "domain": "65",
+  "description": "Build a system that identifies emerging viral trends in real time across multiple social platforms using AI.",
+  "keywords": ["Viral Trend Tracking", "AI Analysis", "Social Media Monitoring", "Real-Time Insights"]
+},
+// domain 66
+
+    
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
