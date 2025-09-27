@@ -39157,6 +39157,675 @@ const PROBLEMS_DATA = {
   "keywords": ["Multi-Pet Analytics", "AI PetTech", "Animal Welfare", "Health Monitoring"]
 },
 // domain 78
+{
+    "id": 5678,
+    "title": "Intelligent Home Energy Optimization System",
+    "domain": "78",
+    "description": "Develop a smart home energy management platform that learns user habits, predicts peak energy usage, and automatically optimizes consumption across appliances to reduce costs and improve sustainability.",
+    "keywords": ["Home Automation", "Energy Management", "Smart Devices"]
+},
+{
+    "id": 5679,
+    "title": "AI-Powered Home Security Surveillance",
+    "domain": "78",
+    "description": "Build an IoT-based home security system that uses smart cameras and sensors to detect unusual activities, classify threats with AI, and alert homeowners in real time with automated response options.",
+    "keywords": ["Home Security", "IoT Home", "Home Analytics"]
+},
+{
+    "id": 5680,
+    "title": "Voice-Controlled Smart Kitchen Assistant",
+    "domain": "78",
+    "description": "Create a voice-activated smart kitchen assistant that integrates with appliances to suggest recipes, adjust cooking times, and monitor ingredient stock levels for a seamless cooking experience.",
+    "keywords": ["Voice Control", "Smart Appliances", "Connected Home"]
+},
+{
+    "id": 5681,
+    "title": "Automated Climate Control Hub",
+    "domain": "78",
+    "description": "Design a climate control hub that integrates with HVAC systems and smart sensors to automatically adjust temperature, humidity, and air quality based on real-time environmental data and user preferences.",
+    "keywords": ["Climate Control", "Smart Devices", "Building Automation"]
+},
+{
+    "id": 5682,
+    "title": "Predictive Smart Lighting System",
+    "domain": "78",
+    "description": "Develop a predictive smart lighting system that learns user routines and ambient conditions to automatically adjust brightness and color temperature, reducing energy waste and enhancing comfort.",
+    "keywords": ["Smart Lighting", "Home Automation", "Energy Management"]
+},
+{
+    "id": 5683,
+    "title": "IoT-Enabled Smart Security Locks",
+    "domain": "78",
+    "description": "Build a connected home security lock system that supports biometric authentication, remote access, and emergency alerts while ensuring maximum safety through encrypted IoT communication.",
+    "keywords": ["Home Security", "IoT Home", "Connected Home"]
+},
+{
+    "id": 5684,
+    "title": "Home Appliance Usage Analytics Dashboard",
+    "domain": "78",
+    "description": "Create a real-time analytics dashboard that tracks the performance and energy usage of smart appliances, providing homeowners with actionable insights to improve efficiency and reduce costs.",
+    "keywords": ["Home Analytics", "Smart Appliances", "Energy Management"]
+},
+{
+    "id": 5685,
+    "title": "Voice-Activated Smart Mirror",
+    "domain": "78",
+    "description": "Design a voice-controlled smart mirror that displays daily schedules, weather, and health data, while integrating with other connected home systems for seamless automation.",
+    "keywords": ["Voice Control", "Smart Devices", "Connected Home"]
+},
+{
+    "id": 5686,
+    "title": "Automated Smart Irrigation for Homes",
+    "domain": "78",
+    "description": "Develop a smart irrigation system that monitors soil moisture, weather forecasts, and plant needs to automate water usage efficiently and sustainably.",
+    "keywords": ["Home Automation", "IoT Home", "Building Automation"]
+},
+{
+    "id": 5687,
+    "title": "Connected Home Safety Alert System",
+    "domain": "78",
+    "description": "Build a connected system that monitors gas leaks, fire hazards, and carbon monoxide levels, sending real-time alerts and triggering preventive actions to protect homeowners.",
+    "keywords": ["Home Security", "Smart Devices", "Connected Home"]
+},
+{
+    "id": 5688,
+    "title": "AI-Based Appliance Fault Detection",
+    "domain": "78",
+    "description": "Create a system that uses IoT sensors and AI algorithms to detect anomalies in smart appliances, predict failures, and schedule maintenance before breakdowns occur.",
+    "keywords": ["Smart Appliances", "IoT Home", "Home Analytics"]
+},
+{
+    "id": 5689,
+    "title": "Gesture-Controlled Smart Home Interface",
+    "domain": "78",
+    "description": "Develop a gesture recognition system that allows homeowners to control lighting, appliances, and entertainment systems without physical touch or voice commands.",
+    "keywords": ["Smart Devices", "Home Automation", "Connected Home"]
+},
+{
+    "id": 5690,
+    "title": "AI-Powered Personalized Climate Zones",
+    "domain": "78",
+    "description": "Design a climate control system that creates personalized temperature zones in different rooms using AI predictions and smart sensors for enhanced comfort and energy efficiency.",
+    "keywords": ["Climate Control", "Energy Management", "Smart Devices"]
+},
+{
+    "id": 5691,
+    "title": "Voice-Controlled Emergency Assistance System",
+    "domain": "78",
+    "description": "Build a home automation feature that allows users to call emergency services, alert neighbors, or activate alarms using voice commands in urgent situations.",
+    "keywords": ["Voice Control", "Home Security", "IoT Home"]
+},
+{
+    "id": 5692,
+    "title": "Home Automation Hub with Predictive Scheduling",
+    "domain": "78",
+    "description": "Create a central home automation hub that predicts user routines, automates repetitive tasks, and integrates all smart devices into a seamless, intelligent ecosystem.",
+    "keywords": ["Home Automation", "Connected Home", "Home Analytics"]
+},
+{
+    "id": 5693,
+    "title": "Energy-Efficient Smart Lighting Grid",
+    "domain": "78",
+    "description": "Develop a grid-based smart lighting system that adjusts dynamically based on natural light availability, occupancy, and real-time energy pricing to minimize electricity bills.",
+    "keywords": ["Smart Lighting", "Energy Management", "Building Automation"]
+},
+{
+    "id": 5694,
+    "title": "IoT-Enabled Smart Refrigerator Monitoring",
+    "domain": "78",
+    "description": "Build a smart refrigerator that tracks food expiry, suggests recipes, and integrates with shopping apps to reduce food waste and improve home efficiency.",
+    "keywords": ["Smart Appliances", "IoT Home", "Home Analytics"]
+},
+{
+    "id": 5695,
+    "title": "AI-Powered Home Security Drones",
+    "domain": "78",
+    "description": "Design an indoor drone-based home security system that autonomously patrols the house, detects threats, and streams live video to the homeowner’s mobile device.",
+    "keywords": ["Home Security", "IoT Home", "Smart Devices"]
+},
+{
+    "id": 5696,
+    "title": "Smart Thermostat with Voice Assistant Integration",
+    "domain": "78",
+    "description": "Develop a smart thermostat that integrates with major voice assistants, enabling intuitive climate control and automated energy-saving modes based on occupancy detection.",
+    "keywords": ["Climate Control", "Voice Control", "Energy Management"]
+},
+{
+    "id": 5697,
+    "title": "Home Analytics for Energy Forecasting",
+    "domain": "78",
+    "description": "Create a predictive analytics platform that forecasts household energy consumption, helping homeowners make informed decisions about appliance usage and energy-saving measures.",
+    "keywords": ["Home Analytics", "Energy Management", "Connected Home"]
+},
+{
+    "id": 5698,
+    "title": "AI-Driven Smart Lighting Personalization",
+    "domain": "78",
+    "description": "Build a smart lighting system that personalizes brightness and color schemes based on user moods, activities, and circadian rhythms.",
+    "keywords": ["Smart Lighting", "Voice Control", "Home Automation"]
+},
+{
+    "id": 5699,
+    "title": "Integrated Smart Home Entertainment Hub",
+    "domain": "78",
+    "description": "Design a home entertainment hub that connects televisions, speakers, and gaming systems, offering voice-controlled and automated personalized experiences.",
+    "keywords": ["Connected Home", "Smart Devices", "Voice Control"]
+},
+{
+    "id": 5700,
+    "title": "IoT-Based Smart Garage Automation",
+    "domain": "78",
+    "description": "Develop a smart garage system that automates door operations, monitors vehicle conditions, and integrates with home security for improved safety.",
+    "keywords": ["Home Automation", "IoT Home", "Home Security"]
+},
+{
+    "id": 5701,
+    "title": "AI-Powered Smart Appliance Scheduler",
+    "domain": "78",
+    "description": "Create a scheduler that automatically runs washing machines, dishwashers, and other appliances during off-peak hours to optimize electricity usage.",
+    "keywords": ["Smart Appliances", "Energy Management", "Home Automation"]
+},
+{
+    "id": 5702,
+    "title": "Voice-Enabled Home Office Assistant",
+    "domain": "78",
+    "description": "Design a home office automation assistant that controls lighting, screens, and devices via voice commands to improve productivity and ergonomics.",
+    "keywords": ["Voice Control", "Connected Home", "Smart Devices"]
+},
+{
+    "id": 5703,
+    "title": "IoT Smart Doorbell with AI Recognition",
+    "domain": "78",
+    "description": "Build a video doorbell with AI-powered facial recognition, motion detection, and voice-enabled communication to enhance home entry security.",
+    "keywords": ["Home Security", "IoT Home", "Smart Devices"]
+},
+{
+    "id": 5704,
+    "title": "Home Automation for Elderly Assistance",
+    "domain": "78",
+    "description": "Develop a home automation solution that monitors elderly residents’ health, provides reminders, and integrates fall detection sensors for emergency response.",
+    "keywords": ["Home Automation", "Smart Devices", "Home Security"]
+},
+{
+    "id": 5705,
+    "title": "Smart Lighting with Energy Analytics",
+    "domain": "78",
+    "description": "Create a smart lighting system that generates detailed energy usage analytics, helping homeowners track patterns and reduce unnecessary consumption.",
+    "keywords": ["Smart Lighting", "Home Analytics", "Energy Management"]
+},
+{
+    "id": 5706,
+    "title": "IoT-Enabled Laundry Automation System",
+    "domain": "78",
+    "description": "Build an IoT-enabled laundry system that monitors washing cycles, detergent levels, and water consumption while providing notifications via mobile apps.",
+    "keywords": ["Smart Appliances", "IoT Home", "Connected Home"]
+},
+{
+    "id": 5707,
+    "title": "AI-Powered Smart Climate Forecasting",
+    "domain": "78",
+    "description": "Design a climate control system that forecasts weather conditions and adjusts indoor heating or cooling in advance for maximum comfort and energy savings.",
+    "keywords": ["Climate Control", "Home Analytics", "Energy Management"]
+},
+{
+    "id": 5708,
+    "title": "Multi-Zone Smart Security Sensors",
+    "domain": "78",
+    "description": "Develop a security system that uses distributed IoT sensors across different zones of a home, enabling detailed monitoring and intelligent incident detection.",
+    "keywords": ["Home Security", "IoT Home", "Building Automation"]
+},
+{
+    "id": 5709,
+    "title": "Voice-Activated Smart Bed System",
+    "domain": "78",
+    "description": "Create a voice-controlled smart bed that adjusts firmness, tracks sleep quality, and integrates with climate and lighting systems for improved rest.",
+    "keywords": ["Voice Control", "Smart Devices", "Home Automation"]
+},
+{
+    "id": 5710,
+    "title": "Connected Smart Appliance Ecosystem",
+    "domain": "78",
+    "description": "Design an ecosystem where multiple smart appliances communicate seamlessly, sharing data to optimize energy usage and automate household routines.",
+    "keywords": ["Smart Appliances", "Connected Home", "Energy Management"]
+},
+{
+    "id": 5711,
+    "title": "Home Analytics for Appliance Health Monitoring",
+    "domain": "78",
+    "description": "Build an analytics tool that tracks appliance health, predicts lifespan, and recommends maintenance schedules for optimal performance.",
+    "keywords": ["Home Analytics", "Smart Appliances", "IoT Home"]
+},
+{
+    "id": 5712,
+    "title": "AI-Powered Smart Lighting with Voice Interaction",
+    "domain": "78",
+    "description": "Create a smart lighting solution that adapts brightness and ambiance based on user preferences and responds to natural voice interactions.",
+    "keywords": ["Smart Lighting", "Voice Control", "Connected Home"]
+},
+{
+    "id": 5713,
+    "title": "IoT-Based Home Climate Emergency Response",
+    "domain": "78",
+    "description": "Develop a system that detects extreme temperature or humidity conditions indoors and activates preventive climate control measures automatically.",
+    "keywords": ["Climate Control", "IoT Home", "Home Security"]
+},
+{
+    "id": 5714,
+    "title": "Smart Home Behavioral Analytics System",
+    "domain": "78",
+    "description": "Design a behavioral analytics system that learns household patterns and adapts automation rules accordingly for comfort and efficiency.",
+    "keywords": ["Home Analytics", "Home Automation", "Smart Devices"]
+},
+{
+    "id": 5715,
+    "title": "IoT-Integrated Building Automation Gateway",
+    "domain": "78",
+    "description": "Build a building automation gateway that connects multiple smart homes within an apartment complex, managing shared utilities and security systems.",
+    "keywords": ["Building Automation", "Connected Home", "IoT Home"]
+},
+{
+    "id": 5716,
+    "title": "Smart Kitchen Waste Management System",
+    "domain": "78",
+    "description": "Create a smart waste management system for kitchens that tracks disposal habits, provides recycling guidance, and optimizes waste collection schedules.",
+    "keywords": ["Smart Appliances", "Home Automation", "Home Analytics"]
+},
+{
+    "id": 5717,
+    "title": "Voice-Controlled Child Safety System",
+    "domain": "78",
+    "description": "Develop a voice-enabled child safety system that locks dangerous appliances, monitors restricted areas, and alerts parents of potential risks.",
+    "keywords": ["Voice Control", "Home Security", "Smart Devices"]
+},
+{
+    "id": 5718,
+    "title": "Energy-Saving Smart Curtain Automation",
+    "domain": "78",
+    "description": "Design a smart curtain system that opens or closes based on sunlight intensity, indoor temperature, and energy-saving goals.",
+    "keywords": ["Home Automation", "Smart Devices", "Energy Management"]
+},
+{
+    "id": 5719,
+    "title": "IoT-Enabled Smart Lighting Emergency Mode",
+    "domain": "78",
+    "description": "Build a lighting system that automatically switches to emergency mode during power outages, guiding residents safely using backup energy sources.",
+    "keywords": ["Smart Lighting", "IoT Home", "Home Security"]
+},
+{
+    "id": 5720,
+    "title": "Personalized Smart Home Wellness Assistant",
+    "domain": "78",
+    "description": "Develop a wellness assistant that integrates with smart devices to monitor air quality, sleep, and energy usage, providing lifestyle improvement suggestions.",
+    "keywords": ["Smart Devices", "Home Analytics", "Climate Control"]
+},
+{
+    "id": 5721,
+    "title": "Connected Home Energy Sharing Network",
+    "domain": "78",
+    "description": "Design a peer-to-peer energy sharing platform where connected homes can trade surplus renewable energy for optimized community usage.",
+    "keywords": ["Connected Home", "Energy Management", "Building Automation"]
+},
+{
+    "id": 5722,
+    "title": "AI-Powered Smart Appliance Auto-Tuner",
+    "domain": "78",
+    "description": "Create a system that automatically adjusts smart appliance settings based on performance data and energy optimization goals.",
+    "keywords": ["Smart Appliances", "Home Analytics", "Home Automation"]
+},
+{
+    "id": 5723,
+    "title": "Home Security with Predictive Threat Detection",
+    "domain": "78",
+    "description": "Develop a predictive AI-based security platform that analyzes patterns in home activity and detects potential intrusions before they occur.",
+    "keywords": ["Home Security", "Home Analytics", "IoT Home"]
+},
+{
+    "id": 5724,
+    "title": "AI-Integrated Smart Lighting for Productivity",
+    "domain": "78",
+    "description": "Design a smart lighting solution that adapts color temperature and brightness to enhance focus, relaxation, or creativity based on user tasks.",
+    "keywords": ["Smart Lighting", "Home Automation", "Voice Control"]
+},
+{
+    "id": 5725,
+    "title": "Comprehensive Smart Home Automation Platform",
+    "domain": "78",
+    "description": "Build an all-in-one platform that integrates lighting, appliances, security, and climate control into a unified automation system with AI-powered decision making.",
+    "keywords": ["Home Automation", "Connected Home", "Building Automation"]
+},
+//domain 79
+{
+    "id": 5726,
+    "title": "Retail Analytics Dashboard for Decision Making",
+    "domain": "79",
+    "description": "Develop a dashboard that aggregates retail data and applies analytics to provide insights into sales, customer behavior, and store performance, enabling managers to make data-driven decisions.",
+    "keywords": ["Retail Analytics", "Retail Data", "Customer Experience"]
+},
+{
+    "id": 5727,
+    "title": "AI-Powered Point of Sale System",
+    "domain": "79",
+    "description": "Create a next-generation POS system powered by AI that can recommend upsells, optimize checkout speed, and adapt dynamically to customer preferences.",
+    "keywords": ["Point of Sale", "Retail AI", "Customer Experience"]
+},
+{
+    "id": 5728,
+    "title": "Inventory Forecasting with Machine Learning",
+    "domain": "79",
+    "description": "Design a system that predicts inventory needs using historical sales data and seasonal trends, preventing overstocking or stockouts.",
+    "keywords": ["Inventory Management", "Retail Analytics", "Retail Data"]
+},
+{
+    "id": 5729,
+    "title": "Seamless Omnichannel Retail Experience",
+    "domain": "79",
+    "description": "Build a platform that synchronizes physical and online store data, ensuring consistent customer experiences and inventory visibility across all channels.",
+    "keywords": ["Omnichannel", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5730,
+    "title": "Cashierless Shopping System",
+    "domain": "79",
+    "description": "Develop a smart store system with IoT sensors and computer vision that allows customers to pick items and walk out, with automatic billing enabled.",
+    "keywords": ["Cashierless Shopping", "Smart Stores", "Retail Automation"]
+},
+{
+    "id": 5731,
+    "title": "Visual Merchandising Optimization Tool",
+    "domain": "79",
+    "description": "Create an AI system that analyzes customer movement patterns and suggests the best visual merchandising layouts to maximize sales.",
+    "keywords": ["Visual Merchandising", "Retail AI", "Customer Experience"]
+},
+{
+    "id": 5732,
+    "title": "Retail Data-Driven Loyalty System",
+    "domain": "79",
+    "description": "Design a loyalty platform that uses retail analytics to personalize offers and discounts, increasing customer retention.",
+    "keywords": ["Retail Data", "Customer Experience", "Retail Analytics"]
+},
+{
+    "id": 5733,
+    "title": "AI Chatbot for In-Store Assistance",
+    "domain": "79",
+    "description": "Develop an AI-powered chatbot integrated into smart kiosks or mobile apps to guide customers through product discovery and in-store navigation.",
+    "keywords": ["Retail AI", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5734,
+    "title": "Automated Shelf Monitoring System",
+    "domain": "79",
+    "description": "Build a system using cameras and sensors to track product availability on shelves and notify staff when restocking is needed.",
+    "keywords": ["Retail Automation", "Inventory Management", "Smart Stores"]
+},
+{
+    "id": 5735,
+    "title": "Omnichannel Returns Management Platform",
+    "domain": "79",
+    "description": "Develop a returns system that lets customers return online purchases in physical stores seamlessly while updating inventory records in real time.",
+    "keywords": ["Omnichannel", "Inventory Management", "Customer Experience"]
+},
+{
+    "id": 5736,
+    "title": "Retail Analytics for Dynamic Pricing",
+    "domain": "79",
+    "description": "Create a pricing engine that uses real-time retail data to adjust prices dynamically based on demand, competition, and customer patterns.",
+    "keywords": ["Retail Analytics", "Retail Data", "Retail AI"]
+},
+{
+    "id": 5737,
+    "title": "Smart Mirror Shopping Assistant",
+    "domain": "79",
+    "description": "Design a smart mirror that allows customers to virtually try products, see recommendations, and purchase directly in-store.",
+    "keywords": ["Smart Stores", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5738,
+    "title": "AI-Powered Staff Scheduling",
+    "domain": "79",
+    "description": "Develop a tool that optimizes staff schedules in retail stores based on predicted customer footfall and sales trends.",
+    "keywords": ["Retail AI", "Retail Analytics", "Store Technology"]
+},
+{
+    "id": 5739,
+    "title": "Cashierless Pop-Up Stores",
+    "domain": "79",
+    "description": "Build a ready-to-deploy cashierless pop-up retail solution for brands to set up instant stores at events or high-traffic locations.",
+    "keywords": ["Cashierless Shopping", "Smart Stores", "Retail Automation"]
+},
+{
+    "id": 5740,
+    "title": "Retail Automation for Checkout-Free Queues",
+    "domain": "79",
+    "description": "Develop a system that automates checkout queues by integrating AI-based scanning and payment solutions, reducing wait times.",
+    "keywords": ["Retail Automation", "Point of Sale", "Retail AI"]
+},
+{
+    "id": 5741,
+    "title": "Customer Experience Personalization Engine",
+    "domain": "79",
+    "description": "Build a recommendation engine that personalizes store layouts, promotions, and service experiences based on customer behavior.",
+    "keywords": ["Customer Experience", "Retail Analytics", "Retail AI"]
+},
+{
+    "id": 5742,
+    "title": "IoT-Based Inventory Tracking",
+    "domain": "79",
+    "description": "Design an IoT-enabled inventory management system that tracks stock levels across warehouses and stores in real time.",
+    "keywords": ["Inventory Management", "Store Technology", "Smart Stores"]
+},
+{
+    "id": 5743,
+    "title": "Omnichannel Customer Feedback Analyzer",
+    "domain": "79",
+    "description": "Create a system that collects and analyzes customer feedback across online and offline retail channels, giving actionable insights.",
+    "keywords": ["Omnichannel", "Customer Experience", "Retail Data"]
+},
+{
+    "id": 5744,
+    "title": "Visual Merchandising AR Assistant",
+    "domain": "79",
+    "description": "Develop an augmented reality application to help store managers visualize and test different merchandising setups virtually before implementation.",
+    "keywords": ["Visual Merchandising", "Store Technology", "Customer Experience"]
+},
+{
+    "id": 5745,
+    "title": "AI-Powered Shrinkage Prevention System",
+    "domain": "79",
+    "description": "Build a system that detects retail theft or shrinkage in real time using computer vision and predictive analytics.",
+    "keywords": ["Retail AI", "Retail Analytics", "Store Technology"]
+},
+{
+    "id": 5746,
+    "title": "Self-Checkout POS with Voice Commands",
+    "domain": "79",
+    "description": "Create a self-checkout point-of-sale system that allows customers to scan, pay, and manage purchases using voice commands for accessibility.",
+    "keywords": ["Point of Sale", "Customer Experience", "Retail Automation"]
+},
+{
+    "id": 5747,
+    "title": "Retail Data Integration Hub",
+    "domain": "79",
+    "description": "Design a centralized hub that integrates retail data from POS, inventory, and customer touchpoints into a single analytics platform.",
+    "keywords": ["Retail Data", "Retail Analytics", "Store Technology"]
+},
+{
+    "id": 5748,
+    "title": "Smart Stores Energy Optimization",
+    "domain": "79",
+    "description": "Develop an energy management system for smart stores that optimizes lighting, heating, and cooling based on customer movement.",
+    "keywords": ["Smart Stores", "Retail Automation", "Store Technology"]
+},
+{
+    "id": 5749,
+    "title": "AI-Driven Retail Product Placement",
+    "domain": "79",
+    "description": "Create an AI system that recommends the best shelf placement for products to maximize visibility and sales.",
+    "keywords": ["Visual Merchandising", "Retail AI", "Retail Analytics"]
+},
+{
+    "id": 5750,
+    "title": "Omnichannel Promotion Engine",
+    "domain": "79",
+    "description": "Build a system that synchronizes promotions across online and offline channels to deliver a unified retail experience.",
+    "keywords": ["Omnichannel", "Customer Experience", "Retail Data"]
+},
+{
+    "id": 5751,
+    "title": "Cashierless Smart Cart",
+    "domain": "79",
+    "description": "Develop a smart cart that scans items automatically and processes checkout without customer intervention.",
+    "keywords": ["Cashierless Shopping", "Smart Stores", "Point of Sale"]
+},
+{
+    "id": 5752,
+    "title": "Retail Analytics for Foot Traffic Patterns",
+    "domain": "79",
+    "description": "Create a system that analyzes customer foot traffic patterns within stores to optimize layouts and staffing.",
+    "keywords": ["Retail Analytics", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5753,
+    "title": "Inventory Management with Blockchain",
+    "domain": "79",
+    "description": "Design a blockchain-based inventory management solution that ensures transparency and prevents fraud in supply chains.",
+    "keywords": ["Inventory Management", "Retail Data", "Store Technology"]
+},
+{
+    "id": 5754,
+    "title": "Retail AI for Demand Forecasting",
+    "domain": "79",
+    "description": "Build an AI-driven demand forecasting tool to predict product demand spikes based on seasonality and trends.",
+    "keywords": ["Retail AI", "Inventory Management", "Retail Analytics"]
+},
+{
+    "id": 5755,
+    "title": "AR-Based Virtual Store Experience",
+    "domain": "79",
+    "description": "Develop an AR platform that lets customers explore and shop in a virtual version of the physical store from their devices.",
+    "keywords": ["Smart Stores", "Customer Experience", "Visual Merchandising"]
+},
+{
+    "id": 5756,
+    "title": "POS Integrated with Mobile Wallets",
+    "domain": "79",
+    "description": "Create a point-of-sale system that integrates with mobile wallets and QR payments for faster, contactless checkout.",
+    "keywords": ["Point of Sale", "Store Technology", "Customer Experience"]
+},
+{
+    "id": 5757,
+    "title": "Retail Automation for Restocking Robots",
+    "domain": "79",
+    "description": "Design autonomous robots that detect empty shelves and restock products in retail stores automatically.",
+    "keywords": ["Retail Automation", "Inventory Management", "Smart Stores"]
+},
+{
+    "id": 5758,
+    "title": "AI-Powered Customer Sentiment Analysis",
+    "domain": "79",
+    "description": "Develop an AI engine that analyzes customer conversations, reviews, and feedback to enhance customer experiences in retail.",
+    "keywords": ["Retail AI", "Customer Experience", "Retail Data"]
+},
+{
+    "id": 5759,
+    "title": "Smart Fitting Room with Personalization",
+    "domain": "79",
+    "description": "Create a smart fitting room equipped with RFID and AR to recommend alternative sizes or styles based on customer preferences.",
+    "keywords": ["Smart Stores", "Customer Experience", "Visual Merchandising"]
+},
+{
+    "id": 5760,
+    "title": "Omnichannel Loyalty Wallet",
+    "domain": "79",
+    "description": "Build a digital loyalty wallet that syncs reward points and offers across online and offline retail channels.",
+    "keywords": ["Omnichannel", "Customer Experience", "Retail Data"]
+},
+{
+    "id": 5761,
+    "title": "Predictive Maintenance for Store Equipment",
+    "domain": "79",
+    "description": "Develop a predictive maintenance system for retail equipment like POS machines and scanners to minimize downtime.",
+    "keywords": ["Store Technology", "Retail Automation", "Retail Analytics"]
+},
+{
+    "id": 5762,
+    "title": "Cashierless Micro-Retail Pods",
+    "domain": "79",
+    "description": "Design small, automated retail pods for airports and campuses with cashierless shopping and remote management.",
+    "keywords": ["Cashierless Shopping", "Smart Stores", "Store Technology"]
+},
+{
+    "id": 5763,
+    "title": "AI-Powered Retail Fraud Detection",
+    "domain": "79",
+    "description": "Create an AI system that detects fraudulent transactions or unusual purchase patterns at retail points of sale.",
+    "keywords": ["Retail AI", "Point of Sale", "Retail Data"]
+},
+{
+    "id": 5764,
+    "title": "Retail Data Visualization Platform",
+    "domain": "79",
+    "description": "Build an interactive data visualization tool that helps retail managers explore KPIs, trends, and predictive insights.",
+    "keywords": ["Retail Data", "Retail Analytics", "Customer Experience"]
+},
+{
+    "id": 5765,
+    "title": "Visual Merchandising Recommendation Engine",
+    "domain": "79",
+    "description": "Develop an AI recommendation engine that analyzes sales data and recommends merchandising strategies for better product displays.",
+    "keywords": ["Visual Merchandising", "Retail Analytics", "Retail AI"]
+},
+{
+    "id": 5766,
+    "title": "Smart Checkout with Biometric Authentication",
+    "domain": "79",
+    "description": "Design a biometric-based checkout system that uses facial recognition or fingerprints for secure and quick payments.",
+    "keywords": ["Point of Sale", "Smart Stores", "Customer Experience"]
+},
+{
+    "id": 5767,
+    "title": "AI-Powered Shelf Stock Prediction",
+    "domain": "79",
+    "description": "Create an AI tool that predicts which products are likely to sell out soon and alerts staff for timely restocking.",
+    "keywords": ["Inventory Management", "Retail AI", "Retail Analytics"]
+},
+{
+    "id": 5768,
+    "title": "Omnichannel Gift Registry System",
+    "domain": "79",
+    "description": "Develop a gift registry platform that integrates with online and physical retail channels, allowing customers to shop seamlessly.",
+    "keywords": ["Omnichannel", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5769,
+    "title": "Retail Automation for Pricing Labels",
+    "domain": "79",
+    "description": "Design an automated system for updating digital price tags across retail stores in real time.",
+    "keywords": ["Retail Automation", "Store Technology", "Retail Data"]
+},
+{
+    "id": 5770,
+    "title": "Customer Heatmap Analytics",
+    "domain": "79",
+    "description": "Build a system that generates heatmaps of customer activity inside stores, highlighting popular zones and improving layouts.",
+    "keywords": ["Customer Experience", "Retail Analytics", "Smart Stores"]
+},
+{
+    "id": 5771,
+    "title": "Smart Stores Accessibility Assistant",
+    "domain": "79",
+    "description": "Develop an accessibility-focused assistant for smart stores, guiding visually impaired or disabled customers through their shopping journey.",
+    "keywords": ["Smart Stores", "Customer Experience", "Store Technology"]
+},
+{
+    "id": 5772,
+    "title": "Retail AI for Upselling and Cross-Selling",
+    "domain": "79",
+    "description": "Create an AI-based solution that suggests upsells and cross-sells at checkout based on customer purchase history.",
+    "keywords": ["Retail AI", "Point of Sale", "Customer Experience"]
+},
+//domain 80
+
+
 
 
 
