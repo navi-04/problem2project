@@ -35407,8 +35407,8 @@ const PROBLEMS_DATA = {
   "domain": "68",
   "description": "Develop an AI-based mediation platform that analyzes case details and suggests fair settlement options for disputing parties.",
   "keywords": ["Legal AI", "Legal Practice Management", "Contract Analysis"]
-}
-//domain -69
+},
+// domain 69 - Insurance Technology / InsurTech
 {
     "id": 5144,
     "title": "AI-Powered Insurance Analytics Dashboard",
