@@ -28424,7 +28424,7 @@ const PROBLEMS_DATA = {
         "description": "Build a system that extracts opinions and reviews from multilingual sources, providing aggregated sentiment analysis across regions and languages.",
         "keywords": ["Sentiment Analysis", "Text Mining", "Language Models"]
     },
-    domain-50
+    //domain50
     {
         "id": 4151,
         "title": "Real-Time Object Detection for Autonomous Vehicles",
