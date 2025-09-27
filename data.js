@@ -40505,6 +40505,342 @@ const PROBLEMS_DATA = {
     "keywords": ["Artifact Analysis", "Digital Preservation", "Digital Archaeology"]
 },
 //domain -82
+{
+    "id": 5970,
+    "title": "AI-Powered Personalized Prayer App",
+    "domain": "82",
+    "description": "A mobile application that uses AI to generate personalized daily prayers based on user moods, life events, and faith traditions. It adapts scripture and devotional texts to individual needs, offering an intimate spiritual connection.",
+    "keywords": ["Prayer Apps", "Spiritual Wellness", "Faith-based Apps"]
+},
+{
+    "id": 5971,
+    "title": "Gamified Religious Education Platform",
+    "domain": "82",
+    "description": "An interactive platform that gamifies religious studies with quizzes, challenges, and rewards to engage children and youth in learning scripture and spiritual history in a fun way.",
+    "keywords": ["Religious Education", "Faith Communities", "Religious Content"]
+},
+{
+    "id": 5972,
+    "title": "Virtual Faith Community Hub",
+    "domain": "82",
+    "description": "A digital community platform where believers can join virtual congregations, share testimonies, and attend online prayer groups, fostering a sense of belonging beyond physical gatherings.",
+    "keywords": ["Faith Communities", "Religious Communication", "Spiritual Guidance"]
+},
+{
+    "id": 5973,
+    "title": "Scripture-Based AI Chatbot",
+    "domain": "82",
+    "description": "An AI chatbot trained on religious texts that provides instant scripture references, explanations, and moral guidance to help users apply faith teachings to everyday challenges.",
+    "keywords": ["Scripture Technology", "Spiritual Guidance", "Religious Content"]
+},
+{
+    "id": 5974,
+    "title": "Mindful Meditation Prayer App",
+    "domain": "82",
+    "description": "An app that combines guided meditation techniques with spiritual prayers to help users achieve inner peace while staying connected to their faith practices.",
+    "keywords": ["Meditation Apps", "Prayer Apps", "Spiritual Wellness"]
+},
+{
+    "id": 5975,
+    "title": "Religious Big Data Analytics Dashboard",
+    "domain": "82",
+    "description": "A platform that analyzes global religious trends, worship attendance, and digital scripture engagement to help institutions better serve their faith communities.",
+    "keywords": ["Religious Analytics", "Faith Communities", "Religious Communication"]
+},
+{
+    "id": 5976,
+    "title": "Interfaith Learning and Dialogue App",
+    "domain": "82",
+    "description": "An educational app that fosters interfaith dialogue by presenting teachings, traditions, and scriptures from multiple religions, encouraging mutual respect and understanding.",
+    "keywords": ["Religious Education", "Faith Communities", "Sacred Technology"]
+},
+{
+    "id": 5977,
+    "title": "Spiritual Wellness Tracker",
+    "domain": "82",
+    "description": "A wellness tracker that monitors spiritual practices like prayer frequency, meditation duration, and scripture study while offering motivational insights for personal growth.",
+    "keywords": ["Spiritual Wellness", "Prayer Apps", "Meditation Apps"]
+},
+{
+    "id": 5978,
+    "title": "Sacred Text Digital Archive",
+    "domain": "82",
+    "description": "A secure and searchable digital archive of sacred texts with advanced annotation, translation, and audio features to enhance religious study and accessibility.",
+    "keywords": ["Scripture Technology", "Religious Content", "Sacred Technology"]
+},
+{
+    "id": 5979,
+    "title": "Faith-Based Family Learning Platform",
+    "domain": "82",
+    "description": "A digital platform for families to learn and practice faith together, including shared devotionals, family prayer rooms, and child-friendly scripture stories.",
+    "keywords": ["Religious Education", "Prayer Apps", "Faith Communities"]
+},
+{
+    "id": 5980,
+    "title": "AI-Powered Sermon Assistant",
+    "domain": "82",
+    "description": "A tool for religious leaders that generates sermon outlines, scripture references, and contextual insights to aid in preparing faith-based messages.",
+    "keywords": ["Religious Content", "Spiritual Guidance", "Religious Analytics"]
+},
+{
+    "id": 5981,
+    "title": "Virtual Religious Retreat Platform",
+    "domain": "82",
+    "description": "A digital platform offering immersive virtual retreats with guided prayers, spiritual workshops, and community interaction for believers worldwide.",
+    "keywords": ["Spiritual Wellness", "Faith Communities", "Prayer Apps"]
+},
+{
+    "id": 5982,
+    "title": "Scripture Memory Gamification App",
+    "domain": "82",
+    "description": "An app that helps users memorize scripture through interactive flashcards, gamified quizzes, and progress tracking, making scripture study more engaging.",
+    "keywords": ["Scripture Technology", "Religious Education", "Faith-based Apps"]
+},
+{
+    "id": 5983,
+    "title": "Religious Communication Translator",
+    "domain": "82",
+    "description": "A multilingual translator for prayers, sermons, and religious texts that enables cross-cultural spiritual communication and access.",
+    "keywords": ["Religious Communication", "Sacred Technology", "Religious Content"]
+},
+{
+    "id": 5984,
+    "title": "Spiritual Guidance AI Mentor",
+    "domain": "82",
+    "description": "An AI-powered mentor that offers personalized spiritual advice, scripture-based encouragement, and faith-based wellness tips to users daily.",
+    "keywords": ["Spiritual Guidance", "Prayer Apps", "Faith-based Apps"]
+},
+{
+    "id": 5985,
+    "title": "Religious Podcast & Audio Hub",
+    "domain": "82",
+    "description": "A centralized platform for faith-based audio content such as sermons, scripture readings, prayers, and podcasts for spiritual enrichment.",
+    "keywords": ["Religious Content", "Faith Communities", "Spiritual Wellness"]
+},
+{
+    "id": 5986,
+    "title": "Sacred Ritual Scheduler",
+    "domain": "82",
+    "description": "A smart calendar app that reminds users of upcoming holy days, rituals, and prayer times according to their faith tradition.",
+    "keywords": ["Sacred Technology", "Prayer Apps", "Religious Communication"]
+},
+{
+    "id": 5987,
+    "title": "Faith-Based Youth Engagement App",
+    "domain": "82",
+    "description": "An interactive app designed to engage young believers with scripture stories, spiritual games, and community challenges that nurture faith development.",
+    "keywords": ["Religious Education", "Faith-based Apps", "Faith Communities"]
+},
+{
+    "id": 5988,
+    "title": "Meditation & Scripture Sync App",
+    "domain": "82",
+    "description": "A meditation app that integrates scripture readings into mindfulness sessions, helping users deepen spiritual reflection while relaxing their mind.",
+    "keywords": ["Meditation Apps", "Scripture Technology", "Spiritual Wellness"]
+},
+{
+    "id": 5989,
+    "title": "AI-Powered Religious Question Answering",
+    "domain": "82",
+    "description": "An intelligent Q&A platform that provides faith-based answers to common religious questions using scripture analysis and traditional teachings.",
+    "keywords": ["Religious Analytics", "Scripture Technology", "Spiritual Guidance"]
+},
+{
+    "id": 5990,
+    "title": "Sacred Art and Iconography Platform",
+    "domain": "82",
+    "description": "A digital platform showcasing sacred art, religious icons, and scripture-inspired designs with AR features to enhance spiritual appreciation.",
+    "keywords": ["Sacred Technology", "Religious Content", "Faith Communities"]
+},
+{
+    "id": 5991,
+    "title": "Prayer Circle Live Streaming App",
+    "domain": "82",
+    "description": "A live streaming app that allows believers to join global prayer circles, share intentions, and experience unity in faith.",
+    "keywords": ["Prayer Apps", "Religious Communication", "Faith Communities"]
+},
+{
+    "id": 5992,
+    "title": "Scripture Annotation & Collaboration Tool",
+    "domain": "82",
+    "description": "A collaborative scripture study platform where users can annotate passages, share reflections, and build group study notes.",
+    "keywords": ["Scripture Technology", "Religious Education", "Faith-based Apps"]
+},
+{
+    "id": 5993,
+    "title": "Spiritual Wellness Habit Builder",
+    "domain": "82",
+    "description": "An app that helps users create and maintain spiritual habits such as daily prayer, scripture reading, and meditation through reminders and streak tracking.",
+    "keywords": ["Spiritual Wellness", "Prayer Apps", "Meditation Apps"]
+},
+{
+    "id": 5994,
+    "title": "Faith-Based Counseling App",
+    "domain": "82",
+    "description": "A secure platform connecting users with faith-based counselors and mentors for spiritual and emotional support through video or chat sessions.",
+    "keywords": ["Spiritual Guidance", "Faith Communities", "Religious Communication"]
+},
+{
+    "id": 5995,
+    "title": "Global Religious Analytics Map",
+    "domain": "82",
+    "description": "A real-time interactive map that visualizes global prayer activity, worship trends, and scripture engagement across faith communities.",
+    "keywords": ["Religious Analytics", "Faith Communities", "Sacred Technology"]
+},
+{
+    "id": 5996,
+    "title": "Spiritual AI Dream Interpreter",
+    "domain": "82",
+    "description": "An AI-powered tool that interprets dreams with references from scripture and faith traditions, offering spiritual meaning and guidance.",
+    "keywords": ["Spiritual Guidance", "Scripture Technology", "Faith-based Apps"]
+},
+{
+    "id": 5997,
+    "title": "Children’s Prayer & Storytelling App",
+    "domain": "82",
+    "description": "A faith-based storytelling app that teaches children spiritual values through prayers, songs, and interactive stories rooted in scripture.",
+    "keywords": ["Prayer Apps", "Religious Education", "Religious Content"]
+},
+{
+    "id": 5998,
+    "title": "AI-Powered Scripture Translation Tool",
+    "domain": "82",
+    "description": "An AI system that translates scripture into multiple languages while preserving cultural and spiritual nuances.",
+    "keywords": ["Scripture Technology", "Religious Communication", "Sacred Technology"]
+},
+{
+    "id": 5999,
+    "title": "Faith-Based Spiritual Journaling App",
+    "domain": "82",
+    "description": "A journaling app where users can reflect on scripture, track prayer requests, and document spiritual growth over time.",
+    "keywords": ["Spiritual Wellness", "Faith-based Apps", "Prayer Apps"]
+},
+{
+    "id": 6000,
+    "title": "AI-Powered Sacred Music Generator",
+    "domain": "82",
+    "description": "A music app that generates faith-inspired music and chants using scripture and traditional melodies for worship and meditation sessions.",
+    "keywords": ["Sacred Technology", "Religious Content", "Meditation Apps"]
+},
+{
+    "id": 6001,
+    "title": "Faith-Based Virtual Reality Worship",
+    "domain": "82",
+    "description": "A VR platform that allows believers to attend immersive virtual worship services, sacred site tours, and prayer gatherings globally.",
+    "keywords": ["Sacred Technology", "Faith Communities", "Prayer Apps"]
+},
+{
+    "id": 6002,
+    "title": "Spiritual Crisis Support Chatbot",
+    "domain": "82",
+    "description": "An AI chatbot that provides scripture-based comfort, faith encouragement, and resources during moments of spiritual crisis.",
+    "keywords": ["Spiritual Guidance", "Religious Communication", "Faith-based Apps"]
+},
+{
+    "id": 6003,
+    "title": "Faith-Based Volunteer Matching App",
+    "domain": "82",
+    "description": "A digital platform connecting believers with local and global volunteer opportunities aligned with their spiritual values.",
+    "keywords": ["Faith Communities", "Religious Communication", "Spiritual Wellness"]
+},
+{
+    "id": 6004,
+    "title": "Scripture-Based Decision Support App",
+    "domain": "82",
+    "description": "An app that helps users make ethical and spiritual decisions by matching scripture references to real-life dilemmas.",
+    "keywords": ["Scripture Technology", "Spiritual Guidance", "Faith-based Apps"]
+},
+{
+    "id": 6005,
+    "title": "Religious Festival Planning App",
+    "domain": "82",
+    "description": "An app that helps communities plan and organize religious festivals, rituals, and ceremonies with scheduling and communication tools.",
+    "keywords": ["Faith Communities", "Religious Communication", "Sacred Technology"]
+},
+{
+    "id": 6006,
+    "title": "Meditation with Scripture Audio",
+    "domain": "82",
+    "description": "An app combining calming meditation sounds with scripture recitations for spiritual relaxation and mindfulness.",
+    "keywords": ["Meditation Apps", "Religious Content", "Spiritual Wellness"]
+},
+{
+    "id": 6007,
+    "title": "AI-Powered Prayer Recommendation Engine",
+    "domain": "82",
+    "description": "An AI engine that suggests prayers and scripture readings based on personal struggles, life events, and spiritual goals.",
+    "keywords": ["Prayer Apps", "Religious Analytics", "Spiritual Guidance"]
+},
+{
+    "id": 6008,
+    "title": "Faith-Based Donation Transparency App",
+    "domain": "82",
+    "description": "An app that enables believers to donate to religious institutions and track how their contributions are being used for community benefit.",
+    "keywords": ["Faith Communities", "Religious Analytics", "Religious Communication"]
+},
+{
+    "id": 6009,
+    "title": "Spiritual Mentorship Matching Platform",
+    "domain": "82",
+    "description": "A mentorship app that connects seekers with spiritual mentors and religious leaders for guidance, study, and prayer support.",
+    "keywords": ["Spiritual Guidance", "Faith-based Apps", "Faith Communities"]
+},
+{
+    "id": 6010,
+    "title": "Global Interfaith Prayer Chain",
+    "domain": "82",
+    "description": "A platform enabling people worldwide to join continuous interfaith prayer chains for peace, healing, and global unity.",
+    "keywords": ["Prayer Apps", "Faith Communities", "Religious Communication"]
+},
+{
+    "id": 6011,
+    "title": "AI-Powered Religious Trends Forecaster",
+    "domain": "82",
+    "description": "A predictive analytics platform that forecasts religious participation trends, scripture engagement, and prayer activity globally.",
+    "keywords": ["Religious Analytics", "Faith Communities", "Religious Content"]
+},
+{
+    "id": 6012,
+    "title": "Sacred Places Virtual Guide",
+    "domain": "82",
+    "description": "A mobile app offering AR/VR tours of sacred places with historical, scriptural, and spiritual insights for believers and researchers.",
+    "keywords": ["Sacred Technology", "Religious Content", "Faith Communities"]
+},
+{
+    "id": 6013,
+    "title": "Religious Gamification for Spiritual Growth",
+    "domain": "82",
+    "description": "A gamified app that rewards users for completing spiritual tasks such as daily prayers, scripture readings, and meditation sessions.",
+    "keywords": ["Faith-based Apps", "Prayer Apps", "Spiritual Wellness"]
+},
+{
+    "id": 6014,
+    "title": "Spiritual AI Companion",
+    "domain": "82",
+    "description": "An always-available AI companion that provides comfort, scripture encouragement, and prayer reminders to believers.",
+    "keywords": ["Spiritual Guidance", "Faith-based Apps", "Prayer Apps"]
+},
+{
+    "id": 6015,
+    "title": "Global Faith-Based Learning Network",
+    "domain": "82",
+    "description": "A collaborative e-learning network where institutions share religious courses, scripture study programs, and spiritual workshops.",
+    "keywords": ["Religious Education", "Faith Communities", "Religious Content"]
+},
+{
+    "id": 6016,
+    "title": "AI-Powered Sacred Calendar",
+    "domain": "82",
+    "description": "An intelligent calendar app that integrates scripture reminders, holy days, and meditation alerts personalized for each user.",
+    "keywords": ["Sacred Technology", "Prayer Apps", "Religious Analytics"]
+},
+{
+    "id": 6017,
+    "title": "Faith-Based Wellness Community App",
+    "domain": "82",
+    "description": "A mobile app fostering holistic wellness through scripture-based fitness challenges, mindful meditation, and faith-driven wellness groups.",
+    "keywords": ["Spiritual Wellness", "Faith Communities", "Meditation Apps"]
+}
 
 
 
