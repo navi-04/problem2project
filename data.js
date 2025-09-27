@@ -1913,6 +1913,7 @@ const DOMAIN_KEYWORDS = {
                 "Faith-based Apps", "Spiritual Guidance", "Religious Communication", "Sacred Technology"
             ]
         },
+        //new domains 
         "Geological": {
     "domain": "Geological Sciences / Earth Technology",
     "keywords": [
@@ -2161,6 +2162,7 @@ const DOMAIN_KEYWORDS = {
         "Translation Innovation", "Language Systems", "Communication Technology", "Linguistic Technology"
     ]
 }
+};
 
 // Comprehensive Problems Dataset (2000+ problems across 82+ domains)
 const PROBLEMS_DATA = {
