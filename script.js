@@ -342,10 +342,16 @@ class Problem2Project {
             this.toggleTheme();
         });
 
-        // Theme toggle for mobile
+        // Theme toggle for mobile (in top navbar)
         const themeToggleMobile = document.getElementById('theme-toggle-mobile');
         themeToggleMobile?.addEventListener('click', () => {
             this.toggleTheme();
+        });
+
+        // Search toggle for mobile (in top navbar)
+        const searchToggleMobile = document.getElementById('search-toggle-mobile');
+        searchToggleMobile?.addEventListener('click', () => {
+            this.showSearchOverlay();
         });
 
         // Bookmarks dropdown for desktop
