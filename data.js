@@ -39824,6 +39824,342 @@ const PROBLEMS_DATA = {
     "keywords": ["Retail AI", "Point of Sale", "Customer Experience"]
 },
 //domain 80
+{
+  "id": 5773,
+  "title": "AI-Powered Digital Library Search",
+  "domain": "80",
+  "description": "Develop an AI-driven search engine for digital libraries that provides context-aware and semantic search results, improving discoverability of books, journals, and multimedia resources.",
+  "keywords": ["Digital Libraries", "Information Retrieval", "Library Technology"]
+},
+{
+  "id": 5774,
+  "title": "Knowledge Graph for Academic Libraries",
+  "domain": "80",
+  "description": "Design a knowledge graph system that connects research papers, authors, topics, and citations, enhancing navigation and insight generation within academic digital collections.",
+  "keywords": ["Knowledge Management", "Digital Libraries", "Information Organization"]
+},
+{
+  "id": 5775,
+  "title": "Automated Cataloging System",
+  "domain": "80",
+  "description": "Build an AI-based cataloging system that automatically classifies and tags books, journals, and digital content to improve efficiency in library information organization.",
+  "keywords": ["Cataloging Systems", "Information Organization", "Library Technology"]
+},
+{
+  "id": 5776,
+  "title": "Personalized Library Recommendation Engine",
+  "domain": "80",
+  "description": "Develop a recommendation engine that suggests books, research articles, and digital content based on user preferences, search behavior, and academic goals.",
+  "keywords": ["Library Services", "Research Tools", "Digital Libraries"]
+},
+{
+  "id": 5777,
+  "title": "Library Analytics Dashboard",
+  "domain": "80",
+  "description": "Create a dashboard that visualizes library usage data, including borrowing trends, digital collection engagement, and user behavior analytics for better decision-making.",
+  "keywords": ["Library Analytics", "Digital Libraries", "Knowledge Management"]
+},
+{
+  "id": 5778,
+  "title": "Digital Archives Preservation Tool",
+  "domain": "80",
+  "description": "Develop a preservation system for digital archives that ensures long-term accessibility, metadata enrichment, and compliance with archival standards.",
+  "keywords": ["Digital Archives", "Digital Collections", "Knowledge Management"]
+},
+{
+  "id": 5779,
+  "title": "Voice-Enabled Library Search Assistant",
+  "domain": "80",
+  "description": "Design a voice-driven library assistant that allows users to search for digital and physical resources using natural language queries.",
+  "keywords": ["Information Retrieval", "Library Services", "Library Technology"]
+},
+{
+  "id": 5780,
+  "title": "Mobile Library Services Platform",
+  "domain": "80",
+  "description": "Create a mobile app that integrates borrowing, catalog browsing, and digital collection access to provide seamless library services to students and researchers.",
+  "keywords": ["Library Services", "Digital Libraries", "Library Technology"]
+},
+{
+  "id": 5781,
+  "title": "Metadata Enrichment Engine for Digital Collections",
+  "domain": "80",
+  "description": "Develop a system that enhances metadata quality for digital collections using NLP and machine learning to improve content discoverability.",
+  "keywords": ["Digital Collections", "Information Retrieval", "Knowledge Management"]
+},
+{
+  "id": 5782,
+  "title": "Federated Search Across Libraries",
+  "domain": "80",
+  "description": "Implement a federated search system that allows users to search across multiple library catalogs and digital archives from a single interface.",
+  "keywords": ["Digital Libraries", "Information Retrieval", "Research Tools"]
+},
+{
+  "id": 5783,
+  "title": "Ontology-Driven Knowledge Management Platform",
+  "domain": "80",
+  "description": "Design an ontology-based knowledge management system that structures academic information for effective retrieval and semantic search.",
+  "keywords": ["Knowledge Management", "Information Architecture", "Information Organization"]
+},
+{
+  "id": 5784,
+  "title": "Library Chatbot for Research Assistance",
+  "domain": "80",
+  "description": "Build a chatbot that assists users with library services, such as finding resources, managing accounts, and recommending research tools.",
+  "keywords": ["Library Services", "Research Tools", "Library Technology"]
+},
+{
+  "id": 5785,
+  "title": "Augmented Reality Library Navigation",
+  "domain": "80",
+  "description": "Create an AR application that guides users to specific shelves, resources, or digital kiosks within large libraries.",
+  "keywords": ["Library Technology", "Library Services", "Information Retrieval"]
+},
+{
+  "id": 5786,
+  "title": "Blockchain for Digital Archives Security",
+  "domain": "80",
+  "description": "Develop a blockchain-based system that secures digital archives, ensuring authenticity, tamper-proofing, and transparent record keeping.",
+  "keywords": ["Digital Archives", "Knowledge Management", "Library Technology"]
+},
+{
+  "id": 5787,
+  "title": "AI-Powered Plagiarism Detection in Digital Libraries",
+  "domain": "80",
+  "description": "Build a plagiarism detection engine integrated into digital libraries to help researchers verify originality of academic content.",
+  "keywords": ["Digital Libraries", "Research Tools", "Knowledge Management"]
+},
+{
+  "id": 5788,
+  "title": "Information Retrieval System with Sentiment Analysis",
+  "domain": "80",
+  "description": "Create an advanced retrieval system that ranks results not only by relevance but also by sentiment polarity for reviews and publications.",
+  "keywords": ["Information Retrieval", "Library Analytics", "Research Tools"]
+},
+{
+  "id": 5789,
+  "title": "Cross-Language Library Search Engine",
+  "domain": "80",
+  "description": "Develop a multilingual retrieval system that enables users to search library resources in one language and get results across multiple languages.",
+  "keywords": ["Information Retrieval", "Digital Libraries", "Information Organization"]
+},
+{
+  "id": 5790,
+  "title": "Library Data Mining Platform",
+  "domain": "80",
+  "description": "Design a data mining tool that uncovers patterns in borrowing trends, digital resource usage, and subject popularity across collections.",
+  "keywords": ["Library Analytics", "Knowledge Management", "Digital Collections"]
+},
+{
+  "id": 5791,
+  "title": "Smart Information Architecture for Libraries",
+  "domain": "80",
+  "description": "Build a modern information architecture that improves navigation, accessibility, and discoverability across digital and physical library systems.",
+  "keywords": ["Information Architecture", "Library Technology", "Information Organization"]
+},
+{
+  "id": 5792,
+  "title": "Digital Libraries Accessibility Enhancer",
+  "domain": "80",
+  "description": "Develop accessibility tools for digital libraries that support screen readers, adaptive layouts, and inclusive design for differently abled users.",
+  "keywords": ["Digital Libraries", "Library Services", "Information Architecture"]
+},
+{
+  "id": 5793,
+  "title": "Library Resource Citation Generator",
+  "domain": "80",
+  "description": "Create an automated citation tool integrated into library catalogs that generates properly formatted references for books and research papers.",
+  "keywords": ["Research Tools", "Cataloging Systems", "Library Services"]
+},
+{
+  "id": 5794,
+  "title": "Open Access Digital Collection Platform",
+  "domain": "80",
+  "description": "Develop a platform for hosting open access journals, research papers, and books with metadata-driven categorization.",
+  "keywords": ["Digital Collections", "Knowledge Management", "Library Services"]
+},
+{
+  "id": 5795,
+  "title": "AI Summarization Tool for Digital Libraries",
+  "domain": "80",
+  "description": "Build an AI tool that generates concise summaries of research articles and books to aid researchers in quick content understanding.",
+  "keywords": ["Digital Libraries", "Research Tools", "Information Retrieval"]
+},
+{
+  "id": 5796,
+  "title": "Library Interoperability Framework",
+  "domain": "80",
+  "description": "Create a framework that enables interoperability between different library systems and databases for seamless resource sharing.",
+  "keywords": ["Library Technology", "Knowledge Management", "Information Architecture"]
+},
+{
+  "id": 5797,
+  "title": "Semantic Search for Digital Archives",
+  "domain": "80",
+  "description": "Design a semantic search system for archives that understands context and retrieves historically relevant documents accurately.",
+  "keywords": ["Digital Archives", "Information Retrieval", "Knowledge Management"]
+},
+{
+  "id": 5798,
+  "title": "Collaborative Research Workspace in Libraries",
+  "domain": "80",
+  "description": "Build a digital workspace within library systems that allows researchers to collaborate, annotate, and share insights on collections.",
+  "keywords": ["Research Tools", "Digital Libraries", "Knowledge Management"]
+},
+{
+  "id": 5799,
+  "title": "Library Services Chat Integration",
+  "domain": "80",
+  "description": "Integrate live chat into digital library platforms to support users with queries, technical help, and academic resource guidance.",
+  "keywords": ["Library Services", "Library Technology", "Digital Libraries"]
+},
+{
+  "id": 5800,
+  "title": "Automated Thesaurus Builder for Libraries",
+  "domain": "80",
+  "description": "Develop a tool that automatically builds and updates thesauri to improve subject-based searching in digital catalogs.",
+  "keywords": ["Cataloging Systems", "Information Organization", "Information Retrieval"]
+},
+{
+  "id": 5801,
+  "title": "Library Knowledge Recommendation Graph",
+  "domain": "80",
+  "description": "Create a recommendation graph system that connects related resources, authors, and topics to support deeper exploration.",
+  "keywords": ["Knowledge Management", "Research Tools", "Digital Libraries"]
+},
+{
+  "id": 5802,
+  "title": "AI-Based Resource Categorization for Libraries",
+  "domain": "80",
+  "description": "Design a machine learning system that automatically categorizes library resources into subjects, difficulty levels, and user interest areas.",
+  "keywords": ["Cataloging Systems", "Information Organization", "Library Technology"]
+},
+{
+  "id": 5803,
+  "title": "Cloud-Native Digital Library Infrastructure",
+  "domain": "80",
+  "description": "Build a scalable cloud-native infrastructure to manage digital collections, archives, and library services with high availability.",
+  "keywords": ["Digital Libraries", "Digital Archives", "Library Technology"]
+},
+{
+  "id": 5804,
+  "title": "Visual Search for Digital Collections",
+  "domain": "80",
+  "description": "Create a visual search system that allows users to query digital collections using images instead of text-based keywords.",
+  "keywords": ["Digital Collections", "Information Retrieval", "Library Technology"]
+},
+{
+  "id": 5805,
+  "title": "Library Usage Prediction System",
+  "domain": "80",
+  "description": "Develop a predictive analytics system that forecasts library resource demand and helps optimize acquisitions.",
+  "keywords": ["Library Analytics", "Knowledge Management", "Library Services"]
+},
+{
+  "id": 5806,
+  "title": "Information Retrieval Benchmark Platform",
+  "domain": "80",
+  "description": "Design a benchmarking platform for testing and comparing different information retrieval algorithms on library datasets.",
+  "keywords": ["Information Retrieval", "Research Tools", "Library Analytics"]
+},
+{
+  "id": 5807,
+  "title": "Next-Gen Cataloging System with AI Tagging",
+  "domain": "80",
+  "description": "Build a next-gen cataloging system that uses AI to automatically tag, classify, and organize resources for quicker retrieval.",
+  "keywords": ["Cataloging Systems", "Information Organization", "Library Technology"]
+},
+{
+  "id": 5808,
+  "title": "Ethical AI Guidelines for Library Systems",
+  "domain": "80",
+  "description": "Develop a framework of ethical AI practices for managing information retrieval, cataloging, and personalization in libraries.",
+  "keywords": ["Knowledge Management", "Library Technology", "Information Architecture"]
+},
+{
+  "id": 5809,
+  "title": "Digital Library Gamification System",
+  "domain": "80",
+  "description": "Design a gamified system that rewards users for exploring digital collections, encouraging higher engagement with resources.",
+  "keywords": ["Digital Libraries", "Library Services", "Library Analytics"]
+},
+{
+  "id": 5810,
+  "title": "Smart Research Assistant for Libraries",
+  "domain": "80",
+  "description": "Create a research assistant that helps scholars find related literature, suggest keywords, and summarize articles.",
+  "keywords": ["Research Tools", "Information Retrieval", "Knowledge Management"]
+},
+{
+  "id": 5811,
+  "title": "Linked Data for Digital Archives",
+  "domain": "80",
+  "description": "Develop a linked data framework that connects archival documents, metadata, and external references for enriched research.",
+  "keywords": ["Digital Archives", "Knowledge Management", "Information Organization"]
+},
+{
+  "id": 5812,
+  "title": "User Behavior Analytics in Digital Libraries",
+  "domain": "80",
+  "description": "Build an analytics tool that tracks and analyzes user search behavior to optimize information architecture and resource discoverability.",
+  "keywords": ["Library Analytics", "Information Architecture", "Digital Libraries"]
+},
+{
+  "id": 5813,
+  "title": "Collaborative Annotation System for Libraries",
+  "domain": "80",
+  "description": "Create a system that allows users to collaboratively annotate, highlight, and comment on digital resources within libraries.",
+  "keywords": ["Digital Collections", "Research Tools", "Library Services"]
+},
+{
+  "id": 5814,
+  "title": "AI-Enhanced Library Helpdesk",
+  "domain": "80",
+  "description": "Design an AI-powered helpdesk that resolves library-related issues, account management, and digital collection access support.",
+  "keywords": ["Library Services", "Library Technology", "Knowledge Management"]
+},
+{
+  "id": 5815,
+  "title": "Information Visualization Tools for Libraries",
+  "domain": "80",
+  "description": "Develop visualization tools that represent library data, collection statistics, and research networks in interactive formats.",
+  "keywords": ["Information Organization", "Library Analytics", "Knowledge Management"]
+},
+{
+  "id": 5816,
+  "title": "Next-Gen Research Tools for Digital Libraries",
+  "domain": "80",
+  "description": "Build advanced research tools that integrate citation networks, topic modeling, and collaborative exploration features.",
+  "keywords": ["Research Tools", "Digital Libraries", "Knowledge Management"]
+},
+{
+  "id": 5817,
+  "title": "Smart Library Services Automation",
+  "domain": "80",
+  "description": "Develop an automation framework that streamlines common library services such as renewals, notifications, and borrowing history tracking.",
+  "keywords": ["Library Services", "Library Technology", "Cataloging Systems"]
+},
+{
+  "id": 5818,
+  "title": "Cultural Heritage Digital Archive",
+  "domain": "80",
+  "description": "Create a digital archive system that preserves cultural heritage artifacts, integrating metadata and multimedia support.",
+  "keywords": ["Digital Archives", "Digital Collections", "Information Organization"]
+},
+{
+  "id": 5819,
+  "title": "Privacy-Aware Knowledge Management in Libraries",
+  "domain": "80",
+  "description": "Build a knowledge management system that respects user privacy while offering personalized recommendations and retrieval features.",
+  "keywords": ["Knowledge Management", "Library Services", "Information Architecture"]
+},
+{
+  "id": 5820,
+  "title": "AI-Powered Taxonomy Builder for Libraries",
+  "domain": "80",
+  "description": "Design an AI tool that builds and refines taxonomies dynamically for better organization of digital collections.",
+  "keywords": ["Information Organization", "Cataloging Systems", "Knowledge Management"]
+}
 
 
 
