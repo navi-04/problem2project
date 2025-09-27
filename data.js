@@ -906,6 +906,347 @@ const DOMAINS = {
     iconGradient: "from-red-500 to-orange-600",
     textColor: "red-600",
     category: "spiritual"
+},
+"83": {
+    name: "Geological Sciences / Earth Technology",
+    shortName: "Geological Sciences",
+    description: "Earth science applications, geological mapping, and mineral analysis",
+    icon: "fas fa-mountain",
+    color: "amber",
+    gradient: "from-amber-50 to-yellow-100",
+    iconGradient: "from-amber-500 to-yellow-600",
+    textColor: "amber-600",
+    category: "science"
+},
+"84": {
+    name: "Meteorology / Atmospheric Science",
+    shortName: "Meteorology",
+    description: "Weather systems, atmospheric modeling, and climate analysis",
+    icon: "fas fa-cloud-sun",
+    color: "cyan",
+    gradient: "from-cyan-50 to-blue-100",
+    iconGradient: "from-cyan-500 to-blue-600",
+    textColor: "cyan-600",
+    category: "science"
+},
+"85": {
+    name: "Hydroponics / Vertical Farming",
+    shortName: "Hydroponics",
+    description: "Soil-less cultivation, vertical farming systems, and controlled agriculture",
+    icon: "fas fa-seedling",
+    color: "lime",
+    gradient: "from-lime-50 to-green-100",
+    iconGradient: "from-lime-500 to-green-600",
+    textColor: "lime-600",
+    category: "agriculture"
+},
+"86": {
+    name: "Waste Management / Circular Economy",
+    shortName: "Waste Management",
+    description: "Recycling systems, waste reduction, and circular economy solutions",
+    icon: "fas fa-recycle",
+    color: "teal",
+    gradient: "from-teal-50 to-green-100",
+    iconGradient: "from-teal-500 to-green-600",
+    textColor: "teal-600",
+    category: "sustainability"
+},
+"87": {
+    name: "Construction Technology / BuildTech",
+    shortName: "Construction Tech",
+    description: "Smart construction, building automation, and construction management",
+    icon: "fas fa-hard-hat",
+    color: "orange",
+    gradient: "from-orange-50 to-red-100",
+    iconGradient: "from-orange-500 to-red-600",
+    textColor: "orange-600",
+    category: "engineering"
+},
+"88": {
+    name: "Mining Technology / Resource Extraction",
+    shortName: "Mining Technology",
+    description: "Extraction methods, mining automation, and resource processing",
+    icon: "fas fa-hammer",
+    color: "stone",
+    gradient: "from-stone-50 to-gray-100",
+    iconGradient: "from-stone-500 to-gray-600",
+    textColor: "stone-600",
+    category: "engineering"
+},
+"89": {
+    name: "Textile Technology / Smart Fabrics",
+    shortName: "Textile Technology",
+    description: "Smart textiles, fabric engineering, and wearable materials",
+    icon: "fas fa-tshirt",
+    color: "pink",
+    gradient: "from-pink-50 to-rose-100",
+    iconGradient: "from-pink-500 to-rose-600",
+    textColor: "pink-600",
+    category: "materials"
+},
+"90": {
+    name: "Packaging Technology / Sustainable Materials",
+    shortName: "Packaging Technology",
+    description: "Smart packaging, sustainable materials, and product protection",
+    icon: "fas fa-box",
+    color: "brown",
+    gradient: "from-yellow-50 to-amber-100",
+    iconGradient: "from-yellow-600 to-amber-700",
+    textColor: "yellow-700",
+    category: "materials"
+},
+"91": {
+    name: "Water Technology / Purification Systems",
+    shortName: "Water Technology",
+    description: "Water treatment, purification systems, and water quality management",
+    icon: "fas fa-tint",
+    color: "blue",
+    gradient: "from-blue-50 to-cyan-100",
+    iconGradient: "from-blue-500 to-cyan-600",
+    textColor: "blue-600",
+    category: "environmental"
+},
+"92": {
+    name: "Air Quality / Pollution Control",
+    shortName: "Air Quality",
+    description: "Air purification, pollution monitoring, and atmospheric control",
+    icon: "fas fa-wind",
+    color: "sky",
+    gradient: "from-sky-50 to-blue-100",
+    iconGradient: "from-sky-500 to-blue-600",
+    textColor: "sky-600",
+    category: "environmental"
+},
+"93": {
+    name: "Fire Safety / Emergency Technology",
+    shortName: "Fire Safety",
+    description: "Fire prevention, detection systems, and emergency response technology",
+    icon: "fas fa-fire-extinguisher",
+    color: "red",
+    gradient: "from-red-50 to-orange-100",
+    iconGradient: "from-red-500 to-orange-600",
+    textColor: "red-600",
+    category: "safety"
+},
+"94": {
+    name: "Maritime Technology / Shipping",
+    shortName: "Maritime Technology",
+    description: "Naval systems, shipping technology, and ocean transportation",
+    icon: "fas fa-ship",
+    color: "indigo",
+    gradient: "from-indigo-50 to-blue-100",
+    iconGradient: "from-indigo-500 to-blue-600",
+    textColor: "indigo-600",
+    category: "transportation"
+},
+"95": {
+    name: "Railway Technology / Mass Transit",
+    shortName: "Railway Technology",
+    description: "Rail systems, train technology, and mass transportation solutions",
+    icon: "fas fa-train",
+    color: "violet",
+    gradient: "from-violet-50 to-purple-100",
+    iconGradient: "from-violet-500 to-purple-600",
+    textColor: "violet-600",
+    category: "transportation"
+},
+"96": {
+    name: "Brewing / Fermentation Technology",
+    shortName: "Brewing Technology",
+    description: "Fermentation processes, brewing systems, and beverage production",
+    icon: "fas fa-beer",
+    color: "amber",
+    gradient: "from-amber-50 to-orange-100",
+    iconGradient: "from-amber-500 to-orange-600",
+    textColor: "amber-600",
+    category: "food"
+},
+"97": {
+    name: "Ceramics / Advanced Materials",
+    shortName: "Ceramics",
+    description: "Ceramic engineering, advanced ceramics, and material science",
+    icon: "fas fa-vase",
+    color: "rose",
+    gradient: "from-rose-50 to-pink-100",
+    iconGradient: "from-rose-500 to-pink-600",
+    textColor: "rose-600",
+    category: "materials"
+},
+"98": {
+    name: "Optics / Photonics",
+    shortName: "Optics & Photonics",
+    description: "Optical systems, laser technology, and photonic applications",
+    icon: "fas fa-eye",
+    color: "purple",
+    gradient: "from-purple-50 to-violet-100",
+    iconGradient: "from-purple-500 to-violet-600",
+    textColor: "purple-600",
+    category: "technology"
+},
+"99": {
+    name: "Printing Technology / Digital Publishing",
+    shortName: "Printing Technology",
+    description: "Digital printing, publishing systems, and print technology",
+    icon: "fas fa-print",
+    color: "gray",
+    gradient: "from-gray-50 to-stone-100",
+    iconGradient: "from-gray-500 to-stone-600",
+    textColor: "gray-600",
+    category: "media"
+},
+"100": {
+    name: "Jewelry Technology / Precision Crafting",
+    shortName: "Jewelry Technology",
+    description: "Precision manufacturing, jewelry design, and precious metal processing",
+    icon: "fas fa-gem",
+    color: "emerald",
+    gradient: "from-emerald-50 to-teal-100",
+    iconGradient: "from-emerald-500 to-teal-600",
+    textColor: "emerald-600",
+    category: "crafting"
+},
+"101": {
+    name: "Furniture Technology / Smart Design",
+    shortName: "Furniture Technology",
+    description: "Smart furniture, ergonomic design, and automated furniture systems",
+    icon: "fas fa-chair",
+    color: "yellow",
+    gradient: "from-yellow-50 to-amber-100",
+    iconGradient: "from-yellow-500 to-amber-600",
+    textColor: "yellow-600",
+    category: "design"
+},
+"102": {
+    name: "Cleaning Technology / Sanitation",
+    shortName: "Cleaning Technology",
+    description: "Automated cleaning, sanitation systems, and hygiene technology",
+    icon: "fas fa-broom",
+    color: "green",
+    gradient: "from-green-50 to-emerald-100",
+    iconGradient: "from-green-500 to-emerald-600",
+    textColor: "green-600",
+    category: "health"
+},
+"103": {
+    name: "Hair Technology / Personal Care",
+    shortName: "Hair Technology",
+    description: "Hair care systems, styling technology, and personal grooming",
+    icon: "fas fa-cut",
+    color: "pink",
+    gradient: "from-pink-50 to-rose-100",
+    iconGradient: "from-pink-500 to-rose-600",
+    textColor: "pink-600",
+    category: "personal"
+},
+"104": {
+    name: "Sleep Technology / Rest Optimization",
+    shortName: "Sleep Technology",
+    description: "Sleep monitoring, rest optimization, and sleep enhancement systems",
+    icon: "fas fa-bed",
+    color: "slate",
+    gradient: "from-slate-50 to-gray-100",
+    iconGradient: "from-slate-500 to-gray-600",
+    textColor: "slate-600",
+    category: "health"
+},
+"105": {
+    name: "Perfume Technology / Scent Engineering",
+    shortName: "Perfume Technology",
+    description: "Fragrance technology, scent delivery systems, and olfactory engineering",
+    icon: "fas fa-spray-can",
+    color: "fuchsia",
+    gradient: "from-fuchsia-50 to-pink-100",
+    iconGradient: "from-fuchsia-500 to-pink-600",
+    textColor: "fuchsia-600",
+    category: "personal"
+},
+"106": {
+    name: "Toy Technology / Interactive Play",
+    shortName: "Toy Technology",
+    description: "Smart toys, interactive play systems, and educational gaming",
+    icon: "fas fa-puzzle-piece",
+    color: "orange",
+    gradient: "from-orange-50 to-yellow-100",
+    iconGradient: "from-orange-500 to-yellow-600",
+    textColor: "orange-600",
+    category: "entertainment"
+},
+"107": {
+    name: "Stationery Technology / Smart Office",
+    shortName: "Stationery Technology",
+    description: "Smart office supplies, digital stationery, and productivity tools",
+    icon: "fas fa-pen",
+    color: "blue",
+    gradient: "from-blue-50 to-indigo-100",
+    iconGradient: "from-blue-500 to-indigo-600",
+    textColor: "blue-600",
+    category: "productivity"
+},
+"108": {
+    name: "Gardening Technology / Horticulture",
+    shortName: "Gardening Technology",
+    description: "Smart gardening, automated irrigation, and horticultural systems",
+    icon: "fas fa-leaf",
+    color: "green",
+    gradient: "from-green-50 to-lime-100",
+    iconGradient: "from-green-500 to-lime-600",
+    textColor: "green-600",
+    category: "agriculture"
+},
+"109": {
+    name: "Weather Prediction / Climate Modeling",
+    shortName: "Weather Prediction",
+    description: "Weather forecasting, climate models, and atmospheric prediction",
+    icon: "fas fa-cloud-rain",
+    color: "sky",
+    gradient: "from-sky-50 to-cyan-100",
+    iconGradient: "from-sky-500 to-cyan-600",
+    textColor: "sky-600",
+    category: "science"
+},
+"110": {
+    name: "Disaster Prediction / Early Warning",
+    shortName: "Disaster Prediction",
+    description: "Natural disaster forecasting, early warning systems, and risk assessment",
+    icon: "fas fa-exclamation-triangle",
+    color: "red",
+    gradient: "from-red-50 to-orange-100",
+    iconGradient: "from-red-500 to-orange-600",
+    textColor: "red-600",
+    category: "safety"
+},
+"111": {
+    name: "Population Studies / Demographics",
+    shortName: "Population Studies",
+    description: "Demographic analysis, population modeling, and social statistics",
+    icon: "fas fa-users",
+    color: "teal",
+    gradient: "from-teal-50 to-cyan-100",
+    iconGradient: "from-teal-500 to-cyan-600",
+    textColor: "teal-600",
+    category: "social"
+},
+"112": {
+    name: "Migration Technology / Border Systems",
+    shortName: "Migration Technology",
+    description: "Migration tracking, border technology, and population movement systems",
+    icon: "fas fa-passport",
+    color: "indigo",
+    gradient: "from-indigo-50 to-purple-100",
+    iconGradient: "from-indigo-500 to-purple-600",
+    textColor: "indigo-600",
+    category: "social"
+},
+"113": {
+    name: "Translation Technology / Language AI",
+    shortName: "Translation Technology",
+    description: "Machine translation, language processing, and cross-cultural communication",
+    icon: "fas fa-language",
+    color: "violet",
+    gradient: "from-violet-50 to-purple-100",
+    iconGradient: "from-violet-500 to-purple-600",
+    textColor: "violet-600",
+    category: "ai"
 }
 
 };
@@ -1571,8 +1912,255 @@ const DOMAIN_KEYWORDS = {
                 "Religious Content", "Meditation Apps", "Scripture Technology", "Religious Analytics",
                 "Faith-based Apps", "Spiritual Guidance", "Religious Communication", "Sacred Technology"
             ]
-        }
-};
+        },
+        "Geological": {
+    "domain": "Geological Sciences / Earth Technology",
+    "keywords": [
+        "Geological Mapping", "Mineral Analysis", "Seismic Monitoring", "Rock Formation",
+        "Geological Survey", "Earth Science", "Geological Modeling", "Mineral Exploration",
+        "Geological Data", "Subsurface Analysis", "Geological Software", "Geotechnical Engineering"
+    ]
+},
+"Meteorological": {
+    "domain": "Meteorology / Atmospheric Science",
+    "keywords": [
+        "Weather Forecasting", "Atmospheric Modeling", "Climate Analysis", "Weather Stations",
+        "Meteorological Data", "Weather Prediction", "Atmospheric Science", "Climate Models",
+        "Weather Systems", "Atmospheric Monitoring", "Weather Technology", "Climate Research"
+    ]
+},
+"Hydroponic": {
+    "domain": "Hydroponics / Vertical Farming",
+    "keywords": [
+        "Soil-less Cultivation", "Vertical Farming", "Hydroponic Systems", "Nutrient Solutions",
+        "Controlled Agriculture", "Indoor Farming", "Hydroponic Technology", "Plant Growth",
+        "Agricultural Innovation", "Sustainable Farming", "Hydroponic Equipment", "Crop Production"
+    ]
+},
+"Waste": {
+    "domain": "Waste Management / Circular Economy",
+    "keywords": [
+        "Recycling Systems", "Waste Reduction", "Circular Economy", "Waste Processing",
+        "Sustainable Waste", "Waste Technology", "Resource Recovery", "Waste Management",
+        "Environmental Sustainability", "Waste Recycling", "Waste Treatment", "Zero Waste"
+    ]
+},
+"Construction": {
+    "domain": "Construction Technology / BuildTech",
+    "keywords": [
+        "Smart Construction", "Building Automation", "Construction Management", "BuildTech",
+        "Construction Innovation", "Smart Buildings", "Construction Technology", "Building Systems",
+        "Construction Software", "Digital Construction", "Construction Equipment", "Building Materials"
+    ]
+},
+"Mining": {
+    "domain": "Mining Technology / Resource Extraction",
+    "keywords": [
+        "Mining Automation", "Resource Extraction", "Mining Equipment", "Mineral Processing",
+        "Mining Technology", "Extraction Methods", "Mining Software", "Resource Processing",
+        "Mining Operations", "Geological Mining", "Mining Innovation", "Resource Management"
+    ]
+},
+"Textile": {
+    "domain": "Textile Technology / Smart Fabrics",
+    "keywords": [
+        "Smart Textiles", "Fabric Engineering", "Wearable Materials", "Textile Innovation",
+        "Smart Fabrics", "Textile Technology", "Fabric Science", "Material Engineering",
+        "Textile Manufacturing", "Fabric Design", "Textile Processing", "Advanced Textiles"
+    ]
+},
+"Packaging": {
+    "domain": "Packaging Technology / Sustainable Materials",
+    "keywords": [
+        "Smart Packaging", "Sustainable Materials", "Package Design", "Packaging Innovation",
+        "Eco-friendly Packaging", "Packaging Technology", "Product Protection", "Packaging Systems",
+        "Sustainable Packaging", "Packaging Materials", "Green Packaging", "Packaging Solutions"
+    ]
+},
+"Water": {
+    "domain": "Water Technology / Purification Systems",
+    "keywords": [
+        "Water Treatment", "Water Purification", "Water Quality", "Water Systems",
+        "Water Technology", "Water Management", "Water Processing", "Water Filtration",
+        "Water Conservation", "Water Engineering", "Water Solutions", "Water Innovation"
+    ]
+},
+"Air": {
+    "domain": "Air Quality / Pollution Control",
+    "keywords": [
+        "Air Purification", "Pollution Control", "Air Quality Monitoring", "Atmospheric Control",
+        "Air Treatment", "Environmental Monitoring", "Air Quality Systems", "Pollution Technology",
+        "Clean Air Technology", "Air Filtration", "Emission Control", "Air Quality Management"
+    ]
+},
+"Fire": {
+    "domain": "Fire Safety / Emergency Technology",
+    "keywords": [
+        "Fire Prevention", "Fire Detection", "Emergency Response", "Fire Safety Systems",
+        "Fire Technology", "Safety Equipment", "Fire Suppression", "Emergency Technology",
+        "Fire Protection", "Safety Systems", "Fire Engineering", "Emergency Management"
+    ]
+},
+"Maritime": {
+    "domain": "Maritime Technology / Shipping",
+    "keywords": [
+        "Naval Systems", "Shipping Technology", "Marine Engineering", "Ocean Transportation",
+        "Maritime Innovation", "Ship Technology", "Marine Systems", "Naval Engineering",
+        "Maritime Safety", "Shipping Systems", "Marine Technology", "Ocean Technology"
+    ]
+},
+"Railway": {
+    "domain": "Railway Technology / Mass Transit",
+    "keywords": [
+        "Rail Systems", "Train Technology", "Mass Transit", "Railway Engineering",
+        "Transportation Systems", "Rail Innovation", "Public Transportation", "Railway Safety",
+        "Transit Technology", "Rail Infrastructure", "Railway Systems", "Train Systems"
+    ]
+},
+"Brewing": {
+    "domain": "Brewing / Fermentation Technology",
+    "keywords": [
+        "Fermentation Processes", "Brewing Systems", "Beverage Production", "Fermentation Technology",
+        "Brewing Innovation", "Alcohol Production", "Fermentation Science", "Brewing Equipment",
+        "Food Fermentation", "Brewing Technology", "Fermentation Engineering", "Beverage Technology"
+    ]
+},
+"Ceramic": {
+    "domain": "Ceramics / Advanced Materials",
+    "keywords": [
+        "Ceramic Engineering", "Advanced Ceramics", "Material Science", "Ceramic Technology",
+        "Ceramic Manufacturing", "Ceramic Design", "High-performance Ceramics", "Ceramic Materials",
+        "Ceramic Processing", "Industrial Ceramics", "Ceramic Innovation", "Ceramic Applications"
+    ]
+},
+"Optics": {
+    "domain": "Optics / Photonics",
+    "keywords": [
+        "Optical Systems", "Laser Technology", "Photonics", "Optical Engineering",
+        "Light Technology", "Optical Innovation", "Photonic Systems", "Laser Applications",
+        "Optical Components", "Light Processing", "Optical Science", "Photonic Devices"
+    ]
+},
+"Printing": {
+    "domain": "Printing Technology / Digital Publishing",
+    "keywords": [
+        "Digital Printing", "Publishing Systems", "Print Technology", "Digital Publishing",
+        "Printing Innovation", "Publishing Technology", "Print Systems", "Digital Media",
+        "Printing Equipment", "Publishing Software", "Print Design", "Media Technology"
+    ]
+},
+"Jewelry": {
+    "domain": "Jewelry Technology / Precision Crafting",
+    "keywords": [
+        "Precision Manufacturing", "Jewelry Design", "Precious Metal Processing", "Jewelry Technology",
+        "Crafting Innovation", "Jewelry Manufacturing", "Precision Engineering", "Jewelry Systems",
+        "Metal Working", "Jewelry Production", "Precision Crafting", "Jewelry Equipment"
+    ]
+},
+"Furniture": {
+    "domain": "Furniture Technology / Smart Design",
+    "keywords": [
+        "Smart Furniture", "Ergonomic Design", "Furniture Automation", "Furniture Technology",
+        "Furniture Innovation", "Smart Design", "Furniture Systems", "Automated Furniture",
+        "Furniture Engineering", "Design Technology", "Furniture Manufacturing", "Smart Home Furniture"
+    ]
+},
+"Cleaning": {
+    "domain": "Cleaning Technology / Sanitation",
+    "keywords": [
+        "Automated Cleaning", "Sanitation Systems", "Hygiene Technology", "Cleaning Innovation",
+        "Cleaning Equipment", "Sanitation Technology", "Cleaning Systems", "Hygiene Systems",
+        "Cleaning Automation", "Sanitization", "Cleaning Solutions", "Hygiene Engineering"
+    ]
+},
+"Hair": {
+    "domain": "Hair Technology / Personal Care",
+    "keywords": [
+        "Hair Care Systems", "Styling Technology", "Personal Grooming", "Hair Technology",
+        "Hair Innovation", "Beauty Technology", "Hair Equipment", "Grooming Technology",
+        "Hair Science", "Personal Care Technology", "Hair Systems", "Beauty Engineering"
+    ]
+},
+"Sleep": {
+    "domain": "Sleep Technology / Rest Optimization",
+    "keywords": [
+        "Sleep Monitoring", "Rest Optimization", "Sleep Enhancement", "Sleep Technology",
+        "Sleep Innovation", "Sleep Systems", "Rest Technology", "Sleep Science",
+        "Sleep Engineering", "Sleep Equipment", "Sleep Solutions", "Rest Systems"
+    ]
+},
+"Perfume": {
+    "domain": "Perfume Technology / Scent Engineering",
+    "keywords": [
+        "Fragrance Technology", "Scent Delivery", "Olfactory Engineering", "Perfume Technology",
+        "Fragrance Innovation", "Scent Technology", "Perfume Systems", "Fragrance Engineering",
+        "Scent Science", "Perfume Manufacturing", "Fragrance Systems", "Olfactory Technology"
+    ]
+},
+"Toy": {
+    "domain": "Toy Technology / Interactive Play",
+    "keywords": [
+        "Smart Toys", "Interactive Play", "Educational Gaming", "Toy Technology",
+        "Toy Innovation", "Play Technology", "Interactive Toys", "Educational Toys",
+        "Toy Engineering", "Play Systems", "Toy Design", "Gaming Technology"
+    ]
+},
+"Stationery": {
+    "domain": "Stationery Technology / Smart Office",
+    "keywords": [
+        "Smart Office Supplies", "Digital Stationery", "Productivity Tools", "Office Technology",
+        "Stationery Innovation", "Office Systems", "Smart Office", "Office Equipment",
+        "Productivity Technology", "Office Automation", "Stationery Systems", "Office Solutions"
+    ]
+},
+"Gardening": {
+    "domain": "Gardening Technology / Horticulture",
+    "keywords": [
+        "Smart Gardening", "Automated Irrigation", "Horticultural Systems", "Garden Technology",
+        "Gardening Innovation", "Plant Technology", "Garden Systems", "Horticulture Technology",
+        "Garden Automation", "Plant Care Technology", "Gardening Equipment", "Agricultural Technology"
+    ]
+},
+"Weather": {
+    "domain": "Weather Prediction / Climate Modeling",
+    "keywords": [
+        "Weather Forecasting", "Climate Models", "Atmospheric Prediction", "Weather Technology",
+        "Climate Prediction", "Weather Systems", "Meteorological Technology", "Climate Science",
+        "Weather Modeling", "Atmospheric Technology", "Weather Innovation", "Climate Technology"
+    ]
+},
+"Disaster": {
+    "domain": "Disaster Prediction / Early Warning",
+    "keywords": [
+        "Disaster Forecasting", "Early Warning Systems", "Risk Assessment", "Disaster Technology",
+        "Emergency Prediction", "Disaster Management", "Warning Systems", "Risk Technology",
+        "Disaster Prevention", "Emergency Technology", "Safety Systems", "Disaster Innovation"
+    ]
+},
+"Population": {
+    "domain": "Population Studies / Demographics",
+    "keywords": [
+        "Demographic Analysis", "Population Modeling", "Social Statistics", "Population Technology",
+        "Demographic Technology", "Population Research", "Social Analytics", "Demographic Systems",
+        "Population Science", "Social Technology", "Demographic Innovation", "Population Studies"
+    ]
+},
+"Migration": {
+    "domain": "Migration Technology / Border Systems",
+    "keywords": [
+        "Migration Tracking", "Border Technology", "Population Movement", "Migration Systems",
+        "Border Systems", "Immigration Technology", "Migration Analytics", "Border Security",
+        "Migration Management", "Border Innovation", "Population Technology", "Migration Science"
+    ]
+},
+"Translation": {
+    "domain": "Translation Technology / Language AI",
+    "keywords": [
+        "Machine Translation", "Language Processing", "Cross-cultural Communication", "Translation AI",
+        "Language Technology", "Translation Systems", "Multilingual Technology", "Language AI",
+        "Translation Innovation", "Language Systems", "Communication Technology", "Linguistic Technology"
+    ]
+}
 
 // Comprehensive Problems Dataset (2000+ problems across 82+ domains)
 const PROBLEMS_DATA = {
@@ -1658,8 +2246,40 @@ const PROBLEMS_DATA = {
         "79": "Retail Technology / Commerce Innovation",
         "80": "Library Science / Information Systems",
         "81": "Archaeological Technology / Digital Heritage",
-        "82": "Religious Technology / Spiritual Apps"
+        "82": "Religious Technology / Spiritual Apps",
+    "83": "Geological Sciences / Earth Technology",
+    "84": "Meteorology / Atmospheric Science",
+    "85": "Hydroponics / Vertical Farming",
+    "86": "Waste Management / Circular Economy",
+    "87": "Construction Technology / BuildTech",
+    "88": "Mining Technology / Resource Extraction",
+    "89": "Textile Technology / Smart Fabrics",
+    "90": "Packaging Technology / Sustainable Materials",
+    "91": "Water Technology / Purification Systems",
+    "92": "Air Quality / Pollution Control",
+    "93": "Fire Safety / Emergency Technology",
+    "94": "Maritime Technology / Shipping",
+    "95": "Railway Technology / Mass Transit",
+    "96": "Brewing / Fermentation Technology",
+    "97": "Ceramics / Advanced Materials",
+    "98": "Optics / Photonics",
+    "99": "Printing Technology / Digital Publishing",
+    "100": "Jewelry Technology / Precision Crafting",
+    "101": "Furniture Technology / Smart Design",
+    "102": "Cleaning Technology / Sanitation",
+    "103": "Hair Technology / Personal Care",
+    "104": "Sleep Technology / Rest Optimization",
+    "105": "Perfume Technology / Scent Engineering",
+    "106": "Toy Technology / Interactive Play",
+    "107": "Stationery Technology / Smart Office",
+    "108": "Gardening Technology / Horticulture",
+    "109": "Weather Prediction / Climate Modeling",
+    "110": "Disaster Prediction / Early Warning",
+    "111": "Population Studies / Demographics",
+    "112": "Migration Technology / Border Systems",
+    "113": "Translation Technology / Language AI",
     },
+
     "problems": [
         // PROGRAMMING & ALGORITHMS (Domain 1) - 100+ problems
         {
