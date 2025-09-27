@@ -34405,6 +34405,347 @@ const PROBLEMS_DATA = {
   "keywords": ["Viral Trend Tracking", "AI Analysis", "Social Media Monitoring", "Real-Time Insights"]
 },
 // domain 66
+{
+    "id": 5001,
+    "title": "AI-Powered Personalized Shopping Assistant",
+    "domain": "66",
+    "description": "Develop an AI-based recommendation engine that provides real-time personalized shopping suggestions by analyzing user browsing history, purchase patterns, and preferences.",
+    "keywords": ["Online Shopping", "Recommendation Engines", "Shopping Experience"]
+},
+{
+    "id": 5002,
+    "title": "Secure Multi-Currency Payment Gateway",
+    "domain": "66",
+    "description": "Create a robust payment system that supports multiple currencies, ensures fraud detection, and provides seamless integration for international e-commerce platforms.",
+    "keywords": ["Payment Systems", "E-commerce Security", "Mobile Commerce"]
+},
+{
+    "id": 5003,
+    "title": "Predictive Inventory Management System",
+    "domain": "66",
+    "description": "Design a predictive analytics tool that forecasts inventory needs based on seasonal trends, customer demand, and supply chain dynamics to reduce stockouts and overstocking.",
+    "keywords": ["Inventory Management", "Customer Analytics", "Supply Chain"]
+},
+{
+    "id": 5004,
+    "title": "Voice-Enabled Shopping Platform",
+    "domain": "66",
+    "description": "Build a voice commerce system that allows customers to search, compare, and purchase products through voice commands, enhancing accessibility and convenience.",
+    "keywords": ["Online Shopping", "Mobile Commerce", "Shopping Experience"]
+},
+{
+    "id": 5005,
+    "title": "Blockchain-Enabled Order Fulfillment Tracker",
+    "domain": "66",
+    "description": "Implement a blockchain-based order tracking system that enhances transparency in order fulfillment, reduces fraud, and builds trust between buyers and sellers.",
+    "keywords": ["Order Fulfillment", "Marketplace Technology", "E-commerce Security"]
+},
+{
+    "id": 5006,
+    "title": "Real-Time Fraud Detection Engine",
+    "domain": "66",
+    "description": "Develop an AI-powered fraud detection engine that analyzes user behavior, transaction data, and payment anomalies to secure online shopping environments.",
+    "keywords": ["Payment Systems", "E-commerce Security", "Customer Analytics"]
+},
+{
+    "id": 5007,
+    "title": "AR-Based Virtual Shopping Experience",
+    "domain": "66",
+    "description": "Create an augmented reality platform that lets users virtually try on products such as clothing, accessories, or furniture before purchasing online.",
+    "keywords": ["Shopping Experience", "Online Shopping", "Digital Marketing"]
+},
+{
+    "id": 5008,
+    "title": "AI-Powered Dynamic Pricing System",
+    "domain": "66",
+    "description": "Design a system that adjusts product prices dynamically based on demand, competitor analysis, and customer purchasing behavior to maximize revenue.",
+    "keywords": ["Digital Marketing", "Customer Analytics", "Marketplace Technology"]
+},
+{
+    "id": 5009,
+    "title": "One-Click Mobile Checkout Experience",
+    "domain": "66",
+    "description": "Develop a simplified mobile commerce checkout process that reduces cart abandonment by enabling secure one-click payment options for customers.",
+    "keywords": ["Mobile Commerce", "Payment Systems", "Shopping Experience"]
+},
+{
+    "id": 5010,
+    "title": "Green Supply Chain Optimization Platform",
+    "domain": "66",
+    "description": "Build a sustainable supply chain management solution that optimizes delivery routes, reduces carbon emissions, and integrates with e-commerce platforms.",
+    "keywords": ["Supply Chain", "Order Fulfillment", "Inventory Management"]
+},
+{
+    "id": 5011,
+    "title": "AI Chatbot for Post-Purchase Support",
+    "domain": "66",
+    "description": "Develop an AI chatbot that assists customers with order tracking, refunds, and complaints to improve post-purchase satisfaction and trust.",
+    "keywords": ["Order Fulfillment", "Customer Analytics", "Shopping Experience"]
+},
+{
+    "id": 5012,
+    "title": "Social Media Driven E-commerce Marketing",
+    "domain": "66",
+    "description": "Design a system that integrates e-commerce platforms with social media channels to run targeted digital marketing campaigns and track conversion rates.",
+    "keywords": ["Digital Marketing", "Online Shopping", "Customer Analytics"]
+},
+{
+    "id": 5013,
+    "title": "Cross-Border E-commerce Tax Automation",
+    "domain": "66",
+    "description": "Create an automated tax compliance system for international e-commerce that calculates duties, tariffs, and VAT dynamically during checkout.",
+    "keywords": ["Payment Systems", "Marketplace Technology", "E-commerce Security"]
+},
+{
+    "id": 5014,
+    "title": "AI-Based Customer Lifetime Value Predictor",
+    "domain": "66",
+    "description": "Develop a machine learning tool that predicts customer lifetime value to help businesses strategize marketing, discounts, and personalized offers.",
+    "keywords": ["Customer Analytics", "Recommendation Engines", "Digital Marketing"]
+},
+{
+    "id": 5015,
+    "title": "Decentralized Peer-to-Peer Marketplace",
+    "domain": "66",
+    "description": "Design a blockchain-enabled peer-to-peer digital marketplace that allows secure, commission-free transactions between buyers and sellers.",
+    "keywords": ["Marketplace Technology", "E-commerce Security", "Online Shopping"]
+},
+{
+    "id": 5016,
+    "title": "AI-Driven Cart Abandonment Recovery Tool",
+    "domain": "66",
+    "description": "Build a system that detects cart abandonment in real-time and sends personalized recovery notifications or offers to increase conversions.",
+    "keywords": ["Digital Marketing", "Online Shopping", "Customer Analytics"]
+},
+{
+    "id": 5017,
+    "title": "Last-Mile Delivery Optimization System",
+    "domain": "66",
+    "description": "Develop a logistics solution that improves last-mile delivery efficiency using route optimization, real-time tracking, and predictive analytics.",
+    "keywords": ["Supply Chain", "Order Fulfillment", "Inventory Management"]
+},
+{
+    "id": 5018,
+    "title": "Subscription-Based E-commerce Platform",
+    "domain": "66",
+    "description": "Create a subscription commerce system that automates recurring billing, personalized shipments, and customer retention tracking.",
+    "keywords": ["Online Shopping", "Payment Systems", "Customer Analytics"]
+},
+{
+    "id": 5019,
+    "title": "AI Sentiment Analysis for E-commerce Reviews",
+    "domain": "66",
+    "description": "Design a system that analyzes customer reviews and ratings to extract insights about product quality, shopping experience, and brand perception.",
+    "keywords": ["Customer Analytics", "Shopping Experience", "Digital Marketing"]
+},
+{
+    "id": 5020,
+    "title": "Mobile Wallet Integration for E-commerce",
+    "domain": "66",
+    "description": "Develop a secure mobile wallet solution that supports multiple payment systems, loyalty points, and digital coupons for seamless checkout.",
+    "keywords": ["Mobile Commerce", "Payment Systems", "E-commerce Security"]
+},
+{
+    "id": 5021,
+    "title": "Smart Supply Chain Risk Management System",
+    "domain": "66",
+    "description": "Create a risk analysis platform that predicts supply chain disruptions, such as delays or shortages, and suggests preventive measures.",
+    "keywords": ["Supply Chain", "Inventory Management", "Order Fulfillment"]
+},
+{
+    "id": 5022,
+    "title": "Hyper-Personalized Recommendation Engine",
+    "domain": "66",
+    "description": "Develop a recommendation system that uses deep learning to provide real-time, hyper-personalized product suggestions across devices.",
+    "keywords": ["Recommendation Engines", "Online Shopping", "Customer Analytics"]
+},
+{
+    "id": 5023,
+    "title": "AI-Powered Return and Refund Management",
+    "domain": "66",
+    "description": "Build a smart return and refund system that uses analytics to minimize fraudulent returns and improve customer satisfaction.",
+    "keywords": ["Order Fulfillment", "E-commerce Security", "Shopping Experience"]
+},
+{
+    "id": 5024,
+    "title": "Gamified E-commerce Loyalty Program",
+    "domain": "66",
+    "description": "Design a gamification-based loyalty platform that rewards customers with points, badges, and personalized offers to boost engagement.",
+    "keywords": ["Digital Marketing", "Customer Analytics", "Shopping Experience"]
+},
+{
+    "id": 5025,
+    "title": "AI-Powered Visual Search for Products",
+    "domain": "66",
+    "description": "Create a visual search tool that lets customers upload an image and find matching or similar products instantly across the e-commerce platform.",
+    "keywords": ["Online Shopping", "Recommendation Engines", "Shopping Experience"]
+},
+{
+    "id": 5026,
+    "title": "Multi-Vendor Marketplace Management System",
+    "domain": "66",
+    "description": "Develop a marketplace solution that allows multiple vendors to manage their inventory, pricing, and logistics independently under one platform.",
+    "keywords": ["Marketplace Technology", "Inventory Management", "Order Fulfillment"]
+},
+{
+    "id": 5027,
+    "title": "Biometric Authentication for Secure Payments",
+    "domain": "66",
+    "description": "Implement biometric authentication methods such as fingerprint and facial recognition for secure mobile commerce transactions.",
+    "keywords": ["Payment Systems", "E-commerce Security", "Mobile Commerce"]
+},
+{
+    "id": 5028,
+    "title": "Drone-Based Order Delivery System",
+    "domain": "66",
+    "description": "Design a drone-enabled delivery system to speed up order fulfillment in urban areas while reducing logistical challenges and delivery costs.",
+    "keywords": ["Order Fulfillment", "Supply Chain", "Marketplace Technology"]
+},
+{
+    "id": 5029,
+    "title": "AI-Driven Customer Segmentation Tool",
+    "domain": "66",
+    "description": "Develop an analytics system that segments customers into actionable groups based on demographics, preferences, and purchase behavior.",
+    "keywords": ["Customer Analytics", "Digital Marketing", "Recommendation Engines"]
+},
+{
+    "id": 5030,
+    "title": "Smart Chatbot for Personalized Shopping",
+    "domain": "66",
+    "description": "Create an AI chatbot that engages with users, recommends products, and assists with checkout for a more interactive shopping experience.",
+    "keywords": ["Online Shopping", "Shopping Experience", "Recommendation Engines"]
+},
+{
+    "id": 5031,
+    "title": "AI-Based Demand Forecasting for E-commerce",
+    "domain": "66",
+    "description": "Build a demand forecasting system that predicts product demand trends using historical sales, seasonal changes, and customer behavior data.",
+    "keywords": ["Inventory Management", "Supply Chain", "Customer Analytics"]
+},
+{
+    "id": 5032,
+    "title": "Mobile Commerce Voice Payment System",
+    "domain": "66",
+    "description": "Develop a secure voice-enabled payment feature for mobile commerce platforms to simplify checkout and increase accessibility.",
+    "keywords": ["Mobile Commerce", "Payment Systems", "E-commerce Security"]
+},
+{
+    "id": 5033,
+    "title": "AI-Powered Ad Campaign Optimizer",
+    "domain": "66",
+    "description": "Design a system that analyzes customer data to optimize e-commerce ad campaigns, reducing costs and maximizing conversions.",
+    "keywords": ["Digital Marketing", "Customer Analytics", "Online Shopping"]
+},
+{
+    "id": 5034,
+    "title": "Zero-Trust Security Framework for E-commerce",
+    "domain": "66",
+    "description": "Implement a zero-trust security model that continuously verifies user identities and transactions to protect against fraud and cyberattacks.",
+    "keywords": ["E-commerce Security", "Payment Systems", "Marketplace Technology"]
+},
+{
+    "id": 5035,
+    "title": "AI-Powered Hyperlocal E-commerce Platform",
+    "domain": "66",
+    "description": "Create a hyperlocal marketplace that connects customers with nearby sellers, optimizing delivery times and promoting local businesses.",
+    "keywords": ["Marketplace Technology", "Online Shopping", "Supply Chain"]
+},
+{
+    "id": 5036,
+    "title": "Smart Inventory Replenishment Alerts",
+    "domain": "66",
+    "description": "Develop a system that automatically alerts sellers when stock levels fall below a threshold and suggests replenishment strategies.",
+    "keywords": ["Inventory Management", "Supply Chain", "Order Fulfillment"]
+},
+{
+    "id": 5037,
+    "title": "Personalized Mobile Push Notification System",
+    "domain": "66",
+    "description": "Build a system that sends real-time personalized push notifications on mobile commerce apps to re-engage customers and boost sales.",
+    "keywords": ["Mobile Commerce", "Digital Marketing", "Customer Analytics"]
+},
+{
+    "id": 5038,
+    "title": "Green Packaging Recommendation Engine",
+    "domain": "66",
+    "description": "Develop a recommendation system that suggests eco-friendly packaging options for online orders based on product type and customer preferences.",
+    "keywords": ["Supply Chain", "Order Fulfillment", "Digital Marketing"]
+},
+{
+    "id": 5039,
+    "title": "AI-Powered Upselling and Cross-Selling Tool",
+    "domain": "66",
+    "description": "Design a recommendation engine that analyzes customer carts in real-time to provide upselling and cross-selling suggestions.",
+    "keywords": ["Recommendation Engines", "Online Shopping", "Shopping Experience"]
+},
+{
+    "id": 5040,
+    "title": "Smart Multi-Channel Inventory Synchronizer",
+    "domain": "66",
+    "description": "Create an inventory management tool that synchronizes stock across multiple sales channels like websites, apps, and social commerce platforms.",
+    "keywords": ["Inventory Management", "Marketplace Technology", "Order Fulfillment"]
+},
+{
+    "id": 5041,
+    "title": "AI-Driven Checkout Fraud Prevention System",
+    "domain": "66",
+    "description": "Develop a fraud detection model that identifies suspicious checkout patterns and prevents fraudulent transactions in real time.",
+    "keywords": ["Payment Systems", "E-commerce Security", "Customer Analytics"]
+},
+{
+    "id": 5042,
+    "title": "Social Commerce Integration Platform",
+    "domain": "66",
+    "description": "Build a platform that integrates e-commerce stores with social media to allow direct product discovery and purchases through posts and live streams.",
+    "keywords": ["Online Shopping", "Digital Marketing", "Mobile Commerce"]
+},
+{
+    "id": 5043,
+    "title": "AI-Based Dynamic Coupon Generator",
+    "domain": "66",
+    "description": "Design a system that generates dynamic, personalized discount coupons based on shopping behavior and engagement history.",
+    "keywords": ["Digital Marketing", "Customer Analytics", "Shopping Experience"]
+},
+{
+    "id": 5044,
+    "title": "Crowdsourced Delivery Marketplace",
+    "domain": "66",
+    "description": "Create a crowdsourced delivery solution where local drivers can accept delivery requests, reducing costs and speeding up fulfillment.",
+    "keywords": ["Order Fulfillment", "Marketplace Technology", "Supply Chain"]
+},
+{
+    "id": 5045,
+    "title": "AI-Powered E-commerce SEO Optimizer",
+    "domain": "66",
+    "description": "Develop an AI system that optimizes product listings with SEO-driven titles, tags, and descriptions to improve visibility in search engines.",
+    "keywords": ["Digital Marketing", "Customer Analytics", "Marketplace Technology"]
+},
+{
+    "id": 5046,
+    "title": "Multi-Device Unified Shopping Experience",
+    "domain": "66",
+    "description": "Design a system that syncs carts, wishlists, and preferences across multiple devices for a seamless omnichannel shopping experience.",
+    "keywords": ["Shopping Experience", "Marketplace Technology", "Online Shopping"]
+},
+{
+    "id": 5047,
+    "title": "AI-Powered Post-Purchase Personalization",
+    "domain": "66",
+    "description": "Build a recommendation engine that suggests complementary products or services after a purchase to improve customer retention.",
+    "keywords": ["Recommendation Engines", "Customer Analytics", "Digital Marketing"]
+},
+{
+    "id": 5048,
+    "title": "Smart Loyalty Wallet for E-commerce",
+    "domain": "66",
+    "description": "Develop a digital loyalty wallet that integrates points, cashback, and rewards from multiple merchants into one unified system.",
+    "keywords": ["Payment Systems", "Mobile Commerce", "Shopping Experience"]
+},
+//domain-67
+
+
+
+
 
     
 
