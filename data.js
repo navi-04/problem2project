@@ -34742,6 +34742,336 @@ const PROBLEMS_DATA = {
     "keywords": ["Payment Systems", "Mobile Commerce", "Shopping Experience"]
 },
 //domain-67
+{
+  "id": 5049,
+  "title": "AI-Driven Property Price Prediction System",
+  "domain": "67",
+  "description": "Develop an AI-powered analytics engine that predicts property prices using historical property data, market trends, and neighborhood statistics. The system should help investors and buyers make data-driven real estate decisions.",
+  "keywords": ["Real Estate Analytics", "Property Data", "Property Investment"]
+},
+{
+  "id": 5050,
+  "title": "Smart Building Energy Optimization Platform",
+  "domain": "67",
+  "description": "Create a smart building management system that monitors energy usage in real time and applies AI-driven optimizations to reduce costs while maintaining tenant comfort.",
+  "keywords": ["Smart Buildings", "Facility Management", "Property Management"]
+},
+{
+  "id": 5051,
+  "title": "Virtual Reality Property Tour System",
+  "domain": "67",
+  "description": "Develop a VR-based platform that allows potential buyers and renters to take immersive virtual tours of properties, reducing the need for physical visits while enhancing decision-making.",
+  "keywords": ["Virtual Tours", "Property Search", "Real Estate Apps"]
+},
+{
+  "id": 5052,
+  "title": "Tenant Experience Management App",
+  "domain": "67",
+  "description": "Build a mobile app that streamlines tenant services, enabling rent payments, maintenance requests, and community engagement features in one platform.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Apps"]
+},
+{
+  "id": 5053,
+  "title": "Blockchain-Based Property Transactions",
+  "domain": "67",
+  "description": "Design a blockchain-enabled system for secure, transparent, and fraud-free property transactions including ownership transfers and rental agreements.",
+  "keywords": ["Property Data", "Real Estate Finance", "Property Investment"]
+},
+{
+  "id": 5054,
+  "title": "AI Chatbot for Real Estate Customer Support",
+  "domain": "67",
+  "description": "Create an AI-powered chatbot for real estate websites and apps that assists users in property search, provides property insights, and answers financial queries instantly.",
+  "keywords": ["Property Search", "Real Estate Apps", "Tenant Services"]
+},
+{
+  "id": 5055,
+  "title": "Construction Tech Monitoring Dashboard",
+  "domain": "67",
+  "description": "Develop a dashboard that uses IoT and analytics to track construction progress, costs, and material usage for property developers and investors.",
+  "keywords": ["Construction Tech", "Property Data", "Real Estate Analytics"]
+},
+{
+  "id": 5056,
+  "title": "AI-Powered Rental Yield Estimator",
+  "domain": "67",
+  "description": "Build a system that analyzes property data and neighborhood trends to calculate expected rental yields, helping landlords and investors make better decisions.",
+  "keywords": ["Property Investment", "Real Estate Analytics", "Property Data"]
+},
+{
+  "id": 5057,
+  "title": "Facility Management Automation Platform",
+  "domain": "67",
+  "description": "Develop a cloud-based platform that automates facility management tasks such as equipment maintenance scheduling, security monitoring, and vendor management.",
+  "keywords": ["Facility Management", "Smart Buildings", "Property Management"]
+},
+{
+  "id": 5058,
+  "title": "Smart Lease Agreement Generator",
+  "domain": "67",
+  "description": "Design a digital solution that auto-generates legally compliant lease agreements customized to property type and tenant profile, with e-signature support.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Finance"]
+},
+{
+  "id": 5059,
+  "title": "Real Estate Fraud Detection System",
+  "domain": "67",
+  "description": "Build a fraud detection system that uses property data validation and AI algorithms to identify suspicious real estate transactions and prevent scams.",
+  "keywords": ["Real Estate Analytics", "Property Data", "Real Estate Finance"]
+},
+{
+  "id": 5060,
+  "title": "Green Building Certification Tracker",
+  "domain": "67",
+  "description": "Develop a system that helps property developers track environmental compliance and achieve green building certifications through smart monitoring.",
+  "keywords": ["Smart Buildings", "Construction Tech", "Facility Management"]
+},
+{
+  "id": 5061,
+  "title": "Voice-Enabled Real Estate Search Assistant",
+  "domain": "67",
+  "description": "Create a voice-based assistant integrated into real estate apps that helps users find properties using conversational queries.",
+  "keywords": ["Property Search", "Real Estate Apps", "Tenant Services"]
+},
+{
+  "id": 5062,
+  "title": "AI-Based Property Investment Risk Analyzer",
+  "domain": "67",
+  "description": "Develop an AI tool that analyzes financial data, neighborhood growth, and property history to assess investment risks and opportunities.",
+  "keywords": ["Property Investment", "Real Estate Finance", "Real Estate Analytics"]
+},
+{
+  "id": 5063,
+  "title": "Tenant Feedback & Sentiment Dashboard",
+  "domain": "67",
+  "description": "Design a platform that collects tenant feedback via apps and generates sentiment analysis reports to improve property management.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Analytics"]
+},
+{
+  "id": 5064,
+  "title": "IoT-Powered Smart Security for Buildings",
+  "domain": "67",
+  "description": "Develop an IoT-based building security system with features like smart cameras, access control, and AI threat detection.",
+  "keywords": ["Smart Buildings", "Facility Management", "Construction Tech"]
+},
+{
+  "id": 5065,
+  "title": "Property Maintenance Prediction System",
+  "domain": "67",
+  "description": "Build a predictive maintenance system for properties that uses IoT sensors and machine learning to forecast equipment failures before they occur.",
+  "keywords": ["Facility Management", "Smart Buildings", "Property Data"]
+},
+{
+  "id": 5066,
+  "title": "AI-Enhanced Property Valuation Tool",
+  "domain": "67",
+  "description": "Develop an AI tool that provides instant, accurate property valuations using market data, comparable sales, and neighborhood analytics.",
+  "keywords": ["Real Estate Analytics", "Property Data", "Property Investment"]
+},
+{
+  "id": 5067,
+  "title": "Mobile App for Co-Living Property Management",
+  "domain": "67",
+  "description": "Design an app for co-living property operators that manages tenant services, rent sharing, and community events.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Apps"]
+},
+{
+  "id": 5068,
+  "title": "AI-Powered Property Search Recommendations",
+  "domain": "67",
+  "description": "Create a property search engine that uses AI to recommend homes or offices based on user lifestyle preferences and commuting patterns.",
+  "keywords": ["Property Search", "Real Estate Apps", "Real Estate Analytics"]
+},
+{
+  "id": 5069,
+  "title": "Construction Cost Estimator App",
+  "domain": "67",
+  "description": "Develop a construction tech app that predicts construction costs based on material prices, labor availability, and project size.",
+  "keywords": ["Construction Tech", "Real Estate Finance", "Property Data"]
+},
+{
+  "id": 5070,
+  "title": "Property Financing Recommendation Engine",
+  "domain": "67",
+  "description": "Build an AI system that recommends suitable property financing options to buyers based on credit profile and property value.",
+  "keywords": ["Real Estate Finance", "Property Investment", "Property Data"]
+},
+{
+  "id": 5071,
+  "title": "Smart Tenant Utility Billing System",
+  "domain": "67",
+  "description": "Create an automated utility billing system that calculates and splits bills among tenants in shared properties.",
+  "keywords": ["Tenant Services", "Property Management", "Facility Management"]
+},
+{
+  "id": 5072,
+  "title": "AI-Based Property Fraud Image Detection",
+  "domain": "67",
+  "description": "Develop a tool that scans property listing images to detect fake or manipulated content, ensuring authenticity in property search platforms.",
+  "keywords": ["Property Data", "Property Search", "Real Estate Analytics"]
+},
+{
+  "id": 5073,
+  "title": "Smart Contract Leasing Platform",
+  "domain": "67",
+  "description": "Design a blockchain-powered smart contract system for automated, transparent, and tamper-proof lease agreements.",
+  "keywords": ["Real Estate Finance", "Tenant Services", "Property Data"]
+},
+{
+  "id": 5074,
+  "title": "AI-Driven Facility Usage Analytics",
+  "domain": "67",
+  "description": "Develop an analytics tool for facility managers to track how shared spaces like gyms and meeting rooms are used, improving scheduling and utilization.",
+  "keywords": ["Facility Management", "Smart Buildings", "Real Estate Analytics"]
+},
+{
+  "id": 5075,
+  "title": "Digital Twin for Real Estate Projects",
+  "domain": "67",
+  "description": "Create a digital twin system for real estate developers that simulates construction, facility management, and property maintenance scenarios.",
+  "keywords": ["Construction Tech", "Smart Buildings", "Property Data"]
+},
+{
+  "id": 5076,
+  "title": "Tenant Onboarding Automation Platform",
+  "domain": "67",
+  "description": "Develop a platform that automates tenant onboarding with background checks, lease agreements, and move-in scheduling.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Apps"]
+},
+{
+  "id": 5077,
+  "title": "Real Estate Market Heatmap Generator",
+  "domain": "67",
+  "description": "Build a visualization platform that generates heatmaps of real estate demand and pricing trends based on property data.",
+  "keywords": ["Real Estate Analytics", "Property Search", "Property Data"]
+},
+{
+  "id": 5078,
+  "title": "AI-Powered Property Tax Calculator",
+  "domain": "67",
+  "description": "Design an AI tool that estimates property taxes based on property type, location, and municipal data, providing transparency to buyers.",
+  "keywords": ["Real Estate Finance", "Property Data", "Property Management"]
+},
+{
+  "id": 5079,
+  "title": "AR-Based Interior Customization Tool",
+  "domain": "67",
+  "description": "Create an augmented reality application that allows buyers and tenants to visualize furniture and interior designs within properties.",
+  "keywords": ["Virtual Tours", "Real Estate Apps", "Property Search"]
+},
+{
+  "id": 5080,
+  "title": "AI Assistant for Property Developers",
+  "domain": "67",
+  "description": "Develop an AI assistant that helps real estate developers plan projects by analyzing market demand, construction costs, and financing options.",
+  "keywords": ["Construction Tech", "Real Estate Finance", "Real Estate Analytics"]
+},
+{
+  "id": 5081,
+  "title": "Tenant Community Engagement Platform",
+  "domain": "67",
+  "description": "Build a platform for property managers to organize community events, surveys, and communication channels for tenants.",
+  "keywords": ["Tenant Services", "Property Management", "Real Estate Apps"]
+},
+{
+  "id": 5082,
+  "title": "IoT-Based Water Management in Smart Buildings",
+  "domain": "67",
+  "description": "Develop an IoT-powered water monitoring system that tracks consumption and detects leaks in real estate properties.",
+  "keywords": ["Smart Buildings", "Facility Management", "Property Data"]
+},
+{
+  "id": 5083,
+  "title": "AI-Based Mortgage Default Prediction",
+  "domain": "67",
+  "description": "Build an AI model that predicts the risk of mortgage defaults by analyzing borrower profiles and market conditions.",
+  "keywords": ["Real Estate Finance", "Property Data", "Real Estate Analytics"]
+},
+{
+  "id": 5084,
+  "title": "Smart Noise Monitoring System for Tenants",
+  "domain": "67",
+  "description": "Design a noise detection system for properties that alerts managers about violations in noise-sensitive areas, improving tenant satisfaction.",
+  "keywords": ["Tenant Services", "Smart Buildings", "Facility Management"]
+},
+{
+  "id": 5085,
+  "title": "AI-Powered Real Estate Investment Portfolio Manager",
+  "domain": "67",
+  "description": "Develop an AI-based portfolio manager that helps investors track and optimize their real estate investments across multiple properties.",
+  "keywords": ["Property Investment", "Real Estate Finance", "Property Data"]
+},
+{
+  "id": 5086,
+  "title": "Digital KYC System for Property Buyers",
+  "domain": "67",
+  "description": "Build a digital KYC platform for property buyers and tenants that integrates identity verification and compliance checks into real estate apps.",
+  "keywords": ["Tenant Services", "Property Data", "Real Estate Finance"]
+},
+{
+  "id": 5087,
+  "title": "AI-Powered Construction Delay Predictor",
+  "domain": "67",
+  "description": "Design a predictive analytics tool that forecasts potential construction project delays using data on resources, weather, and contractors.",
+  "keywords": ["Construction Tech", "Real Estate Analytics", "Property Data"]
+},
+{
+  "id": 5088,
+  "title": "Smart Parking Management for Real Estate",
+  "domain": "67",
+  "description": "Create an IoT-based parking management system that optimizes parking space allocation in residential and commercial buildings.",
+  "keywords": ["Smart Buildings", "Facility Management", "Tenant Services"]
+},
+{
+  "id": 5089,
+  "title": "AI-Enhanced Property Search Fraud Filter",
+  "domain": "67",
+  "description": "Develop a system that uses AI to detect duplicate, fake, or misleading property listings in real estate apps.",
+  "keywords": ["Property Search", "Real Estate Apps", "Property Data"]
+},
+{
+  "id": 5090,
+  "title": "Property Lifecycle Analytics Dashboard",
+  "domain": "67",
+  "description": "Design a dashboard that tracks a property's lifecycle from construction through maintenance and resale, providing insights to managers and investors.",
+  "keywords": ["Property Management", "Construction Tech", "Real Estate Analytics"]
+},
+{
+  "id": 5091,
+  "title": "AI-Based Property Renovation Cost Predictor",
+  "domain": "67",
+  "description": "Build an AI tool that predicts renovation costs for properties by analyzing design plans, material requirements, and historical cost data.",
+  "keywords": ["Construction Tech", "Property Investment", "Real Estate Analytics"]
+},
+{
+  "id": 5092,
+  "title": "Tenant Wellness & Safety Monitoring System",
+  "domain": "67",
+  "description": "Create a system that monitors building air quality, emergency response readiness, and tenant wellness to improve living standards.",
+  "keywords": ["Smart Buildings", "Tenant Services", "Facility Management"]
+},
+{
+  "id": 5093,
+  "title": "Real-Time Property Demand Forecasting",
+  "domain": "67",
+  "description": "Develop a forecasting system that predicts real estate demand across regions using property data, demographic trends, and economic indicators.",
+  "keywords": ["Real Estate Analytics", "Property Search", "Property Data"]
+},
+{
+  "id": 5094,
+  "title": "AI-Powered Facility Cost Optimizer",
+  "domain": "67",
+  "description": "Design a system that uses analytics to optimize facility costs, such as cleaning, maintenance, and staffing, for large property complexes.",
+  "keywords": ["Facility Management", "Real Estate Analytics", "Property Management"]
+},
+{
+  "id": 5095,
+  "title": "Property Data Integration API",
+  "domain": "67",
+  "description": "Create an API that integrates property data from multiple sources including government records, listings, and analytics platforms into one standardized format.",
+  "keywords": ["Property Data", "Real Estate Analytics", "Property Search"]
+},
+//domain-68
 
 
 
