@@ -23058,350 +23058,350 @@ const PROBLEMS_DATA = {
     {
         "id": 3351,
         "title": "Automated Bias Detection in Hiring Systems",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a framework to detect and mitigate bias in AI-driven hiring platforms to ensure fairness across gender, race, and socio-economic groups.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
     {
         "id": 3352,
         "title": "Transparent Credit Scoring Models",
-        "domain": 34,
+        "domain": "34",
         "description": "Design a transparent AI credit scoring model that explains its decision-making process to ensure accountability and fairness in financial systems.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3353,
         "title": "Explainable AI for Healthcare Diagnosis",
-        "domain": 34,
+        "domain": "34",
         "description": "Build an explainable AI system for medical diagnosis that provides reasoning for predictions, improving trust and patient safety.",
         "keywords": ["Explainable AI", "AI Safety", "Transparency"]
     },
     {
         "id": 3354,
         "title": "Privacy-Preserving AI in Smart Homes",
-        "domain": 34,
+        "domain": "34",
         "description": "Create AI solutions for smart home devices that ensure user privacy through data anonymization and secure processing.",
         "keywords": ["Privacy", "Responsible AI", "AI Governance"]
     },
     {
         "id": 3355,
         "title": "Bias-Free Chatbot Moderation",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop an AI chatbot moderation system that avoids biased responses and promotes inclusive and respectful communication.",
         "keywords": ["Bias Detection", "Fairness", "Ethical Decision Making"]
     },
     {
         "id": 3356,
         "title": "AI Governance Dashboard",
-        "domain": 34,
+        "domain": "34",
         "description": "Design a governance dashboard for AI systems that monitors ethical compliance, bias risks, and fairness metrics in real time.",
         "keywords": ["AI Governance", "Transparency", "AI Auditing"]
     },
     {
         "id": 3357,
         "title": "Algorithmic Fairness in Education Platforms",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop AI models for online education that ensure fairness in grading and recommendations regardless of student backgrounds.",
         "keywords": ["Fairness", "Bias Detection", "Responsible AI"]
     },
     {
         "id": 3358,
         "title": "Human Rights Impact Analyzer for AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Create a tool that evaluates AI applications against human rights principles to prevent harmful deployment.",
         "keywords": ["Human Rights", "AI Governance", "Ethical Decision Making"]
     },
     {
         "id": 3359,
         "title": "Explainable Sentiment Analysis",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop an explainable sentiment analysis model that justifies its classifications, reducing risks of misinterpretation in social platforms.",
         "keywords": ["Explainable AI", "Transparency", "Responsible AI"]
     },
     {
         "id": 3360,
         "title": "AI Auditing Toolkit",
-        "domain": 34,
+        "domain": "34",
         "description": "Build a toolkit that automates auditing of AI systems for fairness, transparency, and ethical risks before deployment.",
         "keywords": ["AI Auditing", "Algorithmic Accountability", "AI Governance"]
     },
     {
         "id": 3361,
         "title": "Bias-Free Image Recognition System",
-        "domain": 34,
+        "domain": "34",
         "description": "Create an image recognition model that reduces racial and gender bias by training on diverse and balanced datasets.",
         "keywords": ["Bias Detection", "Fairness", "AI Safety"]
     },
     {
         "id": 3362,
         "title": "Fairness Metrics Library for AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a reusable library of fairness metrics for AI practitioners to evaluate bias in machine learning models.",
         "keywords": ["Fairness", "Algorithmic Accountability", "Bias Detection"]
     },
     {
         "id": 3363,
         "title": "Ethical Decision-Making in Autonomous Vehicles",
-        "domain": 34,
+        "domain": "34",
         "description": "Design an ethical decision-making system for self-driving cars to handle edge cases like accident prevention fairly.",
         "keywords": ["Ethical Decision Making", "AI Safety", "Transparency"]
     },
     {
         "id": 3364,
         "title": "AI Safety Simulator for Risk Scenarios",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a simulator that tests AI behavior in safety-critical scenarios, identifying risks of unethical or harmful actions.",
         "keywords": ["AI Safety", "Responsible AI", "AI Auditing"]
     },
     {
         "id": 3365,
         "title": "Privacy-First AI for Wearables",
-        "domain": 34,
+        "domain": "34",
         "description": "Design AI models for wearable devices that prioritize user privacy while offering health and fitness insights.",
         "keywords": ["Privacy", "Responsible AI", "Ethical Decision Making"]
     },
     {
         "id": 3366,
         "title": "Algorithmic Accountability in Social Media Feeds",
-        "domain": 34,
+        "domain": "34",
         "description": "Create a system that explains how social media algorithms rank and recommend content to ensure fairness and accountability.",
         "keywords": ["Algorithmic Accountability", "Transparency", "Explainable AI"]
     },
     {
         "id": 3367,
         "title": "Responsible AI Certification Framework",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a certification framework for AI systems that verifies adherence to ethical guidelines before deployment.",
         "keywords": ["Responsible AI", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3368,
         "title": "Explainable Fraud Detection AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Build an explainable AI model for fraud detection that ensures fairness in decisions and provides transparent reasoning.",
         "keywords": ["Explainable AI", "Transparency", "Fairness"]
     },
     {
         "id": 3369,
         "title": "AI Whistleblower Protection System",
-        "domain": 34,
+        "domain": "34",
         "description": "Design a system that enables employees to report unethical AI practices safely while ensuring accountability.",
         "keywords": ["Algorithmic Accountability", "AI Governance", "Human Rights"]
     },
     {
         "id": 3370,
         "title": "Bias-Resistant Voice Assistants",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop AI voice assistants that avoid biased interpretations across accents and dialects, ensuring inclusivity.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
     {
         "id": 3371,
         "title": "AI Safety Standards for Robotics",
-        "domain": 34,
+        "domain": "34",
         "description": "Create standardized AI safety protocols for robotics systems to prevent harmful actions in human environments.",
         "keywords": ["AI Safety", "AI Governance", "Responsible AI"]
     },
     {
         "id": 3372,
         "title": "Transparent Loan Approval AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Design an AI loan approval system that explains decisions clearly to applicants, ensuring fairness and accountability.",
         "keywords": ["Transparency", "Fairness", "Explainable AI"]
     },
     {
         "id": 3373,
         "title": "Ethical AI Recommendation Engine",
-        "domain": 34,
+        "domain": "34",
         "description": "Build a recommendation engine that balances personalization with ethical standards, avoiding harmful echo chambers.",
         "keywords": ["Ethical Decision Making", "Responsible AI", "Transparency"]
     },
     {
         "id": 3374,
         "title": "Bias Detection in Judicial AI Tools",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a system to detect and mitigate bias in AI tools used for sentencing or parole decisions in courts.",
         "keywords": ["Bias Detection", "Human Rights", "Fairness"]
     },
     {
         "id": 3375,
         "title": "AI Auditing Framework for Startups",
-        "domain": 34,
+        "domain": "34",
         "description": "Create a lightweight AI auditing framework tailored for startups to ensure responsible AI development practices.",
         "keywords": ["AI Auditing", "Algorithmic Accountability", "Responsible AI"]
     },
     {
         "id": 3376,
         "title": "Ethical ChatGPT Guardrails",
-        "domain": 34,
+        "domain": "34",
         "description": "Design a guardrail system for large language models that prevents harmful, biased, or unethical outputs.",
         "keywords": ["Ethical Decision Making", "AI Safety", "Bias Detection"]
     },
     {
         "id": 3377,
         "title": "Privacy-Respecting AI in Retail",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop AI-driven retail personalization systems that respect customer privacy and provide transparent data usage policies.",
         "keywords": ["Privacy", "Transparency", "Responsible AI"]
     },
     {
         "id": 3378,
         "title": "AI Governance Policy Generator",
-        "domain": 34,
+        "domain": "34",
         "description": "Build a tool that helps organizations generate AI governance policies aligned with ethical and legal standards.",
         "keywords": ["AI Governance", "Algorithmic Accountability", "Human Rights"]
     },
     {
         "id": 3379,
         "title": "Fairness-Aware Predictive Policing AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Create predictive policing systems that minimize bias and promote fairness in law enforcement applications.",
         "keywords": ["Fairness", "Bias Detection", "Ethical Decision Making"]
     },
     {
         "id": 3380,
         "title": "AI Safety Testing Suite",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a testing suite that evaluates AI models for safety, robustness, and adherence to ethical principles.",
         "keywords": ["AI Safety", "AI Auditing", "Responsible AI"]
     },
     {
         "id": 3381,
         "title": "Transparent Content Moderation AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Design an AI content moderation system that explains moderation decisions to users while maintaining fairness.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3382,
         "title": "AI Ethics Risk Analyzer",
-        "domain": 34,
+        "domain": "34",
         "description": "Create a tool that analyzes AI projects for potential ethical risks, providing mitigation strategies before launch.",
         "keywords": ["Ethical Decision Making", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3383,
         "title": "Bias-Free Facial Recognition",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a facial recognition system that eliminates demographic biases and ensures human rights compliance.",
         "keywords": ["Bias Detection", "Fairness", "Human Rights"]
     },
     {
         "id": 3384,
         "title": "Responsible AI in Disaster Response",
-        "domain": 34,
+        "domain": "34",
         "description": "Design AI tools for disaster management that prioritize human safety and fairness in resource allocation.",
         "keywords": ["Responsible AI", "AI Safety", "Ethical Decision Making"]
     },
     {
         "id": 3385,
         "title": "Algorithmic Transparency in Insurance Claims",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop an AI insurance claims system that clearly explains approval and rejection decisions to policyholders.",
         "keywords": ["Transparency", "Explainable AI", "Algorithmic Accountability"]
     },
     {
         "id": 3386,
         "title": "AI Ethics Compliance Checker",
-        "domain": 34,
+        "domain": "34",
         "description": "Build an AI ethics compliance checker that evaluates projects against responsible AI development principles.",
         "keywords": ["Responsible AI", "AI Governance", "AI Auditing"]
     },
     {
         "id": 3387,
         "title": "Bias-Aware Healthcare AI",
-        "domain": 34,
+        "domain": "34",
         "description": "Create AI healthcare models that detect and correct biases to ensure equitable treatment outcomes across populations.",
         "keywords": ["Bias Detection", "Fairness", "AI Safety"]
     },
     {
         "id": 3388,
         "title": "Explainable AI in Legal Document Review",
-        "domain": 34,
+        "domain": "34",
         "description": "Design explainable AI models that assist in legal document review while maintaining transparency and accountability.",
         "keywords": ["Explainable AI", "Transparency", "Algorithmic Accountability"]
     },
     {
         "id": 3389,
         "title": "Human-Centered AI Governance Platform",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a governance platform that includes diverse human perspectives in shaping ethical AI policies.",
         "keywords": ["AI Governance", "Human Rights", "Responsible AI"]
     },
     {
         "id": 3390,
         "title": "AI Safety Sandbox",
-        "domain": 34,
+        "domain": "34",
         "description": "Build a sandbox environment to test AI systems in controlled settings for ethical compliance and safety.",
         "keywords": ["AI Safety", "AI Auditing", "Responsible AI"]
     },
     {
         "id": 3391,
         "title": "Fairness in AI-Powered Lending",
-        "domain": 34,
+        "domain": "34",
         "description": "Create lending AI models that evaluate loan applications fairly and avoid discrimination against vulnerable groups.",
         "keywords": ["Fairness", "Bias Detection", "Algorithmic Accountability"]
     },
     {
         "id": 3392,
         "title": "Ethical AI for Mental Health Chatbots",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop mental health chatbot AI that ensures responsible advice delivery, protects privacy, and avoids bias.",
         "keywords": ["Ethical Decision Making", "Privacy", "Responsible AI"]
     },
     {
         "id": 3393,
         "title": "Algorithmic Accountability in Job Matching",
-        "domain": 34,
+        "domain": "34",
         "description": "Design a job-matching AI system that ensures fair opportunities for candidates through transparent ranking methods.",
         "keywords": ["Algorithmic Accountability", "Fairness", "Transparency"]
     },
     {
         "id": 3394,
         "title": "Responsible AI in Public Policy",
-        "domain": 34,
+        "domain": "34",
         "description": "Create AI systems to support policy-making with fairness and transparency, ensuring decisions respect human rights.",
         "keywords": ["Responsible AI", "Transparency", "Human Rights"]
     },
     {
         "id": 3395,
         "title": "Bias Detection in AI-Powered Advertising",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop a system to detect bias in targeted advertising to prevent discriminatory ad delivery.",
         "keywords": ["Bias Detection", "Fairness", "Algorithmic Accountability"]
     },
     {
         "id": 3396,
         "title": "Ethical AI in Criminal Investigations",
-        "domain": 34,
+        "domain": "34",
         "description": "Design ethical frameworks for AI tools used in criminal investigations to ensure fairness and prevent misuse.",
         "keywords": ["Ethical Decision Making", "Human Rights", "Responsible AI"]
     },
     {
         "id": 3397,
         "title": "AI Governance Knowledge Hub",
-        "domain": 34,
+        "domain": "34",
         "description": "Build an online hub that collects best practices, policies, and guidelines for AI governance worldwide.",
         "keywords": ["AI Governance", "Transparency", "Responsible AI"]
     },
     {
         "id": 3398,
         "title": "Explainable AI in Financial Forecasting",
-        "domain": 34,
+        "domain": "34",
         "description": "Create explainable forecasting models that clarify decision processes for investors and regulators.",
         "keywords": ["Explainable AI", "Transparency", "Algorithmic Accountability"]
     },
     {
         "id": 3399,
         "title": "AI Safety in Military Applications",
-        "domain": 34,
+        "domain": "34",
         "description": "Develop ethical guardrails for AI military applications to ensure compliance with human rights and global safety standards.",
         "keywords": ["AI Safety", "Human Rights", "AI Governance"]
     },
     {
         "id": 3400,
         "title": "Bias-Free AI Translation Systems",
-        "domain": 34,
+        "domain": "34",
         "description": "Design translation AI that avoids cultural or gender biases, ensuring inclusivity in multilingual communication.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
