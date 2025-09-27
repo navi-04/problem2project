@@ -32331,6 +32331,400 @@ const PROBLEMS_DATA = {
         "description": "Integrate sensors to monitor snowpack conditions and predict avalanche risk.",
         "keywords": ["Avalanche Monitoring", "Snowpack", "Sensors"]
     },
+    //domain 61
+    
+    {
+        "id": 4706,
+        "title": "Digital Twin for Smart Buildings",
+        "domain": "61",
+        "description": "Develop a digital twin to monitor and optimize energy consumption, HVAC systems, and occupancy patterns in smart buildings.",
+        "keywords": ["Digital Twins", "Smart Buildings", "Energy Optimization"]
+    },
+    {
+        "id": 4707,
+        "title": "Predictive Maintenance for Industrial Machines",
+        "domain": "61",
+        "description": "Create digital twins for industrial machinery to predict failures and schedule maintenance proactively.",
+        "keywords": ["Digital Twins", "Predictive Maintenance", "Industrial IoT"]
+    },
+    {
+        "id": 4708,
+        "title": "Urban Traffic Digital Twin",
+        "domain": "61",
+        "description": "Simulate and optimize city traffic using a digital twin to reduce congestion and improve flow.",
+        "keywords": ["Digital Twins", "Traffic Management", "Smart Cities"]
+    },
+    {
+        "id": 4709,
+        "title": "Digital Twin for Renewable Energy Plants",
+        "domain": "61",
+        "description": "Monitor and optimize solar and wind energy plants using real-time digital twin simulations.",
+        "keywords": ["Digital Twins", "Renewable Energy", "Energy Optimization"]
+    },
+    {
+        "id": 4710,
+        "title": "Digital Twin for Supply Chain Monitoring",
+        "domain": "61",
+        "description": "Create a digital twin of a supply chain to track inventory, optimize logistics, and predict disruptions.",
+        "keywords": ["Digital Twins", "Supply Chain", "Logistics Optimization"]
+    },
+    {
+        "id": 4711,
+        "title": "Patient Health Digital Twin",
+        "domain": "61",
+        "description": "Develop digital twins for patients to simulate treatment outcomes and personalize medical care.",
+        "keywords": ["Digital Twins", "Healthcare", "Personalized Medicine"]
+    },
+    {
+        "id": 4712,
+        "title": "Digital Twin for Smart Factories",
+        "domain": "61",
+        "description": "Implement digital twins to monitor production lines, predict bottlenecks, and optimize factory operations.",
+        "keywords": ["Digital Twins", "Smart Factory", "Industrial Optimization"]
+    },
+    {
+        "id": 4713,
+        "title": "Digital Twin for Autonomous Vehicle Testing",
+        "domain": "61",
+        "description": "Simulate autonomous vehicle behavior under various road and traffic conditions using digital twins.",
+        "keywords": ["Digital Twins", "Autonomous Vehicles", "Simulation"]
+    },
+    {
+        "id": 4714,
+        "title": "Digital Twin for Smart Grid Management",
+        "domain": "61",
+        "description": "Monitor energy distribution networks and optimize load balancing using digital twin models.",
+        "keywords": ["Digital Twins", "Smart Grid", "Energy Management"]
+    },
+    {
+        "id": 4715,
+        "title": "Digital Twin for Water Treatment Plants",
+        "domain": "61",
+        "description": "Simulate water treatment processes to optimize chemical usage, energy efficiency, and output quality.",
+        "keywords": ["Digital Twins", "Water Treatment", "Process Optimization"]
+    },
+    {
+        "id": 4716,
+        "title": "Digital Twin for Environmental Monitoring",
+        "domain": "61",
+        "description": "Create digital twins to model environmental changes and predict pollution levels in ecosystems.",
+        "keywords": ["Digital Twins", "Environmental Monitoring", "Simulation"]
+    },
+    {
+        "id": 4717,
+        "title": "Digital Twin for Aircraft Maintenance",
+        "domain": "61",
+        "description": "Develop digital twins to monitor aircraft health, predict failures, and optimize maintenance schedules.",
+        "keywords": ["Digital Twins", "Aircraft", "Predictive Maintenance"]
+    },
+    {
+        "id": 4718,
+        "title": "Digital Twin for Crop Growth Optimization",
+        "domain": "61",
+        "description": "Simulate crop growth under various environmental conditions to optimize irrigation and fertilization.",
+        "keywords": ["Digital Twins", "Agriculture", "Crop Optimization"]
+    },
+    {
+        "id": 4719,
+        "title": "Digital Twin for Hospital Resource Management",
+        "domain": "61",
+        "description": "Monitor hospital equipment, beds, and staff allocation using digital twin simulations.",
+        "keywords": ["Digital Twins", "Healthcare", "Resource Management"]
+    },
+    {
+        "id": 4720,
+        "title": "Digital Twin for Urban Air Quality",
+        "domain": "61",
+        "description": "Simulate air pollution dispersion in cities to predict hotspots and implement mitigation strategies.",
+        "keywords": ["Digital Twins", "Air Quality", "Urban Planning"]
+    },
+    {
+        "id": 4721,
+        "title": "Digital Twin for Railway Network Optimization",
+        "domain": "61",
+        "description": "Monitor train operations, track conditions, and passenger flow to optimize railway network performance.",
+        "keywords": ["Digital Twins", "Railway", "Transport Optimization"]
+    },
+    {
+        "id": 4722,
+        "title": "Digital Twin for Retail Store Management",
+        "domain": "61",
+        "description": "Simulate store layouts, customer behavior, and inventory to enhance retail operations.",
+        "keywords": ["Digital Twins", "Retail", "Customer Analytics"]
+    },
+    {
+        "id": 4723,
+        "title": "Digital Twin for Power Plant Efficiency",
+        "domain": "61",
+        "description": "Monitor turbine performance, energy output, and maintenance needs of power plants.",
+        "keywords": ["Digital Twins", "Power Plant", "Efficiency Optimization"]
+    },
+    {
+        "id": 4724,
+        "title": "Digital Twin for Wind Turbine Health Monitoring",
+        "domain": "61",
+        "description": "Simulate wind turbine operations to predict component failures and optimize energy production.",
+        "keywords": ["Digital Twins", "Wind Energy", "Predictive Maintenance"]
+    },
+    {
+        "id": 4725,
+        "title": "Digital Twin for Traffic Light Optimization",
+        "domain": "61",
+        "description": "Simulate city intersections to optimize traffic signal timing and reduce congestion.",
+        "keywords": ["Digital Twins", "Traffic Management", "Urban Planning"]
+    },
+    {
+        "id": 4726,
+        "title": "Digital Twin for Autonomous Drone Fleet Management",
+        "domain": "61",
+        "description": "Monitor drone operations, battery health, and routing using digital twin technology.",
+        "keywords": ["Digital Twins", "Drones", "Fleet Management"]
+    },
+    {
+        "id": 4727,
+        "title": "Digital Twin for Industrial Robotics",
+        "domain": "61",
+        "description": "Simulate robotic arms and manufacturing processes to optimize performance and reduce downtime.",
+        "keywords": ["Digital Twins", "Industrial Robotics", "Simulation"]
+    },
+    {
+        "id": 4728,
+        "title": "Digital Twin for Pipeline Monitoring",
+        "domain": "61",
+        "description": "Monitor pipelines for leaks, pressure anomalies, and maintenance using digital twins.",
+        "keywords": ["Digital Twins", "Pipeline Monitoring", "IoT Sensors"]
+    },
+    {
+        "id": 4729,
+        "title": "Digital Twin for Vehicle Fleet Optimization",
+        "domain": "61",
+        "description": "Simulate vehicle fleet operations to optimize routing, fuel efficiency, and maintenance schedules.",
+        "keywords": ["Digital Twins", "Fleet Management", "Transportation"]
+    },
+    {
+        "id": 4730,
+        "title": "Digital Twin for Smart Water Distribution",
+        "domain": "61",
+        "description": "Monitor and optimize water distribution networks using real-time digital twin models.",
+        "keywords": ["Digital Twins", "Water Distribution", "Smart City"]
+    },
+    {
+        "id": 4731,
+        "title": "Digital Twin for Building Structural Health",
+        "domain": "61",
+        "description": "Simulate building structures to monitor integrity, detect damage, and predict maintenance needs.",
+        "keywords": ["Digital Twins", "Structural Health", "Construction"]
+    },
+    {
+        "id": 4732,
+        "title": "Digital Twin for Warehouse Operations",
+        "domain": "61",
+        "description": "Monitor inventory, robot movement, and storage efficiency using digital twin simulations.",
+        "keywords": ["Digital Twins", "Warehouse Management", "Operations Optimization"]
+    },
+    {
+        "id": 4733,
+        "title": "Digital Twin for Smart Lighting Systems",
+        "domain": "61",
+        "description": "Simulate lighting patterns in buildings or streets to optimize energy usage and illumination.",
+        "keywords": ["Digital Twins", "Smart Lighting", "Energy Efficiency"]
+    },
+    {
+        "id": 4734,
+        "title": "Digital Twin for Environmental Disaster Management",
+        "domain": "61",
+        "description": "Simulate flood, earthquake, and wildfire scenarios to improve disaster preparedness and response.",
+        "keywords": ["Digital Twins", "Disaster Management", "Simulation"]
+    },
+    {
+        "id": 4735,
+        "title": "Digital Twin for Manufacturing Process Optimization",
+        "domain": "61",
+        "description": "Simulate manufacturing lines to improve efficiency, reduce waste, and optimize resource usage.",
+        "keywords": ["Digital Twins", "Manufacturing", "Process Optimization"]
+    },
+    {
+        "id": 4736,
+        "title": "Digital Twin for Hospital Patient Flow",
+        "domain": "61",
+        "description": "Simulate patient flow and resource allocation in hospitals to reduce wait times and improve care.",
+        "keywords": ["Digital Twins", "Healthcare", "Patient Flow"]
+    },
+    {
+        "id": 4737,
+        "title": "Digital Twin for Building Energy Retrofit",
+        "domain": "61",
+        "description": "Model energy retrofits in buildings using digital twins to maximize efficiency gains.",
+        "keywords": ["Digital Twins", "Energy Retrofit", "Smart Buildings"]
+    },
+    {
+        "id": 4738,
+        "title": "Digital Twin for Urban Noise Mapping",
+        "domain": "61",
+        "description": "Monitor and simulate urban noise pollution using digital twin models to reduce exposure.",
+        "keywords": ["Digital Twins", "Noise Monitoring", "Urban Planning"]
+    },
+    {
+        "id": 4739,
+        "title": "Digital Twin for HVAC System Optimization",
+        "domain": "61",
+        "description": "Simulate HVAC system operations to optimize energy use and maintain comfort levels.",
+        "keywords": ["Digital Twins", "HVAC", "Energy Efficiency"]
+    },
+    {
+        "id": 4740,
+        "title": "Digital Twin for Bridge Structural Monitoring",
+        "domain": "61",
+        "description": "Simulate bridge load, stress, and wear to predict maintenance and ensure safety.",
+        "keywords": ["Digital Twins", "Bridge Monitoring", "Structural Health"]
+    },
+    {
+        "id": 4741,
+        "title": "Digital Twin for Traffic Accident Prediction",
+        "domain": "61",
+        "description": "Simulate traffic flow and risk factors to predict accident-prone zones in cities.",
+        "keywords": ["Digital Twins", "Traffic Safety", "Urban Planning"]
+    },
+    {
+        "id": 4742,
+        "title": "Digital Twin for Renewable Microgrid Management",
+        "domain": "61",
+        "description": "Simulate and optimize energy flow in localized renewable microgrids.",
+        "keywords": ["Digital Twins", "Microgrid", "Renewable Energy"]
+    },
+    {
+        "id": 4743,
+        "title": "Digital Twin for Port Operations Optimization",
+        "domain": "61",
+        "description": "Simulate cargo handling, docking, and logistics in ports for efficiency improvements.",
+        "keywords": ["Digital Twins", "Port Operations", "Logistics"]
+    },
+    {
+        "id": 4744,
+        "title": "Digital Twin for Smart Campus Management",
+        "domain": "61",
+        "description": "Monitor energy, occupancy, and resource usage in campuses through digital twin simulations.",
+        "keywords": ["Digital Twins", "Smart Campus", "Energy Management"]
+    },
+    {
+        "id": 4745,
+        "title": "Digital Twin for Railway Signal Optimization",
+        "domain": "61",
+        "description": "Simulate train signaling and scheduling to reduce delays and improve safety.",
+        "keywords": ["Digital Twins", "Railway", "Signal Optimization"]
+    },
+    {
+        "id": 4746,
+        "title": "Digital Twin for Factory Worker Safety",
+        "domain": "61",
+        "description": "Simulate factory conditions to predict safety risks and optimize worker protection.",
+        "keywords": ["Digital Twins", "Worker Safety", "Industrial Monitoring"]
+    },
+    {
+        "id": 4747,
+        "title": "Digital Twin for Mining Operations",
+        "domain": "61",
+        "description": "Simulate mining equipment, ore extraction, and safety protocols using digital twins.",
+        "keywords": ["Digital Twins", "Mining", "Operations Optimization"]
+    },
+    {
+        "id": 4748,
+        "title": "Digital Twin for Construction Site Monitoring",
+        "domain": "61",
+        "description": "Monitor construction site activities, resource usage, and safety through digital twins.",
+        "keywords": ["Digital Twins", "Construction", "Site Monitoring"]
+    },
+    {
+        "id": 4749,
+        "title": "Digital Twin for Water Distribution Leak Detection",
+        "domain": "61",
+        "description": "Simulate water networks to detect leaks and optimize maintenance schedules.",
+        "keywords": ["Digital Twins", "Water Distribution", "Leak Detection"]
+    },
+    {
+        "id": 4750,
+        "title": "Digital Twin for Port Cargo Tracking",
+        "domain": "61",
+        "description": "Simulate cargo movement and optimize storage and handling in ports.",
+        "keywords": ["Digital Twins", "Cargo Tracking", "Port Management"]
+    },
+    {
+        "id": 4751,
+        "title": "Digital Twin for Urban Flood Risk Simulation",
+        "domain": "61",
+        "description": "Model city flood scenarios to improve preparedness and disaster response.",
+        "keywords": ["Digital Twins", "Flood Risk", "Urban Planning"]
+    },
+    {
+        "id": 4752,
+        "title": "Digital Twin for Smart Grid Cybersecurity",
+        "domain": "61",
+        "description": "Simulate and monitor smart grid systems for cybersecurity threats using digital twins.",
+        "keywords": ["Digital Twins", "Smart Grid", "Cybersecurity"]
+    },
+    {
+        "id": 4753,
+        "title": "Digital Twin for Cold Chain Logistics",
+        "domain": "61",
+        "description": "Simulate temperature-sensitive logistics operations to optimize cold chain management.",
+        "keywords": ["Digital Twins", "Cold Chain", "Logistics"]
+    },
+    {
+        "id": 4754,
+        "title": "Digital Twin for Port Crane Operation",
+        "domain": "61",
+        "description": "Simulate crane operations in ports to optimize handling time and reduce energy consumption.",
+        "keywords": ["Digital Twins", "Crane Operations", "Port Management"]
+    },
+    {
+        "id": 4755,
+        "title": "Digital Twin for Smart Street Lighting Maintenance",
+        "domain": "61",
+        "description": "Simulate street lighting conditions and predict maintenance needs for energy efficiency.",
+        "keywords": ["Digital Twins", "Street Lighting", "Maintenance"]
+    },
+    {
+        "id": 4756,
+        "title": "Digital Twin for Industrial Water Recycling",
+        "domain": "61",
+        "description": "Simulate water recycling systems in factories to optimize efficiency and minimize waste.",
+        "keywords": ["Digital Twins", "Water Recycling", "Industrial Optimization"]
+    },
+    {
+        "id": 4757,
+        "title": "Digital Twin for Smart Campus Security",
+        "domain": "61",
+        "description": "Monitor campus security infrastructure and simulate emergency responses using digital twins.",
+        "keywords": ["Digital Twins", "Campus Security", "Simulation"]
+    },
+    {
+        "id": 4758,
+        "title": "Digital Twin for Retail Checkout Optimization",
+        "domain": "61",
+        "description": "Simulate checkout counters and customer flow to optimize queue management in stores.",
+        "keywords": ["Digital Twins", "Retail", "Customer Flow"]
+    },
+    {
+        "id": 4759,
+        "title": "Digital Twin for Smart Warehouse Robotics",
+        "domain": "61",
+        "description": "Simulate robot movement and task allocation to optimize warehouse automation.",
+        "keywords": ["Digital Twins", "Warehouse Robotics", "Automation"]
+    },
+    {
+        "id": 4760,
+        "title": "Digital Twin for City Energy Consumption Modeling",
+        "domain": "61",
+        "description": "Model energy consumption across buildings and infrastructure for efficient urban planning.",
+        "keywords": ["Digital Twins", "Energy Modeling", "Smart City"]
+    },
+    {
+        "id": 4761,
+        "title": "Digital Twin for Industrial Air Quality Monitoring",
+        "domain": "61",
+        "description": "Simulate industrial air emissions and monitor air quality to optimize pollution control.",
+        "keywords": ["Digital Twins", "Air Quality", "Industrial Monitoring"]
+    },
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
