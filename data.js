@@ -40159,7 +40159,355 @@ const PROBLEMS_DATA = {
   "domain": "80",
   "description": "Design an AI tool that builds and refines taxonomies dynamically for better organization of digital collections.",
   "keywords": ["Information Organization", "Cataloging Systems", "Knowledge Management"]
-}
+},
+//domain -81
+{
+    "id": 5821,
+    "title": "3D Scanning System for Ancient Artifacts",
+    "domain": "81",
+    "description": "Develop a platform that utilizes 3D scanning to capture highly detailed models of ancient artifacts for study, restoration, and sharing in digital archives.",
+    "keywords": ["3D Scanning", "Artifact Analysis", "Digital Archaeology"]
+},
+{
+    "id": 5822,
+    "title": "Virtual Museum Experience",
+    "domain": "81",
+    "description": "Create a virtual museum application where users can explore archaeological findings and cultural heritage sites through immersive 3D environments.",
+    "keywords": ["Virtual Museums", "Digital Preservation", "Cultural Heritage"]
+},
+{
+    "id": 5823,
+    "title": "Cultural Heritage Preservation Hub",
+    "domain": "81",
+    "description": "Design a centralized hub that stores digital representations of cultural heritage artifacts, enabling secure and long-term preservation.",
+    "keywords": ["Heritage Preservation", "Digital Preservation", "Heritage Technology"]
+},
+{
+    "id": 5824,
+    "title": "Historical Reconstruction Engine",
+    "domain": "81",
+    "description": "Develop a digital reconstruction engine capable of recreating historical structures and sites using archaeological data and advanced 3D modeling.",
+    "keywords": ["Historical Reconstruction", "Archaeological Data", "Digital Archaeology"]
+},
+{
+    "id": 5825,
+    "title": "AI-based Artifact Analysis Tool",
+    "domain": "81",
+    "description": "Implement an AI tool to analyze artifacts digitally scanned, identifying material types, age, and potential historical significance.",
+    "keywords": ["Artifact Analysis", "Archaeological Imaging", "Digital Archaeology"]
+},
+{
+    "id": 5826,
+    "title": "Archaeological GIS Mapping Platform",
+    "domain": "81",
+    "description": "Create a GIS-based mapping tool for archaeologists to visualize excavation sites, integrate scanned data, and track discoveries spatially.",
+    "keywords": ["Archaeological GIS", "Archaeological Data", "Heritage Technology"]
+},
+{
+    "id": 5827,
+    "title": "Digital Twin of Heritage Sites",
+    "domain": "81",
+    "description": "Build a system for developing digital twins of important heritage sites, allowing virtual exploration and long-term conservation planning.",
+    "keywords": ["Digital Preservation", "Cultural Heritage", "Historical Reconstruction"]
+},
+{
+    "id": 5828,
+    "title": "Archaeological Imaging Enhancer",
+    "domain": "81",
+    "description": "Design a tool to enhance archaeological images and scans, making details clearer for researchers and enabling better preservation strategies.",
+    "keywords": ["Archaeological Imaging", "3D Scanning", "Digital Archaeology"]
+},
+{
+    "id": 5829,
+    "title": "Crowdsourced Digital Archaeology Portal",
+    "domain": "81",
+    "description": "Develop a crowdsourcing portal where people can contribute to the digitization and annotation of archaeological data and cultural heritage records.",
+    "keywords": ["Digital Archaeology", "Archaeological Data", "Heritage Preservation"]
+},
+{
+    "id": 5830,
+    "title": "Smart Heritage Documentation System",
+    "domain": "81",
+    "description": "Create an automated documentation system for archaeological sites that integrates scanning, data management, and digital preservation workflows.",
+    "keywords": ["Heritage Technology", "Digital Preservation", "Archaeological Data"]
+},
+{
+    "id": 5831,
+    "title": "AI-driven Virtual Restoration Tool",
+    "domain": "81",
+    "description": "Develop an AI system that virtually restores damaged artifacts and monuments, providing researchers with visual reconstructions of their original form.",
+    "keywords": ["Historical Reconstruction", "Artifact Analysis", "Archaeological Imaging"]
+},
+{
+    "id": 5832,
+    "title": "Mobile 3D Scanner for Archaeologists",
+    "domain": "81",
+    "description": "Design a mobile application that enables archaeologists to scan artifacts and heritage structures on-site using smartphones and portable devices.",
+    "keywords": ["3D Scanning", "Heritage Technology", "Digital Archaeology"]
+},
+{
+    "id": 5833,
+    "title": "Digital Preservation Blockchain",
+    "domain": "81",
+    "description": "Build a blockchain-based solution to securely store and authenticate digital archaeological records and scanned cultural artifacts.",
+    "keywords": ["Digital Preservation", "Heritage Technology", "Archaeological Data"]
+},
+{
+    "id": 5834,
+    "title": "Interactive Virtual Heritage Tours",
+    "domain": "81",
+    "description": "Develop interactive VR/AR-based heritage tours that allow users to virtually visit archaeological sites and museums with detailed reconstructions.",
+    "keywords": ["Virtual Museums", "Cultural Heritage", "Historical Reconstruction"]
+},
+{
+    "id": 5835,
+    "title": "AI-powered Archaeological Data Miner",
+    "domain": "81",
+    "description": "Create a system that uses AI to mine archaeological datasets and identify hidden patterns or connections between ancient civilizations.",
+    "keywords": ["Archaeological Data", "Digital Archaeology", "Heritage Technology"]
+},
+{
+    "id": 5836,
+    "title": "Smart Imaging for Artifact Decay Detection",
+    "domain": "81",
+    "description": "Build an imaging tool that detects early signs of artifact decay through enhanced archaeological imaging and predictive AI models.",
+    "keywords": ["Archaeological Imaging", "Artifact Analysis", "Heritage Preservation"]
+},
+{
+    "id": 5837,
+    "title": "Heritage Technology Knowledge Graph",
+    "domain": "81",
+    "description": "Develop a knowledge graph that links archaeological data, scanned heritage objects, and historical texts for integrated cultural research.",
+    "keywords": ["Heritage Technology", "Archaeological Data", "Digital Archaeology"]
+},
+{
+    "id": 5838,
+    "title": "Open Access Archaeological Archive",
+    "domain": "81",
+    "description": "Create a digital archive where archaeological scans, imaging results, and reconstructions are openly available for global researchers.",
+    "keywords": ["Digital Preservation", "Archaeological Data", "Cultural Heritage"]
+},
+{
+    "id": 5839,
+    "title": "Machine Learning for Pottery Reconstruction",
+    "domain": "81",
+    "description": "Design a machine learning model to digitally reconstruct broken pottery fragments from excavation sites.",
+    "keywords": ["Artifact Analysis", "Historical Reconstruction", "Archaeological Imaging"]
+},
+{
+    "id": 5840,
+    "title": "3D Printing of Archaeological Replicas",
+    "domain": "81",
+    "description": "Enable the creation of 3D printed replicas of scanned archaeological artifacts for educational and research use.",
+    "keywords": ["3D Scanning", "Digital Archaeology", "Cultural Heritage"]
+},
+{
+    "id": 5841,
+    "title": "Smart Heritage Conservation Dashboard",
+    "domain": "81",
+    "description": "Build a conservation dashboard that integrates scanning, preservation, and monitoring data of heritage sites in one place.",
+    "keywords": ["Heritage Preservation", "Heritage Technology", "Digital Archaeology"]
+},
+{
+    "id": 5842,
+    "title": "Virtual Excavation Simulator",
+    "domain": "81",
+    "description": "Create a simulation tool where archaeology students can virtually perform excavations and learn artifact handling procedures.",
+    "keywords": ["Digital Archaeology", "Virtual Museums", "Archaeological Data"]
+},
+{
+    "id": 5843,
+    "title": "AI-based Symbol Recognition System",
+    "domain": "81",
+    "description": "Develop an AI tool capable of identifying ancient symbols and inscriptions from scanned archaeological data.",
+    "keywords": ["Archaeological Imaging", "Artifact Analysis", "Digital Archaeology"]
+},
+{
+    "id": 5844,
+    "title": "Global Digital Heritage Atlas",
+    "domain": "81",
+    "description": "Build a digital atlas of archaeological and cultural heritage sites worldwide with detailed GIS integration.",
+    "keywords": ["Archaeological GIS", "Cultural Heritage", "Digital Preservation"]
+},
+{
+    "id": 5845,
+    "title": "Smart Augmented Reality Artifact Guide",
+    "domain": "81",
+    "description": "Design an AR application that provides visitors with artifact details by overlaying information on scanned 3D models.",
+    "keywords": ["Virtual Museums", "Artifact Analysis", "Heritage Technology"]
+},
+{
+    "id": 5846,
+    "title": "Automated Heritage Preservation Reports",
+    "domain": "81",
+    "description": "Develop a system that automatically generates reports about the preservation status of cultural heritage artifacts based on digital scans.",
+    "keywords": ["Heritage Preservation", "Archaeological Imaging", "Digital Preservation"]
+},
+{
+    "id": 5847,
+    "title": "Time-lapse Reconstruction Viewer",
+    "domain": "81",
+    "description": "Build a visualization tool to show the timeline of historical reconstructions for archaeological sites over centuries.",
+    "keywords": ["Historical Reconstruction", "Cultural Heritage", "Digital Archaeology"]
+},
+{
+    "id": 5848,
+    "title": "Heritage Cloud Storage System",
+    "domain": "81",
+    "description": "Develop a cloud-based system for the secure storage and retrieval of digital archaeological scans and records.",
+    "keywords": ["Digital Preservation", "Heritage Technology", "Archaeological Data"]
+},
+{
+    "id": 5849,
+    "title": "AI-driven Artifact Classification System",
+    "domain": "81",
+    "description": "Design an AI classifier that categorizes archaeological artifacts based on scanned data and imaging features.",
+    "keywords": ["Artifact Analysis", "Archaeological Imaging", "Digital Archaeology"]
+},
+{
+    "id": 5850,
+    "title": "Smart GIS for Heritage Risk Mapping",
+    "domain": "81",
+    "description": "Build a GIS-based system to identify and monitor risks to heritage sites, including environmental and human threats.",
+    "keywords": ["Archaeological GIS", "Heritage Preservation", "Cultural Heritage"]
+},
+{
+    "id": 5851,
+    "title": "Interactive Archaeological Data Visualizer",
+    "domain": "81",
+    "description": "Develop a visualization platform to explore complex archaeological datasets interactively with 3D and GIS integration.",
+    "keywords": ["Archaeological Data", "Digital Archaeology", "Heritage Technology"]
+},
+{
+    "id": 5852,
+    "title": "AI-enhanced Heritage Image Restoration",
+    "domain": "81",
+    "description": "Design an AI system to digitally restore faded or damaged images of archaeological artifacts and manuscripts.",
+    "keywords": ["Archaeological Imaging", "Historical Reconstruction", "Digital Preservation"]
+},
+{
+    "id": 5853,
+    "title": "Smart Drone for Site Scanning",
+    "domain": "81",
+    "description": "Develop a drone-based solution to perform aerial 3D scans of archaeological excavation sites and cultural heritage landscapes.",
+    "keywords": ["3D Scanning", "Archaeological GIS", "Cultural Heritage"]
+},
+{
+    "id": 5854,
+    "title": "Heritage Technology Toolkit for Students",
+    "domain": "81",
+    "description": "Build an educational toolkit that teaches students digital archaeology techniques like scanning, GIS, and virtual reconstructions.",
+    "keywords": ["Digital Archaeology", "Heritage Technology", "Virtual Museums"]
+},
+{
+    "id": 5855,
+    "title": "Real-time Artifact Monitoring System",
+    "domain": "81",
+    "description": "Create a system that continuously monitors the condition of artifacts through IoT sensors and integrates with digital preservation workflows.",
+    "keywords": ["Heritage Preservation", "Archaeological Data", "Heritage Technology"]
+},
+{
+    "id": 5856,
+    "title": "Cultural Heritage VR Collaboration Platform",
+    "domain": "81",
+    "description": "Develop a VR collaboration platform for researchers and historians to explore and annotate digital heritage sites together.",
+    "keywords": ["Virtual Museums", "Cultural Heritage", "Digital Archaeology"]
+},
+{
+    "id": 5857,
+    "title": "Heritage Gamification Platform",
+    "domain": "81",
+    "description": "Create a gamified learning platform where users earn rewards by exploring virtual museums and solving archaeology-based challenges.",
+    "keywords": ["Virtual Museums", "Digital Archaeology", "Cultural Heritage"]
+},
+{
+    "id": 5858,
+    "title": "Digital Archaeological Field Assistant",
+    "domain": "81",
+    "description": "Build a mobile assistant app that helps archaeologists document, scan, and analyze artifacts in the field with AI support.",
+    "keywords": ["Digital Archaeology", "Artifact Analysis", "Heritage Technology"]
+},
+{
+    "id": 5859,
+    "title": "Heritage Multilingual Metadata Generator",
+    "domain": "81",
+    "description": "Develop a tool to generate multilingual metadata for scanned cultural heritage objects to support global access.",
+    "keywords": ["Digital Preservation", "Cultural Heritage", "Heritage Technology"]
+},
+{
+    "id": 5860,
+    "title": "Smart Lighting for Artifact Imaging",
+    "domain": "81",
+    "description": "Design an imaging system with adaptive lighting to capture high-quality scans and photographs of fragile archaeological artifacts.",
+    "keywords": ["Archaeological Imaging", "3D Scanning", "Artifact Analysis"]
+},
+{
+    "id": 5861,
+    "title": "Heritage Accessibility Platform",
+    "domain": "81",
+    "description": "Build an accessibility platform that enables visually impaired individuals to experience heritage sites through tactile 3D prints and audio guides.",
+    "keywords": ["Cultural Heritage", "Digital Preservation", "Virtual Museums"]
+},
+{
+    "id": 5862,
+    "title": "AI-driven Excavation Planning System",
+    "domain": "81",
+    "description": "Develop an AI-powered system that uses archaeological GIS and past excavation data to optimize future dig site planning.",
+    "keywords": ["Archaeological GIS", "Archaeological Data", "Digital Archaeology"]
+},
+{
+    "id": 5863,
+    "title": "Heritage Object Lifecycle Tracker",
+    "domain": "81",
+    "description": "Create a system that tracks the lifecycle of digital heritage objects from scanning, analysis, storage, to public access.",
+    "keywords": ["Heritage Preservation", "Digital Archaeology", "Heritage Technology"]
+},
+{
+    "id": 5864,
+    "title": "Digital Heritage Knowledge Exchange Platform",
+    "domain": "81",
+    "description": "Design a knowledge-sharing platform where archaeologists and historians exchange digital reconstructions and preservation techniques.",
+    "keywords": ["Digital Preservation", "Historical Reconstruction", "Cultural Heritage"]
+},
+{
+    "id": 5865,
+    "title": "Smart Search Engine for Archaeological Archives",
+    "domain": "81",
+    "description": "Build a semantic search engine that helps researchers quickly find scanned heritage objects and archaeological imaging records.",
+    "keywords": ["Archaeological Data", "Digital Archaeology", "Heritage Technology"]
+},
+{
+    "id": 5866,
+    "title": "AI for Ancient Manuscript Analysis",
+    "domain": "81",
+    "description": "Develop an AI tool to digitally analyze, enhance, and translate ancient manuscripts and scripts preserved in heritage archives.",
+    "keywords": ["Archaeological Imaging", "Cultural Heritage", "Digital Archaeology"]
+},
+{
+    "id": 5867,
+    "title": "Heritage Immersive Education App",
+    "domain": "81",
+    "description": "Create an educational app that uses AR and VR to teach history and archaeology through interactive cultural heritage experiences.",
+    "keywords": ["Virtual Museums", "Heritage Technology", "Cultural Heritage"]
+},
+{
+    "id": 5868,
+    "title": "Digital Heritage Damage Prediction System",
+    "domain": "81",
+    "description": "Build a predictive system that uses AI and imaging data to forecast potential risks and damages to archaeological sites.",
+    "keywords": ["Heritage Preservation", "Archaeological Imaging", "Archaeological GIS"]
+},
+{
+    "id": 5869,
+    "title": "Collaborative Artifact Annotation Tool",
+    "domain": "81",
+    "description": "Develop a collaborative platform where experts can annotate scanned artifacts with historical, cultural, and preservation insights.",
+    "keywords": ["Artifact Analysis", "Digital Preservation", "Digital Archaeology"]
+},
+//domain -82
+
+
+
 
 
 
