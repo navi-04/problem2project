@@ -35408,7 +35408,351 @@ const PROBLEMS_DATA = {
   "description": "Develop an AI-based mediation platform that analyzes case details and suggests fair settlement options for disputing parties.",
   "keywords": ["Legal AI", "Legal Practice Management", "Contract Analysis"]
 }
-
+//domain -69
+{
+    "id": 5144,
+    "title": "AI-Powered Insurance Analytics Dashboard",
+    "domain": "69",
+    "description": "Develop a dashboard that leverages AI to analyze historical and real-time insurance data, providing insights into customer behavior, premium pricing strategies, and portfolio risk optimization.",
+    "keywords": ["Insurance Analytics", "Insurance Data", "Risk Assessment"]
+},
+{
+    "id": 5145,
+    "title": "Automated Claims Processing System",
+    "domain": "69",
+    "description": "Build a system that uses natural language processing and image recognition to automate claims submission, verification, and settlement, reducing manual intervention and speeding up claim resolution.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Insurance Apps"]
+},
+{
+    "id": 5146,
+    "title": "Risk Assessment Engine for SMEs",
+    "domain": "69",
+    "description": "Create a machine learning model that provides real-time risk assessment for small and medium enterprises, helping insurers design tailored policies based on industry-specific risk factors.",
+    "keywords": ["Risk Assessment", "Insurance Analytics", "Policy Management"]
+},
+{
+    "id": 5147,
+    "title": "Underwriting Automation Platform",
+    "domain": "69",
+    "description": "Design a platform that automates underwriting using actuarial technology, historical data, and predictive analytics to evaluate applicants and calculate premiums faster.",
+    "keywords": ["Underwriting Technology", "Actuarial Technology", "Insurance Data"]
+},
+{
+    "id": 5148,
+    "title": "Fraud Detection in Insurance Claims",
+    "domain": "69",
+    "description": "Develop a fraud detection solution using anomaly detection and AI to identify suspicious claim patterns, false documents, and exaggerated losses during the claims process.",
+    "keywords": ["Fraud Detection", "Claims Processing", "Insurance Analytics"]
+},
+{
+    "id": 5149,
+    "title": "Customer Onboarding Assistant for Insurers",
+    "domain": "69",
+    "description": "Build a digital onboarding solution that streamlines KYC, document verification, and initial policy recommendations using AI chatbots and automated workflows.",
+    "keywords": ["Customer Onboarding", "Insurance Apps", "Policy Management"]
+},
+{
+    "id": 5150,
+    "title": "Parametric Insurance Platform",
+    "domain": "69",
+    "description": "Develop a parametric insurance system where payouts are automatically triggered by predefined external events like natural disasters, using IoT and satellite data.",
+    "keywords": ["Parametric Insurance", "Risk Assessment", "Insurance Data"]
+},
+{
+    "id": 5151,
+    "title": "Microinsurance App for Rural Areas",
+    "domain": "69",
+    "description": "Create a mobile-first microinsurance platform designed for rural communities, enabling affordable coverage, simplified onboarding, and instant claims via mobile wallets.",
+    "keywords": ["Microinsurance", "Insurance Apps", "Customer Onboarding"]
+},
+{
+    "id": 5152,
+    "title": "Predictive Actuarial Technology Tool",
+    "domain": "69",
+    "description": "Build a predictive tool that uses machine learning to help actuaries forecast risk exposure, policy lapse rates, and customer lifetime value with high accuracy.",
+    "keywords": ["Actuarial Technology", "Insurance Analytics", "Risk Assessment"]
+},
+{
+    "id": 5153,
+    "title": "Unified Policy Management System",
+    "domain": "69",
+    "description": "Develop a cloud-based policy management system that allows insurers and customers to track, renew, and update policies across multiple products in one place.",
+    "keywords": ["Policy Management", "Insurance Apps", "Insurance Data"]
+},
+{
+    "id": 5154,
+    "title": "AI-Based Premium Pricing Optimizer",
+    "domain": "69",
+    "description": "Create an AI model that dynamically adjusts insurance premiums based on real-time risk data, customer profiles, and market trends to ensure competitive pricing.",
+    "keywords": ["Insurance Analytics", "Underwriting Technology", "Risk Assessment"]
+},
+{
+    "id": 5155,
+    "title": "Insurance Chatbot for Claims and Queries",
+    "domain": "69",
+    "description": "Develop an intelligent chatbot that assists customers with claim submissions, policy inquiries, and onboarding, reducing support center workload.",
+    "keywords": ["Claims Processing", "Customer Onboarding", "Insurance Apps"]
+},
+{
+    "id": 5156,
+    "title": "IoT-Based Health Insurance Tracker",
+    "domain": "69",
+    "description": "Build an IoT-integrated system that tracks policyholders’ health metrics from wearables, rewarding healthy behaviors with reduced premiums or bonuses.",
+    "keywords": ["Insurance Analytics", "Risk Assessment", "Policy Management"]
+},
+{
+    "id": 5157,
+    "title": "Blockchain for Transparent Claims",
+    "domain": "69",
+    "description": "Develop a blockchain-based claims system to ensure transparency, immutability, and trust in claims settlements, minimizing disputes and fraud.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Insurance Data"]
+},
+{
+    "id": 5158,
+    "title": "AI-Enhanced Vehicle Insurance Risk Model",
+    "domain": "69",
+    "description": "Create a predictive model for vehicle insurance that considers telematics data, driving patterns, and accident history to assess risk and calculate premiums.",
+    "keywords": ["Risk Assessment", "Underwriting Technology", "Insurance Analytics"]
+},
+{
+    "id": 5159,
+    "title": "Insurance Document Digitization Tool",
+    "domain": "69",
+    "description": "Build a system that digitizes and organizes insurance documents using OCR and AI classification, improving accessibility and compliance tracking.",
+    "keywords": ["Insurance Data", "Policy Management", "Customer Onboarding"]
+},
+{
+    "id": 5160,
+    "title": "Claims Processing using Computer Vision",
+    "domain": "69",
+    "description": "Develop a vision-based system that evaluates images of accidents, damaged property, or medical bills to automate claims assessment.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Insurance Analytics"]
+},
+{
+    "id": 5161,
+    "title": "AI-Driven Customer Risk Profiling",
+    "domain": "69",
+    "description": "Build a system that creates dynamic customer risk profiles using lifestyle data, social media behavior, and transaction history for personalized policy recommendations.",
+    "keywords": ["Risk Assessment", "Insurance Data", "Actuarial Technology"]
+},
+{
+    "id": 5162,
+    "title": "Mobile Microinsurance Payment Gateway",
+    "domain": "69",
+    "description": "Design a mobile-first payment system for microinsurance policies, enabling seamless premium collection and instant claim payouts via digital wallets.",
+    "keywords": ["Microinsurance", "Insurance Apps", "Customer Onboarding"]
+},
+{
+    "id": 5163,
+    "title": "Insurance Portfolio Analytics Tool",
+    "domain": "69",
+    "description": "Create a portfolio analysis system that tracks insurer performance across product lines, detecting underperforming policies and profitability risks.",
+    "keywords": ["Insurance Analytics", "Insurance Data", "Policy Management"]
+},
+{
+    "id": 5164,
+    "title": "Smart Underwriting Assistant",
+    "domain": "69",
+    "description": "Build an AI-powered assistant that supports underwriters by analyzing customer data, flagging risk anomalies, and suggesting premium adjustments.",
+    "keywords": ["Underwriting Technology", "Insurance Data", "Risk Assessment"]
+},
+{
+    "id": 5165,
+    "title": "Fraud Detection using Social Graphs",
+    "domain": "69",
+    "description": "Develop a fraud detection system that analyzes social graphs and connections to identify organized fraud rings and fraudulent claim networks.",
+    "keywords": ["Fraud Detection", "Claims Processing", "Insurance Analytics"]
+},
+{
+    "id": 5166,
+    "title": "Voice-Enabled Insurance Onboarding",
+    "domain": "69",
+    "description": "Create a voice-based onboarding solution where customers can interact in regional languages to complete KYC and purchase microinsurance policies.",
+    "keywords": ["Customer Onboarding", "Microinsurance", "Insurance Apps"]
+},
+{
+    "id": 5167,
+    "title": "Real-Time Risk Assessment API",
+    "domain": "69",
+    "description": "Build an API service that insurers can integrate into apps to fetch instant risk scores for customers applying for various insurance products.",
+    "keywords": ["Risk Assessment", "Insurance Data", "Insurance Analytics"]
+},
+{
+    "id": 5168,
+    "title": "AI-Powered Claims Settlement Predictor",
+    "domain": "69",
+    "description": "Develop a predictive analytics solution that estimates the likelihood of claim approval and settlement timeline, improving transparency for customers.",
+    "keywords": ["Claims Processing", "Insurance Analytics", "Fraud Detection"]
+},
+{
+    "id": 5169,
+    "title": "Gamified Health Insurance App",
+    "domain": "69",
+    "description": "Design a mobile insurance app that uses gamification to encourage healthy habits, rewarding users with discounts or policy upgrades.",
+    "keywords": ["Insurance Apps", "Customer Onboarding", "Policy Management"]
+},
+{
+    "id": 5170,
+    "title": "Climate Risk Assessment Tool",
+    "domain": "69",
+    "description": "Build a tool that analyzes climate change data to assess natural disaster risks for insurers, helping them design climate-resilient insurance products.",
+    "keywords": ["Risk Assessment", "Insurance Analytics", "Parametric Insurance"]
+},
+{
+    "id": 5171,
+    "title": "Cross-Border Microinsurance Exchange",
+    "domain": "69",
+    "description": "Develop a blockchain-enabled platform that facilitates microinsurance coverage across borders, enabling migrant workers to access affordable protection.",
+    "keywords": ["Microinsurance", "Policy Management", "Insurance Apps"]
+},
+{
+    "id": 5172,
+    "title": "AI-Powered Actuarial Simulator",
+    "domain": "69",
+    "description": "Create a simulation tool for actuaries to test various insurance scenarios, customer demographics, and policy pricing strategies using machine learning.",
+    "keywords": ["Actuarial Technology", "Insurance Analytics", "Risk Assessment"]
+},
+{
+    "id": 5173,
+    "title": "Insurance Data Marketplace",
+    "domain": "69",
+    "description": "Develop a secure marketplace where insurers can share and purchase anonymized insurance data to enhance fraud detection, underwriting, and risk analysis.",
+    "keywords": ["Insurance Data", "Insurance Analytics", "Fraud Detection"]
+},
+{
+    "id": 5174,
+    "title": "AI-Driven Policy Recommendation Engine",
+    "domain": "69",
+    "description": "Build a recommendation engine that suggests personalized insurance policies to customers based on lifestyle, financial status, and historical behavior.",
+    "keywords": ["Policy Management", "Customer Onboarding", "Insurance Analytics"]
+},
+{
+    "id": 5175,
+    "title": "Insurance Claims Transparency Portal",
+    "domain": "69",
+    "description": "Design a web portal that allows customers to track their claims in real-time, view processing stages, and communicate with claim officers securely.",
+    "keywords": ["Claims Processing", "Customer Onboarding", "Insurance Apps"]
+},
+{
+    "id": 5176,
+    "title": "AI-Based Agricultural Microinsurance",
+    "domain": "69",
+    "description": "Create a microinsurance solution for farmers that uses satellite and weather data to automatically trigger payouts in case of crop failure or drought.",
+    "keywords": ["Microinsurance", "Parametric Insurance", "Risk Assessment"]
+},
+{
+    "id": 5177,
+    "title": "Smart Claims Fraud Detection API",
+    "domain": "69",
+    "description": "Build an API that insurers can plug into their claims systems to detect fraud in real-time using AI-driven anomaly detection models.",
+    "keywords": ["Fraud Detection", "Claims Processing", "Insurance Data"]
+},
+{
+    "id": 5178,
+    "title": "Mobile-First Policy Renewal Platform",
+    "domain": "69",
+    "description": "Develop a mobile-first solution that allows customers to renew their insurance policies with one click, receive premium reminders, and access digital policy documents.",
+    "keywords": ["Policy Management", "Insurance Apps", "Customer Onboarding"]
+},
+{
+    "id": 5179,
+    "title": "Risk Pooling & Analytics Platform",
+    "domain": "69",
+    "description": "Create a risk pooling platform where insurers can collaborate to share risk exposure data and jointly cover high-risk cases using analytics.",
+    "keywords": ["Insurance Analytics", "Risk Assessment", "Insurance Data"]
+},
+{
+    "id": 5180,
+    "title": "Claims Verification using Blockchain",
+    "domain": "69",
+    "description": "Develop a blockchain-based claims verification system that ensures authenticity of claim documents and prevents duplication across insurers.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Insurance Data"]
+},
+{
+    "id": 5181,
+    "title": "Insurance Super App",
+    "domain": "69",
+    "description": "Design a super app that integrates all insurance services including onboarding, policy management, claims, and analytics in a single mobile platform.",
+    "keywords": ["Insurance Apps", "Policy Management", "Customer Onboarding"]
+},
+{
+    "id": 5182,
+    "title": "Smart Risk Assessment Chatbot",
+    "domain": "69",
+    "description": "Develop a chatbot that interacts with customers to assess lifestyle risks, financial data, and health habits before recommending insurance policies.",
+    "keywords": ["Risk Assessment", "Customer Onboarding", "Insurance Analytics"]
+},
+{
+    "id": 5183,
+    "title": "AI-Powered Life Insurance Forecasting",
+    "domain": "69",
+    "description": "Build a forecasting system that predicts customer life expectancy and premium affordability using AI models to assist in life insurance policy creation.",
+    "keywords": ["Actuarial Technology", "Risk Assessment", "Insurance Analytics"]
+},
+{
+    "id": 5184,
+    "title": "Insurance Data Compliance Manager",
+    "domain": "69",
+    "description": "Create a compliance management tool that ensures insurers meet local and international data regulations while handling sensitive policyholder data.",
+    "keywords": ["Insurance Data", "Policy Management", "Insurance Analytics"]
+},
+{
+    "id": 5185,
+    "title": "Automated Reinsurance Analytics",
+    "domain": "69",
+    "description": "Develop a solution that helps insurers analyze risk transfer strategies, calculate reinsurance requirements, and optimize capital allocation.",
+    "keywords": ["Insurance Analytics", "Risk Assessment", "Actuarial Technology"]
+},
+{
+    "id": 5186,
+    "title": "AI-Driven Health Risk Profiler",
+    "domain": "69",
+    "description": "Build a health risk profiling tool that uses medical records, wearable data, and genetic information to customize health insurance policies.",
+    "keywords": ["Risk Assessment", "Insurance Data", "Insurance Analytics"]
+},
+{
+    "id": 5187,
+    "title": "Claims Processing Bot for Healthcare",
+    "domain": "69",
+    "description": "Design an RPA bot that automates repetitive healthcare insurance claims processes like medical bill verification, coding, and settlement.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Policy Management"]
+},
+{
+    "id": 5188,
+    "title": "AI-Powered Insurance Lead Scoring",
+    "domain": "69",
+    "description": "Create a machine learning model that scores insurance leads based on demographics, online behavior, and financial history to improve conversion rates.",
+    "keywords": ["Insurance Analytics", "Customer Onboarding", "Underwriting Technology"]
+},
+{
+    "id": 5189,
+    "title": "Behavioral Risk Assessment Tool",
+    "domain": "69",
+    "description": "Build a behavioral risk assessment system that uses psychological, lifestyle, and financial behavior data to improve underwriting accuracy.",
+    "keywords": ["Risk Assessment", "Actuarial Technology", "Insurance Data"]
+},
+{
+    "id": 5190,
+    "title": "AI-Based Claim Settlement Chatbot",
+    "domain": "69",
+    "description": "Develop a chatbot that guides customers through claim submission, verifies documents, and provides real-time settlement updates.",
+    "keywords": ["Claims Processing", "Fraud Detection", "Customer Onboarding"]
+},
+{
+    "id": 5191,
+    "title": "Smart Microinsurance Bundles",
+    "domain": "69",
+    "description": "Design an app that provides bundled microinsurance policies for health, accident, and property coverage tailored to low-income groups.",
+    "keywords": ["Microinsurance", "Insurance Apps", "Policy Management"]
+},
+{
+    "id": 5192,
+    "title": "Insurance Market Sentiment Analyzer",
+    "domain": "69",
+    "description": "Build a sentiment analysis system that monitors news, customer reviews, and social media trends to assess insurance market risks and opportunities.",
+    "keywords": ["Insurance Analytics", "Risk Assessment", "Insurance Data"]
+},
+//domain-70
 
 
 
