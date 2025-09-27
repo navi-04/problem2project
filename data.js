@@ -29126,7 +29126,7 @@ const PROBLEMS_DATA = {
         "description": "Develop a system that audits network and application configurations to ensure compliance with security policies and standards automatically.",
         "keywords": ["Security Protocols", "Information Security", "Security Analytics"]
     },
-    //domain-52
+    //domain 52
 
 
 
