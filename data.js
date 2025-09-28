@@ -47671,6 +47671,539 @@ const PROBLEMS_DATA = {
         "keywords": ["Energy Storage", "Ceramics", "Smart Systems", "Sustainability"]
     },
     // domain 98
+    {
+        "id": 6901,
+        "title": "High-Efficiency Photovoltaic Cells",
+        "domain": "98",
+        "description": "Develop advanced photonic materials to enhance the efficiency of solar energy conversion.",
+        "keywords": ["Photovoltaic Cells", "Photonics", "Solar Energy", "Renewable Energy"]
+    },
+    {
+        "id": 6902,
+        "title": "Optical Sensors for Environmental Monitoring",
+        "domain": "98",
+        "description": "Create photonics-based sensors to detect pollutants, gases, and environmental changes accurately.",
+        "keywords": ["Optical Sensors", "Photonics", "Environmental Monitoring", "Sustainability"]
+    },
+    {
+        "id": 6903,
+        "title": "Laser-Based Communication Systems",
+        "domain": "98",
+        "description": "Design high-speed, secure communication systems using laser and optical technologies.",
+        "keywords": ["Laser Communication", "Photonics", "High-Speed Data", "Secure Communication"]
+    },
+    {
+        "id": 6904,
+        "title": "Optical Fiber Networks for High-Speed Internet",
+        "domain": "98",
+        "description": "Develop efficient optical fiber systems for faster and more reliable internet connectivity.",
+        "keywords": ["Optical Fiber", "Photonics", "High-Speed Internet", "Telecommunication"]
+    },
+    {
+        "id": 6905,
+        "title": "Photonic Crystal-Based Sensors",
+        "domain": "98",
+        "description": "Use photonic crystals to enhance sensitivity and selectivity in optical sensing applications.",
+        "keywords": ["Photonic Crystals", "Sensors", "Photonics", "Advanced Materials"]
+    },
+    {
+        "id": 6906,
+        "title": "Quantum Dot-Based Photonics",
+        "domain": "98",
+        "description": "Integrate quantum dots into photonic devices for improved light emission and detection.",
+        "keywords": ["Quantum Dots", "Photonics", "Optical Devices", "Nanotechnology"]
+    },
+    {
+        "id": 6907,
+        "title": "Optical Tweezers for Micro-Manipulation",
+        "domain": "98",
+        "description": "Develop photonics-based optical tweezers to manipulate microscopic particles in research and medical applications.",
+        "keywords": ["Optical Tweezers", "Photonics", "Micro-Manipulation", "Biomedical"]
+    },
+    {
+        "id": 6908,
+        "title": "Laser-Based 3D Imaging Systems",
+        "domain": "98",
+        "description": "Create 3D imaging systems using laser and photonic technologies for accurate spatial measurements.",
+        "keywords": ["Laser Imaging", "3D Imaging", "Photonics", "Optical Systems"]
+    },
+    {
+        "id": 6909,
+        "title": "Optical Coherence Tomography Devices",
+        "domain": "98",
+        "description": "Develop OCT devices using photonics for high-resolution imaging in medical diagnostics.",
+        "keywords": ["OCT", "Photonics", "Medical Imaging", "Optical Systems"]
+    },
+    {
+        "id": 6910,
+        "title": "Photonic-Based Biosensors",
+        "domain": "98",
+        "description": "Create photonics-enabled biosensors for rapid and accurate detection of biomolecules.",
+        "keywords": ["Biosensors", "Photonics", "Healthcare", "Diagnostics"]
+    },
+    {
+        "id": 6911,
+        "title": "Adaptive Optics for Astronomy",
+        "domain": "98",
+        "description": "Implement adaptive optics to correct atmospheric distortions for clearer astronomical observations.",
+        "keywords": ["Adaptive Optics", "Photonics", "Astronomy", "Optical Systems"]
+    },
+    {
+        "id": 6912,
+        "title": "Optical Signal Processing for Computing",
+        "domain": "98",
+        "description": "Design photonic circuits for high-speed and energy-efficient optical computing applications.",
+        "keywords": ["Optical Computing", "Photonics", "Signal Processing", "High-Speed Computing"]
+    },
+    {
+        "id": 6913,
+        "title": "Laser-Based Additive Manufacturing",
+        "domain": "98",
+        "description": "Use laser and photonics technologies for precise 3D printing of complex components.",
+        "keywords": ["Laser 3D Printing", "Photonics", "Additive Manufacturing", "Precision Engineering"]
+    },
+    {
+        "id": 6914,
+        "title": "Photonic Crystal Fiber Development",
+        "domain": "98",
+        "description": "Develop photonic crystal fibers for advanced optical communication and sensing applications.",
+        "keywords": ["Photonic Crystal Fiber", "Photonics", "Optical Communication", "Sensors"]
+    },
+    {
+        "id": 6915,
+        "title": "Plasmonic Photonics for Sensing",
+        "domain": "98",
+        "description": "Use plasmonic effects to enhance photonic sensor performance at nanoscale levels.",
+        "keywords": ["Plasmonics", "Photonics", "Sensors", "Nanotechnology"]
+    },
+    {
+        "id": 6916,
+        "title": "High-Speed Optical Modulators",
+        "domain": "98",
+        "description": "Develop photonic modulators capable of high-speed data transmission for optical communication systems.",
+        "keywords": ["Optical Modulators", "Photonics", "High-Speed Communication", "Optical Systems"]
+    },
+    {
+        "id": 6917,
+        "title": "Nonlinear Optical Materials",
+        "domain": "98",
+        "description": "Create nonlinear photonic materials for frequency conversion, switching, and advanced optical devices.",
+        "keywords": ["Nonlinear Optics", "Photonics", "Advanced Materials", "Optical Devices"]
+    },
+    {
+        "id": 6918,
+        "title": "Photonic-Based LIDAR Systems",
+        "domain": "98",
+        "description": "Design photonics-enabled LIDAR systems for autonomous vehicles and mapping applications.",
+        "keywords": ["LIDAR", "Photonics", "Autonomous Vehicles", "Mapping"]
+    },
+    {
+        "id": 6919,
+        "title": "Optical Metamaterials",
+        "domain": "98",
+        "description": "Develop metamaterials with unique photonic properties for cloaking, sensing, and light manipulation.",
+        "keywords": ["Metamaterials", "Photonics", "Light Manipulation", "Advanced Materials"]
+    },
+    {
+        "id": 6920,
+        "title": "Photonic-Based Optical Computing Chips",
+        "domain": "98",
+        "description": "Design optical computing chips using photonics for faster and low-power computation.",
+        "keywords": ["Optical Computing", "Photonics", "Chips", "High-Speed Computing"]
+    },
+    {
+        "id": 6921,
+        "title": "Ultrafast Laser Systems",
+        "domain": "98",
+        "description": "Develop ultrafast lasers for precise material processing, spectroscopy, and biomedical applications.",
+        "keywords": ["Ultrafast Lasers", "Photonics", "Material Processing", "Biomedical"]
+    },
+    {
+        "id": 6922,
+        "title": "Photonic Neural Networks",
+        "domain": "98",
+        "description": "Implement photonics-based neural networks for AI applications with enhanced speed and efficiency.",
+        "keywords": ["Photonic Neural Networks", "Photonics", "AI", "Optical Computing"]
+    },
+    {
+        "id": 6923,
+        "title": "Integrated Photonic Circuits",
+        "domain": "98",
+        "description": "Develop compact, high-performance integrated photonic circuits for optical communication and sensing.",
+        "keywords": ["Integrated Photonics", "Circuits", "Photonics", "Optical Systems"]
+    },
+    {
+        "id": 6924,
+        "title": "Optical Frequency Combs",
+        "domain": "98",
+        "description": "Design frequency combs using photonics for precise spectroscopy, timing, and metrology applications.",
+        "keywords": ["Frequency Combs", "Photonics", "Spectroscopy", "Metrology"]
+    },
+    {
+        "id": 6925,
+        "title": "Photonic Crystal Lasers",
+        "domain": "98",
+        "description": "Develop lasers with photonic crystal structures to improve beam quality and efficiency.",
+        "keywords": ["Photonic Crystal Lasers", "Photonics", "Laser Technology", "Optical Devices"]
+    },
+    {
+        "id": 6926,
+        "title": "Optical Biosensing for Pathogen Detection",
+        "domain": "98",
+        "description": "Create photonics-based biosensors for rapid detection of pathogens and infectious diseases.",
+        "keywords": ["Optical Biosensing", "Photonics", "Healthcare", "Pathogen Detection"]
+    },
+    {
+        "id": 6927,
+        "title": "Plasmonic-Enhanced Solar Cells",
+        "domain": "98",
+        "description": "Use plasmonic photonics to increase light absorption and efficiency of solar cells.",
+        "keywords": ["Plasmonics", "Photonics", "Solar Cells", "Renewable Energy"]
+    },
+    {
+        "id": 6928,
+        "title": "Optical Waveguide Devices",
+        "domain": "98",
+        "description": "Develop waveguides for photonic circuits to efficiently guide and manipulate light signals.",
+        "keywords": ["Waveguides", "Photonics", "Optical Devices", "Integrated Photonics"]
+    },
+    {
+        "id": 6929,
+        "title": "Photonic-Based Holographic Displays",
+        "domain": "98",
+        "description": "Create high-resolution holographic displays using photonic technologies for visual applications.",
+        "keywords": ["Holographic Displays", "Photonics", "Visualization", "Advanced Displays"]
+    },
+    {
+        "id": 6930,
+        "title": "Fiber Laser Systems for Industrial Applications",
+        "domain": "98",
+        "description": "Design fiber laser systems using photonics for precise and efficient industrial processing.",
+        "keywords": ["Fiber Lasers", "Photonics", "Industrial Applications", "Material Processing"]
+    },
+    {
+        "id": 6931,
+        "title": "Photonic-Based Optical Encryption Systems",
+        "domain": "98",
+        "description": "Develop optical encryption methods using photonics for secure data transmission.",
+        "keywords": ["Optical Encryption", "Photonics", "Security", "Data Transmission"]
+    },
+    {
+        "id": 6932,
+        "title": "High-Resolution Spectroscopic Systems",
+        "domain": "98",
+        "description": "Create photonics-based systems for high-resolution spectral analysis in scientific research.",
+        "keywords": ["Spectroscopy", "Photonics", "Optical Analysis", "Research"]
+    },
+    {
+        "id": 6933,
+        "title": "Optical Phase Modulation Devices",
+        "domain": "98",
+        "description": "Develop devices that manipulate the phase of light for advanced communication and sensing.",
+        "keywords": ["Phase Modulation", "Photonics", "Optical Devices", "Signal Processing"]
+    },
+    {
+        "id": 6934,
+        "title": "Photonic-Based Quantum Communication Systems",
+        "domain": "98",
+        "description": "Implement photonics for secure quantum communication and cryptography applications.",
+        "keywords": ["Quantum Communication", "Photonics", "Cryptography", "Secure Data"]
+    },
+    {
+        "id": 6935,
+        "title": "Optical Microcavity Devices",
+        "domain": "98",
+        "description": "Design microcavity structures for light manipulation, lasers, and sensors in photonic devices.",
+        "keywords": ["Microcavity", "Photonics", "Lasers", "Sensors"]
+    },
+    {
+        "id": 6936,
+        "title": "Photonic Metasurfaces",
+        "domain": "98",
+        "description": "Create metasurfaces to control light propagation, polarization, and phase for advanced optics.",
+        "keywords": ["Metasurfaces", "Photonics", "Light Manipulation", "Optical Devices"]
+    },
+    {
+        "id": 6937,
+        "title": "Optical Coatings for High-Power Lasers",
+        "domain": "98",
+        "description": "Develop durable and reflective coatings for high-power laser systems using photonics.",
+        "keywords": ["Optical Coatings", "Photonics", "High-Power Lasers", "Material Science"]
+    },
+    {
+        "id": 6938,
+        "title": "Photonic-Based Optical Microscopy Systems",
+        "domain": "98",
+        "description": "Design high-resolution optical microscopy systems using advanced photonic techniques.",
+        "keywords": ["Optical Microscopy", "Photonics", "Imaging", "Research"]
+    },
+    {
+        "id": 6939,
+        "title": "Optical Sensors for Structural Health Monitoring",
+        "domain": "98",
+        "description": "Create photonics-based optical sensors to monitor structural integrity of buildings and bridges.",
+        "keywords": ["Structural Health Monitoring", "Photonics", "Optical Sensors", "Civil Engineering"]
+    },
+    {
+        "id": 6940,
+        "title": "Photonic-Based Optical Memory Systems",
+        "domain": "98",
+        "description": "Develop high-speed optical memory devices using photonics for efficient data storage.",
+        "keywords": ["Optical Memory", "Photonics", "Data Storage", "High-Speed Computing"]
+    },
+    {
+        "id": 6941,
+        "title": "Photonic-Based Optical Switching Networks",
+        "domain": "98",
+        "description": "Develop optical switching networks using photonics for faster and energy-efficient data routing.",
+        "keywords": ["Optical Switching", "Photonics", "Networking", "High-Speed Data"]
+    },
+    {
+        "id": 6942,
+        "title": "Integrated Photonic Biosensors",
+        "domain": "98",
+        "description": "Create compact photonic biosensors for point-of-care diagnostics and medical applications.",
+        "keywords": ["Biosensors", "Photonics", "Medical Diagnostics", "Integrated Devices"]
+    },
+    {
+        "id": 6943,
+        "title": "Photonic-Based Optical Coherence Imaging",
+        "domain": "98",
+        "description": "Design photonics-enabled systems for high-resolution optical coherence imaging in medical and research fields.",
+        "keywords": ["Optical Coherence Imaging", "Photonics", "Medical Imaging", "High-Resolution"]
+    },
+    {
+        "id": 6944,
+        "title": "Photonic Crystal Waveguide Devices",
+        "domain": "98",
+        "description": "Develop photonic crystal waveguides for efficient light guiding and integrated photonic circuits.",
+        "keywords": ["Photonic Crystals", "Waveguides", "Photonics", "Integrated Circuits"]
+    },
+    {
+        "id": 6945,
+        "title": "Optical Sensors for Chemical Detection",
+        "domain": "98",
+        "description": "Create photonics-based optical sensors to detect chemical compounds in industrial and environmental applications.",
+        "keywords": ["Chemical Sensors", "Photonics", "Optical Detection", "Industrial Monitoring"]
+    },
+    {
+        "id": 6946,
+        "title": "Laser-Based Material Characterization",
+        "domain": "98",
+        "description": "Use laser and photonics techniques to characterize material properties with high precision.",
+        "keywords": ["Laser Characterization", "Photonics", "Materials Science", "Precision Measurement"]
+    },
+    {
+        "id": 6947,
+        "title": "Photonic-Based Optical Trapping Systems",
+        "domain": "98",
+        "description": "Design optical trapping systems using photonics for precise manipulation of microscopic particles.",
+        "keywords": ["Optical Trapping", "Photonics", "Micro-Manipulation", "Biomedical Applications"]
+    },
+    {
+        "id": 6948,
+        "title": "Ultrafast Photonic Signal Processing",
+        "domain": "98",
+        "description": "Develop photonics systems for ultrafast optical signal processing in communication networks.",
+        "keywords": ["Signal Processing", "Photonics", "Ultrafast", "Optical Networks"]
+    },
+    {
+        "id": 6949,
+        "title": "Photonic-Based Li-Fi Systems",
+        "domain": "98",
+        "description": "Create Li-Fi systems using photonics for high-speed wireless optical communication.",
+        "keywords": ["Li-Fi", "Photonics", "Wireless Communication", "High-Speed Data"]
+    },
+    {
+        "id": 6950,
+        "title": "Photonic-Based Optical Metrology",
+        "domain": "98",
+        "description": "Design photonic systems for precise optical measurements in engineering and scientific applications.",
+        "keywords": ["Optical Metrology", "Photonics", "Precision Measurement", "Engineering"]
+    },
+    {
+        "id": 6951,
+        "title": "Optical Sensors for Structural Vibration Analysis",
+        "domain": "98",
+        "description": "Develop photonics-enabled optical sensors to detect vibrations in structures for maintenance and safety.",
+        "keywords": ["Vibration Sensors", "Photonics", "Structural Monitoring", "Optical Devices"]
+    },
+    {
+        "id": 6952,
+        "title": "Photonic-Based Optical Encryption for Security",
+        "domain": "98",
+        "description": "Implement photonic techniques for secure optical data encryption and transmission.",
+        "keywords": ["Optical Encryption", "Photonics", "Data Security", "Optical Communication"]
+    },
+    {
+        "id": 6953,
+        "title": "Photonic-Based Optical Frequency Sensing",
+        "domain": "98",
+        "description": "Create photonics systems to accurately measure optical frequencies for metrology and spectroscopy.",
+        "keywords": ["Frequency Sensing", "Photonics", "Optical Metrology", "Spectroscopy"]
+    },
+    {
+        "id": 6954,
+        "title": "Photonic-Based Smart Optical Coatings",
+        "domain": "98",
+        "description": "Develop smart photonic coatings for controlling light transmission, reflection, and absorption.",
+        "keywords": ["Smart Coatings", "Photonics", "Optical Control", "Advanced Materials"]
+    },
+    {
+        "id": 6955,
+        "title": "Photonic-Based Optical Neural Networks",
+        "domain": "98",
+        "description": "Design neural networks using photonic circuits for AI computation with enhanced speed and efficiency.",
+        "keywords": ["Optical Neural Networks", "Photonics", "AI", "High-Speed Computing"]
+    },
+    {
+        "id": 6956,
+        "title": "Optical Sensors for Industrial Process Control",
+        "domain": "98",
+        "description": "Create photonics-enabled optical sensors to monitor and control industrial processes with high precision.",
+        "keywords": ["Industrial Sensors", "Photonics", "Optical Monitoring", "Process Control"]
+    },
+    {
+        "id": 6957,
+        "title": "Photonic-Based High-Resolution Imaging Systems",
+        "domain": "98",
+        "description": "Develop photonics-enabled systems for high-resolution imaging in medical and scientific research.",
+        "keywords": ["High-Resolution Imaging", "Photonics", "Optical Systems", "Research"]
+    },
+    {
+        "id": 6958,
+        "title": "Photonic-Based Quantum Sensing Devices",
+        "domain": "98",
+        "description": "Design photonics systems for quantum-enhanced sensing in measurement and detection applications.",
+        "keywords": ["Quantum Sensing", "Photonics", "Optical Devices", "Precision Measurement"]
+    },
+    {
+        "id": 6959,
+        "title": "Optical Filters for Communication Systems",
+        "domain": "98",
+        "description": "Develop photonic optical filters to improve signal quality and efficiency in communication networks.",
+        "keywords": ["Optical Filters", "Photonics", "Communication Systems", "Signal Quality"]
+    },
+    {
+        "id": 6960,
+        "title": "Photonic-Based Optical Delay Lines",
+        "domain": "98",
+        "description": "Create photonic delay lines to control light propagation for signal processing and synchronization.",
+        "keywords": ["Optical Delay Lines", "Photonics", "Signal Processing", "Optical Devices"]
+    },
+    {
+        "id": 6961,
+        "title": "Photonic-Based Optical Phase Arrays",
+        "domain": "98",
+        "description": "Design photonic phase arrays for beam steering and optical signal control in advanced communication systems.",
+        "keywords": ["Phase Arrays", "Photonics", "Beam Steering", "Optical Communication"]
+    },
+    {
+        "id": 6962,
+        "title": "Photonic-Based Optical Amplifiers",
+        "domain": "98",
+        "description": "Develop photonics-enabled optical amplifiers for enhancing signal strength in communication networks.",
+        "keywords": ["Optical Amplifiers", "Photonics", "Signal Boosting", "Communication Networks"]
+    },
+    {
+        "id": 6963,
+        "title": "Photonic-Based Optical Interconnects",
+        "domain": "98",
+        "description": "Create photonic interconnects for high-speed data transfer between computing and communication devices.",
+        "keywords": ["Optical Interconnects", "Photonics", "High-Speed Data", "Computing"]
+    },
+    {
+        "id": 6964,
+        "title": "Photonic-Based Optical Holography Systems",
+        "domain": "98",
+        "description": "Develop photonics-enabled holography systems for imaging, display, and data storage applications.",
+        "keywords": ["Optical Holography", "Photonics", "Imaging", "Data Storage"]
+    },
+    {
+        "id": 6965,
+        "title": "Photonic-Based Optical Signal Multiplexing",
+        "domain": "98",
+        "description": "Design systems using photonics for multiplexing multiple optical signals to increase communication efficiency.",
+        "keywords": ["Signal Multiplexing", "Photonics", "Optical Communication", "High-Speed Networks"]
+    },
+    {
+        "id": 6966,
+        "title": "Photonic-Based Optical Neural Interfaces",
+        "domain": "98",
+        "description": "Create photonics-enabled optical interfaces for neural recording and stimulation in brain-computer applications.",
+        "keywords": ["Neural Interfaces", "Photonics", "Optical Systems", "BCI"]
+    },
+    {
+        "id": 6967,
+        "title": "Photonic-Based Optical Microfluidic Sensors",
+        "domain": "98",
+        "description": "Develop microfluidic sensors integrated with photonics for chemical and biological analysis.",
+        "keywords": ["Microfluidic Sensors", "Photonics", "Chemical Analysis", "Biological Analysis"]
+    },
+    {
+        "id": 6968,
+        "title": "Photonic-Based Optical Phase Conjugation Devices",
+        "domain": "98",
+        "description": "Design devices using photonics to reverse wavefront distortions for advanced optical applications.",
+        "keywords": ["Phase Conjugation", "Photonics", "Optical Devices", "Wavefront Control"]
+    },
+    {
+        "id": 6969,
+        "title": "Photonic-Based Optical Switching for Data Centers",
+        "domain": "98",
+        "description": "Create high-speed photonic switches for efficient optical data routing in data centers.",
+        "keywords": ["Optical Switching", "Photonics", "Data Centers", "High-Speed Networks"]
+    },
+    {
+        "id": 6970,
+        "title": "Photonic-Based Optical Sensors for Agriculture",
+        "domain": "98",
+        "description": "Develop photonics-enabled optical sensors to monitor soil, water, and crop health.",
+        "keywords": ["Agriculture Sensors", "Photonics", "Optical Monitoring", "Smart Farming"]
+    },
+    {
+        "id": 6971,
+        "title": "Photonic-Based Optical Interferometry Systems",
+        "domain": "98",
+        "description": "Design photonics-enabled interferometry systems for precise measurement and analysis in science and engineering.",
+        "keywords": ["Optical Interferometry", "Photonics", "Precision Measurement", "Scientific Instruments"]
+    },
+    {
+        "id": 6972,
+        "title": "Photonic-Based Optical Data Storage",
+        "domain": "98",
+        "description": "Create photonics-based systems for high-density, high-speed optical data storage.",
+        "keywords": ["Optical Data Storage", "Photonics", "High-Density Storage", "Advanced Technology"]
+    },
+    {
+        "id": 6973,
+        "title": "Photonic-Based Optical Beam Shaping",
+        "domain": "98",
+        "description": "Develop photonics techniques for shaping optical beams in communication, imaging, and industrial applications.",
+        "keywords": ["Beam Shaping", "Photonics", "Optical Devices", "Advanced Applications"]
+    },
+    {
+        "id": 6974,
+        "title": "Photonic-Based Optical Thermometry Systems",
+        "domain": "98",
+        "description": "Design photonics-enabled systems for high-precision temperature measurement using optical methods.",
+        "keywords": ["Optical Thermometry", "Photonics", "Temperature Sensing", "Precision Measurement"]
+    },
+    {
+        "id": 6975,
+        "title": "Photonic-Based Optical Spectrometers",
+        "domain": "98",
+        "description": "Develop advanced spectrometers using photonics for chemical, environmental, and industrial analysis.",
+        "keywords": ["Optical Spectrometers", "Photonics", "Spectroscopy", "Advanced Analysis"]
+    },
+    {
+        "id": 6976,
+        "title": "Photonic-Based Optical Imaging for Biomedical Applications",
+        "domain": "98",
+        "description": "Create photonics-enabled imaging systems for non-invasive biomedical diagnostics and monitoring.",
+        "keywords": ["Optical Imaging", "Photonics", "Biomedical Applications", "Healthcare"]
+    },
+    // domain 99
     
 
 
