@@ -41464,7 +41464,593 @@ const PROBLEMS_DATA = {
     "domain": "82",
     "description": "A mobile app fostering holistic wellness through scripture-based fitness challenges, mindful meditation, and faith-driven wellness groups.",
     "keywords": ["Spiritual Wellness", "Faith Communities", "Meditation Apps"]
-}
+},
+// domain 83
+
+    {
+        "id": 6018,
+        "title": "Real-Time Seismic Activity Monitoring Platform",
+        "domain": "83",
+        "description": "A comprehensive system for detecting, analyzing, and predicting seismic events using AI-powered sensor networks and geological data analysis.",
+        "keywords": ["Earthquake Detection", "Seismology", "Early Warning Systems"]
+    },
+    {
+        "id": 6019,
+        "title": "Underground Water Resource Mapping Tool",
+        "domain": "83",
+        "description": "Advanced ground-penetrating radar and satellite imagery analysis platform for identifying and mapping groundwater aquifers and contamination sources.",
+        "keywords": ["Hydrogeology", "Aquifer Mapping", "Water Resources"]
+    },
+    {
+        "id": 6020,
+        "title": "Mineral Exploration AI Assistant",
+        "domain": "83",
+        "description": "Machine learning system that analyzes geological surveys, core samples, and geophysical data to predict mineral deposit locations and compositions.",
+        "keywords": ["Mineral Exploration", "Geological Survey", "Mining Technology"]
+    },
+    {
+        "id": 6021,
+        "title": "Landslide Risk Assessment Platform",
+        "domain": "83",
+        "description": "Integrated system combining terrain analysis, weather data, and soil composition to predict landslide susceptibility and provide early warnings.",
+        "keywords": ["Landslide Prevention", "Slope Stability", "Natural Hazards"]
+    },
+    {
+        "id": 6022,
+        "title": "Volcanic Activity Prediction System",
+        "domain": "83",
+        "description": "Multi-sensor monitoring network using thermal imaging, gas analysis, and ground deformation data to forecast volcanic eruptions.",
+        "keywords": ["Volcanology", "Eruption Prediction", "Thermal Monitoring"]
+    },
+    {
+        "id": 6023,
+        "title": "Soil Erosion Monitoring Dashboard",
+        "domain": "83",
+        "description": "Satellite-based monitoring system that tracks soil erosion patterns and provides recommendations for conservation strategies.",
+        "keywords": ["Soil Conservation", "Erosion Control", "Agricultural Geology"]
+    },
+    {
+        "id": 6024,
+        "title": "Geothermal Energy Site Optimizer",
+        "domain": "83",
+        "description": "Platform for identifying optimal geothermal energy extraction sites using subsurface temperature mapping and geological analysis.",
+        "keywords": ["Geothermal Energy", "Renewable Resources", "Subsurface Analysis"]
+    },
+    {
+        "id": 6025,
+        "title": "Ocean Floor Mapping Autonomous System",
+        "domain": "83",
+        "description": "Underwater drone network for detailed seafloor geological mapping, including sediment analysis and underwater mineral prospecting.",
+        "keywords": ["Marine Geology", "Seafloor Mapping", "Underwater Exploration"]
+    },
+    {
+        "id": 6026,
+        "title": "Carbon Sequestration Site Evaluator",
+        "domain": "83",
+        "description": "Geological assessment tool for identifying suitable underground carbon storage sites and monitoring long-term containment integrity.",
+        "keywords": ["Carbon Storage", "CO2 Sequestration", "Climate Technology"]
+    },
+    {
+        "id": 6027,
+        "title": "Glacier Movement Tracking System",
+        "domain": "83",
+        "description": "Satellite and sensor-based platform monitoring glacier dynamics, ice thickness changes, and impact on sea level rise.",
+        "keywords": ["Glaciology", "Climate Monitoring", "Ice Dynamics"]
+    },
+    {
+        "id": 6028,
+        "title": "Fault Line Activity Analyzer",
+        "domain": "83",
+        "description": "Advanced monitoring system for detecting micro-movements along fault lines and assessing earthquake probability.",
+        "keywords": ["Fault Analysis", "Tectonic Activity", "Earthquake Prediction"]
+    },
+    {
+        "id": 6029,
+        "title": "Contaminated Site Remediation Planner",
+        "domain": "83",
+        "description": "Environmental geology platform for assessing soil and groundwater contamination and designing optimal cleanup strategies.",
+        "keywords": ["Environmental Geology", "Site Remediation", "Contamination Analysis"]
+    },
+    {
+        "id": 6030,
+        "title": "Rock Formation 3D Modeling Tool",
+        "domain": "83",
+        "description": "Advanced visualization platform creating detailed 3D models of geological formations for research and educational purposes.",
+        "keywords": ["3D Geology", "Rock Formation", "Geological Modeling"]
+    },
+    {
+        "id": 6031,
+        "title": "Coastal Erosion Prediction Platform",
+        "domain": "83",
+        "description": "Integrated system combining wave action, sea level data, and geological composition to predict coastal erosion patterns.",
+        "keywords": ["Coastal Geology", "Erosion Prediction", "Marine Processes"]
+    },
+    {
+        "id": 6032,
+        "title": "Underground Cave Network Mapper",
+        "domain": "83",
+        "description": "Specialized radar and imaging technology for mapping underground cave systems and assessing structural stability.",
+        "keywords": ["Speleology", "Cave Mapping", "Underground Structures"]
+    },
+    {
+        "id": 6033,
+        "title": "Permafrost Monitoring Network",
+        "domain": "83",
+        "description": "Temperature sensor network tracking permafrost thaw patterns and predicting infrastructure impacts in Arctic regions.",
+        "keywords": ["Permafrost", "Arctic Geology", "Climate Change"]
+    },
+    {
+        "id": 6034,
+        "title": "Quarry Optimization Management System",
+        "domain": "83",
+        "description": "Platform for optimizing stone and aggregate extraction through geological analysis and sustainable mining practices.",
+        "keywords": ["Quarry Management", "Aggregate Mining", "Sustainable Extraction"]
+    },
+    {
+        "id": 6035,
+        "title": "Meteorite Impact Site Detector",
+        "domain": "83",
+        "description": "Satellite and ground-based system for identifying potential meteorite impact sites and analyzing geological evidence.",
+        "keywords": ["Impact Geology", "Meteorite Detection", "Planetary Science"]
+    },
+    {
+        "id": 6036,
+        "title": "Subsidence Risk Assessment Tool",
+        "domain": "83",
+        "description": "Monitoring system detecting ground subsidence caused by mining, water extraction, or natural geological processes.",
+        "keywords": ["Ground Subsidence", "Infrastructure Risk", "Geological Hazards"]
+    },
+    {
+        "id": 6037,
+        "title": "Oil Reservoir Characterization Platform",
+        "domain": "83",
+        "description": "Advanced seismic analysis and geological modeling system for petroleum exploration and reservoir optimization.",
+        "keywords": ["Petroleum Geology", "Reservoir Engineering", "Oil Exploration"]
+    },
+    {
+        "id": 6038,
+        "title": "Tsunami Wave Height Predictor",
+        "domain": "83",
+        "description": "Coastal geological analysis system predicting tsunami wave heights and inundation areas based on seafloor topography.",
+        "keywords": ["Tsunami Prediction", "Coastal Hazards", "Marine Geology"]
+    },
+    {
+        "id": 6039,
+        "title": "Geochemical Analysis Laboratory System",
+        "domain": "83",
+        "description": "Automated laboratory platform for rapid analysis of rock, soil, and mineral samples with AI-powered result interpretation.",
+        "keywords": ["Geochemistry", "Sample Analysis", "Laboratory Automation"]
+    },
+    {
+        "id": 6040,
+        "title": "Sinkhole Formation Predictor",
+        "domain": "83",
+        "description": "Ground-penetrating radar system identifying subsurface voids and predicting sinkhole formation in karst landscapes.",
+        "keywords": ["Karst Geology", "Sinkhole Prediction", "Ground Stability"]
+    },
+    {
+        "id": 6041,
+        "title": "Precious Metal Detection System",
+        "domain": "83",
+        "description": "Advanced electromagnetic and magnetic surveying platform for locating gold, silver, and platinum deposits.",
+        "keywords": ["Precious Metals", "Electromagnetic Survey", "Mining Exploration"]
+    },
+    {
+        "id": 6042,
+        "title": "Wetland Geological Assessment Tool",
+        "domain": "83",
+        "description": "Specialized platform analyzing wetland geology, hydrology, and sediment dynamics for conservation planning.",
+        "keywords": ["Wetland Geology", "Hydrology", "Environmental Assessment"]
+    },
+    {
+        "id": 6043,
+        "title": "Mountain Range Formation Simulator",
+        "domain": "83",
+        "description": "Advanced geological modeling system simulating tectonic processes and mountain formation over geological timescales.",
+        "keywords": ["Tectonics", "Mountain Formation", "Geological Simulation"]
+    },
+    {
+        "id": 6044,
+        "title": "Natural Gas Leak Detection Network",
+        "domain": "83",
+        "description": "Ground-based sensor network detecting natural gas seepage from geological formations and pipeline infrastructure.",
+        "keywords": ["Gas Detection", "Pipeline Safety", "Environmental Monitoring"]
+    },
+    {
+        "id": 6045,
+        "title": "Rare Earth Element Prospector",
+        "domain": "83",
+        "description": "Geophysical survey platform specifically designed to identify rare earth element deposits for technology manufacturing.",
+        "keywords": ["Rare Earth Elements", "Technology Minerals", "Strategic Resources"]
+    },
+    {
+        "id": 6046,
+        "title": "Desert Sand Movement Tracker",
+        "domain": "83",
+        "description": "Wind pattern and geological analysis system monitoring sand dune migration and desert landscape changes.",
+        "keywords": ["Desert Geology", "Sand Migration", "Aeolian Processes"]
+    },
+    {
+        "id": 6047,
+        "title": "Underground Nuclear Waste Monitor",
+        "domain": "83",
+        "description": "Long-term geological monitoring system ensuring safe containment of radioactive waste in underground repositories.",
+        "keywords": ["Nuclear Waste", "Geological Containment", "Radioactive Monitoring"]
+    },
+    {
+        "id": 6048,
+        "title": "River Delta Evolution Predictor",
+        "domain": "83",
+        "description": "Sediment transport and geological modeling system predicting river delta formation and coastal changes.",
+        "keywords": ["Delta Formation", "Sediment Transport", "Coastal Evolution"]
+    },
+    {
+        "id": 6049,
+        "title": "Geothermal Hot Spring Locator",
+        "domain": "83",
+        "description": "Thermal imaging and subsurface analysis platform for identifying natural hot springs and geothermal features.",
+        "keywords": ["Hot Springs", "Thermal Features", "Geothermal Exploration"]
+    },
+    {
+        "id": 6050,
+        "title": "Fossil Fuel Formation Simulator",
+        "domain": "83",
+        "description": "Geological modeling platform simulating organic matter transformation into oil, gas, and coal over millions of years.",
+        "keywords": ["Fossil Formation", "Organic Geochemistry", "Energy Resources"]
+    },
+    {
+        "id": 6051,
+        "title": "Underground River Detection System",
+        "domain": "83",
+        "description": "Advanced ground-penetrating radar and seismic analysis for mapping underground water flows and cave rivers.",
+        "keywords": ["Underground Rivers", "Karst Hydrology", "Subsurface Water"]
+    },
+    {
+        "id": 6052,
+        "title": "Mineral Crystal Structure Analyzer",
+        "domain": "83",
+        "description": "X-ray crystallography and AI-powered analysis platform for identifying and characterizing mineral crystal structures.",
+        "keywords": ["Crystallography", "Mineral Analysis", "Crystal Structure"]
+    },
+    {
+        "id": 6053,
+        "title": "Paleoclimate Reconstruction Tool",
+        "domain": "83",
+        "description": "Ice core, sediment, and rock analysis platform reconstructing ancient climate patterns from geological evidence.",
+        "keywords": ["Paleoclimatology", "Climate History", "Geological Records"]
+    },
+    {
+        "id": 6054,
+        "title": "Lava Flow Path Predictor",
+        "domain": "83",
+        "description": "Topographic analysis and fluid dynamics modeling system predicting lava flow directions during volcanic eruptions.",
+        "keywords": ["Lava Flows", "Volcanic Hazards", "Flow Modeling"]
+    },
+    {
+        "id": 6055,
+        "title": "Groundwater Contamination Tracker",
+        "domain": "83",
+        "description": "Multi-sensor monitoring network tracking contaminant plumes in groundwater systems and aquifers.",
+        "keywords": ["Groundwater Pollution", "Contaminant Tracking", "Aquifer Protection"]
+    },
+    {
+        "id": 6056,
+        "title": "Tectonic Plate Movement Monitor",
+        "domain": "83",
+        "description": "GPS and satellite-based system measuring millimeter-scale movements of tectonic plates across geological boundaries.",
+        "keywords": ["Plate Tectonics", "GPS Monitoring", "Crustal Movement"]
+    },
+    {
+        "id": 6057,
+        "title": "Coal Seam Gas Assessment Platform",
+        "domain": "83",
+        "description": "Geological analysis system evaluating coal seam methane potential and extraction feasibility for energy production.",
+        "keywords": ["Coal Seam Gas", "Methane Extraction", "Unconventional Gas"]
+    },
+    {
+        "id": 6058,
+        "title": "Salt Dome Detection System",
+        "domain": "83",
+        "description": "Gravity and magnetic survey platform identifying salt dome formations for oil exploration and storage applications.",
+        "keywords": ["Salt Domes", "Gravity Survey", "Geological Structures"]
+    },
+    {
+        "id": 6059,
+        "title": "Bedrock Depth Mapping Tool",
+        "domain": "83",
+        "description": "Seismic refraction and drilling data analysis platform creating detailed maps of bedrock depth for construction planning.",
+        "keywords": ["Bedrock Mapping", "Construction Geology", "Foundation Assessment"]
+    },
+    {
+        "id": 6060,
+        "title": "Asteroid Impact Risk Assessor",
+        "domain": "83",
+        "description": "Planetary geology analysis system evaluating Earth's vulnerability to asteroid impacts based on geological history.",
+        "keywords": ["Impact Risk", "Planetary Defense", "Asteroid Geology"]
+    },
+    {
+        "id": 6061,
+        "title": "Underground Mine Safety Monitor",
+        "domain": "83",
+        "description": "Real-time geological monitoring system detecting rock stress, gas accumulation, and structural instability in mines.",
+        "keywords": ["Mine Safety", "Rock Mechanics", "Underground Monitoring"]
+    },
+    {
+        "id": 6062,
+        "title": "Glacial Lake Formation Predictor",
+        "domain": "83",
+        "description": "Climate and geological modeling system predicting glacial lake formation and potential outburst flood risks.",
+        "keywords": ["Glacial Lakes", "Flood Risk", "Glacial Processes"]
+    },
+    {
+        "id": 6063,
+        "title": "Soil Liquefaction Risk Mapper",
+        "domain": "83",
+        "description": "Seismic and soil analysis platform identifying areas susceptible to soil liquefaction during earthquakes.",
+        "keywords": ["Soil Liquefaction", "Earthquake Engineering", "Seismic Risk"]
+    },
+    {
+        "id": 6064,
+        "title": "Petroleum Migration Path Tracer",
+        "domain": "83",
+        "description": "3D geological modeling system tracking hydrocarbon migration paths from source rocks to reservoir formations.",
+        "keywords": ["Petroleum Migration", "Hydrocarbon Systems", "Oil Generation"]
+    },
+    {
+        "id": 6065,
+        "title": "Mudslide Velocity Predictor",
+        "domain": "83",
+        "description": "Rainfall, slope, and soil analysis system predicting mudslide speed and impact zones for emergency planning.",
+        "keywords": ["Mudslides", "Debris Flows", "Mass Wasting"]
+    },
+    {
+        "id": 6066,
+        "title": "Geomagnetic Field Anomaly Detector",
+        "domain": "83",
+        "description": "Magnetic survey platform identifying subsurface geological structures through variations in Earth's magnetic field.",
+        "keywords": ["Magnetic Survey", "Geomagnetic Anomalies", "Subsurface Detection"]
+    },
+    {
+        "id": 6067,
+        "title": "Coral Reef Geological Foundation Analyzer",
+        "domain": "83",
+        "description": "Underwater geological survey system studying the carbonate foundations and growth patterns of coral reef systems.",
+        "keywords": ["Coral Geology", "Carbonate Platforms", "Marine Ecosystems"]
+    },
+    {
+        "id": 6068,
+        "title": "Shale Gas Reservoir Characterizer",
+        "domain": "83",
+        "description": "Advanced petrophysical analysis platform evaluating shale formations for natural gas extraction potential.",
+        "keywords": ["Shale Gas", "Unconventional Resources", "Reservoir Analysis"]
+    },
+    {
+        "id": 6069,
+        "title": "Seasonal Frost Penetration Monitor",
+        "domain": "83",
+        "description": "Temperature sensor network tracking seasonal frost depth changes and impacts on soil stability and infrastructure.",
+        "keywords": ["Frost Penetration", "Seasonal Monitoring", "Soil Freezing"]
+    },
+    {
+        "id": 6070,
+        "title": "Radioactive Mineral Detection System",
+        "domain": "83",
+        "description": "Gamma-ray spectrometry platform identifying uranium, thorium, and other radioactive minerals in geological formations.",
+        "keywords": ["Radioactive Minerals", "Gamma Survey", "Nuclear Resources"]
+    },
+    {
+        "id": 6071,
+        "title": "Sedimentary Basin Evolution Modeler",
+        "domain": "83",
+        "description": "Geological simulation platform reconstructing the formation and evolution of sedimentary basins over geological time.",
+        "keywords": ["Basin Modeling", "Sedimentary Geology", "Geological Evolution"]
+    },
+    {
+        "id": 6072,
+        "title": "Groundwater Age Dating System",
+        "domain": "83",
+        "description": "Isotopic analysis platform determining the age and origin of groundwater using radiometric dating techniques.",
+        "keywords": ["Groundwater Dating", "Isotope Analysis", "Hydrogeochemistry"]
+    },
+    {
+        "id": 6073,
+        "title": "Volcanic Ash Dispersion Predictor",
+        "domain": "83",
+        "description": "Atmospheric and geological modeling system predicting volcanic ash cloud movement and aviation impacts.",
+        "keywords": ["Volcanic Ash", "Aviation Safety", "Atmospheric Dispersion"]
+    },
+    {
+        "id": 6074,
+        "title": "Underground Cavity Detection Scanner",
+        "domain": "83",
+        "description": "Multi-frequency ground-penetrating radar system identifying natural and man-made underground voids and cavities.",
+        "keywords": ["Cavity Detection", "Underground Voids", "Structural Assessment"]
+    },
+    {
+        "id": 6075,
+        "title": "Metamorphic Rock Classification AI",
+        "domain": "83",
+        "description": "Machine learning platform automatically classifying metamorphic rocks based on mineral composition and texture analysis.",
+        "keywords": ["Metamorphic Rocks", "Rock Classification", "Petrology AI"]
+    },
+    {
+        "id": 6076,
+        "title": "Geothermal Gradient Mapping Tool",
+        "domain": "83",
+        "description": "Temperature measurement and modeling platform creating detailed maps of subsurface thermal gradients.",
+        "keywords": ["Geothermal Gradient", "Temperature Mapping", "Thermal Analysis"]
+    },
+    {
+        "id": 6077,
+        "title": "River Sediment Transport Calculator",
+        "domain": "83",
+        "description": "Hydrodynamic modeling system calculating sediment transport rates and river channel evolution patterns.",
+        "keywords": ["Sediment Transport", "River Dynamics", "Fluvial Processes"]
+    },
+    {
+        "id": 6078,
+        "title": "Mineral Hardness Testing Automator",
+        "domain": "83",
+        "description": "Automated testing platform measuring mineral hardness, density, and other physical properties for identification.",
+        "keywords": ["Mineral Testing", "Physical Properties", "Automated Analysis"]
+    },
+    {
+        "id": 6079,
+        "title": "Underground Water Quality Sensor Network",
+        "domain": "83",
+        "description": "Distributed sensor system monitoring groundwater chemistry, pH, and contamination levels in real-time.",
+        "keywords": ["Water Quality", "Groundwater Monitoring", "Chemical Analysis"]
+    },
+    {
+        "id": 6080,
+        "title": "Igneous Rock Composition Analyzer",
+        "domain": "83",
+        "description": "Spectroscopic analysis platform determining the mineral composition and formation history of igneous rocks.",
+        "keywords": ["Igneous Petrology", "Rock Composition", "Spectroscopic Analysis"]
+    },
+    {
+        "id": 6081,
+        "title": "Soil pH and Nutrient Mapping System",
+        "domain": "83",
+        "description": "Agricultural geology platform creating detailed maps of soil chemistry for crop optimization and land management.",
+        "keywords": ["Soil Chemistry", "Agricultural Geology", "Nutrient Mapping"]
+    },
+    {
+        "id": 6082,
+        "title": "Thermal Spring Chemistry Monitor",
+        "domain": "83",
+        "description": "Automated monitoring system analyzing the chemical composition and temperature variations of natural thermal springs.",
+        "keywords": ["Thermal Springs", "Geochemical Monitoring", "Spring Chemistry"]
+    },
+    {
+        "id": 6083,
+        "title": "Paleomagnetic Direction Recorder",
+        "domain": "83",
+        "description": "Magnetic analysis platform studying ancient magnetic field directions preserved in rocks for geological dating.",
+        "keywords": ["Paleomagnetism", "Magnetic Dating", "Geological Time"]
+    },
+    {
+        "id": 6084,
+        "title": "Aggregate Quality Assessment Tool",
+        "domain": "83",
+        "description": "Construction geology platform evaluating sand, gravel, and crushed stone quality for concrete and road construction.",
+        "keywords": ["Construction Materials", "Aggregate Testing", "Material Quality"]
+    },
+    {
+        "id": 6085,
+        "title": "Geological Time Scale Visualizer",
+        "domain": "83",
+        "description": "Interactive platform for visualizing and understanding geological time periods, formations, and evolutionary events.",
+        "keywords": ["Geological Time", "Earth History", "Educational Tools"]
+    },
+    {
+        "id": 6086,
+        "title": "Karst Landscape Risk Assessor",
+        "domain": "83",
+        "description": "Comprehensive analysis system evaluating geological risks in limestone terrains prone to caves and sinkholes.",
+        "keywords": ["Karst Terrain", "Limestone Geology", "Geological Hazards"]
+    },
+    {
+        "id": 6087,
+        "title": "Deep Ocean Sediment Corer",
+        "domain": "83",
+        "description": "Autonomous underwater system collecting and analyzing deep-sea sediment cores for paleoceanographic research.",
+        "keywords": ["Marine Sediments", "Deep Sea Drilling", "Ocean History"]
+    },
+    {
+        "id": 6088,
+        "title": "Mineral Resource Sustainability Calculator",
+        "domain": "83",
+        "description": "Economic geology platform calculating long-term sustainability of mineral extraction based on reserve estimates.",
+        "keywords": ["Resource Sustainability", "Mining Economics", "Reserve Estimation"]
+    },
+    {
+        "id": 6089,
+        "title": "Seismic Wave Velocity Profiler",
+        "domain": "83",
+        "description": "Geophysical survey system measuring seismic wave velocities to characterize subsurface geological layers.",
+        "keywords": ["Seismic Velocity", "Subsurface Profiling", "Geophysical Survey"]
+    },
+    {
+        "id": 6090,
+        "title": "Weathering Rate Measurement Platform",
+        "domain": "83",
+        "description": "Long-term monitoring system measuring rock weathering rates and chemical alteration in different climate zones.",
+        "keywords": ["Rock Weathering", "Chemical Alteration", "Surface Processes"]
+    },
+    {
+        "id": 6091,
+        "title": "Geological Field Data Collector",
+        "domain": "83",
+        "description": "Mobile platform for field geologists to record, analyze, and share geological observations and measurements.",
+        "keywords": ["Field Geology", "Data Collection", "Mobile Technology"]
+    },
+    {
+        "id": 6092,
+        "title": "Underground Aquifer Connectivity Mapper",
+        "domain": "83",
+        "description": "Hydrogeological analysis platform determining connections between underground water bodies and flow patterns.",
+        "keywords": ["Aquifer Systems", "Groundwater Flow", "Hydrological Connectivity"]
+    },
+    {
+        "id": 6093,
+        "title": "Geological Hazard Early Warning System",
+        "domain": "83",
+        "description": "Integrated platform combining multiple geological monitoring systems to provide early warnings for natural disasters.",
+        "keywords": ["Natural Disasters", "Early Warning", "Geological Hazards"]
+    },
+    {
+        "id": 6094,
+        "title": "Rock Strength Testing Laboratory",
+        "domain": "83",
+        "description": "Automated laboratory system testing compressive strength, tensile strength, and other mechanical properties of rocks.",
+        "keywords": ["Rock Mechanics", "Material Testing", "Structural Geology"]
+    },
+    {
+        "id": 6095,
+        "title": "Coastal Cliff Stability Monitor",
+        "domain": "83",
+        "description": "Sensor network monitoring coastal cliff erosion, rock falls, and structural stability along shorelines.",
+        "keywords": ["Coastal Erosion", "Cliff Stability", "Shoreline Monitoring"]
+    },
+    {
+        "id": 6096,
+        "title": "Geological Survey Data Integration Platform",
+        "domain": "83",
+        "description": "Comprehensive database system integrating geological maps, survey data, and research findings from multiple sources.",
+        "keywords": ["Data Integration", "Geological Database", "Survey Management"]
+    },
+    {
+        "id": 6097,
+        "title": "Natural Stone Quality Evaluator",
+        "domain": "83",
+        "description": "Construction geology platform assessing natural stone quality, durability, and suitability for building applications.",
+        "keywords": ["Natural Stone", "Building Materials", "Stone Quality"]
+    },
+    {
+        "id": 6098,
+        "title": "Geological Heritage Site Mapper",
+        "domain": "83",
+        "description": "Digital platform cataloging and mapping geological sites of scientific and cultural importance for conservation.",
+        "keywords": ["Geological Heritage", "Site Conservation", "Geoheritage Mapping"]
+    },
+    {
+        "id": 6099,
+        "title": "Underground Utility Impact Assessor",
+        "domain": "83",
+        "description": "Geological analysis platform evaluating the impact of underground utilities on soil stability and geological formations.",
+        "keywords": ["Utility Installation", "Soil Impact", "Infrastructure Geology"]
+    },
+    {
+        "id": 6100,
+        "title": "Planetary Geology Comparison Tool",
+        "domain": "83",
+        "description": "Research platform comparing geological features and processes between Earth and other planets in the solar system.",
+        "keywords": ["Planetary Geology", "Comparative Analysis", "Space Sciences"]
+    },
+    //domain 84
+    
+
 
 
 
