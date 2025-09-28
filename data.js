@@ -45025,7 +45025,344 @@ const PROBLEMS_DATA = {
         "keywords": ["Hybrid Materials", "Natural Composites", "Durable Packaging", "Sustainability"]
     },
     // domain 91
-    
+    {
+    "id": 6524,
+    "title": "AI-Powered Water Treatment Optimizer",
+    "domain": "91",
+    "description": "Develop an AI-driven system that analyzes raw water composition and dynamically adjusts chemical dosing and treatment processes to ensure efficient purification and reduced operational costs.",
+    "keywords": ["Water Treatment", "Water Technology", "Water Innovation", "Water Processing"]
+},
+{
+    "id": 6525,
+    "title": "IoT-Based Smart Water Purification Unit",
+    "domain": "91",
+    "description": "Design an IoT-enabled water purification device that monitors real-time water quality and automatically adjusts filtration settings to maintain safe drinking standards.",
+    "keywords": ["Water Purification", "Water Systems", "Water Quality", "Water Innovation"]
+},
+{
+    "id": 6526,
+    "title": "Blockchain-Enabled Water Quality Ledger",
+    "domain": "91",
+    "description": "Create a blockchain system to store and verify water quality data from multiple purification plants, ensuring transparency and trust in water safety reports.",
+    "keywords": ["Water Quality", "Water Technology", "Water Management", "Water Innovation"]
+},
+{
+    "id": 6527,
+    "title": "AI-Driven Water Leakage Detection",
+    "domain": "91",
+    "description": "Implement an AI system that detects and predicts water leakages in purification systems and distribution networks, helping reduce wastage and improve efficiency.",
+    "keywords": ["Water Management", "Water Systems", "Water Engineering", "Water Conservation"]
+},
+{
+    "id": 6528,
+    "title": "Nanotechnology-Based Water Filtration",
+    "domain": "91",
+    "description": "Develop an advanced water filtration system using nanotechnology to remove harmful contaminants while maintaining essential minerals.",
+    "keywords": ["Water Filtration", "Water Treatment", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6529,
+    "title": "Real-Time Water Quality Monitoring System",
+    "domain": "91",
+    "description": "Build a smart monitoring system that tracks pH, turbidity, and chemical content in water sources, with instant alerts for unsafe levels.",
+    "keywords": ["Water Quality", "Water Systems", "Water Management", "Water Technology"]
+},
+{
+    "id": 6530,
+    "title": "AI-Powered Water Demand Forecasting",
+    "domain": "91",
+    "description": "Design an AI model that forecasts water demand patterns for purification plants to optimize resource allocation and energy usage.",
+    "keywords": ["Water Management", "Water Processing", "Water Engineering", "Water Technology"]
+},
+{
+    "id": 6531,
+    "title": "Decentralized Water Purification Pods",
+    "domain": "91",
+    "description": "Create modular, decentralized purification pods that can be deployed in rural areas for affordable and sustainable clean water access.",
+    "keywords": ["Water Purification", "Water Solutions", "Water Conservation", "Water Innovation"]
+},
+{
+    "id": 6532,
+    "title": "AI-Enhanced Water Recycling System",
+    "domain": "91",
+    "description": "Develop a recycling system that uses AI to optimize wastewater treatment and purification for reuse in agriculture and industry.",
+    "keywords": ["Water Treatment", "Water Processing", "Water Conservation", "Water Innovation"]
+},
+{
+    "id": 6533,
+    "title": "Cloud-Based Water Quality Analytics Dashboard",
+    "domain": "91",
+    "description": "Build a cloud platform that aggregates and visualizes water quality data from purification plants, helping authorities make data-driven decisions.",
+    "keywords": ["Water Quality", "Water Management", "Water Technology", "Water Systems"]
+},
+{
+    "id": 6534,
+    "title": "Portable AI Water Testing Kit",
+    "domain": "91",
+    "description": "Design a portable kit with AI-powered sensors to test and report water quality instantly for field engineers and households.",
+    "keywords": ["Water Quality", "Water Purification", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6535,
+    "title": "Energy-Efficient Water Filtration Plant",
+    "domain": "91",
+    "description": "Develop a smart water filtration plant with renewable energy integration and optimized filtration cycles to reduce costs.",
+    "keywords": ["Water Filtration", "Water Processing", "Water Engineering", "Water Conservation"]
+},
+{
+    "id": 6536,
+    "title": "AI-Powered Desalination System",
+    "domain": "91",
+    "description": "Implement an AI-driven desalination system that adjusts energy usage and filtration based on real-time water salinity data.",
+    "keywords": ["Water Treatment", "Water Technology", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6537,
+    "title": "IoT-Enabled Water Distribution Management",
+    "domain": "91",
+    "description": "Create a smart distribution system that uses IoT sensors to ensure purified water is efficiently supplied without contamination.",
+    "keywords": ["Water Management", "Water Systems", "Water Engineering", "Water Technology"]
+},
+{
+    "id": 6538,
+    "title": "AI-Powered Water Contamination Predictor",
+    "domain": "91",
+    "description": "Develop an AI model to predict potential contamination risks in purification plants based on historical and real-time data.",
+    "keywords": ["Water Quality", "Water Treatment", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6539,
+    "title": "Sustainable Rainwater Harvesting System",
+    "domain": "91",
+    "description": "Design a water purification-integrated rainwater harvesting system to ensure clean and safe water storage for households.",
+    "keywords": ["Water Conservation", "Water Purification", "Water Systems", "Water Engineering"]
+},
+{
+    "id": 6540,
+    "title": "Smart Water Recycling for Industries",
+    "domain": "91",
+    "description": "Build an AI-driven industrial water recycling system that purifies wastewater for reuse, reducing environmental impact.",
+    "keywords": ["Water Processing", "Water Treatment", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6541,
+    "title": "AI-Driven Groundwater Quality Monitoring",
+    "domain": "91",
+    "description": "Develop a system that continuously monitors groundwater quality using AI sensors and alerts communities of contamination risks.",
+    "keywords": ["Water Quality", "Water Systems", "Water Technology", "Water Conservation"]
+},
+{
+    "id": 6542,
+    "title": "Solar-Powered Portable Water Purifier",
+    "domain": "91",
+    "description": "Design a lightweight solar-powered purifier for remote areas to provide sustainable clean water access.",
+    "keywords": ["Water Purification", "Water Innovation", "Water Solutions", "Water Conservation"]
+},
+{
+    "id": 6543,
+    "title": "Digital Twin for Water Treatment Plants",
+    "domain": "91",
+    "description": "Create a digital twin of water treatment plants to simulate operations, optimize efficiency, and reduce downtime.",
+    "keywords": ["Water Treatment", "Water Technology", "Water Engineering", "Water Management"]
+},
+{
+    "id": 6544,
+    "title": "AI-Powered Waterborne Disease Detector",
+    "domain": "91",
+    "description": "Build an AI system to detect waterborne disease pathogens in purification plants and issue health alerts.",
+    "keywords": ["Water Quality", "Water Purification", "Water Technology", "Water Innovation"]
+},
+{
+    "id": 6545,
+    "title": "Intelligent Greywater Recycling System",
+    "domain": "91",
+    "description": "Design an AI-enhanced greywater recycling system for households to reuse water for irrigation and cleaning.",
+    "keywords": ["Water Processing", "Water Conservation", "Water Management", "Water Innovation"]
+},
+{
+    "id": 6546,
+    "title": "IoT-Based Smart Water Filtration Network",
+    "domain": "91",
+    "description": "Create a network of IoT-enabled water filters that share performance and quality data to optimize regional water safety.",
+    "keywords": ["Water Filtration", "Water Systems", "Water Technology", "Water Management"]
+},
+{
+    "id": 6547,
+    "title": "AI-Powered River Water Purification System",
+    "domain": "91",
+    "description": "Develop a floating purification system with AI-driven sensors to clean polluted river water in real-time.",
+    "keywords": ["Water Purification", "Water Treatment", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6548,
+    "title": "Smart Water Pressure Control System",
+    "domain": "91",
+    "description": "Build an AI-based water pressure control system to maintain purification plant efficiency and prevent pipe bursts.",
+    "keywords": ["Water Systems", "Water Engineering", "Water Management", "Water Technology"]
+},
+{
+    "id": 6549,
+    "title": "AI-Enhanced Aquifer Recharge System",
+    "domain": "91",
+    "description": "Develop an AI model to manage treated water recharge into aquifers, ensuring sustainable groundwater replenishment.",
+    "keywords": ["Water Conservation", "Water Management", "Water Engineering", "Water Solutions"]
+},
+{
+    "id": 6550,
+    "title": "Mobile App for Water Quality Tracking",
+    "domain": "91",
+    "description": "Create a mobile app that provides real-time updates on local water quality and purification status for citizens.",
+    "keywords": ["Water Quality", "Water Technology", "Water Innovation", "Water Systems"]
+},
+{
+    "id": 6551,
+    "title": "AI-Powered Smart Water Meters",
+    "domain": "91",
+    "description": "Design smart water meters that not only track consumption but also monitor water quality at the point of use.",
+    "keywords": ["Water Management", "Water Systems", "Water Quality", "Water Innovation"]
+},
+{
+    "id": 6552,
+    "title": "AI-Enabled Algae Removal System",
+    "domain": "91",
+    "description": "Develop an intelligent system that detects and removes algae blooms from water purification plants automatically.",
+    "keywords": ["Water Treatment", "Water Filtration", "Water Innovation", "Water Technology"]
+},
+{
+    "id": 6553,
+    "title": "Cloud-Powered Smart Water Filtration",
+    "domain": "91",
+    "description": "Build a cloud-based AI solution that optimizes multi-stage water filtration cycles in purification plants.",
+    "keywords": ["Water Filtration", "Water Processing", "Water Management", "Water Technology"]
+},
+{
+    "id": 6554,
+    "title": "AI-Powered Stormwater Purification System",
+    "domain": "91",
+    "description": "Create a purification system for stormwater runoff that uses AI to detect pollutants and clean the water for reuse.",
+    "keywords": ["Water Treatment", "Water Purification", "Water Engineering", "Water Innovation"]
+},
+{
+    "id": 6555,
+    "title": "Automated Household Water Recycling Unit",
+    "domain": "91",
+    "description": "Develop a small-scale unit that automatically recycles household wastewater for safe reuse.",
+    "keywords": ["Water Processing", "Water Conservation", "Water Systems", "Water Solutions"]
+},
+{
+    "id": 6556,
+    "title": "AI-Enhanced UV Water Sterilization",
+    "domain": "91",
+    "description": "Design an AI-controlled UV sterilization system that adapts radiation levels based on real-time microbial load.",
+    "keywords": ["Water Purification", "Water Treatment", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6557,
+    "title": "IoT-Based Water Purifier Maintenance System",
+    "domain": "91",
+    "description": "Create an IoT solution that predicts purifier filter clogging and schedules automated maintenance.",
+    "keywords": ["Water Purification", "Water Systems", "Water Management", "Water Innovation"]
+},
+{
+    "id": 6558,
+    "title": "AI-Driven Floodwater Purification System",
+    "domain": "91",
+    "description": "Build a floodwater purification system with AI models that quickly filter large volumes of contaminated water.",
+    "keywords": ["Water Treatment", "Water Engineering", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6559,
+    "title": "Community-Based Smart Water Sharing Platform",
+    "domain": "91",
+    "description": "Design a platform where communities can share purified water resources and track collective water usage.",
+    "keywords": ["Water Management", "Water Systems", "Water Conservation", "Water Innovation"]
+},
+{
+    "id": 6560,
+    "title": "AI-Powered Smart Irrigation Purification System",
+    "domain": "91",
+    "description": "Create a purification system tailored for agriculture that ensures irrigation water meets safety standards.",
+    "keywords": ["Water Purification", "Water Processing", "Water Engineering", "Water Innovation"]
+},
+{
+    "id": 6561,
+    "title": "Smart Water Filtration Cartridge System",
+    "domain": "91",
+    "description": "Develop a smart cartridge-based water filtration system that tracks usage and notifies when replacement is required.",
+    "keywords": ["Water Filtration", "Water Systems", "Water Solutions", "Water Management"]
+},
+{
+    "id": 6562,
+    "title": "AI-Driven Purification Waste Management",
+    "domain": "91",
+    "description": "Design an AI system that manages the byproducts of water purification to minimize environmental damage.",
+    "keywords": ["Water Treatment", "Water Processing", "Water Conservation", "Water Solutions"]
+},
+{
+    "id": 6563,
+    "title": "IoT-Enabled Smart Reservoir Monitoring",
+    "domain": "91",
+    "description": "Create an IoT-based system to monitor reservoir water levels and quality, supporting purification planning.",
+    "keywords": ["Water Systems", "Water Management", "Water Quality", "Water Engineering"]
+},
+{
+    "id": 6564,
+    "title": "AI-Powered Smart Drinking Water Stations",
+    "domain": "91",
+    "description": "Build AI-managed public drinking water stations that ensure quality and track real-time usage patterns.",
+    "keywords": ["Water Quality", "Water Systems", "Water Innovation", "Water Management"]
+},
+{
+    "id": 6565,
+    "title": "Smart Wastewater-to-Potable Water Converter",
+    "domain": "91",
+    "description": "Design an advanced purification system to safely convert wastewater into potable water using AI optimization.",
+    "keywords": ["Water Treatment", "Water Processing", "Water Purification", "Water Innovation"]
+},
+{
+    "id": 6566,
+    "title": "AI-Driven Smart Water Grid",
+    "domain": "91",
+    "description": "Develop a smart grid system that manages purified water distribution across urban and rural areas efficiently.",
+    "keywords": ["Water Management", "Water Systems", "Water Technology", "Water Engineering"]
+},
+{
+    "id": 6567,
+    "title": "Portable Emergency Water Purification Kit",
+    "domain": "91",
+    "description": "Create a compact portable purifier designed for disaster relief operations to provide clean drinking water instantly.",
+    "keywords": ["Water Purification", "Water Solutions", "Water Conservation", "Water Innovation"]
+},
+{
+    "id": 6568,
+    "title": "AI-Powered Smart Aquaculture Water System",
+    "domain": "91",
+    "description": "Build a purification and monitoring system for aquaculture farms to maintain water quality for healthy fish farming.",
+    "keywords": ["Water Quality", "Water Systems", "Water Treatment", "Water Innovation"]
+},
+{
+    "id": 6569,
+    "title": "Smart AI-Based Rural Water Purification",
+    "domain": "91",
+    "description": "Develop a cost-effective AI-driven water purification system tailored for rural communities with limited resources.",
+    "keywords": ["Water Purification", "Water Technology", "Water Solutions", "Water Conservation"]
+},
+{
+    "id": 6570,
+    "title": "AI-Powered Microplastics Removal System",
+    "domain": "91",
+    "description": "Design an intelligent purification system that efficiently detects and removes microplastics from water sources.",
+    "keywords": ["Water Treatment", "Water Filtration", "Water Innovation", "Water Solutions"]
+},
+{
+    "id": 6571,
+    "title": "IoT-Powered Household Water Monitoring System",
+    "domain": "91",
+    "description": "Develop a household IoT system to monitor tap water quality and provide alerts when purification is required.",
+    "keywords": ["Water Quality", "Water Systems", "Water Technology", "Water Innovation"]
+},
+//domain-92
+
 
 
 
