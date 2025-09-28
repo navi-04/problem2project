@@ -43453,6 +43453,280 @@ const PROBLEMS_DATA = {
         "keywords": ["Organic Waste", "Biofertilizers", "Recycling", "Sustainable Agriculture"]
     },
     //domain 87
+    {
+        "id": 6300,
+        "title": "Smart Building Automation Systems",
+        "domain": "87",
+        "description": "Designing intelligent building systems to monitor and control lighting, HVAC, and security for energy efficiency and occupant comfort.",
+        "keywords": ["Building Automation", "Smart Buildings", "Energy Efficiency", "IoT"]
+    },
+    {
+        "id": 6301,
+        "title": "3D Printing of Concrete Structures",
+        "domain": "87",
+        "description": "Implementing 3D printing technologies to construct durable and complex concrete structures with reduced material waste.",
+        "keywords": ["3D Printing", "Concrete Construction", "Sustainable Building", "Innovation"]
+    },
+    {
+        "id": 6302,
+        "title": "Use of Recycled Materials in Construction",
+        "domain": "87",
+        "description": "Incorporating recycled materials in building projects to reduce environmental impact and promote sustainability.",
+        "keywords": ["Recycled Materials", "Sustainable Construction", "Waste Reduction", "Green Building"]
+    },
+    {
+        "id": 6303,
+        "title": "BIM-Based Construction Management",
+        "domain": "87",
+        "description": "Using Building Information Modeling (BIM) to improve planning, design, and management of construction projects.",
+        "keywords": ["BIM", "Construction Management", "Project Planning", "Digital Construction"]
+    },
+    {
+        "id": 6304,
+        "title": "Green Roof and Vertical Garden Technologies",
+        "domain": "87",
+        "description": "Implementing green roofs and vertical gardens to improve building insulation, air quality, and aesthetic value.",
+        "keywords": ["Green Roofs", "Vertical Gardens", "Sustainable Design", "Urban Landscaping"]
+    },
+    {
+        "id": 6305,
+        "title": "Structural Health Monitoring Using IoT",
+        "domain": "87",
+        "description": "Developing IoT-based systems to monitor the integrity of structures in real-time, preventing failures and maintenance costs.",
+        "keywords": ["Structural Health Monitoring", "IoT", "Construction Safety", "Predictive Maintenance"]
+    },
+    {
+        "id": 6306,
+        "title": "Energy-Efficient Building Materials",
+        "domain": "87",
+        "description": "Researching and developing building materials that reduce energy consumption and enhance thermal performance.",
+        "keywords": ["Energy Efficiency", "Building Materials", "Sustainable Construction", "Thermal Insulation"]
+    },
+    {
+        "id": 6307,
+        "title": "Prefabricated Modular Construction",
+        "domain": "87",
+        "description": "Designing modular prefabricated building components to speed up construction, reduce waste, and improve quality control.",
+        "keywords": ["Modular Construction", "Prefabrication", "Sustainable Building", "Efficiency"]
+    },
+    {
+        "id": 6308,
+        "title": "Automation in Concrete Pouring and Finishing",
+        "domain": "87",
+        "description": "Implementing robotic and automated systems to pour and finish concrete with precision and reduced labor.",
+        "keywords": ["Automation", "Concrete Construction", "Robotics", "Construction Efficiency"]
+    },
+    {
+        "id": 6309,
+        "title": "Advanced Waterproofing Technologies",
+        "domain": "87",
+        "description": "Developing innovative waterproofing solutions for buildings to prevent water damage and increase durability.",
+        "keywords": ["Waterproofing", "Construction Materials", "Building Durability", "Innovation"]
+    },
+    {
+        "id": 6310,
+        "title": "Integration of Renewable Energy in Buildings",
+        "domain": "87",
+        "description": "Designing buildings with integrated renewable energy sources such as solar panels and wind turbines for self-sufficiency.",
+        "keywords": ["Renewable Energy", "Sustainable Buildings", "Solar Energy", "Green Construction"]
+    },
+    {
+        "id": 6311,
+        "title": "Construction Site Safety Monitoring Using Drones",
+        "domain": "87",
+        "description": "Using drones to monitor construction sites for safety compliance and hazard detection in real-time.",
+        "keywords": ["Construction Safety", "Drones", "Site Monitoring", "Hazard Detection"]
+    },
+    {
+        "id": 6312,
+        "title": "Use of Nanomaterials in Concrete",
+        "domain": "87",
+        "description": "Incorporating nanomaterials into concrete to enhance strength, durability, and resistance to environmental damage.",
+        "keywords": ["Nanomaterials", "Concrete", "Material Strength", "Advanced Construction"]
+    },
+    {
+        "id": 6313,
+        "title": "Smart Lighting Systems for Buildings",
+        "domain": "87",
+        "description": "Implementing IoT-based smart lighting to optimize energy consumption and improve indoor comfort.",
+        "keywords": ["Smart Lighting", "IoT", "Energy Efficiency", "Building Automation"]
+    },
+    {
+        "id": 6314,
+        "title": "Seismic-Resistant Building Designs",
+        "domain": "87",
+        "description": "Developing building designs and materials that can withstand earthquakes and minimize structural damage.",
+        "keywords": ["Seismic Resistance", "Earthquake Safety", "Structural Design", "Construction Technology"]
+    },
+    {
+        "id": 6315,
+        "title": "AI-Based Construction Project Scheduling",
+        "domain": "87",
+        "description": "Applying AI algorithms to optimize construction project scheduling, resource allocation, and timeline predictions.",
+        "keywords": ["AI", "Project Scheduling", "Construction Management", "Optimization"]
+    },
+    {
+        "id": 6316,
+        "title": "Use of Lightweight Composite Materials",
+        "domain": "87",
+        "description": "Developing lightweight composite materials for construction to reduce structural load and material usage.",
+        "keywords": ["Composite Materials", "Lightweight Construction", "Sustainable Building", "Material Innovation"]
+    },
+    {
+        "id": 6317,
+        "title": "Construction Waste Reduction through Smart Planning",
+        "domain": "87",
+        "description": "Implementing planning strategies and technologies to minimize construction waste and promote recycling.",
+        "keywords": ["Waste Reduction", "Construction Planning", "Sustainability", "Recycling"]
+    },
+    {
+        "id": 6318,
+        "title": "Augmented Reality for Construction Training",
+        "domain": "87",
+        "description": "Using AR technologies to train construction workers and improve on-site efficiency and safety.",
+        "keywords": ["Augmented Reality", "Construction Training", "Workplace Safety", "Technology"]
+    },
+    {
+        "id": 6319,
+        "title": "Energy Monitoring and Management in Buildings",
+        "domain": "87",
+        "description": "Developing systems to monitor energy consumption in real-time and optimize building energy use.",
+        "keywords": ["Energy Monitoring", "Building Management", "IoT", "Sustainability"]
+    },
+    {
+        "id": 6320,
+        "title": "Use of Self-Healing Concrete",
+        "domain": "87",
+        "description": "Incorporating self-healing materials in concrete to automatically repair cracks and extend structural lifespan.",
+        "keywords": ["Self-Healing Concrete", "Material Innovation", "Durability", "Construction Technology"]
+    },
+    {
+        "id": 6321,
+        "title": "Green Building Certifications and Compliance Systems",
+        "domain": "87",
+        "description": "Developing digital tools to ensure buildings meet green certification standards and sustainability benchmarks.",
+        "keywords": ["Green Building", "Sustainability", "Certification", "Compliance Systems"]
+    },
+    {
+        "id": 6322,
+        "title": "Robotic Bricklaying and Masonry",
+        "domain": "87",
+        "description": "Implementing robotic systems for bricklaying to increase construction speed and precision while reducing labor dependency.",
+        "keywords": ["Robotics", "Bricklaying", "Construction Automation", "Efficiency"]
+    },
+    {
+        "id": 6323,
+        "title": "Use of Recycled Aggregates in Concrete",
+        "domain": "87",
+        "description": "Incorporating recycled aggregates in concrete production to reduce natural resource consumption and environmental impact.",
+        "keywords": ["Recycled Aggregates", "Concrete", "Sustainable Construction", "Waste Management"]
+    },
+    {
+        "id": 6324,
+        "title": "IoT-Based Water Management in Buildings",
+        "domain": "87",
+        "description": "Implementing smart systems to monitor and optimize water usage in residential and commercial buildings.",
+        "keywords": ["IoT", "Water Management", "Smart Buildings", "Sustainability"]
+    },
+    {
+        "id": 6325,
+        "title": "Thermal Insulation Technologies for Energy Efficiency",
+        "domain": "87",
+        "description": "Developing advanced insulation materials and systems to minimize heat loss and improve building energy efficiency.",
+        "keywords": ["Thermal Insulation", "Energy Efficiency", "Construction Materials", "Sustainability"]
+    },
+    {
+        "id": 6326,
+        "title": "Smart HVAC Control Systems",
+        "domain": "87",
+        "description": "Designing intelligent heating, ventilation, and air conditioning systems for optimized comfort and energy savings.",
+        "keywords": ["Smart HVAC", "Energy Efficiency", "Building Automation", "IoT"]
+    },
+    {
+        "id": 6327,
+        "title": "Use of Prefabricated Steel Structures",
+        "domain": "87",
+        "description": "Implementing prefabricated steel components to accelerate construction timelines and ensure structural precision.",
+        "keywords": ["Steel Structures", "Prefabrication", "Construction Efficiency", "Sustainable Materials"]
+    },
+    {
+        "id": 6328,
+        "title": "Integration of Solar Panels in Building Design",
+        "domain": "87",
+        "description": "Incorporating solar energy systems into building designs for renewable energy generation and reduced carbon footprint.",
+        "keywords": ["Solar Energy", "Renewable Energy", "Building Design", "Sustainability"]
+    },
+    {
+        "id": 6329,
+        "title": "Real-Time Construction Progress Monitoring",
+        "domain": "87",
+        "description": "Using sensors and digital tools to track construction progress and optimize project management in real-time.",
+        "keywords": ["Construction Monitoring", "IoT", "Project Management", "Digital Construction"]
+    },
+    {
+        "id": 6330,
+        "title": "Advanced Fire-Resistant Building Materials",
+        "domain": "87",
+        "description": "Developing materials and coatings to enhance fire resistance in buildings and improve safety standards.",
+        "keywords": ["Fire-Resistant Materials", "Safety", "Construction Materials", "Innovation"]
+    },
+    {
+        "id": 6331,
+        "title": "Automation in Road and Pavement Construction",
+        "domain": "87",
+        "description": "Implementing automated machinery and robotics for road and pavement construction to improve efficiency and quality.",
+        "keywords": ["Road Construction", "Automation", "Robotics", "BuildTech"]
+    },
+    {
+        "id": 6332,
+        "title": "Use of Phase-Change Materials for Thermal Regulation",
+        "domain": "87",
+        "description": "Incorporating phase-change materials into building envelopes to regulate indoor temperatures and reduce energy use.",
+        "keywords": ["Phase-Change Materials", "Thermal Regulation", "Energy Efficiency", "Construction Materials"]
+    },
+    {
+        "id": 6333,
+        "title": "Construction of Earthquake-Resistant Bridges",
+        "domain": "87",
+        "description": "Designing and constructing bridges with advanced materials and techniques to withstand seismic forces.",
+        "keywords": ["Bridge Construction", "Seismic Design", "Structural Engineering", "Safety"]
+    },
+    {
+        "id": 6334,
+        "title": "Digital Twin Technology for Buildings",
+        "domain": "87",
+        "description": "Creating digital replicas of buildings to simulate performance, monitor systems, and optimize maintenance.",
+        "keywords": ["Digital Twin", "Building Monitoring", "Simulation", "IoT"]
+    },
+    {
+        "id": 6335,
+        "title": "Smart Elevator Systems for Energy Efficiency",
+        "domain": "87",
+        "description": "Designing elevators with intelligent control systems to reduce energy consumption and enhance operational efficiency.",
+        "keywords": ["Smart Elevators", "Energy Efficiency", "IoT", "Building Automation"]
+    },
+    {
+        "id": 6336,
+        "title": "Integration of Green Spaces in Urban Construction",
+        "domain": "87",
+        "description": "Designing buildings and urban areas with integrated green spaces to improve air quality and occupant well-being.",
+        "keywords": ["Green Spaces", "Urban Design", "Sustainability", "Construction Technology"]
+    },
+    {
+        "id": 6337,
+        "title": "Use of High-Performance Concrete in Skyscrapers",
+        "domain": "87",
+        "description": "Implementing high-performance concrete in tall structures to enhance strength, durability, and safety.",
+        "keywords": ["High-Performance Concrete", "Skyscrapers", "Structural Engineering", "BuildTech"]
+    },
+    {
+        "id": 6338,
+        "title": "Robotic Painting and Coating in Construction",
+        "domain": "87",
+        "description": "Using robotic systems for painting and coating surfaces in construction projects to improve precision and reduce labor costs.",
+        "keywords": ["Robotics", "Painting", "Construction Automation", "Efficiency"]
+    },
+    // domain 88
     
 
 
