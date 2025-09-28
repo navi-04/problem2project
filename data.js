@@ -44302,8 +44302,731 @@ const PROBLEMS_DATA = {
         "description": "Develop smart fabrics that track children’s location and health metrics in real time.",
         "keywords": ["Child Safety", "Smart Fabrics", "E-Textiles", "Wearable Tech"]
     },
+    {
+        "id": 6421,
+        "title": "Smart Fabrics for Climate Adaptation",
+        "domain": "89",
+        "description": "Textiles that adapt to extreme hot or cold environments, helping users maintain comfort.",
+        "keywords": ["Climate Adaptation", "Smart Fabrics", "Adaptive Clothing", "Wearable Tech"]
+    },
+    {
+        "id": 6422,
+        "title": "Electrochromic Curtains",
+        "domain": "89",
+        "description": "Home textiles that change transparency or color to regulate light and privacy.",
+        "keywords": ["Smart Curtains", "Electrochromic", "Home Textiles", "Energy Saving"]
+    },
+    {
+        "id": 6423,
+        "title": "Medical Fabrics for Glucose Monitoring",
+        "domain": "89",
+        "description": "Clothing that can measure glucose levels non-invasively for diabetic patients.",
+        "keywords": ["Medical Textiles", "Glucose Monitoring", "Smart Fabrics", "Healthcare"]
+    },
+    {
+        "id": 6424,
+        "title": "AI-Powered Fashion Fabrics",
+        "domain": "89",
+        "description": "Fabrics that adapt designs and styles using AI-driven personalization.",
+        "keywords": ["AI", "Fashion Tech", "Smart Fabrics", "Personalization"]
+    },
+    {
+        "id": 6425,
+        "title": "Textiles with Pollution Sensors",
+        "domain": "89",
+        "description": "Smart fabrics that measure air quality and alert users to high pollution levels.",
+        "keywords": ["Pollution Monitoring", "Smart Fabrics", "Environmental Tech", "IoT"]
+    },
+    {
+        "id": 6426,
+        "title": "Smart Fabrics for Space Suits",
+        "domain": "89",
+        "description": "Advanced textiles for astronauts with thermal control, oxygen monitoring, and flexibility.",
+        "keywords": ["Space Tech", "Smart Fabrics", "Space Suits", "Aerospace"]
+    },
+    {
+        "id": 6427,
+        "title": "Sound-Absorbing Smart Fabrics",
+        "domain": "89",
+        "description": "Develop fabrics that can absorb or dampen noise for better acoustics in homes and offices.",
+        "keywords": ["Acoustic Textiles", "Smart Fabrics", "Noise Reduction", "Interior Design"]
+    },
+    {
+        "id": 6428,
+        "title": "Smart Fabrics with GPS Integration",
+        "domain": "89",
+        "description": "Clothing with embedded GPS to track location for outdoor adventurers and safety.",
+        "keywords": ["GPS", "Smart Clothing", "E-Textiles", "Safety Tech"]
+    },
+    {
+        "id": 6429,
+        "title": "Hydration-Sensing Smart Fabrics",
+        "domain": "89",
+        "description": "Sportswear textiles that track hydration levels and alert athletes to drink water.",
+        "keywords": ["Hydration", "Sportswear", "Smart Fabrics", "Health Monitoring"]
+    },
+    {
+        "id": 6430,
+        "title": "Recyclable Smart Clothing",
+        "domain": "89",
+        "description": "Sustainable e-textiles designed for full recyclability without losing functionality.",
+        "keywords": ["Recyclable", "Sustainable", "Smart Clothing", "Eco-Friendly"]
+    },
+    {
+        "id": 6431,
+        "title": "Smart Textile Exoskeletons",
+        "domain": "89",
+        "description": "Lightweight fabric-based exoskeletons to assist mobility for rehabilitation patients.",
+        "keywords": ["Exoskeletons", "Smart Fabrics", "Rehabilitation", "Wearable Tech"]
+    },
+    {
+        "id": 6432,
+        "title": "Smart Baby Clothing",
+        "domain": "89",
+        "description": "Infant clothes with sensors for temperature, breathing, and sleep monitoring.",
+        "keywords": ["Smart Clothing", "Baby Tech", "Healthcare", "Parental Monitoring"]
+    },
+    {
+        "id": 6433,
+        "title": "Textiles with Built-in Charging",
+        "domain": "89",
+        "description": "Smart fabrics with wireless charging capabilities for mobile devices.",
+        "keywords": ["Wireless Charging", "Smart Fabrics", "E-Textiles", "Energy Tech"]
+    },
+    {
+        "id": 6434,
+        "title": "Electrotherapy Smart Fabrics",
+        "domain": "89",
+        "description": "Clothing that delivers electrotherapy for muscle recovery and pain relief.",
+        "keywords": ["Electrotherapy", "Smart Fabrics", "Health Tech", "Physiotherapy"]
+    },
+    {
+        "id": 6435,
+        "title": "Water-Harvesting Fabrics",
+        "domain": "89",
+        "description": "Smart textiles that can collect and filter water from humidity for survival uses.",
+        "keywords": ["Water Harvesting", "Smart Fabrics", "Survival Tech", "Eco-Innovation"]
+    },
+    {
+        "id": 6436,
+        "title": "Smart Fabrics with Voice Control",
+        "domain": "89",
+        "description": "E-textiles that respond to voice commands for wearable device management.",
+        "keywords": ["Voice Control", "Smart Fabrics", "IoT", "Wearable Tech"]
+    },
+    {
+        "id": 6437,
+        "title": "Therapeutic Aromatherapy Fabrics",
+        "domain": "89",
+        "description": "Fabrics infused with essential oils that release scents for stress relief.",
+        "keywords": ["Aromatherapy", "Smart Fabrics", "Relaxation", "Wellness Tech"]
+    },
+    {
+        "id": 6438,
+        "title": "Blockchain-Enabled Textile Tracking",
+        "domain": "89",
+        "description": "Using blockchain to authenticate, track, and ensure transparency in smart textile supply chains.",
+        "keywords": ["Blockchain", "Smart Fabrics", "Supply Chain", "Transparency"]
+    },
+    {
+        "id": 6439,
+        "title": "AI-Driven Smart Fashion Recommendations",
+        "domain": "89",
+        "description": "Smart clothing that adapts designs based on AI fashion trend analysis.",
+        "keywords": ["AI", "Smart Fashion", "Smart Fabrics", "Wearable Tech"]
+    },
+    {
+        "id": 6440,
+        "title": "Smart Fabrics for Gaming",
+        "domain": "89",
+        "description": "Wearable textiles with haptic feedback for immersive gaming experiences.",
+        "keywords": ["Gaming", "Haptics", "Smart Fabrics", "Immersive Tech"]
+    },
+    {
+        "id": 6441,
+        "title": "Smart Fabrics for Animal Wearables",
+        "domain": "89",
+        "description": "Pet-friendly textiles that monitor health, activity, and location of animals.",
+        "keywords": ["Animal Wearables", "Smart Fabrics", "Pet Tech", "IoT"]
+    },
+    {
+        "id": 6442,
+        "title": "Smart Fabrics for Disaster Relief",
+        "domain": "89",
+        "description": "Clothing with sensors to detect survivors’ vital signs in disaster areas.",
+        "keywords": ["Disaster Relief", "Smart Clothing", "Rescue Tech", "Wearables"]
+    },
+    {
+        "id": 6443,
+        "title": "Smart Yoga Wear",
+        "domain": "89",
+        "description": "Clothing that tracks body alignment and posture during yoga practices.",
+        "keywords": ["Yoga", "Smart Clothing", "Health Tech", "Posture Monitoring"]
+    },
+    {
+        "id": 6444,
+        "title": "Thermoelectric Smart Fabrics",
+        "domain": "89",
+        "description": "Textiles that generate power using body heat for small electronics.",
+        "keywords": ["Thermoelectric", "Energy Harvesting", "Smart Fabrics", "Wearable Power"]
+    },
+    {
+        "id": 6445,
+        "title": "Smart Fabrics for Virtual Fitness",
+        "domain": "89",
+        "description": "Wearable textiles that provide real-time feedback during online fitness sessions.",
+        "keywords": ["Fitness Tech", "Smart Fabrics", "Virtual Training", "Wearable Sensors"]
+    },
+    {
+        "id": 6446,
+        "title": "Allergen-Detecting Smart Fabrics",
+        "domain": "89",
+        "description": "Clothing that senses allergens like pollen or dust and warns the wearer.",
+        "keywords": ["Allergen Detection", "Smart Fabrics", "Health Tech", "Wearable Sensors"]
+    },
+    {
+        "id": 6447,
+        "title": "Smart Fabrics with Emergency Alert Systems",
+        "domain": "89",
+        "description": "Clothing with SOS buttons and GPS tracking for emergencies.",
+        "keywords": ["Emergency Alert", "Smart Fabrics", "Safety Tech", "Wearable Tech"]
+    },
+    {
+        "id": 6448,
+        "title": "Smart Fabrics for Rehabilitation Therapy",
+        "domain": "89",
+        "description": "Textiles that assist patients in tracking progress during physical therapy.",
+        "keywords": ["Rehabilitation", "Smart Fabrics", "Health Monitoring", "Wearables"]
+    },
+    {
+        "id": 6449,
+        "title": "Smart Fabrics with Biometric Authentication",
+        "domain": "89",
+        "description": "E-textiles that enable secure biometric identification through clothing.",
+        "keywords": ["Biometrics", "Authentication", "Smart Fabrics", "Wearable Security"]
+    },
+    {
+        "id": 6450,
+        "title": "Smart Fabrics for Augmented Reality",
+        "domain": "89",
+        "description": "Wearable textiles integrated with AR systems for immersive experiences.",
+        "keywords": ["Augmented Reality", "Smart Fabrics", "Immersive Tech", "Wearables"]
+    },
+    {
+        "id": 6451,
+        "title": "Smart Sports Compression Wear",
+        "domain": "89",
+        "description": "Fabrics with sensors for compression and circulation monitoring in athletes.",
+        "keywords": ["Compression Wear", "Smart Fabrics", "Sports Tech", "Wearable Sensors"]
+    },
+    {
+        "id": 6452,
+        "title": "Smart Fabrics with Environmental Adaptation",
+        "domain": "89",
+        "description": "Clothing that automatically adjusts breathability and insulation to weather changes.",
+        "keywords": ["Adaptive Textiles", "Smart Fabrics", "Weather Tech", "Wearables"]
+    },
+    {
+        "id": 6453,
+        "title": "Smart Fabrics for Cycling Safety",
+        "domain": "89",
+        "description": "Cycling wear with embedded lights and sensors for visibility and performance tracking.",
+        "keywords": ["Cycling", "Smart Fabrics", "Sports Tech", "Safety"]
+    },
+    {
+        "id": 6454,
+        "title": "Smart Fabrics for Remote Healthcare",
+        "domain": "89",
+        "description": "Clothing that streams patient health data to doctors for telemedicine.",
+        "keywords": ["Telemedicine", "Smart Fabrics", "Healthcare", "Remote Monitoring"]
+    },
+    {
+        "id": 6455,
+        "title": "Smart Fabrics for Emotional Monitoring",
+        "domain": "89",
+        "description": "Textiles that monitor stress levels and emotions via physiological signals.",
+        "keywords": ["Emotional Monitoring", "Smart Fabrics", "Mental Health", "Wearables"]
+    },
+    {
+        "id": 6456,
+        "title": "Solar-Powered Smart Backpacks",
+        "domain": "89",
+        "description": "Smart textile backpacks with solar panels for device charging on the go.",
+        "keywords": ["Solar Power", "Smart Fabrics", "Backpacks", "Wearable Energy"]
+    },
+    {
+        "id": 6457,
+        "title": "Smart Fabrics for Firefighters",
+        "domain": "89",
+        "description": "Protective uniforms with embedded heat sensors and communication systems.",
+        "keywords": ["Fire Safety", "Smart Uniforms", "Protective Textiles", "Emergency Response"]
+    },
+    {
+        "id": 6458,
+        "title": "Biometric Smart Socks",
+        "domain": "89",
+        "description": "Smart socks that measure gait, pressure, and health indicators for athletes and patients.",
+        "keywords": ["Smart Socks", "Biometrics", "Smart Fabrics", "Wearable Sensors"]
+    },
+    {
+        "id": 6459,
+        "title": "Smart Fabrics for Marine Environments",
+        "domain": "89",
+        "description": "Water-resistant fabrics that monitor body conditions in marine environments.",
+        "keywords": ["Marine Tech", "Smart Fabrics", "Waterproof", "Wearable Tech"]
+    },
+    {
+        "id": 6460,
+        "title": "Smart Fabrics with AI Health Assistants",
+        "domain": "89",
+        "description": "Clothing that integrates AI assistants for continuous health insights.",
+        "keywords": ["AI", "Smart Fabrics", "Healthcare", "Wearables"]
+    },
+    {
+        "id": 6461,
+        "title": "Fashionable Smart Fabrics for Everyday Wear",
+        "domain": "89",
+        "description": "Blending advanced textile technology with style for mass-market fashion.",
+        "keywords": ["Fashion", "Smart Fabrics", "Everyday Wear", "Wearable Tech"]
+    },
+    {
+        "id": 6462,
+        "title": "Smart Fabrics for Emergency Responders",
+        "domain": "89",
+        "description": "Textiles with GPS, heart rate, and stress monitoring for paramedics and police.",
+        "keywords": ["Emergency Response", "Smart Fabrics", "First Responders", "Safety Tech"]
+    },
+    {
+        "id": 6463,
+        "title": "Smart Fabrics with Flexible Batteries",
+        "domain": "89",
+        "description": "Develop fabrics embedded with bendable batteries for powering wearables.",
+        "keywords": ["Flexible Batteries", "Smart Fabrics", "Energy Storage", "Wearables"]
+    },
+    {
+        "id": 6464,
+        "title": "Smart Fabrics for Robotics Integration",
+        "domain": "89",
+        "description": "Clothing textiles that interact with robotic exoskeletons for human-robot synergy.",
+        "keywords": ["Robotics", "Smart Fabrics", "Exoskeletons", "Wearable Tech"]
+    },
+    {
+        "id": 6465,
+        "title": "Smart Fabrics with Emotional Expression",
+        "domain": "89",
+        "description": "Fabrics that display patterns or colors representing the wearer's mood in real-time.",
+        "keywords": ["Emotional Tech", "Smart Fabrics", "Mood Display", "Wearable Innovation"]
+    },
     // domain 90
+    {
+        "id": 6466,
+        "title": "Biodegradable Packaging Films",
+        "domain": "90",
+        "description": "Development of compostable and biodegradable films to replace single-use plastic packaging.",
+        "keywords": ["Biodegradable", "Films", "Plastic Alternative", "Eco Packaging"]
+    },
+    {
+        "id": 6467,
+        "title": "Edible Packaging Solutions",
+        "domain": "90",
+        "description": "Creating edible packaging materials for food products to reduce waste generation.",
+        "keywords": ["Edible Packaging", "Food Safety", "Zero Waste", "Sustainability"]
+    },
+    {
+        "id": 6468,
+        "title": "Seaweed-Based Packaging",
+        "domain": "90",
+        "description": "Using seaweed extracts to develop natural, biodegradable packaging for food and beverages.",
+        "keywords": ["Seaweed", "Natural Materials", "Food Packaging", "Sustainable Innovation"]
+    },
+    {
+        "id": 6469,
+        "title": "Plant Fiber Packaging",
+        "domain": "90",
+        "description": "Innovative use of agricultural residues and plant fibers to produce durable packaging products.",
+        "keywords": ["Plant Fiber", "Agricultural Waste", "Biodegradable", "Circular Economy"]
+    },
+    {
+        "id": 6470,
+        "title": "Smart Recyclable Packaging",
+        "domain": "90",
+        "description": "Integration of smart tags into recyclable packaging for better waste sorting and recycling efficiency.",
+        "keywords": ["Smart Packaging", "Recycling", "Waste Sorting", "IoT"]
+    },
+    {
+        "id": 6471,
+        "title": "Water-Soluble Packaging Films",
+        "domain": "90",
+        "description": "Developing packaging films that dissolve in water, reducing environmental impact.",
+        "keywords": ["Water-Soluble", "Packaging Films", "Eco-Friendly", "Innovation"]
+    },
+    {
+        "id": 6472,
+        "title": "Reusable Packaging Platforms",
+        "domain": "90",
+        "description": "Creating systems for reusable packaging to replace single-use items in e-commerce and retail.",
+        "keywords": ["Reusable", "Circular Economy", "E-Commerce", "Sustainable Packaging"]
+    },
+    {
+        "id": 6473,
+        "title": "Bio-Based Plastic Alternatives",
+        "domain": "90",
+        "description": "Research on plastics derived from renewable resources like corn starch and sugarcane for sustainable packaging.",
+        "keywords": ["Bio-Based", "Plastic Alternative", "Renewable", "Sustainable Materials"]
+    },
+    {
+        "id": 6474,
+        "title": "Minimalist Packaging Design",
+        "domain": "90",
+        "description": "Encouraging design approaches that reduce excess material use in packaging without compromising functionality.",
+        "keywords": ["Minimalism", "Packaging Design", "Material Reduction", "Eco-Friendly"]
+    },
+    {
+        "id": 6475,
+        "title": "Compostable Food Containers",
+        "domain": "90",
+        "description": "Developing food-grade compostable containers to replace Styrofoam and plastics in the food industry.",
+        "keywords": ["Compostable", "Food Containers", "Eco Packaging", "Sustainability"]
+    },
+    {
+        "id": 6476,
+        "title": "Algae-Based Packaging",
+        "domain": "90",
+        "description": "Exploring algae as a sustainable raw material for biodegradable packaging production.",
+        "keywords": ["Algae", "Biodegradable", "Eco Materials", "Innovation"]
+    },
+    {
+        "id": 6477,
+        "title": "Recyclable Multi-Layer Packaging",
+        "domain": "90",
+        "description": "Engineering recyclable multi-layer packaging solutions that balance barrier properties with sustainability.",
+        "keywords": ["Recyclable", "Multi-Layer", "Barrier Properties", "Sustainable Packaging"]
+    },
+    {
+        "id": 6478,
+        "title": "Packaging Waste-to-Energy Systems",
+        "domain": "90",
+        "description": "Developing systems that convert packaging waste into renewable energy sources.",
+        "keywords": ["Waste-to-Energy", "Recycling", "Renewable Energy", "Sustainability"]
+    },
+    {
+        "id": 6479,
+        "title": "Smart Compost Tracking Packaging",
+        "domain": "90",
+        "description": "Designing packaging embedded with sensors that track decomposition in composting facilities.",
+        "keywords": ["Smart Packaging", "Compost Tracking", "Sensors", "IoT"]
+    },
+    {
+        "id": 6480,
+        "title": "Packaging with Natural Dyes",
+        "domain": "90",
+        "description": "Using natural plant-based dyes in packaging to reduce chemical pollution.",
+        "keywords": ["Natural Dyes", "Eco-Friendly", "Sustainable Materials", "Packaging Design"]
+    },
+    {
+        "id": 6481,
+        "title": "Recyclable E-Commerce Packaging",
+        "domain": "90",
+        "description": "Eco-friendly packaging designs tailored for online shopping deliveries to reduce waste.",
+        "keywords": ["E-Commerce", "Recyclable", "Sustainability", "Packaging Innovation"]
+    },
+    {
+        "id": 6482,
+        "title": "Paper-Based Food Wrappers",
+        "domain": "90",
+        "description": "Replacing plastic food wrappers with recyclable and compostable paper-based alternatives.",
+        "keywords": ["Paper-Based", "Food Wrappers", "Recyclable", "Compostable"]
+    },
+    {
+        "id": 6483,
+        "title": "Mushroom Packaging Materials",
+        "domain": "90",
+        "description": "Using mycelium-based materials as sustainable packaging alternatives for fragile goods.",
+        "keywords": ["Mushroom Packaging", "Mycelium", "Biodegradable", "Eco-Friendly"]
+    },
+    {
+        "id": 6484,
+        "title": "Nanotechnology in Sustainable Packaging",
+        "domain": "90",
+        "description": "Applying nanotechnology to create lighter, stronger, and recyclable packaging materials.",
+        "keywords": ["Nanotechnology", "Lightweight", "Recyclable", "Sustainability"]
+    },
+    {
+        "id": 6485,
+        "title": "Returnable Glass Packaging Systems",
+        "domain": "90",
+        "description": "Innovating returnable glass bottle systems for beverages to promote reuse culture.",
+        "keywords": ["Glass Packaging", "Returnable", "Reuse", "Sustainable System"]
+    },
+    {
+        "id": 6486,
+        "title": "Compostable Cutlery Packaging",
+        "domain": "90",
+        "description": "Designing compostable packaging for single-use cutlery items in food services.",
+        "keywords": ["Compostable", "Cutlery", "Food Service", "Eco Packaging"]
+    },
+    {
+        "id": 6487,
+        "title": "Recycled Plastic Packaging Innovation",
+        "domain": "90",
+        "description": "Advanced techniques to enhance the quality and strength of packaging made from recycled plastics.",
+        "keywords": ["Recycled Plastics", "Innovation", "Sustainability", "Packaging"]
+    },
+    {
+        "id": 6488,
+        "title": "Packaging for Cold Chain Logistics",
+        "domain": "90",
+        "description": "Developing eco-friendly insulated packaging for perishable goods in cold chain logistics.",
+        "keywords": ["Cold Chain", "Insulated Packaging", "Sustainability", "Logistics"]
+    },
+    {
+        "id": 6489,
+        "title": "Self-Healing Packaging Materials",
+        "domain": "90",
+        "description": "Exploring packaging materials that can self-heal minor damage, extending usability.",
+        "keywords": ["Self-Healing", "Material Innovation", "Durability", "Sustainable Packaging"]
+    },
+    {
+        "id": 6490,
+        "title": "Minimal Carbon Footprint Packaging",
+        "domain": "90",
+        "description": "Optimizing packaging processes and materials to reduce carbon emissions in production.",
+        "keywords": ["Carbon Footprint", "Optimization", "Eco Packaging", "Sustainability"]
+    },
+    {
+        "id": 6491,
+        "title": "Smart Refill Stations with Packaging",
+        "domain": "90",
+        "description": "Packaging designed for refill stations to reduce reliance on single-use bottles and containers.",
+        "keywords": ["Refill Stations", "Reusable Packaging", "Circular Economy", "Eco Design"]
+    },
+    {
+        "id": 6492,
+        "title": "Paper Pulp Packaging Innovation",
+        "domain": "90",
+        "description": "Advancing molded paper pulp packaging for electronics and consumer goods.",
+        "keywords": ["Paper Pulp", "Electronics Packaging", "Eco-Friendly", "Innovation"]
+    },
+    {
+        "id": 6493,
+        "title": "Smart Expiry Tracking Packaging",
+        "domain": "90",
+        "description": "Embedding sensors in packaging to monitor product freshness and reduce food waste.",
+        "keywords": ["Smart Packaging", "Expiry Tracking", "Food Safety", "IoT"]
+    },
+    {
+        "id": 6494,
+        "title": "Recyclable Beverage Cartons",
+        "domain": "90",
+        "description": "Designing fully recyclable cartons for juices and milk, replacing plastic layers.",
+        "keywords": ["Recyclable", "Cartons", "Beverage Packaging", "Sustainability"]
+    },
+    {
+        "id": 6495,
+        "title": "Upcycled Packaging Materials",
+        "domain": "90",
+        "description": "Utilizing waste streams such as textile scraps and agricultural by-products to make packaging.",
+        "keywords": ["Upcycling", "Waste Utilization", "Sustainable Materials", "Packaging"]
+    },
+    {
+        "id": 6496,
+        "title": "Compostable Coffee Pods Packaging",
+        "domain": "90",
+        "description": "Developing compostable packaging for single-use coffee pods to eliminate plastic waste.",
+        "keywords": ["Compostable", "Coffee Pods", "Sustainable Packaging", "Eco-Friendly"]
+    },
+    {
+        "id": 6497,
+        "title": "Recyclable Cosmetic Packaging",
+        "domain": "90",
+        "description": "Innovative recyclable designs for cosmetic packaging without compromising aesthetics.",
+        "keywords": ["Recyclable", "Cosmetic Packaging", "Sustainability", "Eco Innovation"]
+    },
+    {
+        "id": 6498,
+        "title": "Packaging for Pharmaceutical Sustainability",
+        "domain": "90",
+        "description": "Eco-friendly packaging solutions for pharmaceuticals ensuring safety and reduced waste.",
+        "keywords": ["Pharmaceuticals", "Sustainability", "Eco Packaging", "Innovation"]
+    },
+    {
+        "id": 6499,
+        "title": "Return-and-Reward Packaging Programs",
+        "domain": "90",
+        "description": "Developing packaging with return incentives to encourage consumer participation in recycling.",
+        "keywords": ["Return Programs", "Consumer Incentives", "Recycling", "Circular Economy"]
+    },
+    {
+        "id": 6500,
+        "title": "Hydrophobic Paper Packaging",
+        "domain": "90",
+        "description": "Developing water-resistant paper-based packaging as a replacement for plastic-coated paper.",
+        "keywords": ["Hydrophobic Paper", "Water-Resistant", "Eco-Friendly", "Packaging"]
+    },
+    {
+        "id": 6501,
+        "title": "Plant-Based Ink Packaging",
+        "domain": "90",
+        "description": "Using plant-based, non-toxic inks in packaging to reduce chemical pollution.",
+        "keywords": ["Plant-Based Ink", "Non-Toxic", "Eco Packaging", "Sustainable Printing"]
+    },
+    {
+        "id": 6502,
+        "title": "Circular Economy Packaging Platforms",
+        "domain": "90",
+        "description": "Digital platforms that manage and optimize packaging within circular economy frameworks.",
+        "keywords": ["Circular Economy", "Digital Platforms", "Sustainable Packaging", "Innovation"]
+    },
+    {
+        "id": 6503,
+        "title": "Bioplastic Packaging for Frozen Foods",
+        "domain": "90",
+        "description": "Innovating bioplastic materials for frozen food packaging that remain durable at low temperatures.",
+        "keywords": ["Bioplastic", "Frozen Food", "Durability", "Eco-Friendly"]
+    },
+    {
+        "id": 6504,
+        "title": "Smart Recycling Incentive Packaging",
+        "domain": "90",
+        "description": "Packaging that integrates QR codes or NFC tags to reward consumers for recycling actions.",
+        "keywords": ["Smart Packaging", "Incentives", "Recycling", "IoT"]
+    },
+    {
+        "id": 6505,
+        "title": "Hemp-Based Packaging Materials",
+        "domain": "90",
+        "description": "Exploring hemp fibers for biodegradable and strong packaging alternatives.",
+        "keywords": ["Hemp", "Biodegradable", "Eco-Friendly", "Sustainable Packaging"]
+    },
+    {
+        "id": 6506,
+        "title": "Reusable Food Delivery Packaging",
+        "domain": "90",
+        "description": "Developing washable and reusable containers for food delivery services.",
+        "keywords": ["Reusable Packaging", "Food Delivery", "Sustainability", "Eco Design"]
+    },
+    {
+        "id": 6507,
+        "title": "Aerogel-Based Insulating Packaging",
+        "domain": "90",
+        "description": "Using aerogel technology to create ultra-light, insulating, and recyclable packaging.",
+        "keywords": ["Aerogel", "Insulation", "Recyclable", "Innovation"]
+    },
+    {
+        "id": 6508,
+        "title": "Fully Compostable Beverage Cups",
+        "domain": "90",
+        "description": "Innovating beverage cups made entirely from compostable materials for food services.",
+        "keywords": ["Compostable", "Beverage Cups", "Eco Packaging", "Food Services"]
+    },
+    {
+        "id": 6509,
+        "title": "Antimicrobial Sustainable Packaging",
+        "domain": "90",
+        "description": "Integrating natural antimicrobial agents into sustainable packaging to extend shelf life.",
+        "keywords": ["Antimicrobial", "Shelf Life", "Food Safety", "Eco Packaging"]
+    },
+    {
+        "id": 6510,
+        "title": "Smart Packaging for Supply Chains",
+        "domain": "90",
+        "description": "Intelligent packaging with sensors to track product movement and optimize logistics sustainably.",
+        "keywords": ["Smart Packaging", "Supply Chain", "Logistics", "IoT"]
+    },
+    {
+        "id": 6511,
+        "title": "Cornstarch-Based Packaging",
+        "domain": "90",
+        "description": "Developing packaging from cornstarch that decomposes naturally without toxic residues.",
+        "keywords": ["Cornstarch", "Biodegradable", "Eco-Friendly", "Packaging"]
+    },
+    {
+        "id": 6512,
+        "title": "Recyclable Luxury Packaging",
+        "domain": "90",
+        "description": "Designing high-end recyclable packaging for luxury goods without losing premium aesthetics.",
+        "keywords": ["Luxury Packaging", "Recyclable", "Aesthetics", "Sustainable Materials"]
+    },
+    {
+        "id": 6513,
+        "title": "Eco-Friendly Packaging Adhesives",
+        "domain": "90",
+        "description": "Creating biodegradable adhesives for packaging that do not hinder recycling processes.",
+        "keywords": ["Eco-Friendly Adhesives", "Recyclable", "Biodegradable", "Packaging"]
+    },
+    {
+        "id": 6514,
+        "title": "Reusable Beverage Kegs Packaging",
+        "domain": "90",
+        "description": "Developing sustainable reusable keg systems for beverages, reducing packaging waste.",
+        "keywords": ["Reusable", "Beverage Kegs", "Circular Economy", "Sustainability"]
+    },
+    {
+        "id": 6515,
+        "title": "Plant-Based Film Packaging",
+        "domain": "90",
+        "description": "Using plant-based polymers to develop transparent and durable film packaging.",
+        "keywords": ["Plant-Based", "Polymers", "Films", "Sustainable Packaging"]
+    },
+    {
+        "id": 6516,
+        "title": "Compostable Snack Packaging",
+        "domain": "90",
+        "description": "Innovating compostable packaging solutions for chips, biscuits, and snack items.",
+        "keywords": ["Compostable", "Snacks", "Eco-Friendly", "Sustainable Packaging"]
+    },
+    {
+        "id": 6517,
+        "title": "Digital Twins for Packaging Lifecycle",
+        "domain": "90",
+        "description": "Using digital twin technology to simulate, test, and optimize packaging lifecycle impacts.",
+        "keywords": ["Digital Twin", "Lifecycle", "Sustainability", "Packaging"]
+    },
+    {
+        "id": 6518,
+        "title": "Solar-Powered Packaging Production",
+        "domain": "90",
+        "description": "Adopting solar-powered processes for eco-friendly packaging manufacturing.",
+        "keywords": ["Solar Energy", "Eco-Friendly Production", "Packaging", "Sustainability"]
+    },
+    {
+        "id": 6519,
+        "title": "Recyclable Foam Packaging",
+        "domain": "90",
+        "description": "Creating recyclable foam packaging for fragile goods as an alternative to polystyrene.",
+        "keywords": ["Recyclable Foam", "Fragile Goods", "Sustainable Packaging", "Eco Design"]
+    },
+    {
+        "id": 6520,
+        "title": "Packaging from Agricultural Waste",
+        "domain": "90",
+        "description": "Transforming agricultural residues like husks and shells into biodegradable packaging.",
+        "keywords": ["Agricultural Waste", "Biodegradable", "Circular Economy", "Packaging"]
+    },
+    {
+        "id": 6521,
+        "title": "Reusable Insulated Packaging",
+        "domain": "90",
+        "description": "Developing insulated packaging designed for multiple uses in food and pharmaceutical industries.",
+        "keywords": ["Reusable", "Insulation", "Sustainable Packaging", "Food & Pharma"]
+    },
+    {
+        "id": 6522,
+        "title": "Carbon-Negative Packaging Materials",
+        "domain": "90",
+        "description": "Innovating packaging materials that capture more CO2 during production than they emit.",
+        "keywords": ["Carbon-Negative", "Sustainability", "Eco Materials", "Packaging Innovation"]
+    },
+    {
+        "id": 6523,
+        "title": "Hybrid Packaging with Natural Composites",
+        "domain": "90",
+        "description": "Combining natural composites with recyclable materials to create durable and sustainable packaging.",
+        "keywords": ["Hybrid Materials", "Natural Composites", "Durable Packaging", "Sustainability"]
+    },
+    // domain 91
     
+
 
 
   
