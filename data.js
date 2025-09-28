@@ -45903,6 +45903,350 @@ const PROBLEMS_DATA = {
     "keywords": ["Emergency Response", "Safety Equipment", "Emergency Management"]
 },
 //domain-94
+{
+    "id": 6649,
+    "title": "AI-Powered Naval Navigation Assistant",
+    "domain": "94",
+    "description": "Develop an AI-driven system that helps naval vessels navigate efficiently by analyzing routes, weather data, and marine traffic to optimize safety and reduce delays.",
+    "keywords": ["Naval Systems", "Ocean Transportation", "Maritime Innovation"]
+},
+{
+    "id": 6650,
+    "title": "Smart Shipping Fleet Management",
+    "domain": "94",
+    "description": "Create a digital platform for real-time monitoring and optimization of shipping fleets, tracking fuel usage, cargo loads, and maintenance schedules.",
+    "keywords": ["Shipping Technology", "Shipping Systems", "Marine Technology"]
+},
+{
+    "id": 6651,
+    "title": "Marine Engineering Digital Twin",
+    "domain": "94",
+    "description": "Develop a digital twin platform for marine engines and ship systems, enabling predictive maintenance and performance optimization.",
+    "keywords": ["Marine Engineering", "Ship Technology", "Marine Systems"]
+},
+{
+    "id": 6652,
+    "title": "Ocean Transportation Route Optimizer",
+    "domain": "94",
+    "description": "Build a platform that uses AI to analyze global shipping routes, fuel consumption, and weather forecasts to recommend cost-effective and safe pathways.",
+    "keywords": ["Ocean Transportation", "Maritime Safety", "Shipping Technology"]
+},
+{
+    "id": 6653,
+    "title": "Autonomous Naval Defense System",
+    "domain": "94",
+    "description": "Design an AI-based naval defense system capable of detecting threats and initiating defensive maneuvers or alerts for naval ships.",
+    "keywords": ["Naval Systems", "Naval Engineering", "Maritime Safety"]
+},
+{
+    "id": 6654,
+    "title": "Eco-Friendly Ship Propulsion System",
+    "domain": "94",
+    "description": "Research and develop advanced propulsion systems that minimize emissions and increase fuel efficiency in large shipping vessels.",
+    "keywords": ["Marine Engineering", "Ship Technology", "Ocean Technology"]
+},
+{
+    "id": 6655,
+    "title": "Maritime Safety IoT Sensors",
+    "domain": "94",
+    "description": "Implement IoT-enabled sensors on ships to detect leaks, fires, or mechanical failures in real-time to enhance maritime safety.",
+    "keywords": ["Maritime Safety", "Marine Systems", "Shipping Systems"]
+},
+{
+    "id": 6656,
+    "title": "AI Cargo Loading Optimizer",
+    "domain": "94",
+    "description": "Create a machine learning solution that optimizes cargo distribution on ships to improve balance, efficiency, and safety.",
+    "keywords": ["Shipping Technology", "Marine Technology", "Ocean Transportation"]
+},
+{
+    "id": 6657,
+    "title": "Blockchain Shipping Records",
+    "domain": "94",
+    "description": "Develop a blockchain-based system to track shipments, prevent fraud, and ensure transparency in maritime transportation.",
+    "keywords": ["Shipping Systems", "Maritime Innovation", "Ocean Technology"]
+},
+{
+    "id": 6658,
+    "title": "Smart Maritime Weather Alert System",
+    "domain": "94",
+    "description": "Build a weather forecasting and alert system tailored for shipping routes, warning ships about storms, tsunamis, or rough seas.",
+    "keywords": ["Maritime Safety", "Ocean Technology", "Marine Systems"]
+},
+{
+    "id": 6659,
+    "title": "AI-Based Ship Fuel Optimization",
+    "domain": "94",
+    "description": "Develop AI tools to monitor and reduce fuel consumption, lowering operational costs and carbon footprint in shipping operations.",
+    "keywords": ["Ship Technology", "Marine Engineering", "Shipping Systems"]
+},
+{
+    "id": 6660,
+    "title": "Naval Training Simulation Platform",
+    "domain": "94",
+    "description": "Design VR-based naval training simulators for sailors to practice navigation, combat, and emergency scenarios in a safe virtual environment.",
+    "keywords": ["Naval Systems", "Naval Engineering", "Maritime Innovation"]
+},
+{
+    "id": 6661,
+    "title": "Maritime AI Collision Avoidance",
+    "domain": "94",
+    "description": "Develop an AI system that detects nearby vessels and obstacles, suggesting real-time maneuvers to prevent collisions at sea.",
+    "keywords": ["Maritime Safety", "Marine Technology", "Shipping Technology"]
+},
+{
+    "id": 6662,
+    "title": "Ship Engine Efficiency Analyzer",
+    "domain": "94",
+    "description": "Build a data analytics system to monitor ship engine performance, identifying inefficiencies and maintenance needs.",
+    "keywords": ["Marine Engineering", "Marine Systems", "Ship Technology"]
+},
+{
+    "id": 6663,
+    "title": "Smart Ocean Freight Tracking",
+    "domain": "94",
+    "description": "Develop a tracking system that uses satellite and IoT data to provide real-time cargo location and estimated delivery updates.",
+    "keywords": ["Shipping Systems", "Ocean Transportation", "Maritime Innovation"]
+},
+{
+    "id": 6664,
+    "title": "Naval AI Battle Strategy System",
+    "domain": "94",
+    "description": "Build a strategy platform that simulates battle tactics for naval forces using AI to optimize decision-making in real time.",
+    "keywords": ["Naval Systems", "Naval Engineering", "Marine Technology"]
+},
+{
+    "id": 6665,
+    "title": "Green Ship Design Optimization",
+    "domain": "94",
+    "description": "Create sustainable ship designs with lightweight materials, renewable energy integration, and eco-friendly systems.",
+    "keywords": ["Ship Technology", "Marine Engineering", "Maritime Innovation"]
+},
+{
+    "id": 6666,
+    "title": "IoT-Based Port Automation System",
+    "domain": "94",
+    "description": "Develop smart port infrastructure using IoT and AI to manage ship docking, cargo unloading, and customs processes.",
+    "keywords": ["Shipping Technology", "Shipping Systems", "Ocean Technology"]
+},
+{
+    "id": 6667,
+    "title": "Maritime Emergency Response Drones",
+    "domain": "94",
+    "description": "Design drones capable of delivering rescue equipment, medical supplies, or surveillance in maritime emergencies.",
+    "keywords": ["Maritime Safety", "Maritime Innovation", "Ocean Transportation"]
+},
+{
+    "id": 6668,
+    "title": "Marine Systems Health Monitoring",
+    "domain": "94",
+    "description": "Build predictive maintenance systems for monitoring critical marine systems like hydraulics, propulsion, and cooling units.",
+    "keywords": ["Marine Systems", "Marine Engineering", "Ship Technology"]
+},
+{
+    "id": 6669,
+    "title": "Autonomous Cargo Ships",
+    "domain": "94",
+    "description": "Develop fully autonomous cargo ships that can navigate, avoid collisions, and operate with minimal human intervention.",
+    "keywords": ["Shipping Technology", "Ocean Transportation", "Maritime Innovation"]
+},
+{
+    "id": 6670,
+    "title": "Naval Cybersecurity Framework",
+    "domain": "94",
+    "description": "Create a cybersecurity system to protect naval and maritime infrastructure from cyberattacks and unauthorized access.",
+    "keywords": ["Naval Engineering", "Maritime Safety", "Marine Technology"]
+},
+{
+    "id": 6671,
+    "title": "AI-Based Ship Hull Inspection",
+    "domain": "94",
+    "description": "Use drones and AI image processing to inspect ship hulls for damage, corrosion, or biofouling without requiring dry docks.",
+    "keywords": ["Ship Technology", "Marine Technology", "Maritime Safety"]
+},
+{
+    "id": 6672,
+    "title": "Smart Ocean Traffic Monitoring",
+    "domain": "94",
+    "description": "Build a system for monitoring and analyzing maritime traffic patterns to reduce congestion and improve safety at sea.",
+    "keywords": ["Ocean Transportation", "Marine Systems", "Shipping Systems"]
+},
+{
+    "id": 6673,
+    "title": "Digital Maritime Communication Hub",
+    "domain": "94",
+    "description": "Develop a secure communication hub for maritime operations, connecting ships, ports, and logistics partners seamlessly.",
+    "keywords": ["Maritime Innovation", "Shipping Technology", "Ocean Technology"]
+},
+{
+    "id": 6674,
+    "title": "AI Shipwreck Detection System",
+    "domain": "94",
+    "description": "Design an AI-based system to scan ocean data and identify shipwreck locations for research and recovery operations.",
+    "keywords": ["Ocean Technology", "Marine Systems", "Maritime Safety"]
+},
+{
+    "id": 6675,
+    "title": "Marine Renewable Energy Integration",
+    "domain": "94",
+    "description": "Integrate renewable energy sources like solar and wind into ship systems to reduce reliance on fossil fuels.",
+    "keywords": ["Marine Engineering", "Ship Technology", "Maritime Innovation"]
+},
+{
+    "id": 6676,
+    "title": "Naval Robotics for Deep Sea Missions",
+    "domain": "94",
+    "description": "Create robotic systems for naval missions such as underwater exploration, mine detection, and rescue operations.",
+    "keywords": ["Naval Systems", "Marine Technology", "Ocean Technology"]
+},
+{
+    "id": 6677,
+    "title": "AI Maritime Crew Scheduling",
+    "domain": "94",
+    "description": "Build an AI tool for optimizing crew schedules, reducing fatigue, and ensuring compliance with maritime labor laws.",
+    "keywords": ["Shipping Systems", "Maritime Safety", "Marine Systems"]
+},
+{
+    "id": 6678,
+    "title": "Ship Waste Management Innovation",
+    "domain": "94",
+    "description": "Develop smart onboard systems for managing and recycling ship-generated waste to reduce ocean pollution.",
+    "keywords": ["Maritime Innovation", "Marine Engineering", "Ship Technology"]
+},
+{
+    "id": 6679,
+    "title": "Ocean Transportation Carbon Tracker",
+    "domain": "94",
+    "description": "Build a carbon emissions tracking system for ocean freight, helping companies meet environmental regulations.",
+    "keywords": ["Ocean Transportation", "Marine Technology", "Maritime Safety"]
+},
+{
+    "id": 6680,
+    "title": "Naval Augmented Reality Helmets",
+    "domain": "94",
+    "description": "Develop AR-enabled helmets for naval crews to provide navigation data, system health alerts, and mission updates in real-time.",
+    "keywords": ["Naval Engineering", "Naval Systems", "Marine Technology"]
+},
+{
+    "id": 6681,
+    "title": "AI Marine Traffic Prediction System",
+    "domain": "94",
+    "description": "Create AI models to predict traffic surges in busy ports and shipping routes for better scheduling and safety.",
+    "keywords": ["Marine Systems", "Shipping Technology", "Ocean Transportation"]
+},
+{
+    "id": 6682,
+    "title": "Digital Naval Ship Design Platform",
+    "domain": "94",
+    "description": "Develop a cloud-based naval design system for engineers to collaborate on innovative warship and vessel models.",
+    "keywords": ["Naval Engineering", "Ship Technology", "Maritime Innovation"]
+},
+{
+    "id": 6683,
+    "title": "AI-Enhanced Port Security System",
+    "domain": "94",
+    "description": "Build a smart security platform for ports that uses AI to detect intrusions, monitor cargo, and manage access control.",
+    "keywords": ["Maritime Safety", "Shipping Systems", "Ocean Technology"]
+},
+{
+    "id": 6684,
+    "title": "Smart Marine Fuel Alternatives",
+    "domain": "94",
+    "description": "Research and implement alternative fuels like hydrogen or biofuels to power next-generation ships sustainably.",
+    "keywords": ["Marine Engineering", "Ship Technology", "Maritime Innovation"]
+},
+{
+    "id": 6685,
+    "title": "AI Wave Pattern Analyzer",
+    "domain": "94",
+    "description": "Design an AI tool that studies wave patterns for safe navigation, optimized speed, and better fuel efficiency.",
+    "keywords": ["Ocean Technology", "Marine Systems", "Shipping Technology"]
+},
+{
+    "id": 6686,
+    "title": "Digital Maritime Documentation System",
+    "domain": "94",
+    "description": "Create a blockchain-based system for digitizing and securing maritime trade documents like bills of lading.",
+    "keywords": ["Shipping Systems", "Maritime Innovation", "Ocean Transportation"]
+},
+{
+    "id": 6687,
+    "title": "Naval AI Submarine Detection",
+    "domain": "94",
+    "description": "Develop an AI-powered sonar analysis system for detecting submarines and underwater threats in naval operations.",
+    "keywords": ["Naval Systems", "Naval Engineering", "Marine Technology"]
+},
+{
+    "id": 6688,
+    "title": "Shipboard Renewable Energy Storage",
+    "domain": "94",
+    "description": "Design energy storage solutions for ships to store and manage power from onboard renewable energy systems.",
+    "keywords": ["Marine Systems", "Marine Engineering", "Ship Technology"]
+},
+{
+    "id": 6689,
+    "title": "AI Maritime Risk Assessment Tool",
+    "domain": "94",
+    "description": "Build an AI-based risk analysis tool for shipping companies to evaluate hazards such as piracy, weather, and technical failures.",
+    "keywords": ["Maritime Safety", "Shipping Technology", "Ocean Technology"]
+},
+{
+    "id": 6690,
+    "title": "Smart Naval Fleet Health Dashboard",
+    "domain": "94",
+    "description": "Develop a centralized dashboard for monitoring the operational health of naval ships with predictive analytics.",
+    "keywords": ["Naval Systems", "Marine Systems", "Maritime Innovation"]
+},
+{
+    "id": 6691,
+    "title": "AI Ocean Freight Price Predictor",
+    "domain": "94",
+    "description": "Design a machine learning model to forecast ocean freight prices based on demand, fuel costs, and geopolitical trends.",
+    "keywords": ["Shipping Systems", "Ocean Transportation", "Maritime Innovation"]
+},
+{
+    "id": 6692,
+    "title": "Smart Ship Crew Health Monitoring",
+    "domain": "94",
+    "description": "Implement wearable devices and AI analytics for monitoring crew health and alerting for emergencies at sea.",
+    "keywords": ["Maritime Safety", "Marine Systems", "Ship Technology"]
+},
+{
+    "id": 6693,
+    "title": "Marine AI Oil Spill Detector",
+    "domain": "94",
+    "description": "Develop an AI-based image recognition system to detect oil spills quickly and trigger automated containment responses.",
+    "keywords": ["Marine Technology", "Maritime Safety", "Ocean Technology"]
+},
+{
+    "id": 6694,
+    "title": "Naval Mission Planning AI",
+    "domain": "94",
+    "description": "Create a decision-support tool for naval operations that simulates scenarios and recommends optimal strategies.",
+    "keywords": ["Naval Systems", "Naval Engineering", "Maritime Innovation"]
+},
+{
+    "id": 6695,
+    "title": "AI-Powered Maritime Logistics Optimizer",
+    "domain": "94",
+    "description": "Build a logistics optimization system for shipping companies to improve container loading, routing, and delivery times.",
+    "keywords": ["Shipping Technology", "Shipping Systems", "Ocean Transportation"]
+},
+{
+    "id": 6696,
+    "title": "Underwater Drone for Marine Research",
+    "domain": "94",
+    "description": "Design an autonomous underwater drone to conduct marine research, mapping, and resource exploration.",
+    "keywords": ["Marine Technology", "Ocean Technology", "Maritime Innovation"]
+},
+{
+    "id": 6697,
+    "title": "Shipboard Cyber Threat Detection",
+    "domain": "94",
+    "description": "Develop an AI-driven system to detect and prevent cyberattacks on ship communication and navigation systems.",
+    "keywords": ["Maritime Safety", "Naval Engineering", "Marine Systems"]
+},
+//domain-95
 
 
 
