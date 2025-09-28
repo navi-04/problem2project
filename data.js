@@ -46247,6 +46247,364 @@ const PROBLEMS_DATA = {
     "keywords": ["Maritime Safety", "Naval Engineering", "Marine Systems"]
 },
 //domain-95
+{
+    "id": 6698,
+    "title": "AI-Powered Rail Systems Monitoring",
+    "domain": "95",
+    "description": "Develop an AI-based system to monitor railway operations, predict faults, and ensure smooth functioning of rail systems through real-time analytics.",
+    "keywords": ["Rail Systems", "Railway Safety", "Railway Systems"]
+},
+{
+    "id": 6699,
+    "title": "Next-Gen Train Technology for Energy Efficiency",
+    "domain": "95",
+    "description": "Design innovative train technology solutions that minimize energy consumption while maximizing speed, passenger comfort, and sustainability.",
+    "keywords": ["Train Technology", "Rail Innovation", "Train Systems"]
+},
+{
+    "id": 6700,
+    "title": "Smart Mass Transit Scheduling System",
+    "domain": "95",
+    "description": "Create an intelligent mass transit scheduling platform that optimizes train timings and reduces waiting time using machine learning algorithms.",
+    "keywords": ["Mass Transit", "Transit Technology", "Public Transportation"]
+},
+{
+    "id": 6701,
+    "title": "Railway Engineering Simulation Platform",
+    "domain": "95",
+    "description": "Develop a railway engineering simulator that allows testing of track designs, train loads, and structural resilience before real-world implementation.",
+    "keywords": ["Railway Engineering", "Rail Systems", "Rail Infrastructure"]
+},
+{
+    "id": 6702,
+    "title": "IoT-Based Transportation Systems for Rail",
+    "domain": "95",
+    "description": "Implement IoT-enabled devices for transportation systems in railways to improve communication, track monitoring, and passenger experience.",
+    "keywords": ["Transportation Systems", "Transit Technology", "Rail Systems"]
+},
+{
+    "id": 6703,
+    "title": "Rail Innovation in Smart Ticketing",
+    "domain": "95",
+    "description": "Design a contactless smart ticketing and fare management system to enhance rail innovation and make public transportation seamless.",
+    "keywords": ["Rail Innovation", "Public Transportation", "Transit Technology"]
+},
+{
+    "id": 6704,
+    "title": "AI-Driven Railway Safety Analytics",
+    "domain": "95",
+    "description": "Build a safety-focused platform that leverages AI to detect anomalies, prevent accidents, and ensure railway safety in real time.",
+    "keywords": ["Railway Safety", "Railway Systems", "Rail Systems"]
+},
+{
+    "id": 6705,
+    "title": "Digital Twin for Rail Infrastructure",
+    "domain": "95",
+    "description": "Develop a digital twin platform for railway infrastructure to monitor wear, predict maintenance, and extend asset life cycles.",
+    "keywords": ["Rail Infrastructure", "Rail Systems", "Railway Engineering"]
+},
+{
+    "id": 6706,
+    "title": "Train Systems with Renewable Energy Integration",
+    "domain": "95",
+    "description": "Research and build train systems powered by renewable energy sources such as solar and wind to promote eco-friendly transportation.",
+    "keywords": ["Train Systems", "Train Technology", "Transportation Systems"]
+},
+{
+    "id": 6707,
+    "title": "Autonomous Rail Systems for Urban Transit",
+    "domain": "95",
+    "description": "Develop autonomous rail systems for urban mass transit that improve punctuality, reduce operational costs, and increase passenger safety.",
+    "keywords": ["Rail Systems", "Mass Transit", "Transit Technology"]
+},
+{
+    "id": 6708,
+    "title": "Railway Engineering for High-Speed Rail",
+    "domain": "95",
+    "description": "Design and simulate high-speed railway engineering solutions to optimize aerodynamics, noise reduction, and energy efficiency.",
+    "keywords": ["Railway Engineering", "Train Technology", "Rail Innovation"]
+},
+{
+    "id": 6709,
+    "title": "Smart Sensors for Rail Infrastructure Monitoring",
+    "domain": "95",
+    "description": "Develop smart sensor systems that detect cracks, vibrations, and faults in rail infrastructure for predictive maintenance.",
+    "keywords": ["Rail Infrastructure", "Railway Safety", "Transportation Systems"]
+},
+{
+    "id": 6710,
+    "title": "AI-Powered Crowd Management in Mass Transit",
+    "domain": "95",
+    "description": "Create an AI system to manage crowd flow in mass transit systems, ensuring smooth boarding, seating, and deboarding.",
+    "keywords": ["Mass Transit", "Public Transportation", "Transit Technology"]
+},
+{
+    "id": 6711,
+    "title": "Rail Innovation with Hydrogen-Powered Trains",
+    "domain": "95",
+    "description": "Explore hydrogen-powered trains as a rail innovation to replace diesel engines and reduce environmental pollution.",
+    "keywords": ["Rail Innovation", "Train Systems", "Transportation Systems"]
+},
+{
+    "id": 6712,
+    "title": "Blockchain-Based Rail Systems Management",
+    "domain": "95",
+    "description": "Implement blockchain for secure ticketing, logistics, and rail systems data management to increase trust and transparency.",
+    "keywords": ["Rail Systems", "Railway Systems", "Rail Innovation"]
+},
+{
+    "id": 6713,
+    "title": "Virtual Reality in Railway Engineering",
+    "domain": "95",
+    "description": "Use VR technology for railway engineering training, design visualization, and operational safety simulations.",
+    "keywords": ["Railway Engineering", "Railway Systems", "Rail Infrastructure"]
+},
+{
+    "id": 6714,
+    "title": "Next-Gen Transportation Systems for Smart Cities",
+    "domain": "95",
+    "description": "Integrate railway-based transportation systems into smart cities for sustainable and efficient commuting.",
+    "keywords": ["Transportation Systems", "Mass Transit", "Public Transportation"]
+},
+{
+    "id": 6715,
+    "title": "Railway Safety with Drone Surveillance",
+    "domain": "95",
+    "description": "Deploy drones to monitor railway safety by detecting hazards along rail lines and assisting in emergency response.",
+    "keywords": ["Railway Safety", "Rail Infrastructure", "Rail Systems"]
+},
+{
+    "id": 6716,
+    "title": "AI-Optimized Train Systems Scheduling",
+    "domain": "95",
+    "description": "Build an AI solution that optimizes train systems scheduling for better efficiency, punctuality, and reduced congestion.",
+    "keywords": ["Train Systems", "Railway Systems", "Transit Technology"]
+},
+{
+    "id": 6717,
+    "title": "Eco-Friendly Rail Infrastructure Materials",
+    "domain": "95",
+    "description": "Research and design rail infrastructure using sustainable and eco-friendly construction materials.",
+    "keywords": ["Rail Infrastructure", "Rail Innovation", "Railway Engineering"]
+},
+{
+    "id": 6718,
+    "title": "AI-Enhanced Public Transportation Experience",
+    "domain": "95",
+    "description": "Develop AI systems to improve public transportation by offering personalized routes, safety alerts, and real-time updates.",
+    "keywords": ["Public Transportation", "Rail Systems", "Transit Technology"]
+},
+{
+    "id": 6719,
+    "title": "Rail Systems Cybersecurity Platform",
+    "domain": "95",
+    "description": "Design a cybersecurity framework to protect railway systems from digital threats and ensure safe operations.",
+    "keywords": ["Rail Systems", "Railway Systems", "Railway Safety"]
+},
+{
+    "id": 6720,
+    "title": "Smart Communication in Train Technology",
+    "domain": "95",
+    "description": "Develop train technology that enhances communication between trains, stations, and control centers for better safety.",
+    "keywords": ["Train Technology", "Transit Technology", "Rail Systems"]
+},
+{
+    "id": 6721,
+    "title": "Railway Engineering for Disaster Resilience",
+    "domain": "95",
+    "description": "Design railway engineering systems that can withstand floods, earthquakes, and other natural disasters.",
+    "keywords": ["Railway Engineering", "Rail Infrastructure", "Railway Safety"]
+},
+{
+    "id": 6722,
+    "title": "Mass Transit Accessibility Solutions",
+    "domain": "95",
+    "description": "Develop accessible mass transit systems for differently-abled and elderly passengers to ensure inclusivity.",
+    "keywords": ["Mass Transit", "Public Transportation", "Transit Technology"]
+},
+{
+    "id": 6723,
+    "title": "Rail Innovation with Smart Freight Systems",
+    "domain": "95",
+    "description": "Create smart freight railway solutions using automation and AI to increase efficiency in goods transportation.",
+    "keywords": ["Rail Innovation", "Rail Systems", "Transportation Systems"]
+},
+{
+    "id": 6724,
+    "title": "Next-Gen Train Systems with 5G Connectivity",
+    "domain": "95",
+    "description": "Design train systems equipped with 5G connectivity to enable real-time monitoring, passenger Wi-Fi, and safety features.",
+    "keywords": ["Train Systems", "Train Technology", "Transit Technology"]
+},
+{
+    "id": 6725,
+    "title": "Railway Safety Prediction Models",
+    "domain": "95",
+    "description": "Build predictive models that analyze rail data to forecast accidents and enhance railway safety.",
+    "keywords": ["Railway Safety", "Railway Systems", "Rail Systems"]
+},
+{
+    "id": 6726,
+    "title": "Rail Infrastructure for Underground Transit",
+    "domain": "95",
+    "description": "Design innovative rail infrastructure for underground mass transit systems in densely populated urban areas.",
+    "keywords": ["Rail Infrastructure", "Mass Transit", "Railway Engineering"]
+},
+{
+    "id": 6727,
+    "title": "Green Transportation Systems in Railways",
+    "domain": "95",
+    "description": "Implement sustainable transportation systems that focus on lowering carbon emissions and improving efficiency.",
+    "keywords": ["Transportation Systems", "Rail Innovation", "Public Transportation"]
+},
+{
+    "id": 6728,
+    "title": "AI-Enabled Railway Systems Diagnostics",
+    "domain": "95",
+    "description": "Develop AI-powered tools to analyze train and railway systems for predictive maintenance and operational efficiency.",
+    "keywords": ["Railway Systems", "Rail Systems", "Train Technology"]
+},
+{
+    "id": 6729,
+    "title": "Rail Systems Emergency Response Platform",
+    "domain": "95",
+    "description": "Create an emergency response system for rail systems to coordinate rescue and recovery operations efficiently.",
+    "keywords": ["Rail Systems", "Railway Safety", "Transportation Systems"]
+},
+{
+    "id": 6730,
+    "title": "Public Transportation Smart Navigation App",
+    "domain": "95",
+    "description": "Build a smart navigation mobile app that integrates public transportation schedules, ticketing, and real-time updates.",
+    "keywords": ["Public Transportation", "Transit Technology", "Rail Innovation"]
+},
+{
+    "id": 6731,
+    "title": "AI-Driven Rail Innovation in Signaling Systems",
+    "domain": "95",
+    "description": "Enhance signaling systems using AI to optimize traffic flow and improve efficiency in rail innovation.",
+    "keywords": ["Rail Innovation", "Railway Systems", "Rail Systems"]
+},
+{
+    "id": 6732,
+    "title": "Railway Engineering for Smart Bridges",
+    "domain": "95",
+    "description": "Design railway engineering solutions for smart bridges equipped with sensors for monitoring stress and safety.",
+    "keywords": ["Railway Engineering", "Rail Infrastructure", "Railway Safety"]
+},
+{
+    "id": 6733,
+    "title": "Mass Transit Carbon Footprint Tracker",
+    "domain": "95",
+    "description": "Develop a carbon footprint tracking system for mass transit rail networks to encourage eco-friendly commuting.",
+    "keywords": ["Mass Transit", "Transportation Systems", "Rail Innovation"]
+},
+{
+    "id": 6734,
+    "title": "Rail Infrastructure Lifecycle Management System",
+    "domain": "95",
+    "description": "Build a lifecycle management system for rail infrastructure to optimize costs, maintenance, and resource usage.",
+    "keywords": ["Rail Infrastructure", "Railway Systems", "Transportation Systems"]
+},
+{
+    "id": 6735,
+    "title": "Advanced Train Technology for Noise Reduction",
+    "domain": "95",
+    "description": "Develop advanced train technology with noise reduction systems to improve passenger comfort and community acceptance.",
+    "keywords": ["Train Technology", "Rail Innovation", "Train Systems"]
+},
+{
+    "id": 6736,
+    "title": "Rail Systems Integration with Smart Grid",
+    "domain": "95",
+    "description": "Integrate railway systems with smart grids to optimize power usage and reduce energy costs.",
+    "keywords": ["Rail Systems", "Transportation Systems", "Railway Engineering"]
+},
+{
+    "id": 6737,
+    "title": "Railway Safety AR Training Platform",
+    "domain": "95",
+    "description": "Create an AR-based training platform to educate staff on railway safety procedures and emergency response.",
+    "keywords": ["Railway Safety", "Railway Engineering", "Transit Technology"]
+},
+{
+    "id": 6738,
+    "title": "AI-Based Train Systems Fault Detection",
+    "domain": "95",
+    "description": "Develop AI algorithms that identify and diagnose train systems faults early to minimize downtime.",
+    "keywords": ["Train Systems", "Train Technology", "Railway Systems"]
+},
+{
+    "id": 6739,
+    "title": "Sustainable Public Transportation Business Model",
+    "domain": "95",
+    "description": "Design a sustainable business model for public transportation rail networks that balances efficiency and affordability.",
+    "keywords": ["Public Transportation", "Transportation Systems", "Rail Innovation"]
+},
+{
+    "id": 6740,
+    "title": "Rail Innovation in Passenger Experience",
+    "domain": "95",
+    "description": "Introduce innovative services such as personalized seating, AR entertainment, and smart cabins for better passenger experience.",
+    "keywords": ["Rail Innovation", "Train Technology", "Public Transportation"]
+},
+{
+    "id": 6741,
+    "title": "Railway Engineering for Climate Adaptation",
+    "domain": "95",
+    "description": "Research climate-adaptive railway engineering methods to withstand temperature extremes and changing weather patterns.",
+    "keywords": ["Railway Engineering", "Rail Infrastructure", "Rail Systems"]
+},
+{
+    "id": 6742,
+    "title": "Railway Systems Data Analytics Platform",
+    "domain": "95",
+    "description": "Build a big data analytics system for railway systems to optimize maintenance, scheduling, and safety.",
+    "keywords": ["Railway Systems", "Transit Technology", "Transportation Systems"]
+},
+{
+    "id": 6743,
+    "title": "Rail Infrastructure for High-Capacity Freight",
+    "domain": "95",
+    "description": "Design robust rail infrastructure capable of handling high-capacity freight operations with minimal delays.",
+    "keywords": ["Rail Infrastructure", "Railway Systems", "Rail Systems"]
+},
+{
+    "id": 6744,
+    "title": "AI-Enhanced Mass Transit Passenger Flow",
+    "domain": "95",
+    "description": "Use AI algorithms to enhance passenger flow in mass transit stations and reduce congestion during peak hours.",
+    "keywords": ["Mass Transit", "Transit Technology", "Public Transportation"]
+},
+{
+    "id": 6745,
+    "title": "Rail Systems Predictive Maintenance Platform",
+    "domain": "95",
+    "description": "Develop a predictive maintenance platform for rail systems to detect wear and prevent unexpected breakdowns.",
+    "keywords": ["Rail Systems", "Railway Systems", "Rail Infrastructure"]
+},
+{
+    "id": 6746,
+    "title": "Advanced Transportation Systems with Maglev Rail",
+    "domain": "95",
+    "description": "Research maglev-based transportation systems that enable high-speed, low-friction rail transport for urban and intercity routes.",
+    "keywords": ["Transportation Systems", "Train Technology", "Rail Innovation"]
+},
+{
+    "id": 6747,
+    "title": "Railway Safety Automation Platform",
+    "domain": "95",
+    "description": "Develop an automation system that integrates AI, IoT, and robotics to enhance railway safety operations.",
+    "keywords": ["Railway Safety", "Rail Systems", "Railway Systems"]
+},
+{
+    "id": 6748,
+    "title": "Smart Train Systems Cabin Environment Control",
+    "domain": "95",
+    "description": "Create smart cabin environment control systems in train systems for temperature, lighting, and air quality management.",
+    "keywords": ["Train Systems", "Train Technology", "Public Transportation"]
+},
+//domain-96
 
 
 
