@@ -46998,6 +46998,680 @@ const PROBLEMS_DATA = {
     "keywords": ["Biofuel", "Fermentation", "Renewable Energy", "Sustainable Technology"]
 },
 // domain 97
+    {
+        "id": 6805,
+        "title": "High-Temperature Resistant Ceramics",
+        "domain": "97",
+        "description": "Develop ceramics that can withstand extremely high temperatures for aerospace and industrial applications.",
+        "keywords": ["High-Temperature", "Ceramics", "Aerospace", "Advanced Materials"]
+    },
+    {
+        "id": 6806,
+        "title": "Lightweight Ceramic Armor",
+        "domain": "97",
+        "description": "Design lightweight yet strong ceramic composites for defense and personal protective equipment.",
+        "keywords": ["Ceramic Armor", "Lightweight Materials", "Defense", "Composites"]
+    },
+    {
+        "id": 6807,
+        "title": "Ceramic Nanoparticles for Drug Delivery",
+        "domain": "97",
+        "description": "Use ceramic-based nanoparticles as carriers for targeted and controlled drug release.",
+        "keywords": ["Ceramic Nanoparticles", "Drug Delivery", "Healthcare", "Advanced Materials"]
+    },
+    {
+        "id": 6808,
+        "title": "Energy-Efficient Ceramic Filters",
+        "domain": "97",
+        "description": "Develop ceramic filters for water and air purification with improved efficiency and durability.",
+        "keywords": ["Ceramic Filters", "Purification", "Sustainability", "Advanced Materials"]
+    },
+    {
+        "id": 6809,
+        "title": "3D-Printed Ceramics",
+        "domain": "97",
+        "description": "Leverage additive manufacturing to produce customized ceramic components with complex geometries.",
+        "keywords": ["3D Printing", "Ceramics", "Additive Manufacturing", "Advanced Materials"]
+    },
+    {
+        "id": 6810,
+        "title": "Self-Healing Ceramic Composites",
+        "domain": "97",
+        "description": "Create ceramic materials capable of self-repairing cracks and micro-damages.",
+        "keywords": ["Self-Healing", "Ceramic Composites", "Durability", "Innovation"]
+    },
+    {
+        "id": 6811,
+        "title": "Transparent Ceramics for Optics",
+        "domain": "97",
+        "description": "Develop transparent ceramics for use in optical devices, sensors, and defense equipment.",
+        "keywords": ["Transparent Ceramics", "Optics", "Sensors", "Defense"]
+    },
+    {
+        "id": 6812,
+        "title": "Ceramic Electrolytes for Solid-State Batteries",
+        "domain": "97",
+        "description": "Research ceramic electrolytes that improve the safety and efficiency of solid-state batteries.",
+        "keywords": ["Ceramic Electrolytes", "Batteries", "Energy Storage", "Solid-State"]
+    },
+    {
+        "id": 6813,
+        "title": "Ceramics for Thermal Barrier Coatings",
+        "domain": "97",
+        "description": "Develop ceramic coatings to protect engines and turbines from extreme heat.",
+        "keywords": ["Thermal Barrier", "Ceramic Coatings", "Engines", "Turbines"]
+    },
+    {
+        "id": 6814,
+        "title": "Biodegradable Ceramic Implants",
+        "domain": "97",
+        "description": "Design bioresorbable ceramic implants for medical applications that dissolve after healing.",
+        "keywords": ["Biodegradable", "Ceramic Implants", "Medical Devices", "Healthcare"]
+    },
+    {
+        "id": 6815,
+        "title": "Ceramic Supercapacitors",
+        "domain": "97",
+        "description": "Develop ceramic-based supercapacitors for high-performance energy storage applications.",
+        "keywords": ["Supercapacitors", "Ceramics", "Energy Storage", "Advanced Materials"]
+    },
+    {
+        "id": 6816,
+        "title": "Ceramics for Hydrogen Storage",
+        "domain": "97",
+        "description": "Innovate ceramic materials to store hydrogen safely and efficiently for clean energy.",
+        "keywords": ["Hydrogen Storage", "Ceramics", "Clean Energy", "Sustainability"]
+    },
+    {
+        "id": 6817,
+        "title": "Piezoelectric Ceramic Sensors",
+        "domain": "97",
+        "description": "Create piezoelectric ceramic sensors for applications in robotics, healthcare, and industry.",
+        "keywords": ["Piezoelectric", "Ceramic Sensors", "Robotics", "Healthcare"]
+    },
+    {
+        "id": 6818,
+        "title": "Ultra-Light Ceramic Foams",
+        "domain": "97",
+        "description": "Design lightweight ceramic foams for insulation, aerospace, and structural uses.",
+        "keywords": ["Ceramic Foams", "Lightweight", "Insulation", "Aerospace"]
+    },
+    {
+        "id": 6819,
+        "title": "Ceramic Heat Exchangers",
+        "domain": "97",
+        "description": "Develop high-performance ceramic heat exchangers for energy and industrial applications.",
+        "keywords": ["Ceramic Heat Exchangers", "Energy Efficiency", "Advanced Materials"]
+    },
+    {
+        "id": 6820,
+        "title": "Ceramic Nanocoatings for Electronics",
+        "domain": "97",
+        "description": "Use ceramic nanocoatings to protect electronics from heat, moisture, and corrosion.",
+        "keywords": ["Ceramic Nanocoatings", "Electronics", "Protection", "Nanotechnology"]
+    },
+    {
+        "id": 6821,
+        "title": "Ceramic-Based Thermal Energy Storage",
+        "domain": "97",
+        "description": "Develop ceramic composites capable of storing thermal energy for renewable energy applications.",
+        "keywords": ["Thermal Energy Storage", "Ceramics", "Renewable Energy", "Advanced Materials"]
+    },
+    {
+        "id": 6822,
+        "title": "Smart Ceramic Windows",
+        "domain": "97",
+        "description": "Create ceramic-coated smart windows that regulate light and heat transmission.",
+        "keywords": ["Smart Windows", "Ceramic Coatings", "Energy Efficiency", "Building Technology"]
+    },
+    {
+        "id": 6823,
+        "title": "Ceramic Bioprinting for Implants",
+        "domain": "97",
+        "description": "Use ceramic-based 3D bioprinting to create customized implants for medical applications.",
+        "keywords": ["Ceramic Bioprinting", "Medical Implants", "3D Printing", "Healthcare"]
+    },
+    {
+        "id": 6824,
+        "title": "Ceramic Reinforcements in Polymers",
+        "domain": "97",
+        "description": "Integrate ceramic nanoparticles into polymers to enhance strength and durability.",
+        "keywords": ["Ceramic Reinforcements", "Polymers", "Nanocomposites", "Durability"]
+    },
+    {
+        "id": 6825,
+        "title": "Porous Ceramics for Gas Separation",
+        "domain": "97",
+        "description": "Develop porous ceramic membranes for efficient gas separation and filtration.",
+        "keywords": ["Porous Ceramics", "Gas Separation", "Filtration", "Advanced Materials"]
+    },
+    {
+        "id": 6826,
+        "title": "Ceramics in Dental Restorations",
+        "domain": "97",
+        "description": "Create advanced ceramic materials with improved aesthetics and strength for dental care.",
+        "keywords": ["Dental Ceramics", "Restorations", "Healthcare", "Advanced Materials"]
+    },
+    {
+        "id": 6827,
+        "title": "Ceramic Catalysts for Green Chemistry",
+        "domain": "97",
+        "description": "Design ceramic-based catalysts to improve efficiency and reduce emissions in chemical processes.",
+        "keywords": ["Ceramic Catalysts", "Green Chemistry", "Sustainability", "Innovation"]
+    },
+    {
+        "id": 6828,
+        "title": "Flexible Ceramic Electronics",
+        "domain": "97",
+        "description": "Develop ceramic materials that enable flexible and bendable electronic components.",
+        "keywords": ["Flexible Electronics", "Ceramics", "E-Materials", "Wearable Tech"]
+    },
+    {
+        "id": 6829,
+        "title": "Ceramic Fuel Cells",
+        "domain": "97",
+        "description": "Create solid oxide ceramic fuel cells for clean and efficient energy generation.",
+        "keywords": ["Ceramic Fuel Cells", "Energy", "Clean Tech", "Sustainability"]
+    },
+    {
+        "id": 6830,
+        "title": "Self-Cleaning Ceramic Surfaces",
+        "domain": "97",
+        "description": "Design ceramic coatings with self-cleaning properties for architectural and industrial uses.",
+        "keywords": ["Self-Cleaning", "Ceramic Surfaces", "Coatings", "Smart Materials"]
+    },
+    {
+        "id": 6831,
+        "title": "Ceramic Aerogels",
+        "domain": "97",
+        "description": "Develop ultra-light ceramic aerogels for insulation and aerospace applications.",
+        "keywords": ["Ceramic Aerogels", "Lightweight Materials", "Insulation", "Aerospace"]
+    },
+    {
+        "id": 6832,
+        "title": "Ceramic-Based Radiation Shields",
+        "domain": "97",
+        "description": "Create ceramic composites that provide radiation shielding for space and nuclear industries.",
+        "keywords": ["Radiation Shields", "Ceramic Composites", "Space Tech", "Nuclear Safety"]
+    },
+    {
+        "id": 6833,
+        "title": "Electro-Ceramics for Sensors",
+        "domain": "97",
+        "description": "Design electro-ceramic materials for pressure, temperature, and chemical sensors.",
+        "keywords": ["Electro-Ceramics", "Sensors", "Advanced Materials", "Electronics"]
+    },
+    {
+        "id": 6834,
+        "title": "Ceramic Bone Scaffolds",
+        "domain": "97",
+        "description": "Use bioactive ceramics to create bone scaffolds that enhance tissue regeneration.",
+        "keywords": ["Bone Scaffolds", "Bioactive Ceramics", "Healthcare", "Regenerative Medicine"]
+    },
+    {
+        "id": 6835,
+        "title": "Ceramic Nanofibers for Filtration",
+        "domain": "97",
+        "description": "Produce ceramic nanofibers for high-efficiency filtration of water and air.",
+        "keywords": ["Ceramic Nanofibers", "Filtration", "Air Purification", "Water Treatment"]
+    },
+    {
+        "id": 6836,
+        "title": "Ceramic Composites for Lightweight Vehicles",
+        "domain": "97",
+        "description": "Develop ceramic composites that reduce vehicle weight while maintaining strength and safety.",
+        "keywords": ["Ceramic Composites", "Lightweight Vehicles", "Automotive", "Sustainability"]
+    },
+    {
+        "id": 6837,
+        "title": "High-Pressure Resistant Ceramics",
+        "domain": "97",
+        "description": "Innovate ceramic materials capable of withstanding ultra-high pressure environments.",
+        "keywords": ["High-Pressure Ceramics", "Durability", "Advanced Materials", "Engineering"]
+    },
+    {
+        "id": 6838,
+        "title": "Smart Ceramic Coatings for Buildings",
+        "domain": "97",
+        "description": "Develop ceramic-based coatings that enhance thermal regulation and energy efficiency in buildings.",
+        "keywords": ["Smart Coatings", "Ceramics", "Buildings", "Energy Efficiency"]
+    },
+    {
+        "id": 6839,
+        "title": "Ceramic-Based Magnetic Materials",
+        "domain": "97",
+        "description": "Design ceramic materials with magnetic properties for electronics and energy applications.",
+        "keywords": ["Magnetic Materials", "Ceramics", "Electronics", "Energy"]
+    },
+    {
+        "id": 6840,
+        "title": "Ceramic Coatings for Biomedical Devices",
+        "domain": "97",
+        "description": "Create biocompatible ceramic coatings that improve the safety and longevity of biomedical devices.",
+        "keywords": ["Biomedical Devices", "Ceramic Coatings", "Healthcare", "Biocompatibility"]
+    },
+    {
+        "id": 6841,
+        "title": "Ceramic-Based Thermoelectric Materials",
+        "domain": "97",
+        "description": "Develop ceramic materials that convert heat into electricity efficiently for renewable energy applications.",
+        "keywords": ["Thermoelectric Materials", "Ceramics", "Energy Conversion", "Sustainability"]
+    },
+    {
+        "id": 6842,
+        "title": "Ceramic Coatings for Corrosion Resistance",
+        "domain": "97",
+        "description": "Design ceramic coatings to protect metals and alloys from corrosion in harsh environments.",
+        "keywords": ["Ceramic Coatings", "Corrosion Resistance", "Industrial Applications", "Durability"]
+    },
+    {
+        "id": 6843,
+        "title": "Ceramic Membranes for Water Desalination",
+        "domain": "97",
+        "description": "Create advanced ceramic membranes to improve efficiency and lifespan in desalination plants.",
+        "keywords": ["Ceramic Membranes", "Water Desalination", "Filtration", "Advanced Materials"]
+    },
+    {
+        "id": 6844,
+        "title": "Ceramic-Based Wear-Resistant Materials",
+        "domain": "97",
+        "description": "Develop ceramics with high wear resistance for industrial machinery and tools.",
+        "keywords": ["Wear-Resistant", "Ceramics", "Industrial Applications", "Durability"]
+    },
+    {
+        "id": 6845,
+        "title": "Ceramic Photocatalysts for Pollution Control",
+        "domain": "97",
+        "description": "Design ceramic-based photocatalysts to degrade pollutants and purify air and water.",
+        "keywords": ["Photocatalysts", "Ceramics", "Pollution Control", "Sustainability"]
+    },
+    {
+        "id": 6846,
+        "title": "Ceramic-Based Thermoplastic Composites",
+        "domain": "97",
+        "description": "Integrate ceramic particles into thermoplastic matrices for enhanced mechanical and thermal properties.",
+        "keywords": ["Ceramic Composites", "Thermoplastics", "Advanced Materials", "Durability"]
+    },
+    {
+        "id": 6847,
+        "title": "Ceramic Coatings for Aerospace Applications",
+        "domain": "97",
+        "description": "Develop lightweight, heat-resistant ceramic coatings for aerospace components.",
+        "keywords": ["Ceramic Coatings", "Aerospace", "Heat Resistance", "Lightweight Materials"]
+    },
+    {
+        "id": 6848,
+        "title": "Ceramic-Based Sensors for Environmental Monitoring",
+        "domain": "97",
+        "description": "Design ceramic sensors for detecting gases, pollutants, and environmental changes.",
+        "keywords": ["Ceramic Sensors", "Environmental Monitoring", "Advanced Materials", "IoT"]
+    },
+    {
+        "id": 6849,
+        "title": "Ceramic-Based Superhydrophobic Surfaces",
+        "domain": "97",
+        "description": "Create ceramic surfaces with extreme water repellency for industrial and consumer applications.",
+        "keywords": ["Superhydrophobic", "Ceramic Surfaces", "Water Repellency", "Innovation"]
+    },
+    {
+        "id": 6850,
+        "title": "Ceramic-Based Solid Lubricants",
+        "domain": "97",
+        "description": "Develop ceramic materials that act as solid lubricants in high-temperature or high-stress environments.",
+        "keywords": ["Solid Lubricants", "Ceramics", "High-Temperature", "Industrial Applications"]
+    },
+    {
+        "id": 6851,
+        "title": "Ceramic Nanocomposites for Energy Storage",
+        "domain": "97",
+        "description": "Design ceramic nanocomposites to improve performance in batteries and supercapacitors.",
+        "keywords": ["Nanocomposites", "Ceramics", "Energy Storage", "Advanced Materials"]
+    },
+    {
+        "id": 6852,
+        "title": "Ceramic-Based Piezoelectric Energy Harvesters",
+        "domain": "97",
+        "description": "Develop ceramic piezoelectric materials to convert mechanical energy into electricity.",
+        "keywords": ["Piezoelectric", "Energy Harvesting", "Ceramics", "Sustainable Technology"]
+    },
+    {
+        "id": 6853,
+        "title": "Ceramic-Based Thermal Insulation Panels",
+        "domain": "97",
+        "description": "Design ceramic panels that provide high thermal insulation for buildings and industrial use.",
+        "keywords": ["Thermal Insulation", "Ceramic Panels", "Buildings", "Industrial Applications"]
+    },
+    {
+        "id": 6854,
+        "title": "Ceramic-Based Electrolyzers for Hydrogen Production",
+        "domain": "97",
+        "description": "Use ceramics in electrolysis systems to efficiently produce hydrogen as a clean fuel.",
+        "keywords": ["Electrolyzers", "Ceramics", "Hydrogen Production", "Clean Energy"]
+    },
+    {
+        "id": 6855,
+        "title": "Ceramic-Based Sensors for Wearable Devices",
+        "domain": "97",
+        "description": "Develop ceramic sensors for wearable electronics to monitor physiological parameters.",
+        "keywords": ["Wearable Devices", "Ceramic Sensors", "Healthcare", "Advanced Materials"]
+    },
+    {
+        "id": 6856,
+        "title": "Ceramic-Based Anti-Fouling Coatings",
+        "domain": "97",
+        "description": "Create ceramic coatings that prevent fouling in marine, industrial, and biomedical applications.",
+        "keywords": ["Anti-Fouling", "Ceramic Coatings", "Marine Applications", "Innovation"]
+    },
+    {
+        "id": 6857,
+        "title": "Ceramic-Based High-Voltage Insulators",
+        "domain": "97",
+        "description": "Design advanced ceramic insulators for high-voltage power transmission systems.",
+        "keywords": ["High-Voltage", "Ceramic Insulators", "Electrical Applications", "Advanced Materials"]
+    },
+    {
+        "id": 6858,
+        "title": "Ceramic Aerogel Composites",
+        "domain": "97",
+        "description": "Develop composite materials combining ceramic aerogels with polymers for lightweight, insulating applications.",
+        "keywords": ["Ceramic Aerogels", "Composites", "Lightweight", "Insulation"]
+    },
+    {
+        "id": 6859,
+        "title": "Ceramic-Based Transparent Armor",
+        "domain": "97",
+        "description": "Create transparent ceramic materials for ballistic protection and defense applications.",
+        "keywords": ["Transparent Armor", "Ceramics", "Defense", "Advanced Materials"]
+    },
+    {
+        "id": 6860,
+        "title": "Ceramic-Based Microwave Absorbers",
+        "domain": "97",
+        "description": "Design ceramics capable of absorbing microwaves for stealth, communication, and industrial applications.",
+        "keywords": ["Microwave Absorbers", "Ceramics", "Electromagnetic Shielding", "Advanced Materials"]
+    },
+    {
+        "id": 6861,
+        "title": "Ceramic-Based Wearable Health Monitors",
+        "domain": "97",
+        "description": "Integrate ceramic components in wearable devices for accurate and durable health monitoring.",
+        "keywords": ["Wearables", "Ceramic Sensors", "Healthcare", "Advanced Materials"]
+    },
+    {
+        "id": 6862,
+        "title": "Ceramic-Based Thermal Conductive Materials",
+        "domain": "97",
+        "description": "Develop ceramics with high thermal conductivity for electronics and industrial cooling systems.",
+        "keywords": ["Thermal Conductivity", "Ceramics", "Electronics", "Industrial Applications"]
+    },
+    {
+        "id": 6863,
+        "title": "Ceramic-Based Anti-Corrosion Coatings for Marine Use",
+        "domain": "97",
+        "description": "Design durable ceramic coatings to protect marine structures and equipment from corrosion.",
+        "keywords": ["Anti-Corrosion", "Ceramic Coatings", "Marine Applications", "Durability"]
+    },
+    {
+        "id": 6864,
+        "title": "Ceramic-Based Phase Change Materials",
+        "domain": "97",
+        "description": "Incorporate ceramics in phase change materials for efficient thermal energy storage.",
+        "keywords": ["Phase Change Materials", "Ceramics", "Thermal Energy Storage", "Sustainability"]
+    },
+    {
+        "id": 6865,
+        "title": "Ceramic-Based Biodegradable Packaging",
+        "domain": "97",
+        "description": "Develop eco-friendly ceramic composites for sustainable packaging solutions.",
+        "keywords": ["Biodegradable Packaging", "Ceramics", "Sustainability", "Advanced Materials"]
+    },
+    {
+        "id": 6866,
+        "title": "Ceramic-Based Transparent Conductors",
+        "domain": "97",
+        "description": "Create transparent ceramic materials that conduct electricity for electronics and displays.",
+        "keywords": ["Transparent Conductors", "Ceramics", "Electronics", "Advanced Materials"]
+    },
+    {
+        "id": 6867,
+        "title": "Ceramic-Based Gas Sensors for Industry",
+        "domain": "97",
+        "description": "Design ceramic sensors to detect industrial gases with high sensitivity and reliability.",
+        "keywords": ["Gas Sensors", "Ceramics", "Industrial Monitoring", "Advanced Materials"]
+    },
+    {
+        "id": 6868,
+        "title": "Ceramic-Based Lightweight Armor for Vehicles",
+        "domain": "97",
+        "description": "Develop ceramic composites for vehicular armor that reduces weight without compromising safety.",
+        "keywords": ["Lightweight Armor", "Ceramics", "Vehicles", "Defense"]
+    },
+    {
+        "id": 6869,
+        "title": "Ceramic-Based Photonic Crystals",
+        "domain": "97",
+        "description": "Create ceramic photonic crystals for controlling light propagation in optical devices.",
+        "keywords": ["Photonic Crystals", "Ceramics", "Optics", "Advanced Materials"]
+    },
+    {
+        "id": 6870,
+        "title": "Ceramic-Based Thermal Imaging Devices",
+        "domain": "97",
+        "description": "Develop ceramic materials for high-precision thermal imaging and sensing devices.",
+        "keywords": ["Thermal Imaging", "Ceramics", "Sensors", "Advanced Materials"]
+    },
+    {
+        "id": 6871,
+        "title": "Ceramic-Based Bioactive Coatings for Implants",
+        "domain": "97",
+        "description": "Design ceramic coatings that enhance bone integration and prevent infection in medical implants.",
+        "keywords": ["Bioactive Coatings", "Ceramics", "Medical Implants", "Healthcare"]
+    },
+    {
+        "id": 6872,
+        "title": "Ceramic-Based Superconductors",
+        "domain": "97",
+        "description": "Research ceramic materials with superconducting properties for energy and electronics applications.",
+        "keywords": ["Superconductors", "Ceramics", "Energy", "Electronics"]
+    },
+    {
+        "id": 6873,
+        "title": "Ceramic-Based Thermoluminescent Materials",
+        "domain": "97",
+        "description": "Develop ceramic materials that emit light when exposed to heat for sensing and safety applications.",
+        "keywords": ["Thermoluminescence", "Ceramics", "Sensing", "Advanced Materials"]
+    },
+    {
+        "id": 6874,
+        "title": "Ceramic-Based Smart Sensors for Robotics",
+        "domain": "97",
+        "description": "Create ceramic-based sensors for tactile, force, and temperature sensing in robotic systems.",
+        "keywords": ["Smart Sensors", "Ceramics", "Robotics", "Advanced Materials"]
+    },
+    {
+        "id": 6875,
+        "title": "Ceramic-Based Wearable Thermoregulation",
+        "domain": "97",
+        "description": "Develop ceramic materials integrated into wearables to regulate body temperature efficiently.",
+        "keywords": ["Wearables", "Ceramics", "Thermoregulation", "Healthcare"]
+    },
+    {
+        "id": 6876,
+        "title": "Ceramic-Based Structural Composites for Aerospace",
+        "domain": "97",
+        "description": "Design ceramic composites for aerospace structures that combine lightness with strength.",
+        "keywords": ["Structural Composites", "Ceramics", "Aerospace", "Advanced Materials"]
+    },
+    {
+        "id": 6877,
+        "title": "Ceramic-Based Flame Retardant Materials",
+        "domain": "97",
+        "description": "Create ceramic composites that resist combustion for safety in buildings and transportation.",
+        "keywords": ["Flame Retardant", "Ceramics", "Safety", "Advanced Materials"]
+    },
+    {
+        "id": 6878,
+        "title": "Ceramic-Based Electrochromic Devices",
+        "domain": "97",
+        "description": "Develop ceramic materials that change color in response to voltage for smart windows and displays.",
+        "keywords": ["Electrochromic", "Ceramics", "Smart Devices", "Energy Efficiency"]
+    },
+    {
+        "id": 6879,
+        "title": "Ceramic-Based Acoustic Insulation Materials",
+        "domain": "97",
+        "description": "Design ceramic composites to provide sound insulation in buildings, vehicles, and industrial spaces.",
+        "keywords": ["Acoustic Insulation", "Ceramics", "Buildings", "Industrial Applications"]
+    },
+    {
+        "id": 6880,
+        "title": "Ceramic-Based High-Strength Bearings",
+        "domain": "97",
+        "description": "Create ceramic bearings with high durability and resistance to wear for industrial machinery.",
+        "keywords": ["High-Strength Bearings", "Ceramics", "Industrial Machinery", "Advanced Materials"]
+    },
+    {
+        "id": 6881,
+        "title": "Ceramic-Based Anti-Microbial Surfaces",
+        "domain": "97",
+        "description": "Develop ceramic coatings that prevent microbial growth for medical and food applications.",
+        "keywords": ["Anti-Microbial", "Ceramic Coatings", "Healthcare", "Food Safety"]
+    },
+    {
+        "id": 6882,
+        "title": "Ceramic-Based Thermal Expansion Materials",
+        "domain": "97",
+        "description": "Design ceramic materials with controlled thermal expansion for engineering and aerospace applications.",
+        "keywords": ["Thermal Expansion", "Ceramics", "Engineering", "Advanced Materials"]
+    },
+    {
+        "id": 6883,
+        "title": "Ceramic-Based Photovoltaic Materials",
+        "domain": "97",
+        "description": "Develop ceramic materials for improved efficiency and durability in solar cells.",
+        "keywords": ["Photovoltaics", "Ceramics", "Solar Energy", "Advanced Materials"]
+    },
+    {
+        "id": 6884,
+        "title": "Ceramic-Based High-Pressure Sensors",
+        "domain": "97",
+        "description": "Create sensors made of ceramics to accurately measure extreme pressures in industrial and scientific applications.",
+        "keywords": ["High-Pressure Sensors", "Ceramics", "Industrial Applications", "Advanced Materials"]
+    },
+    {
+        "id": 6885,
+        "title": "Ceramic-Based Radiation Detectors",
+        "domain": "97",
+        "description": "Develop ceramic materials for detecting radiation in medical, industrial, and scientific fields.",
+        "keywords": ["Radiation Detectors", "Ceramics", "Safety", "Advanced Materials"]
+    },
+    {
+        "id": 6886,
+        "title": "Ceramic-Based Lightweight Structural Panels",
+        "domain": "97",
+        "description": "Design ceramic panels for construction and aerospace that combine low weight with high strength.",
+        "keywords": ["Structural Panels", "Ceramics", "Lightweight", "Advanced Materials"]
+    },
+    {
+        "id": 6887,
+        "title": "Ceramic-Based High-Temperature Electronics",
+        "domain": "97",
+        "description": "Develop ceramics for electronic components that can operate reliably at extreme temperatures.",
+        "keywords": ["High-Temperature Electronics", "Ceramics", "Advanced Materials", "Electronics"]
+    },
+    {
+        "id": 6888,
+        "title": "Ceramic-Based UV-Blocking Materials",
+        "domain": "97",
+        "description": "Create ceramic coatings that block ultraviolet radiation for protective and optical applications.",
+        "keywords": ["UV-Blocking", "Ceramics", "Protective Coatings", "Optics"]
+    },
+    {
+        "id": 6889,
+        "title": "Ceramic-Based Smart Textiles",
+        "domain": "97",
+        "description": "Integrate ceramic materials into fabrics to create smart textiles with thermal or electrical functionality.",
+        "keywords": ["Smart Textiles", "Ceramics", "Wearables", "Advanced Materials"]
+    },
+    {
+        "id": 6890,
+        "title": "Ceramic-Based Chemical Sensors",
+        "domain": "97",
+        "description": "Develop ceramic sensors capable of detecting chemical changes in industrial and environmental settings.",
+        "keywords": ["Chemical Sensors", "Ceramics", "Environmental Monitoring", "Industrial Applications"]
+    },
+    {
+        "id": 6891,
+        "title": "Ceramic-Based Thermo-Mechanical Actuators",
+        "domain": "97",
+        "description": "Design ceramic actuators that respond to thermal changes to control mechanical movement.",
+        "keywords": ["Actuators", "Ceramics", "Thermo-Mechanical", "Advanced Materials"]
+    },
+    {
+        "id": 6892,
+        "title": "Ceramic-Based Microelectromechanical Systems (MEMS)",
+        "domain": "97",
+        "description": "Develop ceramic materials for MEMS devices with improved durability and performance.",
+        "keywords": ["MEMS", "Ceramics", "Microdevices", "Advanced Materials"]
+    },
+    {
+        "id": 6893,
+        "title": "Ceramic-Based Lightweight Armor for Aerospace",
+        "domain": "97",
+        "description": "Create advanced ceramic composites to protect aerospace vehicles while minimizing weight.",
+        "keywords": ["Lightweight Armor", "Ceramics", "Aerospace", "Advanced Materials"]
+    },
+    {
+        "id": 6894,
+        "title": "Ceramic-Based Heat-Resistant Coatings",
+        "domain": "97",
+        "description": "Design ceramic coatings that resist extreme heat for industrial and aerospace applications.",
+        "keywords": ["Heat-Resistant", "Ceramic Coatings", "Industrial Applications", "Aerospace"]
+    },
+    {
+        "id": 6895,
+        "title": "Ceramic-Based Pressure-Responsive Materials",
+        "domain": "97",
+        "description": "Develop ceramic materials that change properties under pressure for sensing or adaptive applications.",
+        "keywords": ["Pressure-Responsive", "Ceramics", "Sensing", "Advanced Materials"]
+    },
+    {
+        "id": 6896,
+        "title": "Ceramic-Based Energy-Harvesting Surfaces",
+        "domain": "97",
+        "description": "Create ceramic surfaces that convert mechanical vibrations into electrical energy.",
+        "keywords": ["Energy Harvesting", "Ceramics", "Vibration", "Sustainable Technology"]
+    },
+    {
+        "id": 6897,
+        "title": "Ceramic-Based Anti-Icing Coatings",
+        "domain": "97",
+        "description": "Develop ceramic coatings that prevent ice accumulation on aircraft, vehicles, and structures.",
+        "keywords": ["Anti-Icing", "Ceramic Coatings", "Aerospace", "Safety"]
+    },
+    {
+        "id": 6898,
+        "title": "Ceramic-Based Optical Sensors",
+        "domain": "97",
+        "description": "Design ceramic materials for high-precision optical sensing in industrial and scientific applications.",
+        "keywords": ["Optical Sensors", "Ceramics", "Precision", "Advanced Materials"]
+    },
+    {
+        "id": 6899,
+        "title": "Ceramic-Based Lightweight Structural Frames",
+        "domain": "97",
+        "description": "Create ceramic composites for lightweight, strong frames used in transportation and construction.",
+        "keywords": ["Structural Frames", "Ceramics", "Lightweight", "Advanced Materials"]
+    },
+    {
+        "id": 6900,
+        "title": "Ceramic-Based Smart Energy Storage Systems",
+        "domain": "97",
+        "description": "Develop smart energy storage systems using ceramic materials for improved performance and durability.",
+        "keywords": ["Energy Storage", "Ceramics", "Smart Systems", "Sustainability"]
+    },
+    // domain 98
+    
 
 
 
