@@ -45362,6 +45362,351 @@ const PROBLEMS_DATA = {
     "keywords": ["Water Quality", "Water Systems", "Water Technology", "Water Innovation"]
 },
 //domain-92
+{
+    "id": 6572,
+    "title": "IoT-Based Air Quality Monitoring System",
+    "domain": "92",
+    "description": "A real-time IoT system that tracks air pollutants such as CO2, PM2.5, and NOx levels using connected sensors and sends data to a cloud dashboard for analysis and visualization.",
+    "keywords": ["Air Quality Monitoring", "Environmental Monitoring", "Air Quality Systems"]
+},
+{
+    "id": 6573,
+    "title": "AI-Powered Pollution Forecasting",
+    "domain": "92",
+    "description": "An AI model that predicts upcoming pollution levels by analyzing weather patterns, industrial activity, and traffic data to help policymakers implement preventive measures.",
+    "keywords": ["Pollution Control", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6574,
+    "title": "Smart Air Purification Tower",
+    "domain": "92",
+    "description": "A large-scale outdoor air purification system that reduces particulate matter and harmful gases in urban areas using advanced filtration and clean air technology.",
+    "keywords": ["Air Purification", "Clean Air Technology", "Air Filtration"]
+},
+{
+    "id": 6575,
+    "title": "Emission Control System for Vehicles",
+    "domain": "92",
+    "description": "A sensor-driven exhaust emission control solution for vehicles that reduces NOx, CO, and particulate matter while monitoring compliance with environmental regulations.",
+    "keywords": ["Emission Control", "Pollution Technology", "Air Quality Management"]
+},
+{
+    "id": 6576,
+    "title": "Indoor Smart Air Quality System",
+    "domain": "92",
+    "description": "A home automation project that integrates air purification with sensors to monitor VOCs, CO2, and humidity, automatically adjusting air filters and ventilation.",
+    "keywords": ["Air Quality Systems", "Air Treatment", "Air Filtration"]
+},
+{
+    "id": 6577,
+    "title": "Cloud-Based Air Pollution Dashboard",
+    "domain": "92",
+    "description": "A web platform that aggregates data from multiple sensors across a city to display real-time pollution maps and long-term air quality trends.",
+    "keywords": ["Air Quality Monitoring", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6578,
+    "title": "AI-Driven Industrial Pollution Control",
+    "domain": "92",
+    "description": "An AI solution for factories that monitors emissions in real-time and automatically adjusts equipment to reduce pollutants while maintaining productivity.",
+    "keywords": ["Pollution Control", "Emission Control", "Pollution Technology"]
+},
+{
+    "id": 6579,
+    "title": "Wearable Personal Air Quality Tracker",
+    "domain": "92",
+    "description": "A wearable device that tracks personal exposure to pollutants and suggests safe routes or times for outdoor activities using GPS and pollution data.",
+    "keywords": ["Air Quality Monitoring", "Clean Air Technology", "Environmental Monitoring"]
+},
+{
+    "id": 6580,
+    "title": "Smart HVAC Air Filtration System",
+    "domain": "92",
+    "description": "An intelligent HVAC system that uses AI-based air quality monitoring to automatically regulate air purification and optimize energy efficiency.",
+    "keywords": ["Air Filtration", "Air Treatment", "Air Quality Systems"]
+},
+{
+    "id": 6581,
+    "title": "Drone-Based Pollution Detection",
+    "domain": "92",
+    "description": "Autonomous drones equipped with sensors that measure pollutants over wide areas, providing real-time air quality data for environmental agencies.",
+    "keywords": ["Air Quality Monitoring", "Pollution Technology", "Atmospheric Control"]
+},
+{
+    "id": 6582,
+    "title": "AI-Based Air Quality Index Predictor",
+    "domain": "92",
+    "description": "A machine learning model that predicts daily and weekly Air Quality Index (AQI) levels based on meteorological and environmental data.",
+    "keywords": ["Air Quality Management", "Air Quality Monitoring", "Atmospheric Control"]
+},
+{
+    "id": 6583,
+    "title": "Mobile Air Purification Unit",
+    "domain": "92",
+    "description": "A portable air purification device designed for use in highly polluted areas, capable of filtering PM2.5, PM10, and harmful gases on-the-go.",
+    "keywords": ["Air Purification", "Clean Air Technology", "Air Treatment"]
+},
+{
+    "id": 6584,
+    "title": "Smart City Pollution Control System",
+    "domain": "92",
+    "description": "An integrated pollution management system that combines sensors, data analytics, and emission control strategies for large metropolitan areas.",
+    "keywords": ["Pollution Control", "Air Quality Management", "Air Quality Systems"]
+},
+{
+    "id": 6585,
+    "title": "Blockchain-Based Pollution Monitoring",
+    "domain": "92",
+    "description": "A blockchain-enabled system that ensures transparency in pollution data reporting, preventing tampering and ensuring accountability among industries.",
+    "keywords": ["Pollution Technology", "Air Quality Monitoring", "Environmental Monitoring"]
+},
+{
+    "id": 6586,
+    "title": "AI-Optimized Air Filtration System",
+    "domain": "92",
+    "description": "An AI-based adaptive air filtration system that dynamically adjusts filter layers depending on pollution levels and air quality requirements.",
+    "keywords": ["Air Filtration", "Air Quality Systems", "Clean Air Technology"]
+},
+{
+    "id": 6587,
+    "title": "Community Air Quality Monitoring Network",
+    "domain": "92",
+    "description": "A decentralized community-driven project where households contribute sensor data to create a shared pollution map for better awareness.",
+    "keywords": ["Air Quality Monitoring", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6588,
+    "title": "Smart Traffic Emission Reduction System",
+    "domain": "92",
+    "description": "A traffic management solution that uses IoT and AI to reduce congestion and vehicle emissions by dynamically adjusting traffic signals.",
+    "keywords": ["Emission Control", "Pollution Control", "Atmospheric Control"]
+},
+{
+    "id": 6589,
+    "title": "AI-Powered Clean Air Zones",
+    "domain": "92",
+    "description": "A city-wide system that identifies and enforces clean air zones, restricting high-polluting vehicles while promoting eco-friendly transport.",
+    "keywords": ["Clean Air Technology", "Air Quality Management", "Pollution Control"]
+},
+{
+    "id": 6590,
+    "title": "Real-Time Atmospheric Pollution Analyzer",
+    "domain": "92",
+    "description": "An advanced analyzer system that provides continuous data on atmospheric pollutants, enabling quick response measures during smog events.",
+    "keywords": ["Atmospheric Control", "Air Quality Monitoring", "Environmental Monitoring"]
+},
+{
+    "id": 6591,
+    "title": "AI-Based Indoor Pollution Detection",
+    "domain": "92",
+    "description": "An intelligent indoor monitoring system that detects harmful indoor gases like formaldehyde and VOCs, providing alerts and suggesting purification methods.",
+    "keywords": ["Air Quality Systems", "Air Treatment", "Air Purification"]
+},
+{
+    "id": 6592,
+    "title": "Satellite-Based Pollution Tracking",
+    "domain": "92",
+    "description": "A project using satellite data to detect large-scale pollution patterns, smog spread, and cross-border air quality issues.",
+    "keywords": ["Atmospheric Control", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6593,
+    "title": "Smart Air Quality Helmet for Workers",
+    "domain": "92",
+    "description": "A helmet designed for industrial and construction workers that monitors harmful gases and ensures worker safety in hazardous environments.",
+    "keywords": ["Pollution Control", "Air Quality Monitoring", "Clean Air Technology"]
+},
+{
+    "id": 6594,
+    "title": "AI-Powered Green Building Ventilation",
+    "domain": "92",
+    "description": "A ventilation system for smart buildings that uses AI to balance energy efficiency with air purification needs.",
+    "keywords": ["Air Treatment", "Air Quality Systems", "Air Filtration"]
+},
+{
+    "id": 6595,
+    "title": "Crowdsourced Air Quality Mobile App",
+    "domain": "92",
+    "description": "A mobile app that collects data from wearable devices and low-cost sensors to provide hyper-localized pollution maps.",
+    "keywords": ["Air Quality Monitoring", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6596,
+    "title": "AI-Enhanced Emission Control for Factories",
+    "domain": "92",
+    "description": "A predictive AI model that optimizes industrial processes to minimize air pollutants without reducing efficiency.",
+    "keywords": ["Emission Control", "Pollution Technology", "Pollution Control"]
+},
+{
+    "id": 6597,
+    "title": "Portable Smart Air Treatment Device",
+    "domain": "92",
+    "description": "A lightweight, battery-powered personal device that purifies air in small enclosed spaces such as cars or offices.",
+    "keywords": ["Air Treatment", "Air Purification", "Clean Air Technology"]
+},
+{
+    "id": 6598,
+    "title": "AI-Driven Smog Control System",
+    "domain": "92",
+    "description": "A city-wide monitoring and response system that deploys large-scale smog-reducing technologies during severe air pollution episodes.",
+    "keywords": ["Pollution Control", "Atmospheric Control", "Air Quality Management"]
+},
+{
+    "id": 6599,
+    "title": "Smart IoT-Based Emission Tracking",
+    "domain": "92",
+    "description": "An IoT framework that connects industrial chimneys and vehicle exhausts to a cloud system for real-time emission reporting.",
+    "keywords": ["Emission Control", "Pollution Technology", "Environmental Monitoring"]
+},
+{
+    "id": 6600,
+    "title": "Air Filtration Using Nanotechnology",
+    "domain": "92",
+    "description": "A filtration system enhanced with nanomaterials for capturing ultrafine particles and toxic gases more effectively.",
+    "keywords": ["Air Filtration", "Clean Air Technology", "Air Purification"]
+},
+{
+    "id": 6601,
+    "title": "AI-Based Health Risk Predictor from Air Pollution",
+    "domain": "92",
+    "description": "A predictive health analytics system that correlates air pollution levels with respiratory and cardiovascular risks.",
+    "keywords": ["Air Quality Monitoring", "Air Quality Management", "Environmental Monitoring"]
+},
+{
+    "id": 6602,
+    "title": "Automated Traffic-Based Air Quality Control",
+    "domain": "92",
+    "description": "An AI-driven traffic management system that minimizes emissions by rerouting vehicles away from high-pollution areas.",
+    "keywords": ["Pollution Control", "Emission Control", "Air Quality Systems"]
+},
+{
+    "id": 6603,
+    "title": "Community-Level Clean Air Generator",
+    "domain": "92",
+    "description": "A localized purification hub that continuously cleans and circulates air in highly polluted neighborhoods.",
+    "keywords": ["Air Purification", "Clean Air Technology", "Air Treatment"]
+},
+{
+    "id": 6604,
+    "title": "AI-Based Atmospheric Pollution Simulator",
+    "domain": "92",
+    "description": "A simulation platform that models how pollutants disperse in the atmosphere under varying conditions for better planning.",
+    "keywords": ["Atmospheric Control", "Air Quality Management", "Pollution Technology"]
+},
+{
+    "id": 6605,
+    "title": "Low-Cost IoT Air Quality Sensors",
+    "domain": "92",
+    "description": "Affordable, solar-powered sensors that enable large-scale deployment for better coverage in developing regions.",
+    "keywords": ["Air Quality Monitoring", "Environmental Monitoring", "Air Quality Systems"]
+},
+{
+    "id": 6606,
+    "title": "AI-Based Air Quality Early Warning System",
+    "domain": "92",
+    "description": "A smart alert system that warns citizens of upcoming poor air quality days to take preventive actions.",
+    "keywords": ["Air Quality Management", "Air Quality Monitoring", "Atmospheric Control"]
+},
+{
+    "id": 6607,
+    "title": "Smart Wearable Air Filtration Mask",
+    "domain": "92",
+    "description": "A comfortable, sensor-enabled face mask that filters pollutants while monitoring respiratory health in real-time.",
+    "keywords": ["Air Filtration", "Air Purification", "Clean Air Technology"]
+},
+{
+    "id": 6608,
+    "title": "AI-Driven Air Quality Policy Advisor",
+    "domain": "92",
+    "description": "A decision support system for policymakers that uses predictive analytics to suggest pollution control policies.",
+    "keywords": ["Pollution Control", "Air Quality Management", "Environmental Monitoring"]
+},
+{
+    "id": 6609,
+    "title": "Real-Time Industrial Air Treatment System",
+    "domain": "92",
+    "description": "An on-site industrial solution that treats and filters exhaust gases before release into the atmosphere.",
+    "keywords": ["Air Treatment", "Emission Control", "Pollution Technology"]
+},
+{
+    "id": 6610,
+    "title": "AI-Powered Smart Ventilation for Schools",
+    "domain": "92",
+    "description": "A system that monitors indoor air quality in classrooms and automatically adjusts ventilation for healthier learning environments.",
+    "keywords": ["Air Quality Systems", "Air Filtration", "Air Treatment"]
+},
+{
+    "id": 6611,
+    "title": "Blockchain-Enabled Emission Tracking",
+    "domain": "92",
+    "description": "A transparent blockchain system for industries to record, track, and verify emissions for compliance reporting.",
+    "keywords": ["Emission Control", "Pollution Technology", "Air Quality Management"]
+},
+{
+    "id": 6612,
+    "title": "AI-Based Smart Air Quality Drone Swarm",
+    "domain": "92",
+    "description": "A fleet of drones working collaboratively to monitor air pollution across cities in real-time.",
+    "keywords": ["Air Quality Monitoring", "Atmospheric Control", "Environmental Monitoring"]
+},
+{
+    "id": 6613,
+    "title": "AI-Powered HVAC Energy and Pollution Optimizer",
+    "domain": "92",
+    "description": "A dual-purpose system that balances air purification with energy savings in large buildings.",
+    "keywords": ["Air Quality Systems", "Air Filtration", "Air Treatment"]
+},
+{
+    "id": 6614,
+    "title": "AI-Driven Pollution Hotspot Detector",
+    "domain": "92",
+    "description": "A system that identifies pollution hotspots in urban areas by analyzing traffic, industrial, and weather data.",
+    "keywords": ["Pollution Control", "Air Quality Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6615,
+    "title": "Clean Air Vending Machine",
+    "domain": "92",
+    "description": "A compact public system that dispenses purified oxygen-rich air in highly polluted areas like metro stations.",
+    "keywords": ["Air Purification", "Clean Air Technology", "Air Treatment"]
+},
+{
+    "id": 6616,
+    "title": "AI-Based Pollution Source Identifier",
+    "domain": "92",
+    "description": "A smart system that pinpoints exact sources of air pollution in real-time for quick enforcement actions.",
+    "keywords": ["Pollution Technology", "Air Quality Monitoring", "Emission Control"]
+},
+{
+    "id": 6617,
+    "title": "IoT-Enabled Pollution-Free Public Transport",
+    "domain": "92",
+    "description": "A connected monitoring system for buses and trains to ensure low emissions and maintain clean transit systems.",
+    "keywords": ["Emission Control", "Pollution Control", "Air Quality Systems"]
+},
+{
+    "id": 6618,
+    "title": "AI-Powered Cross-Border Pollution Tracker",
+    "domain": "92",
+    "description": "A monitoring system that tracks pollution movement across regions and nations, providing global cooperation data.",
+    "keywords": ["Atmospheric Control", "Environmental Monitoring", "Air Quality Management"]
+},
+{
+    "id": 6619,
+    "title": "Smart Air Quality Data Analytics Platform",
+    "domain": "92",
+    "description": "A big data platform that integrates sensor data, weather data, and public health statistics for detailed insights.",
+    "keywords": ["Air Quality Monitoring", "Air Quality Management", "Pollution Technology"]
+},
+{
+    "id": 6620,
+    "title": "AI-Enhanced Public Awareness Pollution App",
+    "domain": "92",
+    "description": "A mobile app that educates citizens about pollution exposure risks and provides personalized safety tips.",
+    "keywords": ["Air Quality Management", "Environmental Monitoring", "Air Purification"]
+},
+//domain-93
+
 
 
 
