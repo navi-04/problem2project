@@ -46605,7 +46605,399 @@ const PROBLEMS_DATA = {
     "keywords": ["Train Systems", "Train Technology", "Public Transportation"]
 },
 //domain-96
-
+    {
+        "id": 6749,
+        "title": "AI-Optimized Fermentation Monitoring",
+        "domain": "96",
+        "description": "Using AI algorithms to monitor and control fermentation parameters in real time for higher efficiency and consistency.",
+        "keywords": ["AI", "Fermentation", "Monitoring", "Process Control"]
+    },
+    {
+        "id": 6750,
+        "title": "Sustainable Brewing with Renewable Energy",
+        "domain": "96",
+        "description": "Incorporating renewable energy sources such as solar or biogas to power brewing operations sustainably.",
+        "keywords": ["Renewable Energy", "Brewing", "Sustainability", "Clean Energy"]
+    },
+    {
+        "id": 6751,
+        "title": "Smart Yeast Strain Development",
+        "domain": "96",
+        "description": "Engineering yeast strains with improved alcohol tolerance, flavor profiles, and productivity.",
+        "keywords": ["Yeast Strains", "Fermentation", "Genetic Engineering", "Brewing"]
+    },
+    {
+        "id": 6752,
+        "title": "Blockchain for Supply Chain Traceability",
+        "domain": "96",
+        "description": "Implementing blockchain systems to ensure transparency and authenticity in brewing ingredient supply chains.",
+        "keywords": ["Blockchain", "Supply Chain", "Traceability", "Brewing"]
+    },
+    {
+        "id": 6753,
+        "title": "Waste-to-Value Brewing Byproducts",
+        "domain": "96",
+        "description": "Converting brewing byproducts like spent grain and yeast into animal feed, biofuel, or bioplastics.",
+        "keywords": ["Byproducts", "Sustainability", "Biofuel", "Waste Management"]
+    },
+    {
+        "id": 6754,
+        "title": "IoT-Enabled Fermentation Tanks",
+        "domain": "96",
+        "description": "Equipping fermentation tanks with IoT sensors to monitor temperature, pH, and pressure continuously.",
+        "keywords": ["IoT", "Sensors", "Fermentation Tanks", "Real-Time Monitoring"]
+    },
+    {
+        "id": 6755,
+        "title": "Precision Fermentation for Alternative Proteins",
+        "domain": "96",
+        "description": "Utilizing precision fermentation to produce alternative proteins for food and beverage applications.",
+        "keywords": ["Precision Fermentation", "Alternative Proteins", "Food Tech", "Brewing Innovation"]
+    },
+    {
+        "id": 6756,
+        "title": "Carbon Capture in Brewing",
+        "domain": "96",
+        "description": "Capturing and reusing CO2 emissions generated during fermentation for carbonation or resale.",
+        "keywords": ["Carbon Capture", "Brewing", "Sustainability", "CO2 Utilization"]
+    },
+    {
+        "id": 6757,
+        "title": "Smart Fermentation Control Systems",
+        "domain": "96",
+        "description": "Developing AI-driven control systems for automated regulation of fermentation processes.",
+        "keywords": ["AI", "Automation", "Fermentation Control", "Brewing Technology"]
+    },
+    {
+        "id": 6758,
+        "title": "Low-Alcohol and Alcohol-Free Brewing",
+        "domain": "96",
+        "description": "Innovative brewing methods to produce high-quality low-alcohol and alcohol-free beverages.",
+        "keywords": ["Low-Alcohol", "Alcohol-Free", "Brewing Innovation", "Health Trends"]
+    },
+    {
+        "id": 6759,
+        "title": "Digital Twins for Brewing Plants",
+        "domain": "96",
+        "description": "Creating digital twin models of brewing facilities to simulate, optimize, and predict production outcomes.",
+        "keywords": ["Digital Twin", "Brewing Plants", "Simulation", "Optimization"]
+    },
+    {
+        "id": 6760,
+        "title": "Fermentation Wastewater Recycling",
+        "domain": "96",
+        "description": "Developing systems to recycle and treat wastewater generated in brewing and fermentation processes.",
+        "keywords": ["Wastewater Recycling", "Brewing Sustainability", "Circular Economy", "Eco Innovation"]
+    },
+    {
+        "id": 6761,
+        "title": "Smart Kegs with IoT Tracking",
+        "domain": "96",
+        "description": "Designing IoT-enabled kegs that monitor freshness, volume, and logistics in real time.",
+        "keywords": ["Smart Kegs", "IoT", "Logistics", "Brewing Technology"]
+    },
+    {
+        "id": 6762,
+        "title": "Enhanced Flavor Profiling via AI",
+        "domain": "96",
+        "description": "Using AI-driven analysis to predict and optimize flavor outcomes in brewing recipes.",
+        "keywords": ["AI", "Flavor Profiling", "Brewing Recipes", "Taste Optimization"]
+    },
+    {
+        "id": 6763,
+        "title": "Circular Brewing with Local Ingredients",
+        "domain": "96",
+        "description": "Promoting local ingredient sourcing and circular brewing models to reduce carbon footprint.",
+        "keywords": ["Local Ingredients", "Circular Brewing", "Sustainability", "Eco-Friendly"]
+    },
+    {
+        "id": 6764,
+        "title": "AI-Powered Quality Assurance",
+        "domain": "96",
+        "description": "Automating quality assurance in brewing with AI-based detection of defects and contamination.",
+        "keywords": ["AI", "Quality Assurance", "Automation", "Brewing Safety"]
+    },
+    {
+        "id": 6765,
+        "title": "Nano-Brewing Systems for Small Batches",
+        "domain": "96",
+        "description": "Compact brewing systems designed for small-batch production and craft brewers.",
+        "keywords": ["Nano-Brewing", "Small Batches", "Craft Brewing", "Innovation"]
+    },
+    {
+        "id": 6766,
+        "title": "Fermentation Process Digitalization",
+        "domain": "96",
+        "description": "Digitalizing fermentation workflows to improve traceability, efficiency, and data analysis.",
+        "keywords": ["Digitalization", "Fermentation", "Data Analytics", "Brewing"]
+    },
+    {
+        "id": 6767,
+        "title": "Alternative Grain Brewing",
+        "domain": "96",
+        "description": "Experimenting with non-traditional grains such as quinoa, sorghum, or millet in brewing.",
+        "keywords": ["Alternative Grains", "Brewing Innovation", "Diversity", "Fermentation"]
+    },
+    {
+        "id": 6768,
+        "title": "AI-Driven Fermentation Predictive Models",
+        "domain": "96",
+        "description": "Developing predictive AI models to forecast fermentation outcomes under varying conditions.",
+        "keywords": ["AI", "Predictive Models", "Fermentation", "Brewing"]
+    },
+    {
+        "id": 6769,
+        "title": "Zero-Waste Brewing Systems",
+        "domain": "96",
+        "description": "Designing integrated systems to ensure zero waste in the brewing process through reuse and recycling.",
+        "keywords": ["Zero Waste", "Brewing Systems", "Sustainability", "Circular Economy"]
+    },
+    {
+        "id": 6770,
+        "title": "Temperature-Responsive Fermentation Materials",
+        "domain": "96",
+        "description": "Using smart materials that adapt to temperature changes during fermentation for improved control.",
+        "keywords": ["Smart Materials", "Temperature Control", "Fermentation", "Innovation"]
+    },
+    {
+        "id": 6771,
+        "title": "Mobile Micro-Breweries",
+        "domain": "96",
+        "description": "Developing portable brewing systems for on-site craft beer production at events and venues.",
+        "keywords": ["Mobile Breweries", "Craft Beer", "Portable Systems", "Brewing Innovation"]
+    },
+    {
+        "id": 6772,
+        "title": "AI-Enhanced Fermentation Scheduling",
+        "domain": "96",
+        "description": "Optimizing fermentation schedules using AI for better productivity and energy efficiency.",
+        "keywords": ["AI", "Scheduling", "Fermentation", "Efficiency"]
+    },
+    {
+        "id": 6773,
+        "title": "Blockchain for Craft Brewing Authenticity",
+        "domain": "96",
+        "description": "Ensuring craft brewing authenticity and preventing counterfeiting using blockchain solutions.",
+        "keywords": ["Blockchain", "Craft Brewing", "Authenticity", "Traceability"]
+    },
+    {
+        "id": 6774,
+        "title": "Hybrid Fermentation Techniques",
+        "domain": "96",
+        "description": "Combining traditional and modern fermentation methods to create unique beverage profiles.",
+        "keywords": ["Hybrid Fermentation", "Innovation", "Brewing Methods", "Flavor Diversity"]
+    },
+    {
+        "id": 6775,
+        "title": "AI-Based Yeast Health Monitoring",
+        "domain": "96",
+        "description": "Tracking yeast health and vitality using AI-driven image and data analysis tools.",
+        "keywords": ["AI", "Yeast Health", "Monitoring", "Brewing Efficiency"]
+    },
+    {
+        "id": 6776,
+        "title": "3D Printing for Brewing Equipment",
+        "domain": "96",
+        "description": "Utilizing 3D printing to design and manufacture customized brewing and fermentation equipment.",
+        "keywords": ["3D Printing", "Brewing Equipment", "Customization", "Innovation"]
+    },
+    {
+        "id": 6777,
+        "title": "Cloud-Based Fermentation Analytics",
+        "domain": "96",
+        "description": "Developing cloud platforms to store, analyze, and share fermentation data across breweries.",
+        "keywords": ["Cloud", "Analytics", "Fermentation Data", "Brewing Technology"]
+    },
+    {
+        "id": 6778,
+        "title": "Sustainable Packaging for Breweries",
+        "domain": "96",
+        "description": "Creating eco-friendly and recyclable packaging solutions for beer and fermented beverages.",
+        "keywords": ["Sustainable Packaging", "Breweries", "Recyclable", "Eco-Friendly"]
+    },
+    {
+        "id": 6779,
+        "title": "Real-Time CO2 Monitoring Systems",
+        "domain": "96",
+        "description": "IoT-enabled systems to monitor CO2 levels during fermentation for improved safety and efficiency.",
+        "keywords": ["CO2 Monitoring", "IoT", "Fermentation Safety", "Brewing"]
+    },
+    {
+        "id": 6780,
+        "title": "Personalized Brewing Recipes with AI",
+        "domain": "96",
+        "description": "Allowing brewers to create personalized recipes using AI-driven flavor and ingredient recommendations.",
+        "keywords": ["AI", "Personalized Brewing", "Recipes", "Flavor Innovation"]
+    },
+    {
+        "id": 6781,
+        "title": "AI-Driven Microbial Fermentation Insights",
+        "domain": "96",
+        "description": "Leveraging AI to study microbial interactions in fermentation for enhanced outcomes.",
+        "keywords": ["AI", "Microbial Insights", "Fermentation", "Brewing"]
+    },
+    {
+        "id": 6782,
+        "title": "Cloud-Connected Smart Fermenters",
+        "domain": "96",
+        "description": "Developing cloud-connected fermenters for real-time monitoring and remote control.",
+        "keywords": ["Smart Fermenters", "Cloud-Connected", "Remote Control", "IoT"]
+    },
+    {
+        "id": 6783,
+        "title": "AI for Fermentation Yield Prediction",
+        "domain": "96",
+        "description": "Using AI models to predict fermentation yields based on raw materials and process variables.",
+        "keywords": ["AI", "Yield Prediction", "Fermentation", "Optimization"]
+    },
+    {
+        "id": 6784,
+        "title": "Brewing with Alternative Sugars",
+        "domain": "96",
+        "description": "Exploring the use of alternative sugars like honey, agave, and coconut sugar in brewing.",
+        "keywords": ["Alternative Sugars", "Brewing", "Flavor Profiles", "Fermentation"]
+    },
+    {
+        "id": 6785,
+        "title": "Closed-Loop Brewing Systems",
+        "domain": "96",
+        "description": "Designing closed-loop systems where water, heat, and byproducts are recycled within brewing operations.",
+        "keywords": ["Closed-Loop", "Sustainability", "Brewing Systems", "Efficiency"]
+    },
+    {
+        "id": 6786,
+        "title": "AI-Enabled Fermentation Troubleshooting",
+        "domain": "96",
+        "description": "Applying AI to detect and resolve fermentation issues such as stalled fermentation or contamination.",
+        "keywords": ["AI", "Troubleshooting", "Fermentation", "Brewing Quality"]
+    },
+    {
+        "id": 6787,
+        "title": "Virtual Reality for Brewing Training",
+        "domain": "96",
+        "description": "Using VR platforms to train brewers in safe, efficient, and innovative brewing techniques.",
+        "keywords": ["Virtual Reality", "Brewing Training", "Immersive Learning", "Innovation"]
+    },
+    {
+        "id": 6788,
+        "title": "Temperature-Stable Yeast Strains",
+        "domain": "96",
+        "description": "Developing yeast strains that perform well under variable temperature conditions.",
+        "keywords": ["Yeast Strains", "Temperature Stability", "Fermentation", "Brewing"]
+    },
+    {
+        "id": 6789,
+        "title": "Brewing Automation with Robotics",
+        "domain": "96",
+        "description": "Integrating robotic systems into brewing for tasks like cleaning, filling, and quality checks.",
+        "keywords": ["Robotics", "Automation", "Brewing", "Efficiency"]
+    },
+    {
+        "id": 6790,
+        "title": "AI-Driven Beer Style Innovation",
+        "domain": "96",
+        "description": "Using AI to create novel beer styles by analyzing global flavor trends and consumer preferences.",
+        "keywords": ["AI", "Beer Styles", "Innovation", "Consumer Trends"]
+    },
+    {
+        "id": 6791,
+        "title": "Zero-Emission Fermentation Plants",
+        "domain": "96",
+        "description": "Designing next-gen fermentation plants with zero emissions through renewable energy and carbon capture.",
+        "keywords": ["Zero Emission", "Fermentation Plants", "Sustainability", "Green Tech"]
+    },
+    {
+        "id": 6792,
+        "title": "AI-Guided Ingredient Optimization",
+        "domain": "96",
+        "description": "Optimizing ingredient proportions and sourcing with AI for better quality and cost efficiency.",
+        "keywords": ["AI", "Ingredient Optimization", "Brewing Quality", "Cost Efficiency"]
+    },
+    {
+        "id": 6793,
+        "title": "Fermentation Process Gamification",
+        "domain": "96",
+        "description": "Gamifying fermentation monitoring platforms to engage brewers and improve process adherence.",
+        "keywords": ["Gamification", "Fermentation", "Engagement", "Brewing Innovation"]
+    },
+    {
+        "id": 6794,
+        "title": "Mobile Apps for Home Brewing",
+        "domain": "96",
+        "description": "Developing mobile apps with AI support to help home brewers manage recipes and fermentation.",
+        "keywords": ["Home Brewing", "Mobile Apps", "AI Support", "Fermentation"]
+    },
+    {
+        "id": 6795,
+        "title": "Bioreactor-Based Fermentation",
+        "domain": "96",
+        "description": "Employing advanced bioreactors for scalable, controlled, and efficient fermentation processes.",
+        "keywords": ["Bioreactors", "Fermentation", "Scalability", "Efficiency"]
+    },
+    {
+        "id": 6796,
+        "title": "Brewing with Indigenous Microbes",
+        "domain": "96",
+        "description": "Exploring the use of local wild yeasts and microbes to develop unique brewing flavors.",
+        "keywords": ["Indigenous Microbes", "Wild Yeast", "Brewing", "Fermentation Innovation"]
+    },
+    {
+        "id": 6797,
+        "title": "AI-Optimized Energy Management in Brewing",
+        "domain": "96",
+        "description": "Applying AI for predictive energy management in brewing plants to reduce operational costs.",
+        "keywords": ["AI", "Energy Management", "Brewing Plants", "Sustainability"]
+    },
+    {
+        "id": 6798,
+        "title": "Cloud-Based Brewing Collaboration Platforms",
+        "domain": "96",
+        "description": "Creating platforms that allow breweries worldwide to collaborate, share data, and co-develop recipes.",
+        "keywords": ["Cloud", "Collaboration", "Brewing Platforms", "Innovation"]
+    },
+    {
+        "id": 6799,
+        "title": "AI-Driven Sensory Analysis",
+        "domain": "96",
+        "description": "Using AI and machine learning to analyze sensory data like aroma, taste, and mouthfeel in brewing.",
+        "keywords": ["AI", "Sensory Analysis", "Brewing Quality", "Innovation"]
+    },
+    {
+        "id": 6800,
+        "title": "Sustainable Fermentation Additives",
+        "domain": "96",
+        "description": "Developing eco-friendly additives for fermentation that enhance performance without harming the environment.",
+        "keywords": ["Sustainable Additives", "Fermentation", "Eco-Friendly", "Brewing"]
+    },
+    {
+        "id": 6801,
+        "title": "Digital Marketplaces for Craft Brewers",
+        "domain": "96",
+        "description": "Building digital platforms that connect craft brewers to consumers directly with transparency and traceability.",
+        "keywords": ["Digital Marketplace", "Craft Brewers", "Transparency", "Traceability"]
+    },
+    {
+        "id": 6802,
+        "title": "Brewing with Functional Ingredients",
+        "domain": "96",
+        "description": "Incorporating functional ingredients like probiotics, vitamins, and adaptogens into fermented beverages.",
+        "keywords": ["Functional Ingredients", "Probiotics", "Brewing Innovation", "Fermentation"]
+    },
+    {
+        "id": 6803,
+        "title": "AI-Assisted Cleaning-in-Place (CIP) Systems",
+        "domain": "96",
+        "description": "Optimizing CIP processes in brewing plants with AI for water and chemical efficiency.",
+        "keywords": ["AI", "CIP Systems", "Brewing Efficiency", "Sustainability"]
+    },
+    {
+    "id": 6804,
+    "title": "Fermentation-Based Biofuel Production",
+    "domain": "96",
+    "description": "Leveraging brewing and fermentation technologies to produce biofuels as renewable energy alternatives.",
+    "keywords": ["Biofuel", "Fermentation", "Renewable Energy", "Sustainable Technology"]
+},
+// domain 97
 
 
 
