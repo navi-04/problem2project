@@ -43060,7 +43060,401 @@ const PROBLEMS_DATA = {
         "keywords": ["Research Database", "Data Sharing", "Scientific Repository"]
     },
     // domain 86
+    {
+        "id": 6245,
+        "title": "Development of Smart Waste Segregation Systems",
+        "domain": "86",
+        "description": "Designing and implementing intelligent systems that can automatically sort waste at the source using AI and sensor technologies, enhancing recycling efficiency.",
+        "keywords": ["Smart Waste Management", "AI in Recycling", "Waste Segregation", "IoT Sensors"]
+    },
+    {
+        "id": 6246,
+        "title": "Circular Economy Models for Textile Waste",
+        "domain": "86",
+        "description": "Creating sustainable business models that promote the reuse, recycling, and upcycling of textile waste to reduce landfill contributions.",
+        "keywords": ["Textile Recycling", "Circular Fashion", "Sustainable Textiles", "Upcycling"]
+    },
+    {
+        "id": 6247,
+        "title": "Plastic Waste Reduction through Biodegradable Alternatives",
+        "domain": "86",
+        "description": "Developing and promoting the use of biodegradable materials as substitutes for conventional plastics to minimize environmental impact.",
+        "keywords": ["Biodegradable Materials", "Plastic Alternatives", "Sustainable Packaging", "Waste Reduction"]
+    },
+    {
+        "id": 6248,
+        "title": "E-Waste Recycling and Resource Recovery",
+        "domain": "86",
+        "description": "Implementing efficient systems for the collection, recycling, and recovery of valuable materials from electronic waste.",
+        "keywords": ["E-Waste Management", "Resource Recovery", "Recycling Technologies", "Electronic Waste"]
+    },
+    {
+        "id": 6249,
+        "title": "Food Waste Reduction in Urban Areas",
+        "domain": "86",
+        "description": "Developing strategies and technologies to reduce food waste in urban settings, focusing on prevention, redistribution, and recycling.",
+        "keywords": ["Food Waste", "Urban Sustainability", "Waste Prevention", "Resource Redistribution"]
+    },
+    {
+        "id": 6250,
+        "title": "Construction and Demolition Waste Management",
+        "domain": "86",
+        "description": "Creating systems for the efficient management, recycling, and reuse of materials from construction and demolition activities.",
+        "keywords": ["Construction Waste", "Demolition Waste", "Recycling", "Sustainable Building Materials"]
+    },
+    {
+        "id": 6251,
+        "title": "Circular Economy in Agricultural Residues",
+        "domain": "86",
+        "description": "Developing methods to convert agricultural residues into valuable products, promoting sustainability in the agricultural sector.",
+        "keywords": ["Agricultural Waste", "Bioenergy", "Sustainable Agriculture", "Waste Valorization"]
+    },
+    {
+        "id": 6252,
+        "title": "Zero-Waste Urban Planning",
+        "domain": "86",
+        "description": "Designing urban environments that minimize waste generation through efficient resource use and recycling infrastructure.",
+        "keywords": ["Zero-Waste Cities", "Urban Sustainability", "Resource Efficiency", "Waste Minimization"]
+    },
+    {
+        "id": 6253,
+        "title": "Circular Economy in Plastic Packaging",
+        "domain": "86",
+        "description": "Developing systems for the collection, recycling, and reuse of plastic packaging materials to reduce environmental impact.",
+        "keywords": ["Plastic Packaging", "Circular Economy", "Recycling Systems", "Sustainable Packaging"]
+    },
+    {
+        "id": 6254,
+        "title": "Waste-to-Energy Technologies",
+        "domain": "86",
+        "description": "Implementing technologies that convert waste materials into usable energy, reducing landfill usage and providing alternative energy sources.",
+        "keywords": ["Waste-to-Energy", "Renewable Energy", "Sustainable Waste Management", "Energy Recovery"]
+    },
+    {
+        "id": 6255,
+        "title": "Public Awareness Campaigns for Waste Reduction",
+        "domain": "86",
+        "description": "Designing and executing campaigns to educate the public on the importance of waste reduction and sustainable practices.",
+        "keywords": ["Waste Reduction", "Public Education", "Sustainability Campaigns", "Community Engagement"]
+    },
+    {
+        "id": 6256,
+        "title": "Circular Economy in Food Packaging",
+        "domain": "86",
+        "description": "Developing packaging solutions that are reusable, recyclable, or compostable to reduce food packaging waste.",
+        "keywords": ["Food Packaging", "Circular Economy", "Sustainable Packaging", "Waste Reduction"]
+    },
+    {
+        "id": 6257,
+        "title": "Plastic Waste Management in Coastal Regions",
+        "domain": "86",
+        "description": "Implementing strategies to manage and reduce plastic waste in coastal areas, protecting marine ecosystems.",
+        "keywords": ["Plastic Waste", "Coastal Management", "Marine Pollution", "Sustainable Practices"]
+    },
+    {
+        "id": 6258,
+        "title": "Circular Economy in Consumer Electronics",
+        "domain": "86",
+        "description": "Promoting the design and use of consumer electronics that are durable, repairable, and recyclable to reduce electronic waste.",
+        "keywords": ["Consumer Electronics", "Circular Economy", "E-Waste Reduction", "Sustainable Design"]
+    },
+    {
+        "id": 6259,
+        "title": "Recycling of Rare Earth Elements",
+        "domain": "86",
+        "description": "Developing methods to efficiently recycle rare earth elements from electronic waste to ensure sustainable supply.",
+        "keywords": ["Rare Earth Elements", "Recycling Technologies", "E-Waste", "Resource Recovery"]
+    },
+    {
+        "id": 6260,
+        "title": "Sustainable Textile Dyeing Processes",
+        "domain": "86",
+        "description": "Creating environmentally friendly textile dyeing methods that minimize water usage and chemical waste.",
+        "keywords": ["Textile Dyeing", "Sustainable Practices", "Water Conservation", "Chemical Waste Reduction"]
+    },
+    {
+        "id": 6261,
+        "title": "Circular Economy in Automotive Industry",
+        "domain": "86",
+        "description": "Implementing practices in the automotive industry that promote the reuse and recycling of vehicle components.",
+        "keywords": ["Automotive Industry", "Circular Economy", "Vehicle Recycling", "Sustainable Manufacturing"]
+    },
+    {
+        "id": 6262,
+        "title": "Recycling of Construction Materials",
+        "domain": "86",
+        "description": "Developing systems to recycle materials from construction and demolition activities for reuse in new projects.",
+        "keywords": ["Construction Materials", "Recycling Systems", "Sustainable Building", "Waste Minimization"]
+    },
+    {
+        "id": 6263,
+        "title": "Circular Economy in Hospitality Industry",
+        "domain": "86",
+        "description": "Promoting sustainable practices in the hospitality industry, focusing on waste reduction and resource efficiency.",
+        "keywords": ["Hospitality Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6264,
+        "title": "Food Waste Valorization Technologies",
+        "domain": "86",
+        "description": "Developing technologies to convert food waste into valuable products like biofuels or animal feed.",
+        "keywords": ["Food Waste", "Valorization Technologies", "Biofuels", "Sustainable Practices"]
+    },
+    {
+        "id": 6265,
+        "title": "Circular Economy in Healthcare Sector",
+        "domain": "86",
+        "description": "Implementing sustainable practices in healthcare facilities to reduce waste and promote resource efficiency.",
+        "keywords": ["Healthcare Sector", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6266,
+        "title": "Recycling of Organic Waste",
+        "domain": "86",
+        "description": "Developing methods to efficiently recycle organic waste into compost or biogas.",
+        "keywords": ["Organic Waste", "Recycling Methods", "Composting", "Biogas Production"]
+    },
+    {
+        "id": 6267,
+        "title": "Circular Economy in Retail Industry",
+        "domain": "86",
+        "description": "Promoting sustainable practices in the retail industry, focusing on waste reduction and resource efficiency.",
+        "keywords": ["Retail Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6268,
+        "title": "Recycling of Mixed Plastics",
+        "domain": "86",
+        "description": "Developing technologies to efficiently recycle mixed plastic materials that are challenging to process.",
+        "keywords": ["Mixed Plastics", "Recycling Technologies", "Plastic Waste", "Sustainable Practices"]
+    },
+    {
+        "id": 6269,
+        "title": "Circular Economy in Food Service Industry",
+        "domain": "86",
+        "description": "Implementing sustainable practices in the food service industry to reduce waste and promote resource efficiency.",
+        "keywords": ["Food Service Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6270,
+        "title": "Recycling of Construction and Demolition Debris",
+        "domain": "86",
+        "description": "Developing systems to recycle debris from construction and demolition activities for reuse in new projects.",
+        "keywords": ["Construction Debris", "Recycling Systems", "Sustainable Building", "Waste Minimization"]
+    },
+    {
+        "id": 6271,
+        "title": "Circular Economy in Textile Industry",
+        "domain": "86",
+        "description": "Promoting sustainable practices in the textile industry, focusing on waste reduction and resource efficiency.",
+        "keywords": ["Textile Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6272,
+        "title": "Recycling of Electronic Waste",
+        "domain": "86",
+        "description": "Developing methods to efficiently recycle electronic waste to recover valuable materials.",
+        "keywords": ["Electronic Waste", "Recycling Methods", "Resource Recovery", "Sustainable Practices"]
+    },
+    {
+        "id": 6273,
+        "title": "Circular Economy in Packaging Industry",
+        "domain": "86",
+        "description": "Implementing sustainable practices in the packaging industry to reduce waste and promote resource efficiency.",
+        "keywords": ["Packaging Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6274,
+        "title": "Recycling of Hazardous Waste",
+        "domain": "86",
+        "description": "Developing methods to safely recycle hazardous waste materials to minimize environmental contamination and health risks.",
+        "keywords": ["Hazardous Waste", "Recycling Technologies", "Environmental Safety", "Health Protection"]
+    },
+    {
+        "id": 6275,
+        "title": "Circular Economy for Beverage Packaging",
+        "domain": "86",
+        "description": "Creating systems for collecting, recycling, and reusing beverage packaging to promote sustainable practices in the beverage industry.",
+        "keywords": ["Beverage Packaging", "Circular Economy", "Recycling Systems", "Sustainable Packaging"]
+    },
+    {
+        "id": 6276,
+        "title": "Biodegradable Alternatives to Single-Use Plastics",
+        "domain": "86",
+        "description": "Researching and promoting the use of biodegradable alternatives to reduce single-use plastic waste in consumer products.",
+        "keywords": ["Biodegradable Materials", "Single-Use Plastics", "Sustainable Alternatives", "Waste Reduction"]
+    },
+    {
+        "id": 6277,
+        "title": "Recycling of Paper and Cardboard Waste",
+        "domain": "86",
+        "description": "Implementing efficient systems to collect and recycle paper and cardboard materials, minimizing landfill waste.",
+        "keywords": ["Paper Waste", "Cardboard Recycling", "Sustainable Practices", "Waste Management"]
+    },
+    {
+        "id": 6278,
+        "title": "Circular Economy in Packaging Design",
+        "domain": "86",
+        "description": "Developing packaging solutions that are reusable, recyclable, or made from sustainable materials to reduce environmental impact.",
+        "keywords": ["Packaging Design", "Circular Economy", "Sustainable Materials", "Waste Reduction"]
+    },
+    {
+        "id": 6279,
+        "title": "Organic Waste Composting for Urban Areas",
+        "domain": "86",
+        "description": "Designing urban composting systems to convert organic waste into nutrient-rich compost, promoting sustainable urban agriculture.",
+        "keywords": ["Organic Waste", "Composting", "Urban Agriculture", "Sustainability"]
+    },
+    {
+        "id": 6280,
+        "title": "Wastewater Treatment and Resource Recovery",
+        "domain": "86",
+        "description": "Developing methods to treat wastewater while recovering valuable resources such as nutrients and energy for reuse.",
+        "keywords": ["Wastewater Treatment", "Resource Recovery", "Sustainable Water Management", "Circular Economy"]
+    },
+    {
+        "id": 6281,
+        "title": "Recycling of Glass Waste",
+        "domain": "86",
+        "description": "Implementing systems to efficiently collect and recycle glass materials, reducing landfill burden and conserving resources.",
+        "keywords": ["Glass Recycling", "Waste Management", "Sustainable Practices", "Resource Conservation"]
+    },
+    {
+        "id": 6282,
+        "title": "Circular Economy in Pharmaceutical Industry",
+        "domain": "86",
+        "description": "Promoting sustainable practices in pharmaceutical manufacturing, packaging, and disposal to reduce waste and environmental impact.",
+        "keywords": ["Pharmaceutical Industry", "Circular Economy", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6283,
+        "title": "Recycling of Metal Scrap",
+        "domain": "86",
+        "description": "Developing technologies for the collection, sorting, and recycling of metal scrap to recover valuable materials.",
+        "keywords": ["Metal Recycling", "Scrap Recovery", "Sustainable Practices", "Circular Economy"]
+    },
+    {
+        "id": 6284,
+        "title": "Circular Economy in Plastic Bottles",
+        "domain": "86",
+        "description": "Creating systems for collection, recycling, and reuse of plastic bottles to reduce environmental pollution.",
+        "keywords": ["Plastic Bottles", "Circular Economy", "Recycling Systems", "Sustainable Packaging"]
+    },
+    {
+        "id": 6285,
+        "title": "Valorization of Food Waste into Bioproducts",
+        "domain": "86",
+        "description": "Converting food waste into value-added products like biofuels, animal feed, or fertilizers using innovative technologies.",
+        "keywords": ["Food Waste", "Bioproducts", "Waste Valorization", "Circular Economy"]
+    },
+    {
+        "id": 6286,
+        "title": "Recycling of Textile Waste into Fibers",
+        "domain": "86",
+        "description": "Developing processes to recycle textile waste into reusable fibers for the production of new fabrics and products.",
+        "keywords": ["Textile Waste", "Fiber Recycling", "Sustainable Textiles", "Circular Economy"]
+    },
+    {
+        "id": 6287,
+        "title": "Circular Economy in E-Commerce Packaging",
+        "domain": "86",
+        "description": "Designing sustainable packaging solutions for e-commerce to reduce waste and improve recyclability.",
+        "keywords": ["E-Commerce", "Circular Packaging", "Sustainable Practices", "Waste Reduction"]
+    },
+    {
+        "id": 6288,
+        "title": "Recycling of Hazardous Industrial Chemicals",
+        "domain": "86",
+        "description": "Developing safe and effective methods to recycle or neutralize hazardous chemicals from industrial processes.",
+        "keywords": ["Hazardous Chemicals", "Industrial Waste", "Recycling", "Environmental Safety"]
+    },
+    {
+        "id": 6289,
+        "title": "Circular Economy in Consumer Packaging",
+        "domain": "86",
+        "description": "Implementing strategies for reusable and recyclable packaging in consumer products to reduce environmental impact.",
+        "keywords": ["Consumer Packaging", "Circular Economy", "Sustainability", "Waste Reduction"]
+    },
+    {
+        "id": 6290,
+        "title": "Recycling of Composite Materials",
+        "domain": "86",
+        "description": "Developing techniques to recycle complex composite materials from construction, automotive, and aerospace sectors.",
+        "keywords": ["Composite Materials", "Recycling Technology", "Sustainability", "Circular Economy"]
+    },
+    {
+        "id": 6291,
+        "title": "Waste Reduction in Fast-Fashion Industry",
+        "domain": "86",
+        "description": "Implementing circular economy principles to reduce waste and resource consumption in fast-fashion production.",
+        "keywords": ["Fast-Fashion", "Waste Reduction", "Circular Economy", "Sustainable Textiles"]
+    },
+    {
+        "id": 6292,
+        "title": "Recycling of Rubber and Tires",
+        "domain": "86",
+        "description": "Creating systems to recycle used tires and rubber materials for reuse in construction or industrial products.",
+        "keywords": ["Rubber Recycling", "Tire Waste", "Circular Economy", "Sustainable Practices"]
+    },
+    {
+        "id": 6293,
+        "title": "Circular Economy in Plastic Food Containers",
+        "domain": "86",
+        "description": "Designing reusable and recyclable plastic containers for food packaging to minimize waste.",
+        "keywords": ["Plastic Food Containers", "Circular Economy", "Sustainable Packaging", "Waste Reduction"]
+    },
+    {
+        "id": 6294,
+        "title": "Recycling of Lithium-Ion Batteries",
+        "domain": "86",
+        "description": "Developing methods to safely recycle lithium-ion batteries from electronics and electric vehicles to recover critical materials.",
+        "keywords": ["Lithium-Ion Batteries", "Recycling", "Resource Recovery", "Sustainability"]
+    },
+    {
+        "id": 6295,
+        "title": "Circular Economy in Beverage Industry",
+        "domain": "86",
+        "description": "Promoting sustainable practices in the beverage sector by implementing recycling, reuse, and reduction strategies.",
+        "keywords": ["Beverage Industry", "Circular Economy", "Waste Reduction", "Sustainable Practices"]
+    },
+    {
+        "id": 6296,
+        "title": "Recycling of Mixed Paper and Cardboard",
+        "domain": "86",
+        "description": "Developing efficient methods to recycle mixed paper and cardboard materials from urban waste streams.",
+        "keywords": ["Paper Recycling", "Cardboard Recycling", "Waste Management", "Circular Economy"]
+    },
+    {
+        "id": 6297,
+        "title": "Circular Economy in Household Products",
+        "domain": "86",
+        "description": "Implementing sustainable design and recycling strategies in household products to reduce waste and environmental impact.",
+        "keywords": ["Household Products", "Circular Economy", "Sustainable Design", "Waste Reduction"]
+    },
+    {
+        "id": 6298,
+        "title": "Recycling of Glass Bottles and Containers",
+        "domain": "86",
+        "description": "Creating systems to efficiently collect and recycle glass bottles and containers for reuse in production.",
+        "keywords": ["Glass Recycling", "Sustainable Practices", "Circular Economy", "Waste Management"]
+    },
+    {
+        "id": 6299,
+        "title": "Circular Economy in Plastic Film Packaging",
+        "domain": "86",
+        "description": "Designing sustainable systems for the collection and recycling of plastic film packaging materials.",
+        "keywords": ["Plastic Film", "Circular Economy", "Recycling Systems", "Sustainability"]
+    },
+    {
+        "id": 6300,
+        "title": "Recycling of Organic Food Waste into Biofertilizers",
+        "domain": "86",
+        "description": "Developing processes to convert organic food waste into nutrient-rich biofertilizers for agricultural use.",
+        "keywords": ["Organic Waste", "Biofertilizers", "Recycling", "Sustainable Agriculture"]
+    },
+    //domain 87
     
+
 
   
 
