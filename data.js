@@ -42561,7 +42561,508 @@ const PROBLEMS_DATA = {
         "keywords": ["Infrastructure Weather", "System Resilience", "Weather Impact Assessment"]
     },
     // domain 85
+  
+    {
+        "id": 6174,
+        "title": "AI-Powered Nutrient Solution Optimizer",
+        "domain": "85",
+        "description": "Automated system that monitors plant growth stages and adjusts hydroponic nutrient concentrations in real-time using machine learning algorithms.",
+        "keywords": ["Nutrient Management", "Plant Growth Monitoring", "AI Agriculture"]
+    },
+    {
+        "id": 6175,
+        "title": "Vertical Farm Climate Control Hub",
+        "domain": "85",
+        "description": "Comprehensive environmental management platform controlling temperature, humidity, CO2 levels, and airflow across multi-story growing facilities.",
+        "keywords": ["Climate Control", "Environmental Management", "Indoor Growing"]
+    },
+    {
+        "id": 6176,
+        "title": "LED Growth Light Spectrum Optimizer",
+        "domain": "85",
+        "description": "Dynamic lighting system that adjusts LED spectrum and intensity based on plant species, growth stage, and energy efficiency requirements.",
+        "keywords": ["LED Lighting", "Spectrum Control", "Energy Efficiency"]
+    },
+    {
+        "id": 6177,
+        "title": "Hydroponic Disease Detection System",
+        "domain": "85",
+        "description": "Computer vision platform analyzing plant images to detect early signs of diseases, pests, and nutrient deficiencies in soilless growing systems.",
+        "keywords": ["Plant Health Monitoring", "Disease Detection", "Computer Vision"]
+    },
+    {
+        "id": 6178,
+        "title": "Automated Seed-to-Harvest Robot",
+        "domain": "85",
+        "description": "Robotic system handling complete crop lifecycle from seeding and transplanting to harvesting in vertical farming environments.",
+        "keywords": ["Agricultural Robotics", "Automated Harvesting", "Crop Lifecycle"]
+    },
+    {
+        "id": 6179,
+        "title": "Hydroponic Water Quality Monitor",
+        "domain": "85",
+        "description": "Real-time monitoring system tracking pH, electrical conductivity, dissolved oxygen, and nutrient levels in hydroponic water systems.",
+        "keywords": ["Water Quality", "pH Monitoring", "Nutrient Tracking"]
+    },
+    {
+        "id": 6180,
+        "title": "Vertical Farm Space Utilization Planner",
+        "domain": "85",
+        "description": "3D modeling platform optimizing vertical growing space layout to maximize crop yield per square foot while ensuring proper plant spacing.",
+        "keywords": ["Space Optimization", "3D Planning", "Yield Maximization"]
+    },
+    {
+        "id": 6181,
+        "title": "Hydroponic Root Zone Analyzer",
+        "domain": "85",
+        "description": "Sensor-based system monitoring root health, oxygen levels, and temperature in the root zone of hydroponic growing systems.",
+        "keywords": ["Root Monitoring", "Root Zone Health", "Oxygen Management"]
+    },
+    {
+        "id": 6182,
+        "title": "Crop Rotation Scheduler for Vertical Farms",
+        "domain": "85",
+        "description": "Planning platform optimizing crop rotation schedules and species selection to maintain soil health and maximize continuous production.",
+        "keywords": ["Crop Rotation", "Production Planning", "Species Selection"]
+    },
+    {
+        "id": 6183,
+        "title": "Hydroponic Waste Heat Recovery System",
+        "domain": "85",
+        "description": "Energy efficiency platform capturing and redistributing waste heat from LED lights and equipment to maintain optimal growing temperatures.",
+        "keywords": ["Heat Recovery", "Energy Efficiency", "Thermal Management"]
+    },
+    {
+        "id": 6184,
+        "title": "Plant Growth Rate Prediction Model",
+        "domain": "85",
+        "description": "Machine learning platform predicting plant growth rates and harvest timing based on environmental conditions and historical data.",
+        "keywords": ["Growth Prediction", "Harvest Planning", "Machine Learning"]
+    },
+    {
+        "id": 6185,
+        "title": "Aeroponic Misting Control System",
+        "domain": "85",
+        "description": "Precision misting platform controlling droplet size, frequency, and nutrient delivery for optimal aeroponic root development.",
+        "keywords": ["Aeroponic Systems", "Misting Control", "Root Development"]
+    },
+    {
+        "id": 6186,
+        "title": "Vertical Farm Energy Management Dashboard",
+        "domain": "85",
+        "description": "Comprehensive energy monitoring and optimization platform reducing power consumption while maintaining optimal growing conditions.",
+        "keywords": ["Energy Management", "Power Optimization", "Sustainable Farming"]
+    },
+    {
+        "id": 6187,
+        "title": "Hydroponic System Leak Detection Network",
+        "domain": "85",
+        "description": "Sensor network detecting water leaks, blockages, and system failures in hydroponic irrigation and nutrient delivery systems.",
+        "keywords": ["Leak Detection", "System Monitoring", "Maintenance Alerts"]
+    },
+    {
+        "id": 6188,
+        "title": "Multi-Crop Growing Environment Controller",
+        "domain": "85",
+        "description": "Advanced control system managing different environmental zones within a single facility to optimize conditions for multiple crop types.",
+        "keywords": ["Multi-Crop Systems", "Zone Control", "Environmental Optimization"]
+    },
+    {
+        "id": 6189,
+        "title": "Hydroponic Seed Germination Optimizer",
+        "domain": "85",
+        "description": "Controlled environment system optimizing temperature, humidity, and light conditions for maximum seed germination rates.",
+        "keywords": ["Seed Germination", "Germination Control", "Seedling Production"]
+    },
+    {
+        "id": 6190,
+        "title": "Vertical Farm Pollination Assistant",
+        "domain": "85",
+        "description": "Robotic or mechanical system assisting with plant pollination in enclosed vertical farming environments where natural pollinators are absent.",
+        "keywords": ["Plant Pollination", "Robotic Assistance", "Fruit Production"]
+    },
+    {
+        "id": 6191,
+        "title": "Hydroponic Nutrient Recipe Database",
+        "domain": "85",
+        "description": "Comprehensive platform storing and recommending nutrient formulations for different plant species and growing stages.",
+        "keywords": ["Nutrient Recipes", "Plant Nutrition", "Growing Guidelines"]
+    },
+    {
+        "id": 6192,
+        "title": "Vertical Farm Pest Management System",
+        "domain": "85",
+        "description": "Integrated pest control platform using biological controls, pheromone traps, and early detection to manage pests without pesticides.",
+        "keywords": ["Pest Control", "Biological Controls", "Pesticide-Free Growing"]
+    },
+    {
+        "id": 6193,
+        "title": "Hydroponic Yield Forecasting Platform",
+        "domain": "85",
+        "description": "Predictive analytics platform forecasting crop yields based on growth conditions, plant health, and historical production data.",
+        "keywords": ["Yield Forecasting", "Production Planning", "Predictive Analytics"]
+    },
+    {
+        "id": 6194,
+        "title": "Growing Medium Selection Advisor",
+        "domain": "85",
+        "description": "Decision support system recommending optimal growing media for different hydroponic systems based on crop requirements and cost factors.",
+        "keywords": ["Growing Media", "Substrate Selection", "Growing Systems"]
+    },
+    {
+        "id": 6195,
+        "title": "Vertical Farm Air Circulation Optimizer",
+        "domain": "85",
+        "description": "Airflow management system ensuring proper ventilation and air circulation to prevent mold, mildew, and promote healthy plant growth.",
+        "keywords": ["Air Circulation", "Ventilation Control", "Mold Prevention"]
+    },
+    {
+        "id": 6196,
+        "title": "Hydroponic System pH Buffer Controller",
+        "domain": "85",
+        "description": "Automated pH management system maintaining optimal acidity levels in nutrient solutions through precise buffer addition and monitoring.",
+        "keywords": ["pH Control", "Buffer Management", "Water Chemistry"]
+    },
+    {
+        "id": 6197,
+        "title": "Plant Canopy Management Analyzer",
+        "domain": "85",
+        "description": "Computer vision system analyzing plant canopy density and recommending pruning, training, and spacing adjustments for optimal light penetration.",
+        "keywords": ["Canopy Management", "Plant Training", "Light Optimization"]
+    },
+    {
+        "id": 6198,
+        "title": "Hydroponic Fertilizer Mixing Station",
+        "domain": "85",
+        "description": "Automated system precisely mixing concentrated nutrient solutions to create custom fertilizer blends for different crops and growth stages.",
+        "keywords": ["Fertilizer Mixing", "Nutrient Blending", "Automated Dosing"]
+    },
+    {
+        "id": 6199,
+        "title": "Vertical Farm Labor Optimization Tool",
+        "domain": "85",
+        "description": "Workforce management platform optimizing labor allocation and task scheduling for maximum efficiency in vertical farming operations.",
+        "keywords": ["Labor Management", "Task Scheduling", "Operational Efficiency"]
+    },
+    {
+        "id": 6200,
+        "title": "Hydroponic Water Recycling System",
+        "domain": "85",
+        "description": "Closed-loop water treatment platform filtering and recirculating nutrient solutions to minimize water waste and maximize efficiency.",
+        "keywords": ["Water Recycling", "Closed-loop Systems", "Water Conservation"]
+    },
+    {
+        "id": 6201,
+        "title": "Plant Stress Detection Monitor",
+        "domain": "85",
+        "description": "Multi-sensor platform detecting various plant stress indicators including water stress, nutrient deficiency, and environmental stress.",
+        "keywords": ["Plant Stress", "Stress Detection", "Plant Health"]
+    },
+    {
+        "id": 6202,
+        "title": "Vertical Farm HVAC Optimization System",
+        "domain": "85",
+        "description": "Intelligent heating, ventilation, and air conditioning system optimizing energy use while maintaining ideal growing temperatures.",
+        "keywords": ["HVAC Optimization", "Temperature Control", "Energy Efficiency"]
+    },
+    {
+        "id": 6203,
+        "title": "Hydroponic Crop Scheduling Platform",
+        "domain": "85",
+        "description": "Production planning system optimizing planting schedules to ensure continuous harvest and maximum facility utilization.",
+        "keywords": ["Crop Scheduling", "Production Planning", "Harvest Timing"]
+    },
+    {
+        "id": 6204,
+        "title": "Growing Tower Structural Monitor",
+        "domain": "85",
+        "description": "Structural integrity monitoring system ensuring safety and stability of vertical growing towers and support structures.",
+        "keywords": ["Structural Monitoring", "Safety Systems", "Tower Stability"]
+    },
+    {
+        "id": 6205,
+        "title": "Hydroponic Oxygen Injection System",
+        "domain": "85",
+        "description": "Oxygenation platform maintaining optimal dissolved oxygen levels in nutrient solutions for healthy root development.",
+        "keywords": ["Oxygen Injection", "Root Oxygenation", "Dissolved Oxygen"]
+    },
+    {
+        "id": 6206,
+        "title": "Plant Phenotyping Analysis Platform",
+        "domain": "85",
+        "description": "Advanced imaging system measuring plant traits, growth patterns, and phenotypic characteristics for breeding and optimization.",
+        "keywords": ["Plant Phenotyping", "Trait Analysis", "Growth Measurement"]
+    },
+    {
+        "id": 6207,
+        "title": "Vertical Farm Biosecurity System",
+        "domain": "85",
+        "description": "Comprehensive contamination prevention platform controlling access, sterilization, and monitoring for pathogen-free growing environments.",
+        "keywords": ["Biosecurity", "Contamination Prevention", "Sterile Environment"]
+    },
+    {
+        "id": 6208,
+        "title": "Hydroponic Electrical Conductivity Controller",
+        "domain": "85",
+        "description": "Automated system monitoring and adjusting nutrient solution conductivity to maintain optimal mineral concentration levels.",
+        "keywords": ["Electrical Conductivity", "Nutrient Concentration", "EC Control"]
+    },
+    {
+        "id": 6209,
+        "title": "Crop Quality Assessment Scanner",
+        "domain": "85",
+        "description": "Non-destructive quality assessment system analyzing size, color, sugar content, and other quality parameters of harvested crops.",
+        "keywords": ["Quality Assessment", "Crop Grading", "Non-destructive Testing"]
+    },
+    {
+        "id": 6210,
+        "title": "Vertical Farm Data Analytics Hub",
+        "domain": "85",
+        "description": "Comprehensive data collection and analysis platform providing insights into growing performance, efficiency, and optimization opportunities.",
+        "keywords": ["Data Analytics", "Performance Monitoring", "Growth Insights"]
+    },
+    {
+        "id": 6211,
+        "title": "Hydroponic System Backup Controller",
+        "domain": "85",
+        "description": "Redundant control system ensuring continuous operation during equipment failures with automatic failover capabilities.",
+        "keywords": ["System Backup", "Failover Protection", "Operational Continuity"]
+    },
+    {
+        "id": 6212,
+        "title": "Growing Medium Sterilization System",
+        "domain": "85",
+        "description": "Automated sterilization platform treating growing media to eliminate pathogens and ensure clean starting conditions for new crops.",
+        "keywords": ["Media Sterilization", "Pathogen Control", "Clean Growing"]
+    },
+    {
+        "id": 6213,
+        "title": "Vertical Farm Cost Optimization Model",
+        "domain": "85",
+        "description": "Economic analysis platform optimizing operational costs by balancing energy use, labor, materials, and crop selection decisions.",
+        "keywords": ["Cost Optimization", "Economic Analysis", "Profitability Planning"]
+    },
+    {
+        "id": 6214,
+        "title": "Hydroponic Root Disease Predictor",
+        "domain": "85",
+        "description": "Early warning system detecting conditions conducive to root rot and other root diseases before visible symptoms appear.",
+        "keywords": ["Root Disease", "Early Warning", "Disease Prevention"]
+    },
+    {
+        "id": 6215,
+        "title": "Plant Spacing Optimization Calculator",
+        "domain": "85",
+        "description": "Mathematical modeling platform determining optimal plant spacing to maximize yield while ensuring adequate light and air circulation.",
+        "keywords": ["Plant Spacing", "Yield Optimization", "Density Planning"]
+    },
+    {
+        "id": 6216,
+        "title": "Vertical Farm Remote Monitoring System",
+        "domain": "85",
+        "description": "Cloud-based platform enabling remote monitoring and control of vertical farming operations from any location.",
+        "keywords": ["Remote Monitoring", "Cloud Control", "Mobile Access"]
+    },
+    {
+        "id": 6217,
+        "title": "Hydroponic Nutrient Deficiency Detector",
+        "domain": "85",
+        "description": "Spectroscopic analysis system identifying specific nutrient deficiencies by analyzing leaf color and plant tissue samples.",
+        "keywords": ["Nutrient Deficiency", "Leaf Analysis", "Spectroscopic Detection"]
+    },
+    {
+        "id": 6218,
+        "title": "Growing Cycle Time Optimizer",
+        "domain": "85",
+        "description": "Timing optimization platform reducing crop cycle times while maintaining quality through precise environmental control.",
+        "keywords": ["Cycle Time", "Growth Acceleration", "Production Efficiency"]
+    },
+    {
+        "id": 6219,
+        "title": "Vertical Farm Fire Suppression System",
+        "domain": "85",
+        "description": "Specialized fire detection and suppression system designed for hydroponic facilities with water-sensitive electrical equipment.",
+        "keywords": ["Fire Suppression", "Safety Systems", "Fire Prevention"]
+    },
+    {
+        "id": 6220,
+        "title": "Hydroponic Algae Prevention System",
+        "domain": "85",
+        "description": "UV sterilization and filtration platform preventing algae growth in nutrient reservoirs and irrigation lines.",
+        "keywords": ["Algae Prevention", "UV Sterilization", "Water Treatment"]
+    },
+    {
+        "id": 6221,
+        "title": "Plant Growth Chamber Calibrator",
+        "domain": "85",
+        "description": "Precision calibration system ensuring accurate environmental conditions across multiple growing chambers and zones.",
+        "keywords": ["Chamber Calibration", "Environmental Accuracy", "System Validation"]
+    },
+    {
+        "id": 6222,
+        "title": "Vertical Farm Inventory Tracker",
+        "domain": "85",
+        "description": "Automated inventory management system tracking plant counts, growth stages, and harvest readiness across the facility.",
+        "keywords": ["Inventory Management", "Plant Tracking", "Harvest Scheduling"]
+    },
+    {
+        "id": 6223,
+        "title": "Hydroponic Mineral Precipitation Monitor",
+        "domain": "85",
+        "description": "Chemical analysis system detecting and preventing mineral precipitation that can clog irrigation systems and reduce nutrient availability.",
+        "keywords": ["Mineral Precipitation", "System Clogging", "Chemical Monitoring"]
+    },
+    {
+        "id": 6224,
+        "title": "Growing Environment Simulation Platform",
+        "domain": "85",
+        "description": "Virtual modeling platform simulating different growing conditions to test optimization strategies before implementation.",
+        "keywords": ["Environmental Simulation", "Virtual Testing", "Strategy Optimization"]
+    },
+    {
+        "id": 6225,
+        "title": "Vertical Farm Packaging Integration System",
+        "domain": "85",
+        "description": "Automated system integrating harvesting with immediate packaging to maintain freshness and reduce handling time.",
+        "keywords": ["Automated Packaging", "Post-Harvest Processing", "Freshness Preservation"]
+    },
+    {
+        "id": 6226,
+        "title": "Hydroponic System Cleaning Scheduler",
+        "domain": "85",
+        "description": "Maintenance management platform scheduling regular cleaning and sanitization of hydroponic systems to prevent contamination.",
+        "keywords": ["System Cleaning", "Maintenance Scheduling", "Sanitization"]
+    },
+    {
+        "id": 6227,
+        "title": "Plant Morphology Analyzer",
+        "domain": "85",
+        "description": "3D scanning system analyzing plant shape, leaf area, and structural development to optimize growing conditions.",
+        "keywords": ["Plant Morphology", "3D Scanning", "Structural Analysis"]
+    },
+    {
+        "id": 6228,
+        "title": "Vertical Farm Traceability System",
+        "domain": "85",
+        "description": "Blockchain-based platform tracking produce from seed to consumer, ensuring food safety and quality assurance.",
+        "keywords": ["Food Traceability", "Blockchain", "Quality Assurance"]
+    },
+    {
+        "id": 6229,
+        "title": "Hydroponic Evapotranspiration Calculator",
+        "domain": "85",
+        "description": "Water management system calculating plant water needs based on evapotranspiration rates and environmental conditions.",
+        "keywords": ["Evapotranspiration", "Water Management", "Irrigation Scheduling"]
+    },
+    {
+        "id": 6230,
+        "title": "Growing Media Performance Evaluator",
+        "domain": "85",
+        "description": "Testing platform comparing different growing media performance in terms of water retention, aeration, and root support.",
+        "keywords": ["Media Evaluation", "Performance Testing", "Growing Substrates"]
+    },
+    {
+        "id": 6231,
+        "title": "Vertical Farm Carbon Footprint Tracker",
+        "domain": "85",
+        "description": "Environmental impact monitoring system calculating and optimizing the carbon footprint of vertical farming operations.",
+        "keywords": ["Carbon Footprint", "Environmental Impact", "Sustainability Metrics"]
+    },
+    {
+        "id": 6232,
+        "title": "Hydroponic pH Buffering Optimizer",
+        "domain": "85",
+        "description": "Chemical management system optimizing buffer systems to maintain stable pH levels with minimal chemical inputs.",
+        "keywords": ["pH Buffering", "Chemical Optimization", "pH Stability"]
+    },
+    {
+        "id": 6233,
+        "title": "Plant Metabolomics Analysis Platform",
+        "domain": "85",
+        "description": "Advanced analytical system studying plant metabolites to optimize nutrition and understand plant responses to growing conditions.",
+        "keywords": ["Plant Metabolomics", "Metabolite Analysis", "Plant Biochemistry"]
+    },
+    {
+        "id": 6234,
+        "title": "Vertical Farm Weather Integration System",
+        "domain": "85",
+        "description": "Platform integrating external weather data to optimize indoor growing conditions and energy use based on outdoor conditions.",
+        "keywords": ["Weather Integration", "External Conditions", "Energy Optimization"]
+    },
+    {
+        "id": 6235,
+        "title": "Hydroponic System Performance Benchmarker",
+        "domain": "85",
+        "description": "Comparative analysis platform benchmarking system performance against industry standards and best practices.",
+        "keywords": ["Performance Benchmarking", "Industry Standards", "System Comparison"]
+    },
+    {
+        "id": 6236,
+        "title": "Growing Recipe Development Platform",
+        "domain": "85",
+        "description": "Experimental platform for developing and testing new growing recipes combining lighting, nutrition, and environmental parameters.",
+        "keywords": ["Recipe Development", "Growing Protocols", "Experimental Design"]
+    },
+    {
+        "id": 6237,
+        "title": "Vertical Farm Supply Chain Optimizer",
+        "domain": "85",
+        "description": "Logistics platform optimizing the supply chain for seeds, nutrients, growing media, and harvested produce distribution.",
+        "keywords": ["Supply Chain", "Logistics Optimization", "Distribution Planning"]
+    },
+    {
+        "id": 6238,
+        "title": "Hydroponic Biofilm Prevention System",
+        "domain": "85",
+        "description": "Prevention platform using physical and biological methods to prevent biofilm formation in irrigation systems.",
+        "keywords": ["Biofilm Prevention", "System Hygiene", "Microbial Control"]
+    },
+    {
+        "id": 6239,
+        "title": "Plant Circadian Rhythm Controller",
+        "domain": "85",
+        "description": "Lighting and environmental control system managing plant circadian rhythms to optimize photosynthesis and metabolic processes.",
+        "keywords": ["Circadian Rhythms", "Light Cycles", "Plant Physiology"]
+    },
+    {
+        "id": 6240,
+        "title": "Vertical Farm Insurance Risk Assessor",
+        "domain": "85",
+        "description": "Risk analysis platform evaluating operational risks and insurance needs specific to vertical farming and hydroponic operations.",
+        "keywords": ["Risk Assessment", "Insurance Planning", "Operational Risk"]
+    },
+    {
+        "id": 6241,
+        "title": "Hydroponic Salt Accumulation Monitor",
+        "domain": "85",
+        "description": "Monitoring system detecting salt buildup in growing media and nutrient solutions to prevent plant damage.",
+        "keywords": ["Salt Accumulation", "Salinity Monitoring", "Plant Protection"]
+    },
+    {
+        "id": 6242,
+        "title": "Growing System Automation Coordinator",
+        "domain": "85",
+        "description": "Central automation platform coordinating all automated systems in vertical farms for seamless operation and conflict resolution.",
+        "keywords": ["System Automation", "Coordination Platform", "Integrated Control"]
+    },
+    {
+        "id": 6243,
+        "title": "Vertical Farm Training Simulator",
+        "domain": "85",
+        "description": "Virtual reality training platform teaching vertical farming techniques and system operation in a simulated environment.",
+        "keywords": ["VR Training", "Simulation Platform", "Skill Development"]
+    },
+    {
+        "id": 6244,
+        "title": "Hydroponic Research Data Repository",
+        "domain": "85",
+        "description": "Comprehensive database platform storing and sharing hydroponic research data to advance the science of soilless agriculture.",
+        "keywords": ["Research Database", "Data Sharing", "Scientific Repository"]
+    },
+    // domain 86
     
+
+  
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
