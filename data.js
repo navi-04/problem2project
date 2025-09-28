@@ -44162,6 +44162,147 @@ const PROBLEMS_DATA = {
         "keywords": ["Automation", "Control Centers", "Remote Mining", "Optimization"]
     },
     // domain 89
+    {
+        "id": 6401,
+        "title": "Smart Temperature-Regulating Fabrics",
+        "domain": "89",
+        "description": "Develop textiles that automatically adjust insulation based on body temperature and external climate.",
+        "keywords": ["Smart Fabrics", "Temperature Control", "Wearable Technology", "Adaptive Textiles"]
+    },
+    {
+        "id": 6402,
+        "title": "Self-Cleaning Antimicrobial Clothing",
+        "domain": "89",
+        "description": "Design fabrics with embedded antimicrobial and self-cleaning properties for healthcare and daily wear.",
+        "keywords": ["Self-Cleaning", "Antimicrobial", "Healthcare Textiles", "Hygiene"]
+    },
+    {
+        "id": 6403,
+        "title": "Energy-Harvesting Fabrics",
+        "domain": "89",
+        "description": "Create fabrics capable of harvesting solar or kinetic energy to power wearable devices.",
+        "keywords": ["Energy Harvesting", "Solar Fabrics", "Kinetic Energy", "Wearable Tech"]
+    },
+    {
+        "id": 6404,
+        "title": "Moisture-Sensing Sportswear",
+        "domain": "89",
+        "description": "Smart fabrics that detect sweat and hydration levels to optimize athletic performance.",
+        "keywords": ["Sportswear", "Moisture Sensing", "Fitness Tech", "Smart Clothing"]
+    },
+    {
+        "id": 6405,
+        "title": "Color-Changing Fashion Fabrics",
+        "domain": "89",
+        "description": "Develop fabrics that change colors dynamically with heat, light, or user input for fashion applications.",
+        "keywords": ["Smart Fabrics", "Color-Changing", "Fashion Tech", "Adaptive Clothing"]
+    },
+    {
+        "id": 6406,
+        "title": "Fire-Resistant Smart Uniforms",
+        "domain": "89",
+        "description": "Design uniforms using smart fabrics with fire resistance and embedded safety sensors.",
+        "keywords": ["Fire Safety", "Smart Uniforms", "Protective Textiles", "Safety Tech"]
+    },
+    {
+        "id": 6407,
+        "title": "IoT-Connected Fabrics",
+        "domain": "89",
+        "description": "Integrate IoT sensors into fabrics to monitor vital signs and connect to healthcare apps.",
+        "keywords": ["IoT", "Healthcare Textiles", "Wearable Sensors", "Smart Fabrics"]
+    },
+    {
+        "id": 6408,
+        "title": "Smart Fabrics for Sleep Monitoring",
+        "domain": "89",
+        "description": "Develop fabrics that track sleep cycles, breathing, and comfort for better sleep quality.",
+        "keywords": ["Smart Fabrics", "Sleep Monitoring", "Health Tech", "Wearables"]
+    },
+    {
+        "id": 6409,
+        "title": "Shape-Memory Smart Textiles",
+        "domain": "89",
+        "description": "Create fabrics that adjust their structure or tightness based on temperature or user input.",
+        "keywords": ["Shape Memory", "Smart Textiles", "Adaptive Fabrics", "Wearable Tech"]
+    },
+    {
+        "id": 6410,
+        "title": "Smart Fabrics for Military Applications",
+        "domain": "89",
+        "description": "Design textiles with camouflage adaptability, health monitoring, and durability for soldiers.",
+        "keywords": ["Military Textiles", "Smart Fabrics", "Camouflage", "Defense Tech"]
+    },
+    {
+        "id": 6411,
+        "title": "Textile-Based Flexible Displays",
+        "domain": "89",
+        "description": "Integrate flexible electronic displays into fabrics for fashion, safety, or communication.",
+        "keywords": ["Smart Textiles", "Flexible Displays", "E-Textiles", "Wearable Tech"]
+    },
+    {
+        "id": 6412,
+        "title": "Biodegradable Smart Fabrics",
+        "domain": "89",
+        "description": "Create eco-friendly smart textiles that decompose naturally after their lifecycle.",
+        "keywords": ["Biodegradable", "Eco-Friendly", "Smart Fabrics", "Sustainable Textiles"]
+    },
+    {
+        "id": 6413,
+        "title": "Smart Fabrics for Elderly Care",
+        "domain": "89",
+        "description": "Develop clothing that monitors heart rate, falls, and mobility for elderly users.",
+        "keywords": ["Elderly Care", "Smart Fabrics", "Health Monitoring", "Wearable Tech"]
+    },
+    {
+        "id": 6414,
+        "title": "Waterproof Breathable Smart Jackets",
+        "domain": "89",
+        "description": "Textiles that provide waterproofing while adjusting ventilation based on activity levels.",
+        "keywords": ["Smart Jackets", "Breathable Fabrics", "Waterproof", "Adaptive Clothing"]
+    },
+    {
+        "id": 6415,
+        "title": "Smart Wound-Healing Fabrics",
+        "domain": "89",
+        "description": "Medical fabrics that release medicines or monitor wounds for faster recovery.",
+        "keywords": ["Medical Textiles", "Smart Fabrics", "Wound Healing", "Healthcare"]
+    },
+    {
+        "id": 6416,
+        "title": "Textiles with Embedded Haptics",
+        "domain": "89",
+        "description": "Fabrics with embedded haptic feedback systems for immersive VR/AR experiences.",
+        "keywords": ["Haptics", "Smart Textiles", "VR/AR", "Wearable Tech"]
+    },
+    {
+        "id": 6417,
+        "title": "UV-Protective Smart Fabrics",
+        "domain": "89",
+        "description": "Smart fabrics that measure UV exposure and alert wearers to avoid skin damage.",
+        "keywords": ["UV Protection", "Smart Fabrics", "Skin Health", "Wearable Sensors"]
+    },
+    {
+        "id": 6418,
+        "title": "Gesture-Control Clothing",
+        "domain": "89",
+        "description": "Smart clothing that recognizes gestures and translates them into device commands.",
+        "keywords": ["Gesture Recognition", "Smart Clothing", "IoT", "Wearable Controls"]
+    },
+    {
+        "id": 6419,
+        "title": "Smart Fabrics for Sports Injury Prevention",
+        "domain": "89",
+        "description": "Sportswear textiles with motion sensors to detect risky movements and prevent injuries.",
+        "keywords": ["Sportswear", "Injury Prevention", "Smart Textiles", "Motion Sensors"]
+    },
+    {
+        "id": 6420,
+        "title": "E-Textiles for Child Safety",
+        "domain": "89",
+        "description": "Develop smart fabrics that track children’s location and health metrics in real time.",
+        "keywords": ["Child Safety", "Smart Fabrics", "E-Textiles", "Wearable Tech"]
+    },
+    // domain 90
     
 
 
