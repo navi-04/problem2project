@@ -43727,6 +43727,441 @@ const PROBLEMS_DATA = {
         "keywords": ["Robotics", "Painting", "Construction Automation", "Efficiency"]
     },
     // domain 88
+    {
+        "id": 6339,
+        "title": "Autonomous Mining Vehicles",
+        "domain": "88",
+        "description": "Developing self-driving haul trucks and loaders to improve mining safety, reduce labor costs, and enhance productivity.",
+        "keywords": ["Autonomous Vehicles", "Mining Automation", "Safety", "Productivity"]
+    },
+    {
+        "id": 6340,
+        "title": "Drone-Based Mineral Exploration",
+        "domain": "88",
+        "description": "Using aerial drones with advanced sensors to identify and map potential mineral deposits in remote areas.",
+        "keywords": ["Drones", "Mineral Exploration", "Remote Sensing", "Geological Mapping"]
+    },
+    {
+        "id": 6341,
+        "title": "IoT-Based Mine Monitoring Systems",
+        "domain": "88",
+        "description": "Implementing IoT sensors to monitor underground mine conditions such as air quality, temperature, and equipment status.",
+        "keywords": ["IoT", "Mine Safety", "Real-Time Monitoring", "Underground Mining"]
+    },
+    {
+        "id": 6342,
+        "title": "AI for Mineral Resource Estimation",
+        "domain": "88",
+        "description": "Applying artificial intelligence to predict the quantity and quality of mineral resources with improved accuracy.",
+        "keywords": ["AI", "Resource Estimation", "Mining Analytics", "Machine Learning"]
+    },
+    {
+        "id": 6343,
+        "title": "Sustainable Mining Waste Management",
+        "domain": "88",
+        "description": "Designing technologies to recycle, repurpose, or safely dispose of mining byproducts and tailings.",
+        "keywords": ["Waste Management", "Sustainability", "Tailings", "Circular Economy"]
+    },
+    {
+        "id": 6344,
+        "title": "Deep-Sea Mining Robotics",
+        "domain": "88",
+        "description": "Developing robotic systems to extract minerals from the ocean floor while minimizing environmental disruption.",
+        "keywords": ["Deep-Sea Mining", "Robotics", "Marine Technology", "Resource Extraction"]
+    },
+    {
+        "id": 6345,
+        "title": "Blockchain for Mineral Supply Chain Transparency",
+        "domain": "88",
+        "description": "Using blockchain to track and verify mineral sourcing, ensuring ethical and conflict-free supply chains.",
+        "keywords": ["Blockchain", "Supply Chain", "Transparency", "Ethical Mining"]
+    },
+    {
+        "id": 6346,
+        "title": "Real-Time Hazard Detection in Mines",
+        "domain": "88",
+        "description": "Deploying advanced sensors and AI to detect hazards like gas leaks, cave-ins, and equipment failures instantly.",
+        "keywords": ["Mine Safety", "Hazard Detection", "AI", "Real-Time Monitoring"]
+    },
+    {
+        "id": 6347,
+        "title": "Energy-Efficient Ore Processing",
+        "domain": "88",
+        "description": "Developing ore processing techniques that consume less energy while maximizing metal recovery.",
+        "keywords": ["Ore Processing", "Energy Efficiency", "Metallurgy", "Resource Optimization"]
+    },
+    {
+        "id": 6348,
+        "title": "Remote-Controlled Drilling Systems",
+        "domain": "88",
+        "description": "Implementing remote drilling technologies to increase worker safety and improve precision in mineral extraction.",
+        "keywords": ["Remote Drilling", "Mining Safety", "Automation", "Precision Extraction"]
+    },
+    {
+        "id": 6349,
+        "title": "Geospatial Mapping for Mining Exploration",
+        "domain": "88",
+        "description": "Using geospatial data and GIS tools to identify mineral-rich zones and optimize exploration activities.",
+        "keywords": ["GIS", "Geospatial Mapping", "Exploration", "Mining Technology"]
+    },
+    {
+        "id": 6350,
+        "title": "Water Recycling in Mining Operations",
+        "domain": "88",
+        "description": "Developing systems to recycle and reuse water in mining processes to reduce environmental impact.",
+        "keywords": ["Water Recycling", "Sustainable Mining", "Resource Management", "Environment"]
+    },
+    {
+        "id": 6351,
+        "title": "Predictive Maintenance for Mining Equipment",
+        "domain": "88",
+        "description": "Using AI and IoT sensors to predict equipment failures before they occur, reducing downtime and repair costs.",
+        "keywords": ["Predictive Maintenance", "IoT", "AI", "Mining Equipment"]
+    },
+    {
+        "id": 6352,
+        "title": "Dust Suppression Technologies in Mines",
+        "domain": "88",
+        "description": "Implementing advanced systems to minimize dust emissions during mining, improving worker health and safety.",
+        "keywords": ["Dust Control", "Mine Safety", "Health Protection", "Sustainable Mining"]
+    },
+    {
+        "id": 6353,
+        "title": "Smart Ventilation Systems for Underground Mines",
+        "domain": "88",
+        "description": "Designing intelligent ventilation systems to optimize airflow and reduce energy costs in underground mining.",
+        "keywords": ["Ventilation", "Underground Mining", "Energy Efficiency", "Mine Safety"]
+    },
+    {
+        "id": 6354,
+        "title": "Biotechnology in Mineral Extraction",
+        "domain": "88",
+        "description": "Exploring the use of microbes and biological processes to extract metals from ores more sustainably.",
+        "keywords": ["Biotechnology", "Bioleaching", "Sustainable Mining", "Metallurgy"]
+    },
+    {
+        "id": 6355,
+        "title": "Digital Twin for Mining Operations",
+        "domain": "88",
+        "description": "Creating digital replicas of mining sites and processes to simulate, monitor, and optimize performance.",
+        "keywords": ["Digital Twin", "Mining Operations", "Simulation", "Optimization"]
+    },
+    {
+        "id": 6356,
+        "title": "Hydrogen-Powered Mining Equipment",
+        "domain": "88",
+        "description": "Developing hydrogen-fueled mining trucks and equipment to reduce carbon emissions from mining operations.",
+        "keywords": ["Hydrogen Energy", "Sustainable Mining", "Clean Technology", "Decarbonization"]
+    },
+    {
+        "id": 6357,
+        "title": "AI-Driven Exploration Data Analysis",
+        "domain": "88",
+        "description": "Applying AI to analyze large datasets from exploration surveys, improving mineral discovery efficiency.",
+        "keywords": ["AI", "Data Analysis", "Exploration", "Mining Technology"]
+    },
+    {
+        "id": 6358,
+        "title": "Underground Communication Networks",
+        "domain": "88",
+        "description": "Designing robust wireless communication systems for underground mines to enhance worker safety and coordination.",
+        "keywords": ["Underground Communication", "Wireless Networks", "Mine Safety", "Connectivity"]
+    },
+    {
+        "id": 6359,
+        "title": "Carbon Capture in Mining Operations",
+        "domain": "88",
+        "description": "Developing methods to capture and store CO2 emissions generated by mining and processing operations.",
+        "keywords": ["Carbon Capture", "Sustainable Mining", "Climate Action", "Green Technology"]
+    },
+    {
+        "id": 6360,
+        "title": "AI-Based Mine Planning Optimization",
+        "domain": "88",
+        "description": "Leveraging AI algorithms to create optimized mine plans that maximize resource recovery and minimize costs.",
+        "keywords": ["AI", "Mine Planning", "Optimization", "Resource Extraction"]
+    },
+    {
+        "id": 6361,
+        "title": "Wearable Safety Devices for Miners",
+        "domain": "88",
+        "description": "Developing smart wearable devices that monitor miners’ health conditions and detect hazards in real-time.",
+        "keywords": ["Wearables", "Mine Safety", "Health Monitoring", "IoT"]
+    },
+    {
+        "id": 6362,
+        "title": "Electric-Powered Mining Equipment",
+        "domain": "88",
+        "description": "Replacing diesel-powered machinery with electric alternatives to reduce greenhouse gas emissions.",
+        "keywords": ["Electric Vehicles", "Sustainable Mining", "Clean Energy", "Mining Equipment"]
+    },
+    {
+        "id": 6363,
+        "title": "Remote Sensing for Environmental Impact Assessment",
+        "domain": "88",
+        "description": "Using satellite and aerial data to monitor environmental impacts of mining activities in real-time.",
+        "keywords": ["Remote Sensing", "Environmental Impact", "Mining Monitoring", "Sustainability"]
+    },
+    {
+        "id": 6364,
+        "title": "Robotic Blasting Systems",
+        "domain": "88",
+        "description": "Developing robotic systems to perform blasting operations with precision and improved worker safety.",
+        "keywords": ["Robotics", "Blasting", "Mine Safety", "Automation"]
+    },
+    {
+        "id": 6365,
+        "title": "Circular Economy in Mining Byproducts",
+        "domain": "88",
+        "description": "Transforming mining waste into usable products such as construction materials to promote a circular economy.",
+        "keywords": ["Circular Economy", "Byproduct Utilization", "Sustainable Mining", "Recycling"]
+    },
+    {
+        "id": 6366,
+        "title": "Big Data Analytics for Mine Operations",
+        "domain": "88",
+        "description": "Applying big data analytics to optimize production, reduce costs, and improve mine safety.",
+        "keywords": ["Big Data", "Mining Operations", "Analytics", "Optimization"]
+    },
+    {
+        "id": 6367,
+        "title": "Smart Helmets for Miner Safety",
+        "domain": "88",
+        "description": "Equipping miners with helmets that feature sensors, communication tools, and augmented reality displays.",
+        "keywords": ["Smart Helmets", "Mine Safety", "Wearables", "AR"]
+    },
+    {
+        "id": 6368,
+        "title": "Mine Decommissioning and Land Restoration",
+        "domain": "88",
+        "description": "Developing strategies to rehabilitate and restore ecosystems after mine closure for sustainable land use.",
+        "keywords": ["Mine Closure", "Land Restoration", "Sustainability", "Environment"]
+    },
+    {
+        "id": 6369,
+        "title": "Automation in Mineral Sorting",
+        "domain": "88",
+        "description": "Designing automated systems to sort ores based on composition, improving processing efficiency.",
+        "keywords": ["Automation", "Mineral Sorting", "Efficiency", "Mining Technology"]
+    },
+    {
+        "id": 6370,
+        "title": "AI-Based Safety Training Simulations",
+        "domain": "88",
+        "description": "Using AI-driven VR and simulation tools to train miners for hazardous conditions without risk.",
+        "keywords": ["AI", "VR", "Safety Training", "Simulation"]
+    },
+    {
+        "id": 6371,
+        "title": "Zero-Waste Mining Technologies",
+        "domain": "88",
+        "description": "Developing technologies aimed at eliminating waste generation in mining operations through reuse and recycling.",
+        "keywords": ["Zero Waste", "Sustainable Mining", "Circular Economy", "Innovation"]
+    },
+    {
+        "id": 6372,
+        "title": "Laser Scanning for Underground Mine Mapping",
+        "domain": "88",
+        "description": "Using laser scanning and LiDAR technologies to create accurate 3D maps of underground mining tunnels.",
+        "keywords": ["LiDAR", "Laser Scanning", "3D Mapping", "Underground Mining"]
+    },
+    {
+        "id": 6373,
+        "title": "Eco-Friendly Explosives for Mining",
+        "domain": "88",
+        "description": "Developing environmentally safe and less toxic explosives for controlled mining operations.",
+        "keywords": ["Eco-Friendly Explosives", "Mining Safety", "Sustainability", "Innovation"]
+    },
+    {
+        "id": 6374,
+        "title": "Automated Conveyor Systems in Mines",
+        "domain": "88",
+        "description": "Designing smart conveyor systems for efficient material transport in underground and surface mines.",
+        "keywords": ["Automation", "Conveyor Systems", "Material Handling", "Mining Technology"]
+    },
+    {
+        "id": 6375,
+        "title": "Mine Water Pollution Treatment",
+        "domain": "88",
+        "description": "Developing advanced technologies to treat and neutralize contaminated water from mining activities.",
+        "keywords": ["Water Treatment", "Pollution Control", "Sustainable Mining", "Environment"]
+    },
+    {
+        "id": 6376,
+        "title": "Augmented Reality for Mine Operations",
+        "domain": "88",
+        "description": "Using AR systems to assist miners in navigation, maintenance, and hazard detection underground.",
+        "keywords": ["Augmented Reality", "Mining Operations", "Safety", "Technology"]
+    },
+    {
+        "id": 6377,
+        "title": "Geothermal Energy Recovery from Mines",
+        "domain": "88",
+        "description": "Harnessing geothermal energy from abandoned or active mines as a renewable energy source.",
+        "keywords": ["Geothermal Energy", "Sustainable Mining", "Renewable Energy", "Innovation"]
+    },
+    {
+        "id": 6378,
+        "title": "AI-Enhanced Geological Core Analysis",
+        "domain": "88",
+        "description": "Applying AI to analyze geological core samples quickly and accurately for mineral exploration.",
+        "keywords": ["AI", "Core Analysis", "Geology", "Exploration"]
+    },
+    {
+        "id": 6379,
+        "title": "Wear-Resistant Materials for Mining Equipment",
+        "domain": "88",
+        "description": "Developing advanced wear-resistant alloys and composites to extend the lifespan of mining tools and machinery.",
+        "keywords": ["Wear-Resistant Materials", "Mining Equipment", "Durability", "Material Science"]
+    },
+    {
+        "id": 6380,
+        "title": "Smart Power Management in Mining",
+        "domain": "88",
+        "description": "Designing intelligent systems to optimize energy consumption across mining operations for cost savings and sustainability.",
+        "keywords": ["Smart Power", "Energy Management", "Sustainable Mining", "IoT"]
+    },
+    {
+        "id": 6381,
+        "title": "Mine Worker Tracking Systems",
+        "domain": "88",
+        "description": "Developing real-time tracking systems to monitor worker location and enhance rescue operations during emergencies.",
+        "keywords": ["Worker Tracking", "Mine Safety", "Emergency Response", "IoT"]
+    },
+    {
+        "id": 6382,
+        "title": "AI for Predicting Mine Collapse Risks",
+        "domain": "88",
+        "description": "Using AI models to predict structural instabilities in underground mines to prevent collapses.",
+        "keywords": ["AI", "Mine Collapse Prediction", "Safety", "Risk Management"]
+    },
+    {
+        "id": 6383,
+        "title": "Sustainable Lithium Extraction",
+        "domain": "88",
+        "description": "Developing eco-friendly processes for lithium extraction to meet growing demand for batteries and EVs.",
+        "keywords": ["Lithium", "Sustainable Extraction", "Batteries", "Green Mining"]
+    },
+    {
+        "id": 6384,
+        "title": "Noise Reduction in Mining Equipment",
+        "domain": "88",
+        "description": "Designing mining machinery with noise suppression technologies to protect workers’ hearing health.",
+        "keywords": ["Noise Reduction", "Mining Equipment", "Worker Safety", "Innovation"]
+    },
+    {
+        "id": 6385,
+        "title": "Digital Platforms for Mining Workforce Training",
+        "domain": "88",
+        "description": "Creating online and VR-based platforms to train mining staff in safety, technology, and operational practices.",
+        "keywords": ["Digital Training", "VR", "Mining Workforce", "Education Technology"]
+    },
+    {
+        "id": 6386,
+        "title": "Low-Emission Smelting Processes",
+        "domain": "88",
+        "description": "Developing smelting technologies that minimize emissions and improve the energy efficiency of metal extraction.",
+        "keywords": ["Smelting", "Low Emissions", "Energy Efficiency", "Metallurgy"]
+    },
+    {
+        "id": 6387,
+        "title": "Smart Grids for Mining Operations",
+        "domain": "88",
+        "description": "Integrating smart grid technologies into mining operations for efficient power distribution and sustainability.",
+        "keywords": ["Smart Grids", "Mining Operations", "Energy Management", "Sustainability"]
+    },
+    {
+        "id": 6388,
+        "title": "Rehabilitation of Abandoned Mines",
+        "domain": "88",
+        "description": "Developing methods to rehabilitate abandoned mines for safe reuse or environmental restoration.",
+        "keywords": ["Abandoned Mines", "Rehabilitation", "Sustainability", "Environment"]
+    },
+    {
+        "id": 6389,
+        "title": "AI for Mineral Market Forecasting",
+        "domain": "88",
+        "description": "Using AI to predict mineral market trends and optimize extraction strategies based on demand forecasts.",
+        "keywords": ["AI", "Market Forecasting", "Mineral Economics", "Resource Planning"]
+    },
+    {
+        "id": 6390,
+        "title": "Hydraulic Fracturing Optimization",
+        "domain": "88",
+        "description": "Developing safer and more efficient hydraulic fracturing methods to extract oil and gas with minimal environmental damage.",
+        "keywords": ["Hydraulic Fracturing", "Optimization", "Oil & Gas", "Sustainability"]
+    },
+    {
+        "id": 6391,
+        "title": "AI for Resource Grade Control",
+        "domain": "88",
+        "description": "Applying AI to control ore grade during extraction, ensuring higher quality and efficiency in processing.",
+        "keywords": ["AI", "Grade Control", "Ore Processing", "Mining Optimization"]
+    },
+    {
+        "id": 6392,
+        "title": "Smart Wearables for Fatigue Detection",
+        "domain": "88",
+        "description": "Developing wearables that track miner fatigue levels and alert supervisors to prevent accidents.",
+        "keywords": ["Wearables", "Fatigue Detection", "Mine Safety", "Worker Health"]
+    },
+    {
+        "id": 6393,
+        "title": "Eco-Friendly Mine Blasting Techniques",
+        "domain": "88",
+        "description": "Researching and developing blasting methods with reduced noise, vibration, and chemical pollution.",
+        "keywords": ["Blasting", "Eco-Friendly", "Sustainable Mining", "Pollution Control"]
+    },
+    {
+        "id": 6394,
+        "title": "Smart Inventory Systems for Mining Materials",
+        "domain": "88",
+        "description": "Designing automated inventory systems to track, manage, and optimize mining material logistics.",
+        "keywords": ["Smart Inventory", "Automation", "Mining Logistics", "Resource Management"]
+    },
+    {
+        "id": 6395,
+        "title": "Climate-Resilient Mining Practices",
+        "domain": "88",
+        "description": "Developing mining techniques that adapt to extreme climate conditions while ensuring safe and efficient operations.",
+        "keywords": ["Climate Resilience", "Mining Safety", "Sustainable Mining", "Innovation"]
+    },
+    {
+        "id": 6396,
+        "title": "Robotics for Hazardous Material Handling",
+        "domain": "88",
+        "description": "Using robotic systems to handle and process hazardous materials safely during mining operations.",
+        "keywords": ["Robotics", "Hazardous Materials", "Safety", "Mining Technology"]
+    },
+    {
+        "id": 6397,
+        "title": "AI-Enhanced Mine Rescue Operations",
+        "domain": "88",
+        "description": "Applying AI to improve decision-making and efficiency in mine rescue missions during emergencies.",
+        "keywords": ["AI", "Rescue Operations", "Mine Safety", "Emergency Response"]
+    },
+    {
+        "id": 6398,
+        "title": "Green Hydrogen for Mineral Processing",
+        "domain": "88",
+        "description": "Using green hydrogen as an alternative energy source in mineral processing to reduce carbon footprint.",
+        "keywords": ["Green Hydrogen", "Mineral Processing", "Clean Energy", "Decarbonization"]
+    },
+    {
+        "id": 6399,
+        "title": "AI-Driven Exploration Drilling Optimization",
+        "domain": "88",
+        "description": "Leveraging AI to optimize drilling parameters and strategies in mineral exploration projects.",
+        "keywords": ["AI", "Drilling Optimization", "Exploration", "Mining Efficiency"]
+    },
+    {
+        "id": 6400,
+        "title": "Mine Automation Control Centers",
+        "domain": "88",
+        "description": "Establishing centralized control centers to monitor, coordinate, and automate multiple mining processes remotely.",
+        "keywords": ["Automation", "Control Centers", "Remote Mining", "Optimization"]
+    },
+    // domain 89
     
 
 
