@@ -42049,19 +42049,519 @@ const PROBLEMS_DATA = {
         "keywords": ["Planetary Geology", "Comparative Analysis", "Space Sciences"]
     },
     //domain 84
+    {
+        "id": 6101,
+        "title": "Hyperlocal Weather Prediction System",
+        "domain": "84",
+        "description": "AI-powered platform providing street-level weather forecasts using micro-sensor networks and machine learning algorithms for ultra-precise predictions.",
+        "keywords": ["Hyperlocal Weather", "Micro-Sensors", "AI Forecasting"]
+    },
+    {
+        "id": 6102,
+        "title": "Severe Storm Early Warning Network",
+        "domain": "84",
+        "description": "Real-time monitoring system detecting and predicting severe thunderstorms, tornadoes, and hail formation with advanced Doppler radar integration.",
+        "keywords": ["Severe Weather", "Storm Detection", "Tornado Warning"]
+    },
+    {
+        "id": 6103,
+        "title": "Climate Change Impact Visualizer",
+        "domain": "84",
+        "description": "Interactive platform modeling and visualizing long-term climate change effects on local weather patterns and extreme events.",
+        "keywords": ["Climate Change", "Weather Modeling", "Impact Visualization"]
+    },
+    {
+        "id": 6104,
+        "title": "Hurricane Track Prediction Enhanced",
+        "domain": "84",
+        "description": "Advanced ensemble modeling system improving hurricane path prediction accuracy using satellite data and atmospheric dynamics analysis.",
+        "keywords": ["Hurricane Tracking", "Ensemble Modeling", "Tropical Cyclones"]
+    },
+    {
+        "id": 6105,
+        "title": "Air Quality Forecasting Platform",
+        "domain": "84",
+        "description": "Comprehensive system predicting air pollution levels by analyzing weather patterns, emission sources, and atmospheric dispersion models.",
+        "keywords": ["Air Quality", "Pollution Forecasting", "Atmospheric Dispersion"]
+    },
+    {
+        "id": 6106,
+        "title": "Agricultural Weather Advisory System",
+        "domain": "84",
+        "description": "Specialized platform providing farmers with crop-specific weather guidance, frost warnings, and optimal planting/harvesting recommendations.",
+        "keywords": ["Agricultural Weather", "Crop Forecasting", "Farming Advisories"]
+    },
+    {
+        "id": 6107,
+        "title": "Lightning Strike Prediction Network",
+        "domain": "84",
+        "description": "Real-time lightning detection and prediction system using electromagnetic sensors to provide precise strike location and timing forecasts.",
+        "keywords": ["Lightning Detection", "Electromagnetic Monitoring", "Strike Prediction"]
+    },
+    {
+        "id": 6108,
+        "title": "Atmospheric River Tracking System",
+        "domain": "84",
+        "description": "Monitoring platform detecting and tracking atmospheric rivers to predict heavy rainfall events and flooding potential.",
+        "keywords": ["Atmospheric Rivers", "Precipitation Forecasting", "Flood Prediction"]
+    },
+    {
+        "id": 6109,
+        "title": "Wind Energy Production Optimizer",
+        "domain": "84",
+        "description": "Weather-based platform optimizing wind farm operations by predicting wind patterns, turbulence, and energy generation potential.",
+        "keywords": ["Wind Energy", "Renewable Forecasting", "Turbine Optimization"]
+    },
+    {
+        "id": 6110,
+        "title": "Urban Heat Island Mapper",
+        "domain": "84",
+        "description": "Thermal monitoring system analyzing urban heat distribution patterns and providing city planning recommendations for heat mitigation.",
+        "keywords": ["Urban Heat Island", "City Planning", "Thermal Mapping"]
+    },
+    {
+        "id": 6111,
+        "title": "Aviation Weather Intelligence Hub",
+        "domain": "84",
+        "description": "Comprehensive platform providing pilots and airlines with turbulence forecasts, wind shear alerts, and flight optimization data.",
+        "keywords": ["Aviation Weather", "Flight Safety", "Turbulence Forecasting"]
+    },
+    {
+        "id": 6112,
+        "title": "Drought Monitoring and Prediction",
+        "domain": "84",
+        "description": "Long-term weather analysis platform tracking precipitation deficits and predicting drought conditions for water resource management.",
+        "keywords": ["Drought Prediction", "Water Resources", "Precipitation Analysis"]
+    },
+    {
+        "id": 6113,
+        "title": "Solar Irradiance Forecasting Tool",
+        "domain": "84",
+        "description": "Cloud cover and atmospheric analysis platform predicting solar energy availability for photovoltaic system optimization.",
+        "keywords": ["Solar Forecasting", "Cloud Analysis", "Solar Energy"]
+    },
+    {
+        "id": 6114,
+        "title": "Fog Formation Prediction System",
+        "domain": "84",
+        "description": "Visibility forecasting platform analyzing temperature, humidity, and atmospheric conditions to predict fog formation and dissipation.",
+        "keywords": ["Fog Prediction", "Visibility Forecasting", "Transportation Safety"]
+    },
+    {
+        "id": 6115,
+        "title": "Wildfire Weather Risk Assessor",
+        "domain": "84",
+        "description": "Multi-parameter monitoring system evaluating fire weather conditions including wind speed, humidity, and temperature for wildfire risk prediction.",
+        "keywords": ["Fire Weather", "Wildfire Risk", "Forest Management"]
+    },
+    {
+        "id": 6116,
+        "title": "Atmospheric Chemistry Analyzer",
+        "domain": "84",
+        "description": "Advanced monitoring platform tracking atmospheric chemical composition, ozone levels, and greenhouse gas concentrations.",
+        "keywords": ["Atmospheric Chemistry", "Air Composition", "Environmental Monitoring"]
+    },
+    {
+        "id": 6117,
+        "title": "Snowfall Accumulation Predictor",
+        "domain": "84",
+        "description": "Winter weather forecasting system providing precise snow accumulation predictions for road maintenance and skiing operations.",
+        "keywords": ["Snow Forecasting", "Winter Weather", "Accumulation Prediction"]
+    },
+    {
+        "id": 6118,
+        "title": "Marine Weather Routing System",
+        "domain": "84",
+        "description": "Oceanic weather platform providing ships with optimal routing recommendations based on wave height, wind conditions, and storm avoidance.",
+        "keywords": ["Marine Weather", "Ship Routing", "Ocean Forecasting"]
+    },
+    {
+        "id": 6119,
+        "title": "Microclimate Monitoring Network",
+        "domain": "84",
+        "description": "Dense sensor array system monitoring microclimatic variations in ecosystems, urban areas, and agricultural zones.",
+        "keywords": ["Microclimate", "Ecosystem Monitoring", "Environmental Sensors"]
+    },
+    {
+        "id": 6120,
+        "title": "Weather Modification Assessment Tool",
+        "domain": "84",
+        "description": "Platform analyzing and monitoring weather modification activities including cloud seeding effectiveness and atmospheric intervention impacts.",
+        "keywords": ["Weather Modification", "Cloud Seeding", "Atmospheric Intervention"]
+    },
+    {
+        "id": 6121,
+        "title": "Precipitation Type Classifier",
+        "domain": "84",
+        "description": "Advanced radar and temperature analysis system accurately classifying precipitation as rain, snow, sleet, or freezing rain.",
+        "keywords": ["Precipitation Classification", "Weather Radar", "Temperature Profiling"]
+    },
+    {
+        "id": 6122,
+        "title": "Atmospheric Pressure Trend Analyzer",
+        "domain": "84",
+        "description": "Barometric monitoring platform detecting pressure changes to predict weather system movements and intensity variations.",
+        "keywords": ["Barometric Pressure", "Weather Systems", "Pressure Trends"]
+    },
+    {
+        "id": 6123,
+        "title": "Hailstorm Damage Predictor",
+        "domain": "84",
+        "description": "Meteorological modeling system predicting hail size, storm path, and potential property damage for insurance and emergency planning.",
+        "keywords": ["Hailstorm Prediction", "Damage Assessment", "Severe Weather"]
+    },
+    {
+        "id": 6124,
+        "title": "Atmospheric Boundary Layer Profiler",
+        "domain": "84",
+        "description": "Vertical wind and temperature profiling system analyzing the atmospheric boundary layer for pollution dispersion modeling.",
+        "keywords": ["Boundary Layer", "Vertical Profiling", "Atmospheric Structure"]
+    },
+    {
+        "id": 6125,
+        "title": "Weather Station Data Validator",
+        "domain": "84",
+        "description": "Quality control platform automatically detecting and correcting errors in weather station data using machine learning algorithms.",
+        "keywords": ["Data Quality", "Weather Stations", "Error Detection"]
+    },
+    {
+        "id": 6126,
+        "title": "Tropical Storm Genesis Tracker",
+        "domain": "84",
+        "description": "Satellite-based monitoring system identifying atmospheric conditions conducive to tropical storm formation and development.",
+        "keywords": ["Storm Genesis", "Tropical Development", "Cyclone Formation"]
+    },
+    {
+        "id": 6127,
+        "title": "Ice Storm Warning System",
+        "domain": "84",
+        "description": "Freezing rain prediction platform providing early warnings for dangerous ice accumulation events affecting transportation and power systems.",
+        "keywords": ["Ice Storms", "Freezing Rain", "Infrastructure Protection"]
+    },
+    {
+        "id": 6128,
+        "title": "Atmospheric Tide Measurement Tool",
+        "domain": "84",
+        "description": "Precision barometric monitoring system detecting and analyzing atmospheric tidal patterns and their meteorological effects.",
+        "keywords": ["Atmospheric Tides", "Barometric Oscillations", "Pressure Variations"]
+    },
+    {
+        "id": 6129,
+        "title": "Cloud Base Height Detector",
+        "domain": "84",
+        "description": "Laser ceilometer and radar system providing accurate real-time measurements of cloud base altitude for aviation safety.",
+        "keywords": ["Cloud Height", "Aviation Safety", "Ceiling Measurement"]
+    },
+    {
+        "id": 6130,
+        "title": "Weather Derivative Pricing Model",
+        "domain": "84",
+        "description": "Financial platform using weather forecasts and historical data to price weather-based derivatives and insurance products.",
+        "keywords": ["Weather Derivatives", "Financial Modeling", "Risk Assessment"]
+    },
+    {
+        "id": 6131,
+        "title": "Mesoscale Convective System Tracker",
+        "domain": "84",
+        "description": "Advanced radar analysis platform tracking organized convective systems and predicting their evolution and movement patterns.",
+        "keywords": ["Convective Systems", "Mesoscale Weather", "Storm Organization"]
+    },
+    {
+        "id": 6132,
+        "title": "Atmospheric Aerosol Monitor",
+        "domain": "84",
+        "description": "Particle detection system monitoring atmospheric aerosol concentrations and their effects on visibility and climate.",
+        "keywords": ["Atmospheric Aerosols", "Particle Monitoring", "Air Quality"]
+    },
+    {
+        "id": 6133,
+        "title": "Wind Shear Detection Array",
+        "domain": "84",
+        "description": "Airport-based Doppler radar system detecting dangerous wind shear conditions for aircraft takeoff and landing safety.",
+        "keywords": ["Wind Shear", "Airport Safety", "Aviation Meteorology"]
+    },
+    {
+        "id": 6134,
+        "title": "Seasonal Forecast Ensemble System",
+        "domain": "84",
+        "description": "Long-range weather prediction platform using multiple models to forecast seasonal temperature and precipitation patterns.",
+        "keywords": ["Seasonal Forecasting", "Long-range Prediction", "Ensemble Methods"]
+    },
+    {
+        "id": 6135,
+        "title": "Atmospheric Wave Pattern Analyzer",
+        "domain": "84",
+        "description": "Upper-level analysis platform detecting and tracking atmospheric waves, jet streams, and their impacts on surface weather.",
+        "keywords": ["Atmospheric Waves", "Jet Streams", "Upper Level Patterns"]
+    },
+    {
+        "id": 6136,
+        "title": "Weather Emergency Response Coordinator",
+        "domain": "84",
+        "description": "Integrated platform coordinating emergency services response based on severe weather forecasts and real-time conditions.",
+        "keywords": ["Emergency Response", "Severe Weather", "Crisis Management"]
+    },
+    {
+        "id": 6137,
+        "title": "Humidity Profile Measurement System",
+        "domain": "84",
+        "description": "Radiosonde and satellite-based platform measuring atmospheric moisture content at various altitudes for weather modeling.",
+        "keywords": ["Humidity Profiling", "Atmospheric Moisture", "Radiosonde Data"]
+    },
+    {
+        "id": 6138,
+        "title": "Weather Pattern Recognition AI",
+        "domain": "84",
+        "description": "Machine learning platform identifying recurring weather patterns and their predictive value for medium-range forecasting.",
+        "keywords": ["Pattern Recognition", "Weather AI", "Forecast Improvement"]
+    },
+    {
+        "id": 6139,
+        "title": "Atmospheric Stability Index Calculator",
+        "domain": "84",
+        "description": "Sounding analysis platform calculating atmospheric stability indices to predict thunderstorm potential and severity.",
+        "keywords": ["Atmospheric Stability", "Thunderstorm Prediction", "Sounding Analysis"]
+    },
+    {
+        "id": 6140,
+        "title": "Climate Data Homogenization Tool",
+        "domain": "84",
+        "description": "Statistical analysis platform correcting long-term weather records for instrument changes and station relocations.",
+        "keywords": ["Climate Records", "Data Homogenization", "Historical Weather"]
+    },
+    {
+        "id": 6141,
+        "title": "Nowcasting Radar Integration System",
+        "domain": "84",
+        "description": "Real-time weather radar analysis platform providing 0-6 hour precipitation forecasts with high spatial resolution.",
+        "keywords": ["Nowcasting", "Weather Radar", "Short-term Forecasting"]
+    },
+    {
+        "id": 6142,
+        "title": "Atmospheric River Impact Assessor",
+        "domain": "84",
+        "description": "Hydrological modeling platform evaluating atmospheric river events and their impacts on water resources and flooding.",
+        "keywords": ["Atmospheric Rivers", "Water Resources", "Hydrological Impact"]
+    },
+    {
+        "id": 6143,
+        "title": "Weather Station Network Optimizer",
+        "domain": "84",
+        "description": "Geographic analysis platform optimizing weather station placement for maximum observational coverage and data quality.",
+        "keywords": ["Station Networks", "Observational Coverage", "Network Design"]
+    },
+    {
+        "id": 6144,
+        "title": "Polar Vortex Tracking System",
+        "domain": "84",
+        "description": "Stratospheric monitoring platform tracking polar vortex behavior and predicting arctic air mass intrusions.",
+        "keywords": ["Polar Vortex", "Arctic Weather", "Stratospheric Monitoring"]
+    },
+    {
+        "id": 6145,
+        "title": "Weather Model Bias Corrector",
+        "domain": "84",
+        "description": "Statistical post-processing platform correcting systematic biases in numerical weather prediction model outputs.",
+        "keywords": ["Model Bias", "Forecast Correction", "Statistical Post-processing"]
+    },
+    {
+        "id": 6146,
+        "title": "Atmospheric Turbulence Predictor",
+        "domain": "84",
+        "description": "Aviation-focused platform predicting clear air turbulence and mountain wave turbulence for flight planning safety.",
+        "keywords": ["Atmospheric Turbulence", "Aviation Safety", "Clear Air Turbulence"]
+    },
+    {
+        "id": 6147,
+        "title": "Weather Sensitive Crop Advisor",
+        "domain": "84",
+        "description": "Agricultural platform combining weather forecasts with crop models to optimize irrigation, planting, and harvesting decisions.",
+        "keywords": ["Crop Weather", "Agricultural Decisions", "Irrigation Planning"]
+    },
+    {
+        "id": 6148,
+        "title": "Extreme Temperature Alert System",
+        "domain": "84",
+        "description": "Public health-focused platform issuing heat wave and cold snap warnings based on temperature thresholds and duration.",
+        "keywords": ["Extreme Temperature", "Public Health", "Heat Warnings"]
+    },
+    {
+        "id": 6149,
+        "title": "Weather Data Fusion Engine",
+        "domain": "84",
+        "description": "Integration platform combining satellite, radar, ground station, and model data to create comprehensive weather analyses.",
+        "keywords": ["Data Fusion", "Multi-source Integration", "Weather Analysis"]
+    },
+    {
+        "id": 6150,
+        "title": "Monsoon Progression Tracker",
+        "domain": "84",
+        "description": "Regional weather platform monitoring monsoon onset, progression, and withdrawal patterns for seasonal planning.",
+        "keywords": ["Monsoon Weather", "Seasonal Progression", "Regional Forecasting"]
+    },
+    {
+        "id": 6151,
+        "title": "Atmospheric CO2 Concentration Monitor",
+        "domain": "84",
+        "description": "Greenhouse gas monitoring network tracking atmospheric carbon dioxide levels and their spatial-temporal variations.",
+        "keywords": ["CO2 Monitoring", "Greenhouse Gases", "Carbon Tracking"]
+    },
+    {
+        "id": 6152,
+        "title": "Weather Research Data Archive",
+        "domain": "84",
+        "description": "Comprehensive database platform storing and providing access to historical weather observations and research datasets.",
+        "keywords": ["Weather Archives", "Historical Data", "Research Database"]
+    },
+    {
+        "id": 6153,
+        "title": "Storm Surge Prediction Model",
+        "domain": "84",
+        "description": "Coastal forecasting platform predicting storm surge heights and inundation areas based on storm characteristics and bathymetry.",
+        "keywords": ["Storm Surge", "Coastal Flooding", "Hurricane Impact"]
+    },
+    {
+        "id": 6154,
+        "title": "Weather Impact Transportation System",
+        "domain": "84",
+        "description": "Logistics platform analyzing weather impacts on transportation networks and providing route optimization recommendations.",
+        "keywords": ["Transportation Weather", "Route Optimization", "Logistics Planning"]
+    },
+    {
+        "id": 6155,
+        "title": "Atmospheric Electricity Detector",
+        "domain": "84",
+        "description": "Electric field monitoring system detecting atmospheric electrical activity and predicting lightning strike potential.",
+        "keywords": ["Atmospheric Electricity", "Electric Fields", "Lightning Prediction"]
+    },
+    {
+        "id": 6156,
+        "title": "Weather Balloon Launch Coordinator",
+        "domain": "84",
+        "description": "Automated system optimizing weather balloon launches for atmospheric profiling and upper-air observations.",
+        "keywords": ["Weather Balloons", "Upper Air Observations", "Atmospheric Profiling"]
+    },
+    {
+        "id": 6157,
+        "title": "Climate Oscillation Index Monitor",
+        "domain": "84",
+        "description": "Pattern analysis platform tracking major climate oscillations like ENSO, NAO, and PDO and their regional weather impacts.",
+        "keywords": ["Climate Oscillations", "ENSO", "Teleconnections"]
+    },
+    {
+        "id": 6158,
+        "title": "Weather Modification Permit System",
+        "domain": "84",
+        "description": "Regulatory platform managing weather modification permits and monitoring compliance with atmospheric intervention regulations.",
+        "keywords": ["Weather Modification", "Regulatory Compliance", "Permit Management"]
+    },
+    {
+        "id": 6159,
+        "title": "Atmospheric Dust Storm Tracker",
+        "domain": "84",
+        "description": "Satellite and ground-based monitoring system tracking dust storms and predicting their movement and intensity.",
+        "keywords": ["Dust Storms", "Atmospheric Particles", "Visibility Forecasting"]
+    },
+    {
+        "id": 6160,
+        "title": "Weather Forecast Verification Tool",
+        "domain": "84",
+        "description": "Statistical analysis platform measuring weather forecast accuracy and identifying areas for model improvement.",
+        "keywords": ["Forecast Verification", "Model Performance", "Accuracy Assessment"]
+    },
+    {
+        "id": 6161,
+        "title": "Renewable Energy Weather Hub",
+        "domain": "84",
+        "description": "Integrated platform providing weather forecasts optimized for solar, wind, and hydroelectric power generation planning.",
+        "keywords": ["Renewable Energy", "Power Generation", "Energy Weather"]
+    },
+    {
+        "id": 6162,
+        "title": "Atmospheric Moisture Transport Analyzer",
+        "domain": "84",
+        "description": "Water cycle monitoring platform tracking atmospheric moisture transport and its role in regional precipitation patterns.",
+        "keywords": ["Moisture Transport", "Water Cycle", "Precipitation Sources"]
+    },
+    {
+        "id": 6163,
+        "title": "Weather-Health Impact Correlator",
+        "domain": "84",
+        "description": "Public health platform analyzing relationships between weather conditions and disease outbreaks or health symptoms.",
+        "keywords": ["Weather Health", "Disease Correlation", "Public Health"]
+    },
+    {
+        "id": 6164,
+        "title": "Atmospheric Layering Structure Analyzer",
+        "domain": "84",
+        "description": "Vertical profiling platform analyzing atmospheric layer structure including temperature inversions and mixing heights.",
+        "keywords": ["Atmospheric Layers", "Temperature Inversions", "Mixing Heights"]
+    },
+    {
+        "id": 6165,
+        "title": "Weather Event Classification System",
+        "domain": "84",
+        "description": "Machine learning platform automatically classifying and cataloging different types of weather events for climatological analysis.",
+        "keywords": ["Event Classification", "Weather Types", "Climatology"]
+    },
+    {
+        "id": 6166,
+        "title": "Precipitation Efficiency Calculator",
+        "domain": "84",
+        "description": "Cloud physics analysis platform calculating the efficiency of precipitation processes in different cloud types and conditions.",
+        "keywords": ["Precipitation Efficiency", "Cloud Physics", "Rainfall Processes"]
+    },
+    {
+        "id": 6167,
+        "title": "Weather Communication Alert System",
+        "domain": "84",
+        "description": "Multi-channel communication platform disseminating weather warnings and forecasts through various media and emergency channels.",
+        "keywords": ["Weather Alerts", "Emergency Communication", "Public Warning"]
+    },
+    {
+        "id": 6168,
+        "title": "Atmospheric Trace Gas Analyzer",
+        "domain": "84",
+        "description": "Spectroscopic monitoring system detecting and quantifying trace atmospheric gases and their chemical interactions.",
+        "keywords": ["Trace Gases", "Atmospheric Chemistry", "Gas Analysis"]
+    },
+    {
+        "id": 6169,
+        "title": "Weather Model Ensemble Processor",
+        "domain": "84",
+        "description": "Computational platform combining multiple weather models to produce probabilistic forecasts and uncertainty estimates.",
+        "keywords": ["Ensemble Forecasting", "Model Integration", "Forecast Uncertainty"]
+    },
+    {
+        "id": 6170,
+        "title": "Convective Initiation Predictor",
+        "domain": "84",
+        "description": "High-resolution monitoring system predicting the initiation and development of thunderstorms and convective activity.",
+        "keywords": ["Convective Initiation", "Thunderstorm Development", "Storm Prediction"]
+    },
+    {
+        "id": 6171,
+        "title": "Weather Radar Calibration System",
+        "domain": "84",
+        "description": "Automated platform ensuring weather radar accuracy through continuous calibration and quality control procedures.",
+        "keywords": ["Radar Calibration", "Quality Control", "Instrument Maintenance"]
+    },
+    {
+        "id": 6172,
+        "title": "Atmospheric River Climatology Database",
+        "domain": "84",
+        "description": "Comprehensive database platform cataloging atmospheric river events and their climatological characteristics and impacts.",
+        "keywords": ["Atmospheric River Climatology", "Event Database", "Climate Records"]
+    },
+    {
+        "id": 6173,
+        "title": "Weather Sensitive Infrastructure Monitor",
+        "domain": "84",
+        "description": "Infrastructure monitoring platform assessing weather impacts on power grids, transportation systems, and communication networks.",
+        "keywords": ["Infrastructure Weather", "System Resilience", "Weather Impact Assessment"]
+    },
+    // domain 85
     
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
