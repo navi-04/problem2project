@@ -45706,6 +45706,204 @@ const PROBLEMS_DATA = {
     "keywords": ["Air Quality Management", "Environmental Monitoring", "Air Purification"]
 },
 //domain-93
+{
+    "id": 6621,
+    "title": "AI-Powered Fire Detection System",
+    "domain": "93",
+    "description": "Develop an AI-driven fire detection system that uses computer vision and thermal sensors to quickly identify fire outbreaks in buildings and trigger alerts.",
+    "keywords": ["Fire Detection", "Fire Technology", "Safety Systems"]
+},
+{
+    "id": 6622,
+    "title": "IoT-Enabled Fire Prevention Monitoring",
+    "domain": "93",
+    "description": "Design an IoT-based platform that continuously monitors fire hazards such as gas leaks, electrical overloads, and high temperatures to prevent fire accidents.",
+    "keywords": ["Fire Prevention", "Safety Equipment", "Fire Protection"]
+},
+{
+    "id": 6623,
+    "title": "Smart Fire Suppression Drone",
+    "domain": "93",
+    "description": "Build autonomous drones capable of detecting and suppressing small-scale fires in remote or hard-to-reach areas using advanced fire suppression technology.",
+    "keywords": ["Fire Suppression", "Emergency Technology", "Fire Engineering"]
+},
+{
+    "id": 6624,
+    "title": "Wearable Emergency Response Tracker",
+    "domain": "93",
+    "description": "Create a wearable device for firefighters that tracks their location, health vitals, and environment conditions during emergency response missions.",
+    "keywords": ["Emergency Response", "Safety Equipment", "Emergency Management"]
+},
+{
+    "id": 6625,
+    "title": "Smart Fire Extinguisher System",
+    "domain": "93",
+    "description": "Develop an intelligent fire extinguisher equipped with sensors and AI that automatically activates upon detecting flames or excessive smoke.",
+    "keywords": ["Fire Safety Systems", "Fire Technology", "Fire Prevention"]
+},
+{
+    "id": 6626,
+    "title": "Fire Protection Building Automation",
+    "domain": "93",
+    "description": "Design a building automation system that integrates fire alarms, sprinklers, ventilation control, and evacuation guidance for enhanced fire protection.",
+    "keywords": ["Fire Protection", "Safety Systems", "Fire Engineering"]
+},
+{
+    "id": 6627,
+    "title": "Emergency Management Command Platform",
+    "domain": "93",
+    "description": "Create a centralized command system for coordinating emergency management during fire outbreaks, integrating communication and real-time tracking.",
+    "keywords": ["Emergency Management", "Emergency Technology", "Safety Systems"]
+},
+{
+    "id": 6628,
+    "title": "Thermal Camera-Based Fire Detection",
+    "domain": "93",
+    "description": "Develop a thermal imaging-based fire detection solution that works in low-light and smoky conditions, improving early warning systems.",
+    "keywords": ["Fire Detection", "Fire Technology", "Safety Equipment"]
+},
+{
+    "id": 6629,
+    "title": "AI Fire Prevention Risk Analyzer",
+    "domain": "93",
+    "description": "Build a predictive system that uses AI to analyze building conditions and identify fire risks before they escalate.",
+    "keywords": ["Fire Prevention", "Fire Engineering", "Safety Systems"]
+},
+{
+    "id": 6630,
+    "title": "Smart Firefighter Helmet",
+    "domain": "93",
+    "description": "Design a smart helmet for firefighters with augmented reality overlays, communication tools, and built-in thermal sensors for safer emergency response.",
+    "keywords": ["Emergency Response", "Safety Equipment", "Fire Technology"]
+},
+{
+    "id": 6631,
+    "title": "Automated Fire Safety Audit Tool",
+    "domain": "93",
+    "description": "Develop a software tool that automatically audits building compliance with fire safety systems and regulations.",
+    "keywords": ["Fire Safety Systems", "Fire Protection", "Fire Engineering"]
+},
+{
+    "id": 6632,
+    "title": "Fire Suppression Robot",
+    "domain": "93",
+    "description": "Create an autonomous robot equipped with fire suppression tools for extinguishing fires in hazardous industrial environments.",
+    "keywords": ["Fire Suppression", "Fire Technology", "Emergency Response"]
+},
+{
+    "id": 6633,
+    "title": "Smart Evacuation Guidance System",
+    "domain": "93",
+    "description": "Build an intelligent evacuation system that guides occupants to the nearest safe exits during fire emergencies using dynamic digital signage.",
+    "keywords": ["Emergency Technology", "Safety Systems", "Emergency Management"]
+},
+{
+    "id": 6634,
+    "title": "AI-Powered Fire Emergency Chatbot",
+    "domain": "93",
+    "description": "Design a chatbot assistant that provides real-time fire emergency instructions, evacuation guidance, and first-aid support.",
+    "keywords": ["Emergency Response", "Emergency Management", "Safety Equipment"]
+},
+{
+    "id": 6635,
+    "title": "Smart Kitchen Fire Prevention System",
+    "domain": "93",
+    "description": "Develop an AI-enabled system for kitchens that detects overheating, unattended stoves, and gas leaks to prevent fire hazards.",
+    "keywords": ["Fire Prevention", "Fire Safety Systems", "Safety Equipment"]
+},
+{
+    "id": 6636,
+    "title": "Community Fire Protection App",
+    "domain": "93",
+    "description": "Create a mobile app that connects communities with nearby fire stations, enabling rapid response and fire safety awareness programs.",
+    "keywords": ["Fire Protection", "Emergency Management", "Fire Technology"]
+},
+{
+    "id": 6637,
+    "title": "Intelligent Fire Engineering Simulator",
+    "domain": "93",
+    "description": "Design a simulation platform for fire engineering that models building fires and tests the effectiveness of safety systems.",
+    "keywords": ["Fire Engineering", "Safety Systems", "Fire Technology"]
+},
+{
+    "id": 6638,
+    "title": "Smart Firefighter Communication Network",
+    "domain": "93",
+    "description": "Develop a secure communication system for firefighters during emergencies, integrating real-time video and data sharing.",
+    "keywords": ["Emergency Response", "Emergency Technology", "Emergency Management"]
+},
+{
+    "id": 6639,
+    "title": "AI-Powered Fire Suppression Foam Control",
+    "domain": "93",
+    "description": "Build an intelligent fire suppression system that adjusts foam concentration dynamically based on fire intensity and type.",
+    "keywords": ["Fire Suppression", "Fire Safety Systems", "Fire Engineering"]
+},
+{
+    "id": 6640,
+    "title": "Predictive Emergency Management Dashboard",
+    "domain": "93",
+    "description": "Create a predictive analytics dashboard for emergency management teams to anticipate and mitigate fire-related risks.",
+    "keywords": ["Emergency Management", "Emergency Technology", "Fire Protection"]
+},
+{
+    "id": 6641,
+    "title": "Fire Safety Drone Surveillance",
+    "domain": "93",
+    "description": "Design drones equipped with thermal cameras for monitoring forests, warehouses, and high-risk areas for fire safety compliance.",
+    "keywords": ["Fire Safety Systems", "Fire Detection", "Safety Equipment"]
+},
+{
+    "id": 6642,
+    "title": "IoT Fire Protection Sprinkler System",
+    "domain": "93",
+    "description": "Develop a smart sprinkler system controlled via IoT that activates based on real-time fire detection signals.",
+    "keywords": ["Fire Protection", "Fire Suppression", "Safety Systems"]
+},
+{
+    "id": 6643,
+    "title": "Emergency Response Training Simulator",
+    "domain": "93",
+    "description": "Create a VR-based simulator for training firefighters and civilians in fire emergency response and evacuation.",
+    "keywords": ["Emergency Response", "Fire Technology", "Emergency Management"]
+},
+{
+    "id": 6644,
+    "title": "AI Fire Detection Satellite Monitoring",
+    "domain": "93",
+    "description": "Develop a satellite-based system to detect wildfires early and coordinate with ground emergency response teams.",
+    "keywords": ["Fire Detection", "Emergency Technology", "Fire Prevention"]
+},
+{
+    "id": 6645,
+    "title": "Smart Fireproof Safety Equipment",
+    "domain": "93",
+    "description": "Design advanced fireproof protective equipment for firefighters with integrated cooling and biometric monitoring systems.",
+    "keywords": ["Safety Equipment", "Fire Protection", "Fire Engineering"]
+},
+{
+    "id": 6646,
+    "title": "Cloud-Based Fire Safety Analytics",
+    "domain": "93",
+    "description": "Develop a cloud analytics system for analyzing fire incidents, equipment effectiveness, and safety compliance reports.",
+    "keywords": ["Fire Safety Systems", "Fire Technology", "Emergency Management"]
+},
+{
+    "id": 6647,
+    "title": "AI-Driven Fire Prevention for Smart Cities",
+    "domain": "93",
+    "description": "Create a fire prevention framework for smart cities that integrates IoT sensors, AI models, and predictive maintenance alerts.",
+    "keywords": ["Fire Prevention", "Emergency Technology", "Fire Engineering"]
+},
+{
+    "id": 6648,
+    "title": "Autonomous Emergency Evacuation Robot",
+    "domain": "93",
+    "description": "Build a robot that assists people in evacuating safely during fire emergencies, especially for elderly and disabled individuals.",
+    "keywords": ["Emergency Response", "Safety Equipment", "Emergency Management"]
+},
+//domain-94
+
 
 
 
