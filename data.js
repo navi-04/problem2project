@@ -51798,6 +51798,344 @@ const PROBLEMS_DATA = {
     "keywords": ["Horticultural Systems", "Garden Technology", "Plant Technology"]
 },
 //domain-109
+{
+    "id": 7489,
+    "title": "AI-Powered Weather Forecasting System",
+    "domain": "109",
+    "description": "Develop an AI-based weather forecasting system that leverages satellite data and deep learning models to deliver hyper-local forecasts with real-time updates.",
+    "keywords": ["Weather Forecasting", "Weather Technology", "Weather Innovation"]
+},
+{
+    "id": 7490,
+    "title": "Climate Model Simulation Platform",
+    "domain": "109",
+    "description": "Build a simulation platform that allows researchers to test climate models and evaluate long-term climate impacts under diverse scenarios.",
+    "keywords": ["Climate Models", "Climate Technology", "Climate Science"]
+},
+{
+    "id": 7491,
+    "title": "Atmospheric Prediction Analytics",
+    "domain": "109",
+    "description": "Design an analytics platform that processes atmospheric data streams to generate accurate predictions of storms and rainfall for early warning systems.",
+    "keywords": ["Atmospheric Prediction", "Atmospheric Technology", "Weather Systems"]
+},
+{
+    "id": 7492,
+    "title": "Weather System Monitoring Dashboard",
+    "domain": "109",
+    "description": "Develop a real-time weather system dashboard that visualizes global meteorological conditions using IoT sensors and satellite inputs.",
+    "keywords": ["Weather Systems", "Meteorological Technology", "Weather Innovation"]
+},
+{
+    "id": 7493,
+    "title": "AI Climate Prediction Engine",
+    "domain": "109",
+    "description": "Create an AI-driven engine capable of predicting long-term climate changes, helping governments prepare climate adaptation strategies.",
+    "keywords": ["Climate Prediction", "Climate Science", "Climate Technology"]
+},
+{
+    "id": 7494,
+    "title": "Next-Gen Meteorological Technology Suite",
+    "domain": "109",
+    "description": "Implement a suite of meteorological technologies that integrate cloud computing and IoT devices for faster and more reliable forecasting.",
+    "keywords": ["Meteorological Technology", "Weather Forecasting", "Weather Systems"]
+},
+{
+    "id": 7495,
+    "title": "Weather Modeling Framework",
+    "domain": "109",
+    "description": "Design a flexible weather modeling framework to simulate storm paths, temperature variations, and precipitation with high accuracy.",
+    "keywords": ["Weather Modeling", "Weather Technology", "Climate Science"]
+},
+{
+    "id": 7496,
+    "title": "Global Climate Technology Hub",
+    "domain": "109",
+    "description": "Establish a collaborative hub that connects climate scientists, innovators, and policymakers to share climate technology and solutions.",
+    "keywords": ["Climate Technology", "Climate Models", "Weather Innovation"]
+},
+{
+    "id": 7497,
+    "title": "Atmospheric Technology Data Fusion",
+    "domain": "109",
+    "description": "Create a data fusion system that integrates atmospheric technology inputs from satellites, drones, and ground sensors into a unified model.",
+    "keywords": ["Atmospheric Technology", "Atmospheric Prediction", "Climate Science"]
+},
+{
+    "id": 7498,
+    "title": "Smart Weather Innovation Lab",
+    "domain": "109",
+    "description": "Launch an innovation lab focused on designing next-generation weather solutions, predictive algorithms, and interactive climate simulations.",
+    "keywords": ["Weather Innovation", "Weather Systems", "Climate Models"]
+},
+{
+    "id": 7499,
+    "title": "AI-Powered Climate Science Assistant",
+    "domain": "109",
+    "description": "Develop a digital assistant for climate scientists to analyze datasets, visualize patterns, and generate predictive climate scenarios.",
+    "keywords": ["Climate Science", "Climate Prediction", "Meteorological Technology"]
+},
+{
+    "id": 7500,
+    "title": "Real-Time Weather Forecasting App",
+    "domain": "109",
+    "description": "Build a mobile-first application that delivers personalized weather forecasting using machine learning and geolocation data.",
+    "keywords": ["Weather Forecasting", "Weather Systems", "Weather Technology"]
+},
+{
+    "id": 7501,
+    "title": "Advanced Climate Modeling Suite",
+    "domain": "109",
+    "description": "Create an advanced suite of tools that uses computational fluid dynamics and machine learning to enhance global climate models.",
+    "keywords": ["Climate Models", "Climate Technology", "Climate Science"]
+},
+{
+    "id": 7502,
+    "title": "Atmospheric Prediction Engine",
+    "domain": "109",
+    "description": "Design a predictive engine that analyzes atmospheric changes to forecast storms and extreme weather conditions effectively.",
+    "keywords": ["Atmospheric Prediction", "Atmospheric Technology", "Weather Forecasting"]
+},
+{
+    "id": 7503,
+    "title": "Weather Systems Digital Twin",
+    "domain": "109",
+    "description": "Develop a digital twin of Earth's weather systems to simulate and visualize global climate and meteorological changes in real-time.",
+    "keywords": ["Weather Systems", "Climate Science", "Weather Innovation"]
+},
+{
+    "id": 7504,
+    "title": "Climate Technology Decision Engine",
+    "domain": "109",
+    "description": "Build a decision-making platform that uses climate technology to recommend sustainable agricultural and urban development strategies.",
+    "keywords": ["Climate Technology", "Climate Prediction", "Climate Models"]
+},
+{
+    "id": 7505,
+    "title": "Meteorological AI Cloud",
+    "domain": "109",
+    "description": "Develop a cloud-based solution for meteorological technology that processes weather data streams for global forecasting applications.",
+    "keywords": ["Meteorological Technology", "Weather Forecasting", "Weather Innovation"]
+},
+{
+    "id": 7506,
+    "title": "AI-Enhanced Weather Modeling",
+    "domain": "109",
+    "description": "Create a modeling system that combines AI with traditional weather models to improve accuracy and reduce computational costs.",
+    "keywords": ["Weather Modeling", "Weather Technology", "Atmospheric Prediction"]
+},
+{
+    "id": 7507,
+    "title": "Global Climate Science Network",
+    "domain": "109",
+    "description": "Build a research network where climate science teams share predictive models, datasets, and collaborative analysis tools.",
+    "keywords": ["Climate Science", "Climate Models", "Climate Technology"]
+},
+{
+    "id": 7508,
+    "title": "Atmospheric Technology Sensor Grid",
+    "domain": "109",
+    "description": "Deploy a global grid of atmospheric technology sensors to improve real-time data collection for forecasting and modeling.",
+    "keywords": ["Atmospheric Technology", "Weather Systems", "Meteorological Technology"]
+},
+{
+    "id": 7509,
+    "title": "Weather Innovation Exchange",
+    "domain": "109",
+    "description": "Establish a global marketplace where innovators can share, test, and deploy breakthrough weather technologies.",
+    "keywords": ["Weather Innovation", "Weather Forecasting", "Climate Science"]
+},
+{
+    "id": 7510,
+    "title": "AI Climate Adaptation Predictor",
+    "domain": "109",
+    "description": "Design an AI system that predicts climate adaptation requirements for agriculture, energy, and urban planning.",
+    "keywords": ["Climate Prediction", "Climate Technology", "Weather Systems"]
+},
+{
+    "id": 7511,
+    "title": "Next-Gen Weather Modeling Engine",
+    "domain": "109",
+    "description": "Build a weather modeling engine capable of simulating multi-variable interactions such as wind, temperature, and humidity at scale.",
+    "keywords": ["Weather Modeling", "Weather Innovation", "Meteorological Technology"]
+},
+{
+    "id": 7512,
+    "title": "Climate Science Visualization Platform",
+    "domain": "109",
+    "description": "Create a visualization platform that simplifies climate science data, enabling policymakers and the public to understand changes.",
+    "keywords": ["Climate Science", "Climate Models", "Weather Technology"]
+},
+{
+    "id": 7513,
+    "title": "Atmospheric Prediction for Disaster Response",
+    "domain": "109",
+    "description": "Develop an atmospheric prediction system tailored for disaster response teams, providing rapid alerts for hurricanes and floods.",
+    "keywords": ["Atmospheric Prediction", "Weather Systems", "Climate Technology"]
+},
+{
+    "id": 7514,
+    "title": "Smart Weather Technology Framework",
+    "domain": "109",
+    "description": "Build a modular framework integrating AI, IoT, and cloud solutions for next-generation weather technology applications.",
+    "keywords": ["Weather Technology", "Weather Forecasting", "Climate Models"]
+},
+{
+    "id": 7515,
+    "title": "AI-Driven Meteorological Insights",
+    "domain": "109",
+    "description": "Develop an AI system that delivers meteorological technology insights by analyzing satellite and radar data for enhanced forecasting.",
+    "keywords": ["Meteorological Technology", "Weather Systems", "Climate Prediction"]
+},
+{
+    "id": 7516,
+    "title": "Weather Innovation Accelerator",
+    "domain": "109",
+    "description": "Launch an accelerator program supporting startups building innovative weather systems and predictive technologies.",
+    "keywords": ["Weather Innovation", "Weather Technology", "Climate Science"]
+},
+{
+    "id": 7517,
+    "title": "Climate Models AI Validator",
+    "domain": "109",
+    "description": "Build an AI validator tool that cross-checks climate models against historical climate and meteorological data for accuracy.",
+    "keywords": ["Climate Models", "Climate Science", "Atmospheric Technology"]
+},
+{
+    "id": 7518,
+    "title": "Atmospheric Technology AI Assistant",
+    "domain": "109",
+    "description": "Design an AI assistant that monitors atmospheric technology devices and predicts anomalies in atmospheric readings.",
+    "keywords": ["Atmospheric Technology", "Atmospheric Prediction", "Weather Forecasting"]
+},
+{
+    "id": 7519,
+    "title": "Weather System AI Twin",
+    "domain": "109",
+    "description": "Develop an AI-based digital twin for weather systems that models interactions between oceans, atmosphere, and land surfaces.",
+    "keywords": ["Weather Systems", "Weather Modeling", "Climate Technology"]
+},
+{
+    "id": 7520,
+    "title": "Global Climate Technology Cloud",
+    "domain": "109",
+    "description": "Create a global cloud infrastructure dedicated to storing, processing, and distributing climate technology innovations.",
+    "keywords": ["Climate Technology", "Climate Science", "Weather Innovation"]
+},
+{
+    "id": 7521,
+    "title": "AI Weather Forecasting Bot",
+    "domain": "109",
+    "description": "Develop a chatbot that provides weather forecasting insights powered by real-time meteorological datasets and AI models.",
+    "keywords": ["Weather Forecasting", "Meteorological Technology", "Weather Systems"]
+},
+{
+    "id": 7522,
+    "title": "Climate Prediction Risk Analyzer",
+    "domain": "109",
+    "description": "Build a climate prediction analyzer that assesses risks for agriculture, fisheries, and energy under different scenarios.",
+    "keywords": ["Climate Prediction", "Climate Models", "Weather Technology"]
+},
+{
+    "id": 7523,
+    "title": "AI-Powered Atmospheric Simulation",
+    "domain": "109",
+    "description": "Create an atmospheric simulation system that uses AI to model large-scale atmospheric circulation patterns.",
+    "keywords": ["Atmospheric Prediction", "Atmospheric Technology", "Weather Innovation"]
+},
+{
+    "id": 7524,
+    "title": "Weather Modeling and Forecast Hub",
+    "domain": "109",
+    "description": "Build a hub that centralizes weather modeling and forecasting data, providing services to governments and organizations.",
+    "keywords": ["Weather Modeling", "Weather Forecasting", "Climate Science"]
+},
+{
+    "id": 7525,
+    "title": "Next-Gen Climate Science Database",
+    "domain": "109",
+    "description": "Develop a cloud-native database that stores global climate science datasets and provides AI-powered search and analysis.",
+    "keywords": ["Climate Science", "Climate Technology", "Weather Systems"]
+},
+{
+    "id": 7526,
+    "title": "Meteorological Technology Blockchain",
+    "domain": "109",
+    "description": "Implement a blockchain-based system to securely share meteorological technology data across organizations worldwide.",
+    "keywords": ["Meteorological Technology", "Climate Models", "Weather Innovation"]
+},
+{
+    "id": 7527,
+    "title": "Smart Atmospheric Technology Grid",
+    "domain": "109",
+    "description": "Deploy a smart grid of atmospheric technology nodes to monitor air quality, pressure changes, and predict weather impacts.",
+    "keywords": ["Atmospheric Technology", "Atmospheric Prediction", "Climate Science"]
+},
+{
+    "id": 7528,
+    "title": "Weather Innovation Simulation Engine",
+    "domain": "109",
+    "description": "Build a simulation engine to test and validate innovative weather technologies under controlled experimental conditions.",
+    "keywords": ["Weather Innovation", "Weather Systems", "Weather Modeling"]
+},
+{
+    "id": 7529,
+    "title": "AI-Driven Climate Adaptation Models",
+    "domain": "109",
+    "description": "Design machine learning models that predict how ecosystems and urban areas should adapt to upcoming climate challenges.",
+    "keywords": ["Climate Prediction", "Climate Science", "Climate Technology"]
+},
+{
+    "id": 7530,
+    "title": "Weather Technology IoT Platform",
+    "domain": "109",
+    "description": "Develop an IoT-enabled weather technology platform that connects home and city devices to real-time forecasting systems.",
+    "keywords": ["Weather Technology", "Weather Forecasting", "Meteorological Technology"]
+},
+{
+    "id": 7531,
+    "title": "Global Climate Innovation Network",
+    "domain": "109",
+    "description": "Establish an innovation network to connect researchers working on climate models, atmospheric prediction, and technology.",
+    "keywords": ["Climate Models", "Weather Innovation", "Climate Science"]
+},
+{
+    "id": 7532,
+    "title": "Atmospheric Prediction Digital Twin",
+    "domain": "109",
+    "description": "Develop a digital twin system that replicates atmospheric behavior to simulate long-term weather and climate conditions.",
+    "keywords": ["Atmospheric Prediction", "Weather Systems", "Atmospheric Technology"]
+},
+{
+    "id": 7533,
+    "title": "AI-Powered Weather Modeling Studio",
+    "domain": "109",
+    "description": "Create a studio platform that enables researchers to build, test, and optimize AI-based weather modeling approaches.",
+    "keywords": ["Weather Modeling", "Weather Technology", "Weather Innovation"]
+},
+{
+    "id": 7534,
+    "title": "Climate Technology Policy Simulator",
+    "domain": "109",
+    "description": "Design a simulator that uses climate technology data to model the outcomes of policy changes on global climate adaptation.",
+    "keywords": ["Climate Technology", "Climate Prediction", "Climate Models"]
+},
+{
+    "id": 7535,
+    "title": "Meteorological Data AI Platform",
+    "domain": "109",
+    "description": "Develop an AI-driven platform that enhances meteorological technology datasets for better decision-making and analysis.",
+    "keywords": ["Meteorological Technology", "Weather Forecasting", "Climate Science"]
+},
+{
+    "id": 7536,
+    "title": "Next-Gen Weather Forecasting Engine",
+    "domain": "109",
+    "description": "Build a forecasting engine combining AI, radar inputs, and crowdsourced data to deliver ultra-precise weather predictions.",
+    "keywords": ["Weather Forecasting", "Weather Systems", "Atmospheric Prediction"]
+},
+//domain-110
+
 
 
 
