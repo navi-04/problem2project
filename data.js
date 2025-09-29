@@ -49699,6 +49699,343 @@ const PROBLEMS_DATA = {
     "keywords": ["Cleaning Automation", "Cleaning Innovation", "Hygiene Systems", "Sanitation Technology"]
 },
 //domain-103
+{
+    "id": 7190,
+    "title": "AI-Powered Hair Styling Recommendation System",
+    "domain": "103",
+    "description": "Develop an AI-driven recommendation engine that suggests personalized hairstyles based on face shape, hair texture, and fashion trends. The system integrates beauty technology to improve personal grooming experiences.",
+    "keywords": ["Styling Technology", "Hair Technology", "Beauty Technology", "Personal Grooming"]
+},
+{
+    "id": 7191,
+    "title": "Smart Hairbrush with Embedded Sensors",
+    "domain": "103",
+    "description": "Create a smart hairbrush equipped with sensors to monitor scalp health, detect split ends, and provide real-time feedback for optimal hair care routines.",
+    "keywords": ["Hair Care Systems", "Hair Innovation", "Hair Science", "Personal Care Technology"]
+},
+{
+    "id": 7192,
+    "title": "3D Printed Custom Hair Accessories",
+    "domain": "103",
+    "description": "Design a system to generate custom hair accessories using 3D printing technology that adapts to individual styles and promotes sustainable fashion.",
+    "keywords": ["Hair Equipment", "Styling Technology", "Hair Innovation", "Beauty Engineering"]
+},
+{
+    "id": 7193,
+    "title": "Hair Growth Monitoring Device",
+    "domain": "103",
+    "description": "Build a wearable device that tracks hair growth cycles using hair science principles and provides analytics for better grooming decisions.",
+    "keywords": ["Hair Science", "Personal Care Technology", "Hair Systems", "Grooming Technology"]
+},
+{
+    "id": 7194,
+    "title": "Virtual Hair Styling AR Application",
+    "domain": "103",
+    "description": "Develop an augmented reality app that allows users to try on different hairstyles virtually before making grooming decisions.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Beauty Technology", "Personal Grooming"]
+},
+{
+    "id": 7195,
+    "title": "Hair Damage Detection Camera System",
+    "domain": "103",
+    "description": "Implement an imaging system that uses advanced optics to detect hair damage, dryness, and breakage for optimized treatment recommendations.",
+    "keywords": ["Hair Care Systems", "Hair Science", "Hair Equipment", "Beauty Engineering"]
+},
+{
+    "id": 7196,
+    "title": "Automated Hair Styling Robot",
+    "domain": "103",
+    "description": "Design a robotic arm system capable of automatically styling hair based on user preferences while ensuring safety and efficiency.",
+    "keywords": ["Styling Technology", "Hair Equipment", "Grooming Technology", "Hair Technology"]
+},
+{
+    "id": 7197,
+    "title": "Smart Hairdryer with AI Heat Control",
+    "domain": "103",
+    "description": "Develop a smart hairdryer that uses AI to regulate heat and airflow depending on hair type, reducing damage and improving grooming outcomes.",
+    "keywords": ["Hair Care Systems", "Beauty Technology", "Hair Equipment", "Hair Innovation"]
+},
+{
+    "id": 7198,
+    "title": "Personalized Hair Product Recommendation System",
+    "domain": "103",
+    "description": "Create a system that analyzes scalp conditions and hair types to recommend suitable shampoos, conditioners, and treatments.",
+    "keywords": ["Hair Care Systems", "Personal Grooming", "Hair Science", "Personal Care Technology"]
+},
+{
+    "id": 7199,
+    "title": "AI-Based Hair Texture Analyzer",
+    "domain": "103",
+    "description": "Design an AI-powered application that analyzes hair texture and provides insights into suitable hair care and styling techniques.",
+    "keywords": ["Hair Science", "Hair Innovation", "Styling Technology", "Beauty Engineering"]
+},
+{
+    "id": 7200,
+    "title": "Hair Styling Trend Prediction System",
+    "domain": "103",
+    "description": "Develop a predictive analytics platform that forecasts upcoming hair styling trends using data from fashion events and social media.",
+    "keywords": ["Hair Innovation", "Styling Technology", "Beauty Technology", "Hair Systems"]
+},
+{
+    "id": 7201,
+    "title": "Portable Hair Health Scanner",
+    "domain": "103",
+    "description": "Create a handheld device that evaluates scalp health and hair condition using optical and biochemical sensors.",
+    "keywords": ["Hair Care Systems", "Hair Science", "Grooming Technology", "Personal Care Technology"]
+},
+{
+    "id": 7202,
+    "title": "Automated Hair Coloring Machine",
+    "domain": "103",
+    "description": "Develop a machine that can automatically apply hair color evenly, minimizing errors and improving salon efficiency.",
+    "keywords": ["Hair Equipment", "Styling Technology", "Beauty Engineering", "Hair Technology"]
+},
+{
+    "id": 7203,
+    "title": "Personalized Grooming Assistant App",
+    "domain": "103",
+    "description": "Build a mobile app that acts as a personal grooming assistant, offering tips, reminders, and tutorials for daily hair care routines.",
+    "keywords": ["Personal Grooming", "Hair Care Systems", "Personal Care Technology", "Beauty Technology"]
+},
+{
+    "id": 7204,
+    "title": "AI-Powered Dandruff Detection Tool",
+    "domain": "103",
+    "description": "Implement an AI system that uses scalp imaging to detect dandruff levels and suggest personalized treatment methods.",
+    "keywords": ["Hair Science", "Hair Innovation", "Hair Care Systems", "Beauty Technology"]
+},
+{
+    "id": 7205,
+    "title": "Hair Style Customization Platform",
+    "domain": "103",
+    "description": "Develop a digital platform where users can design and visualize unique hairstyles using beauty engineering principles.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Beauty Engineering", "Personal Grooming"]
+},
+{
+    "id": 7206,
+    "title": "Eco-Friendly Hair Equipment",
+    "domain": "103",
+    "description": "Design sustainable hair styling and care equipment using eco-friendly materials and energy-efficient technology.",
+    "keywords": ["Hair Equipment", "Hair Innovation", "Beauty Engineering", "Personal Care Technology"]
+},
+{
+    "id": 7207,
+    "title": "Voice-Controlled Hair Styling Devices",
+    "domain": "103",
+    "description": "Create smart styling devices that can be operated through voice commands, improving user convenience and accessibility.",
+    "keywords": ["Styling Technology", "Hair Equipment", "Grooming Technology", "Hair Technology"]
+},
+{
+    "id": 7208,
+    "title": "Hair Care Data Analytics Platform",
+    "domain": "103",
+    "description": "Develop a platform that aggregates data on hair health from devices and apps to provide actionable insights for users and professionals.",
+    "keywords": ["Hair Science", "Hair Systems", "Hair Innovation", "Personal Care Technology"]
+},
+{
+    "id": 7209,
+    "title": "Salon Automation System",
+    "domain": "103",
+    "description": "Design an automation system for salons that integrates booking, grooming services, and smart styling technology.",
+    "keywords": ["Grooming Technology", "Hair Equipment", "Styling Technology", "Beauty Technology"]
+},
+{
+    "id": 7210,
+    "title": "Hair Styling Simulation Game",
+    "domain": "103",
+    "description": "Build a gamified platform that allows users to simulate different hairstyles and learn grooming techniques interactively.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Personal Grooming", "Beauty Engineering"]
+},
+{
+    "id": 7211,
+    "title": "IoT-Enabled Hair Straightener",
+    "domain": "103",
+    "description": "Create a connected hair straightener that adjusts temperature automatically and logs usage data for optimal hair care.",
+    "keywords": ["Hair Equipment", "Hair Care Systems", "Grooming Technology", "Hair Innovation"]
+},
+{
+    "id": 7212,
+    "title": "Hair Loss Prediction System",
+    "domain": "103",
+    "description": "Build an AI-based system to predict hair loss patterns using genetics, lifestyle data, and scalp imaging.",
+    "keywords": ["Hair Science", "Hair Systems", "Hair Innovation", "Beauty Technology"]
+},
+{
+    "id": 7213,
+    "title": "Smart Hair Grooming Mirror",
+    "domain": "103",
+    "description": "Design a smart mirror that provides grooming tips, hairstyle previews, and real-time feedback using integrated cameras.",
+    "keywords": ["Personal Grooming", "Styling Technology", "Beauty Technology", "Grooming Technology"]
+},
+{
+    "id": 7214,
+    "title": "Personalized Hair Perfume Dispenser",
+    "domain": "103",
+    "description": "Create a device that applies customized hair fragrances, integrating grooming technology with personal care innovation.",
+    "keywords": ["Grooming Technology", "Hair Innovation", "Beauty Engineering", "Personal Care Technology"]
+},
+{
+    "id": 7215,
+    "title": "Smart Hair Extensions",
+    "domain": "103",
+    "description": "Develop intelligent hair extensions with embedded sensors to monitor scalp health and hair care practices.",
+    "keywords": ["Hair Equipment", "Hair Innovation", "Hair Care Systems", "Hair Technology"]
+},
+{
+    "id": 7216,
+    "title": "Hair Health Blockchain Tracker",
+    "domain": "103",
+    "description": "Implement a blockchain-based system to securely track and share personal hair health records for salons and dermatologists.",
+    "keywords": ["Hair Systems", "Hair Science", "Personal Care Technology", "Beauty Technology"]
+},
+{
+    "id": 7217,
+    "title": "Smart Scalp Massager",
+    "domain": "103",
+    "description": "Design a smart scalp massager that improves blood circulation and enhances hair growth while tracking usage data.",
+    "keywords": ["Hair Care Systems", "Hair Equipment", "Grooming Technology", "Hair Innovation"]
+},
+{
+    "id": 7218,
+    "title": "AI Hairstyle Generator",
+    "domain": "103",
+    "description": "Develop an AI-based hairstyle generator that creates unique hair designs based on user preferences and fashion trends.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Beauty Technology", "Hair Systems"]
+},
+{
+    "id": 7219,
+    "title": "Hair Salon Digital Twin",
+    "domain": "103",
+    "description": "Build a digital twin platform for hair salons to simulate and optimize salon operations, equipment use, and grooming processes.",
+    "keywords": ["Grooming Technology", "Hair Systems", "Hair Equipment", "Beauty Engineering"]
+},
+{
+    "id": 7220,
+    "title": "AI-Driven Hair Dye Formula Optimizer",
+    "domain": "103",
+    "description": "Create an AI system to optimize hair dye formulations for safety, longevity, and personalized shades.",
+    "keywords": ["Hair Innovation", "Hair Care Systems", "Beauty Engineering", "Personal Care Technology"]
+},
+{
+    "id": 7221,
+    "title": "Personal Hair Health Dashboard",
+    "domain": "103",
+    "description": "Develop a dashboard application that tracks hair health metrics collected from smart grooming devices and apps.",
+    "keywords": ["Hair Science", "Hair Systems", "Personal Care Technology", "Grooming Technology"]
+},
+{
+    "id": 7222,
+    "title": "Hair Styling AI Chatbot",
+    "domain": "103",
+    "description": "Build an AI chatbot that provides styling tips, personalized recommendations, and troubleshooting for grooming issues.",
+    "keywords": ["Styling Technology", "Hair Technology", "Personal Grooming", "Beauty Technology"]
+},
+{
+    "id": 7223,
+    "title": "Nano-Coated Hair Protection Device",
+    "domain": "103",
+    "description": "Design a device that applies a nano-coating to hair strands, protecting them from UV rays and pollution.",
+    "keywords": ["Hair Innovation", "Hair Science", "Hair Equipment", "Beauty Engineering"]
+},
+{
+    "id": 7224,
+    "title": "AI Hair Salon Booking Optimizer",
+    "domain": "103",
+    "description": "Implement an AI system to optimize salon booking schedules, reducing wait times and improving customer satisfaction.",
+    "keywords": ["Grooming Technology", "Hair Systems", "Beauty Technology", "Personal Care Technology"]
+},
+{
+    "id": 7225,
+    "title": "Smart Hair Curler with Heat Sensors",
+    "domain": "103",
+    "description": "Develop a smart hair curler with embedded heat sensors to prevent overheating and reduce hair damage.",
+    "keywords": ["Hair Equipment", "Styling Technology", "Hair Care Systems", "Hair Innovation"]
+},
+{
+    "id": 7226,
+    "title": "Hair-Based Biometric Authentication System",
+    "domain": "103",
+    "description": "Create a biometric security system that uses hair structure analysis for personal authentication applications.",
+    "keywords": ["Hair Science", "Hair Technology", "Beauty Engineering", "Personal Care Technology"]
+},
+{
+    "id": 7227,
+    "title": "AI-Powered Barber Robot",
+    "domain": "103",
+    "description": "Design a robotic barber system capable of performing basic grooming and styling tasks with high precision.",
+    "keywords": ["Grooming Technology", "Hair Equipment", "Hair Technology", "Styling Technology"]
+},
+{
+    "id": 7228,
+    "title": "Hair Microbiome Analysis Tool",
+    "domain": "103",
+    "description": "Develop a system to analyze scalp microbiomes and recommend hair care products tailored to the individual's biological profile.",
+    "keywords": ["Hair Science", "Hair Systems", "Hair Care Systems", "Beauty Technology"]
+},
+{
+    "id": 7229,
+    "title": "Virtual Reality Hair Salon Experience",
+    "domain": "103",
+    "description": "Create a VR-powered platform that simulates hair salon visits, allowing users to experiment with hairstyles in an immersive environment.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Beauty Engineering", "Personal Grooming"]
+},
+{
+    "id": 7230,
+    "title": "AI-Based Split-End Detector",
+    "domain": "103",
+    "description": "Build an AI imaging tool that detects split ends and suggests optimal trimming intervals.",
+    "keywords": ["Hair Care Systems", "Hair Innovation", "Hair Science", "Personal Care Technology"]
+},
+{
+    "id": 7231,
+    "title": "Hair Styling IoT Ecosystem",
+    "domain": "103",
+    "description": "Develop an IoT-based ecosystem where multiple smart hair devices communicate to optimize grooming workflows.",
+    "keywords": ["Hair Equipment", "Styling Technology", "Grooming Technology", "Hair Systems"]
+},
+{
+    "id": 7232,
+    "title": "AI Hair Frizz Management Tool",
+    "domain": "103",
+    "description": "Design an AI-powered system that monitors humidity and predicts frizz, suggesting preventive styling techniques.",
+    "keywords": ["Hair Innovation", "Styling Technology", "Hair Care Systems", "Beauty Technology"]
+},
+{
+    "id": 7233,
+    "title": "Personalized Hair Grooming Subscription Service",
+    "domain": "103",
+    "description": "Create a platform that provides subscription-based personalized grooming kits with AI-selected hair care products.",
+    "keywords": ["Personal Grooming", "Hair Care Systems", "Hair Innovation", "Personal Care Technology"]
+},
+{
+    "id": 7234,
+    "title": "AI Hair Texture Transformation Tool",
+    "domain": "103",
+    "description": "Develop an AI application capable of predicting how different styling products and techniques will transform hair texture.",
+    "keywords": ["Hair Science", "Styling Technology", "Hair Innovation", "Beauty Engineering"]
+},
+{
+    "id": 7235,
+    "title": "Hair Salon Customer Experience Analyzer",
+    "domain": "103",
+    "description": "Build a system that tracks customer feedback, service data, and grooming patterns to improve salon experiences.",
+    "keywords": ["Grooming Technology", "Hair Systems", "Beauty Technology", "Hair Innovation"]
+},
+{
+    "id": 7236,
+    "title": "AI-Driven Personalized Hair Tutorials",
+    "domain": "103",
+    "description": "Create a learning platform where AI generates personalized tutorials for hairstyling and grooming techniques.",
+    "keywords": ["Styling Technology", "Hair Innovation", "Personal Grooming", "Beauty Technology"]
+},
+{
+    "id": 7237,
+    "title": "Hair Stress Level Analyzer",
+    "domain": "103",
+    "description": "Design a device that measures hair strand stress levels caused by chemicals, styling, and environmental exposure.",
+    "keywords": ["Hair Science", "Hair Care Systems", "Hair Equipment", "Beauty Engineering"]
+},
+//domain-104
 
 
 
