@@ -50366,6 +50366,308 @@ const PROBLEMS_DATA = {
     "keywords": ["Sleep Science", "Sleep Systems", "Sleep Monitoring", "Sleep Engineering"]
 },
 //domain-105
+{
+    "id": 7285,
+    "title": "AI-Based Perfume Recommendation Engine",
+    "domain": "105",
+    "description": "A system that uses AI and user preferences to recommend personalized perfumes by analyzing fragrance profiles and olfactory responses.",
+    "keywords": ["Perfume Technology", "Fragrance Technology", "Olfactory Engineering"]
+},
+{
+    "id": 7286,
+    "title": "Smart Scent Diffuser",
+    "domain": "105",
+    "description": "An IoT-enabled diffuser that releases personalized fragrance blends based on mood, environment, and time of day.",
+    "keywords": ["Scent Delivery", "Fragrance Systems", "Scent Technology"]
+},
+{
+    "id": 7287,
+    "title": "Virtual Perfume Try-On",
+    "domain": "105",
+    "description": "An AR/VR-based system allowing users to virtually experience perfumes through scent simulation and olfactory devices.",
+    "keywords": ["Olfactory Technology", "Fragrance Innovation", "Perfume Systems"]
+},
+{
+    "id": 7288,
+    "title": "Custom Perfume Blending Robot",
+    "domain": "105",
+    "description": "A robotic system capable of blending unique perfume combinations instantly based on user input and preferences.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Engineering", "Scent Science"]
+},
+{
+    "id": 7289,
+    "title": "Mood-Based Fragrance Generator",
+    "domain": "105",
+    "description": "A system that detects user emotions using biometric sensors and generates matching perfumes to enhance mood or relaxation.",
+    "keywords": ["Fragrance Technology", "Scent Technology", "Olfactory Engineering"]
+},
+{
+    "id": 7290,
+    "title": "Smart Perfume Packaging",
+    "domain": "105",
+    "description": "Perfume packaging with embedded sensors that tracks usage, prevents counterfeiting, and suggests refills automatically.",
+    "keywords": ["Perfume Technology", "Fragrance Systems", "Perfume Manufacturing"]
+},
+{
+    "id": 7291,
+    "title": "Eco-Friendly Perfume Engineering",
+    "domain": "105",
+    "description": "A sustainable perfume creation system that uses biodegradable and natural compounds while maintaining fragrance quality.",
+    "keywords": ["Fragrance Engineering", "Scent Science", "Fragrance Innovation"]
+},
+{
+    "id": 7292,
+    "title": "Wearable Olfactory Device",
+    "domain": "105",
+    "description": "A portable wearable device that emits controlled fragrances throughout the day based on personal preference.",
+    "keywords": ["Olfactory Technology", "Scent Delivery", "Perfume Systems"]
+},
+{
+    "id": 7293,
+    "title": "Perfume Shelf-Life Optimizer",
+    "domain": "105",
+    "description": "A system that uses chemical engineering to extend the shelf life of perfumes while preserving their original scent profile.",
+    "keywords": ["Perfume Technology", "Fragrance Systems", "Perfume Manufacturing"]
+},
+{
+    "id": 7294,
+    "title": "AI-Driven Fragrance Trend Analyzer",
+    "domain": "105",
+    "description": "A platform that analyzes global market data to predict future fragrance trends and consumer preferences.",
+    "keywords": ["Fragrance Innovation", "Fragrance Engineering", "Scent Science"]
+},
+{
+    "id": 7295,
+    "title": "Smart Home Fragrance System",
+    "domain": "105",
+    "description": "An integrated fragrance delivery system for homes that automatically adjusts scents based on occupancy and time of day.",
+    "keywords": ["Scent Delivery", "Fragrance Systems", "Olfactory Technology"]
+},
+{
+    "id": 7296,
+    "title": "Perfume Digital Twin",
+    "domain": "105",
+    "description": "A digital replica of a perfume’s chemical profile for quality testing, simulation, and reproduction without physical samples.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Technology", "Fragrance Systems"]
+},
+{
+    "id": 7297,
+    "title": "Olfactory-Based Stress Reliever",
+    "domain": "105",
+    "description": "A therapeutic system that uses calming fragrances scientifically proven to reduce stress and anxiety.",
+    "keywords": ["Olfactory Engineering", "Scent Technology", "Fragrance Innovation"]
+},
+{
+    "id": 7298,
+    "title": "Smart Perfume Dispenser for Cars",
+    "domain": "105",
+    "description": "An intelligent car fragrance system that releases scents based on driving conditions, mood, and time.",
+    "keywords": ["Perfume Systems", "Scent Delivery", "Olfactory Technology"]
+},
+{
+    "id": 7299,
+    "title": "Personalized Digital Perfume Store",
+    "domain": "105",
+    "description": "An e-commerce platform that tailors perfume recommendations using AI-driven scent profiling and olfactory preferences.",
+    "keywords": ["Perfume Technology", "Fragrance Engineering", "Fragrance Innovation"]
+},
+{
+    "id": 7300,
+    "title": "Perfume Authentication System",
+    "domain": "105",
+    "description": "A blockchain-enabled solution to authenticate premium perfumes and prevent counterfeiting in the market.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Systems", "Fragrance Technology"]
+},
+{
+    "id": 7301,
+    "title": "Olfactory-Based Learning Enhancer",
+    "domain": "105",
+    "description": "A system that integrates fragrances into learning environments to improve memory retention and focus.",
+    "keywords": ["Scent Science", "Olfactory Engineering", "Fragrance Innovation"]
+},
+{
+    "id": 7302,
+    "title": "Smart Perfume Subscription Service",
+    "domain": "105",
+    "description": "A personalized perfume subscription platform that delivers custom blends based on evolving user preferences.",
+    "keywords": ["Perfume Systems", "Perfume Technology", "Fragrance Engineering"]
+},
+{
+    "id": 7303,
+    "title": "AI-Based Perfume Quality Analyzer",
+    "domain": "105",
+    "description": "An AI-powered tool for analyzing fragrance quality, consistency, and safety during perfume production.",
+    "keywords": ["Fragrance Technology", "Perfume Manufacturing", "Olfactory Technology"]
+},
+{
+    "id": 7304,
+    "title": "Smart Festival Fragrance System",
+    "domain": "105",
+    "description": "An event-based fragrance delivery system that disperses themed scents during festivals or public gatherings.",
+    "keywords": ["Scent Delivery", "Perfume Systems", "Fragrance Innovation"]
+},
+{
+    "id": 7305,
+    "title": "Perfume Waste Reduction System",
+    "domain": "105",
+    "description": "A system designed to recycle unused perfumes and repurpose them into new fragrance blends.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Engineering", "Scent Science"]
+},
+{
+    "id": 7306,
+    "title": "Perfume Safety Testing Platform",
+    "domain": "105",
+    "description": "A digital simulation system for testing perfume allergies and sensitivities without human trials.",
+    "keywords": ["Olfactory Technology", "Fragrance Technology", "Perfume Systems"]
+},
+{
+    "id": 7307,
+    "title": "AI-Enhanced Perfume Marketing Tool",
+    "domain": "105",
+    "description": "A marketing tool that predicts consumer fragrance preferences and generates targeted campaigns for perfume brands.",
+    "keywords": ["Fragrance Innovation", "Fragrance Systems", "Perfume Technology"]
+},
+{
+    "id": 7308,
+    "title": "Smart Travel Perfume Kit",
+    "domain": "105",
+    "description": "A compact, refillable travel kit that allows users to carry multiple fragrances in smart modular containers.",
+    "keywords": ["Perfume Systems", "Perfume Manufacturing", "Fragrance Engineering"]
+},
+{
+    "id": 7309,
+    "title": "Digital Perfume Memory Keeper",
+    "domain": "105",
+    "description": "A system that associates perfumes with personal memories, allowing users to recreate and relive emotional experiences.",
+    "keywords": ["Scent Science", "Olfactory Engineering", "Fragrance Technology"]
+},
+{
+    "id": 7310,
+    "title": "Perfume Data Analytics Platform",
+    "domain": "105",
+    "description": "A big data platform that analyzes perfume usage patterns, sales, and preferences for market insights.",
+    "keywords": ["Fragrance Systems", "Perfume Technology", "Fragrance Innovation"]
+},
+{
+    "id": 7311,
+    "title": "Voice-Controlled Perfume Diffuser",
+    "domain": "105",
+    "description": "A smart diffuser that responds to voice commands to adjust fragrance intensity and switch blends instantly.",
+    "keywords": ["Scent Delivery", "Olfactory Technology", "Perfume Systems"]
+},
+{
+    "id": 7312,
+    "title": "Perfume Preservation Chamber",
+    "domain": "105",
+    "description": "A specialized storage chamber that maintains ideal temperature and humidity conditions for perfumes.",
+    "keywords": ["Perfume Technology", "Perfume Manufacturing", "Fragrance Engineering"]
+},
+{
+    "id": 7313,
+    "title": "AI Scent Composer",
+    "domain": "105",
+    "description": "An AI tool that generates innovative perfume compositions by analyzing molecular fragrance data.",
+    "keywords": ["Fragrance Innovation", "Perfume Systems", "Olfactory Engineering"]
+},
+{
+    "id": 7314,
+    "title": "Perfume Retail Experience Enhancer",
+    "domain": "105",
+    "description": "An in-store system that uses digital olfactory devices to help customers experience perfumes without physical testers.",
+    "keywords": ["Olfactory Technology", "Perfume Technology", "Fragrance Systems"]
+},
+{
+    "id": 7315,
+    "title": "Perfume Supply Chain Tracker",
+    "domain": "105",
+    "description": "A blockchain-powered tracker ensuring transparency, quality, and authenticity in perfume supply chains.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Engineering", "Fragrance Technology"]
+},
+{
+    "id": 7316,
+    "title": "Interactive Perfume Education Platform",
+    "domain": "105",
+    "description": "An educational tool that teaches the science of perfumery using interactive modules and olfactory simulations.",
+    "keywords": ["Scent Science", "Fragrance Systems", "Olfactory Engineering"]
+},
+{
+    "id": 7317,
+    "title": "Perfume Recycling Kiosk",
+    "domain": "105",
+    "description": "Smart kiosks that collect old perfumes and recycle them into reusable fragrance components.",
+    "keywords": ["Perfume Manufacturing", "Scent Technology", "Fragrance Engineering"]
+},
+{
+    "id": 7318,
+    "title": "Smart Fragrance Subscription Box",
+    "domain": "105",
+    "description": "A subscription box that delivers AI-selected perfume samples every month based on evolving customer tastes.",
+    "keywords": ["Perfume Systems", "Fragrance Innovation", "Perfume Technology"]
+},
+{
+    "id": 7319,
+    "title": "Perfume Intensity Customizer",
+    "domain": "105",
+    "description": "A device that allows users to control and adjust the intensity of their perfumes before application.",
+    "keywords": ["Perfume Technology", "Olfactory Technology", "Scent Delivery"]
+},
+{
+    "id": 7320,
+    "title": "AI Perfume Market Predictor",
+    "domain": "105",
+    "description": "A forecasting platform that uses machine learning to predict the commercial success of new perfume launches.",
+    "keywords": ["Fragrance Systems", "Fragrance Innovation", "Perfume Manufacturing"]
+},
+{
+    "id": 7321,
+    "title": "Perfume Cloud Experience System",
+    "domain": "105",
+    "description": "A system that creates fragrance clouds for events, exhibitions, and entertainment venues for immersive experiences.",
+    "keywords": ["Scent Delivery", "Perfume Systems", "Olfactory Technology"]
+},
+{
+    "id": 7322,
+    "title": "Perfume IoT Monitoring System",
+    "domain": "105",
+    "description": "IoT sensors integrated into perfume bottles to monitor usage, track authenticity, and provide refill alerts.",
+    "keywords": ["Perfume Technology", "Fragrance Engineering", "Perfume Systems"]
+},
+{
+    "id": 7323,
+    "title": "Perfume Expiry Detection System",
+    "domain": "105",
+    "description": "A chemical analysis system that detects perfume expiry and alerts users before degradation occurs.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Technology", "Scent Science"]
+},
+{
+    "id": 7324,
+    "title": "Perfume Emotion Mapping System",
+    "domain": "105",
+    "description": "A system that maps perfumes to specific emotional states and recommends scents for mood enhancement.",
+    "keywords": ["Olfactory Engineering", "Fragrance Systems", "Fragrance Innovation"]
+},
+{
+    "id": 7325,
+    "title": "Perfume Personalization App",
+    "domain": "105",
+    "description": "A mobile app that allows users to design, order, and track their own personalized perfumes.",
+    "keywords": ["Perfume Systems", "Perfume Technology", "Fragrance Innovation"]
+},
+{
+    "id": 7326,
+    "title": "Perfume Health Impact Analyzer",
+    "domain": "105",
+    "description": "A tool that evaluates the health and safety impact of perfumes by analyzing chemical compositions.",
+    "keywords": ["Fragrance Technology", "Scent Science", "Olfactory Technology"]
+},
+{
+    "id": 7327,
+    "title": "Perfume Data-Driven Design Studio",
+    "domain": "105",
+    "description": "A studio that creates perfumes based on data analytics of customer behavior, climate, and lifestyle preferences.",
+    "keywords": ["Perfume Manufacturing", "Fragrance Engineering", "Fragrance Innovation"]
+},
+//domain-106
 
 
 
