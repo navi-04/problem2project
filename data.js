@@ -50668,6 +50668,441 @@ const PROBLEMS_DATA = {
     "keywords": ["Perfume Manufacturing", "Fragrance Engineering", "Fragrance Innovation"]
 },
 //domain-106
+{
+    "id": 7328,
+    "title": "AI-Powered Smart Toy Assistant",
+    "domain": "106",
+    "description": "Develop a smart toy integrated with AI to respond to children's questions, provide storytelling, and adaptively interact based on age and learning level. The system should encourage creativity and curiosity while maintaining safety controls.",
+    "keywords": ["Smart Toys", "Toy Innovation", "Interactive Play", "Educational Gaming"]
+},
+{
+    "id": 7329,
+    "title": "Interactive Toy Design Platform",
+    "domain": "106",
+    "description": "Create a platform for designing interactive toys where children and parents can customize toy features, colors, and functions. The system would allow 3D previews and simulate interactions before purchase.",
+    "keywords": ["Toy Design", "Interactive Toys", "Toy Technology", "Play Systems"]
+},
+{
+    "id": 7330,
+    "title": "Educational Gaming Puzzle Bot",
+    "domain": "106",
+    "description": "Design a robot toy that teaches problem-solving through educational gaming puzzles. It should use sensors to detect moves, guide kids with hints, and track progress through connected apps.",
+    "keywords": ["Educational Gaming", "Interactive Toys", "Toy Engineering", "Gaming Technology"]
+},
+{
+    "id": 7331,
+    "title": "Augmented Reality Play System",
+    "domain": "106",
+    "description": "Develop an AR-based play system where toys come to life using mobile or AR glasses. Children can interact with physical toys enhanced by virtual storytelling and gamification.",
+    "keywords": ["Play Technology", "Interactive Play", "Toy Innovation", "Educational Toys"]
+},
+{
+    "id": 7332,
+    "title": "Voice-Controlled Smart Plush Toy",
+    "domain": "106",
+    "description": "Build a plush toy integrated with voice recognition to tell stories, sing songs, and engage in simple educational games. The toy should adapt to the child’s vocabulary and interests.",
+    "keywords": ["Smart Toys", "Educational Toys", "Toy Technology", "Interactive Play"]
+},
+{
+    "id": 7333,
+    "title": "STEM Learning Construction Kit",
+    "domain": "106",
+    "description": "Create a modular construction toy kit that introduces STEM concepts through building challenges and interactive play. Kids can assemble robots, vehicles, or machines with educational guidance.",
+    "keywords": ["Toy Engineering", "Educational Gaming", "Toy Innovation", "Play Technology"]
+},
+{
+    "id": 7334,
+    "title": "AI Gaming Companion Toy",
+    "domain": "106",
+    "description": "Design a companion toy that integrates AI-driven gaming, adapting challenges to the child’s skill level. It should encourage critical thinking, teamwork, and creativity during play sessions.",
+    "keywords": ["Gaming Technology", "Interactive Toys", "Educational Gaming", "Smart Toys"]
+},
+{
+    "id": 7335,
+    "title": "Interactive Musical Toy System",
+    "domain": "106",
+    "description": "Develop a toy system that helps children explore music by creating rhythms and melodies interactively. It should provide feedback, gamify learning, and encourage collaboration among kids.",
+    "keywords": ["Interactive Play", "Educational Toys", "Toy Technology", "Play Systems"]
+},
+{
+    "id": 7336,
+    "title": "Toy Safety Engineering Toolkit",
+    "domain": "106",
+    "description": "Build a toolkit for testing and improving toy designs with safety as a priority. The system would use simulations and engineering principles to ensure safe play while maintaining fun and interactivity.",
+    "keywords": ["Toy Engineering", "Toy Design", "Toy Technology", "Toy Innovation"]
+},
+{
+    "id": 7337,
+    "title": "Gamified Language Learning Toy",
+    "domain": "106",
+    "description": "Develop a toy that helps children learn new languages through gaming and interactive play. The system would include speech recognition, translation support, and progress tracking.",
+    "keywords": ["Educational Gaming", "Interactive Toys", "Smart Toys", "Gaming Technology"]
+},
+{
+    "id": 7338,
+    "title": "Customizable Educational Toy Printer",
+    "domain": "106",
+    "description": "Create a platform that allows parents and children to design educational toys digitally and 3D print them at home. The toys can include puzzles, games, and interactive modules.",
+    "keywords": ["Toy Design", "Toy Innovation", "Play Technology", "Educational Toys"]
+},
+{
+    "id": 7339,
+    "title": "AI-Powered Storytelling Toy",
+    "domain": "106",
+    "description": "Build a toy that tells personalized stories based on a child’s preferences. The system would adapt plots, characters, and challenges dynamically using AI to make each story unique.",
+    "keywords": ["Smart Toys", "Toy Innovation", "Interactive Play", "Educational Gaming"]
+},
+{
+    "id": 7340,
+    "title": "Sensor-Based Outdoor Play System",
+    "domain": "106",
+    "description": "Develop an outdoor play system that integrates sensor-based toys with games encouraging physical activity. It can gamify exercises like running, jumping, and coordination challenges.",
+    "keywords": ["Play Systems", "Interactive Toys", "Play Technology", "Toy Engineering"]
+},
+{
+    "id": 7341,
+    "title": "Collaborative Board Game Toy",
+    "domain": "106",
+    "description": "Design a smart board game toy where players interact with a digital companion that moderates gameplay, explains rules, and introduces dynamic challenges.",
+    "keywords": ["Gaming Technology", "Educational Gaming", "Toy Design", "Interactive Play"]
+},
+{
+    "id": 7342,
+    "title": "Smart Toy Health Tracker",
+    "domain": "106",
+    "description": "Create a toy integrated with wearable technology that monitors children’s activity levels, promotes fitness through gamification, and encourages healthier play routines.",
+    "keywords": ["Smart Toys", "Play Technology", "Toy Innovation", "Play Systems"]
+},
+{
+    "id": 7343,
+    "title": "Robotics-Integrated Play System",
+    "domain": "106",
+    "description": "Build an interactive robotics toy system that teaches coding and engineering principles through play. The toys should allow modular upgrades and custom game designs.",
+    "keywords": ["Toy Engineering", "Interactive Play", "Educational Gaming", "Toy Technology"]
+},
+{
+    "id": 7344,
+    "title": "Emotion-Sensing Interactive Toy",
+    "domain": "106",
+    "description": "Develop a toy that detects emotions through facial recognition and responds with comforting sounds, games, or activities. This can help with emotional learning and social development.",
+    "keywords": ["Interactive Toys", "Toy Innovation", "Smart Toys", "Educational Toys"]
+},
+{
+    "id": 7345,
+    "title": "Digital Toy Learning Hub",
+    "domain": "106",
+    "description": "Create a cloud-based hub where toys connect digitally to share progress, achievements, and interactive challenges. Parents can track educational growth through analytics.",
+    "keywords": ["Toy Technology", "Educational Toys", "Play Systems", "Gaming Technology"]
+},
+{
+    "id": 7346,
+    "title": "Interactive Science Lab Toy",
+    "domain": "106",
+    "description": "Build a toy that introduces science experiments safely through guided play. Children can learn chemistry, physics, and biology with interactive kits and digital support.",
+    "keywords": ["Educational Gaming", "Toy Engineering", "Interactive Play", "Play Technology"]
+},
+{
+    "id": 7347,
+    "title": "Smart Collectible Gaming Toys",
+    "domain": "106",
+    "description": "Design collectible toys with embedded chips that unlock digital games, challenges, and rewards when scanned. They encourage both physical and virtual play.",
+    "keywords": ["Gaming Technology", "Smart Toys", "Toy Innovation", "Interactive Play"]
+},
+{
+    "id": 7348,
+    "title": "Gesture-Controlled Play System",
+    "domain": "106",
+    "description": "Develop a system where children can control toys and games using hand gestures. This enhances interactivity, motor skills, and creativity in gameplay.",
+    "keywords": ["Play Systems", "Interactive Play", "Toy Technology", "Interactive Toys"]
+},
+{
+    "id": 7349,
+    "title": "AI Toy Tutor for Math Learning",
+    "domain": "106",
+    "description": "Build a toy that gamifies math lessons by providing interactive exercises, hints, and adaptive difficulty levels. It would serve as a learning companion for children.",
+    "keywords": ["Educational Toys", "Educational Gaming", "Smart Toys", "Play Technology"]
+},
+{
+    "id": 7350,
+    "title": "Eco-Friendly Toy Design Lab",
+    "domain": "106",
+    "description": "Create a lab for designing eco-friendly toys with sustainable materials. It would allow prototyping, testing, and gamified learning on environmental responsibility.",
+    "keywords": ["Toy Design", "Toy Engineering", "Toy Innovation", "Educational Toys"]
+},
+{
+    "id": 7351,
+    "title": "Smart Toy Coding Platform",
+    "domain": "106",
+    "description": "Develop a coding platform where children program smart toys using drag-and-drop interfaces. The toys execute tasks physically, teaching logic and problem-solving.",
+    "keywords": ["Toy Technology", "Educational Gaming", "Toy Innovation", "Gaming Technology"]
+},
+{
+    "id": 7352,
+    "title": "Holographic Interactive Toy",
+    "domain": "106",
+    "description": "Build a holographic toy system where children can play with virtual holograms projected around physical toys. The integration would make storytelling and gaming immersive.",
+    "keywords": ["Interactive Toys", "Play Technology", "Toy Innovation", "Gaming Technology"]
+},
+{
+    "id": 7353,
+    "title": "Multi-Language Interactive Playmate",
+    "domain": "106",
+    "description": "Create an interactive toy that can converse in multiple languages, helping children practice speaking and listening while playing games and storytelling.",
+    "keywords": ["Interactive Play", "Educational Toys", "Smart Toys", "Toy Innovation"]
+},
+{
+    "id": 7354,
+    "title": "AI Gamified Puzzle Cube",
+    "domain": "106",
+    "description": "Design a puzzle cube toy with AI that adapts difficulty and gives interactive hints. The toy should encourage cognitive growth and problem-solving through gaming.",
+    "keywords": ["Educational Gaming", "Gaming Technology", "Toy Engineering", "Smart Toys"]
+},
+{
+    "id": 7355,
+    "title": "Connected Family Play Platform",
+    "domain": "106",
+    "description": "Develop a platform where families can connect toys across locations, enabling multiplayer play, storytelling, and shared educational gaming sessions remotely.",
+    "keywords": ["Play Systems", "Toy Technology", "Interactive Play", "Educational Gaming"]
+},
+{
+    "id": 7356,
+    "title": "AI Toy Debate Partner",
+    "domain": "106",
+    "description": "Build a toy that helps children practice critical thinking and debate by engaging them with fun topics. The toy adapts difficulty to improve communication skills.",
+    "keywords": ["Smart Toys", "Toy Innovation", "Educational Toys", "Interactive Play"]
+},
+{
+    "id": 7357,
+    "title": "3D Printed Custom Gaming Figures",
+    "domain": "106",
+    "description": "Create a service for designing and 3D printing custom gaming toys that integrate with digital games, offering personalization and interactivity.",
+    "keywords": ["Toy Design", "Gaming Technology", "Interactive Toys", "Toy Innovation"]
+},
+{
+    "id": 7358,
+    "title": "Mind-Controlled Play Toy",
+    "domain": "106",
+    "description": "Develop a toy that responds to brainwave signals using EEG headbands. Children can control games and play systems with focus and relaxation levels.",
+    "keywords": ["Play Technology", "Smart Toys", "Interactive Play", "Toy Engineering"]
+},
+{
+    "id": 7359,
+    "title": "Educational Toy Cloud Platform",
+    "domain": "106",
+    "description": "Build a cloud-based educational toy platform where games and learning modules update dynamically. Parents and educators can monitor and personalize learning journeys.",
+    "keywords": ["Educational Toys", "Toy Technology", "Educational Gaming", "Play Systems"]
+},
+{
+    "id": 7360,
+    "title": "Robotics Battle Play Arena",
+    "domain": "106",
+    "description": "Design a battle arena system where robotics-based toys compete in games. The arena integrates interactive play with coding challenges and team-based gaming.",
+    "keywords": ["Interactive Toys", "Toy Engineering", "Gaming Technology", "Educational Gaming"]
+},
+{
+    "id": 7361,
+    "title": "Interactive Art Creation Toy",
+    "domain": "106",
+    "description": "Develop a toy that lets children create digital and physical art interactively. The system should support drawing, painting, and gamified learning activities.",
+    "keywords": ["Interactive Play", "Educational Toys", "Toy Innovation", "Play Technology"]
+},
+{
+    "id": 7362,
+    "title": "Personalized AI Toy Companion",
+    "domain": "106",
+    "description": "Build a personalized AI toy that adapts behavior, conversations, and learning modules to match each child’s personality and growth. It should enhance both play and education.",
+    "keywords": ["Smart Toys", "Interactive Toys", "Toy Technology", "Educational Gaming"]
+},
+{
+    "id": 7363,
+    "title": "Immersive Toy Story World",
+    "domain": "106",
+    "description": "Create a toy ecosystem where physical toys unlock immersive story adventures in a virtual world. Children can blend real play with digital gaming.",
+    "keywords": ["Toy Innovation", "Play Systems", "Gaming Technology", "Interactive Play"]
+},
+{
+    "id": 7364,
+    "title": "Toy Engineering Simulation Game",
+    "domain": "106",
+    "description": "Design a simulation game that lets children experiment with toy engineering virtually. Kids can build, test, and refine toy models in an interactive learning environment.",
+    "keywords": ["Toy Engineering", "Educational Gaming", "Toy Design", "Gaming Technology"]
+},
+{
+    "id": 7365,
+    "title": "Interactive Toy Fitness Buddy",
+    "domain": "106",
+    "description": "Develop a toy that encourages kids to exercise through gamified challenges. It tracks steps, jumps, and movements while rewarding progress with games and stories.",
+    "keywords": ["Play Technology", "Smart Toys", "Interactive Play", "Educational Toys"]
+},
+{
+    "id": 7366,
+    "title": "AI Toy Game Narrator",
+    "domain": "106",
+    "description": "Build a toy that acts as a dynamic game narrator, creating evolving challenges and interactive storytelling to keep kids engaged and entertained.",
+    "keywords": ["Toy Technology", "Gaming Technology", "Interactive Play", "Toy Innovation"]
+},
+{
+    "id": 7367,
+    "title": "STEM-Oriented Drone Toy",
+    "domain": "106",
+    "description": "Design a drone toy that introduces STEM learning by teaching aerodynamics, physics, and programming. Children can engage in safe experiments and gamified challenges.",
+    "keywords": ["Toy Engineering", "Educational Toys", "Play Systems", "Educational Gaming"]
+},
+{
+    "id": 7368,
+    "title": "AI Interactive Toy Friend Network",
+    "domain": "106",
+    "description": "Develop a network where AI-powered toys communicate with each other to create collaborative games, shared adventures, and interactive storytelling.",
+    "keywords": ["Interactive Toys", "Smart Toys", "Play Technology", "Toy Innovation"]
+},
+{
+    "id": 7369,
+    "title": "Toy Design Collaboration Hub",
+    "domain": "106",
+    "description": "Create a digital hub for children and designers to collaborate on toy designs. It provides interactive tools for prototyping, testing, and refining innovative toy ideas.",
+    "keywords": ["Toy Design", "Toy Technology", "Toy Innovation", "Play Systems"]
+},
+{
+    "id": 7370,
+    "title": "Gamified Environmental Learning Toy",
+    "domain": "106",
+    "description": "Build a toy that gamifies environmental learning by teaching recycling, conservation, and sustainability concepts through play and interactive challenges.",
+    "keywords": ["Educational Toys", "Educational Gaming", "Interactive Play", "Toy Innovation"]
+},
+{
+    "id": 7371,
+    "title": "Smart Toy Adventure Quest",
+    "domain": "106",
+    "description": "Design a toy that leads children through adventure quests with puzzles, stories, and rewards. The toy should combine physical interaction with digital gaming elements.",
+    "keywords": ["Smart Toys", "Interactive Play", "Gaming Technology", "Educational Gaming"]
+},
+{
+    "id": 7372,
+    "title": "Toy Technology Learning Lab",
+    "domain": "106",
+    "description": "Develop a learning lab that teaches kids how toy technology works through hands-on experiments, coding challenges, and engineering design projects.",
+    "keywords": ["Toy Technology", "Toy Engineering", "Educational Toys", "Play Technology"]
+},
+{
+    "id": 7373,
+    "title": "Interactive Historical Gaming Toy",
+    "domain": "106",
+    "description": "Create a toy that introduces history lessons through interactive gaming. Children can explore different eras with games, storytelling, and educational play.",
+    "keywords": ["Educational Gaming", "Interactive Toys", "Toy Innovation", "Gaming Technology"]
+},
+{
+    "id": 7374,
+    "title": "Wearable Toy Gaming Bracelet",
+    "domain": "106",
+    "description": "Build a wearable bracelet toy that integrates games, health tracking, and interactive storytelling. It promotes fitness and immersive play experiences.",
+    "keywords": ["Play Systems", "Smart Toys", "Toy Technology", "Interactive Play"]
+},
+{
+    "id": 7375,
+    "title": "AI-Enhanced Toy Learning Assistant",
+    "domain": "106",
+    "description": "Design an AI toy that assists children with homework, interactive exercises, and gamified learning challenges, making education more engaging and playful.",
+    "keywords": ["Smart Toys", "Educational Toys", "Educational Gaming", "Toy Innovation"]
+},
+{
+    "id": 7376,
+    "title": "Interactive Roleplay Toy Set",
+    "domain": "106",
+    "description": "Develop a toy set that encourages roleplay with interactive sound effects, challenges, and guided missions. It helps children develop imagination and collaboration skills.",
+    "keywords": ["Interactive Play", "Toy Innovation", "Educational Toys", "Play Systems"]
+},
+{
+    "id": 7377,
+    "title": "Toy Technology Virtual Museum",
+    "domain": "106",
+    "description": "Build a virtual museum that showcases the history, design, and innovation of toy technology. It includes interactive exhibits, simulations, and educational gaming.",
+    "keywords": ["Toy Technology", "Toy Design", "Educational Gaming", "Toy Innovation"]
+},
+{
+    "id": 7378,
+    "title": "AI Toy Learning Analytics System",
+    "domain": "106",
+    "description": "Create a system that collects learning data from smart toys to analyze progress, strengths, and weaknesses, offering insights for parents and educators.",
+    "keywords": ["Toy Technology", "Educational Toys", "Play Systems", "Smart Toys"]
+},
+{
+    "id": 7379,
+    "title": "Interactive Toy Sports Trainer",
+    "domain": "106",
+    "description": "Design a sports training toy that helps kids learn skills like football, cricket, or basketball through interactive play and gamified practice modules.",
+    "keywords": ["Interactive Toys", "Play Technology", "Educational Gaming", "Toy Engineering"]
+},
+{
+    "id": 7380,
+    "title": "AI-Powered Toy Game Generator",
+    "domain": "106",
+    "description": "Develop a toy that can generate new games dynamically using AI. The toy would introduce creative challenges, puzzles, and competitions for children.",
+    "keywords": ["Gaming Technology", "Interactive Play", "Smart Toys", "Toy Innovation"]
+},
+{
+    "id": 7381,
+    "title": "Virtual Toy Playdate System",
+    "domain": "106",
+    "description": "Build a system that allows children to have virtual playdates with toys connected online, enabling remote multiplayer educational gaming experiences.",
+    "keywords": ["Play Systems", "Interactive Toys", "Educational Gaming", "Toy Technology"]
+},
+{
+    "id": 7382,
+    "title": "Interactive Toy Adventure Map",
+    "domain": "106",
+    "description": "Create an adventure map toy that blends physical play with digital storylines, guiding children through challenges, puzzles, and discoveries.",
+    "keywords": ["Interactive Play", "Educational Toys", "Gaming Technology", "Toy Innovation"]
+},
+{
+    "id": 7383,
+    "title": "AI Toy Creativity Booster",
+    "domain": "106",
+    "description": "Develop a toy that encourages children to create stories, designs, or games with AI assistance. The toy nurtures imagination and problem-solving skills.",
+    "keywords": ["Smart Toys", "Educational Gaming", "Toy Design", "Interactive Play"]
+},
+{
+    "id": 7384,
+    "title": "Toy Engineering Robotics Kit",
+    "domain": "106",
+    "description": "Design a robotics kit that allows children to build, program, and play with robots interactively, enhancing STEM learning through engaging challenges.",
+    "keywords": ["Toy Engineering", "Educational Toys", "Play Technology", "Interactive Toys"]
+},
+{
+    "id": 7385,
+    "title": "Interactive Cultural Learning Toy",
+    "domain": "106",
+    "description": "Build a toy that teaches cultural values, traditions, and languages through interactive games, stories, and roleplay activities.",
+    "keywords": ["Educational Toys", "Interactive Play", "Toy Innovation", "Educational Gaming"]
+},
+{
+    "id": 7386,
+    "title": "Smart Toy Performance Analyzer",
+    "domain": "106",
+    "description": "Create a system where smart toys analyze children’s performance during play, providing feedback, encouragement, and personalized challenges.",
+    "keywords": ["Smart Toys", "Toy Technology", "Educational Gaming", "Play Systems"]
+},
+{
+    "id": 7387,
+    "title": "Interactive DIY Toy Kit",
+    "domain": "106",
+    "description": "Develop a DIY kit where children assemble their own interactive toys. It encourages creativity, engineering skills, and problem-solving.",
+    "keywords": ["Toy Design", "Toy Engineering", "Toy Innovation", "Interactive Toys"]
+},
+{
+    "id": 7388,
+    "title": "Gamified Toy Reading Assistant",
+    "domain": "106",
+    "description": "Build a toy that helps children practice reading through interactive stories, gamified lessons, and adaptive challenges based on reading skills.",
+    "keywords": ["Educational Gaming", "Educational Toys", "Interactive Play", "Smart Toys"]
+},
+{
+    "id": 7389,
+    "title": "Mixed Reality Play System",
+    "domain": "106",
+    "description": "Create a mixed reality system where toys integrate with AR/VR for immersive storytelling and educational play, bridging physical and digital gaming worlds.",
+    "keywords": ["Play Systems", "Play Technology", "Toy Innovation", "Gaming Technology"]
+},
+//domain-107 
 
 
 
