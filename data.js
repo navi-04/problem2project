@@ -50036,6 +50036,337 @@ const PROBLEMS_DATA = {
     "keywords": ["Hair Science", "Hair Care Systems", "Hair Equipment", "Beauty Engineering"]
 },
 //domain-104
+{
+    "id": 7238,
+    "title": "AI-Powered Sleep Monitoring System",
+    "domain": "104",
+    "description": "A system that uses AI algorithms to track and analyze sleep cycles, breathing patterns, and rest quality to provide personalized sleep recommendations.",
+    "keywords": ["Sleep Monitoring", "Sleep Technology", "Sleep Science", "Sleep Systems"]
+},
+{
+    "id": 7239,
+    "title": "Rest Optimization Wearable Device",
+    "domain": "104",
+    "description": "A wearable device that monitors heart rate, body temperature, and movements during rest to optimize recovery and suggest lifestyle improvements.",
+    "keywords": ["Rest Optimization", "Rest Technology", "Sleep Monitoring", "Sleep Equipment"]
+},
+{
+    "id": 7240,
+    "title": "Sleep Enhancement Smart Mattress",
+    "domain": "104",
+    "description": "A smart mattress equipped with embedded sensors to track posture and temperature, dynamically adjusting support to enhance sleep quality.",
+    "keywords": ["Sleep Enhancement", "Sleep Systems", "Sleep Equipment", "Rest Systems"]
+},
+{
+    "id": 7241,
+    "title": "Intelligent Sleep Science Platform",
+    "domain": "104",
+    "description": "A cloud-based platform integrating data from multiple devices to provide detailed insights into sleep science and personalized health advice.",
+    "keywords": ["Sleep Science", "Sleep Innovation", "Sleep Solutions", "Rest Technology"]
+},
+{
+    "id": 7242,
+    "title": "Smart Rest Technology Bedside Assistant",
+    "domain": "104",
+    "description": "A bedside device that uses AI to adjust lighting, sound, and temperature for optimal rest and relaxation routines.",
+    "keywords": ["Rest Technology", "Sleep Engineering", "Sleep Innovation", "Sleep Enhancement"]
+},
+{
+    "id": 7243,
+    "title": "Sleep Engineering Data Analyzer",
+    "domain": "104",
+    "description": "An advanced analytics tool to study sleep engineering parameters like REM cycles, heart rate variability, and movement trends.",
+    "keywords": ["Sleep Engineering", "Sleep Monitoring", "Sleep Science", "Sleep Technology"]
+},
+{
+    "id": 7244,
+    "title": "Personalized Sleep Equipment Kit",
+    "domain": "104",
+    "description": "A modular equipment kit including smart pillows, temperature regulators, and light controllers for personalized sleep environments.",
+    "keywords": ["Sleep Equipment", "Sleep Enhancement", "Rest Systems", "Sleep Innovation"]
+},
+{
+    "id": 7245,
+    "title": "Sleep Solutions Mobile Application",
+    "domain": "104",
+    "description": "A mobile app integrating sleep monitoring data to provide tailored solutions for better sleep routines and habits.",
+    "keywords": ["Sleep Solutions", "Sleep Systems", "Sleep Monitoring", "Rest Optimization"]
+},
+{
+    "id": 7246,
+    "title": "Smart Rest Systems Hub",
+    "domain": "104",
+    "description": "A central hub that connects various sleep and rest devices, synchronizing data and optimizing user comfort in real time.",
+    "keywords": ["Rest Systems", "Rest Technology", "Sleep Systems", "Sleep Innovation"]
+},
+{
+    "id": 7247,
+    "title": "AI-Driven Sleep Innovation Lab",
+    "domain": "104",
+    "description": "A research-based platform focused on testing innovative algorithms and devices to enhance sleep technology advancements.",
+    "keywords": ["Sleep Innovation", "Sleep Science", "Sleep Technology", "Sleep Engineering"]
+},
+{
+    "id": 7248,
+    "title": "Next-Gen Sleep Technology Glasses",
+    "domain": "104",
+    "description": "Glasses that regulate blue light exposure before bed, reducing eye strain and improving sleep cycles.",
+    "keywords": ["Sleep Technology", "Sleep Enhancement", "Sleep Innovation", "Sleep Equipment"]
+},
+{
+    "id": 7249,
+    "title": "Wearable Sleep Monitoring Band",
+    "domain": "104",
+    "description": "A wearable band that tracks sleep duration, interruptions, and breathing irregularities with AI analysis.",
+    "keywords": ["Sleep Monitoring", "Sleep Systems", "Sleep Solutions", "Sleep Equipment"]
+},
+{
+    "id": 7250,
+    "title": "AI Rest Optimization Companion",
+    "domain": "104",
+    "description": "An AI-powered companion app that syncs with wearable data to deliver actionable rest optimization tips.",
+    "keywords": ["Rest Optimization", "Rest Systems", "Sleep Monitoring", "Sleep Technology"]
+},
+{
+    "id": 7251,
+    "title": "Adaptive Sleep Enhancement Speaker",
+    "domain": "104",
+    "description": "A smart speaker that produces adaptive soundscapes based on environmental noise levels and user sleep data.",
+    "keywords": ["Sleep Enhancement", "Sleep Solutions", "Sleep Systems", "Sleep Innovation"]
+},
+{
+    "id": 7252,
+    "title": "Integrated Sleep Science Dashboard",
+    "domain": "104",
+    "description": "A dashboard integrating sleep cycle data, rest scores, and health parameters for holistic sleep science analysis.",
+    "keywords": ["Sleep Science", "Sleep Technology", "Sleep Monitoring", "Sleep Equipment"]
+},
+{
+    "id": 7253,
+    "title": "Rest Technology Smart Lamp",
+    "domain": "104",
+    "description": "A smart lamp that simulates natural sunrise and sunset cycles to promote better rest and waking routines.",
+    "keywords": ["Rest Technology", "Rest Optimization", "Sleep Enhancement", "Sleep Systems"]
+},
+{
+    "id": 7254,
+    "title": "Sleep Engineering Cloud Simulator",
+    "domain": "104",
+    "description": "A cloud-based simulator for modeling and predicting sleep engineering outcomes in different environmental conditions.",
+    "keywords": ["Sleep Engineering", "Sleep Systems", "Sleep Solutions", "Sleep Innovation"]
+},
+{
+    "id": 7255,
+    "title": "Portable Sleep Equipment Analyzer",
+    "domain": "104",
+    "description": "A handheld device for analyzing the effectiveness of various sleep equipment like pillows, mattresses, and wearable monitors.",
+    "keywords": ["Sleep Equipment", "Sleep Monitoring", "Sleep Enhancement", "Rest Technology"]
+},
+{
+    "id": 7256,
+    "title": "Customized Sleep Solutions Generator",
+    "domain": "104",
+    "description": "A software tool that generates customized sleep improvement solutions based on individual biometric data.",
+    "keywords": ["Sleep Solutions", "Sleep Science", "Rest Optimization", "Sleep Systems"]
+},
+{
+    "id": 7257,
+    "title": "Automated Rest Systems Adjuster",
+    "domain": "104",
+    "description": "An IoT-based system that adjusts lighting, air quality, and room temperature automatically for rest optimization.",
+    "keywords": ["Rest Systems", "Rest Optimization", "Sleep Technology", "Sleep Enhancement"]
+},
+{
+    "id": 7258,
+    "title": "Next-Level Sleep Innovation Tracker",
+    "domain": "104",
+    "description": "A tracking system that leverages AI for innovating new insights into sleep behaviors and wellness improvement.",
+    "keywords": ["Sleep Innovation", "Sleep Science", "Sleep Monitoring", "Rest Technology"]
+},
+{
+    "id": 7259,
+    "title": "Comprehensive Sleep Technology Suite",
+    "domain": "104",
+    "description": "An all-in-one suite offering smart devices, apps, and analytics for tracking and improving overall sleep quality.",
+    "keywords": ["Sleep Technology", "Sleep Systems", "Sleep Solutions", "Rest Systems"]
+},
+{
+    "id": 7260,
+    "title": "Advanced Sleep Monitoring Bed",
+    "domain": "104",
+    "description": "A bed with embedded biometric sensors capable of real-time sleep monitoring and predictive health alerts.",
+    "keywords": ["Sleep Monitoring", "Sleep Equipment", "Sleep Engineering", "Sleep Solutions"]
+},
+{
+    "id": 7261,
+    "title": "AI Rest Optimization Cloud Service",
+    "domain": "104",
+    "description": "A cloud-based optimization service that syncs data from various devices and recommends rest schedules.",
+    "keywords": ["Rest Optimization", "Rest Systems", "Sleep Innovation", "Sleep Science"]
+},
+{
+    "id": 7262,
+    "title": "Sleep Enhancement Aroma Diffuser",
+    "domain": "104",
+    "description": "An AI-controlled diffuser that releases calming scents in sync with sleep cycle stages to improve sleep quality.",
+    "keywords": ["Sleep Enhancement", "Rest Technology", "Sleep Solutions", "Sleep Systems"]
+},
+{
+    "id": 7263,
+    "title": "AI-Driven Sleep Science Research Tool",
+    "domain": "104",
+    "description": "A tool designed for researchers to collect, analyze, and visualize sleep data from multiple participants.",
+    "keywords": ["Sleep Science", "Sleep Monitoring", "Sleep Engineering", "Sleep Innovation"]
+},
+{
+    "id": 7264,
+    "title": "Smart Rest Technology Pillow",
+    "domain": "104",
+    "description": "A pillow embedded with cooling, sound, and sensor technology to support deep rest and relaxation.",
+    "keywords": ["Rest Technology", "Sleep Equipment", "Sleep Enhancement", "Sleep Systems"]
+},
+{
+    "id": 7265,
+    "title": "Sleep Engineering Mobile Tracker",
+    "domain": "104",
+    "description": "A mobile tracker designed to capture engineering parameters of sleep and provide optimization suggestions.",
+    "keywords": ["Sleep Engineering", "Sleep Monitoring", "Sleep Technology", "Rest Optimization"]
+},
+{
+    "id": 7266,
+    "title": "Next-Gen Sleep Equipment Hub",
+    "domain": "104",
+    "description": "A hub that connects and controls all sleep-related equipment, ensuring seamless interoperability and optimization.",
+    "keywords": ["Sleep Equipment", "Rest Systems", "Sleep Solutions", "Sleep Innovation"]
+},
+{
+    "id": 7267,
+    "title": "AI-Based Sleep Solutions Analyzer",
+    "domain": "104",
+    "description": "An AI-driven analyzer that evaluates sleep data and generates solutions to enhance sleep cycles and quality.",
+    "keywords": ["Sleep Solutions", "Sleep Monitoring", "Sleep Science", "Sleep Enhancement"]
+},
+{
+    "id": 7268,
+    "title": "Rest Systems Energy Optimizer",
+    "domain": "104",
+    "description": "A system designed to optimize energy use in rooms while maintaining ideal rest and sleep conditions.",
+    "keywords": ["Rest Systems", "Rest Optimization", "Sleep Systems", "Rest Technology"]
+},
+{
+    "id": 7269,
+    "title": "AI Sleep Innovation Wearable Patch",
+    "domain": "104",
+    "description": "A wearable patch that monitors sleep-related metrics and integrates with AI systems to deliver innovative improvements.",
+    "keywords": ["Sleep Innovation", "Sleep Monitoring", "Sleep Technology", "Sleep Equipment"]
+},
+{
+    "id": 7270,
+    "title": "Sleep Technology VR Relaxation Tool",
+    "domain": "104",
+    "description": "A VR-based relaxation tool that simulates calming environments to prepare users for optimal sleep cycles.",
+    "keywords": ["Sleep Technology", "Sleep Enhancement", "Sleep Solutions", "Rest Technology"]
+},
+{
+    "id": 7271,
+    "title": "Personalized Sleep Monitoring Assistant",
+    "domain": "104",
+    "description": "A voice-enabled assistant that integrates with devices to provide personalized sleep monitoring and insights.",
+    "keywords": ["Sleep Monitoring", "Sleep Systems", "Sleep Innovation", "Rest Optimization"]
+},
+{
+    "id": 7272,
+    "title": "Next-Level Rest Optimization Bed Cover",
+    "domain": "104",
+    "description": "A smart bed cover that regulates temperature and humidity for optimal rest and relaxation.",
+    "keywords": ["Rest Optimization", "Rest Systems", "Sleep Enhancement", "Sleep Technology"]
+},
+{
+    "id": 7273,
+    "title": "AI-Driven Sleep Enhancement Coach",
+    "domain": "104",
+    "description": "A digital sleep coach that uses machine learning to provide real-time feedback and improvement strategies.",
+    "keywords": ["Sleep Enhancement", "Sleep Innovation", "Sleep Solutions", "Sleep Science"]
+},
+{
+    "id": 7274,
+    "title": "Sleep Science Data Visualizer",
+    "domain": "104",
+    "description": "A visualization platform for analyzing sleep science datasets and uncovering patterns in rest behavior.",
+    "keywords": ["Sleep Science", "Sleep Engineering", "Sleep Monitoring", "Sleep Technology"]
+},
+{
+    "id": 7275,
+    "title": "Rest Technology Smart Blanket",
+    "domain": "104",
+    "description": "A blanket with embedded temperature control and biometric sensors to improve overall rest quality.",
+    "keywords": ["Rest Technology", "Rest Optimization", "Sleep Systems", "Sleep Enhancement"]
+},
+{
+    "id": 7276,
+    "title": "Sleep Engineering AI Optimizer",
+    "domain": "104",
+    "description": "An AI-powered engine that analyzes user sleep engineering data and provides optimization paths for recovery.",
+    "keywords": ["Sleep Engineering", "Sleep Science", "Sleep Systems", "Sleep Innovation"]
+},
+{
+    "id": 7277,
+    "title": "Wearable Sleep Equipment Enhancer",
+    "domain": "104",
+    "description": "A wearable device that enhances the efficiency of other sleep equipment like smart pillows and mattresses.",
+    "keywords": ["Sleep Equipment", "Sleep Enhancement", "Rest Systems", "Sleep Technology"]
+},
+{
+    "id": 7278,
+    "title": "Next-Gen Sleep Solutions AI Hub",
+    "domain": "104",
+    "description": "An AI hub that connects all sleep solutions into one integrated platform for data-driven rest improvement.",
+    "keywords": ["Sleep Solutions", "Sleep Innovation", "Sleep Systems", "Rest Technology"]
+},
+{
+    "id": 7279,
+    "title": "Adaptive Rest Systems Mattress",
+    "domain": "104",
+    "description": "A mattress capable of adapting firmness, temperature, and position to ensure maximum rest efficiency.",
+    "keywords": ["Rest Systems", "Rest Optimization", "Sleep Equipment", "Sleep Enhancement"]
+},
+{
+    "id": 7280,
+    "title": "AI Sleep Technology Research Assistant",
+    "domain": "104",
+    "description": "A research assistant system that leverages AI to test hypotheses and generate insights in sleep technology.",
+    "keywords": ["Sleep Technology", "Sleep Innovation", "Sleep Science", "Sleep Engineering"]
+},
+{
+    "id": 7281,
+    "title": "Sleep Monitoring Smart Ring",
+    "domain": "104",
+    "description": "A smart ring capable of monitoring sleep duration, quality, and oxygen levels without disrupting comfort.",
+    "keywords": ["Sleep Monitoring", "Sleep Systems", "Sleep Equipment", "Sleep Solutions"]
+},
+{
+    "id": 7282,
+    "title": "Rest Optimization Digital Twin",
+    "domain": "104",
+    "description": "A digital twin of user sleep patterns that models rest behaviors and suggests optimization strategies.",
+    "keywords": ["Rest Optimization", "Sleep Science", "Sleep Innovation", "Sleep Systems"]
+},
+{
+    "id": 7283,
+    "title": "AI Sleep Enhancement Sound Machine",
+    "domain": "104",
+    "description": "A sound machine powered by AI that generates adaptive audio tones designed to enhance sleep cycles.",
+    "keywords": ["Sleep Enhancement", "Sleep Solutions", "Sleep Technology", "Rest Technology"]
+},
+{
+    "id": 7284,
+    "title": "Smart Sleep Science Research Hub",
+    "domain": "104",
+    "description": "A hub for integrating global sleep science datasets, encouraging collaborative research and discoveries.",
+    "keywords": ["Sleep Science", "Sleep Systems", "Sleep Monitoring", "Sleep Engineering"]
+},
+//domain-105
+
 
 
 
