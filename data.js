@@ -51103,6 +51103,343 @@ const PROBLEMS_DATA = {
     "keywords": ["Play Systems", "Play Technology", "Toy Innovation", "Gaming Technology"]
 },
 //domain-107 
+{
+    "id": 7390,
+    "title": "AI-Powered Smart Office Supply Organizer",
+    "domain": "107",
+    "description": "A system that leverages AI to categorize, track, and suggest optimal use of smart office supplies. It minimizes waste, ensures availability, and enhances workflow efficiency in modern workplaces.",
+    "keywords": ["Smart Office Supplies", "Office Technology", "Office Systems", "Productivity Tools"]
+},
+{
+    "id": 7391,
+    "title": "Cloud-Integrated Digital Notebook",
+    "domain": "107",
+    "description": "A digital stationery solution that syncs notes across devices with handwriting recognition, cloud storage, and AI-based search to streamline productivity for students and professionals.",
+    "keywords": ["Digital Stationery", "Productivity Technology", "Smart Office", "Stationery Innovation"]
+},
+{
+    "id": 7392,
+    "title": "Automated Document Filing System",
+    "domain": "107",
+    "description": "An office automation tool that classifies, indexes, and files documents digitally while offering seamless retrieval and version control to reduce manual workload.",
+    "keywords": ["Office Automation", "Office Systems", "Productivity Tools", "Office Solutions"]
+},
+{
+    "id": 7393,
+    "title": "Smart Pen with AI Transcription",
+    "domain": "107",
+    "description": "A smart stationery device that transcribes handwritten notes in real-time, converts them into editable text, and integrates with productivity apps for seamless workflows.",
+    "keywords": ["Digital Stationery", "Smart Office Supplies", "Stationery Innovation", "Productivity Technology"]
+},
+{
+    "id": 7394,
+    "title": "IoT-Enabled Office Inventory Tracker",
+    "domain": "107",
+    "description": "A smart office system that uses IoT sensors to monitor usage and stock levels of office supplies, automatically generating purchase requests when thresholds are reached.",
+    "keywords": ["Smart Office", "Office Equipment", "Office Systems", "Productivity Tools"]
+},
+{
+    "id": 7395,
+    "title": "Voice-Controlled Digital Whiteboard",
+    "domain": "107",
+    "description": "A productivity tool that allows real-time collaboration on a digital whiteboard with voice commands, AI summarization, and integration with office systems.",
+    "keywords": ["Office Technology", "Digital Stationery", "Office Solutions", "Productivity Technology"]
+},
+{
+    "id": 7396,
+    "title": "AI-Powered Stationery Design Assistant",
+    "domain": "107",
+    "description": "An innovation platform that helps businesses design custom stationery with AI-driven templates, branding suggestions, and automated printing workflows.",
+    "keywords": ["Stationery Innovation", "Smart Office Supplies", "Office Technology", "Productivity Tools"]
+},
+{
+    "id": 7397,
+    "title": "Smart Desk Assistant with Integrated Sensors",
+    "domain": "107",
+    "description": "A smart office system that uses embedded sensors to adjust lighting, track ergonomics, and integrate productivity reminders for employees at their workstations.",
+    "keywords": ["Smart Office", "Office Equipment", "Office Systems", "Productivity Technology"]
+},
+{
+    "id": 7398,
+    "title": "Digital Stationery Collaboration Hub",
+    "domain": "107",
+    "description": "A collaboration tool that enables teams to co-edit digital notebooks, share handwritten inputs, and integrate with cloud-based productivity platforms.",
+    "keywords": ["Digital Stationery", "Office Solutions", "Productivity Tools", "Smart Office Supplies"]
+},
+{
+    "id": 7399,
+    "title": "Automated Meeting Note Generator",
+    "domain": "107",
+    "description": "An office automation solution that records, transcribes, and structures meeting notes into actionable tasks, enhancing office productivity and decision-making.",
+    "keywords": ["Office Automation", "Productivity Technology", "Smart Office", "Stationery Systems"]
+},
+{
+    "id": 7400,
+    "title": "AI-Based Stationery Usage Predictor",
+    "domain": "107",
+    "description": "A predictive analytics system that forecasts stationery consumption trends in smart offices, reducing shortages and cutting costs.",
+    "keywords": ["Stationery Systems", "Smart Office Supplies", "Office Solutions", "Office Technology"]
+},
+{
+    "id": 7401,
+    "title": "Smart Filing Cabinet with RFID Tracking",
+    "domain": "107",
+    "description": "A smart office equipment solution with RFID-enabled drawers that track document movement, prevent misplacement, and ensure secure filing.",
+    "keywords": ["Office Equipment", "Office Systems", "Productivity Tools", "Office Solutions"]
+},
+{
+    "id": 7402,
+    "title": "Cloud-Synced Smart Sticky Notes",
+    "domain": "107",
+    "description": "A digital stationery system that transforms handwritten sticky notes into cloud-synced reminders with smart categorization and AI prioritization.",
+    "keywords": ["Digital Stationery", "Stationery Innovation", "Productivity Technology", "Smart Office"]
+},
+{
+    "id": 7403,
+    "title": "Office Workflow Automation Suite",
+    "domain": "107",
+    "description": "A comprehensive platform for automating repetitive office tasks such as scheduling, reminders, and reporting to enhance productivity.",
+    "keywords": ["Office Automation", "Office Solutions", "Smart Office", "Productivity Tools"]
+},
+{
+    "id": 7404,
+    "title": "Smart Office Whiteboard Projector",
+    "domain": "107",
+    "description": "An office technology solution that converts walls into interactive whiteboards, capturing brainstorming sessions and saving them digitally.",
+    "keywords": ["Office Technology", "Smart Office Supplies", "Office Systems", "Stationery Innovation"]
+},
+{
+    "id": 7405,
+    "title": "AI-Driven Stationery Procurement Platform",
+    "domain": "107",
+    "description": "A procurement system that analyzes usage data to automatically source office stationery, ensuring cost efficiency and uninterrupted supply.",
+    "keywords": ["Stationery Systems", "Office Solutions", "Office Equipment", "Smart Office"]
+},
+{
+    "id": 7406,
+    "title": "Digital Stationery Pen with Cloud Backup",
+    "domain": "107",
+    "description": "A pen that digitizes handwritten notes in real-time, saves them to the cloud, and integrates with office productivity platforms.",
+    "keywords": ["Digital Stationery", "Office Technology", "Productivity Tools", "Smart Office Supplies"]
+},
+{
+    "id": 7407,
+    "title": "Intelligent Task and Reminder Board",
+    "domain": "107",
+    "description": "A productivity board that combines digital stationery with AI scheduling, generating smart reminders and prioritization of office tasks.",
+    "keywords": ["Productivity Tools", "Smart Office", "Stationery Innovation", "Office Solutions"]
+},
+{
+    "id": 7408,
+    "title": "Smart Office Resource Management Dashboard",
+    "domain": "107",
+    "description": "A central dashboard that provides real-time insights into stationery usage, office automation tools, and equipment status for better decision-making.",
+    "keywords": ["Office Systems", "Smart Office Supplies", "Office Automation", "Productivity Technology"]
+},
+{
+    "id": 7409,
+    "title": "Voice-Activated Office Supply Assistant",
+    "domain": "107",
+    "description": "A voice-controlled assistant that helps track, order, and manage smart office supplies, improving accessibility and efficiency.",
+    "keywords": ["Smart Office Supplies", "Office Solutions", "Productivity Tools", "Office Technology"]
+},
+{
+    "id": 7410,
+    "title": "AI-Powered Document Summarizer",
+    "domain": "107",
+    "description": "A smart office tool that reads lengthy documents, creates concise summaries, and integrates them with digital stationery for quick reference.",
+    "keywords": ["Productivity Technology", "Office Automation", "Stationery Innovation", "Smart Office"]
+},
+{
+    "id": 7411,
+    "title": "Smart Multi-Device Note Synchronizer",
+    "domain": "107",
+    "description": "A digital stationery system that ensures seamless synchronization of notes across laptops, tablets, and smart office devices.",
+    "keywords": ["Digital Stationery", "Office Systems", "Productivity Tools", "Office Technology"]
+},
+{
+    "id": 7412,
+    "title": "Office AI Workflow Optimizer",
+    "domain": "107",
+    "description": "A productivity tool that identifies inefficiencies in office workflows, suggests optimizations, and integrates with office automation systems.",
+    "keywords": ["Office Systems", "Office Automation", "Smart Office", "Productivity Technology"]
+},
+{
+    "id": 7413,
+    "title": "Stationery Lifecycle Management Platform",
+    "domain": "107",
+    "description": "An innovation-driven solution for tracking the lifecycle of office stationery, from procurement to usage and recycling, ensuring sustainability.",
+    "keywords": ["Stationery Innovation", "Stationery Systems", "Office Solutions", "Smart Office Supplies"]
+},
+{
+    "id": 7414,
+    "title": "Smart Office Document Collaboration Board",
+    "domain": "107",
+    "description": "A collaborative tool that integrates digital stationery with office systems for real-time co-editing, annotations, and productivity tracking.",
+    "keywords": ["Smart Office", "Office Solutions", "Productivity Tools", "Digital Stationery"]
+},
+{
+    "id": 7415,
+    "title": "AI-Based Productivity Dashboard",
+    "domain": "107",
+    "description": "A smart office system that visualizes productivity metrics, integrates with office technology, and suggests actionable improvements.",
+    "keywords": ["Productivity Technology", "Smart Office Supplies", "Office Automation", "Office Systems"]
+},
+{
+    "id": 7416,
+    "title": "Digital Stationery Idea Capture Tool",
+    "domain": "107",
+    "description": "A tool designed to capture brainstorming ideas digitally, with handwriting recognition, tagging, and smart categorization features.",
+    "keywords": ["Digital Stationery", "Stationery Innovation", "Office Technology", "Productivity Tools"]
+},
+{
+    "id": 7417,
+    "title": "Office Equipment Health Monitoring System",
+    "domain": "107",
+    "description": "A monitoring system that tracks the condition of office equipment, predicts failures, and schedules maintenance to ensure productivity.",
+    "keywords": ["Office Equipment", "Office Systems", "Productivity Technology", "Office Solutions"]
+},
+{
+    "id": 7418,
+    "title": "Smart Stationery Refill Alert System",
+    "domain": "107",
+    "description": "An IoT-powered stationery system that tracks usage and sends automatic alerts when supplies like pens, markers, or paper need refilling.",
+    "keywords": ["Stationery Systems", "Smart Office Supplies", "Office Automation", "Office Solutions"]
+},
+{
+    "id": 7419,
+    "title": "Digital Signature and Verification Platform",
+    "domain": "107",
+    "description": "A smart office solution for secure digital signing and verification of documents, ensuring authenticity and legal compliance.",
+    "keywords": ["Office Technology", "Productivity Tools", "Digital Stationery", "Office Solutions"]
+},
+{
+    "id": 7420,
+    "title": "AI-Driven Office Scheduling Assistant",
+    "domain": "107",
+    "description": "A productivity system that automates scheduling, resolves conflicts, and integrates meeting notes with office automation tools.",
+    "keywords": ["Office Automation", "Productivity Technology", "Smart Office", "Office Systems"]
+},
+{
+    "id": 7421,
+    "title": "Smart Office Paperless Workflow Manager",
+    "domain": "107",
+    "description": "An office technology solution that digitizes paperwork, automates approvals, and integrates with smart office supplies for eco-friendly operations.",
+    "keywords": ["Office Technology", "Stationery Innovation", "Office Solutions", "Productivity Tools"]
+},
+{
+    "id": 7422,
+    "title": "Stationery System Analytics Dashboard",
+    "domain": "107",
+    "description": "A monitoring dashboard that provides analytics on stationery systems, highlighting usage trends and cost optimization opportunities.",
+    "keywords": ["Stationery Systems", "Office Systems", "Smart Office Supplies", "Productivity Technology"]
+},
+{
+    "id": 7423,
+    "title": "AI-Powered Smart Whiteboard Cleaner",
+    "domain": "107",
+    "description": "An automated office equipment tool that cleans and refreshes smart whiteboards, ensuring readiness for the next meeting or class.",
+    "keywords": ["Office Equipment", "Office Automation", "Smart Office", "Office Solutions"]
+},
+{
+    "id": 7424,
+    "title": "Digital Stationery Smart Sketchbook",
+    "domain": "107",
+    "description": "A sketchbook that captures drawings digitally, enhances them with AI tools, and stores them in office cloud systems for easy sharing.",
+    "keywords": ["Digital Stationery", "Stationery Innovation", "Productivity Tools", "Office Technology"]
+},
+{
+    "id": 7425,
+    "title": "Smart Office Workflow Analytics Engine",
+    "domain": "107",
+    "description": "A system that analyzes office workflows, highlights inefficiencies, and integrates with automation tools for continuous productivity gains.",
+    "keywords": ["Office Systems", "Productivity Technology", "Smart Office", "Office Solutions"]
+},
+{
+    "id": 7426,
+    "title": "AI-Enhanced Stationery Search Engine",
+    "domain": "107",
+    "description": "A smart office platform that helps users search and locate stationery items digitally, providing suggestions for optimal use and replacements.",
+    "keywords": ["Stationery Innovation", "Smart Office Supplies", "Productivity Tools", "Stationery Systems"]
+},
+{
+    "id": 7427,
+    "title": "Cloud-Based Stationery Sharing Platform",
+    "domain": "107",
+    "description": "A digital solution for offices to share stationery resources efficiently, reducing waste and improving sustainability.",
+    "keywords": ["Stationery Systems", "Digital Stationery", "Office Solutions", "Smart Office"]
+},
+{
+    "id": 7428,
+    "title": "Office Equipment Utilization Tracker",
+    "domain": "107",
+    "description": "A monitoring system that tracks how often office equipment is used, providing insights for resource optimization and procurement planning.",
+    "keywords": ["Office Equipment", "Office Systems", "Productivity Technology", "Office Solutions"]
+},
+{
+    "id": 7429,
+    "title": "Smart Stationery Expense Manager",
+    "domain": "107",
+    "description": "A financial tool that tracks stationery expenses, identifies overspending, and suggests cost-saving alternatives for smart offices.",
+    "keywords": ["Stationery Systems", "Office Solutions", "Productivity Tools", "Office Technology"]
+},
+{
+    "id": 7430,
+    "title": "AI-Powered Brainstorming Assistant",
+    "domain": "107",
+    "description": "A digital stationery-based brainstorming assistant that generates creative ideas, organizes them, and integrates with office productivity tools.",
+    "keywords": ["Digital Stationery", "Productivity Technology", "Stationery Innovation", "Smart Office"]
+},
+{
+    "id": 7431,
+    "title": "Smart Office Workflow Security Manager",
+    "domain": "107",
+    "description": "An office system that integrates security features into office automation tools, ensuring safe handling of digital and physical stationery.",
+    "keywords": ["Office Systems", "Office Automation", "Office Technology", "Smart Office"]
+},
+{
+    "id": 7432,
+    "title": "Eco-Friendly Stationery Tracking System",
+    "domain": "107",
+    "description": "A system that promotes green office solutions by tracking eco-friendly stationery usage and recommending sustainable alternatives.",
+    "keywords": ["Stationery Innovation", "Smart Office Supplies", "Office Solutions", "Productivity Technology"]
+},
+{
+    "id": 7433,
+    "title": "AI-Powered Office Assistant Chatbot",
+    "domain": "107",
+    "description": "A smart office chatbot that assists employees in finding stationery, booking equipment, and automating daily office tasks.",
+    "keywords": ["Smart Office", "Productivity Tools", "Office Technology", "Office Automation"]
+},
+{
+    "id": 7434,
+    "title": "Smart Office Ergonomic Stationery Set",
+    "domain": "107",
+    "description": "A stationery innovation that integrates ergonomics into daily office supplies to improve comfort, reduce strain, and boost productivity.",
+    "keywords": ["Stationery Innovation", "Office Equipment", "Smart Office Supplies", "Productivity Technology"]
+},
+{
+    "id": 7435,
+    "title": "Stationery AI Cost Optimizer",
+    "domain": "107",
+    "description": "An AI system that analyzes stationery procurement and usage data to suggest cost-saving measures and better vendor management.",
+    "keywords": ["Stationery Systems", "Office Solutions", "Productivity Technology", "Smart Office Supplies"]
+},
+{
+    "id": 7436,
+    "title": "Digital Office Productivity Board",
+    "domain": "107",
+    "description": "A digital stationery board designed to track office goals, progress, and tasks while offering integration with smart office tools.",
+    "keywords": ["Digital Stationery", "Productivity Tools", "Smart Office", "Office Systems"]
+},
+{
+    "id": 7437,
+    "title": "Office Stationery Demand Forecaster",
+    "domain": "107",
+    "description": "A predictive analytics system that estimates future demand for stationery supplies in smart offices, ensuring better stock planning.",
+    "keywords": ["Stationery Systems", "Office Technology", "Smart Office Supplies", "Productivity Tools"]
+},
+//domain-108
 
 
 
