@@ -52914,6 +52914,448 @@ const PROBLEMS_DATA = {
         "keywords": ["Population Studies", "Population Science", "Demographic Analysis"]
     },
     //domain-112
+    {
+        "id": 7648,
+        "title": "AI-Powered Migration Tracking Dashboard",
+        "domain": "112",
+        "description": "A centralized platform that leverages AI to track migration flows in real-time using data from checkpoints, satellites, and travel records, enabling authorities to understand movement patterns more effectively.",
+        "keywords": ["Migration Tracking", "Population Movement", "Migration Analytics"]
+    },
+    {
+        "id": 7649,
+        "title": "Blockchain-Based Border Technology System",
+        "domain": "112",
+        "description": "A blockchain-powered solution to secure and streamline border entry processes, ensuring transparent records of immigration and reducing fraudulent activity at checkpoints.",
+        "keywords": ["Border Technology", "Border Systems", "Border Security"]
+    },
+    {
+        "id": 7650,
+        "title": "Population Movement Heatmap Generator",
+        "domain": "112",
+        "description": "A system that visualizes population migration trends on an interactive heatmap, helping policymakers analyze shifts and respond to demographic changes efficiently.",
+        "keywords": ["Population Movement", "Migration Analytics", "Population Technology"]
+    },
+    {
+        "id": 7651,
+        "title": "IoT-Enabled Smart Border Systems",
+        "domain": "112",
+        "description": "IoT sensors and smart cameras integrated into border control points to automatically verify identities, monitor movement, and enhance situational awareness.",
+        "keywords": ["Border Systems", "Border Technology", "Border Innovation"]
+    },
+    {
+        "id": 7652,
+        "title": "Predictive Migration Management AI",
+        "domain": "112",
+        "description": "An AI system that predicts potential migration surges based on geopolitical, environmental, and social data, enabling proactive resource allocation.",
+        "keywords": ["Migration Management", "Migration Science", "Migration Analytics"]
+    },
+    {
+        "id": 7653,
+        "title": "Immigration Technology Kiosk",
+        "domain": "112",
+        "description": "Automated kiosks at borders that streamline immigration procedures by verifying documents, biometrics, and background checks in seconds.",
+        "keywords": ["Immigration Technology", "Border Systems", "Border Security"]
+    },
+    {
+        "id": 7654,
+        "title": "Digital Migration Record Management",
+        "domain": "112",
+        "description": "A secure digital platform to store, update, and analyze migrant records across multiple agencies for transparent governance.",
+        "keywords": ["Migration Systems", "Migration Management", "Population Technology"]
+    },
+    {
+        "id": 7655,
+        "title": "Drone-Assisted Border Surveillance",
+        "domain": "112",
+        "description": "Deployment of AI-guided drones to patrol border regions, monitor unauthorized movement, and provide live video feeds to control centers.",
+        "keywords": ["Border Security", "Border Innovation", "Migration Tracking"]
+    },
+    {
+        "id": 7656,
+        "title": "AI-Powered Migration Science Research Tool",
+        "domain": "112",
+        "description": "A big data platform dedicated to migration science, analyzing long-term demographic shifts, labor mobility, and humanitarian impacts.",
+        "keywords": ["Migration Science", "Population Technology", "Migration Analytics"]
+    },
+    {
+        "id": 7657,
+        "title": "Smart Border Innovation Hub",
+        "domain": "112",
+        "description": "An R&D framework for experimenting with next-gen border innovations including AI passports, biometric verification, and automated risk analysis.",
+        "keywords": ["Border Innovation", "Border Technology", "Immigration Technology"]
+    },
+    {
+        "id": 7658,
+        "title": "Cross-Border Migration Tracking App",
+        "domain": "112",
+        "description": "A mobile-friendly app that securely tracks and verifies migrant movement across multiple countries using encrypted data synchronization.",
+        "keywords": ["Migration Tracking", "Migration Systems", "Border Security"]
+    },
+    {
+        "id": 7659,
+        "title": "Population Technology Forecasting Tool",
+        "domain": "112",
+        "description": "A simulation system to forecast population redistribution due to migration, aiding in infrastructure, housing, and policy planning.",
+        "keywords": ["Population Technology", "Population Movement", "Migration Analytics"]
+    },
+    {
+        "id": 7660,
+        "title": "AI Border Security Command Center",
+        "domain": "112",
+        "description": "A command center powered by AI to coordinate data from smart sensors, drones, and surveillance systems for rapid decision-making at borders.",
+        "keywords": ["Border Security", "Border Systems", "Border Innovation"]
+    },
+    {
+        "id": 7661,
+        "title": "Migration Analytics Cloud Platform",
+        "domain": "112",
+        "description": "A cloud-based solution aggregating global migration data for researchers, NGOs, and governments to analyze and collaborate in real-time.",
+        "keywords": ["Migration Analytics", "Migration Tracking", "Migration Systems"]
+    },
+    {
+        "id": 7662,
+        "title": "Immigration Technology AI Assistant",
+        "domain": "112",
+        "description": "An AI-powered assistant for immigration officers that provides instant identity verification, fraud detection, and legal compliance checks.",
+        "keywords": ["Immigration Technology", "Migration Systems", "Border Security"]
+    },
+    {
+        "id": 7663,
+        "title": "Next-Gen Migration Systems Architecture",
+        "domain": "112",
+        "description": "Designing a modular migration system architecture integrating biometrics, cloud data, and predictive analytics for scalable migration management.",
+        "keywords": ["Migration Systems", "Migration Management", "Migration Tracking"]
+    },
+    {
+        "id": 7664,
+        "title": "Smart Border Security Wearables",
+        "domain": "112",
+        "description": "Wearables for border patrol agents that integrate communication, GPS, and biometric scanning to enhance field safety and efficiency.",
+        "keywords": ["Border Security", "Border Technology", "Border Innovation"]
+    },
+    {
+        "id": 7665,
+        "title": "Population Movement Simulation Engine",
+        "domain": "112",
+        "description": "A high-performance simulation engine to model population flows under different political, environmental, and economic scenarios.",
+        "keywords": ["Population Movement", "Population Technology", "Migration Science"]
+    },
+    {
+        "id": 7666,
+        "title": "Border Innovation AI Gateway",
+        "domain": "112",
+        "description": "An AI-enabled gateway at borders capable of adaptive security screening, intelligent document scanning, and seamless traveler experience.",
+        "keywords": ["Border Innovation", "Immigration Technology", "Border Systems"]
+    },
+    {
+        "id": 7667,
+        "title": "Migration Management Decision Support Tool",
+        "domain": "112",
+        "description": "An intelligent decision support system for policymakers to design migration strategies using real-time data and scenario forecasting.",
+        "keywords": ["Migration Management", "Migration Analytics", "Migration Science"]
+    },
+    {
+        "id": 7668,
+        "title": "Global Migration Tracking Blockchain",
+        "domain": "112",
+        "description": "A blockchain-based global ledger that securely records and verifies migrant identities and movements across multiple borders.",
+        "keywords": ["Migration Tracking", "Migration Systems", "Immigration Technology"]
+    },
+    {
+        "id": 7669,
+        "title": "AI-Powered Border Technology Grid",
+        "domain": "112",
+        "description": "An intelligent border grid system integrating AI cameras, thermal scanners, and motion sensors to detect unauthorized crossings.",
+        "keywords": ["Border Technology", "Border Security", "Border Systems"]
+    },
+    {
+        "id": 7670,
+        "title": "Real-Time Population Movement Analytics",
+        "domain": "112",
+        "description": "A real-time analytics dashboard that monitors and interprets population movement patterns for governments and NGOs.",
+        "keywords": ["Population Movement", "Migration Analytics", "Population Technology"]
+    },
+    {
+        "id": 7671,
+        "title": "Migration Systems Cloud Hub",
+        "domain": "112",
+        "description": "A centralized cloud hub that unifies multiple migration systems, allowing secure cross-agency collaboration and data sharing.",
+        "keywords": ["Migration Systems", "Migration Management", "Migration Analytics"]
+    },
+    {
+        "id": 7672,
+        "title": "Smart Border Systems Automation",
+        "domain": "112",
+        "description": "Automated border systems that streamline customs and immigration processes using AI-based verification and queue management.",
+        "keywords": ["Border Systems", "Immigration Technology", "Border Innovation"]
+    },
+    {
+        "id": 7673,
+        "title": "Immigration Technology Biometric Scanner",
+        "domain": "112",
+        "description": "Advanced biometric scanning devices for immigration offices to authenticate travelers with high accuracy and speed.",
+        "keywords": ["Immigration Technology", "Border Technology", "Border Security"]
+    },
+    {
+        "id": 7674,
+        "title": "Migration Analytics Digital Twin",
+        "domain": "112",
+        "description": "A digital twin simulation of migration patterns to test policy outcomes and infrastructure impact before implementation.",
+        "keywords": ["Migration Analytics", "Migration Science", "Population Technology"]
+    },
+    {
+        "id": 7675,
+        "title": "Cybersecurity for Border Systems",
+        "domain": "112",
+        "description": "A robust cybersecurity framework to protect border systems from hacking, identity theft, and data breaches.",
+        "keywords": ["Border Systems", "Border Security", "Border Technology"]
+    },
+    {
+        "id": 7676,
+        "title": "AI-Driven Migration Management Platform",
+        "domain": "112",
+        "description": "An AI-driven platform that assists governments in planning, monitoring, and optimizing migration flows efficiently.",
+        "keywords": ["Migration Management", "Migration Systems", "Migration Analytics"]
+    },
+    {
+        "id": 7677,
+        "title": "Population Technology Sensor Grid",
+        "domain": "112",
+        "description": "A sensor grid deployed across urban and rural areas to monitor demographic changes and population migration trends.",
+        "keywords": ["Population Technology", "Population Movement", "Migration Tracking"]
+    },
+    {
+        "id": 7678,
+        "title": "Next-Gen Border Innovation AI",
+        "domain": "112",
+        "description": "An AI-powered border innovation framework that deploys predictive risk analysis and dynamic security adaptation.",
+        "keywords": ["Border Innovation", "Border Systems", "Border Security"]
+    },
+    {
+        "id": 7679,
+        "title": "Migration Science Knowledge Graph",
+        "domain": "112",
+        "description": "A knowledge graph that connects global migration data, research papers, and policy insights into a unified resource.",
+        "keywords": ["Migration Science", "Migration Analytics", "Population Technology"]
+    },
+    {
+        "id": 7680,
+        "title": "Border Security AI Surveillance",
+        "domain": "112",
+        "description": "An AI-driven surveillance platform that detects unauthorized border activity through anomaly detection and pattern recognition.",
+        "keywords": ["Border Security", "Border Technology", "Migration Tracking"]
+    },
+    {
+        "id": 7681,
+        "title": "Migration Tracking Smart Passport",
+        "domain": "112",
+        "description": "A next-gen digital passport embedded with blockchain and biometrics to ensure secure migration tracking globally.",
+        "keywords": ["Migration Tracking", "Immigration Technology", "Migration Systems"]
+    },
+    {
+        "id": 7682,
+        "title": "Immigration Technology AI Translator",
+        "domain": "112",
+        "description": "An AI-powered translation system for immigration officers to communicate effectively with migrants in multiple languages.",
+        "keywords": ["Immigration Technology", "Migration Systems", "Migration Management"]
+    },
+    {
+        "id": 7683,
+        "title": "Smart Migration Analytics Portal",
+        "domain": "112",
+        "description": "A portal providing real-time migration statistics, AI-driven forecasts, and interactive visualizations for decision-makers.",
+        "keywords": ["Migration Analytics", "Migration Science", "Migration Tracking"]
+    },
+    {
+        "id": 7684,
+        "title": "Border Technology Virtual Checkpoint",
+        "domain": "112",
+        "description": "A VR-enabled checkpoint system that allows pre-screening of travelers before physical arrival at border crossings.",
+        "keywords": ["Border Technology", "Immigration Technology", "Border Innovation"]
+    },
+    {
+        "id": 7685,
+        "title": "Migration Management Blockchain Identity",
+        "domain": "112",
+        "description": "A blockchain-based digital identity solution for migrants to securely carry their credentials across borders.",
+        "keywords": ["Migration Management", "Immigration Technology", "Migration Tracking"]
+    },
+    {
+        "id": 7686,
+        "title": "Population Movement Risk Analyzer",
+        "domain": "112",
+        "description": "A risk analysis engine that identifies potential humanitarian challenges caused by sudden population movements.",
+        "keywords": ["Population Movement", "Migration Science", "Migration Analytics"]
+    },
+    {
+        "id": 7687,
+        "title": "AI-Powered Border Systems Integrator",
+        "domain": "112",
+        "description": "An integrator platform that merges multiple border systems into a unified, AI-powered monitoring and control interface.",
+        "keywords": ["Border Systems", "Border Innovation", "Border Security"]
+    },
+    {
+        "id": 7688,
+        "title": "Immigration Technology Fraud Detection AI",
+        "domain": "112",
+        "description": "An AI fraud detection system to spot forged documents and false identities at immigration checkpoints instantly.",
+        "keywords": ["Immigration Technology", "Border Security", "Migration Systems"]
+    },
+    {
+        "id": 7689,
+        "title": "Migration Science AI Research Assistant",
+        "domain": "112",
+        "description": "An AI assistant that supports migration science researchers by providing curated datasets and analytical models.",
+        "keywords": ["Migration Science", "Migration Analytics", "Population Technology"]
+    },
+    {
+        "id": 7690,
+        "title": "Smart Border Technology AR Glasses",
+        "domain": "112",
+        "description": "AR glasses for border officers to scan IDs, verify biometrics, and receive live alerts about potential risks.",
+        "keywords": ["Border Technology", "Border Systems", "Border Security"]
+    },
+    {
+        "id": 7691,
+        "title": "Migration Tracking Satellite Network",
+        "domain": "112",
+        "description": "A satellite-based system for tracking migration routes, border activity, and refugee flows globally.",
+        "keywords": ["Migration Tracking", "Population Movement", "Migration Analytics"]
+    },
+    {
+        "id": 7692,
+        "title": "AI-Enhanced Migration Management Framework",
+        "domain": "112",
+        "description": "A management framework powered by AI to optimize immigration services and cross-border resource allocation.",
+        "keywords": ["Migration Management", "Immigration Technology", "Migration Systems"]
+    },
+    {
+        "id": 7693,
+        "title": "Population Technology Demographic Analyzer",
+        "domain": "112",
+        "description": "A demographic analyzer that studies long-term impacts of migration on population distribution and social systems.",
+        "keywords": ["Population Technology", "Migration Science", "Migration Analytics"]
+    },
+    {
+        "id": 7694,
+        "title": "Next-Gen Border Innovation Robotics",
+        "domain": "112",
+        "description": "Robotic systems deployed at borders to manage inspections, luggage scanning, and high-risk traveler analysis.",
+        "keywords": ["Border Innovation", "Border Technology", "Border Systems"]
+    },
+    {
+        "id": 7695,
+        "title": "Migration Analytics Early Warning System",
+        "domain": "112",
+        "description": "A migration early warning system that uses analytics to predict sudden surges caused by wars or climate change.",
+        "keywords": ["Migration Analytics", "Migration Tracking", "Migration Science"]
+    },
+    {
+        "id": 7696,
+        "title": "Immigration Technology Mobile ID",
+        "domain": "112",
+        "description": "A mobile-based digital identity for immigrants that integrates biometrics and blockchain for secure verification.",
+        "keywords": ["Immigration Technology", "Migration Systems", "Migration Management"]
+    },
+    {
+        "id": 7697,
+        "title": "Border Security Predictive AI",
+        "domain": "112",
+        "description": "An AI predictive system that assesses potential breaches in border security and suggests preventive actions.",
+        "keywords": ["Border Security", "Border Technology", "Border Systems"]
+    },
+    {
+        "id": 7698,
+        "title": "Smart Migration Systems Interoperability Layer",
+        "domain": "112",
+        "description": "An interoperability layer ensuring seamless communication between global migration systems and border agencies.",
+        "keywords": ["Migration Systems", "Migration Management", "Migration Tracking"]
+    },
+    {
+        "id": 7699,
+        "title": "Population Movement Impact Analyzer",
+        "domain": "112",
+        "description": "An analyzer tool to study the social and economic impacts of sudden and large-scale population movement.",
+        "keywords": ["Population Movement", "Migration Analytics", "Migration Science"]
+    },
+    {
+        "id": 7700,
+        "title": "AI Border Innovation Ecosystem",
+        "domain": "112",
+        "description": "A border innovation ecosystem combining startups, governments, and tech companies to co-create future-ready border systems.",
+        "keywords": ["Border Innovation", "Border Technology", "Immigration Technology"]
+    },
+    {
+        "id": 7701,
+        "title": "Migration Science Policy Simulator",
+        "domain": "112",
+        "description": "A policy simulator that uses migration science models to forecast the outcomes of proposed immigration policies.",
+        "keywords": ["Migration Science", "Migration Analytics", "Migration Management"]
+    },
+    {
+        "id": 7702,
+        "title": "AI-Enabled Smart Border Systems",
+        "domain": "112",
+        "description": "Smart border systems enhanced with AI for real-time screening, risk detection, and automated immigration decisions.",
+        "keywords": ["Border Systems", "Border Innovation", "Border Security"]
+    },
+    {
+        "id": 7703,
+        "title": "Immigration Technology Virtual Agent",
+        "domain": "112",
+        "description": "A virtual AI agent that guides immigrants through visa applications, legal compliance, and border entry processes.",
+        "keywords": ["Immigration Technology", "Migration Systems", "Migration Management"]
+    },
+    {
+        "id": 7704,
+        "title": "Global Migration Tracking AI Network",
+        "domain": "112",
+        "description": "An AI-powered global network that integrates satellite, sensor, and agency data to track migration trends in real-time.",
+        "keywords": ["Migration Tracking", "Migration Analytics", "Migration Systems"]
+    },
+    {
+        "id": 7705,
+        "title": "Population Technology Smart Census",
+        "domain": "112",
+        "description": "An AI and IoT-based smart census system to track population movement and update records in real-time.",
+        "keywords": ["Population Technology", "Population Movement", "Migration Science"]
+    },
+    {
+        "id": 7706,
+        "title": "AI Border Security Drone Swarm",
+        "domain": "112",
+        "description": "Autonomous drone swarms equipped with AI to patrol borders and relay live intelligence to security forces.",
+        "keywords": ["Border Security", "Border Innovation", "Migration Tracking"]
+    },
+    {
+        "id": 7707,
+        "title": "Migration Analytics Data Exchange",
+        "domain": "112",
+        "description": "A secure data exchange platform enabling cross-border collaboration for migration analytics and research.",
+        "keywords": ["Migration Analytics", "Migration Systems", "Migration Science"]
+    },
+    {
+        "id": 7708,
+        "title": "Smart Immigration Technology Workflow",
+        "domain": "112",
+        "description": "An AI workflow automation system to optimize immigration case processing and reduce bureaucratic delays.",
+        "keywords": ["Immigration Technology", "Migration Management", "Border Systems"]
+    },
+    {
+        "id": 7709,
+        "title": "Next-Gen Migration Tracking Sensors",
+        "domain": "112",
+        "description": "Deployment of advanced IoT sensors along borders and urban centers to track migration activity accurately.",
+        "keywords": ["Migration Tracking", "Population Movement", "Border Security"]
+    },
+    {
+        "id": 7710,
+        "title": "AI-Driven Border Innovation Lab",
+        "domain": "112",
+        "description": "A dedicated lab for experimenting with border innovation, including robotics, predictive AI, and biometric research.",
+        "keywords": ["Border Innovation", "Border Systems", "Immigration Technology"]
+    },
+    //domain-113
 
 
 
