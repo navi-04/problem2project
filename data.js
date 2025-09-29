@@ -48955,6 +48955,414 @@ const PROBLEMS_DATA = {
     "keywords": ["Precious Metal Processing", "Jewelry Manufacturing", "Precision Engineering"]
 },
 //domain -101
+{
+    "id": 7084,
+    "title": "AI-Powered Smart Office Desk",
+    "domain": "101",
+    "description": "A smart office desk equipped with AI sensors to adjust height, lighting, and posture monitoring. It can integrate with smart home systems to provide ergonomic work conditions and boost productivity.",
+    "keywords": ["Smart Furniture", "Ergonomic Design", "Furniture Automation", "Smart Home Furniture"]
+},
+{
+    "id": 7085,
+    "title": "Automated Convertible Sofa-Bed",
+    "domain": "101",
+    "description": "An automated sofa-bed that transforms between seating and sleeping modes using voice or mobile app control. It incorporates ergonomic support and advanced furniture engineering.",
+    "keywords": ["Automated Furniture", "Furniture Innovation", "Furniture Systems", "Furniture Technology"]
+},
+{
+    "id": 7086,
+    "title": "Ergonomic Smart Gaming Chair",
+    "domain": "101",
+    "description": "A furniture innovation designed for gamers with smart lumbar support, posture detection, and automated comfort adjustments based on gaming duration.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Engineering", "Smart Design"]
+},
+{
+    "id": 7087,
+    "title": "AI-Integrated Smart Bookshelf",
+    "domain": "101",
+    "description": "A smart bookshelf with automated shelf adjustments, inventory tracking, and smart lighting for enhanced usability and modern design aesthetics.",
+    "keywords": ["Furniture Technology", "Smart Furniture", "Design Technology", "Furniture Systems"]
+},
+{
+    "id": 7088,
+    "title": "Self-Adjusting Ergonomic Bed",
+    "domain": "101",
+    "description": "A smart bed that automatically adjusts firmness, height, and angles based on user posture and sleep tracking data for maximum ergonomic support.",
+    "keywords": ["Ergonomic Design", "Automated Furniture", "Furniture Innovation", "Smart Home Furniture"]
+},
+{
+    "id": 7089,
+    "title": "Smart Dining Table with Embedded Screens",
+    "domain": "101",
+    "description": "A modern dining table with integrated touchscreens for family entertainment, meal tracking, and ergonomic seating alignment.",
+    "keywords": ["Smart Design", "Furniture Technology", "Furniture Engineering", "Smart Furniture"]
+},
+{
+    "id": 7090,
+    "title": "Automated Closet Organizer",
+    "domain": "101",
+    "description": "A smart closet system with automated rails and lighting that organizes clothes using AI-based recommendations and space-saving mechanisms.",
+    "keywords": ["Furniture Systems", "Automated Furniture", "Design Technology", "Smart Furniture"]
+},
+{
+    "id": 7091,
+    "title": "Modular Smart Workstation",
+    "domain": "101",
+    "description": "A furniture technology project focused on creating a modular workstation with smart connectivity, ergonomic layouts, and automated height adjustments.",
+    "keywords": ["Furniture Technology", "Smart Design", "Furniture Innovation", "Furniture Systems"]
+},
+{
+    "id": 7092,
+    "title": "Voice-Controlled Smart Recliner",
+    "domain": "101",
+    "description": "A smart recliner with automated positioning, massage functions, and ergonomic support controlled via voice commands.",
+    "keywords": ["Smart Furniture", "Automated Furniture", "Furniture Innovation", "Furniture Technology"]
+},
+{
+    "id": 7093,
+    "title": "Ergonomic Smart School Desk",
+    "domain": "101",
+    "description": "A smart school desk with automated height adjustments, posture monitoring, and integrated storage designed to support student ergonomics.",
+    "keywords": ["Ergonomic Design", "Furniture Systems", "Smart Design", "Furniture Manufacturing"]
+},
+{
+    "id": 7094,
+    "title": "Smart Convertible Coffee Table",
+    "domain": "101",
+    "description": "A coffee table that transforms into a work desk with automated lift mechanisms, integrated charging ports, and space-saving design.",
+    "keywords": ["Automated Furniture", "Smart Furniture", "Furniture Engineering", "Design Technology"]
+},
+{
+    "id": 7095,
+    "title": "AI-Enabled Ergonomic Kitchen Island",
+    "domain": "101",
+    "description": "A smart kitchen island with adjustable height counters, posture-sensitive design, and automated cooking support tools.",
+    "keywords": ["Furniture Technology", "Ergonomic Design", "Smart Design", "Furniture Innovation"]
+},
+{
+    "id": 7096,
+    "title": "Smart Storage Bed with Automation",
+    "domain": "101",
+    "description": "A storage bed with automated compartments, ergonomic mattress adjustments, and smart sensors for convenience.",
+    "keywords": ["Smart Furniture", "Furniture Automation", "Furniture Systems", "Furniture Manufacturing"]
+},
+{
+    "id": 7097,
+    "title": "Smart Convertible Dining-to-Work Table",
+    "domain": "101",
+    "description": "A dining table that converts into a workstation using furniture automation, equipped with ergonomic and smart design features.",
+    "keywords": ["Furniture Automation", "Smart Design", "Furniture Innovation", "Furniture Technology"]
+},
+{
+    "id": 7098,
+    "title": "Ergonomic AI-Based Study Chair",
+    "domain": "101",
+    "description": "An advanced study chair with AI-powered posture correction, ergonomic adjustments, and smart comfort settings.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Engineering", "Furniture Innovation"]
+},
+{
+    "id": 7099,
+    "title": "Automated Smart Shoe Rack",
+    "domain": "101",
+    "description": "A smart shoe rack with automated rotating shelves, space optimization, and voice control features.",
+    "keywords": ["Automated Furniture", "Furniture Systems", "Smart Furniture", "Design Technology"]
+},
+{
+    "id": 7100,
+    "title": "IoT-Connected Smart Office Pod",
+    "domain": "101",
+    "description": "A modular office pod with IoT sensors for smart ventilation, lighting, and ergonomic furniture integration.",
+    "keywords": ["Furniture Innovation", "Furniture Systems", "Smart Furniture", "Furniture Automation"]
+},
+{
+    "id": 7101,
+    "title": "Ergonomic Smart Rocking Chair",
+    "domain": "101",
+    "description": "A modern rocking chair with smart balance adjustments, posture sensors, and automated motion control.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Technology", "Furniture Engineering"]
+},
+{
+    "id": 7102,
+    "title": "AI-Based Furniture Customizer",
+    "domain": "101",
+    "description": "A system that allows customers to design custom smart furniture with ergonomic and automated features using AI-driven recommendations.",
+    "keywords": ["Smart Design", "Furniture Technology", "Furniture Innovation", "Design Technology"]
+},
+{
+    "id": 7103,
+    "title": "Smart Adjustable Workbench",
+    "domain": "101",
+    "description": "An automated workbench for makers and engineers with adjustable height, smart storage, and ergonomic support.",
+    "keywords": ["Furniture Automation", "Ergonomic Design", "Furniture Systems", "Smart Furniture"]
+},
+{
+    "id": 7104,
+    "title": "Self-Assembling Smart Furniture",
+    "domain": "101",
+    "description": "A futuristic furniture system that uses embedded motors and automation to self-assemble into ergonomic configurations.",
+    "keywords": ["Furniture Systems", "Automated Furniture", "Furniture Innovation", "Furniture Technology"]
+},
+{
+    "id": 7105,
+    "title": "Ergonomic Smart Baby Crib",
+    "domain": "101",
+    "description": "A smart crib with automated rocking, ergonomic bedding, and monitoring sensors to ensure infant safety and comfort.",
+    "keywords": ["Smart Furniture", "Ergonomic Design", "Furniture Engineering", "Furniture Automation"]
+},
+{
+    "id": 7106,
+    "title": "Smart Outdoor Furniture System",
+    "domain": "101",
+    "description": "Weather-resistant outdoor furniture with solar-powered automation, ergonomic seating, and smart lighting integration.",
+    "keywords": ["Furniture Innovation", "Smart Furniture", "Furniture Systems", "Design Technology"]
+},
+{
+    "id": 7107,
+    "title": "AI-Powered Ergonomic Reclining Sofa",
+    "domain": "101",
+    "description": "A reclining sofa that uses AI algorithms to adjust comfort levels, posture support, and smart automation features.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Innovation", "Furniture Automation"]
+},
+{
+    "id": 7108,
+    "title": "Smart Workspace Divider",
+    "domain": "101",
+    "description": "A modular divider with smart soundproofing, integrated storage, and ergonomic workspace design for modern offices.",
+    "keywords": ["Furniture Technology", "Smart Design", "Furniture Systems", "Automated Furniture"]
+},
+{
+    "id": 7109,
+    "title": "Convertible Smart Lounge Chair",
+    "domain": "101",
+    "description": "A lounge chair with automated reclining, ergonomic posture adjustments, and built-in smart speakers.",
+    "keywords": ["Automated Furniture", "Smart Furniture", "Furniture Engineering", "Smart Design"]
+},
+{
+    "id": 7110,
+    "title": "Smart Ergonomic Conference Table",
+    "domain": "101",
+    "description": "A conference table with embedded sensors for ergonomic posture alignment, smart display integration, and automated adjustments.",
+    "keywords": ["Ergonomic Design", "Furniture Systems", "Smart Furniture", "Furniture Technology"]
+},
+{
+    "id": 7111,
+    "title": "Voice-Enabled Smart Kitchen Cabinets",
+    "domain": "101",
+    "description": "Automated kitchen cabinets with voice-controlled doors, ergonomic layouts, and smart storage management.",
+    "keywords": ["Furniture Automation", "Smart Design", "Furniture Manufacturing", "Furniture Systems"]
+},
+{
+    "id": 7112,
+    "title": "Ergonomic Smart Study Table",
+    "domain": "101",
+    "description": "A smart study table with posture correction sensors, automated height adjustments, and modular ergonomic design.",
+    "keywords": ["Ergonomic Design", "Furniture Technology", "Smart Furniture", "Furniture Innovation"]
+},
+{
+    "id": 7113,
+    "title": "Smart Furniture Energy Management System",
+    "domain": "101",
+    "description": "A system that manages the energy consumption of automated furniture through smart scheduling and AI optimization.",
+    "keywords": ["Furniture Systems", "Smart Furniture", "Furniture Automation", "Design Technology"]
+},
+{
+    "id": 7114,
+    "title": "AI-Enabled Ergonomic Work Chair",
+    "domain": "101",
+    "description": "A work chair with AI posture correction, automated adjustments, and ergonomic comfort monitoring for office productivity.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Engineering", "Smart Design"]
+},
+{
+    "id": 7115,
+    "title": "Modular Smart Living Room Set",
+    "domain": "101",
+    "description": "A modular living room furniture set with automated adjustments, ergonomic design, and integrated smart lighting.",
+    "keywords": ["Furniture Innovation", "Smart Furniture", "Furniture Systems", "Furniture Technology"]
+},
+{
+    "id": 7116,
+    "title": "Smart Ergonomic Dining Chairs",
+    "domain": "101",
+    "description": "Dining chairs with smart pressure sensors, automated adjustments, and ergonomic posture support.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Manufacturing", "Furniture Automation"]
+},
+{
+    "id": 7117,
+    "title": "Automated Convertible Wardrobe",
+    "domain": "101",
+    "description": "A wardrobe with automated folding systems, ergonomic storage design, and smart IoT integration.",
+    "keywords": ["Automated Furniture", "Furniture Innovation", "Furniture Technology", "Furniture Systems"]
+},
+{
+    "id": 7118,
+    "title": "Ergonomic Smart Meditation Chair",
+    "domain": "101",
+    "description": "A meditation chair with smart posture monitoring, automated adjustments, and ergonomic design for relaxation.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Engineering", "Furniture Automation"]
+},
+{
+    "id": 7119,
+    "title": "Smart Interactive Coffee Table",
+    "domain": "101",
+    "description": "A coffee table with interactive touch display, ergonomic seating arrangements, and automated lift mechanisms.",
+    "keywords": ["Smart Furniture", "Smart Design", "Furniture Technology", "Furniture Innovation"]
+},
+{
+    "id": 7120,
+    "title": "AI-Integrated Smart Guest Bed",
+    "domain": "101",
+    "description": "A guest bed that adjusts automatically based on body weight and posture, ensuring ergonomic support and comfort.",
+    "keywords": ["Furniture Innovation", "Smart Furniture", "Furniture Automation", "Furniture Engineering"]
+},
+{
+    "id": 7121,
+    "title": "Smart Ergonomic Stool System",
+    "domain": "101",
+    "description": "A stool system with ergonomic adjustments, posture correction sensors, and modular smart design for various settings.",
+    "keywords": ["Ergonomic Design", "Furniture Systems", "Smart Furniture", "Smart Design"]
+},
+{
+    "id": 7122,
+    "title": "IoT-Enabled Smart Side Tables",
+    "domain": "101",
+    "description": "Side tables with embedded IoT sensors for device charging, automated height adjustments, and ergonomic layouts.",
+    "keywords": ["Smart Furniture", "Furniture Systems", "Furniture Automation", "Furniture Technology"]
+},
+{
+    "id": 7123,
+    "title": "Smart Ergonomic Recliner Bed",
+    "domain": "101",
+    "description": "A recliner bed that adjusts automatically for sleep ergonomics, posture alignment, and smart automation.",
+    "keywords": ["Ergonomic Design", "Furniture Automation", "Smart Furniture", "Furniture Innovation"]
+},
+{
+    "id": 7124,
+    "title": "Self-Healing Smart Furniture Materials",
+    "domain": "101",
+    "description": "Furniture engineered with self-healing materials that integrate smart design, automation, and ergonomic features.",
+    "keywords": ["Furniture Engineering", "Furniture Innovation", "Smart Design", "Furniture Technology"]
+},
+{
+    "id": 7125,
+    "title": "Smart Adjustable Standing Desk",
+    "domain": "101",
+    "description": "A standing desk with smart height adjustments, ergonomic design, and automated reminders for posture correction.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Automation", "Furniture Innovation"]
+},
+{
+    "id": 7126,
+    "title": "AI-Based Furniture Layout Planner",
+    "domain": "101",
+    "description": "A system that uses AI to optimize furniture layout for ergonomic comfort, automation, and smart home integration.",
+    "keywords": ["Smart Design", "Furniture Technology", "Furniture Systems", "Furniture Innovation"]
+},
+{
+    "id": 7127,
+    "title": "Smart Convertible Bunk Beds",
+    "domain": "101",
+    "description": "Bunk beds with automated transformations into single or double beds, ergonomic mattresses, and smart safety sensors.",
+    "keywords": ["Furniture Automation", "Smart Furniture", "Furniture Systems", "Furniture Innovation"]
+},
+{
+    "id": 7128,
+    "title": "Ergonomic Smart Lounge Pod",
+    "domain": "101",
+    "description": "A futuristic lounge pod with smart ergonomic support, automated reclining, and immersive entertainment integration.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Technology", "Furniture Automation"]
+},
+{
+    "id": 7129,
+    "title": "Smart Expandable Dining Table",
+    "domain": "101",
+    "description": "A dining table with automated expansion features, ergonomic seating layouts, and modern smart design.",
+    "keywords": ["Furniture Systems", "Automated Furniture", "Smart Design", "Furniture Technology"]
+},
+{
+    "id": 7130,
+    "title": "IoT-Enabled Furniture Health Monitor",
+    "domain": "101",
+    "description": "A system integrated into smart furniture that tracks user posture, sitting time, and ergonomics to promote better health.",
+    "keywords": ["Furniture Technology", "Ergonomic Design", "Smart Furniture", "Design Technology"]
+},
+{
+    "id": 7131,
+    "title": "Smart Ergonomic Office Chair",
+    "domain": "101",
+    "description": "An advanced office chair with smart posture sensors, ergonomic support, and automated adjustments for maximum comfort.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Automation", "Furniture Innovation"]
+},
+{
+    "id": 7132,
+    "title": "Automated Smart Filing Cabinet",
+    "domain": "101",
+    "description": "A filing cabinet with automated drawer systems, biometric access, and smart organization for modern office environments.",
+    "keywords": ["Furniture Automation", "Furniture Systems", "Smart Furniture", "Design Technology"]
+},
+{
+    "id": 7133,
+    "title": "Ergonomic Smart Recliner Pod",
+    "domain": "101",
+    "description": "A recliner pod that combines smart posture monitoring, automated comfort adjustments, and immersive ergonomic design.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Innovation", "Furniture Automation"]
+},
+{
+    "id": 7134,
+    "title": "Smart Convertible Coffee-to-Dining Table",
+    "domain": "101",
+    "description": "A coffee table that transforms into a dining table with automated mechanisms and ergonomic layouts for small apartments.",
+    "keywords": ["Automated Furniture", "Furniture Technology", "Furniture Systems", "Smart Design"]
+},
+{
+    "id": 7135,
+    "title": "AI-Powered Ergonomic Library Desk",
+    "domain": "101",
+    "description": "A smart library desk with posture correction, lighting adjustments, and automated workspace organization for enhanced reading ergonomics.",
+    "keywords": ["Ergonomic Design", "Smart Furniture", "Furniture Innovation", "Furniture Systems"]
+},
+{
+    "id": 7136,
+    "title": "Smart Voice-Activated Dressing Table",
+    "domain": "101",
+    "description": "A dressing table with voice-controlled lighting, automated mirror adjustments, and ergonomic seating integration.",
+    "keywords": ["Smart Furniture", "Furniture Automation", "Furniture Systems", "Smart Design"]
+},
+{
+    "id": 7137,
+    "title": "Ergonomic Smart Work-from-Home Setup",
+    "domain": "101",
+    "description": "A complete home office furniture system with ergonomic smart chairs, adjustable desks, and integrated automation.",
+    "keywords": ["Furniture Technology", "Ergonomic Design", "Furniture Innovation", "Smart Furniture"]
+},
+{
+    "id": 7138,
+    "title": "IoT-Based Smart Kitchen Table",
+    "domain": "101",
+    "description": "A kitchen table with IoT integration for meal preparation assistance, ergonomic layouts, and smart furniture automation.",
+    "keywords": ["Smart Furniture", "Furniture Automation", "Furniture Technology", "Furniture Systems"]
+},
+{
+    "id": 7139,
+    "title": "Ergonomic Smart Work Pod for Offices",
+    "domain": "101",
+    "description": "A self-contained ergonomic pod with smart furniture systems, adjustable seating, and automated workspace design for offices.",
+    "keywords": ["Ergonomic Design", "Furniture Systems", "Smart Furniture", "Furniture Innovation"]
+},
+{
+    "id": 7140,
+    "title": "Smart Convertible Wall Bed",
+    "domain": "101",
+    "description": "A wall-mounted bed that folds into a sofa or desk using automated furniture engineering with ergonomic support.",
+    "keywords": ["Automated Furniture", "Furniture Engineering", "Smart Furniture", "Furniture Innovation"]
+},
+{
+    "id": 7141,
+    "title": "Smart Ergonomic Music Studio Desk",
+    "domain": "101",
+    "description": "A studio desk for musicians with smart posture support, automated height adjustments, and ergonomic instrument placement.",
+    "keywords": ["Ergonomic Design", "Smart Design", "Furniture Systems", "Furniture Innovation"]
+},
+//domain-102
+
 
 
 
