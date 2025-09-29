@@ -48569,6 +48569,392 @@ const PROBLEMS_DATA = {
     "keywords": ["Printing Equipment", "Digital Printing", "Printing Innovation", "Print Technology"]
 },
 //domain-100
+{
+    "id": 7029,
+    "title": "Automated Precision Jewelry Manufacturing System",
+    "domain": "100",
+    "description": "A fully automated system for precision manufacturing of jewelry that integrates robotics and AI to enhance accuracy and efficiency while minimizing material waste.",
+    "keywords": ["Precision Manufacturing", "Jewelry Technology", "Jewelry Manufacturing"]
+},
+{
+    "id": 7030,
+    "title": "AI-Assisted Jewelry Design Platform",
+    "domain": "100",
+    "description": "An AI-driven design tool that helps jewelers create unique, customized jewelry designs by analyzing customer preferences and style trends.",
+    "keywords": ["Jewelry Design", "Jewelry Systems", "Crafting Innovation"]
+},
+{
+    "id": 7031,
+    "title": "Smart Metal Processing Unit for Jewelers",
+    "domain": "100",
+    "description": "A precision-controlled processing unit that ensures optimal handling of precious metals to improve durability, finish, and design adaptability.",
+    "keywords": ["Precious Metal Processing", "Metal Working", "Jewelry Equipment"]
+},
+{
+    "id": 7032,
+    "title": "3D Printing for Jewelry Prototyping",
+    "domain": "100",
+    "description": "A rapid prototyping platform using advanced 3D printing techniques to create precise jewelry models before final production.",
+    "keywords": ["Precision Crafting", "Jewelry Manufacturing", "Crafting Innovation"]
+},
+{
+    "id": 7033,
+    "title": "Next-Gen Jewelry Equipment with IoT Integration",
+    "domain": "100",
+    "description": "Smart jewelry-making equipment that uses IoT for real-time monitoring, predictive maintenance, and optimization of the production process.",
+    "keywords": ["Jewelry Equipment", "Jewelry Systems", "Precision Engineering"]
+},
+{
+    "id": 7034,
+    "title": "Blockchain-Based Jewelry Authenticity Tracker",
+    "domain": "100",
+    "description": "A blockchain-enabled platform that provides complete traceability of jewelry items from raw materials to final product, ensuring transparency and authenticity.",
+    "keywords": ["Jewelry Technology", "Jewelry Production", "Precision Manufacturing"]
+},
+{
+    "id": 7035,
+    "title": "AI-Powered Metal Composition Analyzer",
+    "domain": "100",
+    "description": "A tool that leverages AI to analyze and verify the composition of precious metals, ensuring high-quality standards in jewelry crafting.",
+    "keywords": ["Precious Metal Processing", "Precision Engineering", "Jewelry Equipment"]
+},
+{
+    "id": 7036,
+    "title": "Sustainable Jewelry Manufacturing Platform",
+    "domain": "100",
+    "description": "An eco-friendly system designed for jewelry production that reduces waste, recycles materials, and optimizes energy use.",
+    "keywords": ["Jewelry Manufacturing", "Crafting Innovation", "Metal Working"]
+},
+{
+    "id": 7037,
+    "title": "Precision Laser Cutting for Jewelry Design",
+    "domain": "100",
+    "description": "A high-accuracy laser-based cutting system for intricate jewelry designs, improving efficiency and minimizing human error.",
+    "keywords": ["Precision Crafting", "Jewelry Design", "Precision Engineering"]
+},
+{
+    "id": 7038,
+    "title": "AI-Based Jewelry Trend Prediction Tool",
+    "domain": "100",
+    "description": "An artificial intelligence system that predicts upcoming jewelry design trends by analyzing global fashion data and customer preferences.",
+    "keywords": ["Jewelry Design", "Jewelry Technology", "Crafting Innovation"]
+},
+{
+    "id": 7039,
+    "title": "Robotic Polishing and Finishing System",
+    "domain": "100",
+    "description": "An automated robotic polishing solution for jewelry that ensures flawless finishing and reduces manual labor requirements.",
+    "keywords": ["Jewelry Equipment", "Precision Manufacturing", "Jewelry Systems"]
+},
+{
+    "id": 7040,
+    "title": "Virtual Reality Jewelry Customization Platform",
+    "domain": "100",
+    "description": "A VR platform that allows customers to virtually try and customize jewelry pieces before making a purchase.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Systems"]
+},
+{
+    "id": 7041,
+    "title": "Smart Alloy Mixing for Precious Metals",
+    "domain": "100",
+    "description": "A precision-controlled system for alloy preparation that ensures consistency and strength in precious metal jewelry crafting.",
+    "keywords": ["Precious Metal Processing", "Metal Working", "Precision Engineering"]
+},
+{
+    "id": 7042,
+    "title": "AI-Enhanced Jewelry Quality Inspection",
+    "domain": "100",
+    "description": "A computer vision-based system for detecting defects and ensuring high-quality jewelry production standards.",
+    "keywords": ["Jewelry Technology", "Precision Manufacturing", "Jewelry Equipment"]
+},
+{
+    "id": 7043,
+    "title": "Custom Jewelry Design Automation System",
+    "domain": "100",
+    "description": "An AI-enabled platform that automates the process of converting customer sketches into professional jewelry designs.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Manufacturing"]
+},
+{
+    "id": 7044,
+    "title": "IoT-Enabled Jewelry Production Line",
+    "domain": "100",
+    "description": "A fully connected jewelry production system that uses IoT sensors for real-time monitoring and optimization of each production stage.",
+    "keywords": ["Jewelry Systems", "Jewelry Production", "Jewelry Equipment"]
+},
+{
+    "id": 7045,
+    "title": "Precision Casting Technology for Jewelers",
+    "domain": "100",
+    "description": "An advanced precision casting process that improves detail accuracy and reduces material waste in jewelry manufacturing.",
+    "keywords": ["Precision Manufacturing", "Precision Crafting", "Metal Working"]
+},
+{
+    "id": 7046,
+    "title": "AI-Based Jewelry Market Analytics",
+    "domain": "100",
+    "description": "A data-driven system that analyzes jewelry market trends, helping manufacturers and designers align production with demand.",
+    "keywords": ["Jewelry Technology", "Jewelry Systems", "Crafting Innovation"]
+},
+{
+    "id": 7047,
+    "title": "Smart Jewelry Engraving Machine",
+    "domain": "100",
+    "description": "An advanced engraving machine that combines robotics and AI to create highly detailed custom designs on jewelry pieces.",
+    "keywords": ["Jewelry Equipment", "Jewelry Design", "Precision Engineering"]
+},
+{
+    "id": 7048,
+    "title": "Nanotechnology in Precious Metal Processing",
+    "domain": "100",
+    "description": "A nanotech-based approach for enhancing durability, shine, and wear resistance of precious metal jewelry.",
+    "keywords": ["Precious Metal Processing", "Jewelry Manufacturing", "Precision Crafting"]
+},
+{
+    "id": 7049,
+    "title": "AI-Driven Jewelry Supply Chain Optimizer",
+    "domain": "100",
+    "description": "A supply chain optimization system for jewelry manufacturers, leveraging AI for resource allocation and inventory control.",
+    "keywords": ["Jewelry Production", "Jewelry Systems", "Precision Manufacturing"]
+},
+{
+    "id": 7050,
+    "title": "Eco-Friendly Metal Recycling for Jewelers",
+    "domain": "100",
+    "description": "A sustainable recycling unit for jewelers that recovers precious metals from scrap while maintaining purity.",
+    "keywords": ["Metal Working", "Precious Metal Processing", "Crafting Innovation"]
+},
+{
+    "id": 7051,
+    "title": "AI-Assisted Stone Setting System",
+    "domain": "100",
+    "description": "An AI-powered precision system for setting stones in jewelry, ensuring durability and symmetry.",
+    "keywords": ["Precision Crafting", "Jewelry Design", "Jewelry Equipment"]
+},
+{
+    "id": 7052,
+    "title": "Smart Jewelry Production Workflow Manager",
+    "domain": "100",
+    "description": "A digital platform that optimizes workflows in jewelry production by integrating scheduling, resource planning, and quality control.",
+    "keywords": ["Jewelry Production", "Jewelry Systems", "Jewelry Manufacturing"]
+},
+{
+    "id": 7053,
+    "title": "Augmented Reality Jewelry Showroom",
+    "domain": "100",
+    "description": "An AR-based platform that allows customers to preview jewelry pieces virtually, improving the shopping experience.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Technology"]
+},
+{
+    "id": 7054,
+    "title": "Precision Milling Machine for Jewelers",
+    "domain": "100",
+    "description": "A specialized milling machine designed for jewelers to achieve ultra-fine detailing and shaping in precious metals.",
+    "keywords": ["Jewelry Equipment", "Precision Engineering", "Metal Working"]
+},
+{
+    "id": 7055,
+    "title": "AI-Optimized Jewelry Production Forecasting",
+    "domain": "100",
+    "description": "A predictive analytics system that helps jewelry manufacturers forecast demand and adjust production accordingly.",
+    "keywords": ["Jewelry Manufacturing", "Jewelry Technology", "Jewelry Production"]
+},
+{
+    "id": 7056,
+    "title": "Smart Jewelry Crafting Assistant",
+    "domain": "100",
+    "description": "An AI-based assistant that provides jewelers with design suggestions, error detection, and process improvements.",
+    "keywords": ["Crafting Innovation", "Jewelry Design", "Jewelry Systems"]
+},
+{
+    "id": 7057,
+    "title": "High-Precision 3D Metal Printing for Jewelry",
+    "domain": "100",
+    "description": "A metal 3D printing technology that enables jewelers to craft complex, lightweight designs with precision.",
+    "keywords": ["Precision Manufacturing", "Jewelry Equipment", "Jewelry Manufacturing"]
+},
+{
+    "id": 7058,
+    "title": "AI-Based Jewelry Pricing Engine",
+    "domain": "100",
+    "description": "A dynamic pricing engine for jewelers that uses AI to adjust prices based on market demand, metal prices, and customer trends.",
+    "keywords": ["Jewelry Technology", "Jewelry Systems", "Precision Engineering"]
+},
+{
+    "id": 7059,
+    "title": "IoT-Enabled Jewelry Quality Control System",
+    "domain": "100",
+    "description": "An IoT-based quality monitoring system that ensures every jewelry piece meets strict quality benchmarks.",
+    "keywords": ["Jewelry Equipment", "Jewelry Systems", "Jewelry Manufacturing"]
+},
+{
+    "id": 7060,
+    "title": "AI-Driven Custom Jewelry Recommender",
+    "domain": "100",
+    "description": "An AI recommendation system that helps customers design and select jewelry tailored to their personal style.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Technology"]
+},
+{
+    "id": 7061,
+    "title": "Robotic Jewelry Assembly Line",
+    "domain": "100",
+    "description": "A robotics-based jewelry assembly system that reduces labor costs and ensures high-precision results.",
+    "keywords": ["Jewelry Manufacturing", "Precision Crafting", "Jewelry Systems"]
+},
+{
+    "id": 7062,
+    "title": "Digital Twin for Jewelry Production",
+    "domain": "100",
+    "description": "A digital twin simulation platform that models jewelry production workflows for optimization and efficiency.",
+    "keywords": ["Jewelry Production", "Jewelry Technology", "Precision Engineering"]
+},
+{
+    "id": 7063,
+    "title": "AI-Powered Jewelry Repair System",
+    "domain": "100",
+    "description": "An intelligent repair system that uses AI to detect damage and suggest the best repair methods for jewelry.",
+    "keywords": ["Jewelry Equipment", "Crafting Innovation", "Precision Manufacturing"]
+},
+{
+    "id": 7064,
+    "title": "Voice-Controlled Jewelry Design Software",
+    "domain": "100",
+    "description": "An accessibility-focused design software that enables jewelers to create designs using voice commands.",
+    "keywords": ["Jewelry Design", "Jewelry Technology", "Crafting Innovation"]
+},
+{
+    "id": 7065,
+    "title": "Automated Gem Polishing Machine",
+    "domain": "100",
+    "description": "An automated gem polishing solution that improves precision and reduces time in the jewelry production process.",
+    "keywords": ["Jewelry Equipment", "Precision Crafting", "Jewelry Manufacturing"]
+},
+{
+    "id": 7066,
+    "title": "AI-Driven Jewelry Customization Engine",
+    "domain": "100",
+    "description": "A customization system that allows jewelers to generate unique, customer-specific designs based on AI recommendations.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Technology"]
+},
+{
+    "id": 7067,
+    "title": "Smart Jewelry Waste Management System",
+    "domain": "100",
+    "description": "An eco-friendly solution for managing and recycling waste generated during jewelry crafting and manufacturing.",
+    "keywords": ["Jewelry Manufacturing", "Metal Working", "Crafting Innovation"]
+},
+{
+    "id": 7068,
+    "title": "AR-Based Jewelry Crafting Tutor",
+    "domain": "100",
+    "description": "An augmented reality platform that teaches jewelry crafting techniques through interactive visual instructions.",
+    "keywords": ["Crafting Innovation", "Jewelry Systems", "Jewelry Technology"]
+},
+{
+    "id": 7069,
+    "title": "Precision Jewelry Measurement Tools",
+    "domain": "100",
+    "description": "A set of smart measurement devices for jewelers to ensure accuracy in design and manufacturing.",
+    "keywords": ["Precision Engineering", "Jewelry Equipment", "Jewelry Manufacturing"]
+},
+{
+    "id": 7070,
+    "title": "AI-Powered Jewelry Style Analyzer",
+    "domain": "100",
+    "description": "An AI system that analyzes customer style preferences and recommends jewelry designs accordingly.",
+    "keywords": ["Jewelry Design", "Jewelry Systems", "Crafting Innovation"]
+},
+{
+    "id": 7071,
+    "title": "Next-Gen Jewelry Mold Making System",
+    "domain": "100",
+    "description": "An automated system that creates high-precision molds for jewelry production, reducing errors and improving efficiency.",
+    "keywords": ["Precision Crafting", "Jewelry Equipment", "Jewelry Manufacturing"]
+},
+{
+    "id": 7072,
+    "title": "Digital Jewelry Crafting Curriculum",
+    "domain": "100",
+    "description": "An e-learning platform designed to teach precision jewelry crafting using simulations and interactive modules.",
+    "keywords": ["Jewelry Technology", "Crafting Innovation", "Jewelry Systems"]
+},
+{
+    "id": 7073,
+    "title": "AI-Enabled Jewelry Sales Optimization",
+    "domain": "100",
+    "description": "A data-driven sales optimization tool for jewelers that uses AI to boost customer engagement and conversion.",
+    "keywords": ["Jewelry Technology", "Jewelry Production", "Jewelry Systems"]
+},
+{
+    "id": 7074,
+    "title": "IoT-Based Jewelry Workshop Management",
+    "domain": "100",
+    "description": "An IoT-enabled management system for jewelry workshops to monitor tools, equipment, and workflow in real time.",
+    "keywords": ["Jewelry Equipment", "Jewelry Systems", "Precision Manufacturing"]
+},
+{
+    "id": 7075,
+    "title": "AI-Driven Jewelry Forging Techniques",
+    "domain": "100",
+    "description": "A system that integrates AI to optimize forging processes for precious metals in jewelry manufacturing.",
+    "keywords": ["Metal Working", "Precious Metal Processing", "Jewelry Manufacturing"]
+},
+{
+    "id": 7076,
+    "title": "Smart Jewelry Crafting Simulator",
+    "domain": "100",
+    "description": "A virtual simulator that trains aspiring jewelers in precision crafting techniques using interactive digital models.",
+    "keywords": ["Precision Crafting", "Jewelry Systems", "Crafting Innovation"]
+},
+{
+    "id": 7077,
+    "title": "Cloud-Based Jewelry Production Management",
+    "domain": "100",
+    "description": "A cloud platform that integrates scheduling, resource allocation, and collaboration for jewelry production.",
+    "keywords": ["Jewelry Production", "Jewelry Technology", "Jewelry Manufacturing"]
+},
+{
+    "id": 7078,
+    "title": "AI-Based Jewelry Fault Detection System",
+    "domain": "100",
+    "description": "A defect detection system that uses AI and machine vision to identify imperfections in jewelry at different production stages.",
+    "keywords": ["Jewelry Equipment", "Precision Manufacturing", "Jewelry Systems"]
+},
+{
+    "id": 7079,
+    "title": "AR Jewelry Co-Design Platform",
+    "domain": "100",
+    "description": "An augmented reality tool that allows customers to collaborate with jewelers in real-time jewelry design.",
+    "keywords": ["Jewelry Design", "Crafting Innovation", "Jewelry Technology"]
+},
+{
+    "id": 7080,
+    "title": "Automated Jewelry Weight Optimization",
+    "domain": "100",
+    "description": "A precision tool that optimizes jewelry weight while maintaining strength and design integrity.",
+    "keywords": ["Precision Engineering", "Jewelry Manufacturing", "Metal Working"]
+},
+{
+    "id": 7081,
+    "title": "AI-Powered Jewelry Crafting Robotics",
+    "domain": "100",
+    "description": "A robotics-based jewelry crafting system enhanced with AI for automated shaping, detailing, and finishing.",
+    "keywords": ["Precision Crafting", "Jewelry Equipment", "Jewelry Technology"]
+},
+{
+    "id": 7082,
+    "title": "IoT-Connected Jewelry Finishing Station",
+    "domain": "100",
+    "description": "A finishing workstation that uses IoT-enabled tools to monitor polishing, plating, and cleaning processes in jewelry crafting.",
+    "keywords": ["Jewelry Systems", "Jewelry Equipment", "Jewelry Production"]
+},
+{
+    "id": 7083,
+    "title": "AI-Driven Jewelry Material Optimization",
+    "domain": "100",
+    "description": "An AI tool that helps jewelers choose optimal materials and crafting methods for high-quality production.",
+    "keywords": ["Precious Metal Processing", "Jewelry Manufacturing", "Precision Engineering"]
+},
+//domain -101
 
 
 
