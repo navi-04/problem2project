@@ -48204,7 +48204,373 @@ const PROBLEMS_DATA = {
         "keywords": ["Optical Imaging", "Photonics", "Biomedical Applications", "Healthcare"]
     },
     // domain 99
-    
+    {
+    "id": 6977,
+    "title": "AI-Driven Digital Print Optimization System",
+    "domain": "99",
+    "description": "Develop an AI-powered system that optimizes digital printing parameters such as ink usage, resolution, and layout for cost-efficiency and high-quality output.",
+    "keywords": ["Digital Printing", "Printing Innovation", "Print Technology", "Printing Equipment"]
+},
+{
+    "id": 6978,
+    "title": "Cloud-Based Publishing Workflow Manager",
+    "domain": "99",
+    "description": "Create a cloud-native workflow manager that streamlines publishing tasks like editing, proofing, and version control across multiple teams and devices.",
+    "keywords": ["Publishing Systems", "Publishing Software", "Digital Publishing", "Publishing Technology"]
+},
+{
+    "id": 6979,
+    "title": "IoT-Enabled Smart Printing Equipment",
+    "domain": "99",
+    "description": "Design IoT-connected printing hardware that monitors real-time performance, predicts maintenance, and ensures continuous high-volume output.",
+    "keywords": ["Printing Equipment", "Print Systems", "Printing Innovation", "Media Technology"]
+},
+{
+    "id": 6980,
+    "title": "Automated Print Layout Designer",
+    "domain": "99",
+    "description": "Develop a system that uses AI to automatically generate optimized print layouts for magazines, books, and flyers to reduce paper waste and improve efficiency.",
+    "keywords": ["Print Design", "Publishing Software", "Print Technology", "Digital Media"]
+},
+{
+    "id": 6981,
+    "title": "Blockchain-Based Publishing Rights Manager",
+    "domain": "99",
+    "description": "Create a blockchain platform for securely managing publishing rights, ensuring fair royalty distribution and transparent licensing in digital publishing.",
+    "keywords": ["Publishing Technology", "Digital Publishing", "Media Technology", "Publishing Systems"]
+},
+{
+    "id": 6982,
+    "title": "Voice-Controlled Printing Interface",
+    "domain": "99",
+    "description": "Develop a voice-assisted print system that enables hands-free control over printing tasks, ideal for accessibility and productivity improvements.",
+    "keywords": ["Printing Equipment", "Print Systems", "Printing Innovation", "Digital Printing"]
+},
+{
+    "id": 6983,
+    "title": "Augmented Reality Print Preview Tool",
+    "domain": "99",
+    "description": "Design an AR-powered tool that allows users to visualize printed designs in real-world environments before printing, minimizing errors and costs.",
+    "keywords": ["Print Design", "Digital Media", "Printing Innovation", "Media Technology"]
+},
+{
+    "id": 6984,
+    "title": "AI-Generated Personalized Print Media",
+    "domain": "99",
+    "description": "Build a personalization engine that uses AI to generate customized flyers, magazines, and posters based on user data and preferences.",
+    "keywords": ["Digital Printing", "Digital Media", "Print Design", "Publishing Software"]
+},
+{
+    "id": 6985,
+    "title": "Eco-Friendly Printing Process Analyzer",
+    "domain": "99",
+    "description": "Develop a sustainability-focused analyzer that recommends eco-friendly inks, recyclable materials, and low-waste printing practices.",
+    "keywords": ["Printing Innovation", "Print Technology", "Printing Equipment", "Digital Printing"]
+},
+{
+    "id": 6986,
+    "title": "Multi-Language Digital Publishing Suite",
+    "domain": "99",
+    "description": "Create a multilingual digital publishing platform that supports real-time translation, localization, and adaptive layouts for global readership.",
+    "keywords": ["Digital Publishing", "Publishing Software", "Publishing Technology", "Digital Media"]
+},
+{
+    "id": 6987,
+    "title": "3D Printing for Digital Publishing",
+    "domain": "99",
+    "description": "Integrate 3D printing with publishing systems to create tangible, interactive models of digital content such as book covers and educational material.",
+    "keywords": ["Print Technology", "Printing Equipment", "Printing Innovation", "Media Technology"]
+},
+{
+    "id": 6988,
+    "title": "AI-Enhanced Proofreading for Print Media",
+    "domain": "99",
+    "description": "Build a proofreading system powered by AI that automatically detects grammatical, stylistic, and formatting issues in publishing workflows.",
+    "keywords": ["Publishing Systems", "Publishing Technology", "Publishing Software", "Digital Publishing"]
+},
+{
+    "id": 6989,
+    "title": "Digital Media-Integrated Smart Magazines",
+    "domain": "99",
+    "description": "Develop interactive magazines with embedded QR codes, AR elements, and digital media that merge print with immersive experiences.",
+    "keywords": ["Digital Media", "Print Design", "Publishing Systems", "Media Technology"]
+},
+{
+    "id": 6990,
+    "title": "On-Demand Mobile Printing App",
+    "domain": "99",
+    "description": "Create a mobile application that connects users with nearby smart printers for instant, high-quality digital print jobs.",
+    "keywords": ["Digital Printing", "Print Systems", "Printing Equipment", "Printing Innovation"]
+},
+{
+    "id": 6991,
+    "title": "AI-Powered Book Design Automation",
+    "domain": "99",
+    "description": "Build an AI system that automatically designs book layouts, cover pages, and formatting based on genre and publishing guidelines.",
+    "keywords": ["Print Design", "Publishing Software", "Publishing Systems", "Publishing Technology"]
+},
+{
+    "id": 6992,
+    "title": "Digital Publishing Analytics Dashboard",
+    "domain": "99",
+    "description": "Design a data-driven dashboard that tracks user engagement, readership trends, and distribution efficiency for digital publications.",
+    "keywords": ["Digital Publishing", "Media Technology", "Publishing Systems", "Publishing Technology"]
+},
+{
+    "id": 6993,
+    "title": "Cloud-Based Collaborative Print Design Tool",
+    "domain": "99",
+    "description": "Develop a cloud design platform that allows multiple designers to collaborate on print projects in real-time with version control.",
+    "keywords": ["Print Design", "Publishing Software", "Digital Media", "Print Systems"]
+},
+{
+    "id": 6994,
+    "title": "AI-Based Print Quality Inspection System",
+    "domain": "99",
+    "description": "Create an AI inspection tool that analyzes print quality in real-time and detects misalignment, color variation, or ink issues.",
+    "keywords": ["Digital Printing", "Printing Equipment", "Print Technology", "Printing Innovation"]
+},
+{
+    "id": 6995,
+    "title": "Cross-Platform Publishing Converter",
+    "domain": "99",
+    "description": "Build a system that automatically converts publishing content between formats like EPUB, PDF, and HTML while preserving layout integrity.",
+    "keywords": ["Publishing Systems", "Publishing Software", "Publishing Technology", "Digital Publishing"]
+},
+{
+    "id": 6996,
+    "title": "Smart Print Cost Estimator",
+    "domain": "99",
+    "description": "Develop a predictive tool that estimates print costs based on ink, material, and design complexity before initiating jobs.",
+    "keywords": ["Print Systems", "Printing Innovation", "Print Technology", "Digital Printing"]
+},
+{
+    "id": 6997,
+    "title": "Interactive Print-to-Digital Bridge",
+    "domain": "99",
+    "description": "Design a system where printed materials embed scannable codes that unlock additional digital content and media experiences.",
+    "keywords": ["Digital Media", "Print Design", "Publishing Technology", "Media Technology"]
+},
+{
+    "id": 6998,
+    "title": "AI-Powered Ad Placement in Print Media",
+    "domain": "99",
+    "description": "Build an AI solution that optimizes ad placement in magazines and newspapers for maximum visibility and minimal reader distraction.",
+    "keywords": ["Publishing Software", "Print Design", "Publishing Systems", "Digital Media"]
+},
+{
+    "id": 6999,
+    "title": "Decentralized Digital Publishing Network",
+    "domain": "99",
+    "description": "Develop a decentralized network that allows authors and publishers to directly distribute digital works without intermediaries.",
+    "keywords": ["Digital Publishing", "Publishing Technology", "Publishing Systems", "Media Technology"]
+},
+{
+    "id": 7000,
+    "title": "AI-Enhanced Print Personalization Engine",
+    "domain": "99",
+    "description": "Create a personalization system that generates tailored brochures, posters, and catalogs for niche audiences.",
+    "keywords": ["Digital Printing", "Print Design", "Digital Media", "Printing Innovation"]
+},
+{
+    "id": 7001,
+    "title": "Smart Publishing Metadata Generator",
+    "domain": "99",
+    "description": "Develop a tool that uses AI to automatically generate metadata for digital publications, boosting discoverability and indexing.",
+    "keywords": ["Publishing Systems", "Publishing Software", "Digital Publishing", "Publishing Technology"]
+},
+{
+    "id": 7002,
+    "title": "Digital Printing Color Calibration Tool",
+    "domain": "99",
+    "description": "Create a system that calibrates colors across multiple printers, ensuring uniformity in large-scale printing operations.",
+    "keywords": ["Digital Printing", "Printing Equipment", "Print Technology", "Printing Innovation"]
+},
+{
+    "id": 7003,
+    "title": "Automated Print Security Watermarking System",
+    "domain": "99",
+    "description": "Design a system that embeds digital watermarks in printed materials to prevent counterfeiting and unauthorized copying.",
+    "keywords": ["Print Technology", "Publishing Technology", "Printing Innovation", "Media Technology"]
+},
+{
+    "id": 7004,
+    "title": "Smart Print Accessibility Enhancer",
+    "domain": "99",
+    "description": "Develop a tool that converts print layouts into accessible versions such as large font or braille-compatible outputs.",
+    "keywords": ["Print Design", "Digital Publishing", "Publishing Systems", "Publishing Software"]
+},
+{
+    "id": 7005,
+    "title": "Digital Publishing Subscription Manager",
+    "domain": "99",
+    "description": "Build a subscription platform for digital magazines and books that supports micropayments and personalized recommendations.",
+    "keywords": ["Digital Publishing", "Publishing Technology", "Publishing Software", "Media Technology"]
+},
+{
+    "id": 7006,
+    "title": "Print-on-Demand Distributed Platform",
+    "domain": "99",
+    "description": "Create a decentralized print-on-demand system that connects customers to local printing hubs for fast delivery and reduced carbon footprint.",
+    "keywords": ["Print Systems", "Printing Equipment", "Digital Printing", "Printing Innovation"]
+},
+{
+    "id": 7007,
+    "title": "AI-Driven Content Repurposing for Print",
+    "domain": "99",
+    "description": "Develop an AI solution that repurposes digital articles into print-ready formats such as newsletters, brochures, or booklets.",
+    "keywords": ["Publishing Software", "Print Design", "Digital Publishing", "Publishing Technology"]
+},
+{
+    "id": 7008,
+    "title": "Virtual Reality Publishing Experience",
+    "domain": "99",
+    "description": "Design a VR platform where readers can immerse themselves in a virtual library of digitally published works.",
+    "keywords": ["Digital Publishing", "Media Technology", "Publishing Systems", "Digital Media"]
+},
+{
+    "id": 7009,
+    "title": "AI-Optimized Ink Management System",
+    "domain": "99",
+    "description": "Create a predictive ink management system that uses AI to monitor usage patterns and optimize refilling schedules.",
+    "keywords": ["Digital Printing", "Printing Equipment", "Printing Innovation", "Print Technology"]
+},
+{
+    "id": 7010,
+    "title": "Cross-Media Publishing Hub",
+    "domain": "99",
+    "description": "Develop a hub that synchronizes publishing across print, web, and mobile, ensuring consistent branding and content flow.",
+    "keywords": ["Publishing Systems", "Digital Media", "Publishing Technology", "Publishing Software"]
+},
+{
+    "id": 7011,
+    "title": "Eco-Friendly Digital Publishing Marketplace",
+    "domain": "99",
+    "description": "Build an online marketplace that promotes eco-friendly digital publications and sustainable printing services.",
+    "keywords": ["Digital Publishing", "Publishing Technology", "Digital Media", "Media Technology"]
+},
+{
+    "id": 7012,
+    "title": "AI-Based Typography Enhancer for Print",
+    "domain": "99",
+    "description": "Create an AI engine that enhances typography choices for readability, aesthetics, and audience engagement in print design.",
+    "keywords": ["Print Design", "Publishing Software", "Publishing Technology", "Digital Printing"]
+},
+{
+    "id": 7013,
+    "title": "Secure Digital Publishing DRM System",
+    "domain": "99",
+    "description": "Develop a DRM-enabled system for digital publishing to protect content against piracy while ensuring user-friendly access.",
+    "keywords": ["Digital Publishing", "Publishing Systems", "Publishing Technology", "Publishing Software"]
+},
+{
+    "id": 7014,
+    "title": "AI-Driven Print Error Prediction Tool",
+    "domain": "99",
+    "description": "Build a predictive tool that uses historical data and machine learning to detect and prevent printing errors before jobs begin.",
+    "keywords": ["Printing Innovation", "Print Systems", "Printing Equipment", "Digital Printing"]
+},
+{
+    "id": 7015,
+    "title": "Digital Media-Enriched Textbooks",
+    "domain": "99",
+    "description": "Create textbooks that merge print with embedded digital media, enhancing learning with interactive and multimedia elements.",
+    "keywords": ["Digital Media", "Print Design", "Publishing Software", "Media Technology"]
+},
+{
+    "id": 7016,
+    "title": "AI-Powered Print Demand Forecasting",
+    "domain": "99",
+    "description": "Design a forecasting system that predicts future demand for specific print products to optimize production planning.",
+    "keywords": ["Print Systems", "Digital Printing", "Printing Innovation", "Print Technology"]
+},
+{
+    "id": 7017,
+    "title": "Smart Print Recycling Assistant",
+    "domain": "99",
+    "description": "Develop a tool that categorizes printed waste and suggests recycling or repurposing methods for eco-friendly disposal.",
+    "keywords": ["Printing Equipment", "Printing Innovation", "Media Technology", "Print Technology"]
+},
+{
+    "id": 7018,
+    "title": "Digital Publishing Accessibility Suite",
+    "domain": "99",
+    "description": "Build a suite of accessibility tools that adapt digital publications for visually impaired and dyslexic readers.",
+    "keywords": ["Digital Publishing", "Publishing Technology", "Publishing Software", "Publishing Systems"]
+},
+{
+    "id": 7019,
+    "title": "AI-Based Cover Art Generator",
+    "domain": "99",
+    "description": "Create a generative AI tool that designs book and magazine covers tailored to audience preferences and market trends.",
+    "keywords": ["Print Design", "Publishing Software", "Digital Media", "Publishing Technology"]
+},
+{
+    "id": 7020,
+    "title": "Collaborative Publishing Blockchain Ledger",
+    "domain": "99",
+    "description": "Design a blockchain-based ledger that records collaborative publishing contributions and ensures transparency.",
+    "keywords": ["Publishing Systems", "Digital Publishing", "Publishing Technology", "Media Technology"]
+},
+{
+    "id": 7021,
+    "title": "Cloud-Based Print Job Scheduler",
+    "domain": "99",
+    "description": "Develop a scheduling system that manages multiple print jobs from different users, optimizing time and resources.",
+    "keywords": ["Print Systems", "Printing Equipment", "Digital Printing", "Printing Innovation"]
+},
+{
+    "id": 7022,
+    "title": "AI-Powered Real-Time Layout Validator",
+    "domain": "99",
+    "description": "Build an AI tool that validates layouts in real-time, ensuring compliance with publishing standards before printing.",
+    "keywords": ["Publishing Software", "Print Design", "Publishing Systems", "Publishing Technology"]
+},
+{
+    "id": 7023,
+    "title": "Digital Publishing Gamification Platform",
+    "domain": "99",
+    "description": "Create a gamification system where readers earn rewards and achievements for engaging with digital publications.",
+    "keywords": ["Digital Publishing", "Digital Media", "Publishing Technology", "Media Technology"]
+},
+{
+    "id": 7024,
+    "title": "AI-Based Print Fraud Detection System",
+    "domain": "99",
+    "description": "Develop a fraud detection engine that analyzes print jobs to identify counterfeit or unauthorized printing attempts.",
+    "keywords": ["Print Technology", "Printing Innovation", "Printing Equipment", "Media Technology"]
+},
+{
+    "id": 7025,
+    "title": "Next-Gen Publishing Recommendation Engine",
+    "domain": "99",
+    "description": "Design an AI-powered engine that recommends publishing formats, platforms, and distribution channels for maximum reach.",
+    "keywords": ["Publishing Technology", "Publishing Systems", "Publishing Software", "Digital Publishing"]
+},
+{
+    "id": 7026,
+    "title": "AR-Enhanced Print Catalogs",
+    "domain": "99",
+    "description": "Develop catalogs that integrate AR experiences, allowing customers to visualize products interactively through smartphones.",
+    "keywords": ["Print Design", "Digital Media", "Publishing Systems", "Media Technology"]
+},
+{
+    "id": 7027,
+    "title": "Digital Publishing Emotional Analytics",
+    "domain": "99",
+    "description": "Build a system that analyzes reader emotions via feedback and usage data to refine digital publishing strategies.",
+    "keywords": ["Digital Publishing", "Media Technology", "Publishing Software", "Publishing Technology"]
+},
+{
+    "id": 7028,
+    "title": "AI-Driven Print Speed Optimizer",
+    "domain": "99",
+    "description": "Create a system that adjusts printing speed dynamically to balance quality, cost, and time efficiency.",
+    "keywords": ["Printing Equipment", "Digital Printing", "Printing Innovation", "Print Technology"]
+},
+//domain-100
+
+
 
 
 
