@@ -52535,6 +52535,385 @@ const PROBLEMS_DATA = {
     "keywords": ["Disaster Technology", "Disaster Management", "Emergency Technology"]
 },
 //domain-111
+    {
+        "id": 7594,
+        "title": "AI-Powered Demographic Analysis Platform",
+        "domain": "111",
+        "description": "A platform that uses AI to analyze demographic trends, such as age distribution, gender ratios, and urban-rural splits, providing policymakers with actionable insights.",
+        "keywords": ["Demographic Analysis", "Population Technology", "Social Statistics"]
+    },
+    {
+        "id": 7595,
+        "title": "Predictive Population Modeling System",
+        "domain": "111",
+        "description": "A system that models future population growth or decline using advanced statistical and computational techniques to help urban planners and governments prepare for demographic shifts.",
+        "keywords": ["Population Modeling", "Demographic Systems", "Population Research"]
+    },
+    {
+        "id": 7596,
+        "title": "Global Social Statistics Dashboard",
+        "domain": "111",
+        "description": "An interactive dashboard that aggregates global social statistics, including education, employment, and health data, to support evidence-based decision-making.",
+        "keywords": ["Social Statistics", "Social Analytics", "Population Science"]
+    },
+    {
+        "id": 7597,
+        "title": "Demographic Technology for Smart Cities",
+        "domain": "111",
+        "description": "Integration of demographic technology into smart cities for real-time tracking of population density, migration, and social behavior to optimize urban infrastructure.",
+        "keywords": ["Demographic Technology", "Social Technology", "Population Modeling"]
+    },
+    {
+        "id": 7598,
+        "title": "AI-Based Population Research Assistant",
+        "domain": "111",
+        "description": "An AI system that assists researchers by automating data collection, trend detection, and hypothesis generation in demographic and population studies.",
+        "keywords": ["Population Research", "Population Science", "Demographic Innovation"]
+    },
+    {
+        "id": 7599,
+        "title": "Social Analytics for Policy Development",
+        "domain": "111",
+        "description": "A tool that leverages social analytics to identify societal challenges and opportunities, guiding governments in designing inclusive policies.",
+        "keywords": ["Social Analytics", "Social Technology", "Population Studies"]
+    },
+    {
+        "id": 7600,
+        "title": "Demographic Systems for Disaster Preparedness",
+        "domain": "111",
+        "description": "A demographic system that predicts the impact of natural disasters on different population segments, enabling better relief planning and resource allocation.",
+        "keywords": ["Demographic Systems", "Demographic Analysis", "Population Technology"]
+    },
+    {
+        "id": 7601,
+        "title": "Population Science Simulation Engine",
+        "domain": "111",
+        "description": "A simulation engine that models population dynamics under varying conditions such as fertility rates, migration, and life expectancy for academic and policy use.",
+        "keywords": ["Population Science", "Population Modeling", "Demographic Technology"]
+    },
+    {
+        "id": 7602,
+        "title": "Next-Gen Social Technology Hub",
+        "domain": "111",
+        "description": "A hub that fosters innovation in social technology by combining demographic data with AI, IoT, and big data for solving societal challenges.",
+        "keywords": ["Social Technology", "Demographic Innovation", "Population Research"]
+    },
+    {
+        "id": 7603,
+        "title": "Demographic Innovation for Aging Populations",
+        "domain": "111",
+        "description": "An initiative that develops innovative solutions for aging populations, focusing on healthcare, housing, and social integration.",
+        "keywords": ["Demographic Innovation", "Population Studies", "Social Statistics"]
+    },
+    {
+        "id": 7604,
+        "title": "Automated Census Data Analyzer",
+        "domain": "111",
+        "description": "A system that automates the analysis of census data to uncover hidden demographic patterns and provide insights for policymakers.",
+        "keywords": ["Demographic Analysis", "Population Research", "Social Analytics"]
+    },
+    {
+        "id": 7605,
+        "title": "Migration and Mobility Modeling Tool",
+        "domain": "111",
+        "description": "A population modeling tool that focuses on migration patterns and mobility trends to assist governments and NGOs in planning resources.",
+        "keywords": ["Population Modeling", "Population Science", "Demographic Systems"]
+    },
+    {
+        "id": 7606,
+        "title": "Global Social Wellbeing Index",
+        "domain": "111",
+        "description": "A statistical framework that compiles social statistics to create a global index of wellbeing, covering health, education, and equality.",
+        "keywords": ["Social Statistics", "Social Analytics", "Population Studies"]
+    },
+    {
+        "id": 7607,
+        "title": "AI-Driven Demographic Technology for Education",
+        "domain": "111",
+        "description": "An AI-powered demographic technology that forecasts education demands based on population changes and socio-economic indicators.",
+        "keywords": ["Demographic Technology", "Population Technology", "Social Technology"]
+    },
+    {
+        "id": 7608,
+        "title": "Virtual Population Research Lab",
+        "domain": "111",
+        "description": "A cloud-based lab that enables researchers to collaborate on population studies using shared data, tools, and simulation models.",
+        "keywords": ["Population Research", "Population Science", "Demographic Innovation"]
+    },
+    {
+        "id": 7609,
+        "title": "Real-Time Social Analytics Platform",
+        "domain": "111",
+        "description": "A platform that collects and analyzes social data in real time, helping governments monitor societal shifts and respond proactively.",
+        "keywords": ["Social Analytics", "Social Technology", "Demographic Systems"]
+    },
+    {
+        "id": 7610,
+        "title": "Demographic Systems for Healthcare Planning",
+        "domain": "111",
+        "description": "A demographic system that projects healthcare demands based on age structure, chronic diseases, and population growth rates.",
+        "keywords": ["Demographic Systems", "Demographic Analysis", "Population Modeling"]
+    },
+    {
+        "id": 7611,
+        "title": "Population Science for Climate Impact Studies",
+        "domain": "111",
+        "description": "A scientific framework linking population science with climate models to study how demographic changes affect environmental sustainability.",
+        "keywords": ["Population Science", "Demographic Technology", "Population Studies"]
+    },
+    {
+        "id": 7612,
+        "title": "Inclusive Social Technology Framework",
+        "domain": "111",
+        "description": "A social technology framework designed to reduce inequality by providing equal access to resources and services based on demographic analysis.",
+        "keywords": ["Social Technology", "Population Research", "Demographic Innovation"]
+    },
+    {
+        "id": 7613,
+        "title": "Demographic Innovation Hub for Smart Governance",
+        "domain": "111",
+        "description": "A hub that develops innovative demographic solutions to support smart governance and enhance transparency in decision-making.",
+        "keywords": ["Demographic Innovation", "Demographic Systems", "Social Analytics"]
+    },
+    {
+        "id": 7614,
+        "title": "Population Studies Knowledge Graph",
+        "domain": "111",
+        "description": "A semantic knowledge graph that integrates population studies data from various sources for advanced analysis and AI-driven insights.",
+        "keywords": ["Population Studies", "Population Research", "Population Science"]
+    },
+    {
+        "id": 7615,
+        "title": "AI Census Prediction System",
+        "domain": "111",
+        "description": "A machine learning-based system that predicts future census results based on current demographic and migration trends.",
+        "keywords": ["Demographic Analysis", "Population Modeling", "Social Statistics"]
+    },
+    {
+        "id": 7616,
+        "title": "Dynamic Population Modeling for Resource Allocation",
+        "domain": "111",
+        "description": "A dynamic model that adjusts population projections in real-time to help governments allocate resources effectively.",
+        "keywords": ["Population Modeling", "Demographic Systems", "Social Technology"]
+    },
+    {
+        "id": 7617,
+        "title": "Social Statistics for Sustainable Development Goals",
+        "domain": "111",
+        "description": "A project that leverages social statistics to monitor and measure progress toward the UN Sustainable Development Goals.",
+        "keywords": ["Social Statistics", "Population Studies", "Demographic Innovation"]
+    },
+    {
+        "id": 7618,
+        "title": "Demographic Technology for Workforce Planning",
+        "domain": "111",
+        "description": "A demographic technology platform that predicts future workforce needs based on population trends, migration, and education data.",
+        "keywords": ["Demographic Technology", "Population Science", "Social Analytics"]
+    },
+    {
+        "id": 7619,
+        "title": "Population Research Collaboration Network",
+        "domain": "111",
+        "description": "An online collaboration network that connects global population researchers to share data, methodologies, and findings.",
+        "keywords": ["Population Research", "Demographic Innovation", "Social Technology"]
+    },
+    {
+        "id": 7620,
+        "title": "Social Analytics for Urban Development",
+        "domain": "111",
+        "description": "A social analytics system that studies urban demographic data to guide infrastructure development and urban planning.",
+        "keywords": ["Social Analytics", "Demographic Systems", "Population Technology"]
+    },
+    {
+        "id": 7621,
+        "title": "AI Demographic Systems for Public Policy",
+        "domain": "111",
+        "description": "AI-powered demographic systems that provide governments with real-time insights to design evidence-based policies.",
+        "keywords": ["Demographic Systems", "Demographic Analysis", "Population Studies"]
+    },
+    {
+        "id": 7622,
+        "title": "Population Science for Epidemiology",
+        "domain": "111",
+        "description": "A scientific system that uses population science to model the spread of diseases and predict epidemic risks.",
+        "keywords": ["Population Science", "Population Research", "Demographic Technology"]
+    },
+    {
+        "id": 7623,
+        "title": "Smart Social Technology for Community Engagement",
+        "domain": "111",
+        "description": "A social technology platform that improves community engagement by analyzing demographic and behavioral data.",
+        "keywords": ["Social Technology", "Population Technology", "Demographic Innovation"]
+    },
+    {
+        "id": 7624,
+        "title": "Demographic Innovation for Inclusive Finance",
+        "domain": "111",
+        "description": "An initiative that develops financial solutions tailored to underrepresented demographics using innovative demographic methods.",
+        "keywords": ["Demographic Innovation", "Social Analytics", "Population Studies"]
+    },
+    {
+        "id": 7625,
+        "title": "Population Studies Simulation Platform",
+        "domain": "111",
+        "description": "A simulation platform that models various scenarios in population studies, from fertility shifts to migration crises.",
+        "keywords": ["Population Studies", "Population Modeling", "Demographic Systems"]
+    },
+    {
+        "id": 7626,
+        "title": "Demographic Analysis for Political Forecasting",
+        "domain": "111",
+        "description": "A tool that applies demographic analysis to predict political outcomes such as voter behavior and election results.",
+        "keywords": ["Demographic Analysis", "Social Statistics", "Population Research"]
+    },
+    {
+        "id": 7627,
+        "title": "Population Modeling for Climate Migration",
+        "domain": "111",
+        "description": "A population modeling system that predicts migration patterns caused by climate change, assisting humanitarian efforts.",
+        "keywords": ["Population Modeling", "Population Science", "Demographic Technology"]
+    },
+    {
+        "id": 7628,
+        "title": "Social Statistics Open Data Portal",
+        "domain": "111",
+        "description": "An open data portal that provides researchers and the public access to social statistics and demographic datasets.",
+        "keywords": ["Social Statistics", "Social Analytics", "Population Studies"]
+    },
+    {
+        "id": 7629,
+        "title": "Demographic Technology for Housing Policy",
+        "domain": "111",
+        "description": "A system that applies demographic technology to forecast housing demand, affordability trends, and urban expansion.",
+        "keywords": ["Demographic Technology", "Demographic Systems", "Population Research"]
+    },
+    {
+        "id": 7630,
+        "title": "Population Research AI Chatbot",
+        "domain": "111",
+        "description": "An AI-powered chatbot that answers questions about population trends and provides interactive insights for students and researchers.",
+        "keywords": ["Population Research", "Population Science", "Social Technology"]
+    },
+    {
+        "id": 7631,
+        "title": "Advanced Social Analytics Toolkit",
+        "domain": "111",
+        "description": "A toolkit that enables advanced social analytics for researchers, NGOs, and governments to study demographic impacts.",
+        "keywords": ["Social Analytics", "Demographic Innovation", "Population Studies"]
+    },
+    {
+        "id": 7632,
+        "title": "Demographic Systems for Transport Planning",
+        "domain": "111",
+        "description": "A demographic system that models population movement patterns to improve transportation infrastructure and services.",
+        "keywords": ["Demographic Systems", "Population Modeling", "Social Statistics"]
+    },
+    {
+        "id": 7633,
+        "title": "Population Science-Based Education Planner",
+        "domain": "111",
+        "description": "A population science-driven planner that predicts future educational needs based on demographic transitions.",
+        "keywords": ["Population Science", "Population Studies", "Demographic Technology"]
+    },
+    {
+        "id": 7634,
+        "title": "Next-Gen Social Technology for Mental Health",
+        "domain": "111",
+        "description": "A social technology system that combines demographic data with AI to provide tailored mental health resources.",
+        "keywords": ["Social Technology", "Population Research", "Demographic Systems"]
+    },
+    {
+        "id": 7635,
+        "title": "Demographic Innovation for Disaster Response",
+        "domain": "111",
+        "description": "A demographic innovation project that enhances disaster response by focusing on vulnerable population segments.",
+        "keywords": ["Demographic Innovation", "Demographic Analysis", "Social Analytics"]
+    },
+    {
+        "id": 7636,
+        "title": "Population Studies Data Warehouse",
+        "domain": "111",
+        "description": "A centralized data warehouse that consolidates datasets from global population studies for advanced research.",
+        "keywords": ["Population Studies", "Population Research", "Demographic Systems"]
+    },
+    {
+        "id": 7637,
+        "title": "Demographic Analysis for Poverty Reduction",
+        "domain": "111",
+        "description": "A project applying demographic analysis to identify poverty hotspots and suggest evidence-based poverty reduction programs.",
+        "keywords": ["Demographic Analysis", "Population Science", "Social Statistics"]
+    },
+    {
+        "id": 7638,
+        "title": "Population Modeling for Energy Planning",
+        "domain": "111",
+        "description": "A population modeling system that forecasts energy needs based on demographic growth and urbanization trends.",
+        "keywords": ["Population Modeling", "Demographic Systems", "Population Technology"]
+    },
+    {
+        "id": 7639,
+        "title": "Global Social Technology Exchange",
+        "domain": "111",
+        "description": "A platform that fosters international collaboration on social technology projects addressing demographic challenges.",
+        "keywords": ["Social Technology", "Demographic Innovation", "Population Studies"]
+    },
+    {
+        "id": 7640,
+        "title": "Demographic Systems for Agriculture Policy",
+        "domain": "111",
+        "description": "A demographic system that aligns agricultural planning with population growth, migration, and consumption trends.",
+        "keywords": ["Demographic Systems", "Population Science", "Social Analytics"]
+    },
+    {
+        "id": 7641,
+        "title": "Population Science for Urban Sustainability",
+        "domain": "111",
+        "description": "A project that applies population science to design sustainable cities, balancing growth with environmental conservation.",
+        "keywords": ["Population Science", "Demographic Technology", "Social Statistics"]
+    },
+    {
+        "id": 7642,
+        "title": "Inclusive Population Studies for Gender Equality",
+        "domain": "111",
+        "description": "A population studies project focused on gender equality by analyzing disparities in education, employment, and health.",
+        "keywords": ["Population Studies", "Demographic Analysis", "Social Analytics"]
+    },
+    {
+        "id": 7643,
+        "title": "AI-Powered Demographic Innovation Lab",
+        "domain": "111",
+        "description": "An AI-driven lab that develops new methodologies for demographic innovation in research and policy.",
+        "keywords": ["Demographic Innovation", "Population Research", "Population Technology"]
+    },
+    {
+        "id": 7644,
+        "title": "Social Analytics for Global Migration Trends",
+        "domain": "111",
+        "description": "A social analytics platform that studies global migration trends and their impact on economies and societies.",
+        "keywords": ["Social Analytics", "Population Science", "Demographic Systems"]
+    },
+    {
+        "id": 7645,
+        "title": "Demographic Technology for Smart Governance",
+        "domain": "111",
+        "description": "A demographic technology platform designed to strengthen governance by providing transparent, real-time demographic data.",
+        "keywords": ["Demographic Technology", "Demographic Innovation", "Social Statistics"]
+    },
+    {
+        "id": 7646,
+        "title": "Population Research for Pandemic Preparedness",
+        "domain": "111",
+        "description": "A research initiative that uses population data to improve pandemic preparedness and response strategies.",
+        "keywords": ["Population Research", "Population Modeling", "Social Technology"]
+    },
+    {
+        "id": 7647,
+        "title": "Next-Gen Population Studies AI Toolkit",
+        "domain": "111",
+        "description": "An AI toolkit that empowers researchers with predictive analytics and automated insights for population studies.",
+        "keywords": ["Population Studies", "Population Science", "Demographic Analysis"]
+    },
+    //domain-112
 
 
 
