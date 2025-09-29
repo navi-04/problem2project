@@ -52135,6 +52135,406 @@ const PROBLEMS_DATA = {
     "keywords": ["Weather Forecasting", "Weather Systems", "Atmospheric Prediction"]
 },
 //domain-110
+{
+    "id": 7537,
+    "title": "AI-Powered Disaster Forecasting Dashboard",
+    "domain": "110",
+    "description": "A dashboard system powered by AI and machine learning to predict natural disasters with high accuracy. It integrates historical climate and geological data to provide real-time disaster forecasting for governments and communities.",
+    "keywords": ["Disaster Forecasting", "Disaster Technology", "Disaster Innovation"]
+},
+{
+    "id": 7538,
+    "title": "IoT-Based Early Warning Systems",
+    "domain": "110",
+    "description": "An IoT-based early warning system that collects data from distributed sensors in flood, earthquake, and storm-prone areas to trigger automatic alerts for evacuation and safety measures.",
+    "keywords": ["Early Warning Systems", "Emergency Prediction", "Warning Systems"]
+},
+{
+    "id": 7539,
+    "title": "Risk Assessment AI Model",
+    "domain": "110",
+    "description": "A machine learning model designed to calculate and analyze disaster risks by assessing population density, geographical vulnerabilities, and resource availability, helping in effective risk assessment and mitigation planning.",
+    "keywords": ["Risk Assessment", "Risk Technology", "Disaster Management"]
+},
+{
+    "id": 7540,
+    "title": "Disaster Technology Simulation Platform",
+    "domain": "110",
+    "description": "A simulation platform for disaster scenarios like tsunamis, earthquakes, and floods that helps emergency authorities prepare strategies and optimize response efforts.",
+    "keywords": ["Disaster Technology", "Disaster Forecasting", "Disaster Management"]
+},
+{
+    "id": 7541,
+    "title": "Community-Based Warning Systems",
+    "domain": "110",
+    "description": "A localized early warning system that delivers disaster alerts through SMS, radio, and mobile apps, ensuring that even remote populations receive timely evacuation instructions.",
+    "keywords": ["Warning Systems", "Safety Systems", "Early Warning Systems"]
+},
+{
+    "id": 7542,
+    "title": "AI-Driven Disaster Prevention Network",
+    "domain": "110",
+    "description": "A predictive AI-driven prevention system that monitors environmental signals like seismic activity and rainfall to initiate preventive actions before disasters escalate.",
+    "keywords": ["Disaster Prevention", "Emergency Prediction", "Disaster Innovation"]
+},
+{
+    "id": 7543,
+    "title": "Smart Emergency Technology Integration",
+    "domain": "110",
+    "description": "A project to integrate emergency technologies like drones, IoT sensors, and AI forecasting tools into a unified platform to streamline disaster detection and response.",
+    "keywords": ["Emergency Technology", "Disaster Management", "Safety Systems"]
+},
+{
+    "id": 7544,
+    "title": "Next-Gen Safety Systems for Disaster Zones",
+    "domain": "110",
+    "description": "Developing advanced safety systems equipped with satellite connectivity and real-time monitoring to safeguard vulnerable regions from disasters.",
+    "keywords": ["Safety Systems", "Disaster Technology", "Risk Assessment"]
+},
+{
+    "id": 7545,
+    "title": "Automated Risk Technology Framework",
+    "domain": "110",
+    "description": "A framework that uses AI and big data analytics to assess real-time risks of natural disasters and dynamically update preparedness strategies.",
+    "keywords": ["Risk Technology", "Risk Assessment", "Disaster Innovation"]
+},
+{
+    "id": 7546,
+    "title": "Disaster Innovation Hub",
+    "domain": "110",
+    "description": "A collaborative platform that encourages innovation in disaster forecasting and prevention technologies by bringing together researchers, governments, and industries.",
+    "keywords": ["Disaster Innovation", "Disaster Forecasting", "Emergency Technology"]
+},
+{
+    "id": 7547,
+    "title": "Earthquake Early Warning Wearables",
+    "domain": "110",
+    "description": "Wearable devices that provide real-time earthquake early warnings using geosensor data, ensuring individual safety in high-risk areas.",
+    "keywords": ["Early Warning Systems", "Emergency Technology", "Safety Systems"]
+},
+{
+    "id": 7548,
+    "title": "AI-Powered Emergency Prediction Assistant",
+    "domain": "110",
+    "description": "A virtual assistant powered by AI that predicts emergency scenarios during natural disasters and provides step-by-step evacuation guidance.",
+    "keywords": ["Emergency Prediction", "Disaster Forecasting", "Disaster Management"]
+},
+{
+    "id": 7549,
+    "title": "Smart Flood Risk Mapping System",
+    "domain": "110",
+    "description": "A geospatial system that maps flood risks using satellite data, rainfall patterns, and river flow analysis to provide real-time risk assessment.",
+    "keywords": ["Risk Assessment", "Risk Technology", "Disaster Prevention"]
+},
+{
+    "id": 7550,
+    "title": "Drone-Based Warning Systems",
+    "domain": "110",
+    "description": "A disaster warning system that deploys drones to broadcast alerts in disaster-prone rural and urban areas with no network coverage.",
+    "keywords": ["Warning Systems", "Emergency Technology", "Disaster Innovation"]
+},
+{
+    "id": 7551,
+    "title": "AI-Powered Tsunami Forecasting",
+    "domain": "110",
+    "description": "A predictive system that uses seismic data and oceanic sensors to forecast tsunamis with higher accuracy and issue timely alerts.",
+    "keywords": ["Disaster Forecasting", "Early Warning Systems", "Emergency Prediction"]
+},
+{
+    "id": 7552,
+    "title": "Urban Risk Technology Monitor",
+    "domain": "110",
+    "description": "A smart monitoring system for urban cities that evaluates disaster risks like fire, flood, and structural collapse in real-time.",
+    "keywords": ["Risk Technology", "Safety Systems", "Risk Assessment"]
+},
+{
+    "id": 7553,
+    "title": "Smart Disaster Prevention Sensors",
+    "domain": "110",
+    "description": "A network of AI-driven IoT sensors installed in disaster-prone areas to identify early signs of landslides, earthquakes, and floods.",
+    "keywords": ["Disaster Prevention", "Emergency Prediction", "Disaster Technology"]
+},
+{
+    "id": 7554,
+    "title": "Satellite-Based Warning Systems",
+    "domain": "110",
+    "description": "A satellite-integrated disaster alert system capable of broadcasting early warnings globally, even in remote locations without internet.",
+    "keywords": ["Warning Systems", "Early Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7555,
+    "title": "AI-Enhanced Risk Assessment Dashboard",
+    "domain": "110",
+    "description": "A visual analytics dashboard that uses predictive algorithms to provide real-time risk assessment for hurricanes, floods, and earthquakes.",
+    "keywords": ["Risk Assessment", "Risk Technology", "Disaster Innovation"]
+},
+{
+    "id": 7556,
+    "title": "Smart Disaster Technology Hub",
+    "domain": "110",
+    "description": "An integrated hub combining IoT, drones, and AI forecasting technologies to enhance disaster prediction and emergency response efforts.",
+    "keywords": ["Disaster Technology", "Emergency Technology", "Disaster Management"]
+},
+{
+    "id": 7557,
+    "title": "AI-Backed Emergency Technology Platform",
+    "domain": "110",
+    "description": "A cloud-based platform that combines multiple emergency technologies to predict disasters, automate alerts, and suggest evacuation routes.",
+    "keywords": ["Emergency Technology", "Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7558,
+    "title": "Disaster Safety Communication Network",
+    "domain": "110",
+    "description": "A communication system that ensures uninterrupted broadcasting of disaster safety alerts through mesh networking and backup satellites.",
+    "keywords": ["Safety Systems", "Warning Systems", "Early Warning Systems"]
+},
+{
+    "id": 7559,
+    "title": "AI-Powered Landslide Forecasting",
+    "domain": "110",
+    "description": "A machine learning system that processes soil moisture data, rainfall patterns, and terrain instability to forecast landslides.",
+    "keywords": ["Disaster Forecasting", "Emergency Prediction", "Disaster Prevention"]
+},
+{
+    "id": 7560,
+    "title": "Disaster Management Analytics Platform",
+    "domain": "110",
+    "description": "An analytics system that provides real-time insights into disaster preparedness, relief planning, and post-disaster recovery.",
+    "keywords": ["Disaster Management", "Risk Assessment", "Disaster Technology"]
+},
+{
+    "id": 7561,
+    "title": "AI-Enhanced Cyclone Early Warning",
+    "domain": "110",
+    "description": "A cyclone prediction system using AI models on atmospheric data to provide early warnings and ensure safe evacuations.",
+    "keywords": ["Early Warning Systems", "Emergency Prediction", "Disaster Innovation"]
+},
+{
+    "id": 7562,
+    "title": "Smart Risk Technology Scanner",
+    "domain": "110",
+    "description": "A scanning system that analyzes infrastructure and environment in real-time to detect vulnerabilities and predict disaster risks.",
+    "keywords": ["Risk Technology", "Risk Assessment", "Safety Systems"]
+},
+{
+    "id": 7563,
+    "title": "Next-Gen Disaster Prevention AI",
+    "domain": "110",
+    "description": "An AI-driven prevention system that analyzes multi-source environmental data to stop disasters before they escalate.",
+    "keywords": ["Disaster Prevention", "Disaster Innovation", "Emergency Technology"]
+},
+{
+    "id": 7564,
+    "title": "Localized Warning Systems Hub",
+    "domain": "110",
+    "description": "A hub that delivers customized disaster warnings in local languages via community speakers and mobile notifications.",
+    "keywords": ["Warning Systems", "Early Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7565,
+    "title": "AI Risk Management Toolkit",
+    "domain": "110",
+    "description": "A toolkit for policymakers and organizations that provides AI-powered simulations for disaster risk assessment and management.",
+    "keywords": ["Risk Assessment", "Disaster Management", "Risk Technology"]
+},
+{
+    "id": 7566,
+    "title": "Smart Disaster Innovation Platform",
+    "domain": "110",
+    "description": "A platform that allows innovators to test and deploy disaster management prototypes for real-world impact.",
+    "keywords": ["Disaster Innovation", "Disaster Technology", "Emergency Technology"]
+},
+{
+    "id": 7567,
+    "title": "AI-Integrated Emergency Prediction Engine",
+    "domain": "110",
+    "description": "An engine that integrates AI with real-time sensor data to predict emergency scenarios during floods, earthquakes, and storms.",
+    "keywords": ["Emergency Prediction", "Disaster Forecasting", "Early Warning Systems"]
+},
+{
+    "id": 7568,
+    "title": "Advanced Safety Systems Grid",
+    "domain": "110",
+    "description": "A grid-based safety system that monitors neighborhoods with IoT nodes and instantly provides alerts when disaster signs are detected.",
+    "keywords": ["Safety Systems", "Warning Systems", "Emergency Technology"]
+},
+{
+    "id": 7569,
+    "title": "Disaster Forecasting Supercomputer",
+    "domain": "110",
+    "description": "A high-performance computing system dedicated to analyzing large-scale environmental datasets for disaster forecasting.",
+    "keywords": ["Disaster Forecasting", "Disaster Technology", "Risk Assessment"]
+},
+{
+    "id": 7570,
+    "title": "AI-Enhanced Emergency Technology Assistant",
+    "domain": "110",
+    "description": "A smart assistant that leverages AI to coordinate emergency technology deployment and provide critical alerts during disasters.",
+    "keywords": ["Emergency Technology", "Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7571,
+    "title": "Predictive Risk Technology Cloud",
+    "domain": "110",
+    "description": "A cloud-based predictive platform offering real-time disaster risk evaluations for organizations, governments, and communities.",
+    "keywords": ["Risk Technology", "Risk Assessment", "Disaster Management"]
+},
+{
+    "id": 7572,
+    "title": "Next-Gen Disaster Safety Platform",
+    "domain": "110",
+    "description": "An advanced safety platform that integrates disaster prediction, risk analysis, and communication technologies for crisis resilience.",
+    "keywords": ["Safety Systems", "Disaster Management", "Disaster Innovation"]
+},
+{
+    "id": 7573,
+    "title": "AI-Backed Wildfire Forecasting System",
+    "domain": "110",
+    "description": "A forecasting system that analyzes temperature, humidity, and vegetation data to predict wildfires and initiate safety alerts.",
+    "keywords": ["Disaster Forecasting", "Emergency Prediction", "Early Warning Systems"]
+},
+{
+    "id": 7574,
+    "title": "Disaster Prevention Drone Network",
+    "domain": "110",
+    "description": "A drone-based system that identifies early environmental triggers of disasters and communicates preventive measures to authorities.",
+    "keywords": ["Disaster Prevention", "Emergency Technology", "Disaster Innovation"]
+},
+{
+    "id": 7575,
+    "title": "Multi-Layer Warning Systems",
+    "domain": "110",
+    "description": "A multi-layer disaster warning system that integrates mobile, sirens, drones, and public announcements for wide-scale communication.",
+    "keywords": ["Warning Systems", "Early Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7576,
+    "title": "AI-Powered Risk Assessment Simulator",
+    "domain": "110",
+    "description": "A simulator that predicts disaster impacts based on environmental and human variables to improve risk assessment planning.",
+    "keywords": ["Risk Assessment", "Risk Technology", "Disaster Management"]
+},
+{
+    "id": 7577,
+    "title": "Disaster Innovation Collaboration Portal",
+    "domain": "110",
+    "description": "An online portal connecting researchers, startups, and governments to co-develop innovative disaster prevention and forecasting tools.",
+    "keywords": ["Disaster Innovation", "Disaster Forecasting", "Emergency Technology"]
+},
+{
+    "id": 7578,
+    "title": "AI-Powered Earthquake Forecasting System",
+    "domain": "110",
+    "description": "An earthquake forecasting platform that uses seismic waves, deep learning, and sensor data to issue rapid predictions.",
+    "keywords": ["Disaster Forecasting", "Emergency Prediction", "Early Warning Systems"]
+},
+{
+    "id": 7579,
+    "title": "Disaster Management Cloud Control",
+    "domain": "110",
+    "description": "A cloud control platform that enables real-time coordination of resources, alerts, and safety systems during disasters.",
+    "keywords": ["Disaster Management", "Emergency Technology", "Safety Systems"]
+},
+{
+    "id": 7580,
+    "title": "Smart Emergency Communication System",
+    "domain": "110",
+    "description": "A communication system using IoT and satellite technology to guarantee uninterrupted emergency alerts during disaster events.",
+    "keywords": ["Emergency Technology", "Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7581,
+    "title": "Predictive Disaster Risk Analyzer",
+    "domain": "110",
+    "description": "A predictive analyzer that evaluates community-level disaster risks using AI and big data for effective preparedness strategies.",
+    "keywords": ["Risk Assessment", "Risk Technology", "Disaster Management"]
+},
+{
+    "id": 7582,
+    "title": "AI-Powered Safety Systems Advisor",
+    "domain": "110",
+    "description": "An AI-powered advisor that evaluates disaster zones and recommends safety system upgrades for better preparedness.",
+    "keywords": ["Safety Systems", "Risk Assessment", "Disaster Innovation"]
+},
+{
+    "id": 7583,
+    "title": "Integrated Disaster Prevention Framework",
+    "domain": "110",
+    "description": "A prevention framework integrating AI models, IoT data, and simulation tools to reduce disaster impact proactively.",
+    "keywords": ["Disaster Prevention", "Emergency Prediction", "Risk Technology"]
+},
+{
+    "id": 7584,
+    "title": "Localized AI Warning Systems",
+    "domain": "110",
+    "description": "A localized disaster warning system enhanced with AI that adapts alerts based on region-specific risks and vulnerabilities.",
+    "keywords": ["Warning Systems", "Early Warning Systems", "Emergency Technology"]
+},
+{
+    "id": 7585,
+    "title": "Smart Disaster Risk Technology Cloud",
+    "domain": "110",
+    "description": "A cloud-based disaster risk technology platform offering predictive assessments for insurance companies and governments.",
+    "keywords": ["Risk Technology", "Risk Assessment", "Disaster Innovation"]
+},
+{
+    "id": 7586,
+    "title": "AI-Powered Multi-Disaster Forecasting",
+    "domain": "110",
+    "description": "A forecasting system capable of predicting multiple disaster types such as floods, earthquakes, and hurricanes simultaneously.",
+    "keywords": ["Disaster Forecasting", "Emergency Prediction", "Disaster Technology"]
+},
+{
+    "id": 7587,
+    "title": "Disaster Innovation Sandbox",
+    "domain": "110",
+    "description": "A sandbox environment for testing disaster innovation projects, allowing safe experimentation with predictive and preventive models.",
+    "keywords": ["Disaster Innovation", "Disaster Management", "Safety Systems"]
+},
+{
+    "id": 7588,
+    "title": "AI-Powered Emergency Response Predictor",
+    "domain": "110",
+    "description": "A predictor tool that helps emergency authorities pre-calculate disaster response needs like resources and evacuation zones.",
+    "keywords": ["Emergency Prediction", "Disaster Management", "Emergency Technology"]
+},
+{
+    "id": 7589,
+    "title": "Next-Gen Safety Systems Framework",
+    "domain": "110",
+    "description": "A framework for building adaptive safety systems that can respond to multiple types of natural disasters in real-time.",
+    "keywords": ["Safety Systems", "Emergency Technology", "Risk Assessment"]
+},
+{
+    "id": 7590,
+    "title": "AI-Powered Disaster Risk Governance",
+    "domain": "110",
+    "description": "A governance platform using AI to monitor and manage disaster risks, ensuring transparency and accountability in decision-making.",
+    "keywords": ["Risk Assessment", "Disaster Management", "Risk Technology"]
+},
+{
+    "id": 7591,
+    "title": "Cloud-Based Early Warning Systems",
+    "domain": "110",
+    "description": "A scalable cloud service for broadcasting disaster early warnings across multiple channels including SMS, email, and sirens.",
+    "keywords": ["Early Warning Systems", "Warning Systems", "Safety Systems"]
+},
+{
+    "id": 7592,
+    "title": "AI-Enhanced Fire Disaster Forecasting",
+    "domain": "110",
+    "description": "A fire forecasting system that uses climate, wind, and vegetation data to provide early warnings of wildfire risks.",
+    "keywords": ["Disaster Forecasting", "Emergency Prediction", "Disaster Prevention"]
+},
+{
+    "id": 7593,
+    "title": "Disaster Technology Command Center",
+    "domain": "110",
+    "description": "A centralized command center that integrates disaster technology tools for real-time monitoring and response coordination.",
+    "keywords": ["Disaster Technology", "Disaster Management", "Emergency Technology"]
+},
+//domain-111
 
 
 
