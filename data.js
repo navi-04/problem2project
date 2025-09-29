@@ -53356,6 +53356,336 @@ const PROBLEMS_DATA = {
         "keywords": ["Border Innovation", "Border Systems", "Immigration Technology"]
     },
     //domain-113
+    {
+        "id": 7711,
+        "title": "Neural Machine Translation Engine",
+        "domain": "113",
+        "description": "A deep learning-powered translation system that provides context-aware translations across multiple languages with high accuracy and fluency.",
+        "keywords": ["Machine Translation", "Translation AI", "Language Technology"]
+    },
+    {
+        "id": 7712,
+        "title": "Cross-cultural Chat Assistant",
+        "domain": "113",
+        "description": "An AI-driven multilingual chatbot designed for seamless cross-cultural communication in real-time conversations.",
+        "keywords": ["Cross-cultural Communication", "Translation Systems", "Language AI"]
+    },
+    {
+        "id": 7713,
+        "title": "Multilingual Customer Support Platform",
+        "domain": "113",
+        "description": "A customer support tool that automatically translates queries and responses across languages to ensure better customer experiences worldwide.",
+        "keywords": ["Translation AI", "Multilingual Technology", "Language Processing"]
+    },
+    {
+        "id": 7714,
+        "title": "Speech-to-Speech Translation Device",
+        "domain": "113",
+        "description": "A portable AI-powered translator that converts spoken language into another language instantly, enabling direct conversations between different language speakers.",
+        "keywords": ["Translation Systems", "Language Technology", "Machine Translation"]
+    },
+    {
+        "id": 7715,
+        "title": "Real-time Video Subtitle Translator",
+        "domain": "113",
+        "description": "An AI tool that generates multilingual subtitles for live or recorded videos, ensuring accessibility across diverse global audiences.",
+        "keywords": ["Language Processing", "Linguistic Technology", "Translation Innovation"]
+    },
+    {
+        "id": 7716,
+        "title": "Academic Research Translator",
+        "domain": "113",
+        "description": "A translation platform for academic papers, enabling researchers to share findings across linguistic boundaries with accurate technical terminology.",
+        "keywords": ["Language AI", "Machine Translation", "Language Systems"]
+    },
+    {
+        "id": 7717,
+        "title": "Tourism Language Companion",
+        "domain": "113",
+        "description": "A mobile app for travelers that translates menus, signs, and conversations in real time to simplify cross-cultural travel.",
+        "keywords": ["Translation Technology", "Cross-cultural Communication", "Multilingual Technology"]
+    },
+    {
+        "id": 7718,
+        "title": "Healthcare Translation System",
+        "domain": "113",
+        "description": "A language AI platform that helps doctors and patients communicate effectively across language barriers in healthcare settings.",
+        "keywords": ["Language Processing", "Translation Systems", "Communication Technology"]
+    },
+    {
+        "id": 7719,
+        "title": "Legal Document Translator",
+        "domain": "113",
+        "description": "An AI-powered system that translates legal documents while preserving context, formatting, and specialized terminology.",
+        "keywords": ["Translation AI", "Linguistic Technology", "Language Technology"]
+    },
+    {
+        "id": 7720,
+        "title": "Cultural Nuance Translation AI",
+        "domain": "113",
+        "description": "A translation engine that accounts for cultural nuances, idioms, and context to deliver natural cross-cultural communication.",
+        "keywords": ["Cross-cultural Communication", "Translation Innovation", "Language AI"]
+    },
+    {
+        "id": 7721,
+        "title": "Multilingual Code Documentation Tool",
+        "domain": "113",
+        "description": "A developer tool that generates multilingual programming documentation to enhance collaboration across global teams.",
+        "keywords": ["Language Systems", "Machine Translation", "Translation Technology"]
+    },
+    {
+        "id": 7722,
+        "title": "AI-based Literature Translator",
+        "domain": "113",
+        "description": "A translation system designed for novels and poetry, focusing on retaining literary style and cultural depth.",
+        "keywords": ["Translation Innovation", "Language Processing", "Linguistic Technology"]
+    },
+    {
+        "id": 7723,
+        "title": "Business Negotiation Translator",
+        "domain": "113",
+        "description": "An AI assistant for business meetings that provides live translations while adapting to formal tones and industry terms.",
+        "keywords": ["Cross-cultural Communication", "Translation Systems", "Language Technology"]
+    },
+    {
+        "id": 7724,
+        "title": "AI Multilingual Email Assistant",
+        "domain": "113",
+        "description": "A smart email tool that drafts and translates business emails into multiple languages with contextual accuracy.",
+        "keywords": ["Machine Translation", "Language AI", "Communication Technology"]
+    },
+    {
+        "id": 7725,
+        "title": "Emergency Response Translator",
+        "domain": "113",
+        "description": "A rapid translation system that enables emergency workers to communicate effectively with non-native speakers in crises.",
+        "keywords": ["Translation Systems", "Multilingual Technology", "Language Processing"]
+    },
+    {
+        "id": 7726,
+        "title": "E-learning Multilingual Platform",
+        "domain": "113",
+        "description": "An online education platform that offers real-time translations of lessons, quizzes, and discussions in multiple languages.",
+        "keywords": ["Translation AI", "Language Systems", "Multilingual Technology"]
+    },
+    {
+        "id": 7727,
+        "title": "Social Media Language Bridge",
+        "domain": "113",
+        "description": "An AI service that translates social media posts and comments into multiple languages while preserving informal tone and humor.",
+        "keywords": ["Translation Innovation", "Language Technology", "Communication Technology"]
+    },
+    {
+        "id": 7728,
+        "title": "Cross-border E-commerce Translator",
+        "domain": "113",
+        "description": "An AI tool that translates product descriptions, reviews, and support across languages for global e-commerce platforms.",
+        "keywords": ["Machine Translation", "Translation Systems", "Language Processing"]
+    },
+    {
+        "id": 7729,
+        "title": "Multilingual Podcast Translator",
+        "domain": "113",
+        "description": "An AI that translates and dubs podcasts into multiple languages while keeping speaker emotions intact.",
+        "keywords": ["Translation Technology", "Language AI", "Linguistic Technology"]
+    },
+    {
+        "id": 7730,
+        "title": "Diplomatic Communication Translator",
+        "domain": "113",
+        "description": "A secure language AI platform for translating diplomatic communications with cultural sensitivity and accuracy.",
+        "keywords": ["Cross-cultural Communication", "Translation Systems", "Language Technology"]
+    },
+    {
+        "id": 7731,
+        "title": "AI Multilingual Gaming Assistant",
+        "domain": "113",
+        "description": "A gaming tool that translates in-game chats and storylines for players from different language backgrounds.",
+        "keywords": ["Language Processing", "Translation AI", "Multilingual Technology"]
+    },
+    {
+        "id": 7732,
+        "title": "News Broadcast Translator",
+        "domain": "113",
+        "description": "An AI system that provides real-time translations for news channels, making information accessible across languages.",
+        "keywords": ["Language Technology", "Translation Systems", "Machine Translation"]
+    },
+    {
+        "id": 7733,
+        "title": "AI Song Lyric Translator",
+        "domain": "113",
+        "description": "A creative AI that translates song lyrics while retaining rhyme, rhythm, and cultural essence.",
+        "keywords": ["Translation Innovation", "Linguistic Technology", "Language Systems"]
+    },
+    {
+        "id": 7734,
+        "title": "Immersive Language Learning AI",
+        "domain": "113",
+        "description": "A tool that integrates translation AI into language learning, providing real-time translations and cultural explanations.",
+        "keywords": ["Translation AI", "Language Processing", "Communication Technology"]
+    },
+    {
+        "id": 7735,
+        "title": "Legal Courtroom Translator",
+        "domain": "113",
+        "description": "A real-time courtroom translator AI ensuring accurate translations of testimonies and proceedings.",
+        "keywords": ["Translation Systems", "Language Technology", "Linguistic Technology"]
+    },
+    {
+        "id": 7736,
+        "title": "Cross-cultural Marketing AI",
+        "domain": "113",
+        "description": "A translation tool for global marketers that adapts slogans and campaigns to diverse cultural contexts.",
+        "keywords": ["Cross-cultural Communication", "Translation Innovation", "Language AI"]
+    },
+    {
+        "id": 7737,
+        "title": "AI Religious Text Translator",
+        "domain": "113",
+        "description": "An AI-powered translator for religious scriptures, focusing on accurate preservation of meaning across languages.",
+        "keywords": ["Language Systems", "Translation Technology", "Machine Translation"]
+    },
+    {
+        "id": 7738,
+        "title": "AI Multilingual Research Platform",
+        "domain": "113",
+        "description": "A collaborative academic platform that translates and aligns research content in multiple languages.",
+        "keywords": ["Translation AI", "Language Technology", "Communication Technology"]
+    },
+    {
+        "id": 7739,
+        "title": "AI Real-time Interpreter",
+        "domain": "113",
+        "description": "A conference interpreter system powered by AI that provides simultaneous multilingual translations for global events.",
+        "keywords": ["Machine Translation", "Language AI", "Translation Systems"]
+    },
+    {
+        "id": 7740,
+        "title": "AI Multilingual Code Assistant",
+        "domain": "113",
+        "description": "A coding assistant that translates programming queries and documentation for developers across different languages.",
+        "keywords": ["Language Processing", "Translation Technology", "Linguistic Technology"]
+    },
+    {
+        "id": 7741,
+        "title": "AI Travel Guide Translator",
+        "domain": "113",
+        "description": "An AI app that provides multilingual translations of tourist guides, directions, and cultural tips.",
+        "keywords": ["Translation Systems", "Cross-cultural Communication", "Multilingual Technology"]
+    },
+    {
+        "id": 7742,
+        "title": "AI Multilingual Blogging Assistant",
+        "domain": "113",
+        "description": "A blogging tool that automatically translates blog posts into multiple languages to reach wider audiences.",
+        "keywords": ["Translation AI", "Language Systems", "Language Technology"]
+    },
+    {
+        "id": 7743,
+        "title": "AI Movie Dubbing Translator",
+        "domain": "113",
+        "description": "A dubbing system that translates and synchronizes movie dialogues into multiple languages while preserving tone.",
+        "keywords": ["Translation Innovation", "Language Processing", "Communication Technology"]
+    },
+    {
+        "id": 7744,
+        "title": "Global Scientific Collaboration Translator",
+        "domain": "113",
+        "description": "A multilingual platform for scientists to share and translate experimental data and findings seamlessly.",
+        "keywords": ["Machine Translation", "Language Technology", "Translation Systems"]
+    },
+    {
+        "id": 7745,
+        "title": "AI Cross-lingual Sentiment Analyzer",
+        "domain": "113",
+        "description": "A tool that translates and analyzes sentiments across languages for business and social media insights.",
+        "keywords": ["Language AI", "Translation Innovation", "Linguistic Technology"]
+    },
+    {
+        "id": 7746,
+        "title": "AI Multilingual Court Filing System",
+        "domain": "113",
+        "description": "A legal filing system that auto-translates submissions and judgments across languages for international courts.",
+        "keywords": ["Translation Systems", "Language Processing", "Communication Technology"]
+    },
+    {
+        "id": 7747,
+        "title": "AI Cross-cultural HR Assistant",
+        "domain": "113",
+        "description": "A human resources tool that translates resumes, interviews, and employee communications across global offices.",
+        "keywords": ["Cross-cultural Communication", "Language Systems", "Translation Technology"]
+    },
+    {
+        "id": 7748,
+        "title": "AI Multilingual Recipe Translator",
+        "domain": "113",
+        "description": "A food-tech translation system that translates recipes into multiple languages while adjusting measurements and ingredients culturally.",
+        "keywords": ["Translation AI", "Language Technology", "Linguistic Technology"]
+    },
+    {
+        "id": 7749,
+        "title": "AI Multilingual Virtual Assistant",
+        "domain": "113",
+        "description": "A voice assistant capable of understanding and responding in multiple languages for global user support.",
+        "keywords": ["Machine Translation", "Multilingual Technology", "Language AI"]
+    },
+    {
+        "id": 7750,
+        "title": "AI Translation for Online Marketplaces",
+        "domain": "113",
+        "description": "An e-commerce integration that translates listings, reviews, and buyer-seller communication across languages.",
+        "keywords": ["Translation Systems", "Language Technology", "Cross-cultural Communication"]
+    },
+    {
+        "id": 7751,
+        "title": "Multilingual Smart Classroom",
+        "domain": "113",
+        "description": "An education solution where lessons, notes, and interactions are auto-translated for students of different linguistic backgrounds.",
+        "keywords": ["Translation Innovation", "Language Processing", "Communication Technology"]
+    },
+    {
+        "id": 7752,
+        "title": "AI Multilingual Virtual Meeting Translator",
+        "domain": "113",
+        "description": "A meeting platform that provides instant translations of conversations and presentations across languages.",
+        "keywords": ["Language AI", "Translation Systems", "Language Technology"]
+    },
+    {
+        "id": 7753,
+        "title": "AI Global Job Application Translator",
+        "domain": "113",
+        "description": "A job portal feature that translates resumes and applications into multiple languages for international recruitment.",
+        "keywords": ["Cross-cultural Communication", "Translation AI", "Language Systems"]
+    },
+    {
+        "id": 7754,
+        "title": "AI Multilingual Patent Translator",
+        "domain": "113",
+        "description": "A specialized translation tool that ensures accurate multilingual patent filing and legal alignment.",
+        "keywords": ["Translation Systems", "Linguistic Technology", "Language Processing"]
+    },
+    {
+        "id": 7755,
+        "title": "Global Literature Archive Translator",
+        "domain": "113",
+        "description": "An AI-based system that digitizes and translates world literature into multiple languages for global accessibility.",
+        "keywords": ["Machine Translation", "Translation Innovation", "Language AI"]
+    },
+    {
+        "id": 7756,
+        "title": "AI Multilingual Collaboration Hub",
+        "domain": "113",
+        "description": "A collaboration hub that auto-translates team communication, tasks, and documents in real time for global teams.",
+        "keywords": ["Language Systems", "Translation Technology", "Communication Technology"]
+    },
+    {
+        "id": 7757,
+        "title": "AI Multilingual Public Service Translator",
+        "domain": "113",
+        "description": "A public service platform that provides real-time translations for government and civic interactions.",
+        "keywords": ["Translation AI", "Language Processing", "Multilingual Technology"]
+    },
+    //need add additional domain below 
 
 
 
