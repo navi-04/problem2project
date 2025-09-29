@@ -51440,6 +51440,365 @@ const PROBLEMS_DATA = {
     "keywords": ["Stationery Systems", "Office Technology", "Smart Office Supplies", "Productivity Tools"]
 },
 //domain-108
+{
+    "id": 7438,
+    "title": "IoT-Enabled Smart Gardening Assistant",
+    "domain": "108",
+    "description": "A system that integrates IoT devices and sensors to create a smart gardening assistant that monitors soil health, temperature, and moisture while automating tasks such as watering and fertilization. It ensures healthier plants with minimal human intervention.",
+    "keywords": ["Smart Gardening", "Garden Technology", "Plant Technology"]
+},
+{
+    "id": 7439,
+    "title": "Automated Irrigation Scheduler",
+    "domain": "108",
+    "description": "A project focused on designing an automated irrigation scheduler that uses environmental data and weather predictions to deliver water at optimal times. It reduces water wastage and improves plant health.",
+    "keywords": ["Automated Irrigation", "Garden Systems", "Horticultural Systems"]
+},
+{
+    "id": 7440,
+    "title": "AI-Based Horticultural Advisor",
+    "domain": "108",
+    "description": "A platform that leverages AI and horticultural databases to give gardeners customized advice on plant care, pest control, and optimal harvesting schedules, increasing productivity and plant vitality.",
+    "keywords": ["Horticulture Technology", "Gardening Innovation", "Plant Care Technology"]
+},
+{
+    "id": 7441,
+    "title": "Garden Robotics for Plant Maintenance",
+    "domain": "108",
+    "description": "An innovative robotic solution that automates common gardening tasks like pruning, soil turning, and fertilization. It provides precision and reduces manual labor in maintaining gardens and horticultural systems.",
+    "keywords": ["Garden Automation", "Gardening Equipment", "Smart Gardening"]
+},
+{
+    "id": 7442,
+    "title": "Cloud-Connected Plant Monitoring System",
+    "domain": "108",
+    "description": "A cloud-based system where sensors track plant health metrics such as sunlight exposure, soil pH, and humidity. Gardeners can monitor their garden remotely and get insights through a mobile app dashboard.",
+    "keywords": ["Plant Technology", "Garden Systems", "Smart Gardening"]
+},
+{
+    "id": 7443,
+    "title": "AI-Powered Crop and Plant Disease Detector",
+    "domain": "108",
+    "description": "A gardening system equipped with computer vision and AI algorithms to detect plant diseases and nutrient deficiencies early, ensuring timely intervention and improved horticultural outcomes.",
+    "keywords": ["Gardening Innovation", "Plant Care Technology", "Horticultural Systems"]
+},
+{
+    "id": 7444,
+    "title": "Sustainable Gardening with Automated Irrigation",
+    "domain": "108",
+    "description": "A sustainability-focused system that combines renewable energy sources with automated irrigation to support eco-friendly gardening practices, reducing carbon footprint and water waste.",
+    "keywords": ["Automated Irrigation", "Horticulture Technology", "Agricultural Technology"]
+},
+{
+    "id": 7445,
+    "title": "Voice-Controlled Garden Automation",
+    "domain": "108",
+    "description": "An innovative solution that integrates smart home assistants with garden automation, allowing users to control irrigation, lighting, and other gardening equipment via voice commands.",
+    "keywords": ["Garden Automation", "Gardening Equipment", "Smart Gardening"]
+},
+{
+    "id": 7446,
+    "title": "Precision Plant Care Technology",
+    "domain": "108",
+    "description": "A technology-driven project that enables precise plant care by combining soil nutrient analysis with automated fertilization and hydration. It improves crop yield and garden aesthetics.",
+    "keywords": ["Plant Care Technology", "Garden Technology", "Gardening Innovation"]
+},
+{
+    "id": 7447,
+    "title": "Next-Gen Gardening Equipment with IoT",
+    "domain": "108",
+    "description": "Development of modern gardening equipment embedded with IoT sensors for real-time tracking and control. It enhances traditional tools with connectivity and data-driven gardening insights.",
+    "keywords": ["Gardening Equipment", "Smart Gardening", "Agricultural Technology"]
+},
+{
+    "id": 7448,
+    "title": "Agricultural Technology for Urban Gardens",
+    "domain": "108",
+    "description": "A project aimed at adapting agricultural technology for small urban gardens and rooftop farming systems, focusing on space-efficient horticulture and food sustainability.",
+    "keywords": ["Agricultural Technology", "Garden Systems", "Horticulture Technology"]
+},
+{
+    "id": 7449,
+    "title": "AI Irrigation Optimizer",
+    "domain": "108",
+    "description": "A project to develop an AI-based irrigation optimizer that learns plant-specific water requirements and reduces resource usage by adapting schedules dynamically.",
+    "keywords": ["Automated Irrigation", "Smart Gardening", "Plant Technology"]
+},
+{
+    "id": 7450,
+    "title": "Smart Greenhouse Management System",
+    "domain": "108",
+    "description": "An intelligent greenhouse controller that automates irrigation, temperature regulation, and lighting, enabling year-round horticultural production.",
+    "keywords": ["Horticultural Systems", "Garden Automation", "Plant Care Technology"]
+},
+{
+    "id": 7451,
+    "title": "Gardening Innovation with Robotics",
+    "domain": "108",
+    "description": "A robotic gardening system that automates soil cultivation, seed planting, and weed removal, revolutionizing gardening efficiency and reducing manual labor.",
+    "keywords": ["Gardening Innovation", "Garden Technology", "Gardening Equipment"]
+},
+{
+    "id": 7452,
+    "title": "AI-Driven Fertilization Control",
+    "domain": "108",
+    "description": "A project that combines horticulture technology with AI to deliver targeted fertilization solutions, improving soil fertility and crop quality.",
+    "keywords": ["Horticulture Technology", "Plant Care Technology", "Garden Systems"]
+},
+{
+    "id": 7453,
+    "title": "Garden Automation with Drones",
+    "domain": "108",
+    "description": "Drone technology integrated into gardening for monitoring plant health, automated spraying, and soil analysis, making large-scale gardening efficient.",
+    "keywords": ["Garden Automation", "Plant Technology", "Agricultural Technology"]
+},
+{
+    "id": 7454,
+    "title": "Portable Smart Gardening Kit",
+    "domain": "108",
+    "description": "A portable gardening kit featuring automated irrigation, soil sensors, and compact tools, making gardening accessible for small spaces and beginners.",
+    "keywords": ["Smart Gardening", "Gardening Equipment", "Garden Systems"]
+},
+{
+    "id": 7455,
+    "title": "Plant Health Diagnostic Tool",
+    "domain": "108",
+    "description": "A diagnostic system that uses image recognition to identify plant health issues and recommend treatment plans for gardeners and horticulturalists.",
+    "keywords": ["Plant Care Technology", "Gardening Innovation", "Horticultural Systems"]
+},
+{
+    "id": 7456,
+    "title": "Solar-Powered Garden Irrigation",
+    "domain": "108",
+    "description": "A renewable energy project that utilizes solar power to drive automated irrigation systems, enabling eco-friendly gardening with sustainable practices.",
+    "keywords": ["Automated Irrigation", "Gardening Equipment", "Agricultural Technology"]
+},
+{
+    "id": 7457,
+    "title": "Data-Driven Gardening Analytics",
+    "domain": "108",
+    "description": "An analytics platform that collects garden data through IoT sensors and provides visual insights into plant growth trends, water usage, and soil quality.",
+    "keywords": ["Garden Technology", "Horticulture Technology", "Garden Systems"]
+},
+{
+    "id": 7458,
+    "title": "Remote-Controlled Garden Automation",
+    "domain": "108",
+    "description": "A gardening automation system that allows users to remotely control irrigation, lighting, and plant care equipment via a smartphone application.",
+    "keywords": ["Garden Automation", "Smart Gardening", "Gardening Equipment"]
+},
+{
+    "id": 7459,
+    "title": "Next-Gen Agricultural Technology in Gardening",
+    "domain": "108",
+    "description": "A futuristic gardening model that integrates precision agricultural technologies with horticulture to create highly productive gardens in limited spaces.",
+    "keywords": ["Agricultural Technology", "Gardening Innovation", "Plant Technology"]
+},
+{
+    "id": 7460,
+    "title": "Robotic Garden Weeding System",
+    "domain": "108",
+    "description": "A robotic system designed to autonomously identify and remove weeds without harming plants, enhancing garden productivity and reducing labor.",
+    "keywords": ["Garden Automation", "Gardening Equipment", "Plant Care Technology"]
+},
+{
+    "id": 7461,
+    "title": "Garden AI Companion",
+    "domain": "108",
+    "description": "A smart AI assistant that interacts with gardeners to suggest personalized plant care routines, schedules, and irrigation plans for optimized growth.",
+    "keywords": ["Smart Gardening", "Plant Care Technology", "Gardening Innovation"]
+},
+{
+    "id": 7462,
+    "title": "Water-Efficient Garden Irrigation",
+    "domain": "108",
+    "description": "An irrigation system that uses soil moisture sensors and weather data to deliver precise amounts of water, conserving resources and boosting yields.",
+    "keywords": ["Automated Irrigation", "Horticultural Systems", "Garden Systems"]
+},
+{
+    "id": 7463,
+    "title": "Digital Gardening Equipment Tracker",
+    "domain": "108",
+    "description": "A system that tracks and monitors gardening equipment usage, providing maintenance reminders and performance analytics for tools and devices.",
+    "keywords": ["Gardening Equipment", "Garden Technology", "Agricultural Technology"]
+},
+{
+    "id": 7464,
+    "title": "AI-Enhanced Garden Lighting",
+    "domain": "108",
+    "description": "A lighting system enhanced by AI to adjust brightness and timing according to plant growth needs, improving indoor and outdoor gardening outcomes.",
+    "keywords": ["Gardening Innovation", "Plant Technology", "Garden Systems"]
+},
+{
+    "id": 7465,
+    "title": "Horticulture Technology for Smart Farms",
+    "domain": "108",
+    "description": "Development of smart farms that use horticulture technology for integrated irrigation, fertilization, and crop monitoring systems.",
+    "keywords": ["Horticulture Technology", "Garden Automation", "Agricultural Technology"]
+},
+{
+    "id": 7466,
+    "title": "Garden Virtual Reality Simulator",
+    "domain": "108",
+    "description": "A VR simulator that helps gardeners plan, visualize, and design their gardens before implementation, providing innovative gardening experiences.",
+    "keywords": ["Gardening Innovation", "Garden Technology", "Plant Technology"]
+},
+{
+    "id": 7467,
+    "title": "AI-Powered Gardening Marketplace",
+    "domain": "108",
+    "description": "An online platform that connects gardeners with smart gardening equipment and provides AI-powered suggestions for horticultural solutions.",
+    "keywords": ["Smart Gardening", "Gardening Equipment", "Garden Systems"]
+},
+{
+    "id": 7468,
+    "title": "Self-Regulating Hydroponic Garden",
+    "domain": "108",
+    "description": "A hydroponic gardening system that self-regulates nutrient supply, water circulation, and lighting, ideal for indoor and urban gardening.",
+    "keywords": ["Garden Systems", "Horticultural Systems", "Plant Care Technology"]
+},
+{
+    "id": 7469,
+    "title": "Automated Irrigation for Rooftop Gardens",
+    "domain": "108",
+    "description": "A rooftop gardening solution that features automated irrigation systems optimized for limited water supply and high sunlight exposure.",
+    "keywords": ["Automated Irrigation", "Smart Gardening", "Garden Technology"]
+},
+{
+    "id": 7470,
+    "title": "AI-Driven Horticulture Education Platform",
+    "domain": "108",
+    "description": "An educational system that teaches gardeners modern horticultural practices using AI-guided tutorials, AR visualization, and interactive learning.",
+    "keywords": ["Horticulture Technology", "Gardening Innovation", "Plant Technology"]
+},
+{
+    "id": 7471,
+    "title": "Gardening Equipment Sharing Network",
+    "domain": "108",
+    "description": "A community platform that allows gardeners to share or rent smart gardening equipment, reducing costs and improving accessibility.",
+    "keywords": ["Gardening Equipment", "Garden Systems", "Agricultural Technology"]
+},
+{
+    "id": 7472,
+    "title": "AI Pest Control in Gardens",
+    "domain": "108",
+    "description": "A pest management system that uses AI and image recognition to detect harmful pests in gardens and recommend eco-friendly solutions.",
+    "keywords": ["Plant Care Technology", "Gardening Innovation", "Horticultural Systems"]
+},
+{
+    "id": 7473,
+    "title": "Garden Climate Control System",
+    "domain": "108",
+    "description": "An automated system to regulate garden climate factors such as humidity, light, and temperature, ensuring optimal plant growth.",
+    "keywords": ["Garden Automation", "Garden Technology", "Horticulture Technology"]
+},
+{
+    "id": 7474,
+    "title": "Agricultural Technology for Smart Nurseries",
+    "domain": "108",
+    "description": "A nursery-focused project that uses agricultural technology for automated irrigation, plant monitoring, and smart seedling care.",
+    "keywords": ["Agricultural Technology", "Plant Technology", "Gardening Equipment"]
+},
+{
+    "id": 7475,
+    "title": "AI-Powered Smart Plant Pots",
+    "domain": "108",
+    "description": "Smart plant pots with built-in soil sensors and automated irrigation capabilities, providing plant care insights via mobile applications.",
+    "keywords": ["Smart Gardening", "Plant Care Technology", "Garden Systems"]
+},
+{
+    "id": 7476,
+    "title": "Robotic Lawn and Garden Care",
+    "domain": "108",
+    "description": "A robotic system designed to mow lawns, trim edges, and maintain garden aesthetics automatically, saving time for gardeners.",
+    "keywords": ["Gardening Equipment", "Garden Automation", "Smart Gardening"]
+},
+{
+    "id": 7477,
+    "title": "Digital Twin for Gardens",
+    "domain": "108",
+    "description": "A digital twin technology application that replicates real-time garden conditions virtually, enabling predictive care and resource planning.",
+    "keywords": ["Garden Technology", "Gardening Innovation", "Plant Technology"]
+},
+{
+    "id": 7478,
+    "title": "Sustainable Aquaponic Garden System",
+    "domain": "108",
+    "description": "An aquaponic garden system that integrates fish farming with horticultural systems for sustainable food production in urban areas.",
+    "keywords": ["Horticultural Systems", "Garden Systems", "Agricultural Technology"]
+},
+{
+    "id": 7479,
+    "title": "Mobile Smart Gardening App",
+    "domain": "108",
+    "description": "A mobile app that integrates with smart gardening devices to provide reminders, control irrigation, and track plant growth progress.",
+    "keywords": ["Smart Gardening", "Garden Technology", "Plant Care Technology"]
+},
+{
+    "id": 7480,
+    "title": "AI-Optimized Composting System",
+    "domain": "108",
+    "description": "A composting system that uses AI to monitor decomposition, adjust moisture, and produce high-quality organic fertilizer efficiently.",
+    "keywords": ["Gardening Innovation", "Garden Systems", "Agricultural Technology"]
+},
+{
+    "id": 7481,
+    "title": "Horticulture Drone Monitoring",
+    "domain": "108",
+    "description": "Drone-based horticulture monitoring system that provides aerial insights into plant health, soil conditions, and irrigation efficiency.",
+    "keywords": ["Horticulture Technology", "Garden Automation", "Plant Technology"]
+},
+{
+    "id": 7482,
+    "title": "IoT Plant-to-Cloud Communication",
+    "domain": "108",
+    "description": "An IoT-based communication system where plants transmit real-time environmental data to the cloud, enabling predictive gardening care.",
+    "keywords": ["Plant Technology", "Smart Gardening", "Horticultural Systems"]
+},
+{
+    "id": 7483,
+    "title": "Next-Gen Hydroponic Gardening Equipment",
+    "domain": "108",
+    "description": "Advanced hydroponic gardening equipment with automated nutrient control, lighting systems, and water management solutions.",
+    "keywords": ["Gardening Equipment", "Garden Systems", "Horticulture Technology"]
+},
+{
+    "id": 7484,
+    "title": "AI Weather-Adaptive Irrigation System",
+    "domain": "108",
+    "description": "An irrigation system that adapts to real-time weather conditions using AI predictions, improving efficiency and reducing water waste.",
+    "keywords": ["Automated Irrigation", "Smart Gardening", "Garden Technology"]
+},
+{
+    "id": 7485,
+    "title": "Virtual Horticulture Lab",
+    "domain": "108",
+    "description": "A virtual lab that teaches horticultural practices with simulations of plant growth, irrigation techniques, and smart gardening methods.",
+    "keywords": ["Horticulture Technology", "Gardening Innovation", "Plant Care Technology"]
+},
+{
+    "id": 7486,
+    "title": "Garden Blockchain Marketplace",
+    "domain": "108",
+    "description": "A blockchain-powered marketplace for exchanging gardening tools, smart equipment, and horticultural solutions with traceable transactions.",
+    "keywords": ["Gardening Equipment", "Garden Systems", "Agricultural Technology"]
+},
+{
+    "id": 7487,
+    "title": "Smart Gardening AI Planner",
+    "domain": "108",
+    "description": "An AI planner that designs custom garden layouts, schedules automated irrigation, and monitors equipment usage for efficient gardening.",
+    "keywords": ["Smart Gardening", "Garden Automation", "Gardening Innovation"]
+},
+{
+    "id": 7488,
+    "title": "Horticultural Sensor Network",
+    "domain": "108",
+    "description": "A distributed sensor network that monitors soil, humidity, and temperature conditions to provide real-time horticultural insights.",
+    "keywords": ["Horticultural Systems", "Garden Technology", "Plant Technology"]
+},
+//domain-109
+
 
 
 
