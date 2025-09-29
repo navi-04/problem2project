@@ -49362,6 +49362,346 @@ const PROBLEMS_DATA = {
     "keywords": ["Ergonomic Design", "Smart Design", "Furniture Systems", "Furniture Innovation"]
 },
 //domain-102
+{
+    "id": 7142,
+    "title": "Automated Robotic Vacuum Cleaner",
+    "domain": "102",
+    "description": "Develop a robotic vacuum cleaner system with intelligent navigation, real-time obstacle detection, and efficient cleaning automation for residential and commercial spaces.",
+    "keywords": ["Automated Cleaning", "Cleaning Automation", "Cleaning Systems", "Cleaning Innovation"]
+},
+{
+    "id": 7143,
+    "title": "IoT-Enabled Sanitation Monitoring System",
+    "domain": "102",
+    "description": "Design an IoT-based sanitation system that tracks cleanliness levels, monitors disinfection schedules, and alerts maintenance staff for timely action.",
+    "keywords": ["Sanitation Systems", "Sanitation Technology", "Cleaning Systems", "Hygiene Technology"]
+},
+{
+    "id": 7144,
+    "title": "AI-Powered Hygiene Compliance Checker",
+    "domain": "102",
+    "description": "Build an AI-based compliance tool that monitors hygiene standards in workplaces, healthcare facilities, and restaurants using camera and sensor data.",
+    "keywords": ["Hygiene Technology", "Hygiene Systems", "Hygiene Engineering", "Cleaning Innovation"]
+},
+{
+    "id": 7145,
+    "title": "Self-Cleaning Public Restroom System",
+    "domain": "102",
+    "description": "Develop an automated sanitation system for public restrooms with self-cleaning surfaces, water-efficient flush systems, and touchless controls.",
+    "keywords": ["Sanitation Systems", "Cleaning Automation", "Hygiene Systems", "Sanitation Technology"]
+},
+{
+    "id": 7146,
+    "title": "Smart Sanitization Drone",
+    "domain": "102",
+    "description": "Create an autonomous drone system for sanitizing large public areas, stadiums, and transport facilities using AI-based route optimization.",
+    "keywords": ["Sanitization", "Cleaning Automation", "Cleaning Solutions", "Sanitation Technology"]
+},
+{
+    "id": 7147,
+    "title": "UV-C Based Cleaning Robot",
+    "domain": "102",
+    "description": "Develop a robotic cleaning device that uses UV-C light for chemical-free sanitization in hospitals, labs, and food industries.",
+    "keywords": ["Automated Cleaning", "Sanitization", "Hygiene Technology", "Cleaning Innovation"]
+},
+{
+    "id": 7148,
+    "title": "Automated Industrial Floor Scrubber",
+    "domain": "102",
+    "description": "Design a heavy-duty automated floor cleaning system with smart water management and adaptive scrubbing for factories and warehouses.",
+    "keywords": ["Cleaning Equipment", "Cleaning Systems", "Automated Cleaning", "Cleaning Automation"]
+},
+{
+    "id": 7149,
+    "title": "AI-Based Waste Sorting and Cleaning System",
+    "domain": "102",
+    "description": "Build an AI-powered sanitation technology that automatically sorts waste, recycles materials, and maintains hygiene in waste management facilities.",
+    "keywords": ["Sanitation Technology", "Cleaning Innovation", "Cleaning Solutions", "Hygiene Engineering"]
+},
+{
+    "id": 7150,
+    "title": "Smart Hygiene Dispenser System",
+    "domain": "102",
+    "description": "Develop an IoT-enabled hygiene system that dispenses sanitizers, soaps, and disinfectants automatically with usage tracking and refill alerts.",
+    "keywords": ["Hygiene Systems", "Sanitation Systems", "Hygiene Technology", "Cleaning Equipment"]
+},
+{
+    "id": 7151,
+    "title": "Touchless Elevator Sanitization System",
+    "domain": "102",
+    "description": "Create an automated elevator cleaning and sanitization system using UV sterilization and antimicrobial surfaces for public safety.",
+    "keywords": ["Sanitization", "Cleaning Automation", "Hygiene Systems", "Cleaning Innovation"]
+},
+{
+    "id": 7152,
+    "title": "AI-Powered Surface Cleaning Robot",
+    "domain": "102",
+    "description": "Design a robotic cleaning solution that detects high-contact surfaces and disinfects them regularly in offices, malls, and airports.",
+    "keywords": ["Automated Cleaning", "Cleaning Solutions", "Hygiene Engineering", "Cleaning Automation"]
+},
+{
+    "id": 7153,
+    "title": "Public Transport Hygiene Monitoring System",
+    "domain": "102",
+    "description": "Develop a sanitation monitoring system for buses and trains with real-time cleanliness status, automated disinfection, and hygiene reporting.",
+    "keywords": ["Sanitation Systems", "Hygiene Systems", "Sanitation Technology", "Cleaning Innovation"]
+},
+{
+    "id": 7154,
+    "title": "Robotic Kitchen Cleaning System",
+    "domain": "102",
+    "description": "Create a robotic cleaning solution for commercial kitchens with automated grease removal, floor sanitization, and equipment cleaning.",
+    "keywords": ["Cleaning Equipment", "Automated Cleaning", "Hygiene Engineering", "Cleaning Systems"]
+},
+{
+    "id": 7155,
+    "title": "AI-Based Smart Toilet System",
+    "domain": "102",
+    "description": "Develop a smart toilet with automated cleaning, air purification, and sanitation sensors for hygiene and water conservation.",
+    "keywords": ["Hygiene Systems", "Sanitation Systems", "Cleaning Automation", "Hygiene Technology"]
+},
+{
+    "id": 7156,
+    "title": "Industrial Sanitization Robot",
+    "domain": "102",
+    "description": "Build a robot designed for industrial cleaning that applies disinfectants, handles hazardous waste, and maintains hygiene standards.",
+    "keywords": ["Sanitization", "Cleaning Equipment", "Sanitation Technology", "Hygiene Engineering"]
+},
+{
+    "id": 7157,
+    "title": "IoT-Enabled Air Duct Cleaning System",
+    "domain": "102",
+    "description": "Create a cleaning automation system for HVAC air ducts with robotic inspection, dust removal, and sanitization features.",
+    "keywords": ["Cleaning Systems", "Cleaning Automation", "Cleaning Solutions", "Sanitation Systems"]
+},
+{
+    "id": 7158,
+    "title": "Smart Hospital Hygiene Robot",
+    "domain": "102",
+    "description": "Design a hospital-focused cleaning robot capable of sanitizing patient rooms, operating theaters, and common areas with AI precision.",
+    "keywords": ["Automated Cleaning", "Hygiene Systems", "Sanitization", "Sanitation Technology"]
+},
+{
+    "id": 7159,
+    "title": "Self-Cleaning Building Facade System",
+    "domain": "102",
+    "description": "Develop an automated cleaning system for high-rise building facades using drones and self-cleaning materials to reduce manual effort.",
+    "keywords": ["Cleaning Automation", "Cleaning Innovation", "Cleaning Equipment", "Cleaning Solutions"]
+},
+{
+    "id": 7160,
+    "title": "AI-Driven Hygiene Risk Assessment Tool",
+    "domain": "102",
+    "description": "Create a system that uses AI and IoT data to assess hygiene risks in workplaces and recommend preventive cleaning measures.",
+    "keywords": ["Hygiene Engineering", "Hygiene Systems", "Sanitation Technology", "Cleaning Innovation"]
+},
+{
+    "id": 7161,
+    "title": "Automated Swimming Pool Cleaning System",
+    "domain": "102",
+    "description": "Build a robotic pool cleaner that autonomously removes dirt, debris, and microbes while ensuring safe sanitization levels.",
+    "keywords": ["Automated Cleaning", "Cleaning Systems", "Sanitization", "Cleaning Equipment"]
+},
+{
+    "id": 7162,
+    "title": "Smart Disinfection Tunnel",
+    "domain": "102",
+    "description": "Develop a sanitation tunnel equipped with automated spray systems and UV disinfection to sanitize individuals entering public facilities.",
+    "keywords": ["Sanitation Systems", "Sanitization", "Hygiene Technology", "Cleaning Automation"]
+},
+{
+    "id": 7163,
+    "title": "AI-Powered Carpet Cleaning Robot",
+    "domain": "102",
+    "description": "Create a robotic carpet cleaning system with deep cleaning, stain detection, and automated sanitization features.",
+    "keywords": ["Cleaning Equipment", "Cleaning Solutions", "Automated Cleaning", "Hygiene Engineering"]
+},
+{
+    "id": 7164,
+    "title": "IoT-Enabled Waste Bin Sanitization System",
+    "domain": "102",
+    "description": "Design a smart waste bin cleaning system that monitors fill levels, sanitizes automatically, and reduces odor in urban spaces.",
+    "keywords": ["Sanitation Technology", "Cleaning Automation", "Hygiene Systems", "Cleaning Innovation"]
+},
+{
+    "id": 7165,
+    "title": "Smart Window Cleaning Robot",
+    "domain": "102",
+    "description": "Build an automated cleaning device for windows and glass facades with suction technology and real-time obstacle avoidance.",
+    "keywords": ["Cleaning Automation", "Cleaning Equipment", "Cleaning Innovation", "Cleaning Solutions"]
+},
+{
+    "id": 7166,
+    "title": "AI-Based Food Industry Hygiene System",
+    "domain": "102",
+    "description": "Develop a hygiene monitoring system for the food industry that ensures compliance with sanitation standards and automated cleaning routines.",
+    "keywords": ["Hygiene Systems", "Hygiene Technology", "Sanitation Systems", "Hygiene Engineering"]
+},
+{
+    "id": 7167,
+    "title": "Public Handrail Sanitization Robot",
+    "domain": "102",
+    "description": "Design a compact robotic cleaner that moves along escalator and stair handrails, applying disinfection automatically.",
+    "keywords": ["Sanitization", "Cleaning Automation", "Cleaning Solutions", "Hygiene Systems"]
+},
+{
+    "id": 7168,
+    "title": "IoT-Enabled Restroom Hygiene Tracker",
+    "domain": "102",
+    "description": "Develop an IoT solution that monitors restroom hygiene, automates cleaning schedules, and provides real-time cleanliness reports.",
+    "keywords": ["Sanitation Systems", "Hygiene Systems", "Cleaning Innovation", "Sanitation Technology"]
+},
+{
+    "id": 7169,
+    "title": "AI-Powered Laundry Automation System",
+    "domain": "102",
+    "description": "Build a fully automated laundry system with smart stain recognition, detergent optimization, and hygiene sanitization features.",
+    "keywords": ["Automated Cleaning", "Cleaning Equipment", "Cleaning Automation", "Hygiene Technology"]
+},
+{
+    "id": 7170,
+    "title": "Smart Vehicle Interior Sanitization System",
+    "domain": "102",
+    "description": "Create an automated system that sanitizes vehicle interiors using UV sterilization and air filtration for taxis, buses, and ride-shares.",
+    "keywords": ["Sanitization", "Cleaning Solutions", "Hygiene Systems", "Sanitation Technology"]
+},
+{
+    "id": 7171,
+    "title": "Robotic Gutter Cleaning System",
+    "domain": "102",
+    "description": "Develop an automated gutter cleaner that removes leaves, dirt, and microbial buildup to maintain sanitation and prevent blockages.",
+    "keywords": ["Cleaning Automation", "Cleaning Equipment", "Cleaning Systems", "Cleaning Innovation"]
+},
+{
+    "id": 7172,
+    "title": "AI-Powered Cleanroom Monitoring System",
+    "domain": "102",
+    "description": "Design an AI and IoT-based monitoring system for pharmaceutical and semiconductor cleanrooms ensuring compliance with hygiene standards.",
+    "keywords": ["Hygiene Technology", "Sanitation Systems", "Hygiene Engineering", "Cleaning Solutions"]
+},
+{
+    "id": 7173,
+    "title": "IoT-Based Street Sanitization Robot",
+    "domain": "102",
+    "description": "Develop a smart robotic system that sprays disinfectants and cleans public roads, ensuring sanitation in urban environments.",
+    "keywords": ["Sanitization", "Cleaning Automation", "Sanitation Technology", "Cleaning Equipment"]
+},
+{
+    "id": 7174,
+    "title": "Smart Office Hygiene Automation System",
+    "domain": "102",
+    "description": "Build an automated hygiene system for offices that monitors desk, chair, and air cleanliness with IoT-based sanitization.",
+    "keywords": ["Hygiene Systems", "Cleaning Innovation", "Sanitation Systems", "Cleaning Automation"]
+},
+{
+    "id": 7175,
+    "title": "AI-Enhanced Industrial Cleaning Drone",
+    "domain": "102",
+    "description": "Create a drone-based system for industrial cleaning and sanitization with intelligent navigation and precision spray technology.",
+    "keywords": ["Cleaning Equipment", "Sanitization", "Cleaning Automation", "Sanitation Technology"]
+},
+{
+    "id": 7176,
+    "title": "Self-Sterilizing Touchscreen Surfaces",
+    "domain": "102",
+    "description": "Develop touchscreen technology with built-in sterilization layers to prevent microbial transfer in ATMs, kiosks, and devices.",
+    "keywords": ["Hygiene Engineering", "Cleaning Innovation", "Hygiene Technology", "Cleaning Solutions"]
+},
+{
+    "id": 7177,
+    "title": "Smart Laundry Sanitization Robot",
+    "domain": "102",
+    "description": "Design a robot that sanitizes clothes and fabrics using UV and steam-based cleaning for households and hospitals.",
+    "keywords": ["Automated Cleaning", "Sanitization", "Cleaning Systems", "Hygiene Technology"]
+},
+{
+    "id": 7178,
+    "title": "AI-Based Hotel Hygiene System",
+    "domain": "102",
+    "description": "Develop a hotel-focused sanitation system with AI-powered room inspection, cleaning schedule automation, and hygiene reporting.",
+    "keywords": ["Sanitation Systems", "Cleaning Automation", "Hygiene Systems", "Cleaning Innovation"]
+},
+{
+    "id": 7179,
+    "title": "Smart School Hygiene Automation",
+    "domain": "102",
+    "description": "Create a school sanitation system that automates classroom disinfection, monitors washrooms, and ensures daily hygiene compliance.",
+    "keywords": ["Hygiene Systems", "Cleaning Equipment", "Sanitization", "Hygiene Engineering"]
+},
+{
+    "id": 7180,
+    "title": "IoT-Based Farming Equipment Sanitization",
+    "domain": "102",
+    "description": "Build a sanitation system for farms with automated cleaning and disinfection of equipment to maintain crop and livestock safety.",
+    "keywords": ["Sanitation Technology", "Cleaning Solutions", "Cleaning Automation", "Cleaning Equipment"]
+},
+{
+    "id": 7181,
+    "title": "Self-Cleaning Robot for Airports",
+    "domain": "102",
+    "description": "Develop an airport-focused robotic cleaning system with large-area sanitization and real-time navigation for passenger safety.",
+    "keywords": ["Automated Cleaning", "Cleaning Innovation", "Cleaning Systems", "Sanitization"]
+},
+{
+    "id": 7182,
+    "title": "Smart Gym Hygiene Monitoring System",
+    "domain": "102",
+    "description": "Design an IoT-enabled system for gyms to sanitize equipment automatically and monitor hygiene compliance in real-time.",
+    "keywords": ["Hygiene Systems", "Sanitation Systems", "Cleaning Automation", "Hygiene Technology"]
+},
+{
+    "id": 7183,
+    "title": "Autonomous Railway Sanitation Robot",
+    "domain": "102",
+    "description": "Build a railway cleaning robot that disinfects train coaches, restrooms, and waiting areas with smart scheduling.",
+    "keywords": ["Sanitization", "Cleaning Automation", "Cleaning Solutions", "Sanitation Systems"]
+},
+{
+    "id": 7184,
+    "title": "AI-Based Personal Hygiene Assistant",
+    "domain": "102",
+    "description": "Create a personal device that tracks handwashing frequency, reminds users about hygiene, and dispenses sanitizers automatically.",
+    "keywords": ["Hygiene Technology", "Cleaning Innovation", "Hygiene Systems", "Hygiene Engineering"]
+},
+{
+    "id": 7185,
+    "title": "Smart Shopping Mall Cleaning Robots",
+    "domain": "102",
+    "description": "Design robotic cleaning systems that sanitize large shopping malls with intelligent navigation and autonomous disinfection cycles.",
+    "keywords": ["Cleaning Equipment", "Automated Cleaning", "Sanitization", "Cleaning Automation"]
+},
+{
+    "id": 7186,
+    "title": "IoT-Powered Hygiene Certification System",
+    "domain": "102",
+    "description": "Develop a hygiene certification tool that uses IoT data to validate sanitation practices for restaurants, hotels, and offices.",
+    "keywords": ["Sanitation Technology", "Hygiene Engineering", "Hygiene Systems", "Cleaning Solutions"]
+},
+{
+    "id": 7187,
+    "title": "AI-Based Factory Hygiene Robot",
+    "domain": "102",
+    "description": "Create a robotic cleaning system for factories with automated disinfection, waste handling, and hygiene monitoring.",
+    "keywords": ["Automated Cleaning", "Sanitation Systems", "Cleaning Automation", "Cleaning Innovation"]
+},
+{
+    "id": 7188,
+    "title": "Smart Portable Sanitization Device",
+    "domain": "102",
+    "description": "Build a portable device that sanitizes small surfaces like keyboards, phones, and tools using UV and ionized air.",
+    "keywords": ["Sanitization", "Cleaning Equipment", "Hygiene Technology", "Cleaning Solutions"]
+},
+{
+    "id": 7189,
+    "title": "Self-Cleaning Smart Furniture",
+    "domain": "102",
+    "description": "Develop smart furniture with embedded cleaning systems that automatically sanitize seating areas and shared workspaces.",
+    "keywords": ["Cleaning Automation", "Cleaning Innovation", "Hygiene Systems", "Sanitation Technology"]
+},
+//domain-103
+
+
+
 
 
 
