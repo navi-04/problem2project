@@ -149,8 +149,8 @@
                         <div class="text-sm sm:text-base text-gray-600">Domains</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-xl sm:text-2xl md:text-3xl font-bold text-purple-600">Open Source</div>
-                        <div class="text-sm sm:text-base text-gray-600">Community</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-purple-600" id="total-keywords-about">500+</div>
+                        <div class="text-sm sm:text-base text-gray-600">Keywords</div>
                     </div>
                     <div class="text-center">
                         <div class="text-2xl sm:text-3xl font-bold text-pink-600">Global</div>
@@ -594,7 +594,7 @@
     <!-- Include JavaScript for dynamic problem count -->
     <script src="data.js"></script>
     <script>
-        // Update problem count dynamically
+        // Update problem count and keyword count dynamically
         document.addEventListener('DOMContentLoaded', async () => {
             try {
                 // Load problems data
@@ -608,8 +608,31 @@
                     const count = window.PROBLEMS_DATA.problems.length;
                     totalProblemsAbout.textContent = `${count}+`;
                 }
+                
+                // Calculate and update total domains count
+                const totalDomainsAbout = document.getElementById('total-domains-about');
+                if (totalDomainsAbout && window.DOMAINS) {
+                    const domainsCount = Object.keys(window.DOMAINS).length;
+                    totalDomainsAbout.textContent = `${domainsCount}+`;
+                }
+                
+                // Calculate and update total keywords count
+                const totalKeywordsAbout = document.getElementById('total-keywords-about');
+                if (totalKeywordsAbout && window.PROBLEMS_DATA && window.PROBLEMS_DATA.problems) {
+                    const keywordSet = new Set();
+                    window.PROBLEMS_DATA.problems.forEach(problem => {
+                        if (problem.keywords && Array.isArray(problem.keywords)) {
+                            problem.keywords.forEach(keyword => {
+                                keywordSet.add(keyword.toLowerCase().trim());
+                            });
+                        }
+                    });
+                    const uniqueKeywordsCount = keywordSet.size;
+                    totalKeywordsAbout.textContent = `${uniqueKeywordsCount}+`;
+                }
+                
             } catch (error) {
-                console.warn('Could not load dynamic problem count:', error);
+                console.warn('Could not load dynamic counts:', error);
             }
         });
     </script>

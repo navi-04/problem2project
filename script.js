@@ -447,6 +447,7 @@ class Problem2Project {
     }
 
     updateProblemCounts() {
+        // Update domain-specific problem counts
         Object.keys(this.domains).forEach(domainId => {
             const count = this.problems.filter(p => p.domain === domainId).length;
             const countElement = document.getElementById(`count-${domainId}`);
@@ -454,6 +455,28 @@ class Problem2Project {
                 countElement.textContent = `${count} problems`;
             }
         });
+        
+        // Update total domains count
+        const totalDomainsElement = document.getElementById('total-domains-about');
+        if (totalDomainsElement && window.DOMAINS) {
+            const domainsCount = Object.keys(window.DOMAINS).length;
+            totalDomainsElement.textContent = `${domainsCount}+`;
+        }
+        
+        // Update total keyword count in index page
+        const totalKeywordsElement = document.getElementById('total-keywords-about');
+        if (totalKeywordsElement && this.allProblems) {
+            const keywordSet = new Set();
+            this.allProblems.forEach(problem => {
+                if (problem.keywords && Array.isArray(problem.keywords)) {
+                    problem.keywords.forEach(keyword => {
+                        keywordSet.add(keyword.toLowerCase().trim());
+                    });
+                }
+            });
+            const uniqueKeywordsCount = keywordSet.size;
+            totalKeywordsElement.textContent = `${uniqueKeywordsCount}+`;
+        }
     }
 
     selectCategory(category, domain) {

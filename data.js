@@ -1247,7 +1247,414 @@ const DOMAINS = {
     iconGradient: "from-violet-500 to-purple-600",
     textColor: "violet-600",
     category: "ai"
-}
+},
+    "114": {
+        "name": "Humanitarian Technology / Aid Logistics",
+        "shortName": "Humanitarian Tech",
+        "description": "Technology for disaster relief, crisis mapping, refugee support, and efficient aid distribution.",
+        "icon": "fas fa-hands-helping",
+        "color": "pink",
+        "gradient": "from-pink-50 to-red-100",
+        "iconGradient": "from-pink-500 to-red-600",
+        "textColor": "pink-600",
+        "category": "social"
+    },
+    "115": {
+        "name": "Precision Agriculture / Smart Farming",
+        "shortName": "Precision Ag",
+        "description": "IoT, AI, and drones for optimized crop management, resource efficiency, and yield prediction.",
+        "icon": "fas fa-seedling",
+        "color": "green",
+        "gradient": "from-green-50 to-emerald-100",
+        "iconGradient": "from-green-500 to-emerald-600",
+        "textColor": "green-600",
+        "category": "agriculture"
+    },
+    "116": {
+        "name": "Food Safety / Traceability Systems",
+        "shortName": "Food Traceability",
+        "description": "Blockchain, sensors, and digital platforms for tracking food from farm-to-fork to ensure safety and prevent outbreaks.",
+        "icon": "fas fa-clipboard-check",
+        "color": "teal",
+        "gradient": "from-teal-50 to-cyan-100",
+        "iconGradient": "from-teal-500 to-cyan-600",
+        "textColor": "teal-600",
+        "category": "food"
+    },
+    "117": {
+        "name": "Acoustics / Noise Control Engineering",
+        "shortName": "Acoustic Engineering",
+        "description": "Design and analysis of sound, vibration, architectural acoustics, and active/passive noise reduction.",
+        "icon": "fas fa-volume-up",
+        "color": "indigo",
+        "gradient": "from-indigo-50 to-blue-100",
+        "iconGradient": "from-indigo-500 to-blue-600",
+        "textColor": "indigo-600",
+        "category": "physics"
+    },
+    "118": {
+        "name": "Plasma Technology / Surface Modification",
+        "shortName": "Plasma Tech",
+        "description": "Using ionized gas for material processing, surface coating, sterilization, and semiconductor manufacturing.",
+        "icon": "fas fa-atom",
+        "color": "orange",
+        "gradient": "from-orange-50 to-amber-100",
+        "iconGradient": "from-orange-500 to-amber-600",
+        "textColor": "orange-600",
+        "category": "materials"
+    },
+    "119": {
+        "name": "Cryogenics / Ultra-Low Temperature Systems",
+        "shortName": "Cryogenics",
+        "description": "Engineering systems for very low temperatures, used in superconductivity, rocketry, and biospecimen preservation.",
+        "icon": "fas fa-thermometer-empty",
+        "color": "sky",
+        "gradient": "from-sky-50 to-blue-50",
+        "iconGradient": "from-sky-500 to-blue-500",
+        "textColor": "sky-600",
+        "category": "physics"
+    },
+    "120": {
+        "name": "Lubrication Technology / Tribology",
+        "shortName": "Tribology",
+        "description": "The science and engineering of friction, wear, and lubrication in moving parts and machine elements.",
+        "icon": "fas fa-oil-can",
+        "color": "gray",
+        "gradient": "from-gray-50 to-slate-100",
+        "iconGradient": "from-gray-500 to-slate-600",
+        "textColor": "gray-600",
+        "category": "mechanical"
+    },
+    "121": {
+        "name": "Vacuum Technology / Controlled Environments",
+        "shortName": "Vacuum Tech",
+        "description": "Creating and maintaining partial and high vacuum for industrial processes, research, and space simulation.",
+        "icon": "fas fa-flask",
+        "color": "slate",
+        "gradient": "from-slate-50 to-neutral-100",
+        "iconGradient": "from-slate-500 to-neutral-600",
+        "textColor": "slate-600",
+        "category": "engineering"
+    },
+    "122": {
+        "name": "Filtration Technology / Separation Processes",
+        "shortName": "Separation Tech",
+        "description": "Design of systems for solid-liquid and gas-liquid separation, purification, and membrane technology.",
+        "icon": "fas fa-filter",
+        "color": "cyan",
+        "gradient": "from-cyan-50 to-teal-100",
+        "iconGradient": "from-cyan-500 to-teal-600",
+        "textColor": "cyan-600",
+        "category": "chemistry"
+    },
+    "123": {
+        "name": "Composite Materials / Advanced Composites",
+        "shortName": "Composites",
+        "description": "Engineering multi-phase materials (e.g., carbon fiber, fiberglass) for high-performance applications.",
+        "icon": "fas fa-layer-group",
+        "color": "lime",
+        "gradient": "from-lime-50 to-green-100",
+        "iconGradient": "from-lime-500 to-green-600",
+        "textColor": "lime-600",
+        "category": "materials"
+    },
+    "124": {
+        "name": "Non-Destructive Testing (NDT) / Inspection",
+        "shortName": "NDT & Inspection",
+        "description": "Techniques (ultrasound, X-ray, magnetic particle) to evaluate material properties without causing damage.",
+        "icon": "fas fa-search-dollar",
+        "color": "yellow",
+        "gradient": "from-yellow-50 to-amber-100",
+        "iconGradient": "from-yellow-500 to-amber-600",
+        "textColor": "yellow-600",
+        "category": "engineering"
+    },
+    "125": {
+        "name": "Modeling & Simulation / Computational Engineering",
+        "shortName": "Comp. Engineering",
+        "description": "Creating virtual models and simulations for designing, testing, and optimizing complex physical systems.",
+        "icon": "fas fa-project-diagram",
+        "color": "red",
+        "gradient": "from-red-50 to-pink-100",
+        "iconGradient": "from-red-500 to-pink-600",
+        "textColor": "red-600",
+        "category": "programming"
+    },
+    "126": {
+        "name": "Ergonomics / Human Factors Engineering",
+        "shortName": "Human Factors",
+        "description": "Designing systems and products to optimize human well-being and overall system performance.",
+        "icon": "fas fa-user-check",
+        "color": "fuchsia",
+        "gradient": "from-fuchsia-50 to-pink-100",
+        "iconGradient": "from-fuchsia-500 to-pink-600",
+        "textColor": "fuchsia-600",
+        "category": "design"
+    },
+    "127": {
+        "name": "Industrial Automation / Factory of the Future",
+        "shortName": "Industrial Automation",
+        "description": "Implementing robotics, IoT, and AI for smart, interconnected, and highly automated manufacturing.",
+        "icon": "fas fa-robot",
+        "color": "purple",
+        "gradient": "from-purple-50 to-indigo-100",
+        "iconGradient": "from-purple-500 to-indigo-600",
+        "textColor": "purple-600",
+        "category": "robotics"
+    },
+    "128": {
+        "name": "Tooling / Manufacturing Processes",
+        "shortName": "Tooling Tech",
+        "description": "Design and fabrication of molds, dies, fixtures, and advanced processes like CNC and additive manufacturing.",
+        "icon": "fas fa-cogs",
+        "color": "emerald",
+        "gradient": "from-emerald-50 to-teal-100",
+        "iconGradient": "from-emerald-500 to-teal-600",
+        "textColor": "emerald-600",
+        "category": "mechanical"
+    },
+    "129": {
+        "name": "Heat Transfer / Thermal Management",
+        "shortName": "Thermal Management",
+        "description": "Engineering solutions for heating, cooling, and temperature control in electronics, engines, and buildings.",
+        "icon": "fas fa-fire-alt",
+        "color": "rose",
+        "gradient": "from-rose-50 to-red-100",
+        "iconGradient": "from-rose-500 to-red-600",
+        "textColor": "rose-600",
+        "category": "physics"
+    },
+    "130": {
+        "name": "Corrosion Science / Materials Degradation",
+        "shortName": "Corrosion Science",
+        "description": "Study of material deterioration and development of protective coatings and inhibitors.",
+        "icon": "fas fa-burn",
+        "color": "amber",
+        "gradient": "from-amber-50 to-yellow-100",
+        "iconGradient": "from-amber-500 to-yellow-600",
+        "textColor": "amber-600",
+        "category": "materials"
+    },
+    "131": {
+        "name": "Adhesion Science / Bonding Technology",
+        "shortName": "Bonding Tech",
+        "description": "The physics and chemistry of joining materials using adhesives, focusing on interface strength and failure.",
+        "icon": "fas fa-link",
+        "color": "blue",
+        "gradient": "from-blue-50 to-sky-100",
+        "iconGradient": "from-blue-500 to-sky-600",
+        "textColor": "blue-600",
+        "category": "chemistry"
+    },
+    "132": {
+        "name": "Hydraulics / Pneumatics",
+        "shortName": "Fluid Power",
+        "description": "Using pressurized liquids (hydraulics) and gases (pneumatics) to transmit power in machinery and control systems.",
+        "icon": "fas fa-compress",
+        "color": "lime",
+        "gradient": "from-lime-50 to-yellow-100",
+        "iconGradient": "from-lime-500 to-yellow-600",
+        "textColor": "lime-600",
+        "category": "mechanical"
+    },
+    "133": {
+        "name": "Geographic Information Systems (GIS) / Mapping",
+        "shortName": "GIS & Mapping",
+        "description": "Systems for capturing, storing, analyzing, and presenting geographical data, crucial for planning and logistics.",
+        "icon": "fas fa-map-marked-alt",
+        "color": "green",
+        "gradient": "from-green-50 to-lime-100",
+        "iconGradient": "from-green-500 to-lime-600",
+        "textColor": "green-600",
+        "category": "data"
+    },
+    "134": {
+        "name": "Remote Sensing / Satellite Imaging",
+        "shortName": "Remote Sensing",
+        "description": "Data acquisition from a distance (e.g., satellites, drones) for environmental, earth, and defense applications.",
+        "icon": "fas fa-satellite-dish",
+        "color": "sky",
+        "gradient": "from-sky-50 to-cyan-100",
+        "iconGradient": "from-sky-500 to-cyan-600",
+        "textColor": "sky-600",
+        "category": "aerospace"
+    },
+    "135": {
+        "name": "Spectroscopy / Analytical Instrumentation",
+        "shortName": "Spectroscopy",
+        "description": "Studying the interaction of matter with electromagnetic radiation for chemical analysis and material characterization.",
+        "icon": "fas fa-lightbulb",
+        "color": "indigo",
+        "gradient": "from-indigo-50 to-purple-100",
+        "iconGradient": "from-indigo-500 to-purple-600",
+        "textColor": "indigo-600",
+        "category": "chemistry"
+    },
+    "136": {
+        "name": "Microfluidics / Lab-on-a-Chip",
+        "shortName": "Microfluidics",
+        "description": "Technology for manipulating small amounts of fluids in microscopic channels, used in diagnostics and drug screening.",
+        "icon": "fas fa-vial",
+        "color": "violet",
+        "gradient": "from-violet-50 to-fuchsia-100",
+        "iconGradient": "from-violet-500 to-fuchsia-600",
+        "textColor": "violet-600",
+        "category": "biotechnology"
+    },
+    "137": {
+        "name": "Flow Control / Valve Technology",
+        "shortName": "Flow Control",
+        "description": "Design and engineering of valves, regulators, and piping systems to manage fluid and gas transport in industrial systems.",
+        "icon": "fas fa-pump-soap",
+        "color": "brown",
+        "gradient": "from-amber-50 to-orange-100",
+        "iconGradient": "from-amber-700 to-orange-800",
+        "textColor": "amber-700",
+        "category": "mechanical"
+    },
+    "138": {
+        "name": "Energy Storage / Battery Technology",
+        "shortName": "Battery Tech",
+        "description": "Advancements in lithium-ion alternatives, solid-state batteries, and grid-scale energy storage solutions.",
+        "icon": "fas fa-battery-full",
+        "color": "yellow",
+        "gradient": "from-yellow-50 to-orange-100",
+        "iconGradient": "from-yellow-500 to-orange-600",
+        "textColor": "yellow-600",
+        "category": "energy"
+    },
+    "139": {
+        "name": "Power Electronics / Grid Systems",
+        "shortName": "Power Electronics",
+        "description": "Conversion and control of electrical power, essential for renewable energy integration and smart grids.",
+        "icon": "fas fa-bolt",
+        "color": "red",
+        "gradient": "from-red-50 to-rose-100",
+        "iconGradient": "from-red-500 to-rose-600",
+        "textColor": "red-600",
+        "category": "electronics"
+    },
+    "140": {
+        "name": "Computational Fluid Dynamics (CFD)",
+        "shortName": "CFD",
+        "description": "Numerical analysis of fluid flow, heat transfer, and related phenomena using powerful computing resources.",
+        "icon": "fas fa-wind",
+        "color": "blue",
+        "gradient": "from-blue-50 to-indigo-100",
+        "iconGradient": "from-blue-500 to-indigo-600",
+        "textColor": "blue-600",
+        "category": "programming"
+    },
+    "141": {
+        "name": "Structural Engineering / Bridge & Dam Systems",
+        "shortName": "Structural Eng.",
+        "description": "Design and analysis of civil structures to withstand loads and environmental conditions, ensuring safety and durability.",
+        "icon": "fas fa-archway",
+        "color": "gray",
+        "gradient": "from-gray-50 to-slate-100",
+        "iconGradient": "from-gray-500 to-slate-600",
+        "textColor": "gray-600",
+        "category": "civil"
+    },
+    "142": {
+        "name": "Seismology / Earthquake Engineering",
+        "shortName": "Seismic Eng.",
+        "description": "The study of earthquakes and the design of earthquake-resistant structures and early warning systems.",
+        "icon": "fas fa-house-damage",
+        "color": "rose",
+        "gradient": "from-rose-50 to-pink-100",
+        "iconGradient": "from-rose-500 to-pink-600",
+        "textColor": "rose-600",
+        "category": "civil"
+    },
+    "143": {
+        "name": "Traffic Engineering / Mobility Solutions",
+        "shortName": "Traffic Eng.",
+        "description": "Designing, managing, and optimizing traffic flow using smart signals, sensor data, and urban planning.",
+        "icon": "fas fa-traffic-light",
+        "color": "teal",
+        "gradient": "from-teal-50 to-green-100",
+        "iconGradient": "from-teal-500 to-green-600",
+        "textColor": "teal-600",
+        "category": "transportation"
+    },
+    "144": {
+        "name": "Public Safety Communication / TETRA",
+        "shortName": "Public Safety Comms",
+        "description": "Secure and reliable communication networks for emergency services, law enforcement, and disaster response.",
+        "icon": "fas fa-broadcast-tower",
+        "color": "orange",
+        "gradient": "from-orange-50 to-red-100",
+        "iconGradient": "from-orange-500 to-red-600",
+        "textColor": "orange-600",
+        "category": "telecom"
+    },
+    "145": {
+        "name": "Data Visualization / Infographics",
+        "shortName": "Data Viz",
+        "description": "The art and science of presenting complex data and insights visually for clear understanding.",
+        "icon": "fas fa-chart-area",
+        "color": "purple",
+        "gradient": "from-purple-50 to-fuchsia-100",
+        "iconGradient": "from-purple-500 to-fuchsia-600",
+        "textColor": "purple-600",
+        "category": "data"
+    },
+    "146": {
+        "name": "Scientific Computing / High-Performance Computing",
+        "shortName": "HPC",
+        "description": "Using supercomputers and parallel processing for massive scientific and engineering calculations.",
+        "icon": "fas fa-server",
+        "color": "lime",
+        "gradient": "from-lime-50 to-emerald-100",
+        "iconGradient": "from-lime-500 to-emerald-600",
+        "textColor": "lime-600",
+        "category": "programming"
+    },
+    "147": {
+        "name": "Digital Archiving / Preservation Technology",
+        "shortName": "Digital Preservation",
+        "description": "Strategies and technologies for the long-term storage, authenticity, and accessibility of digital assets.",
+        "icon": "fas fa-hdd",
+        "color": "slate",
+        "gradient": "from-slate-50 to-gray-100",
+        "iconGradient": "from-slate-500 to-gray-600",
+        "textColor": "slate-600",
+        "category": "library"
+    },
+    "148": {
+    "name": "Ethical Hacking / Penetration Testing",
+    "shortName": "Pen Testing",
+    "description": "Proactively testing and reporting security vulnerabilities in systems under controlled, legal conditions.",
+    "icon": "fas fa-user-secret",
+    "color": "emerald",
+    "gradient": "from-emerald-50 to-teal-100",
+    "iconGradient": "from-emerald-500 to-teal-600",
+    "textColor": "emerald-600",
+    "category": "security"
+},
+    "149": {
+        "name": "Supply Chain Visibility / Digital Tracking",
+        "shortName": "SCM Visibility",
+        "description": "Real-time tracking of goods, inventory, and logistics using IoT, GPS, and digital twin models.",
+        "icon": "fas fa-route",
+        "color": "cyan",
+        "gradient": "from-cyan-50 to-sky-100",
+        "iconGradient": "from-cyan-500 to-sky-600",
+        "textColor": "cyan-600",
+        "category": "supplychain"
+    },
+    "150": {
+        "name": "Financial Modeling / Risk Analysis",
+        "shortName": "Fin. Modeling",
+        "description": "Creating quantitative models to forecast financial outcomes, assess risk, and support strategic business decisions.",
+        "icon": "fas fa-chart-line",
+        "color": "emerald",
+        "gradient": "from-emerald-50 to-green-100",
+        "iconGradient": "from-emerald-500 to-green-600",
+        "textColor": "emerald-600",
+        "category": "finance"
+    }
 
 };
 
@@ -2161,7 +2568,488 @@ const DOMAIN_KEYWORDS = {
         "Language Technology", "Translation Systems", "Multilingual Technology", "Language AI",
         "Translation Innovation", "Language Systems", "Communication Technology", "Linguistic Technology"
     ]
-}
+},
+    "Humanitarian Technology / Aid Logistics": {
+        "domain": "Humanitarian Technology / Aid Logistics",
+        "keywords": [
+            "Disaster Relief Tech",
+            "Aid Logistics",
+            "Crisis Mapping",
+            "Refugee Support Systems",
+            "Humanitarian Data",
+            "Emergency Communication",
+            "Supply Chain Resilience",
+            "Civic Tech"
+        ]
+    },
+    "Precision Agriculture / Smart Farming": {
+        "domain": "Precision Agriculture / Smart Farming",
+        "keywords": [
+            "IoT in Agriculture",
+            "AI Farming",
+            "Crop Optimization",
+            "Soil Sensing",
+            "Drone Farming",
+            "Yield Prediction",
+            "Variable Rate Application",
+            "Agri-Robotics"
+        ]
+    },
+    "Food Safety / Traceability Systems": {
+        "domain": "Food Safety / Traceability Systems",
+        "keywords": [
+            "Food Traceability",
+            "Blockchain for Food",
+            "Supply Chain Transparency",
+            "Food Quality Sensors",
+            "Cold Chain Monitoring",
+            "HACCP Automation",
+            "Food Recall Management",
+            "Serialization"
+        ]
+    },
+    "Acoustics / Noise Control Engineering": {
+        "domain": "Acoustics / Noise Control Engineering",
+        "keywords": [
+            "Noise Reduction",
+            "Architectural Acoustics",
+            "Vibration Isolation",
+            "Acoustic Modeling",
+            "Soundscape Design",
+            "Ultrasonics",
+            "Active Noise Control",
+            "Audio Engineering"
+        ]
+    },
+    "Plasma Technology / Surface Modification": {
+        "domain": "Plasma Technology / Surface Modification",
+        "keywords": [
+            "Low-Temperature Plasma",
+            "Plasma Etching",
+            "Surface Coating",
+            "Thin Film Deposition",
+            "Plasma Sterilization",
+            "Semiconductor Processing",
+            "Material Activation",
+            "Ion Implantation"
+        ]
+    },
+    "Cryogenics / Ultra-Low Temperature Systems": {
+        "domain": "Cryogenics / Ultra-Low Temperature Systems",
+        "keywords": [
+            "Cryocoolers",
+            "Superconductivity",
+            "Liquefied Gas Storage",
+            "Cryopreservation",
+            "Space Cryogenics",
+            "Low-Temperature Physics",
+            "Cryogenic Machining",
+            "Quantum Cooling"
+        ]
+    },
+    "Lubrication Technology / Tribology": {
+        "domain": "Lubrication Technology / Tribology",
+        "keywords": [
+            "Friction Science",
+            "Wear Mechanisms",
+            "Lubricant Additives",
+            "Machine Element Analysis",
+            "Condition Monitoring",
+            "Oil Analysis",
+            "Biotribology",
+            "Surface Engineering"
+        ]
+    },
+    "Vacuum Technology / Controlled Environments": {
+        "domain": "Vacuum Technology / Controlled Environments",
+        "keywords": [
+            "High Vacuum",
+            "Ultra-High Vacuum",
+            "Vacuum Pumps",
+            "Cleanroom Design",
+            "Particle Contamination Control",
+            "Space Simulation",
+            "Vacuum Gauges",
+            "Controlled Atmosphere"
+        ]
+    },
+    "Filtration Technology / Separation Processes": {
+        "domain": "Filtration Technology / Separation Processes",
+        "keywords": [
+            "Membrane Separation",
+            "Microfiltration",
+            "Reverse Osmosis",
+            "Air Filtration",
+            "Water Purification",
+            "Solid-Liquid Separation",
+            "Chromatography",
+            "Mass Transfer"
+        ]
+    },
+    "Composite Materials / Advanced Composites": {
+        "domain": "Composite Materials / Advanced Composites",
+        "keywords": [
+            "Carbon Fiber Reinforced Polymer",
+            "Fiberglass",
+            "Composite Manufacturing",
+            "Laminate Theory",
+            "Nanocomposites",
+            "Composite Repair",
+            "Hybrid Materials",
+            "Lightweight Structures"
+        ]
+    },
+    "Non-Destructive Testing (NDT) / Inspection": {
+        "domain": "Non-Destructive Testing (NDT) / Inspection",
+        "keywords": [
+            "Ultrasonic Testing",
+            "X-Ray Inspection",
+            "Magnetic Particle Testing",
+            "Eddy Current Testing",
+            "Acoustic Emission",
+            "Infrared Thermography",
+            "Structural Health Monitoring",
+            "Material Flaw Detection"
+        ]
+    },
+    "Modeling & Simulation / Computational Engineering": {
+        "domain": "Modeling & Simulation / Computational Engineering",
+        "keywords": [
+            "Finite Element Analysis (FEA)",
+            "Computational Modeling",
+            "Digital Twin Simulation",
+            "Multiphysics Analysis",
+            "Virtual Prototyping",
+            "System Dynamics",
+            "Mathematical Simulation",
+            "Verification and Validation"
+        ]
+    },
+    "Ergonomics / Human Factors Engineering": {
+        "domain": "Ergonomics / Human Factors Engineering",
+        "keywords": [
+            "Human-Machine Interface (HMI)",
+            "Cognitive Ergonomics",
+            "Physical Ergonomics",
+            "Usability Testing",
+            "Workplace Design",
+            "Safety Engineering",
+            "Anthropometry",
+            "User Experience (UX)"
+        ]
+    },
+    "Industrial Automation / Factory of the Future": {
+        "domain": "Industrial Automation / Factory of the Future",
+        "keywords": [
+            "Industry 4.0",
+            "Programmable Logic Controllers (PLC)",
+            "SCADA Systems",
+            "Manufacturing Execution System (MES)",
+            "Cobots",
+            "Digital Manufacturing",
+            "Process Control",
+            "Smart Factory"
+        ]
+    },
+    "Tooling / Manufacturing Processes": {
+        "domain": "Tooling / Manufacturing Processes",
+        "keywords": [
+            "CNC Machining",
+            "Injection Molding",
+            "Die Casting",
+            "Press Tools",
+            "Jigs and Fixtures",
+            "Metrology",
+            "Rapid Prototyping",
+            "Additive Tooling"
+        ]
+    },
+    "Heat Transfer / Thermal Management": {
+        "domain": "Heat Transfer / Thermal Management",
+        "keywords": [
+            "Convection",
+            "Conduction",
+            "Radiation Heat Transfer",
+            "Thermal Modeling",
+            "Heat Sinks",
+            "Phase Change Materials",
+            "Cooling Systems",
+            "HVAC Design"
+        ]
+    },
+    "Corrosion Science / Materials Degradation": {
+        "domain": "Corrosion Science / Materials Degradation",
+        "keywords": [
+            "Corrosion Prevention",
+            "Cathodic Protection",
+            "Protective Coatings",
+            "Stress Corrosion Cracking",
+            "Oxidation",
+            "Materials Durability",
+            "Degradation Modeling",
+            "Electrochemistry"
+        ]
+    },
+    "Adhesion Science / Bonding Technology": {
+        "domain": "Adhesion Science / Bonding Technology",
+        "keywords": [
+            "Adhesives and Sealants",
+            "Surface Preparation",
+            "Interfacial Chemistry",
+            "Joint Strength",
+            "Wettability",
+            "Cohesion vs Adhesion",
+            "Polymer Bonding",
+            "Non-Mechanical Joining"
+        ]
+    },
+    "Hydraulics / Pneumatics": {
+        "domain": "Hydraulics / Pneumatics",
+        "keywords": [
+            "Fluid Power",
+            "Hydraulic Pumps",
+            "Pneumatic Actuators",
+            "Control Valves",
+            "Fluid Mechanics",
+            "Power Transmission",
+            "Compressor Systems",
+            "Pressure Systems"
+        ]
+    },
+    "Geographic Information Systems (GIS) / Mapping": {
+        "domain": "Geographic Information Systems (GIS) / Mapping",
+        "keywords": [
+            "Spatial Analysis",
+            "Geospatial Data",
+            "Cartography",
+            "Digital Mapping",
+            "Geocoding",
+            "Remote Sensing Integration",
+            "Location Intelligence",
+            "Vector and Raster Data"
+        ]
+    },
+    "Remote Sensing / Satellite Imaging": {
+        "domain": "Remote Sensing / Satellite Imaging",
+        "keywords": [
+            "Satellite Imagery Analysis",
+            "Lidar",
+            "Photogrammetry",
+            "Hyperspectral Imaging",
+            "Radar Technology",
+            "Earth Observation",
+            "Image Classification",
+            "Spectral Signatures"
+        ]
+    },
+    "Spectroscopy / Analytical Instrumentation": {
+        "domain": "Spectroscopy / Analytical Instrumentation",
+        "keywords": [
+            "Mass Spectrometry",
+            "NMR Spectroscopy",
+            "Infrared (IR) Spectroscopy",
+            "Chemical Analysis",
+            "Material Characterization",
+            "Optical Sensors",
+            "Absorption and Emission",
+            "Raman Spectroscopy"
+        ]
+    },
+    "Microfluidics / Lab-on-a-Chip": {
+        "domain": "Microfluidics / Lab-on-a-Chip",
+        "keywords": [
+            "Microchannel Devices",
+            "Point-of-Care Diagnostics",
+            "Miniaturized Assays",
+            "Droplet Microfluidics",
+            "BioMEMS",
+            "Fluid Pumping",
+            "Capillary Electrophoresis",
+            "Sample Preparation"
+        ]
+    },
+    "Flow Control / Valve Technology": {
+        "domain": "Flow Control / Valve Technology",
+        "keywords": [
+            "Control Valves",
+            "Regulators",
+            "Piping Systems",
+            "Fluid Dynamics",
+            "Process Instrumentation",
+            "Actuators",
+            "Solenoid Valves",
+            "Pressure Control"
+        ]
+    },
+    "Energy Storage / Battery Technology": {
+        "domain": "Energy Storage / Battery Technology",
+        "keywords": [
+            "Lithium-ion Batteries",
+            "Solid-State Batteries",
+            "Flow Batteries",
+            "Grid Storage",
+            "Battery Management Systems (BMS)",
+            "Energy Density",
+            "Battery Recycling",
+            "Supercapacitors"
+        ]
+    },
+    "Power Electronics / Grid Systems": {
+        "domain": "Power Electronics / Grid Systems",
+        "keywords": [
+            "Inverters and Converters",
+            "HVDC Transmission",
+            "Smart Grid Technology",
+            "Power Semiconductor Devices",
+            "Renewable Energy Integration",
+            "Grid Stability",
+            "Microgrids",
+            "Flexible AC Transmission Systems (FACTS)"
+        ]
+    },
+    "Computational Fluid Dynamics (CFD)": {
+        "domain": "Computational Fluid Dynamics (CFD)",
+        "keywords": [
+            "Fluid Flow Simulation",
+            "Mesh Generation",
+            "Turbulence Modeling",
+            "Navier-Stokes Equations",
+            "Aerodynamics",
+            "Heat Transfer Modeling",
+            "Finite Volume Method",
+            "Numerical Analysis"
+        ]
+    },
+    "Structural Engineering / Bridge & Dam Systems": {
+        "domain": "Structural Engineering / Bridge & Dam Systems",
+        "keywords": [
+            "Structural Analysis",
+            "Bridge Design",
+            "Dam Engineering",
+            "Material Mechanics",
+            "Load Bearing Capacity",
+            "Wind Engineering",
+            "Building Information Modeling (BIM)",
+            "Infrastructure Resilience"
+        ]
+    },
+    "Seismology / Earthquake Engineering": {
+        "domain": "Seismology / Earthquake Engineering",
+        "keywords": [
+            "Seismic Hazard Assessment",
+            "Earthquake-Resistant Design",
+            "Base Isolation",
+            "Seismic Retrofitting",
+            "Ground Motion Prediction",
+            "Tectonic Plate Movement",
+            "Shake Table Testing",
+            "Resilience Engineering"
+        ]
+    },
+    "Traffic Engineering / Mobility Solutions": {
+        "domain": "Traffic Engineering / Mobility Solutions",
+        "keywords": [
+            "Traffic Flow Modeling",
+            "Intelligent Transportation Systems (ITS)",
+            "Urban Mobility",
+            "Traffic Signal Optimization",
+            "Vehicle-to-Infrastructure (V2I)",
+            "Micromobility Solutions",
+            "Road Safety Audit",
+            "Autonomous Vehicle Integration"
+        ]
+    },
+    "Public Safety Communication / TETRA": {
+        "domain": "Public Safety Communication / TETRA",
+        "keywords": [
+            "TETRA Standard",
+            "Emergency Networks",
+            "Mission-Critical Comms",
+            "First Responder Technology",
+            "Land Mobile Radio (LMR)",
+            "Interoperability",
+            "Digital Two-Way Radio",
+            "Disaster Communication"
+        ]
+    },
+    "Data Visualization / Infographics": {
+        "domain": "Data Visualization / Infographics",
+        "keywords": [
+            "Information Design",
+            "Interactive Visualizations",
+            "Dashboarding",
+            "Storytelling with Data",
+            "Visual Analytics",
+            "Chart Design",
+            "Data Mapping",
+            "UI/UX for Data"
+        ]
+    },
+    "Scientific Computing / High-Performance Computing": {
+        "domain": "Scientific Computing / High-Performance Computing",
+        "keywords": [
+            "Parallel Processing",
+            "Supercomputing",
+            "Cluster Computing",
+            "Numerical Algorithms",
+            "Big Data Processing",
+            "Computational Science",
+            "GPU Computing",
+            "Quantum Simulation"
+        ]
+    },
+    "Digital Archiving / Preservation Technology": {
+        "domain": "Digital Archiving / Preservation Technology",
+        "keywords": [
+            "Digital Preservation",
+            "Metadata Management",
+            "Long-Term Storage",
+            "Digital Curation",
+            "File Format Migration",
+            "Authenticity Verification",
+            "Digital Forensics",
+            "E-Discovery"
+        ]
+    },
+    "Ethical Hacking / Penetration Testing": {
+        "domain": "Ethical Hacking / Penetration Testing",
+        "keywords": [
+            "Penetration Testing",
+            "Vulnerability Assessment",
+            "Security Auditing",
+            "Red Teaming",
+            "Exploit Development",
+            "Web Application Security",
+            "Network Security",
+            "Social Engineering Defense"
+        ]
+    },
+    "Supply Chain Visibility / Digital Tracking": {
+        "domain": "Supply Chain Visibility / Digital Tracking",
+        "keywords": [
+            "Real-Time Tracking",
+            "IoT in Logistics",
+            "Digital Supply Chain",
+            "Inventory Visibility",
+            "Fleet Management",
+            "RFID Tracking",
+            "Predictive Logistics",
+            "Control Tower Systems"
+        ]
+    },
+    "Financial Modeling / Risk Analysis": {
+        "domain": "Financial Modeling / Risk Analysis",
+        "keywords": [
+            "Monte Carlo Simulation",
+            "Valuation Models",
+            "Credit Risk Modeling",
+            "Operational Risk",
+            "Scenario Analysis",
+            "Quantitative Finance",
+            "Derivative Pricing",
+            "Financial Forecasting"
+        ]
+    }
 };
 
 // Comprehensive Problems Dataset (2000+ problems across 82+ domains)
@@ -2280,6 +3168,43 @@ const PROBLEMS_DATA = {
     "111": "Population Studies / Demographics",
     "112": "Migration Technology / Border Systems",
     "113": "Translation Technology / Language AI",
+    "114": "Humanitarian Technology / Aid Logistics",
+    "115": "Precision Agriculture / Smart Farming",
+    "116": "Food Safety / Traceability Systems",
+    "117": "Acoustics / Noise Control Engineering",
+    "118": "Plasma Technology / Surface Modification",
+    "119": "Cryogenics / Ultra-Low Temperature Systems",
+    "120": "Lubrication Technology / Tribology",
+    "121": "Vacuum Technology / Controlled Environments",
+    "122": "Filtration Technology / Separation Processes",
+    "123": "Composite Materials / Advanced Composites",
+    "124": "Non-Destructive Testing (NDT) / Inspection",
+    "125": "Modeling & Simulation / Computational Engineering",
+    "126": "Ergonomics / Human Factors Engineering",
+    "127": "Industrial Automation / Factory of the Future",
+    "128": "Tooling / Manufacturing Processes",
+    "129": "Heat Transfer / Thermal Management",
+    "130": "Corrosion Science / Materials Degradation",
+    "131": "Adhesion Science / Bonding Technology",
+    "132": "Hydraulics / Pneumatics",
+    "133": "Geographic Information Systems (GIS) / Mapping",
+    "134": "Remote Sensing / Satellite Imaging",
+    "135": "Spectroscopy / Analytical Instrumentation",
+    "136": "Microfluidics / Lab-on-a-Chip",
+    "137": "Flow Control / Valve Technology",
+    "138": "Energy Storage / Battery Technology",
+    "139": "Power Electronics / Grid Systems",
+    "140": "Computational Fluid Dynamics (CFD)",
+    "141": "Structural Engineering / Bridge & Dam Systems",
+    "142": "Seismology / Earthquake Engineering",
+    "143": "Traffic Engineering / Mobility Solutions",
+    "144": "Public Safety Communication / TETRA",
+    "145": "Data Visualization / Infographics",
+    "146": "Scientific Computing / High-Performance Computing",
+    "147": "Digital Archiving / Preservation Technology",
+    "148": "Ethical Hacking / Penetration Testing",
+    "149": "Supply Chain Visibility / Digital Tracking",
+    "150": "Financial Modeling / Risk Analysis"
     },
 
     "problems": [
