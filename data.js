@@ -55822,6 +55822,1459 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 115
+  {
+    "id": 7868,
+    "title": "AI-Driven Hyper-Local Weather Forecasting",
+    "domain": "115",
+    "description": "Develop a machine learning model to provide highly accurate, field-specific micro-climate predictions (temperature, humidity, precipitation) for proactive farming decisions.",
+    "keywords": [
+      "Micro-Climate Modeling",
+      "Predictive Analytics",
+      "Weather Forecasting"
+    ]
+  },
+  {
+    "id": 7869,
+    "title": "Automated Crop Disease Detection via Drones",
+    "domain": "115",
+    "description": "Implement a computer vision system on UAVs using multispectral imagery to detect and classify early-stage crop diseases and pest infestations with high spatial accuracy.",
+    "keywords": [
+      "UAV",
+      "Computer Vision",
+      "Disease Detection"
+    ]
+  },
+  {
+    "id": 7870,
+    "title": "IoT-Based Soil Health Monitoring Network",
+    "domain": "115",
+    "description": "Design and deploy a low-cost network of IoT sensors to continuously monitor soil parameters (pH, nutrient levels, moisture) in real-time across large farm areas.",
+    "keywords": [
+      "IoT Sensors",
+      "Soil Health",
+      "Real-Time Monitoring"
+    ]
+  },
+  {
+    "id": 7871,
+    "title": "Variable Rate Fertilizer Application Optimization",
+    "domain": "115",
+    "description": "Create an algorithm to generate optimal variable rate maps for fertilizer and nutrient application based on aerial imagery and soil test data, minimizing input waste.",
+    "keywords": [
+      "Variable Rate Technology",
+      "Optimization Algorithm",
+      "Fertilizer Management"
+    ]
+  },
+  {
+    "id": 7872,
+    "title": "AI for Optimal Crop and Variety Selection",
+    "domain": "115",
+    "description": "Develop an AI platform that recommends the most profitable and climate-resilient crop type and variety based on farm history, local climate, and market trends.",
+    "keywords": [
+      "Decision Support System",
+      "Crop Selection",
+      "Climate Resilience"
+    ]
+  },
+  {
+    "id": 7873,
+    "title": "Autonomous Intra-Field Scouting Robots",
+    "domain": "115",
+    "description": "Design and test small, autonomous ground robots for detailed plant-level data collection, including growth stage, stress, and weed pressure.",
+    "keywords": [
+      "Agricultural Robotics",
+      "Autonomous Scouting",
+      "Plant Phenotyping"
+    ]
+  },
+  {
+    "id": 7874,
+    "title": "Water-Use Efficiency Modeling via Satellite Data",
+    "domain": "115",
+    "description": "Use satellite-derived evapotranspiration and vegetative indices to model and optimize irrigation scheduling and water-use efficiency at the sub-field level.",
+    "keywords": [
+      "Satellite Imagery",
+      "Irrigation Optimization",
+      "Water Efficiency"
+    ]
+  },
+  {
+    "id": 7875,
+    "title": "Blockchain for Food Traceability and Provenance",
+    "domain": "115",
+    "description": "Implement a blockchain ledger to track agricultural produce from seed to shelf, ensuring transparent and immutable records of origin, input use, and quality.",
+    "keywords": [
+      "Blockchain",
+      "Food Traceability",
+      "Supply Chain Transparency"
+    ]
+  },
+  {
+    "id": 7876,
+    "title": "AI for Livestock Behavior and Health Monitoring",
+    "domain": "115",
+    "description": "Develop computer vision or wearable sensor systems to monitor livestock behavior (e.g., feeding, movement) to predict illness, estrus, or distress in large herds.",
+    "keywords": [
+      "Livestock Monitoring",
+      "Computer Vision",
+      "Animal Health"
+    ]
+  },
+  {
+    "id": 7877,
+    "title": "Robotic Selective Harvesting System",
+    "domain": "115",
+    "description": "Design a robotic arm and vision system capable of identifying and selectively harvesting ripe produce (e.g., strawberries, tomatoes) in a greenhouse or field setting.",
+    "keywords": [
+      "Agricultural Robotics",
+      "Selective Harvesting",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": 7878,
+    "title": "Energy-Efficient Vertical Farm Environmental Control",
+    "domain": "115",
+    "description": "Create an AI system to dynamically manage light spectrum, $\text{CO}_2$ concentration, and climate parameters in vertical farms to maximize yield with minimal energy consumption.",
+    "keywords": [
+      "Vertical Farming",
+      "Energy Efficiency",
+      "Environmental Control"
+    ]
+  },
+  {
+    "id": 7879,
+    "title": "Predictive Model for Optimal Planting/Sowing Dates",
+    "domain": "115",
+    "description": "Build an AI model that forecasts the ideal window for planting or sowing specific crops based on long-term climate projections and soil conditions to maximize yield potential.",
+    "keywords": [
+      "Sowing Optimization",
+      "Predictive Modeling",
+      "Climate Data"
+    ]
+  },
+  {
+    "id": 7880,
+    "title": "Real-Time Weed Mapping and Identification",
+    "domain": "115",
+    "description": "Develop a high-speed camera and deep learning system mounted on tractors to map and identify weed species in real-time for targeted herbicide application.",
+    "keywords": [
+      "Weed Detection",
+      "Deep Learning",
+      "Targeted Spraying"
+    ]
+  },
+  {
+    "id": 7881,
+    "title": "Data Standardization Platform for Farm Equipment",
+    "domain": "115",
+    "description": "Create an open-source data standard and API to allow seamless data exchange and interoperability between different brands of farm machinery and software platforms.",
+    "keywords": [
+      "Data Interoperability",
+      "Farm Equipment",
+      "Open API"
+    ]
+  },
+  {
+    "id": 7882,
+    "title": "AI for Soil Carbon Sequestration Monitoring",
+    "domain": "115",
+    "description": "Use remote sensing (satellite/drone) and machine learning to estimate and monitor changes in soil organic carbon levels for carbon farming and credit verification.",
+    "keywords": [
+      "Soil Carbon",
+      "Remote Sensing",
+      "Carbon Farming"
+    ]
+  },
+  {
+    "id": 7883,
+    "title": "Low-Cost Aquaculture Monitoring System",
+    "domain": "115",
+    "description": "Design a low-cost IoT sensor and camera system for continuous monitoring of water quality (oxygen, $\text{pH}$) and fish health/feeding behavior in aquaculture farms.",
+    "keywords": [
+      "Aquaculture",
+      "IoT",
+      "Water Quality"
+    ]
+  },
+  {
+    "id": 7884,
+    "title": "Automated Farm Gate Security and Access Control",
+    "domain": "115",
+    "description": "Develop an automated system using license plate recognition and facial recognition to manage and log access to farm properties for security and compliance.",
+    "keywords": [
+      "Farm Security",
+      "Facial Recognition",
+      "Access Control"
+    ]
+  },
+  {
+    "id": 7885,
+    "title": "Predictive Model for Post-Harvest Loss Prevention",
+    "domain": "115",
+    "description": "Build a machine learning model that predicts high-risk stages for post-harvest loss based on handling procedures, storage conditions, and ambient weather.",
+    "keywords": [
+      "Post-Harvest Loss",
+      "Predictive Modeling",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": 7886,
+    "title": "Robotic Planter for Micro-Dosing Seeds/Nutrients",
+    "domain": "115",
+    "description": "Design a precision planting robot capable of accurately placing individual seeds and micro-dosing specific nutrients or biostimulants at the planting site.",
+    "keywords": [
+      "Robotic Planter",
+      "Micro-Dosing",
+      "Precision Seeding"
+    ]
+  },
+  {
+    "id": 7887,
+    "title": "Augmented Reality (AR) Field Maintenance Guide",
+    "domain": "115",
+    "description": "Create an AR application for farm workers to overlay diagnostic information and step-by-step repair guides onto complex farm machinery in the field.",
+    "keywords": [
+      "Augmented Reality",
+      "Farm Maintenance",
+      "Training Tool"
+    ]
+  },
+  {
+    "id": 7888,
+    "title": "Decentralized Agricultural Market Platform (Blockchain)",
+    "domain": "115",
+    "description": "Establish a decentralized platform using smart contracts to connect smallholder farmers directly with buyers, ensuring fair pricing and automated payments.",
+    "keywords": [
+      "Blockchain Marketplace",
+      "Smallholder Farming",
+      "Smart Contracts"
+    ]
+  },
+  {
+    "id": 7889,
+    "title": "AI for Crop Yield Forecasting at Parcel Level",
+    "domain": "115",
+    "description": "Develop a model that integrates drone/satellite data, weather history, and planting data to provide highly accurate yield predictions for individual farm parcels weeks before harvest.",
+    "keywords": [
+      "Yield Forecasting",
+      "Remote Sensing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 7890,
+    "title": "Automated Hydroponic Nutrient Solution Management",
+    "domain": "115",
+    "description": "Implement an IoT and control system to automatically monitor and adjust the $\text{pH}$, Electrical Conductivity (EC), and nutrient composition of hydroponic solutions.",
+    "keywords": [
+      "Hydroponics",
+      "IoT Control",
+      "Nutrient Management"
+    ]
+  },
+  {
+    "id": 7891,
+    "title": "Low-Power Wide-Area Network (LPWAN) for Rural Farms",
+    "domain": "115",
+    "description": "Design a robust, low-power network infrastructure (e.g., LoRaWAN) to reliably transmit sensor data across large, remote agricultural areas with poor connectivity.",
+    "keywords": [
+      "LPWAN",
+      "LoRaWAN",
+      "Rural Connectivity"
+    ]
+  },
+  {
+    "id": 7892,
+    "title": "AI for Optimized Greenhouse Shading and Ventilation",
+    "domain": "115",
+    "description": "Create an AI control system that uses solar radiation and internal climate data to dynamically manage greenhouse vents, fans, and shading screens for optimal plant growth.",
+    "keywords": [
+      "Greenhouse Control",
+      "Dynamic Shading",
+      "Environmental Optimization"
+    ]
+  },
+  {
+    "id": 7893,
+    "title": "Computer Vision for Individual Plant Monitoring",
+    "domain": "115",
+    "description": "Develop a system to track the health, growth rate, and resource requirements of every single plant within a high-density crop field (e.g., corn, vineyards).",
+    "keywords": [
+      "Individual Plant Tracking",
+      "Computer Vision",
+      "Phenotyping"
+    ]
+  },
+  {
+    "id": 7894,
+    "title": "Predictive Model for Agricultural Pest Migration",
+    "domain": "115",
+    "description": "Integrate regional weather patterns, wind currents, and historical outbreak data to forecast the trajectory and timing of major agricultural pest migration (e.g., locusts).",
+    "keywords": [
+      "Pest Forecasting",
+      "Migration Modeling",
+      "Early Warning"
+    ]
+  },
+  {
+    "id": 7895,
+    "title": "Robotics for Cover Crop Termination (Mechanical Weeding)",
+    "domain": "115",
+    "description": "Design an autonomous robot equipped with mechanical tools (e.g., roller-crimpers, tillers) to precisely manage cover crops and weeds without using herbicides.",
+    "keywords": [
+      "Mechanical Weeding",
+      "Cover Crops",
+      "Agricultural Robotics"
+    ]
+  },
+  {
+    "id": 7896,
+    "title": "Secure Digital Farm Records and Compliance Platform",
+    "domain": "115",
+    "description": "Create a secure, auditable digital platform for farmers to easily record all inputs, labor, and compliance data required for organic certifications and regulatory reporting.",
+    "keywords": [
+      "Digital Record-Keeping",
+      "Compliance",
+      "Farm Management Software"
+    ]
+  },
+  {
+    "id": 7897,
+    "title": "AI for Optimizing Dairy Cow Feed Rations",
+    "domain": "115",
+    "description": "Develop an AI system that analyzes individual cow data (milk yield, weight, health sensors) to automatically calculate and adjust the optimal feed ration for peak production and health.",
+    "keywords": [
+      "Livestock Management",
+      "Feed Optimization",
+      "AI Rations"
+    ]
+  },
+  {
+    "id": 7898,
+    "title": "Drones for Targeted Pollination Assistance",
+    "domain": "115",
+    "description": "Design small, precision drones equipped with electrostatic powder dispensers to assist in the pollination of specific crops in areas with declining bee populations.",
+    "keywords": [
+      "Drone Pollination",
+      "Precision Agriculture",
+      "Assisted Pollination"
+    ]
+  },
+  {
+    "id": 7899,
+    "title": "Virtual Fencing and Herding for Rangeland Management",
+    "domain": "115",
+    "description": "Implement a GPS-based collar system with audio/haptic feedback to create virtual fences for livestock, allowing dynamic grazing pattern changes and remote herding.",
+    "keywords": [
+      "Virtual Fencing",
+      "Rangeland Management",
+      "GPS Tracking"
+    ]
+  },
+  {
+    "id": 7900,
+    "title": "AI for Automated Quality Grading of Harvested Crops",
+    "domain": "115",
+    "description": "Develop a high-speed computer vision system for grading produce (e.g., fruit, vegetables) on conveyor belts based on size, color, and defect detection.",
+    "keywords": [
+      "Quality Grading",
+      "Computer Vision",
+      "Post-Harvest Automation"
+    ]
+  },
+  {
+    "id": 7901,
+    "title": "Water Leak and Pipe Integrity Monitoring System",
+    "domain": "115",
+    "description": "Deploy acoustic or pressure sensors across large irrigation systems to detect and locate leaks or breaks in pipes, minimizing water loss and repair time.",
+    "keywords": [
+      "Irrigation Monitoring",
+      "Leak Detection",
+      "Water Conservation"
+    ]
+  },
+  {
+    "id": 7902,
+    "title": "Predictive Model for Global Supply Chain Disruptions",
+    "domain": "115",
+    "description": "Integrate geopolitical, climate, and logistics data to predict potential disruptions (e.g., port closures, trade halts) affecting agricultural imports/exports.",
+    "keywords": [
+      "Supply Chain Forecasting",
+      "Global Trade",
+      "Risk Management"
+    ]
+  },
+  {
+    "id": 7903,
+    "title": "Robotics for Vertical Farm Transplanting",
+    "domain": "115",
+    "description": "Design high-throughput, soft-gripping robotic systems for delicate transplanting of seedlings from propagation trays to final vertical farm growth towers.",
+    "keywords": [
+      "Vertical Farming Robotics",
+      "Transplanting Automation",
+      "Soft Robotics"
+    ]
+  },
+  {
+    "id": 7904,
+    "title": "Low-Cost Soil Fertility Mapping for Small Farms",
+    "domain": "115",
+    "description": "Develop an affordable, mobile-based solution for smallholder farmers to map soil fertility zones using simplified sensor readings and cloud-based analytics.",
+    "keywords": [
+      "Soil Mapping",
+      "Smallholder Tech",
+      "Affordable Sensors"
+    ]
+  },
+  {
+    "id": 7905,
+    "title": "AI for Optimized Farm Labor Planning and Scheduling",
+    "domain": "115",
+    "description": "Create an AI system that forecasts labor demand based on predicted harvest dates, weather, and field conditions, optimizing worker allocation and logistics.",
+    "keywords": [
+      "Labor Management",
+      "Workforce Optimization",
+      "HR Analytics"
+    ]
+  },
+  {
+    "id": 7906,
+    "title": "Integrated Pest Management (IPM) Decision Support",
+    "domain": "115",
+    "description": "Develop a platform that integrates pest/disease scouting data, weather forecasts, and crop models to recommend the optimal (non-chemical or chemical) IPM strategy.",
+    "keywords": [
+      "IPM",
+      "Decision Support System",
+      "Pest Management"
+    ]
+  },
+  {
+    "id": 7907,
+    "title": "Predictive Model for Wine Grape Quality and Vintage",
+    "domain": "115",
+    "description": "Use drone/satellite imagery (NDVI, thermal) and historical weather data to predict grape sugar content, acidity, and overall vintage quality weeks before harvest.",
+    "keywords": [
+      "Viticulture",
+      "Quality Prediction",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7908,
+    "title": "Automated Cleaning and Sanitation Robotics",
+    "domain": "115",
+    "description": "Design autonomous robots for the high-pressure cleaning and sanitization of large animal housing facilities (e.g., poultry barns, dairy parlors).",
+    "keywords": [
+      "Sanitation Robotics",
+      "Livestock Hygiene",
+      "Farm Automation"
+    ]
+  },
+  {
+    "id": 7909,
+    "title": "Digital Platform for Agricultural Insurance Underwriting",
+    "domain": "115",
+    "description": "Develop a platform that uses satellite data, climate models, and historical farm yield data to automate and accurately underwrite personalized crop insurance policies.",
+    "keywords": [
+      "Agricultural Insurance",
+      "Risk Assessment",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7910,
+    "title": "AI-Driven Water Quality Management for Recirculating Aquaculture Systems (RAS)",
+    "domain": "115",
+    "description": "Create a $\text{RAS}$ control system using AI to optimize biofilter performance and manage nutrient levels to maintain stable, healthy aquatic environments with minimal water exchange.",
+    "keywords": [
+      "Aquaculture RAS",
+      "Water Management",
+      "AI Control"
+    ]
+  },
+  {
+    "id": 7911,
+    "title": "Robotic Pruning and Thinning System for Orchards",
+    "domain": "115",
+    "description": "Design a precision robotic system with 3D vision capable of identifying and executing optimal pruning and fruit-thinning cuts to maximize fruit size and quality.",
+    "keywords": [
+      "Orchard Robotics",
+      "Precision Pruning",
+      "3D Vision"
+    ]
+  },
+  {
+    "id": 7912,
+    "title": "Bio-Acoustic Monitoring for Pest and Wildlife Damage",
+    "domain": "115",
+    "description": "Deploy low-cost acoustic sensors in fields to identify specific sound signatures of damaging insects (e.g., borers) or wildlife (e.g., rodents) for early intervention.",
+    "keywords": [
+      "Bio-Acoustics",
+      "Pest Monitoring",
+      "Early Warning"
+    ]
+  },
+  {
+    "id": 7913,
+    "title": "Digital Twin for Farm Operations Simulation",
+    "domain": "115",
+    "description": "Create a virtual 'digital twin' of a farm (fields, machinery, logistics) to simulate the impact of different planting, harvesting, and input strategies before implementation.",
+    "keywords": [
+      "Digital Twin",
+      "Farm Simulation",
+      "Optimization Modeling"
+    ]
+  },
+  {
+    "id": 7914,
+    "title": "AI for Personalized Livestock Health Diagnostics",
+    "domain": "115",
+    "description": "Develop an AI tool that analyzes health records, genomic data, and sensor readings to provide personalized, proactive health diagnostics for individual animals.",
+    "keywords": [
+      "Personalized Animal Health",
+      "Genomics",
+      "AI Diagnostics"
+    ]
+  },
+  {
+    "id": 7915,
+    "title": "Low-Power Camera Traps for Remote Monitoring",
+    "domain": "115",
+    "description": "Design an ultra-low-power, solar-charged camera system that uses computer vision at the edge to only transmit images of specific detected events (e.g., disease symptom, animal entry).",
+    "keywords": [
+      "Edge Computing",
+      "Low-Power Tech",
+      "Remote Monitoring"
+    ]
+  },
+  {
+    "id": 7916,
+    "title": "Variable Rate Seeding Optimization for Marginal Land",
+    "domain": "115",
+    "description": "Create an algorithm to dynamically adjust seeding rates and density in real-time, matching soil variability to maximize profitability on highly heterogeneous or marginal farm land.",
+    "keywords": [
+      "Seeding Optimization",
+      "Marginal Land",
+      "Soil Variability"
+    ]
+  },
+  {
+    "id": 7917,
+    "title": "AI for Predicting Commodity Market Prices",
+    "domain": "115",
+    "description": "Develop a sophisticated machine learning model that integrates weather forecasts, global inventory levels, trade policy, and geopolitical events to predict local commodity prices.",
+    "keywords": [
+      "Commodity Forecasting",
+      "Market Prediction",
+      "Financial Modeling"
+    ]
+  },
+  {
+    "id": 7918,
+    "title": "Automated $\text{CO}_2$ and Light Supplementation in Greenhouses",
+    "domain": "115",
+    "description": "Implement an AI control system to precisely manage supplemental $\text{CO}_2$ injection and artificial lighting intensity based on real-time plant $\text{CO}_2$ uptake and natural light levels.",
+    "keywords": [
+      "Greenhouse Control",
+      "Resource Optimization",
+      "Environmental Management"
+    ]
+  },
+  {
+    "id": 7919,
+    "title": "Blockchain for Certified Organic Input Tracking",
+    "domain": "115",
+    "description": "Use blockchain to create an immutable record tracking the provenance and verification of all organic inputs (seeds, fertilizers, pesticides) used on organic farms.",
+    "keywords": [
+      "Organic Certification",
+      "Input Tracking",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 7920,
+    "title": "Robotics for Automated Nursery Grafting",
+    "domain": "115",
+    "description": "Design a high-precision robotic system capable of automatically grafting commercial plant varieties onto rootstocks in nursery settings, improving speed and success rates.",
+    "keywords": [
+      "Nursery Automation",
+      "Robotic Grafting",
+      "Precision Manipulation"
+    ]
+  },
+  {
+    "id": 7921,
+    "title": "Digital Soil Sampling and Analysis Automation",
+    "domain": "115",
+    "description": "Develop an autonomous system (e.g., robot or drone-mounted) for collecting standardized soil samples from precise GPS locations and preparing them for in-field or lab analysis.",
+    "keywords": [
+      "Soil Sampling",
+      "Automation",
+      "GPS Precision"
+    ]
+  },
+  {
+    "id": 7922,
+    "title": "AI for Predicting Nutrient Deficiencies via Foliar Imagery",
+    "domain": "115",
+    "description": "Train a deep learning model to analyze high-resolution RGB/multispectral imagery of leaves to predict specific macro- and micronutrient deficiencies before visual symptoms appear.",
+    "keywords": [
+      "Nutrient Prediction",
+      "Deep Learning",
+      "Foliar Analysis"
+    ]
+  },
+  {
+    "id": 7923,
+    "title": "Portable Diagnostic Kit for Waterborne Pathogens",
+    "domain": "115",
+    "description": "Design a low-cost, field-portable testing kit for rapid and accurate detection of common waterborne pathogens relevant to irrigation and livestock health.",
+    "keywords": [
+      "Pathogen Detection",
+      "Field Diagnostics",
+      "Water Quality"
+    ]
+  },
+  {
+    "id": 7924,
+    "title": "AI-Driven Optimization of Post-Harvest Storage Conditions",
+    "domain": "115",
+    "description": "Develop an AI system that manages temperature, humidity, and $\text{CO}_2$ levels in storage facilities based on the specific crop variety and its predicted shelf-life needs.",
+    "keywords": [
+      "Storage Optimization",
+      "Post-Harvest",
+      "Shelf Life"
+    ]
+  },
+  {
+    "id": 7925,
+    "title": "Autonomous Tillage and Field Preparation Machinery",
+    "domain": "115",
+    "description": "Design a fully autonomous, lightweight tractor or machinery system for precision primary and secondary tillage and field preparation tasks.",
+    "keywords": [
+      "Autonomous Machinery",
+      "Tillage",
+      "Field Automation"
+    ]
+  },
+  {
+    "id": 7926,
+    "title": "Predictive Model for Irrigation System Component Failure",
+    "domain": "115",
+    "description": "Use sensor data (pressure, flow rate, vibration) and maintenance history to predict the failure of critical irrigation system components (pumps, valves, filters).",
+    "keywords": [
+      "Predictive Maintenance",
+      "Irrigation Systems",
+      "Failure Analysis"
+    ]
+  },
+  {
+    "id": 7927,
+    "title": "Virtual Reality (VR) Training for Complex Farm Equipment",
+    "domain": "115",
+    "description": "Create VR simulation modules for training farm operators on the safe and efficient use of complex, modern agricultural machinery and software systems.",
+    "keywords": [
+      "VR Training",
+      "Farm Equipment",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 7928,
+    "title": "AI for Dynamic Pricing of Farm Produce (B2B)",
+    "domain": "115",
+    "description": "Develop an AI system that generates dynamic, optimal pricing recommendations for wholesale farm products based on yield forecasts, market demand, and quality grading.",
+    "keywords": [
+      "Dynamic Pricing",
+      "Market Analysis",
+      "Agricultural Economics"
+    ]
+  },
+  {
+    "id": 7929,
+    "title": "Robotics for Automated Indoor Microgreen Harvesting",
+    "domain": "115",
+    "description": "Design a sterile, high-throughput robotic system for the automated cutting, cleaning, and packaging of delicate microgreens and leafy vegetables in controlled environments.",
+    "keywords": [
+      "Microgreen Harvesting",
+      "Indoor Farming",
+      "Food Robotics"
+    ]
+  },
+  {
+    "id": 7930,
+    "title": "Biometric Identification for Individual Livestock Tracking",
+    "domain": "115",
+    "description": "Implement a computer vision system that uses unique biometric features (e.g., cattle muzzle patterns, pig ear veins) for non-invasive, individual animal identification and tracking.",
+    "keywords": [
+      "Biometric ID",
+      "Livestock Tracking",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": 7931,
+    "title": "Standardized Data Exchange Format for Climate Ag",
+    "domain": "115",
+    "description": "Define and promote an open, global standard for exchanging data related to soil carbon, nitrogen cycle, and climate impact metrics across precision agriculture platforms.",
+    "keywords": [
+      "Data Standards",
+      "Climate Agriculture",
+      "Interoperability"
+    ]
+  },
+  {
+    "id": 7932,
+    "title": "AI-Driven Optimization of Forage Crop Harvest Timing",
+    "domain": "115",
+    "description": "Develop a predictive model that uses nutrient content and biomass estimates (from remote sensing) to recommend the exact day to harvest forage crops for maximum nutritional value.",
+    "keywords": [
+      "Forage Harvest",
+      "Nutrient Optimization",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7933,
+    "title": "Low-Cost, Solar-Powered $\text{CO}_2$ Sensor Network",
+    "domain": "115",
+    "description": "Develop an affordable, robust network of solar-powered $\text{CO}_2$ sensors for continuous monitoring in both greenhouses and for estimating field crop respiration/uptake.",
+    "keywords": [
+      "CO2 Sensing",
+      "Low-Cost Hardware",
+      "Solar Power"
+    ]
+  },
+  {
+    "id": 7934,
+    "title": "Digital Platform for Crowdsourced Pest/Disease Reports",
+    "domain": "115",
+    "description": "Create a mobile platform that allows farmers to report pest and disease sightings with geotagged photos, enabling regional alerts and real-time mapping of outbreaks.",
+    "keywords": [
+      "Crowdsourcing",
+      "Pest Alert",
+      "Geospatial Mapping"
+    ]
+  },
+  {
+    "id": 7935,
+    "title": "AI for Precision Rootstock Selection in Perennial Crops",
+    "domain": "115",
+    "description": "Develop an AI system that recommends the optimal rootstock variety for perennial crops (e.g., apples, citrus) based on local soil pathogen and nematode pressure.",
+    "keywords": [
+      "Perennial Crops",
+      "Rootstock Selection",
+      "Soil Pathogen"
+    ]
+  },
+  {
+    "id": 7936,
+    "title": "Autonomous Robot for Soil Compaction Remediation",
+    "domain": "115",
+    "description": "Design a lightweight, autonomous ground robot that uses soil pressure sensors to map compaction zones and execute targeted sub-soiling or aeration to alleviate it.",
+    "keywords": [
+      "Soil Compaction",
+      "Agricultural Robotics",
+      "Sub-Soiling"
+    ]
+  },
+  {
+    "id": 7937,
+    "title": "Blockchain for Water Rights and Usage Tracking",
+    "domain": "115",
+    "description": "Implement a decentralized ledger to transparently record and manage water allocation and usage rights among multiple farms in water-stressed regions.",
+    "keywords": [
+      "Water Rights",
+      "Blockchain",
+      "Resource Management"
+    ]
+  },
+  {
+    "id": 7938,
+    "title": "AI for Optimizing Biocontrol Agent Release",
+    "domain": "115",
+    "description": "Develop a model that determines the precise location and timing for the release of beneficial insects or microbes (biocontrol agents) based on pest and environmental data.",
+    "keywords": [
+      "Biocontrol",
+      "Precision Release",
+      "Integrated Pest Management"
+    ]
+  },
+  {
+    "id": 7939,
+    "title": "Predictive Model for On-Farm Energy Consumption",
+    "domain": "115",
+    "description": "Create a machine learning model to forecast farm energy usage (irrigation pumps, drying, climate control) to optimize scheduling and reduce peak demand costs.",
+    "keywords": [
+      "Energy Optimization",
+      "Farm Utilities",
+      "Cost Reduction"
+    ]
+  },
+  {
+    "id": 7940,
+    "title": "Augmented Reality (AR) for Crop Scouting Data Visualization",
+    "domain": "115",
+    "description": "Develop an AR application allowing farmers to view overlays of real-time field data (e.g., soil moisture, pest hot-spots) directly onto the physical landscape through a mobile device.",
+    "keywords": [
+      "Augmented Reality",
+      "Data Visualization",
+      "Crop Scouting"
+    ]
+  },
+  {
+    "id": 7941,
+    "title": "Robotics for Automated Seed Sorting and Quality Check",
+    "domain": "115",
+    "description": "Design a high-speed robotic system using computer vision and spectral analysis to sort and grade individual seeds based on viability, size, and genetic traits.",
+    "keywords": [
+      "Seed Sorting",
+      "Robotics",
+      "Quality Control"
+    ]
+  },
+  {
+    "id": 7942,
+    "title": "AI for Predicting Algae Blooms in Agricultural Ponds/Reservoirs",
+    "domain": "115",
+    "description": "Integrate water quality sensor data, temperature, and nutrient runoff forecasts to predict the onset and severity of harmful algae blooms in farm water sources.",
+    "keywords": [
+      "Algae Bloom Prediction",
+      "Water Quality",
+      "Environmental Monitoring"
+    ]
+  },
+  {
+    "id": 7943,
+    "title": "Low-Cost Kit for Farm-Specific Genomic Testing",
+    "domain": "115",
+    "description": "Develop an affordable, easy-to-use testing kit for farmers to analyze soil microbial diversity and/or crop genomic traits without sending samples to a high-cost lab.",
+    "keywords": [
+      "Genomic Testing",
+      "Soil Microbiology",
+      "Affordable Diagnostics"
+    ]
+  },
+  {
+    "id": 7944,
+    "title": "Automated Cattle Handling and Drafting System",
+    "domain": "115",
+    "description": "Design a system using gates, sensors, and computer vision to automatically sort and draft cattle based on individual health, weight, or reproductive status without human contact.",
+    "keywords": [
+      "Cattle Handling",
+      "Automation",
+      "Livestock Management"
+    ]
+  },
+  {
+    "id": 7945,
+    "title": "Predictive Model for Tillage Timing and Depth",
+    "domain": "115",
+    "description": "Create an algorithm that recommends the optimal timing and depth of tillage based on soil type, current moisture, and predicted weather to maximize soil structure and energy efficiency.",
+    "keywords": [
+      "Tillage Optimization",
+      "Soil Mechanics",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "id": 7946,
+    "title": "AI-Driven Optimization of Cold Storage Humidity",
+    "domain": "115",
+    "description": "Develop an AI system to dynamically manage humidity levels in cold storage based on the specific respiration rate of the stored produce, minimizing weight loss and decay.",
+    "keywords": [
+      "Cold Storage",
+      "Humidity Control",
+      "Post-Harvest Quality"
+    ]
+  },
+  {
+    "id": 7947,
+    "title": "Blockchain for Farm-to-Table Carbon Offset Verification",
+    "domain": "115",
+    "description": "Implement a blockchain to transparently track and verify the carbon footprint and associated offsets/credits for agricultural products delivered directly to consumers.",
+    "keywords": [
+      "Carbon Offset",
+      "Blockchain Verification",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": 7948,
+    "title": "Robotics for Automated Greenhouse Leaf-Picking/Deleafing",
+    "domain": "115",
+    "description": "Design a robotic system with precise manipulators and vision for selectively removing non-essential or diseased leaves from high-value crops (e.g., tomatoes, cannabis) to improve yield.",
+    "keywords": [
+      "Greenhouse Robotics",
+      "Deleafing",
+      "Crop Manipulation"
+    ]
+  },
+  {
+    "id": 7949,
+    "title": "Integrated Platform for Regulatory Compliance Monitoring",
+    "domain": "115",
+    "description": "Create a single dashboard that aggregates farm data and provides real-time alerts and checks against local, regional, and export-related agricultural regulations.",
+    "keywords": [
+      "Regulatory Compliance",
+      "Farm Management",
+      "Data Integration"
+    ]
+  },
+  {
+    "id": 7950,
+    "title": "AI for Predicting Field-Specific $\text{N}_2\text{O}$ Emissions",
+    "domain": "115",
+    "description": "Develop a model that uses soil data, fertilizer application rates, and weather to predict field-level Nitrous Oxide ($\text{N}_2\text{O}$) emissions for sustainability reporting.",
+    "keywords": [
+      "Emissions Modeling",
+      "Sustainability",
+      "Nitrogen Cycle"
+    ]
+  },
+  {
+    "id": 7951,
+    "title": "Low-Cost, Long-Range Soil Moisture Sensor Array",
+    "domain": "115",
+    "description": "Design a very low-cost, multi-depth soil moisture sensor that can transmit data reliably over a large range (several kilometers) using a simple gateway system.",
+    "keywords": [
+      "Soil Moisture",
+      "Long-Range Sensors",
+      "Low-Cost Hardware"
+    ]
+  },
+  {
+    "id": 7952,
+    "title": "Automated Detection of Farm Equipment Wear and Tear",
+    "domain": "115",
+    "description": "Use vibration analysis, acoustic monitoring, and oil testing data to automatically detect and predict the early wear and tear on critical tractor and implement components.",
+    "keywords": [
+      "Predictive Maintenance",
+      "Equipment Diagnostics",
+      "Acoustic Sensing"
+    ]
+  },
+  {
+    "id": 7953,
+    "title": "AI for Personalized Livestock Supplement Dispensing",
+    "domain": "115",
+    "description": "Develop a system that identifies individual animals (e.g., via RFID ear tags) and automatically dispenses personalized mineral or vitamin supplements upon approach to a feeding station.",
+    "keywords": [
+      "Personalized Feeding",
+      "Livestock Automation",
+      "RFID"
+    ]
+  },
+  {
+    "id": 7954,
+    "title": "Predictive Model for Optimal Crop Drying/Storage Temperature",
+    "domain": "115",
+    "description": "Build an AI model that recommends the optimal temperature and airflow for drying and long-term storage of grain and specialty crops based on moisture content and weather forecasts.",
+    "keywords": [
+      "Grain Storage",
+      "Drying Optimization",
+      "Moisture Control"
+    ]
+  },
+  {
+    "id": 7955,
+    "title": "Drones for Targeted Biostimulant and Micro-Nutrient Spraying",
+    "domain": "115",
+    "description": "Design small, highly maneuverable drones capable of carrying small payloads to apply expensive biostimulants or micro-nutrients only to specific, identified stress areas in a field.",
+    "keywords": [
+      "Drone Spraying",
+      "Precision Application",
+      "Micro-Nutrients"
+    ]
+  },
+  {
+    "id": 7956,
+    "title": "Digital Platform for Peer-to-Peer Equipment Sharing",
+    "domain": "115",
+    "description": "Create a secure, location-based platform using smart contracts to facilitate the rental and sharing of expensive farm machinery between local farmers.",
+    "keywords": [
+      "Equipment Sharing",
+      "Smart Contracts",
+      "Agricultural Marketplace"
+    ]
+  },
+  {
+    "id": 7957,
+    "title": "AI-Driven Optimization of LED Lighting Spectrum for Vertical Farms",
+    "domain": "115",
+    "description": "Develop an AI that dynamically adjusts the intensity and spectrum of LED lighting in vertical farms to induce specific plant traits (e.g., flavor, color, nutrient density).",
+    "keywords": [
+      "LED Lighting",
+      "Vertical Farming",
+      "Phenotype Control"
+    ]
+  },
+  {
+    "id": 7958,
+    "title": "Robotics for Automated Mushroom Harvesting",
+    "domain": "115",
+    "description": "Design a sterile, computer-vision-guided robotic system capable of identifying, cleanly cutting, and handling delicate mushrooms in a high-humidity grow facility.",
+    "keywords": [
+      "Mushroom Robotics",
+      "Indoor Harvesting",
+      "Food Automation"
+    ]
+  },
+  {
+    "id": 7959,
+    "title": "Predictive Model for Forest Fire Risk to Agricultural Borders",
+    "domain": "115",
+    "description": "Integrate local meteorological data, fuel load maps, and wind forecasts to provide farmers with a highly specific risk assessment for wildfire spread near their property borders.",
+    "keywords": [
+      "Wildfire Risk",
+      "Agroforestry",
+      "Environmental Prediction"
+    ]
+  },
+  {
+    "id": 7960,
+    "title": "Digital Platform for Smallholder Farmer Financial Records",
+    "domain": "115",
+    "description": "Create a simple, mobile-friendly platform for smallholder farmers to easily track expenses, income, and production costs to improve financial literacy and access to credit.",
+    "keywords": [
+      "Smallholder Finance",
+      "Financial Inclusion",
+      "Mobile App"
+    ]
+  },
+  {
+    "id": 7961,
+    "title": "AI for Automated Crop Damage Assessment (Insurance)",
+    "domain": "115",
+    "description": "Use drone and satellite imagery combined with AI to rapidly and objectively assess the extent of crop damage from hail, flood, or drought for insurance claim processing.",
+    "keywords": [
+      "Damage Assessment",
+      "Agricultural Insurance",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7962,
+    "title": "Low-Cost Kit for On-Farm Manure/Compost Nutrient Testing",
+    "domain": "115",
+    "description": "Develop an inexpensive, rapid chemical/sensor kit for farmers to accurately measure the nutrient content ($\text{N, P, K}$) of their own manure or compost for precision application.",
+    "keywords": [
+      "Nutrient Testing",
+      "Compost Analysis",
+      "Low-Cost Diagnostics"
+    ]
+  },
+  {
+    "id": 7963,
+    "title": "Autonomous Robot for Vineyard Canopy Management",
+    "domain": "115",
+    "description": "Design an autonomous robot capable of navigating steep vineyard slopes and executing tasks like leaf removal, shoot thinning, and canopy tucking.",
+    "keywords": [
+      "Vineyard Robotics",
+      "Canopy Management",
+      "Precision Viticulture"
+    ]
+  },
+  {
+    "id": 7964,
+    "title": "Blockchain for Certified Water Footprint Tracking",
+    "domain": "115",
+    "description": "Use a blockchain ledger to track and verify the exact water consumption required to produce specific batches of agricultural products for consumers demanding sustainability data.",
+    "keywords": [
+      "Water Footprint",
+      "Sustainability",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 7965,
+    "title": "AI for Predicting Greenhouse Condensation and Drip Risk",
+    "domain": "115",
+    "description": "Develop a micro-climate model that forecasts the exact time and location of condensation formation in greenhouses to prevent disease spread and manage humidity control systems.",
+    "keywords": [
+      "Greenhouse Climate",
+      "Condensation Prediction",
+      "Disease Prevention"
+    ]
+  },
+  {
+    "id": 7966,
+    "title": "Robotics for Automated Soil DNA Barcoding",
+    "domain": "115",
+    "description": "Design an automated field or lab system to collect and process soil samples for environmental DNA (eDNA) barcoding to assess biodiversity and pathogen load.",
+    "keywords": [
+      "DNA Barcoding",
+      "Soil Microbiology",
+      "Robotic Sampling"
+    ]
+  },
+  {
+    "id": 7967,
+    "title": "Predictive Model for Mycotoxin Contamination in Stored Grain",
+    "domain": "115",
+    "description": "Integrate grain moisture, temperature, and fungal spore data to predict the risk of mycotoxin development (e.g., aflatoxin) in silos and storage facilities.",
+    "keywords": [
+      "Mycotoxin Prediction",
+      "Grain Safety",
+      "Post-Harvest Storage"
+    ]
+  },
+  {
+    "id": 7968,
+    "title": "AI for Optimization of Livestock Manure Management",
+    "domain": "115",
+    "description": "Develop an AI system to manage the timing, location, and rate of manure application to fields to maximize nutrient benefit while minimizing water pollution and $\text{GHG}$ emissions.",
+    "keywords": [
+      "Manure Management",
+      "Nutrient Cycling",
+      "Environmental Optimization"
+    ]
+  },
+  {
+    "id": 7969,
+    "title": "Low-Cost Acoustic Sensor for Bird/Wildlife Deterrence",
+    "domain": "115",
+    "description": "Design a smart, solar-powered acoustic deterrent system that uses $\text{AI}$ to identify pest birds/wildlife and emit highly targeted, non-lethal distress calls or sounds.",
+    "keywords": [
+      "Wildlife Deterrence",
+      "Acoustic Sensing",
+      "Pest Control"
+    ]
+  },
+  {
+    "id": 7970,
+    "title": "Digital Platform for Real-Time Field Safety Alerts",
+    "domain": "115",
+    "description": "Create a mobile and web platform that provides farm workers with real-time alerts for localized risks like lightning strikes, flash floods, or nearby chemical spraying activities.",
+    "keywords": [
+      "Farm Worker Safety",
+      "Real-Time Alerts",
+      "Risk Management"
+    ]
+  },
+  {
+    "id": 7971,
+    "title": "AI-Driven Optimization of Crop Rotation Schedules",
+    "domain": "115",
+    "description": "Develop an AI system that generates multi-year crop rotation plans to maximize long-term profitability, soil health, and pest/disease management.",
+    "keywords": [
+      "Crop Rotation",
+      "Optimization",
+      "Soil Health"
+    ]
+  },
+  {
+    "id": 7972,
+    "title": "Robotics for Automated Seedling Hardening/Acclimation",
+    "domain": "115",
+    "description": "Design a robotic system to manage the precise movement and environmental exposure (temperature, light, water) of seedlings to harden them before field planting.",
+    "keywords": [
+      "Nursery Automation",
+      "Seedling Hardening",
+      "Environmental Control"
+    ]
+  },
+  {
+    "id": 7973,
+    "title": "Predictive Model for Drought Severity and Impact",
+    "domain": "115",
+    "description": "Integrate $\text{GIS}$ data, soil moisture models, and climate forecasts to provide a hyper-local, crop-specific forecast of drought severity and yield reduction impact.",
+    "keywords": [
+      "Drought Prediction",
+      "Climate Risk",
+      "GIS Modeling"
+    ]
+  },
+  {
+    "id": 7974,
+    "title": "Blockchain for Certified Ethical Labor Tracking",
+    "domain": "115",
+    "description": "Implement a transparent, immutable ledger to track and verify labor hours, wages, and working conditions on farms for ethical sourcing certifications.",
+    "keywords": [
+      "Ethical Sourcing",
+      "Labor Tracking",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 7975,
+    "title": "AI for Automated Beehive Health Monitoring",
+    "domain": "115",
+    "description": "Develop a system using internal hive sensors (acoustic, temperature, weight) and $\text{AI}$ to monitor colony health, detect pests (e.g., mites), and predict swarming behavior.",
+    "keywords": [
+      "Apiculture",
+      "Hive Monitoring",
+      "AI Health"
+    ]
+  },
+  {
+    "id": 7976,
+    "title": "Low-Cost, Solar-Powered Weather Station Network",
+    "domain": "115",
+    "description": "Design a decentralized network of simple, solar-powered weather stations that provide real-time, field-level data (temp, rain, wind) using low-power radio communication.",
+    "keywords": [
+      "Weather Stations",
+      "Low-Cost IoT",
+      "Solar Power"
+    ]
+  },
+  {
+    "id": 7977,
+    "title": "Robotics for Automated Greenhouse Cleaning and Disinfection",
+    "domain": "115",
+    "description": "Design an autonomous mobile robot capable of navigating greenhouse rows to perform $\text{UV-C}$ light disinfection and surface cleaning to prevent disease spread.",
+    "keywords": [
+      "Greenhouse Automation",
+      "Disinfection Robotics",
+      "UV-C"
+    ]
+  },
+  {
+    "id": 7978,
+    "title": "AI for Predicting Soil Erosion Risk",
+    "domain": "115",
+    "description": "Develop a geospatial model that uses topography, soil type, and predicted rainfall intensity to forecast high-risk areas for soil erosion on a farm, guiding conservation efforts.",
+    "keywords": [
+      "Soil Conservation",
+      "Erosion Modeling",
+      "Geospatial Analysis"
+    ]
+  },
+  {
+    "id": 7979,
+    "title": "Digital Platform for Agritourism Management",
+    "domain": "115",
+    "description": "Create an integrated mobile platform for farms to manage bookings, payments, visitor communication, and compliance for farm-based tourism activities.",
+    "keywords": [
+      "Agritourism",
+      "Booking Management",
+      "Digital Platform"
+    ]
+  },
+  {
+    "id": 7980,
+    "title": "AI-Driven Optimization of Composting Process",
+    "domain": "115",
+    "description": "Use sensors ($\text{O}_2$, temp, moisture) and $\text{AI}$ to dynamically adjust compost pile turning and aeration schedules to maximize decomposition speed and nutrient retention.",
+    "keywords": [
+      "Composting Optimization",
+      "Waste Management",
+      "Sensor Control"
+    ]
+  },
+  {
+    "id": 7981,
+    "title": "Predictive Model for Hay and Silage Quality",
+    "domain": "115",
+    "description": "Integrate moisture readings, weather forecasts, and chemical analysis to predict the final quality (digestibility, protein) of hay and silage before and during the preservation process.",
+    "keywords": [
+      "Forage Quality",
+      "Silage Production",
+      "Predictive Modeling"
+    ]
+  },
+  {
+    "id": 7982,
+    "title": "Drones for Automated Bird-Scaring and Crop Protection",
+    "domain": "115",
+    "description": "Design autonomous drones that use pre-programmed flight paths and visual/acoustic deterrents to patrol and protect high-value crops (e.g., berries, grapes) from bird damage.",
+    "keywords": [
+      "Drone Deterrence",
+      "Pest Control",
+      "Crop Protection"
+    ]
+  },
+  {
+    "id": 7983,
+    "title": "Integrated Platform for Equipment Diagnostics and Repair History",
+    "domain": "115",
+    "description": "Create a central database that links real-time diagnostic trouble codes from farm machinery with historical repair records and recommended maintenance schedules.",
+    "keywords": [
+      "Equipment Diagnostics",
+      "Maintenance History",
+      "Digital Records"
+    ]
+  },
+  {
+    "id": 7984,
+    "title": "AI for Optimizing Seeding Depth and Pressure",
+    "domain": "115",
+    "description": "Develop an AI control system that uses real-time soil texture and moisture data (from in-cab sensors) to dynamically adjust planter downforce and seeding depth across the field.",
+    "keywords": [
+      "Seeding Control",
+      "Planter Automation",
+      "Soil Sensing"
+    ]
+  },
+  {
+    "id": 7985,
+    "title": "Low-Cost, Mobile Spectroscopy for Produce Quality",
+    "domain": "115",
+    "description": "Design a handheld, smartphone-compatible spectrometer and AI app for farmers to instantly measure internal quality metrics (Brix, ripeness) of fruits and vegetables in the field.",
+    "keywords": [
+      "Mobile Spectroscopy",
+      "Produce Quality",
+      "Handheld Sensors"
+    ]
+  },
+  {
+    "id": 7986,
+    "title": "Autonomous Robot for Soil Moisture Retention Improvement",
+    "domain": "115",
+    "description": "Design a precision robot to apply water-retaining polymers or biological agents to soil in a variable rate manner based on high-resolution soil moisture maps.",
+    "keywords": [
+      "Soil Water Retention",
+      "Precision Application",
+      "Agricultural Robotics"
+    ]
+  },
+  {
+    "id": 7987,
+    "title": "Blockchain for Certified Non-GMO/Specialty Crop Verification",
+    "domain": "115",
+    "description": "Use an immutable ledger to track and verify the genetic purity and handling protocols for non-GMO, organic, or other specialty crops to secure premium market access.",
+    "keywords": [
+      "Specialty Crops",
+      "Verification",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 7988,
+    "title": "AI for Predicting Post-Harvest Ethylene Production",
+    "domain": "115",
+    "description": "Develop a model that predicts the rate of ethylene gas production in stored climacteric fruits (e.g., apples, bananas) based on harvest conditions and early storage data.",
+    "keywords": [
+      "Ethylene Control",
+      "Post-Harvest Physiology",
+      "Storage Prediction"
+    ]
+  },
+  {
+    "id": 7989,
+    "title": "Robotics for Automated In-Field Soil Health Assays",
+    "domain": "115",
+    "description": "Design a robot to collect soil samples and perform immediate, automated biological and chemical assays (e.g., earthworm counts, respiration tests) in the field.",
+    "keywords": [
+      "Soil Health",
+      "Field Assays",
+      "Robotic Testing"
+    ]
+  },
+  {
+    "id": 7990,
+    "title": "Predictive Model for Livestock Heat Stress Risk",
+    "domain": "115",
+    "description": "Integrate local $\text{THI}$ (Temperature-Humidity Index), animal sensor data, and weather forecasts to predict the time and severity of heat stress risk in livestock operations.",
+    "keywords": [
+      "Heat Stress",
+      "Livestock Welfare",
+      "Predictive Analytics"
+    ]
+  },
+  {
+    "id": 7991,
+    "title": "Digital Platform for Peer-to-Peer Knowledge Sharing (Farmer-to-Farmer)",
+    "domain": "115",
+    "description": "Create a structured social platform where farmers can securely share field data, best practices, and local knowledge specific to their climate and crop types.",
+    "keywords": [
+      "Knowledge Sharing",
+      "Farmer Networks",
+      "Digital Extension"
+    ]
+  },
+  {
+    "id": 7992,
+    "title": "AI-Driven Optimization of Hydroponic Lighting Schedule",
+    "domain": "115",
+    "description": "Develop an AI system to dynamically adjust the intensity and duration of grow lights in hydroponic setups based on the current energy price and plant photosynthetic response.",
+    "keywords": [
+      "Hydroponics",
+      "Lighting Optimization",
+      "Energy Cost Reduction"
+    ]
+  },
+  {
+    "id": 7993,
+    "title": "Low-Cost Kit for On-Farm Biopesticide Production",
+    "domain": "115",
+    "description": "Design an affordable, small-scale modular system allowing farmers to safely culture and produce their own beneficial microbes or biopesticides on-site.",
+    "keywords": [
+      "Biopesticides",
+      "On-Farm Production",
+      "Sustainable Inputs"
+    ]
+  },
+  {
+    "id": 7994,
+    "title": "Autonomous Robot for Greenhouse Pest Trapping and Counting",
+    "domain": "115",
+    "description": "Design a mobile robot that automatically checks sticky traps in greenhouses, uses computer vision to identify and count trapped pests, and updates the IPM system.",
+    "keywords": [
+      "Greenhouse Robotics",
+      "Pest Counting",
+      "IPM Automation"
+    ]
+  },
+  {
+    "id": 7995,
+    "title": "AI for Predicting Farm Credit Default Risk",
+    "domain": "115",
+    "description": "Integrate farm production data, yield forecasts, market prices, and loan history to build a model that assesses the credit risk of individual farm operations for lenders.",
+    "keywords": [
+      "Agricultural Finance",
+      "Credit Risk",
+      "Financial Modeling"
+    ]
+  },
+  {
+    "id": 7996,
+    "title": "Drones for Automated Crop Height and Stand Count Mapping",
+    "domain": "115",
+    "description": "Develop a photogrammetry and computer vision workflow using drone imagery to automatically generate high-accuracy maps of plant height and stand density post-emergence.",
+    "keywords": [
+      "Crop Measurement",
+      "Drone Mapping",
+      "Stand Count"
+    ]
+  },
+  {
+    "id": 7997,
+    "title": "Integrated Platform for $\text{GHG}$ Emissions Reporting",
+    "domain": "115",
+    "description": "Create a unified digital tool that calculates and reports farm-level Greenhouse Gas ($\text{GHG}$) emissions based on inputs, fuel use, and land management practices.",
+    "keywords": [
+      "GHG Accounting",
+      "Sustainability Reporting",
+      "Environmental Metrics"
+    ]
+  },
+  {
+    "id": 7998,
+    "title": "Robotics for Automated Tree Nursery Transplanting",
+    "domain": "115",
+    "description": "Design a high-throughput robotic system for transplanting seedlings from small containers to larger pots in tree and perennial nurseries, minimizing manual labor and plant shock.",
+    "keywords": [
+      "Nursery Automation",
+      "Robotic Transplanting",
+      "Perennial Crops"
+    ]
+  },
+  {
+    "id": 7999,
+    "title": "AI for Optimizing TMR (Total Mixed Ration) Mixing Time",
+    "domain": "115",
+    "description": "Use sensor data from feed mixers (e.g., torque, vibration) and $\text{AI}$ to determine the minimum mixing time required to achieve optimal uniformity of the Total Mixed Ration for livestock.",
+    "keywords": [
+      "Livestock Feeding",
+      "Feed Optimization",
+      "TMR"
+    ]
+  }
+
 
     
     ]
