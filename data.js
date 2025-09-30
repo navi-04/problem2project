@@ -54610,26 +54610,1220 @@ const PROBLEMS_DATA = {
         "description": "A public service platform that provides real-time translations for government and civic interactions.",
         "keywords": ["Translation AI", "Language Processing", "Multilingual Technology"]
     },
-    //need add additional domain below 
+    // domain 114
+  {
+    "id": 7758,
+    "title": "Predictive Logistics for Disaster Response",
+    "domain": "114",
+    "description": "Develop an AI model to forecast immediate aid needs and optimal prepositioning of supplies before a predicted natural disaster.",
+    "keywords": [
+      "Predictive Analytics",
+      "Supply Chain",
+      "Disaster Relief"
+    ]
+  },
+  {
+    "id": 7759,
+    "title": "Real-Time Aid Distribution Tracker",
+    "domain": "114",
+    "description": "Create a blockchain-based platform for transparent, tamper-proof tracking of aid commodities from donation to recipient.",
+    "keywords": [
+      "Blockchain",
+      "Transparency",
+      "Logistics Tracking"
+    ]
+  },
+  {
+    "id": 7760,
+    "title": "Autonomous Last-Mile Delivery Drones",
+    "domain": "114",
+    "description": "Design and test low-cost, payload-optimized drones for delivering essential medical supplies to inaccessible, remote disaster zones.",
+    "keywords": [
+      "UAV Technology",
+      "Last-Mile Delivery",
+      "Remote Logistics"
+    ]
+  },
+  {
+    "id": 7761,
+    "title": "Crowdsourced Damage Assessment Platform",
+    "domain": "114",
+    "description": "Build a mobile and web platform allowing citizens to quickly report infrastructure damage and needs post-disaster using geotagged photos.",
+    "keywords": [
+      "Crowdsourcing",
+      "Damage Assessment",
+      "Geospatial Data"
+    ]
+  },
+  {
+    "id": 7762,
+    "title": "AI-Optimized Warehouse Inventory Management",
+    "domain": "114",
+    "description": "Implement an AI system to manage and optimize perishable and non-perishable inventory in humanitarian aid warehouses, minimizing waste.",
+    "keywords": [
+      "Inventory Optimization",
+      "AI Management",
+      "Waste Reduction"
+    ]
+  },
+  {
+    "id": 7763,
+    "title": "Digital Identity for Displaced Persons",
+    "domain": "114",
+    "description": "Establish a secure, portable digital identity system for refugees and internally displaced persons to access aid and services without traditional documents.",
+    "keywords": [
+      "Digital ID",
+      "Refugee Services",
+      "Security"
+    ]
+  },
+  {
+    "id": 7764,
+    "title": "IoT Water Quality Monitoring Network",
+    "domain": "114",
+    "description": "Deploy a network of low-power IoT sensors to continuously monitor and report on the potability of water sources in refugee camps.",
+    "keywords": [
+      "IoT Sensors",
+      "Water Quality",
+      "Environmental Monitoring"
+    ]
+  },
+  {
+    "id": 7765,
+    "title": "Dynamic Shelter Allocation System",
+    "domain": "114",
+    "description": "Create an algorithm that dynamically allocates temporary shelter space based on family size, vulnerability, and real-time capacity data.",
+    "keywords": [
+      "Resource Allocation",
+      "Algorithm Design",
+      "Shelter Management"
+    ]
+  },
+  {
+    "id": 7766,
+    "title": "Portable Solar-Powered Communication Hubs",
+    "domain": "114",
+    "description": "Develop rapidly deployable, solar-powered communication hubs to establish emergency internet and mobile connectivity after infrastructure failure.",
+    "keywords": [
+      "Emergency Communications",
+      "Solar Power",
+      "Network Deployment"
+    ]
+  },
+  {
+    "id": 7767,
+    "title": "Sentiment Analysis for Beneficiary Feedback",
+    "domain": "114",
+    "description": "Apply natural language processing to analyze qualitative feedback (text, audio) from aid recipients to gauge program effectiveness and satisfaction.",
+    "keywords": [
+      "NLP",
+      "Feedback Analysis",
+      "Program Evaluation"
+    ]
+  },
+  {
+    "id": 7768,
+    "title": "Digital Health Records in Low-Resource Settings",
+    "domain": "114",
+    "description": "Design an offline-first, secure digital health record system for mobile clinics operating in areas with limited or no internet access.",
+    "keywords": [
+      "Digital Health",
+      "Offline-First",
+      "Medical Records"
+    ]
+  },
+  {
+    "id": 7769,
+    "title": "Optimizing Evacuation Route Planning",
+    "domain": "114",
+    "description": "Develop a real-time system that uses traffic data and predicted hazard spread to recommend optimal and safest evacuation routes.",
+    "keywords": [
+      "Route Optimization",
+      "Geographic Information Systems",
+      "Emergency Planning"
+    ]
+  },
+  {
+    "id": 7770,
+    "title": "Biometric Verification for Aid Distribution",
+    "domain": "114",
+    "description": "Use secure biometric scanning (e.g., iris, fingerprint) to verify the identity of registered beneficiaries during cash or commodity distribution, preventing fraud.",
+    "keywords": [
+      "Biometrics",
+      "Fraud Prevention",
+      "Identity Verification"
+    ]
+  },
+  {
+    "id": 7771,
+    "title": "Micro-Grid Power Solutions for Camps",
+    "domain": "114",
+    "description": "Design decentralized, resilient micro-grid power systems to provide sustainable electricity to temporary displacement camps.",
+    "keywords": [
+      "Renewable Energy",
+      "Micro-Grids",
+      "Energy Access"
+    ]
+  },
+  {
+    "id": 7772,
+    "title": "Automated Needs Assessment via Satellite Imagery",
+    "domain": "114",
+    "description": "Use deep learning to analyze high-resolution satellite imagery to automatically detect and quantify damage, population density, and immediate resource needs.",
+    "keywords": [
+      "Deep Learning",
+      "Satellite Imagery",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7773,
+    "title": "Cross-Cultural Communication Training Simulators",
+    "domain": "114",
+    "description": "Create virtual reality (VR) or simulation tools to train aid workers on effective cross-cultural communication and conflict resolution.",
+    "keywords": [
+      "VR Training",
+      "Cultural Competency",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 7774,
+    "title": "Open-Source Standard for Aid Metadata",
+    "domain": "114",
+    "description": "Define and promote an open-source data standard to ensure interoperability and aggregation of logistics and impact data across different humanitarian organizations.",
+    "keywords": [
+      "Data Standards",
+      "Interoperability",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 7775,
+    "title": "AI-Driven Donor Matching Platform",
+    "domain": "114",
+    "description": "Develop an AI system that matches specific donor funds (e.g., restricted grants) to the most urgent and suitable projects based on real-time needs.",
+    "keywords": [
+      "AI Matching",
+      "Fundraising",
+      "Resource Allocation"
+    ]
+  },
+  {
+    "id": 7776,
+    "title": "Low-Cost 3D Printing for Repair Parts",
+    "domain": "114",
+    "description": "Establish mobile, low-cost 3D printing stations in disaster zones to produce urgently needed replacement parts for medical equipment or infrastructure.",
+    "keywords": [
+      "3D Printing",
+      "Additive Manufacturing",
+      "Field Repair"
+    ]
+  },
+  {
+    "id": 7777,
+    "title": "Predictive Model for Refugee Migration Flows",
+    "domain": "114",
+    "description": "Build a statistical model that integrates conflict, climate, and economic data to forecast the volume and direction of future population movements.",
+    "keywords": [
+      "Migration Modeling",
+      "Forecasting",
+      "Big Data Analytics"
+    ]
+  },
+  {
+    "id": 7778,
+    "title": "Optimizing Cold Chain Logistics in Hot Climates",
+    "domain": "114",
+    "description": "Design specialized, low-power cooling units and logistics protocols to maintain the cold chain for vaccines and medicines in remote, hot environments.",
+    "keywords": [
+      "Cold Chain",
+      "Temperature Control",
+      "Logistics Optimization"
+    ]
+  },
+  {
+    "id": 7779,
+    "title": "Cybersecurity for Humanitarian Data",
+    "domain": "114",
+    "description": "Develop a robust, cost-effective cybersecurity framework specifically designed to protect sensitive personal data collected by NGOs in conflict zones.",
+    "keywords": [
+      "Cybersecurity",
+      "Data Protection",
+      "NGO Security"
+    ]
+  },
+  {
+    "id": 7780,
+    "title": "Interactive Mapping of Mine/UXO Contamination",
+    "domain": "114",
+    "description": "Create an interactive, publicly accessible map that integrates data from various sources (satellite, drone, field reports) to visualize unexploded ordnance (UXO) risks.",
+    "keywords": [
+      "Geospatial Data",
+      "Risk Mapping",
+      "Mine Action"
+    ]
+  },
+  {
+    "id": 7781,
+    "title": "Automated Incident Reporting System",
+    "domain": "114",
+    "description": "Implement an AI-powered system to analyze field reports and social media for early detection and classification of protection incidents (e.g., violence, abuse).",
+    "keywords": [
+      "Incident Detection",
+      "AI Monitoring",
+      "Protection Services"
+    ]
+  },
+  {
+    "id": 7782,
+    "title": "Modular and Rapidly Deployable Hospitals",
+    "domain": "114",
+    "description": "Design standardized, easily transportable, and quickly assembled modular components for field hospitals that meet international clinical standards.",
+    "keywords": [
+      "Modular Design",
+      "Field Hospital",
+      "Emergency Infrastructure"
+    ]
+  },
+  {
+    "id": 7783,
+    "title": "Sustainable Waste Management in Camps",
+    "domain": "114",
+    "description": "Implement a closed-loop system using pyrolysis or bioreactors to convert camp waste into reusable energy or materials, minimizing environmental impact.",
+    "keywords": [
+      "Waste-to-Energy",
+      "Sustainability",
+      "Camp Management"
+    ]
+  },
+  {
+    "id": 7784,
+    "title": "Dynamic Fuel Consumption Optimization",
+    "domain": "114",
+    "description": "Develop a system to monitor and optimize fuel consumption for aid convoys using real-time road condition, weather, and vehicle performance data.",
+    "keywords": [
+      "Fuel Efficiency",
+      "Logistics Optimization",
+      "Telematics"
+    ]
+  },
+  {
+    "id": 7785,
+    "title": "AI-Powered Mental Health Triage",
+    "domain": "114",
+    "description": "Create an AI chatbot or voice interface to provide immediate, confidential mental health triage and referral services to disaster survivors.",
+    "keywords": [
+      "Mental Health AI",
+      "Triage",
+      "Chatbot Technology"
+    ]
+  },
+  {
+    "id": 7786,
+    "title": "High-Altitude Platform Station (HAPS) for Connectivity",
+    "domain": "114",
+    "description": "Explore the use of HAPS (e.g., solar-powered pseudo-satellites) to provide persistent, wide-area communication coverage over remote disaster zones.",
+    "keywords": [
+      "HAPS",
+      "Communication Technology",
+      "Wide-Area Network"
+    ]
+  },
+  {
+    "id": 7787,
+    "title": "Vulnerability Mapping for Climate Disasters",
+    "domain": "114",
+    "description": "Combine climate models, socio-economic data, and infrastructure maps to generate high-resolution vulnerability indexes for specific communities.",
+    "keywords": [
+      "Climate Resilience",
+      "Vulnerability Assessment",
+      "GIS Mapping"
+    ]
+  },
+  {
+    "id": 7788,
+    "title": "Aid Worker Safety and Tracking System",
+    "domain": "114",
+    "description": "Implement a real-time tracking and emergency alert system for field staff operating in high-risk zones, prioritizing low-bandwidth communication.",
+    "keywords": [
+      "Personnel Safety",
+      "Tracking System",
+      "Security Tech"
+    ]
+  },
+  {
+    "id": 7789,
+    "title": "Micro-Finance Platform using Mobile Money",
+    "domain": "114",
+    "description": "Develop a decentralized platform to facilitate small-scale micro-finance and direct cash transfers to vulnerable populations via mobile money APIs.",
+    "keywords": [
+      "Mobile Money",
+      "Financial Inclusion",
+      "Cash Transfers"
+    ]
+  },
+  {
+    "id": 7790,
+    "title": "AI for Medical Supply Quality Assurance",
+    "domain": "114",
+    "description": "Use computer vision or spectral analysis to quickly verify the authenticity and quality of drugs and medical supplies upon arrival in the field, detecting counterfeits.",
+    "keywords": [
+      "Computer Vision",
+      "Quality Control",
+      "Counterfeit Detection"
+    ]
+  },
+  {
+    "id": 7791,
+    "title": "Standardized Drone Flight Planning for Mapping",
+    "domain": "114",
+    "description": "Create an automated, standardized flight planning and data processing pipeline for drones to generate consistent, high-quality maps of affected areas.",
+    "keywords": [
+      "Drone Mapping",
+      "Data Standardization",
+      "UAV Workflow"
+    ]
+  },
+  {
+    "id": 7792,
+    "title": "Optimizing Volunteer Deployment and Scheduling",
+    "domain": "114",
+    "description": "Develop an algorithm to match and schedule volunteers with required skills to the most critical tasks and locations in real-time.",
+    "keywords": [
+      "Volunteer Management",
+      "Optimization Algorithm",
+      "Workforce Scheduling"
+    ]
+  },
+  {
+    "id": 7793,
+    "title": "Decentralized Data Repository for Needs",
+    "domain": "114",
+    "description": "Establish a secure, decentralized network for NGOs to share anonymized data on community needs and gaps, avoiding duplication of services.",
+    "keywords": [
+      "Decentralized Data",
+      "Data Sharing",
+      "Collaboration Tech"
+    ]
+  },
+  {
+    "id": 7794,
+    "title": "Low-Power Environmental Monitoring Kits",
+    "domain": "114",
+    "description": "Design robust, low-cost sensor kits to monitor air quality, noise, and sanitation conditions in congested camp settings.",
+    "keywords": [
+      "Sensor Technology",
+      "Environmental Health",
+      "Low-Power IoT"
+    ]
+  },
+  {
+    "id": 7795,
+    "title": "Predictive Maintenance for Aid Vehicles",
+    "domain": "114",
+    "description": "Use telematics and machine learning to predict potential mechanical failures in aid vehicles, enabling proactive maintenance and reducing logistics downtime.",
+    "keywords": [
+      "Predictive Maintenance",
+      "Fleet Management",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 7796,
+    "title": "AI-Assisted Legal Documentation for Refugees",
+    "domain": "114",
+    "description": "Develop an AI tool to assist legal aid workers in quickly drafting and verifying necessary documentation for asylum applications and legal status.",
+    "keywords": [
+      "Legal Tech",
+      "AI Assistance",
+      "Refugee Law"
+    ]
+  },
+  {
+    "id": 7797,
+    "title": "Interactive Voice Response (IVR) Needs Hotline",
+    "domain": "114",
+    "description": "Create a simple, multilingual IVR system for populations with low literacy or limited data access to report urgent needs via standard phone calls.",
+    "keywords": [
+      "IVR",
+      "Accessibility",
+      "Information Dissemination"
+    ]
+  },
+  {
+    "id": 7798,
+    "title": "Optimized Water Purification and Distribution",
+    "domain": "114",
+    "description": "Design and implement mobile, highly efficient water purification units powered by renewable energy for rapid deployment post-disaster.",
+    "keywords": [
+      "Water Purification",
+      "Renewable Energy",
+      "Mobile Infrastructure"
+    ]
+  },
+  {
+    "id": 7799,
+    "title": "Gamified Training for Disaster Preparedness",
+    "domain": "114",
+    "description": "Develop engaging mobile or VR games to educate communities on effective disaster response and preparedness protocols.",
+    "keywords": [
+      "Gamification",
+      "Training Simulation",
+      "Disaster Preparedness"
+    ]
+  },
+  {
+    "id": 7800,
+    "title": "Blockchain for Certifying Aid Worker Training",
+    "domain": "114",
+    "description": "Use blockchain technology to create an immutable record of aid workers' training certifications, skills, and deployment history for rapid credential verification.",
+    "keywords": [
+      "Blockchain",
+      "Credentialing",
+      "HR Management"
+    ]
+  },
+  {
+    "id": 7801,
+    "title": "Computer Vision for Food Ration Tracking",
+    "domain": "114",
+    "description": "Implement camera-based systems at distribution points to accurately count and verify the commodities being distributed, reducing manual error and potential theft.",
+    "keywords": [
+      "Computer Vision",
+      "Asset Tracking",
+      "Distribution Audit"
+    ]
+  },
+  {
+    "id": 7802,
+    "title": "AI for Early Detection of Disease Outbreaks",
+    "domain": "114",
+    "description": "Integrate and analyze diverse data sources (e.g., clinical data, water quality, social media) to predict and flag potential infectious disease outbreaks in camps.",
+    "keywords": [
+      "Epidemic Modeling",
+      "Early Warning System",
+      "Public Health AI"
+    ]
+  },
+  {
+    "id": 7803,
+    "title": "Low-Cost Sensor for Bridge/Road Integrity",
+    "domain": "114",
+    "description": "Develop durable, low-cost sensor arrays to quickly assess the structural integrity of critical infrastructure (bridges, roads) post-disaster for safe passage of aid.",
+    "keywords": [
+      "Structural Monitoring",
+      "Infrastructure Assessment",
+      "Field Sensors"
+    ]
+  },
+  {
+    "id": 7804,
+    "title": "Decentralized Energy-Sharing in Camps",
+    "domain": "114",
+    "description": "Create a peer-to-peer platform for managing and trading excess solar power generated by individual shelters within a displacement camp.",
+    "keywords": [
+      "Energy Sharing",
+      "P2P Network",
+      "Sustainable Solutions"
+    ]
+  },
+  {
+    "id": 7805,
+    "title": "AI-Powered Translation for Technical Manuals",
+    "domain": "114",
+    "description": "Develop a specialized translation AI focused on technical jargon (medical, engineering) to quickly translate complex operational manuals for local staff.",
+    "keywords": [
+      "Technical Translation",
+      "AI Localization",
+      "Training Materials"
+    ]
+  },
+  {
+    "id": 7806,
+    "title": "Optimizing Cross-Border Supply Chains",
+    "domain": "114",
+    "description": "Implement a unified platform to manage complex customs, regulatory, and security requirements for moving aid supplies across multiple international borders.",
+    "keywords": [
+      "Cross-Border Logistics",
+      "Supply Chain Management",
+      "Regulatory Compliance"
+    ]
+  },
+  {
+    "id": 7807,
+    "title": "Automated Tracking of Financial Disbursements",
+    "domain": "114",
+    "description": "Use secure digital ledger technology to provide a real-time, public audit trail for all operational expenditures and financial aid disbursements.",
+    "keywords": [
+      "Financial Transparency",
+      "Audit Trail",
+      "Digital Ledger"
+    ]
+  },
+  {
+    "id": 7808,
+    "title": "Rapid Mapping of Informal Settlements",
+    "domain": "114",
+    "description": "Use low-cost aerial platforms and image processing to quickly map and update the boundaries and density of unplanned/informal settlements for targeted aid delivery.",
+    "keywords": [
+      "Informal Settlements",
+      "Aerial Mapping",
+      "Geospatial Analysis"
+    ]
+  },
+  {
+    "id": 7809,
+    "title": "Predictive Model for Aid Worker Fatigue/Burnout",
+    "domain": "114",
+    "description": "Analyze staff data (e.g., working hours, location, mission duration) to predict and flag personnel at high risk of stress and burnout, enabling proactive intervention.",
+    "keywords": [
+      "Workforce Wellness",
+      "Predictive Modeling",
+      "HR Analytics"
+    ]
+  },
+  {
+    "id": 7810,
+    "title": "Digital Vouchers for Local Market Sourcing",
+    "domain": "114",
+    "description": "Implement a secure, mobile-based digital voucher system to empower beneficiaries to purchase goods from local markets, stimulating the local economy.",
+    "keywords": [
+      "Digital Vouchers",
+      "Local Sourcing",
+      "Economic Stimulus"
+    ]
+  },
+  {
+    "id": 7811,
+    "title": "AI-Driven Risk Assessment for Logistics Routes",
+    "domain": "114",
+    "description": "Combine political stability data, conflict heatmaps, and road quality to provide real-time, dynamic security risk ratings for all aid delivery routes.",
+    "keywords": [
+      "Security Risk Assessment",
+      "Route Planning",
+      "Geopolitics"
+    ]
+  },
+  {
+    "id": 7812,
+    "title": "Modular Disaster Housing using Recycled Materials",
+    "domain": "114",
+    "description": "Design and prototype rapidly deployable, durable temporary housing solutions constructed primarily from locally sourced or recycled waste materials.",
+    "keywords": [
+      "Sustainable Housing",
+      "Recycled Materials",
+      "Rapid Construction"
+    ]
+  },
+  {
+    "id": 7813,
+    "title": "Universal Data Connector for NGO Systems",
+    "domain": "114",
+    "description": "Build an open-source API and data normalization tool that allows different humanitarian organizations' internal databases to communicate seamlessly.",
+    "keywords": [
+      "API Development",
+      "Data Interoperability",
+      "Data Normalization"
+    ]
+  },
+  {
+    "id": 7814,
+    "title": "Augmented Reality (AR) for Field Repair",
+    "domain": "114",
+    "description": "Develop an AR application to guide local technicians through complex repair and maintenance procedures for medical or water/sanitation equipment.",
+    "keywords": [
+      "Augmented Reality",
+      "Field Maintenance",
+      "Training Assistance"
+    ]
+  },
+  {
+    "id": 7815,
+    "title": "Dynamic Optimization of Truck Loading",
+    "domain": "114",
+    "description": "Create a volumetric algorithm that optimizes the packing of diverse relief items onto aid trucks, maximizing space efficiency and load stability.",
+    "keywords": [
+      "Load Optimization",
+      "Logistics Efficiency",
+      "Volumetric Analysis"
+    ]
+  },
+  {
+    "id": 7816,
+    "title": "Portable Lab-on-a-Chip for Disease Diagnosis",
+    "domain": "114",
+    "description": "Design a low-cost, handheld device capable of rapid, point-of-care diagnosis of multiple common infectious diseases in the field.",
+    "keywords": [
+      "Point-of-Care Diagnostics",
+      "Lab-on-a-Chip",
+      "Medical Tech"
+    ]
+  },
+  {
+    "id": 7817,
+    "title": "AI-Moderated Digital Suggestion Box",
+    "domain": "114",
+    "description": "Implement a secure, anonymous platform where beneficiaries can submit suggestions or complaints, using AI to filter, translate, and prioritize urgent issues.",
+    "keywords": [
+      "AI Moderation",
+      "Beneficiary Accountability",
+      "Feedback Mechanism"
+    ]
+  },
+  {
+    "id": 7818,
+    "title": "Hyper-Local Climate Impact Forecasting",
+    "domain": "114",
+    "description": "Develop ultra-high-resolution, short-term weather and flood models tailored specifically for critical aid delivery areas and camps.",
+    "keywords": [
+      "Climate Forecasting",
+      "Flood Modeling",
+      "Emergency Meteorology"
+    ]
+  },
+  {
+    "id": 7819,
+    "title": "Blockchain for Land Tenure Security",
+    "domain": "114",
+    "description": "Use secure blockchain records to help displaced persons document and verify property ownership claims that may be challenged post-conflict or disaster.",
+    "keywords": [
+      "Land Rights",
+      "Blockchain Registry",
+      "Property Documentation"
+    ]
+  },
+  {
+    "id": 7820,
+    "title": "Wearable Tech for Field Worker Biometrics",
+    "domain": "114",
+    "description": "Deploy robust, simple wearable devices to monitor vital signs and stress levels of aid workers in extreme or hazardous environments.",
+    "keywords": [
+      "Wearable Sensors",
+      "Occupational Health",
+      "Biometric Monitoring"
+    ]
+  },
+  {
+    "id": 7821,
+    "title": "Automated Inventory Check via RFID",
+    "domain": "114",
+    "description": "Implement RFID (Radio-Frequency Identification) technology across all aid parcels and distribution points for instant, automated inventory counts and loss detection.",
+    "keywords": [
+      "RFID",
+      "Inventory Control",
+      "Asset Tracking"
+    ]
+  },
+  {
+    "id": 7822,
+    "title": "Virtual Reality (VR) for Remote Site Visits",
+    "domain": "114",
+    "description": "Use 360-degree cameras and VR technology to allow remote management and donors to conduct virtual tours and assessments of field projects, reducing travel risk and cost.",
+    "keywords": [
+      "Virtual Reality",
+      "Remote Monitoring",
+      "Site Assessment"
+    ]
+  },
+  {
+    "id": 7823,
+    "title": "AI-Powered Budget Allocation for Emergencies",
+    "domain": "114",
+    "description": "Develop an algorithm to instantly re-allocate emergency funds based on the most recent, verified needs assessment data, maximizing impact efficiency.",
+    "keywords": [
+      "Financial Allocation",
+      "Emergency Budgeting",
+      "Optimization Algorithm"
+    ]
+  },
+  {
+    "id": 7824,
+    "title": "Standardized Data Collection Forms (Digital)",
+    "domain": "114",
+    "description": "Create a library of open-source, mobile-friendly digital forms (e.g., using ODK/Kobo) for rapid, standardized data collection across all humanitarian sectors.",
+    "keywords": [
+      "Data Collection",
+      "Mobile Forms",
+      "Standardization"
+    ]
+  },
+  {
+    "id": 7825,
+    "title": "Low-Cost Bioreactors for Local Sanitation",
+    "domain": "114",
+    "description": "Design and implement simple, modular bioreactor systems that efficiently treat sewage and produce clean water or biogas in displacement camps.",
+    "keywords": [
+      "Sanitation Technology",
+      "Bioremediation",
+      "Wastewater Treatment"
+    ]
+  },
+  {
+    "id": 7826,
+    "title": "Predictive Model for Food Insecurity",
+    "domain": "114",
+    "description": "Integrate market prices, agricultural data, conflict metrics, and weather patterns to forecast areas at highest risk of famine months in advance.",
+    "keywords": [
+      "Food Security",
+      "Famine Prediction",
+      "Integrated Modeling"
+    ]
+  },
+  {
+    "id": 7827,
+    "title": "Dynamic Fleet Resizing and Repositioning",
+    "domain": "114",
+    "description": "Create a logistics model to optimize the size and geographical distribution of aid vehicle fleets based on predicted demand fluctuations.",
+    "keywords": [
+      "Fleet Management",
+      "Logistics Planning",
+      "Resource Optimization"
+    ]
+  },
+  {
+    "id": 7828,
+    "title": "AI for Personalized Aid Information Delivery",
+    "domain": "114",
+    "description": "Use AI to filter and deliver highly personalized, need-specific information (e.g., clinic hours, food distribution location) to beneficiaries via SMS or simple messaging apps.",
+    "keywords": [
+      "Personalized Communication",
+      "Information Dissemination",
+      "Messaging Tech"
+    ]
+  },
+  {
+    "id": 7829,
+    "title": "Mobile Solar-Powered Water Pumps",
+    "domain": "114",
+    "description": "Design lightweight, rapidly deployable solar-powered pump systems for extracting and moving water from temporary or newly accessed sources.",
+    "keywords": [
+      "Solar Power",
+      "Water Pumping",
+      "Mobile Utility"
+    ]
+  },
+  {
+    "id": 7830,
+    "title": "Blockchain for Donor Earmarking",
+    "domain": "114",
+    "description": "Allow donors to directly earmark their funds to specific, verified beneficiaries or micro-projects using a public, immutable blockchain registry.",
+    "keywords": [
+      "Blockchain",
+      "Donor Transparency",
+      "Earmarking"
+    ]
+  },
+  {
+    "id": 7831,
+    "title": "AI-Assisted Search and Rescue (SAR) Planning",
+    "domain": "114",
+    "description": "Use AI to process drone/satellite imagery, cell phone pings, and geological data to prioritize SAR zones and allocate teams optimally.",
+    "keywords": [
+      "Search and Rescue",
+      "AI Planning",
+      "Disaster Operations"
+    ]
+  },
+  {
+    "id": 7832,
+    "title": "Standardized Packaging for Modular Aid Kits",
+    "domain": "114",
+    "description": "Design a standardized, interlocking, and reusable packaging system for common aid items (shelter, WASH, medical) to improve shipping density and field handling.",
+    "keywords": [
+      "Modular Packaging",
+      "Logistics Efficiency",
+      "Standardization"
+    ]
+  },
+  {
+    "id": 7833,
+    "title": "IoT for Vaccine Vial Monitoring",
+    "domain": "114",
+    "description": "Deploy tiny, low-cost IoT sensors inside vaccine vials to continuously track temperature exposure and handling, ensuring product integrity.",
+    "keywords": [
+      "Vaccine Cold Chain",
+      "IoT Monitoring",
+      "Product Integrity"
+    ]
+  },
+  {
+    "id": 7834,
+    "title": "VR Training for Equipment Operation",
+    "domain": "114",
+    "description": "Develop virtual reality modules to safely train local staff on the operation and maintenance of complex equipment like generators, water purifiers, or heavy machinery.",
+    "keywords": [
+      "VR Training",
+      "Skills Transfer",
+      "Equipment Operation"
+    ]
+  },
+  {
+    "id": 7835,
+    "title": "AI-Powered Fraud Detection in Cash Transfers",
+    "domain": "114",
+    "description": "Use machine learning to analyze transaction patterns, recipient demographics, and geographical data to identify and flag suspicious or fraudulent cash transfer activity.",
+    "keywords": [
+      "Fraud Detection",
+      "Cash Assistance",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 7836,
+    "title": "Rapidly Deployable Temporary Roads/Runways",
+    "domain": "114",
+    "description": "Develop a technology or material system for quickly laying down temporary, load-bearing surfaces for emergency landing strips or access roads in damaged areas.",
+    "keywords": [
+      "Temporary Infrastructure",
+      "Emergency Engineering",
+      "Logistics Access"
+    ]
+  },
+  {
+    "id": 7837,
+    "title": "Interactive 3D Modeling of Disaster Zones",
+    "domain": "114",
+    "description": "Generate detailed, interactive 3D models of affected urban areas using photogrammetry from drone/aerial imagery for precise planning and coordination.",
+    "keywords": [
+      "3D Modeling",
+      "Photogrammetry",
+      "Disaster Visualization"
+    ]
+  },
+  {
+    "id": 7838,
+    "title": "Open-Source Tool for Grant Reporting Automation",
+    "domain": "114",
+    "description": "Create a platform that automatically pulls data from multiple NGO internal systems (logistics, finance, M&E) to populate standardized donor grant reports.",
+    "keywords": [
+      "Grant Reporting",
+      "Data Automation",
+      "M&E Systems"
+    ]
+  },
+  {
+    "id": 7839,
+    "title": "Predictive Model for Aid Convoy Interdiction",
+    "domain": "114",
+    "description": "Integrate security incident reports and local conflict data to forecast high-risk areas and times for aid convoy attacks or interdictions.",
+    "keywords": [
+      "Security Prediction",
+      "Conflict Mapping",
+      "Logistics Security"
+    ]
+  },
+  {
+    "id": 7840,
+    "title": "Mobile Application for Spontaneous Volunteers",
+    "domain": "114",
+    "description": "Develop a secure app to rapidly register, vet, and deploy spontaneous, untrained volunteers during a massive sudden-onset disaster.",
+    "keywords": [
+      "Volunteer Vetting",
+      "Mass Mobilization",
+      "Disaster Response App"
+    ]
+  },
+  {
+    "id": 7841,
+    "title": "AI for Optimizing Food Aid Composition",
+    "domain": "114",
+    "description": "Use an algorithm to design the optimal nutritional composition of emergency food rations based on local cultural preferences, nutritional deficiencies, and supply constraints.",
+    "keywords": [
+      "Nutritional Optimization",
+      "Food Aid",
+      "Supply Chain Modeling"
+    ]
+  },
+  {
+    "id": 7842,
+    "title": "Low-Cost Portable Field Latrines (WASH)",
+    "domain": "114",
+    "description": "Design lightweight, reusable, and easily sanitized latrine units that can be quickly deployed to mass temporary shelter sites, improving WASH standards.",
+    "keywords": [
+      "WASH Technology",
+      "Sanitation",
+      "Field Infrastructure"
+    ]
+  },
+  {
+    "id": 7843,
+    "title": "Decentralized Power Monitoring and Management",
+    "domain": "114",
+    "description": "Implement an IoT-based system to monitor power generation (generators, solar) and consumption across a camp, optimizing fuel use and preventing blackouts.",
+    "keywords": [
+      "Power Management",
+      "IoT Monitoring",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "id": 7844,
+    "title": "AI-Powered Needs Prioritization Engine",
+    "domain": "114",
+    "description": "Develop a system that aggregates and scores diverse needs data (from surveys, satellite, social media) to generate a ranked list of critical interventions.",
+    "keywords": [
+      "Needs Assessment",
+      "Prioritization Algorithm",
+      "Decision Support"
+    ]
+  },
+  {
+    "id": 7845,
+    "title": "Automated Tracking of Aid Worker Deployment Hours",
+    "domain": "114",
+    "description": "Use location services and digital check-ins to automatically log aid worker hours across different projects for accurate effort reporting and compliance.",
+    "keywords": [
+      "Time Tracking",
+      "HR Automation",
+      "Compliance Reporting"
+    ]
+  },
+  {
+    "id": 7846,
+    "title": "Blockchain for Certifying Donated Goods",
+    "domain": "114",
+    "description": "Create a secure ledger to verify the provenance and quality of large, in-kind donations (e.g., medical equipment, vehicles) from origin to recipient.",
+    "keywords": [
+      "In-Kind Donations",
+      "Provenance Tracking",
+      "Supply Chain Verification"
+    ]
+  },
+  {
+    "id": 7847,
+    "title": "Predictive Model for Infrastructure Failure",
+    "domain": "114",
+    "description": "Integrate historical maintenance data, age, and environmental stress to predict the likelihood of failure for key aid-related infrastructure (e.g., water pipes, generators).",
+    "keywords": [
+      "Failure Prediction",
+      "Infrastructure Resilience",
+      "Maintenance Modeling"
+    ]
+  },
+  {
+    "id": 7848,
+    "title": "AI-Assisted Triage for Medical Cases",
+    "domain": "114",
+    "description": "Implement a mobile application using AI to guide non-medical field staff in performing initial medical triage and referral based on patient-reported symptoms.",
+    "keywords": [
+      "Medical Triage",
+      "Mobile Health",
+      "AI Decision Support"
+    ]
+  },
+  {
+    "id": 7849,
+    "title": "Geo-Fencing for Aid Recipient Compliance",
+    "domain": "114",
+    "description": "Use secure mobile technology and geo-fencing to ensure beneficiaries only redeem digital aid vouchers at authorized distribution points or markets.",
+    "keywords": [
+      "Geo-Fencing",
+      "Compliance Monitoring",
+      "Digital Aid"
+    ]
+  },
+  {
+    "id": 7850,
+    "title": "Low-Cost Wind Turbines for Remote Power",
+    "domain": "114",
+    "description": "Design simple, durable, and easily assembled small-scale wind turbines suitable for providing power in remote, high-wind humanitarian settings.",
+    "keywords": [
+      "Wind Energy",
+      "Renewable Power",
+      "Off-Grid Solutions"
+    ]
+  },
+  {
+    "id": 7851,
+    "title": "Integrated Platform for Humanitarian Flights",
+    "domain": "114",
+    "description": "Create a centralized booking and coordination platform for all humanitarian air transport (cargo and personnel), optimizing shared flight routes and capacity.",
+    "keywords": [
+      "Air Logistics",
+      "Flight Coordination",
+      "Resource Sharing"
+    ]
+  },
+  {
+    "id": 7852,
+    "title": "AI for Detecting Misinformation/Disinformation",
+    "domain": "114",
+    "description": "Develop a tool to monitor and analyze social media and local communication channels to rapidly identify and counter harmful rumors or disinformation about aid operations.",
+    "keywords": [
+      "Misinformation Detection",
+      "Social Media Monitoring",
+      "Risk Communication"
+    ]
+  },
+  {
+    "id": 7853,
+    "title": "Modular and Reusable Field Office Systems",
+    "domain": "114",
+    "description": "Design standardized, flat-pack, and highly insulated modular units that can be quickly assembled and disassembled for temporary field offices.",
+    "keywords": [
+      "Modular Construction",
+      "Field Office",
+      "Temporary Facilities"
+    ]
+  },
+  {
+    "id": 7854,
+    "title": "Optimizing Warehouse Layout using Computer Vision",
+    "domain": "114",
+    "description": "Use ceiling-mounted cameras and computer vision to analyze and optimize the movement of people and inventory within aid warehouses for faster picking/packing.",
+    "keywords": [
+      "Computer Vision",
+      "Warehouse Optimization",
+      "Efficiency Analysis"
+    ]
+  },
+  {
+    "id": 7855,
+    "title": "Decentralized Education Platform for Displaced Youth",
+    "domain": "114",
+    "description": "Develop an offline-first, secure platform that delivers standardized educational content and tracking for youth whose schooling has been interrupted.",
+    "keywords": [
+      "EdTech",
+      "Offline Learning",
+      "Displaced Persons Education"
+    ]
+  },
+  {
+    "id": 7856,
+    "title": "Predictive Model for Post-Conflict Displacement",
+    "domain": "114",
+    "description": "Analyze peace treaty data, security indicators, and socio-economic factors to forecast the speed and pattern of return migration post-conflict.",
+    "keywords": [
+      "Return Migration",
+      "Post-Conflict Analysis",
+      "Forecasting"
+    ]
+  },
+  {
+    "id": 7857,
+    "title": "AI for Summarizing Lengthy Field Reports",
+    "domain": "114",
+    "description": "Develop an NLP tool to automatically process and generate concise summaries and key takeaways from hundreds of daily, unstructured field reports.",
+    "keywords": [
+      "NLP Summarization",
+      "Reporting Automation",
+      "Information Management"
+    ]
+  },
+  {
+    "id": 7858,
+    "title": "Low-Cost Aerial Survey via Kite/Balloon",
+    "domain": "114",
+    "description": "Create a system for deploying simple cameras on tethered kites or balloons to generate low-altitude, high-resolution imagery when drone use is restricted or impractical.",
+    "keywords": [
+      "Aerial Survey",
+      "Low-Cost Mapping",
+      "Remote Sensing"
+    ]
+  },
+  {
+    "id": 7859,
+    "title": "Blockchain for Equipment Maintenance History",
+    "domain": "114",
+    "description": "Use an immutable ledger to track the full maintenance and repair history of high-value aid assets (e.g., generators, vehicles, medical gear).",
+    "keywords": [
+      "Asset Maintenance",
+      "Blockchain Tracking",
+      "Equipment Lifecycle"
+    ]
+  },
+  {
+    "id": 7860,
+    "title": "AI-Powered Resource Mobilization for Chronic Crises",
+    "domain": "114",
+    "description": "Develop an AI model to project long-term funding needs and identify innovative financing mechanisms for protracted, chronic humanitarian crises.",
+    "keywords": [
+      "Resource Mobilization",
+      "Financial Modeling",
+      "Chronic Crisis"
+    ]
+  },
+  {
+    "id": 7861,
+    "title": "Real-Time Mapping of Road Accessibility",
+    "domain": "114",
+    "description": "Use machine learning to analyze satellite or drone imagery for identifying impassable roads, collapsed bridges, or flood-affected routes in real-time.",
+    "keywords": [
+      "Road Accessibility",
+      "Real-Time Mapping",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 7862,
+    "title": "Portable and Modular Food Preparation Kits",
+    "domain": "114",
+    "description": "Design standardized, all-in-one kits containing essential cooking equipment and fuel-efficient stoves for distribution to individual beneficiary families.",
+    "keywords": [
+      "Food Security",
+      "Modular Kits",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "id": 7863,
+    "title": "AI for Optimizing In-Kind Donation Sorting",
+    "domain": "114",
+    "description": "Implement a computer vision system at aid sorting facilities to rapidly identify, categorize, and prioritize the millions of individual donated items.",
+    "keywords": [
+      "In-Kind Management",
+      "Sorting Automation",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": 7864,
+    "title": "Decentralized Messaging for Community Alerts",
+    "domain": "114",
+    "description": "Develop a secure, low-bandwidth, peer-to-peer messaging system for local communities to share critical early warnings about hazards or security incidents.",
+    "keywords": [
+      "P2P Communication",
+      "Early Warning",
+      "Low-Bandwidth Tech"
+    ]
+  },
+  {
+    "id": 7865,
+    "title": "Predictive Model for Secondary Disaster Risk",
+    "domain": "114",
+    "description": "Use meteorological and geological data to forecast the risk of secondary events (e.g., landslides after earthquakes, fires after floods) following a primary disaster.",
+    "keywords": [
+      "Disaster Risk Reduction",
+      "Secondary Hazards",
+      "Geospatial Modeling"
+    ]
+  },
+  {
+    "id": 7866,
+    "title": "Open-Source Standard for Beneficiary Data Privacy",
+    "domain": "114",
+    "description": "Define and promote a technical and legal framework for the secure, ethical, and anonymized collection, storage, and sharing of humanitarian beneficiary data.",
+    "keywords": [
+      "Data Privacy",
+      "Ethical Tech",
+      "Data Governance"
+    ]
+  },
+  {
+    "id": 7867,
+    "title": "AI for Optimizing Search Area for Lost Cargo",
+    "domain": "114",
+    "description": "Develop an AI system that integrates telemetry data, environmental factors, and historical loss patterns to define the most probable search area for lost aid cargo.",
+    "keywords": [
+      "Search Optimization",
+      "Cargo Recovery",
+      "Logistics Security"
+    ]
+  },
+  // domain 115
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-        // Note: In a real implementation, this array would contain 2000+ problems
-        // This sample shows the structure and approach for the complete dataset
+    
     ]
 };
 
