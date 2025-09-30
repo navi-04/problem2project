@@ -60456,7 +60456,745 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 118
-  
+  {
+    "id": 8289,
+    "title": "Low-Temperature Plasma Sterilization for Heat-Sensitive Medical Devices",
+    "domain": "118",
+    "description": "Develop a non-thermal plasma system (e.g., using $\text{H}_2\text{O}_2$ or $\text{O}_2$ plasma) that achieves $\text{>6-log}$ microbial reduction on complex, internal geometries of surgical tools without heat damage.",
+    "keywords": [
+      "Plasma Sterilization",
+      "Low-Temperature Plasma",
+      "Medical Devices"
+    ]
+  },
+  {
+    "id": 8290,
+    "title": "Atmospheric Pressure Plasma Jet for Selective Surface Functionalization",
+    "domain": "118",
+    "description": "Design a highly focused, atmospheric pressure plasma jet (APPJ) system capable of depositing or grafting specific chemical functional groups (e.g., $\text{amino,}$ $\text{carboxyl}$) onto complex $\text{3D}$ surfaces with high spatial resolution.",
+    "keywords": [
+      "APPJ",
+      "Surface Functionalization",
+      "Selective Treatment"
+    ]
+  },
+  {
+    "id": 8291,
+    "title": "Plasma-Enhanced Atomic Layer Deposition ($\text{PE-ALD}$) for Flexible Electronics",
+    "domain": "118",
+    "description": "Optimize $\text{PE-ALD}$ processes for depositing ultra-thin, pinhole-free barrier layers ($\text{e.g.,}$ $\text{Al}_2\text{O}_3$) onto large-area, flexible polymer substrates at low temperatures.",
+    "keywords": [
+      "PE-ALD",
+      "Flexible Electronics",
+      "Barrier Films"
+    ]
+  },
+  {
+    "id": 8292,
+    "title": "AI for Real-Time Plasma Process Monitoring and Quality Control",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model to analyze optical emission spectroscopy ($\text{OES}$) data and electrical parameters of a plasma reactor to predict the resulting film properties or surface energy in real-time.",
+    "keywords": [
+      "Plasma Diagnostics",
+      "AI Control",
+      "Process Monitoring"
+    ]
+  },
+  {
+    "id": 8293,
+    "title": "Plasma-Activated Water ($\text{PAW}$) System for Agricultural Seed Treatment",
+    "domain": "118",
+    "description": "Develop an efficient $\text{PAW}$ generation system to enhance seed germination, surface sterilization, and plant growth promotion without relying on chemical agents.",
+    "keywords": [
+      "Plasma Agriculture",
+      "PAW",
+      "Seed Treatment"
+    ]
+  },
+  {
+    "id": 8294,
+    "title": "Atmospheric Pressure Plasma for High-Speed Polymer Welding and Bonding",
+    "domain": "118",
+    "description": "Design an in-line atmospheric plasma system for rapid surface activation of polymer films and sheets, enabling strong, solvent-free adhesive bonding or direct welding in high-speed manufacturing.",
+    "keywords": [
+      "Plasma Treatment",
+      "Polymer Bonding",
+      "High-Speed Manufacturing"
+    ]
+  },
+  {
+    "id": 8295,
+    "title": "Vacuum Plasma System for Internal Coating of Complex $\text{3D}$ Printed Parts",
+    "domain": "118",
+    "description": "Develop a plasma coating technique (e.g., $\text{PECVD}$) to uniformly deposit protective or functional coatings on the intricate internal channels and surfaces of parts fabricated via $\text{Additive}$ $\text{Manufacturing}$.",
+    "keywords": [
+      "Plasma Coating",
+      "3D Printing",
+      "PECVD"
+    ]
+  },
+  {
+    "id": 8296,
+    "title": "Dielectric Barrier Discharge ($\text{DBD}$) Plasma for $\text{VOC}$ $\text{(Volatile}$ $\text{Organic}$ $\text{Compound)}$ $\text{Abatement}$",
+    "domain": "118",
+    "description": "Optimize a $\text{DBD}$ plasma reactor system for high-efficiency, low-energy destruction of low-concentration $\text{VOCs}$ and industrial air pollutants at ambient temperature.",
+    "keywords": [
+      "Air Pollution Control",
+      "DBD Plasma",
+      "VOC Abatement"
+    ]
+  },
+  {
+    "id": 8297,
+    "title": "Plasma Implantation for $\text{Wear}$ $\text{Resistance}$ in $\text{High-Performance}$ $\text{Metals}$",
+    "domain": "118",
+    "description": "Develop a plasma immersion ion implantation ($\text{PIII}$) process to infuse $\text{nitrogen}$ or $\text{carbon}$ into $\text{titanium}$ or $\text{steel}$ alloys, significantly increasing surface hardness and wear resistance without dimensional change.",
+    "keywords": [
+      "Plasma Implantation",
+      "Wear Resistance",
+      "Surface Hardening"
+    ]
+  },
+  {
+    "id": 8298,
+    "title": "Hybrid Plasma-Chemical System for $\text{Catalyst}$ $\text{Surface}$ $\text{Activation}$",
+    "domain": "118",
+    "description": "Design a hybrid system that uses low-power plasma exposure to enhance the reactivity or selectivity of heterogeneous catalysts used in chemical manufacturing processes.",
+    "keywords": [
+      "Catalysis",
+      "Plasma Activation",
+      "Hybrid System"
+    ]
+  },
+  {
+    "id": 8299,
+    "title": "Roll-to-Roll Plasma Treatment for Flexible Display Films",
+    "domain": "118",
+    "description": "Develop a high-throughput, vacuum-based or $\text{atmospheric}$ $\text{pressure}$ $\text{roll-to-roll}$ plasma system for uniform cleaning and activation of large polymer films used in flexible $\text{OLED}$ displays.",
+    "keywords": [
+      "Roll-to-Roll",
+      "Flexible Displays",
+      "Plasma Treatment"
+    ]
+  },
+  {
+    "id": 8300,
+    "title": "Plasma-Enhanced Sputtering for $\text{High-Entropy}$ $\text{Alloy}$ $\text{(HEA)}$ $\text{Coatings}$",
+    "domain": "118",
+    "description": "Optimize the sputter deposition process using plasma enhancement to create dense, uniform, and highly adherent $\text{HEA}$ $\text{coatings}$ for extreme environment applications ($\text{e.g.,}$ $\text{high}$ $\text{temperature,}$ $\text{corrosion}$ $\text{resistance}$).",
+    "keywords": [
+      "Plasma Sputtering",
+      "HEA",
+      "High-Performance Coatings"
+    ]
+  },
+  {
+    "id": 8301,
+    "title": "Pulsed Plasma Thrusters ($\text{PPT}$) for Small Satellite Propulsion",
+    "domain": "118",
+    "description": "Develop highly efficient, compact $\text{PPT}$ systems utilizing alternative, non-toxic propellants ($\text{e.g.,}$ $\text{water,}$ $\text{solid}$ $\text{polymers}$) for CubeSats and small spacecraft orbit adjustment.",
+    "keywords": [
+      "Plasma Propulsion",
+      "PPT",
+      "Small Satellites"
+    ]
+  },
+  {
+    "id": 8302,
+    "title": "Plasma Treatment for $\text{Enhanced}$ $\text{Hydrophobicity}$ $\text{on}$ $\text{Textiles}$",
+    "domain": "118",
+    "description": "Design an atmospheric pressure plasma process to deposit durable, ultra-thin $\text{hydrophobic}$ $\text{(water-repellent)}$ $\text{coatings}$ onto natural and synthetic textiles without altering their feel or breathability.",
+    "keywords": [
+      "Plasma Textile Treatment",
+      "Hydrophobicity",
+      "Functional Coatings"
+    ]
+  },
+  {
+    "id": 8303,
+    "title": "In-Situ Plasma Diagnostic Tool for $\text{Ion}$ $\text{Energy}$ $\text{Distribution}$ ($\text{IED}$) $\text{Measurement}$",
+    "domain": "118",
+    "description": "Develop a compact, robust sensor or probe capable of accurately measuring the $\text{IED}$ at the substrate surface in a variety of industrial plasma reactors (e.g., $\text{CCP,}$ $\text{ICP}$).",
+    "keywords": [
+      "Plasma Diagnostics",
+      "Ion Energy",
+      "In-Situ Measurement"
+    ]
+  },
+  {
+    "id": 8304,
+    "title": "Plasma-Assisted $\text{Chemical}$ $\text{Vapor}$ $\text{Infiltration}$ ($\text{CVI}$) $\text{for}$ $\text{Ceramic}$ $\text{Composites}$",
+    "domain": "118",
+    "description": "Optimize a $\text{plasma-assisted}$ $\text{CVI}$ process to rapidly and uniformly densify porous preforms with ceramic matrices, improving the mechanical properties of $\text{ceramic}$ $\text{matrix}$ $\text{composites}$ ($\text{CMC}$).",
+    "keywords": [
+      "Plasma CVI",
+      "Ceramic Composites",
+      "Material Densification"
+    ]
+  },
+  {
+    "id": 8305,
+    "title": "Atmospheric Pressure Plasma for $\text{In-Situ}$ $\text{Cleaning}$ $\text{of}$ $\text{Optical}$ $\text{Components}$",
+    "domain": "118",
+    "description": "Develop a localized $\text{APP}$ system for removing organic and particulate contaminants from sensitive optical lenses and mirrors without vacuum requirements or damaging the surface.",
+    "keywords": [
+      "Optical Cleaning",
+      "APP",
+      "Contamination Removal"
+    ]
+  },
+  {
+    "id": 8306,
+    "title": "AI for $\text{Predictive}$ $\text{Modeling}$ $\text{of}$ $\text{Plasma}$ $\text{Etch}$ $\text{Uniformity}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model to use reactor geometry, gas flows, and power settings to predict and optimize the $\text{etch}$ $\text{rate}$ $\text{and}$ $\text{uniformity}$ across large-area semiconductor wafers or displays.",
+    "keywords": [
+      "Plasma Etching",
+      "Semiconductor Manufacturing",
+      "AI Optimization"
+    ]
+  },
+  {
+    "id": 8307,
+    "title": "Plasma Treatment for $\text{Enhanced}$ $\text{Adhesion}$ $\text{of}$ $\text{Paints}$ $\text{on}$ $\text{Difficult}$ $\text{Substrates}$",
+    "domain": "118",
+    "description": "Develop a plasma surface treatment (e.g., $\text{DBD}$ or $\text{corona}$ $\text{discharge}$) to chemically prepare low $\text{surface}$ $\text{energy}$ materials ($\text{e.g.,}$ $\text{PTFE,}$ $\text{PE}$) for high-strength, durable paint adhesion.",
+    "keywords": [
+      "Adhesion Promotion",
+      "Surface Preparation",
+      "Low Surface Energy"
+    ]
+  },
+  {
+    "id": 8308,
+    "title": "Pulsed $\text{High-Power}$ $\text{Magnetron}$ $\text{Sputtering}$ ($\text{HiPIMS}$) $\text{for}$ $\text{Hard}$ $\text{Coatings}$",
+    "domain": "118",
+    "description": "Optimize $\text{HiPIMS}$ parameters (pulse frequency, duty cycle, power) to deposit $\text{dense,}$ $\text{hard}$ $\text{ceramic}$ $\text{coatings}$ ($\text{e.g.,}$ $\text{TiN,}$ $\text{CrN}$) with superior adhesion and low residual stress.",
+    "keywords": [
+      "HiPIMS",
+      "Hard Coatings",
+      "Thin Film Deposition"
+    ]
+  },
+  {
+    "id": 8309,
+    "title": "Non-Thermal Plasma for $\text{Localized}$ $\text{Cancer}$ $\text{Therapy}$ ($\text{Plasma}$ $\text{Medicine}$)",
+    "domain": "118",
+    "description": "Design a safe, portable, and focused cold atmospheric plasma ($\text{CAP}$) device for targeted delivery of $\text{Reactive}$ $\text{Oxygen}$ $\text{and}$ $\text{Nitrogen}$ $\text{Species}$ ($\text{RONS}$) to destroy cancer cells with minimal healthy tissue damage.",
+    "keywords": [
+      "Plasma Medicine",
+      "Cancer Therapy",
+      "Cold Atmospheric Plasma"
+    ]
+  },
+  {
+    "id": 8310,
+    "title": "Plasma-Based System for $\text{Water}$ $\text{Disinfection}$ $\text{and}$ $\text{Micropollutant}$ $\text{Removal}$",
+    "domain": "118",
+    "description": "Develop an efficient plasma reactor (e.g., underwater $\text{DBD}$) to generate highly reactive species for the destruction of waterborne pathogens and persistent organic micropollutants ($\text{e.g.,}$ $\text{pharmaceutical}$ $\text{residues}$).",
+    "keywords": [
+      "Water Treatment",
+      "Plasma Reactor",
+      "Micropollutant Removal"
+    ]
+  },
+  {
+    "id": 8311,
+    "title": "Plasma Etching for $\text{High}$ $\text{Aspect}$ $\text{Ratio}$ $\text{Features}$ $\text{in}$ $\text{Silicon}$",
+    "domain": "118",
+    "description": "Optimize the $\text{Bosch}$ $\text{process}$ or cryogenic $\text{etch}$ $\text{techniques}$ using $\text{ICP}$ $\text{(Inductively}$ $\text{Coupled}$ $\text{Plasma)}$ to achieve vertical, high $\text{aspect}$ $\text{ratio}$ structures ($\text{e.g.,}$ $\text{deep}$ $\text{silicon}$ $\text{trenches}$) for $\text{MEMS}$ or $\text{TSV}$ applications.",
+    "keywords": [
+      "Plasma Etching",
+      "High Aspect Ratio",
+      "Semiconductor Fabrication"
+    ]
+  },
+  {
+    "id": 8312,
+    "title": "Plasma Coating for $\text{Self-Healing}$ $\text{and}$ $\text{Corrosion}$ $\text{Protection}$",
+    "domain": "118",
+    "description": "Develop a plasma deposition process ($\text{e.g.,}$ $\text{PECVD}$) to embed micro-capsules containing healing agents within a coating matrix, enabling the coating to self-repair micro-cracks and prevent corrosion.",
+    "keywords": [
+      "Self-Healing Coatings",
+      "Corrosion Protection",
+      "Plasma Deposition"
+    ]
+  },
+  {
+    "id": 8313,
+    "title": "Integrated Plasma System for $\text{Pre-Assembly}$ $\text{Surface}$ $\text{Preparation}$ $\text{in}$ $\text{Automotive}$ $\text{Bodies}$",
+    "domain": "118",
+    "description": "Design a robotic $\text{APPJ}$ system to selectively activate specific bonding areas on automotive $\text{body-in-white}$ $\text{(BIW)}$ components to ensure high-strength, durable adhesive joints.",
+    "keywords": [
+      "Automotive Manufacturing",
+      "Adhesion Promotion",
+      "Plasma Robotics"
+    ]
+  },
+  {
+    "id": 8314,
+    "title": "AI for $\text{Optimizing}$ $\text{Plasma}$ $\text{Ignition}$ $\text{and}$ $\text{Stability}$ $\text{in}$ $\text{High}$ $\text{Pressure}$ $\text{Reactors}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model to predict the optimal pressure, voltage, and gas mixture for rapid, stable ignition and maintenance of plasma at elevated pressures (e.g., for $\text{flow}$ $\text{control}$ or $\text{combustion}$ $\text{assist}$).",
+    "keywords": [
+      "Plasma Control",
+      "High-Pressure Plasma",
+      "AI Optimization"
+    ]
+  },
+  {
+    "id": 8315,
+    "title": "Plasma-Treated $\text{Membranes}$ $\text{for}$ $\text{Gas}$ $\text{Separation}$ $\text{and}$ $\text{Filtration}$",
+    "domain": "118",
+    "description": "Use low-temperature plasma to modify the pore size and surface chemistry of polymer or ceramic membranes, significantly improving their selectivity and flux for gas separation ($\text{e.g.,}$ $\text{CO}_2$ $\text{capture}$).",
+    "keywords": [
+      "Membrane Technology",
+      "Plasma Modification",
+      "Gas Separation"
+    ]
+  },
+  {
+    "id": 8316,
+    "title": "Dual $\text{Frequency}$ $\text{Capacitively}$ $\text{Coupled}$ $\text{Plasma}$ ($\text{DF-CCP}$) $\text{for}$ $\text{Independent}$ $\text{Ion}$ $\text{Control}$",
+    "domain": "118",
+    "description": "Optimize a $\text{DF-CCP}$ reactor to independently control the $\text{ion}$ $\text{flux}$ $\text{(density)}$ and the $\text{ion}$ $\text{bombardment}$ $\text{energy}$ ($\text{bias}$ $\text{voltage}$) for precision etching or deposition.",
+    "keywords": [
+      "CCP Plasma",
+      "Ion Control",
+      "Semiconductor Processing"
+    ]
+  },
+  {
+    "id": 8317,
+    "title": "Plasma Polymerization for $\text{Biocompatible}$ $\text{and}$ $\text{Anti-Fouling}$ $\text{Coatings}$",
+    "domain": "118",
+    "description": "Develop a $\text{PECVD}$ process to deposit stable, uniform polymer coatings ($\text{e.g.,}$ $\text{hydrogels}$) onto implantable medical devices to improve $\text{biocompatibility}$ and prevent $\text{biofilm}$ $\text{formation}$.",
+    "keywords": [
+      "Plasma Polymerization",
+      "Biocompatibility",
+      "Anti-Fouling Coatings"
+    ]
+  },
+  {
+    "id": 8318,
+    "title": "Plasma-Assisted $\text{Chemical}$ $\text{Looping}$ $\text{for}$ $\text{Low-Temperature}$ $\text{Energy}$ $\text{Conversion}$",
+    "domain": "118",
+    "description": "Investigate the use of plasma to initiate or enhance reactions in $\text{Chemical}$ $\text{Looping}$ $\text{Combustion}$ or $\text{Reforming}$ processes, enabling operation at lower, more efficient temperatures.",
+    "keywords": [
+      "Plasma Energy Conversion",
+      "Chemical Looping",
+      "Low-Temperature Reactions"
+    ]
+  },
+  {
+    "id": 8319,
+    "title": "Atmospheric Pressure Plasma for $\text{Selective}$ $\text{Dye}$ $\text{Fixation}$ $\text{in}$ $\text{Textile}$ $\text{Printing}$",
+    "domain": "118",
+    "description": "Design an $\text{APP}$ system that selectively $\text{activates}$ $\text{pre-printed}$ $\text{areas}$ on textiles to enhance the binding and color fastness of dyes, potentially replacing high-energy steam processes.",
+    "keywords": [
+      "Textile Printing",
+      "APP",
+      "Dye Fixation"
+    ]
+  },
+  {
+    "id": 8320,
+    "title": "Microplasma Array for $\text{Localized}$ $\text{Gas}$ $\text{Sensing}$ $\text{and}$ $\text{Analysis}$",
+    "domain": "118",
+    "description": "Develop a scalable array of microplasma discharges ($\text{e.g.,}$ $\text{micro-DBD}$) to act as a highly sensitive, miniature gas chromatography/mass spectrometry unit for trace gas analysis.",
+    "keywords": [
+      "Microplasma",
+      "Gas Sensing",
+      "Analytical Instruments"
+    ]
+  },
+  {
+    "id": 8321,
+    "title": "AI for $\text{Predicting}$ $\text{Plasma}$ $\text{Chemistry}$ $\text{and}$ $\text{Radical}$ $\text{Concentrations}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model using $\text{kinetics}$ $\text{data}$ and reactor inputs to predict the $\text{concentrations}$ $\text{of}$ $\text{key}$ $\text{reactive}$ $\text{species}$ $\text{(radicals,}$ $\text{metastables)}$ within a non-thermal plasma.",
+    "keywords": [
+      "Plasma Chemistry",
+      "Radical Species",
+      "AI Prediction"
+    ]
+  },
+  {
+    "id": 8322,
+    "title": "Plasma Treatment for $\text{Enhanced}$ $\text{Battery}$ $\text{Electrode}$ $\text{Wettability}$ $\text{and}$ $\text{Adhesion}$",
+    "domain": "118",
+    "description": "Develop a $\text{plasma}$ $\text{process}$ to modify the $\text{surface}$ $\text{energy}$ and $\text{porosity}$ of $\text{battery}$ $\text{electrode}$ $\text{materials}$ (e.g., $\text{separator}$ $\text{films}$ $\text{and}$ $\text{current}$ $\text{collectors}$), improving electrolyte wettability and performance.",
+    "keywords": [
+      "Battery Manufacturing",
+      "Plasma Modification",
+      "Electrode Treatment"
+    ]
+  },
+  {
+    "id": 8323,
+    "title": "Pulsed $\text{Laser}$ $\text{Deposition}$ $\text{(PLD)}$ $\text{in}$ $\text{Plasma}$ $\text{Environment}$ $\text{for}$ $\text{Oxide}$ $\text{Superconductors}$",
+    "domain": "118",
+    "description": "Optimize the $\text{PLD}$ process by introducing a pulsed $\text{plasma}$ $\text{source}$ to control the stoichiometry and crystallization of complex $\text{high-temperature}$ $\text{superconductor}$ $\text{thin}$ $\text{films}$.",
+    "keywords": [
+      "Thin Film Deposition",
+      "PLD",
+      "Superconductors"
+    ]
+  },
+  {
+    "id": 8324,
+    "title": "Plasma-Generated $\text{Reactive}$ $\text{Species}$ $\text{for}$ $\text{Wound}$ $\text{Disinfection}$ $\text{(Plasma}$ $\text{Medicine)}$",
+    "domain": "118",
+    "description": "Design a clinical $\text{CAP}$ device optimized for generating a specific cocktail of $\text{RONS}$ to selectively kill drug-resistant bacteria ($\text{e.g.,}$ $\text{MRSA}$) in chronic wounds and promote healing.",
+    "keywords": [
+      "Plasma Medicine",
+      "Wound Healing",
+      "Antimicrobial Plasma"
+    ]
+  },
+  {
+    "id": 8325,
+    "title": "Atmospheric Pressure Plasma for $\text{High-Resolution}$ $\text{Polymer}$ $\text{Etching}$ $\text{and}$ $\text{Patterning}$",
+    "domain": "118",
+    "description": "Develop an $\text{APP}$ process with $\text{lithographic}$ $\text{precision}$ to selectively etch and pattern polymer substrates for flexible electronics or microfluidic device fabrication.",
+    "keywords": [
+      "Polymer Etching",
+      "APP",
+      "Microfabrication"
+    ]
+  },
+  {
+    "id": 8326,
+    "title": "Magnetron $\text{Sputtering}$ $\text{for}$ $\text{Transparent}$ $\text{Conductive}$ $\text{Oxide}$ $\text{(TCO)}$ $\text{Films}$",
+    "domain": "118",
+    "description": "Optimize the sputtering process to deposit high-performance $\text{TCO}$ $\text{films}$ ($\text{e.g.,}$ $\text{ITO, AZO}$) with simultaneous high $\text{transparency}$ $\text{and}$ $\text{low}$ $\text{resistivity}$ on large-area glass or plastic substrates.",
+    "keywords": [
+      "TCO Films",
+      "Magnetron Sputtering",
+      "Display Technology"
+    ]
+  },
+  {
+    "id": 8327,
+    "title": "Low-Temperature $\text{Plasma}$ $\text{Treatment}$ $\text{for}$ $\text{Spacecraft}$ $\text{Material}$ $\text{Atomic}$ $\text{Oxygen}$ $\text{Resistance}$",
+    "domain": "118",
+    "description": "Develop a $\text{PECVD}$ $\text{or}$ $\text{sputtering}$ $\text{process}$ to deposit protective, $\text{Atomic}$ $\text{Oxygen}$ $\text{Resistant}$ $\text{(AOR)}$ $\text{coatings}$ onto polymer components used on spacecraft in Low Earth Orbit ($\text{LEO}$).",
+    "keywords": [
+      "Spacecraft Materials",
+      "Atomic Oxygen",
+      "Plasma Coating"
+    ]
+  },
+  {
+    "id": 8328,
+    "title": "AI for $\text{Automated}$ $\text{Diagnosis}$ $\text{of}$ $\text{Plasma}$ $\text{Reactor}$ $\text{Faults}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ system to analyze multivariate sensor data ($\text{RF}$ $\text{power,}$ $\text{pressure,}$ $\text{gas}$ $\text{flow,}$ $\text{OES}$) to automatically detect, classify, and isolate subtle faults ($\text{e.g.,}$ $\text{chamber}$ $\text{contamination,}$ $\text{leakage}$) in industrial plasma reactors.",
+    "keywords": [
+      "Plasma Diagnostics",
+      "AI Fault Detection",
+      "Process Control"
+    ]
+  },
+  {
+    "id": 8329,
+    "title": "Plasma-Enhanced $\text{CVD}$ $\text{for}$ $\text{Graphene}$ $\text{Synthesis}$ $\text{on}$ $\text{Non-Metallic}$ $\text{Substrates}$",
+    "domain": "118",
+    "description": "Optimize a low-temperature $\text{PECVD}$ process for the direct and scalable growth of high-quality $\text{graphene}$ and $\text{2D}$ $\text{materials}$ on non-metallic and flexible substrates ($\text{e.g.,}$ $\text{glass,}$ $\text{polymers}$).",
+    "keywords": [
+      "Graphene Synthesis",
+      "PECVD",
+      "2D Materials"
+    ]
+  },
+  {
+    "id": 8330,
+    "title": "Plasma Nitriding for $\text{Enhanced}$ $\text{Corrosion}$ $\text{Resistance}$ $\text{in}$ $\text{Stainless}$ $\text{Steel}$",
+    "domain": "118",
+    "description": "Develop a $\text{low-temperature}$ $\text{plasma}$ $\text{nitriding}$ $\text{process}$ that significantly increases the $\text{surface}$ $\text{hardness}$ $\text{and}$ $\text{corrosion}$ $\text{resistance}$ of stainless steel without forming $\text{chromium}$ $\text{nitrides}$ that reduce corrosion resistance.",
+    "keywords": [
+      "Plasma Nitriding",
+      "Corrosion Resistance",
+      "Stainless Steel"
+    ]
+  },
+  {
+    "id": 8331,
+    "title": "Non-Thermal Plasma for $\text{Sustainable}$ $\text{Ammonia}$ $\text{Synthesis}$ $\text{from}$ $\text{Air}$ $\text{and}$ $\text{Water}$",
+    "domain": "118",
+    "description": "Investigate the use of $\text{non-thermal}$ $\text{plasma}$ to drive the synthesis of $\text{ammonia}$ ($\text{NH}_3$) from $\text{N}_2$ and $\text{H}_2\text{O}$ at ambient conditions, offering an alternative to the energy-intensive $\text{Haber-Bosch}$ process.",
+    "keywords": [
+      "Ammonia Synthesis",
+      "Non-Thermal Plasma",
+      "Sustainable Chemistry"
+    ]
+  },
+  {
+    "id": 8332,
+    "title": "Plasma-Enhanced $\text{Micro-Acoustic}$ $\text{Wave}$ $\text{Sensing}$ $\text{for}$ $\text{Surface}$ $\text{Changes}$",
+    "domain": "118",
+    "description": "Develop a micro-acoustic wave sensor ($\text{e.g.,}$ $\text{SAW}$ $\text{device}$) with a $\text{plasma-modified}$ $\text{surface}$ that provides extremely high sensitivity for detecting changes in mass or chemical species.",
+    "keywords": [
+      "Plasma Sensors",
+      "Acoustic Wave Devices",
+      "Surface Modification"
+    ]
+  },
+  {
+    "id": 8333,
+    "title": "Plasma-Based $\text{System}$ $\text{for}$ $\text{Indoor}$ $\text{Air}$ $\text{Quality}$ $\text{Control}$ ($\text{Pathogen}$ $\text{Inactivation}$)",
+    "domain": "118",
+    "description": "Design a safe, flow-through $\text{DBD}$ or $\text{corona}$ $\text{plasma}$ $\text{reactor}$ for $\text{HVAC}$ $\text{systems}$ that efficiently inactivates airborne viruses and bacteria without producing harmful byproducts ($\text{e.g.,}$ $\text{ozone}$).",
+    "keywords": [
+      "Air Quality",
+      "Plasma Inactivation",
+      "Indoor Air Safety"
+    ]
+  },
+  {
+    "id": 8334,
+    "title": "AI for $\text{Optimizing}$ $\text{Plasma}$ $\text{Pre-Treatment}$ $\text{for}$ $\text{Thin-Film}$ $\text{Solar}$ $\text{Cells}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model to adjust plasma pre-treatment parameters ($\text{power,}$ $\text{time,}$ $\text{gas}$ $\text{mix}$) to maximize the performance ($\text{efficiency,}$ $\text{stability}$) of subsequent thin-film $\text{solar}$ $\text{cell}$ layers.",
+    "keywords": [
+      "Solar Cell Manufacturing",
+      "Plasma Pre-treatment",
+      "AI Optimization"
+    ]
+  },
+  {
+    "id": 8335,
+    "title": "Plasma Treatment for $\text{Enhancing}$ $\text{3D}$ $\text{Printing}$ $\text{Powder}$ $\text{Flowability}$",
+    "domain": "118",
+    "description": "Develop a $\text{plasma}$ $\text{process}$ to functionalize the surface of metal or polymer powders, improving their $\text{flowability}$ $\text{and}$ $\text{packing}$ $\text{density}$ for use in powder-bed $\text{3D}$ $\text{printing}$ $\text{processes}$.",
+    "keywords": [
+      "3D Printing Powder",
+      "Plasma Functionalization",
+      "Powder Flow"
+    ]
+  },
+  {
+    "id": 8336,
+    "title": "Plasma-Assisted $\text{Dry}$ $\text{Sliding}$ $\text{Coatings}$ $\text{for}$ $\text{High}$ $\text{Vacuum}$ $\text{Environments}$",
+    "domain": "118",
+    "description": "Optimize a $\text{sputtering}$ $\text{or}$ $\text{PECVD}$ $\text{process}$ to deposit $\text{low-friction}$ $\text{dry}$ $\text{lubricant}$ $\text{coatings}$ ($\text{e.g.,}$ $\text{DLC,}$ $\text{MoS}_2$) for mechanisms operating in space or high-vacuum systems.",
+    "keywords": [
+      "Dry Lubrication",
+      "High Vacuum",
+      "Plasma Coating"
+    ]
+  },
+  {
+    "id": 8337,
+    "title": "Cold Atmospheric Plasma ($\text{CAP}$) $\text{for}$ $\text{Rapid}$ $\text{Hemorrhage}$ $\text{Control}$",
+    "domain": "118",
+    "description": "Design a portable, hand-held $\text{CAP}$ device optimized to induce rapid, localized blood $\text{coagulation}$ $\text{and}$ $\text{hemostasis}$ in emergency and battlefield scenarios.",
+    "keywords": [
+      "Plasma Medicine",
+      "Hemostasis",
+      "CAP Device"
+    ]
+  },
+  {
+    "id": 8338,
+    "title": "Plasma-Enhanced $\text{Conversion}$ $\text{of}$ $\text{Methane}$ $\text{to}$ $\text{Higher}$ $\text{Hydrocarbons}$",
+    "domain": "118",
+    "description": "Develop a $\text{non-thermal}$ $\text{plasma}$ $\text{reactor}$ to efficiently convert $\text{methane}$ ($\text{CH}_4$) into $\text{value-added}$ $\text{chemicals}$ ($\text{e.g.,}$ $\text{acetylene,}$ $\text{ethylene}$) at ambient pressure, bypassing high-temperature processes.",
+    "keywords": [
+      "Plasma Chemistry",
+      "Methane Conversion",
+      "Hydrocarbon Synthesis"
+    ]
+  },
+  {
+    "id": 8339,
+    "title": "Plasma Treatment for $\text{Anti-Reflective}$ $\text{and}$ $\text{Self-Cleaning}$ $\text{Coatings}$ $\text{on}$ $\text{Glass}$",
+    "domain": "118",
+    "description": "Optimize a $\text{PECVD}$ $\text{process}$ to deposit a multilayer coating onto architectural or photovoltaic glass, providing both $\text{anti-reflective}$ $\text{properties}$ $\text{and}$ $\text{self-cleaning}$ ($\text{super-hydrophilic}$ $\text{or}$ $\text{phobic}$) functionality.",
+    "keywords": [
+      "Anti-Reflective Coatings",
+      "Self-Cleaning Surface",
+      "PECVD"
+    ]
+  },
+  {
+    "id": 8340,
+    "title": "$\text{Plasma}$ $\text{Polymerization}$ $\text{for}$ $\text{Corrosion-Resistant}$ $\text{Coatings}$ $\text{on}$ $\text{Magnesium}$ $\text{Alloys}$",
+    "domain": "118",
+    "description": "Develop a $\text{plasma}$ $\text{polymerization}$ $\text{process}$ to deposit pinhole-free, $\text{corrosion-resistant}$ $\text{barrier}$ $\text{layers}$ onto highly reactive $\text{magnesium}$ $\text{alloys}$, replacing $\text{chromate}$ $\text{conversion}$ $\text{coatings}$.",
+    "keywords": [
+      "Corrosion Protection",
+      "Magnesium Alloys",
+      "Plasma Polymerization"
+    ]
+  },
+  {
+    "id": 8341,
+    "title": "AI for $\text{Predictive}$ $\text{Scaling}$ $\text{of}$ $\text{Plasma}$ $\text{Reactor}$ $\text{Design}$",
+    "domain": "118",
+    "description": "Train an $\text{AI}$ model to use physical parameters ($\text{size,}$ $\text{electrode}$ $\text{gap,}$ $\text{power}$ $\text{coupling}$) from laboratory-scale plasma reactors to accurately predict the performance characteristics of industrial-scale systems.",
+    "keywords": [
+      "Plasma Reactor Scaling",
+      "AI Modeling",
+      "Industrialization"
+    ]
+  },
+  {
+    "id": 8342,
+    "title": "Plasma-Treated $\text{Filters}$ $\text{for}$ $\text{Enhanced}$ $\text{Particulate}$ $\text{Capture}$ $\text{and}$ $\text{Self-Cleaning}$",
+    "domain": "118",
+    "description": "Use $\text{plasma}$ $\text{modification}$ to alter the $\text{surface}$ $\text{charge}$ $\text{and}$ $\text{chemistry}$ of filter media, improving the capture efficiency for fine particles ($\text{e.g.,}$ $\text{PM2.5}$) and enabling passive self-cleaning.",
+    "keywords": [
+      "Air Filtration",
+      "Plasma Modification",
+      "Particulate Capture"
+    ]
+  },
+  {
+    "id": 8343,
+    "title": "Plasma Etching for $\text{Manufacturing}$ $\text{Micro-Lens}$ $\text{Arrays}$ $\text{on}$ $\text{Optics}$",
+    "domain": "118",
+    "description": "Develop a highly controlled $\text{plasma}$ $\text{etching}$ $\text{process}$ ($\text{e.g.,}$ $\text{reactive}$ $\text{ion}$ $\text{etching}$) to create precise $\text{micro-lens}$ $\text{arrays}$ and other complex $\text{diffractive}$ $\text{optical}$ $\text{structures}$.",
+    "keywords": [
+      "Plasma Etching",
+      "Micro-Optics",
+      "RIE"
+    ]
+  },
+  {
+    "id": 8344,
+    "title": "$\text{Atmospheric}$ $\text{Pressure}$ $\text{Plasma}$ $\text{Torch}$ $\text{for}$ $\text{Weld}$ $\text{Seam}$ $\text{Pre-Treatment}$",
+    "domain": "118",
+    "description": "Design a robotic $\text{APP}$ $\text{torch}$ $\text{system}$ to rapidly remove residual $\text{oils}$, $\text{oxides}$, and $\text{contaminants}$ from $\text{weld}$ $\text{seams}$ immediately prior to the welding process, improving weld quality.",
+    "keywords": [
+      "Weld Preparation",
+      "Atmospheric Plasma",
+      "Surface Cleaning"
+    ]
+  },
+  {
+    "id": 8345,
+    "title": "Pulsed $\text{Plasma}$ $\text{for}$ $\text{High-Speed}$ $\text{Polymer}$ $\text{Curing}$ $\text{and}$ $\text{Cross-linking}$",
+    "domain": "118",
+    "description": "Develop a $\text{pulsed}$ $\text{plasma}$ $\text{system}$ $\text{(e.g.,}$ $\text{flash}$ $\text{discharge)}$ to induce rapid $\text{curing}$ $\text{and}$ $\text{cross-linking}$ of coatings, adhesives, and polymer composites in a fraction of the time required by thermal methods.",
+    "keywords": [
+      "Polymer Curing",
+      "Pulsed Plasma",
+      "High-Speed Processing"
+    ]
+  },
+  {
+    "id": 8346,
+    "title": "Non-Thermal $\text{Plasma}$ $\text{for}$ $\text{Conversion}$ $\text{of}$ $\text{Industrial}$ $\text{Waste}$ $\text{Gases}$ $\text{(CO}_2)$",
+    "domain": "118",
+    "description": "Optimize a $\text{non-thermal}$ $\text{plasma}$ $\text{reactor}$ to convert greenhouse gases $\text{(e.g.,}$ $\text{CO}_2)$ $\text{and}$ $\text{nitrogen}$ $\text{oxides}$ ($\text{NO}_{\text{x}}$) into $\text{value-added}$ $\text{products}$ or $\text{less}$ $\text{harmful}$ $\text{compounds}$.",
+    "keywords": [
+      "CO2 Conversion",
+      "Waste Gas Treatment",
+      "Plasma Chemistry"
+    ]
+  },
+  {
+    "id": 8347,
+    "title": "Plasma Coating for $\text{Thermal}$ $\text{Barrier}$ $\text{Coatings}$ $\text{(TBC)}$ $\text{in}$ $\text{Gas}$ $\text{Turbines}$",
+    "domain": "118",
+    "description": "Optimize a $\text{plasma}$ $\text{spray}$ $\text{process}$ ($\text{e.g.,}$ $\text{APS}$ $\text{or}$ $\text{VPS}$) to deposit $\text{TBCs}$ ($\text{Yttria-Stabilized}$ $\text{Zirconia}$) with superior $\text{microstructure}$ $\text{and}$ $\text{adhesion}$ for next-generation gas $\text{turbine}$ $\text{blades}$.",
+    "keywords": [
+      "Thermal Barrier Coatings",
+      "Plasma Spray",
+      "Gas Turbines"
+    ]
+  },
+  {
+    "id": 8348,
+    "title": "AI for $\text{Closed-Loop}$ $\text{Control}$ $\text{of}$ $\text{Plasma}$ $\text{Ion}$ $\text{Bombardment}$ $\text{Energy}$",
+    "domain": "118",
+    "description": "Develop an $\text{AI}$-based $\text{feedback}$ $\text{loop}$ that uses in-situ $\text{ion}$ $\text{energy}$ $\text{measurements}$ to dynamically adjust $\text{RF}$ $\text{bias}$ $\text{voltage}$ to maintain a constant, optimal ion bombardment energy for film growth.",
+    "keywords": [
+      "Closed-Loop Control",
+      "Ion Energy Control",
+      "AI Control Systems"
+    ]
+  },
+  {
+    "id": 8349,
+    "title": "Plasma Polymerization for $\text{Super-Hydrophilic}$ $\text{Anti-Fog}$ $\text{Coatings}$ $\text{on}$ $\text{Plastics}$",
+    "domain": "118",
+    "description": "Develop a $\text{low-cost}$ $\text{plasma}$ $\text{polymerization}$ $\text{process}$ to deposit a stable, $\text{super-hydrophilic}$ $\text{coating}$ onto plastic optics ($\text{e.g.,}$ $\text{goggles,}$ $\text{windshields}$), providing permanent anti-fogging properties.",
+    "keywords": [
+      "Anti-Fog Coating",
+      "Super-Hydrophilic",
+      "Plasma Polymerization"
+    ]
+  },
+  {
+    "id": 8350,
+    "title": "Plasma-Assisted $\text{Liquid}$ $\text{Phase}$ $\text{Sintering}$ $\text{for}$ $\text{Metal}$ $\text{Powders}$",
+    "domain": "118",
+    "description": "Investigate the use of $\text{non-thermal}$ $\text{plasma}$ $\text{to}$ $\text{enhance}$ the $\text{sintering}$ $\text{process}$ of $\text{metal}$ $\text{and}$ $\text{ceramic}$ $\text{powders}$, enabling rapid densification at significantly lower temperatures.",
+    "keywords": [
+      "Plasma Sintering",
+      "Powder Metallurgy",
+      "Low-Temperature Processing"
+    ]
+  },
+  {
+    "id": 8351,
+    "title": "Non-Thermal $\text{Plasma}$ $\text{for}$ $\text{Odor}$ $\text{and}$ $\text{Aerosol}$ $\text{Removal}$ $\text{in}$ $\text{Commercial}$ $\text{Kitchens}$",
+    "domain": "118",
+    "description": "Design a compact, high-throughput $\text{DBD}$ or $\text{corona}$ $\text{plasma}$ $\text{system}$ for the effective breakdown of $\text{grease}$ $\text{aerosols}$ $\text{and}$ $\text{odorous}$ $\text{compounds}$ in commercial kitchen $\text{exhaust}$ $\text{ducts}$.",
+    "keywords": [
+      "Odor Removal",
+      "Air Purification",
+      "Commercial HVAC"
+    ]
+  },
+  {
+    "id": 8352,
+    "title": "Plasma $\text{Etching}$ $\text{for}$ $\text{Controlled}$ $\text{Tapering}$ $\text{in}$ $\text{Optical}$ $\text{Fibers}$ $\text{and}$ $\text{Waveguides}$",
+    "domain": "118",
+    "description": "Develop a $\text{plasma}$ $\text{etching}$ $\text{process}$ to precisely control the $\text{taper}$ $\text{angle}$ and $\text{tip}$ $\text{geometry}$ of $\text{optical}$ $\text{fibers}$ for efficient coupling in integrated photonic circuits.",
+    "keywords": [
+      "Optical Fibers",
+      "Plasma Etching",
+      "Photonic Devices"
+    ]
+  },
+  {
+    "id": 8353,
+    "title": "Atmospheric $\text{Pressure}$ $\text{Plasma}$ $\text{for}$ $\text{Durable}$ $\text{Anti-Microbial}$ $\text{Coatings}$ $\text{on}$ $\text{Public}$ $\text{Surfaces}$",
+    "domain": "118",
+    "description": "Design a portable $\text{APP}$ system and precursor chemistry to deposit robust, $\text{long-lasting}$ $\text{antimicrobial}$ $\text{coatings}$ on high-touch public surfaces ($\text{e.g.,}$ $\text{door}$ $\text{handles,}$ $\text{escalator}$ $\text{rails}$).",
+    "keywords": [
+      "Antimicrobial Coatings",
+      "Atmospheric Plasma",
+      "Public Health"
+    ]
+  },
+  {
+    "id": 8354,
+    "title": "Plasma-Enhanced $\text{CVD}$ $\text{for}$ $\text{Diamond-Like}$ $\text{Carbon}$ $\text{(DLC)}$ $\text{Coating}$ $\text{on}$ $\text{Complex}$ $\text{Gears}$",
+    "domain": "118",
+    "description": "Optimize a $\text{PECVD}$ $\text{or}$ $\text{HiPIMS}$ $\text{process}$ to deposit highly uniform and $\text{adherent}$ $\text{DLC}$ $\text{coatings}$ $\text{onto}$ $\text{gears}$ $\text{and}$ $\text{precision}$ $\text{machinery}$ $\text{components}$ $\text{with}$ $\text{complex}$ $\text{geometries}$.",
+    "keywords": [
+      "DLC Coating",
+      "Wear Resistance",
+      "PECVD"
+    ]
+  },
+  {
+    "id": 8355,
+    "title": "Integrated $\text{Plasma}$ $\text{Treatment}$ $\text{and}$ $\text{Inkjet}$ $\text{Printing}$ $\text{for}$ $\text{Printed}$ $\text{Electronics}$",
+    "domain": "118",
+    "description": "Develop an in-line system that uses $\text{APP}$ to precisely control the $\text{surface}$ $\text{energy}$ of a substrate immediately before $\text{inkjet}$ $\text{deposition}$, ensuring optimal $\text{ink}$ $\text{wetting}$ and feature resolution for printed electronics.",
+    "keywords": [
+      "Printed Electronics",
+      "Inkjet Printing",
+      "Atmospheric Plasma"
+    ]
+  },
+  // domain 119
+
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
