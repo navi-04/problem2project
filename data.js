@@ -55936,7 +55936,7 @@ const PROBLEMS_DATA = {
     "id": 7878,
     "title": "Energy-Efficient Vertical Farm Environmental Control",
     "domain": "115",
-    "description": "Create an AI system to dynamically manage light spectrum, $\text{CO}_2$ concentration, and climate parameters in vertical farms to maximize yield with minimal energy consumption.",
+    "description": "Create an AI system to dynamically manage light spectrum, CO2 concentration, and climate parameters in vertical farms to maximize yield with minimal energy consumption.",
     "keywords": [
       "Vertical Farming",
       "Energy Efficiency",
@@ -55991,7 +55991,7 @@ const PROBLEMS_DATA = {
     "id": 7883,
     "title": "Low-Cost Aquaculture Monitoring System",
     "domain": "115",
-    "description": "Design a low-cost IoT sensor and camera system for continuous monitoring of water quality (oxygen, $\text{pH}$) and fish health/feeding behavior in aquaculture farms.",
+    "description": "Design a low-cost IoT sensor and camera system for continuous monitoring of water quality (oxygen, pH) and fish health/feeding behavior in aquaculture farms.",
     "keywords": [
       "Aquaculture",
       "IoT",
@@ -56068,7 +56068,7 @@ const PROBLEMS_DATA = {
     "id": 7890,
     "title": "Automated Hydroponic Nutrient Solution Management",
     "domain": "115",
-    "description": "Implement an IoT and control system to automatically monitor and adjust the $\text{pH}$, Electrical Conductivity (EC), and nutrient composition of hydroponic solutions.",
+    "description": "Implement an IoT and control system to automatically monitor and adjust the pH, Electrical Conductivity (EC), and nutrient composition of hydroponic solutions.",
     "keywords": [
       "Hydroponics",
       "IoT Control",
@@ -56288,7 +56288,7 @@ const PROBLEMS_DATA = {
     "id": 7910,
     "title": "AI-Driven Water Quality Management for Recirculating Aquaculture Systems (RAS)",
     "domain": "115",
-    "description": "Create a $\text{RAS}$ control system using AI to optimize biofilter performance and manage nutrient levels to maintain stable, healthy aquatic environments with minimal water exchange.",
+    "description": "Create a RAS control system using AI to optimize biofilter performance and manage nutrient levels to maintain stable, healthy aquatic environments with minimal water exchange.",
     "keywords": [
       "Aquaculture RAS",
       "Water Management",
@@ -56374,9 +56374,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 7918,
-    "title": "Automated $\text{CO}_2$ and Light Supplementation in Greenhouses",
+    "title": "Automated CO2 and Light Supplementation in Greenhouses",
     "domain": "115",
-    "description": "Implement an AI control system to precisely manage supplemental $\text{CO}_2$ injection and artificial lighting intensity based on real-time plant $\text{CO}_2$ uptake and natural light levels.",
+    "description": "Implement an AI control system to precisely manage supplemental CO2 injection and artificial lighting intensity based on real-time plant CO2 uptake and natural light levels.",
     "keywords": [
       "Greenhouse Control",
       "Resource Optimization",
@@ -56442,7 +56442,7 @@ const PROBLEMS_DATA = {
     "id": 7924,
     "title": "AI-Driven Optimization of Post-Harvest Storage Conditions",
     "domain": "115",
-    "description": "Develop an AI system that manages temperature, humidity, and $\text{CO}_2$ levels in storage facilities based on the specific crop variety and its predicted shelf-life needs.",
+    "description": "Develop an AI system that manages temperature, humidity, and CO2 levels in storage facilities based on the specific crop variety and its predicted shelf-life needs.",
     "keywords": [
       "Storage Optimization",
       "Post-Harvest",
@@ -56539,9 +56539,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 7933,
-    "title": "Low-Cost, Solar-Powered $\text{CO}_2$ Sensor Network",
+    "title": "Low-Cost, Solar-Powered CO2 Sensor Network",
     "domain": "115",
-    "description": "Develop an affordable, robust network of solar-powered $\text{CO}_2$ sensors for continuous monitoring in both greenhouses and for estimating field crop respiration/uptake.",
+    "description": "Develop an affordable, robust network of solar-powered CO2 sensors for continuous monitoring in both greenhouses and for estimating field crop respiration/uptake.",
     "keywords": [
       "CO2 Sensing",
       "Low-Cost Hardware",
@@ -56726,9 +56726,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 7950,
-    "title": "AI for Predicting Field-Specific $\text{N}_2\text{O}$ Emissions",
+    "title": "AI for Predicting Field-Specific N2O Emissions",
     "domain": "115",
-    "description": "Develop a model that uses soil data, fertilizer application rates, and weather to predict field-level Nitrous Oxide ($\text{N}_2\text{O}$) emissions for sustainability reporting.",
+    "description": "Develop a model that uses soil data, fertilizer application rates, and weather to predict field-level Nitrous Oxide (N2O) emissions for sustainability reporting.",
     "keywords": [
       "Emissions Modeling",
       "Sustainability",
@@ -56860,7 +56860,7 @@ const PROBLEMS_DATA = {
     "id": 7962,
     "title": "Low-Cost Kit for On-Farm Manure/Compost Nutrient Testing",
     "domain": "115",
-    "description": "Develop an inexpensive, rapid chemical/sensor kit for farmers to accurately measure the nutrient content ($\text{N, P, K}$) of their own manure or compost for precision application.",
+    "description": "Develop an inexpensive, rapid chemical/sensor kit for farmers to accurately measure the nutrient content (N, P, K) of their own manure or compost for precision application.",
     "keywords": [
       "Nutrient Testing",
       "Compost Analysis",
@@ -56926,7 +56926,7 @@ const PROBLEMS_DATA = {
     "id": 7968,
     "title": "AI for Optimization of Livestock Manure Management",
     "domain": "115",
-    "description": "Develop an AI system to manage the timing, location, and rate of manure application to fields to maximize nutrient benefit while minimizing water pollution and $\text{GHG}$ emissions.",
+    "description": "Develop an AI system to manage the timing, location, and rate of manure application to fields to maximize nutrient benefit while minimizing water pollution and GHG emissions.",
     "keywords": [
       "Manure Management",
       "Nutrient Cycling",
@@ -56937,7 +56937,7 @@ const PROBLEMS_DATA = {
     "id": 7969,
     "title": "Low-Cost Acoustic Sensor for Bird/Wildlife Deterrence",
     "domain": "115",
-    "description": "Design a smart, solar-powered acoustic deterrent system that uses $\text{AI}$ to identify pest birds/wildlife and emit highly targeted, non-lethal distress calls or sounds.",
+    "description": "Design a smart, solar-powered acoustic deterrent system that uses AI to identify pest birds/wildlife and emit highly targeted, non-lethal distress calls or sounds.",
     "keywords": [
       "Wildlife Deterrence",
       "Acoustic Sensing",
@@ -56981,7 +56981,7 @@ const PROBLEMS_DATA = {
     "id": 7973,
     "title": "Predictive Model for Drought Severity and Impact",
     "domain": "115",
-    "description": "Integrate $\text{GIS}$ data, soil moisture models, and climate forecasts to provide a hyper-local, crop-specific forecast of drought severity and yield reduction impact.",
+    "description": "Integrate GIS data, soil moisture models, and climate forecasts to provide a hyper-local, crop-specific forecast of drought severity and yield reduction impact.",
     "keywords": [
       "Drought Prediction",
       "Climate Risk",
@@ -57003,7 +57003,7 @@ const PROBLEMS_DATA = {
     "id": 7975,
     "title": "AI for Automated Beehive Health Monitoring",
     "domain": "115",
-    "description": "Develop a system using internal hive sensors (acoustic, temperature, weight) and $\text{AI}$ to monitor colony health, detect pests (e.g., mites), and predict swarming behavior.",
+    "description": "Develop a system using internal hive sensors (acoustic, temperature, weight) and AI to monitor colony health, detect pests (e.g., mites), and predict swarming behavior.",
     "keywords": [
       "Apiculture",
       "Hive Monitoring",
@@ -57025,7 +57025,7 @@ const PROBLEMS_DATA = {
     "id": 7977,
     "title": "Robotics for Automated Greenhouse Cleaning and Disinfection",
     "domain": "115",
-    "description": "Design an autonomous mobile robot capable of navigating greenhouse rows to perform $\text{UV-C}$ light disinfection and surface cleaning to prevent disease spread.",
+    "description": "Design an autonomous mobile robot capable of navigating greenhouse rows to perform UV-C light disinfection and surface cleaning to prevent disease spread.",
     "keywords": [
       "Greenhouse Automation",
       "Disinfection Robotics",
@@ -57058,7 +57058,7 @@ const PROBLEMS_DATA = {
     "id": 7980,
     "title": "AI-Driven Optimization of Composting Process",
     "domain": "115",
-    "description": "Use sensors ($\text{O}_2$, temp, moisture) and $\text{AI}$ to dynamically adjust compost pile turning and aeration schedules to maximize decomposition speed and nutrient retention.",
+    "description": "Use sensors (O2, temp, moisture) and AI to dynamically adjust compost pile turning and aeration schedules to maximize decomposition speed and nutrient retention.",
     "keywords": [
       "Composting Optimization",
       "Waste Management",
@@ -57168,7 +57168,7 @@ const PROBLEMS_DATA = {
     "id": 7990,
     "title": "Predictive Model for Livestock Heat Stress Risk",
     "domain": "115",
-    "description": "Integrate local $\text{THI}$ (Temperature-Humidity Index), animal sensor data, and weather forecasts to predict the time and severity of heat stress risk in livestock operations.",
+    "description": "Integrate local THI (Temperature-Humidity Index), animal sensor data, and weather forecasts to predict the time and severity of heat stress risk in livestock operations.",
     "keywords": [
       "Heat Stress",
       "Livestock Welfare",
@@ -57243,9 +57243,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 7997,
-    "title": "Integrated Platform for $\text{GHG}$ Emissions Reporting",
+    "title": "Integrated Platform for GHG Emissions Reporting",
     "domain": "115",
-    "description": "Create a unified digital tool that calculates and reports farm-level Greenhouse Gas ($\text{GHG}$) emissions based on inputs, fuel use, and land management practices.",
+    "description": "Create a unified digital tool that calculates and reports farm-level Greenhouse Gas (GHG) emissions based on inputs, fuel use, and land management practices.",
     "keywords": [
       "GHG Accounting",
       "Sustainability Reporting",
@@ -57267,7 +57267,7 @@ const PROBLEMS_DATA = {
     "id": 7999,
     "title": "AI for Optimizing TMR (Total Mixed Ration) Mixing Time",
     "domain": "115",
-    "description": "Use sensor data from feed mixers (e.g., torque, vibration) and $\text{AI}$ to determine the minimum mixing time required to achieve optimal uniformity of the Total Mixed Ration for livestock.",
+    "description": "Use sensor data from feed mixers (e.g., torque, vibration) and AI to determine the minimum mixing time required to achieve optimal uniformity of the Total Mixed Ration for livestock.",
     "keywords": [
       "Livestock Feeding",
       "Feed Optimization",
@@ -57356,7 +57356,7 @@ const PROBLEMS_DATA = {
     "id": 8007,
     "title": "Digital Twin for Food Processing Plant Sanitation",
     "domain": "116",
-    "description": "Create a digital twin model of a food processing facility to simulate and optimize cleaning-in-place ($\text{CIP}$) procedures, tracking pathogen flow and validating sterilization efficacy.",
+    "description": "Create a digital twin model of a food processing facility to simulate and optimize cleaning-in-place (CIP) procedures, tracking pathogen flow and validating sterilization efficacy.",
     "keywords": [
       "Digital Twin",
       "Sanitation Optimization",
@@ -57367,7 +57367,7 @@ const PROBLEMS_DATA = {
     "id": 8008,
     "title": "IoT System for Real-Time Pest Monitoring in Warehouses",
     "domain": "116",
-    "description": "Deploy a network of IoT sensors (e.g., acoustic, $\text{CO}_2$, motion) and cameras to continuously monitor and log pest activity in food storage warehouses and distribution centers.",
+    "description": "Deploy a network of IoT sensors (e.g., acoustic, CO2, motion) and cameras to continuously monitor and log pest activity in food storage warehouses and distribution centers.",
     "keywords": [
       "Pest Management",
       "IoT Monitoring",
@@ -57376,7 +57376,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8009,
-    "title": "Verification System for Organic and $\text{Non-GMO}$ Claims",
+    "title": "Verification System for Organic and Non-GMO Claims",
     "domain": "116",
     "description": "Develop a system leveraging blockchain and genomic testing to provide verifiable, immutable proof of organic certification and non-GMO status for specific food batches.",
     "keywords": [
@@ -57389,7 +57389,7 @@ const PROBLEMS_DATA = {
     "id": 8010,
     "title": "AI for Foreign Object Detection in X-Ray Imaging",
     "domain": "116",
-    "description": "Train a deep learning model to significantly improve the accuracy and speed of foreign object detection (especially irregular materials) in high-volume food inspection $\text{X-ray}$ systems.",
+    "description": "Train a deep learning model to significantly improve the accuracy and speed of foreign object detection (especially irregular materials) in high-volume food inspection X-ray systems.",
     "keywords": [
       "Deep Learning",
       "X-Ray Inspection",
@@ -57433,7 +57433,7 @@ const PROBLEMS_DATA = {
     "id": 8014,
     "title": "Predictive Model for Mycotoxin Risk in Grain Storage",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ model that integrates silo temperature, humidity, and grain moisture content to forecast the risk of mycotoxin development in stored commodities.",
+    "description": "Develop an AI model that integrates silo temperature, humidity, and grain moisture content to forecast the risk of mycotoxin development in stored commodities.",
     "keywords": [
       "Mycotoxin",
       "Grain Storage",
@@ -57464,9 +57464,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8017,
-    "title": "Low-Cost Sensor for Detecting Volatile Organic Compounds ($\text{VOC}$) for Spoilage",
+    "title": "Low-Cost Sensor for Detecting Volatile Organic Compounds (VOC) for Spoilage",
     "domain": "116",
-    "description": "Develop an inexpensive, disposable sensor that can detect specific $\text{VOCs}$ emitted by common spoilage microorganisms in packaged food products.",
+    "description": "Develop an inexpensive, disposable sensor that can detect specific VOCs emitted by common spoilage microorganisms in packaged food products.",
     "keywords": [
       "VOC Sensors",
       "Spoilage Detection",
@@ -57486,9 +57486,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8019,
-    "title": "Consumer Mobile App for Scanning Product Traceability ($\text{QR}$ Code)",
+    "title": "Consumer Mobile App for Scanning Product Traceability (QR Code)",
     "domain": "116",
-    "description": "Develop a user-friendly mobile application that allows consumers to scan a $\text{QR}$ code on packaging to view the transparent, verified history and provenance of the product.",
+    "description": "Develop a user-friendly mobile application that allows consumers to scan a QR code on packaging to view the transparent, verified history and provenance of the product.",
     "keywords": [
       "Consumer Traceability",
       "Mobile Application",
@@ -57510,7 +57510,7 @@ const PROBLEMS_DATA = {
     "id": 8021,
     "title": "Automated Equipment Calibration and Monitoring System",
     "domain": "116",
-    "description": "Implement an $\text{IoT}$-based system to continuously monitor the calibration status and performance drift of critical food safety equipment (e.g., thermometers, metal detectors).",
+    "description": "Implement an IoT-based system to continuously monitor the calibration status and performance drift of critical food safety equipment (e.g., thermometers, metal detectors).",
     "keywords": [
       "Equipment Calibration",
       "IoT Monitoring",
@@ -57519,9 +57519,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8022,
-    "title": "Predictive Model for $\text{HACCP}$ Critical Control Point ($\text{CCP}$) Failures",
+    "title": "Predictive Model for HACCP Critical Control Point (CCP) Failures",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that analyzes real-time sensor data and historical deviations to predict when a $\text{HACCP}$ $\text{CCP}$ is likely to drift out of specification, enabling preventative action.",
+    "description": "Build an AI model that analyzes real-time sensor data and historical deviations to predict when a HACCP CCP is likely to drift out of specification, enabling preventative action.",
     "keywords": [
       "HACCP",
       "CCP Monitoring",
@@ -57532,7 +57532,7 @@ const PROBLEMS_DATA = {
     "id": 8023,
     "title": "Spectroscopic Detection of Food Adulterants (e.g., Melamine, Dyes)",
     "domain": "116",
-    "description": "Develop a handheld or in-line spectroscopy device (e.g., $\text{NIR}$, Raman) coupled with $\text{AI}$ to quickly identify common, dangerous chemical adulterants in powdered or liquid foods.",
+    "description": "Develop a handheld or in-line spectroscopy device (e.g., NIR, Raman) coupled with AI to quickly identify common, dangerous chemical adulterants in powdered or liquid foods.",
     "keywords": [
       "Food Adulteration",
       "Spectroscopy",
@@ -57543,7 +57543,7 @@ const PROBLEMS_DATA = {
     "id": 8024,
     "title": "Robotics for Automated High-Risk Area Disinfection",
     "domain": "116",
-    "description": "Design autonomous robots equipped with $\text{UV-C}$ or specialized fogging equipment to perform deep, repeatable disinfection of food preparation areas during off-hours.",
+    "description": "Design autonomous robots equipped with UV-C or specialized fogging equipment to perform deep, repeatable disinfection of food preparation areas during off-hours.",
     "keywords": [
       "Disinfection Robotics",
       "Food Safety Automation",
@@ -57565,7 +57565,7 @@ const PROBLEMS_DATA = {
     "id": 8026,
     "title": "AI for Predicting Post-Processing Contamination Risk",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ model that analyzes air quality, equipment history, and environmental swabbing results to predict the risk of contamination *after* a product's final pasteurization or cooking step.",
+    "description": "Develop an AI model that analyzes air quality, equipment history, and environmental swabbing results to predict the risk of contamination *after* a product's final pasteurization or cooking step.",
     "keywords": [
       "Post-Processing Contamination",
       "Air Quality",
@@ -57574,9 +57574,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8027,
-    "title": "Augmented Reality ($\text{AR}$) for Food Safety Audits",
+    "title": "Augmented Reality (AR) for Food Safety Audits",
     "domain": "116",
-    "description": "Create an $\text{AR}$ application for auditors to overlay digital checklists, historical contamination hotspots, and standard operating procedures ($\text{SOPs}$) onto a physical facility during an inspection.",
+    "description": "Create an AR application for auditors to overlay digital checklists, historical contamination hotspots, and standard operating procedures (SOPs) onto a physical facility during an inspection.",
     "keywords": [
       "Augmented Reality",
       "Food Safety Audit",
@@ -57587,7 +57587,7 @@ const PROBLEMS_DATA = {
     "id": 8028,
     "title": "Blockchain for Certified Fishing/Sourcing Traceability",
     "domain": "116",
-    "description": "Implement a blockchain ledger to track seafood from the point of catch/harvest to the consumer, verifying species, fishing method, and preventing illegal, unreported, and unregulated ($\text{IUU}$) fishing.",
+    "description": "Implement a blockchain ledger to track seafood from the point of catch/harvest to the consumer, verifying species, fishing method, and preventing illegal, unreported, and unregulated (IUU) fishing.",
     "keywords": [
       "Seafood Traceability",
       "IUU Fishing",
@@ -57598,7 +57598,7 @@ const PROBLEMS_DATA = {
     "id": 8029,
     "title": "Predictive Model for Cross-Docking/Distribution Center Safety Risk",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that assesses the risk of temperature abuse or cross-contamination at distribution centers based on traffic volume, time delays, and storage conditions.",
+    "description": "Build an AI model that assesses the risk of temperature abuse or cross-contamination at distribution centers based on traffic volume, time delays, and storage conditions.",
     "keywords": [
       "Distribution Safety",
       "Risk Prediction",
@@ -57642,7 +57642,7 @@ const PROBLEMS_DATA = {
     "id": 8033,
     "title": "Digital Platform for Food Safety Training and Certification",
     "domain": "116",
-    "description": "Create an interactive online platform utilizing $\text{VR/AR}$ simulations to provide engaging, standardized, and verifiable food safety training for all levels of plant personnel.",
+    "description": "Create an interactive online platform utilizing VR/AR simulations to provide engaging, standardized, and verifiable food safety training for all levels of plant personnel.",
     "keywords": [
       "Food Safety Training",
       "VR Simulation",
@@ -57664,7 +57664,7 @@ const PROBLEMS_DATA = {
     "id": 8035,
     "title": "Predictive Model for Allergen Contamination Risk",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model to analyze production schedules, equipment shared use, and cleaning logs to dynamically calculate the risk of allergen cross-contact for each product batch.",
+    "description": "Build an AI model to analyze production schedules, equipment shared use, and cleaning logs to dynamically calculate the risk of allergen cross-contact for each product batch.",
     "keywords": [
       "Allergen Management",
       "Cross-Contact Risk",
@@ -57675,7 +57675,7 @@ const PROBLEMS_DATA = {
     "id": 8036,
     "title": "Integrated System for Foreign Material Source Tracking",
     "domain": "116",
-    "description": "Develop a system that links data from metal detectors, $\text{X-ray}$ machines, and optical sorters to maintenance records to automatically identify the potential source of a detected foreign material.",
+    "description": "Develop a system that links data from metal detectors, X-ray machines, and optical sorters to maintenance records to automatically identify the potential source of a detected foreign material.",
     "keywords": [
       "Foreign Material",
       "Source Tracking",
@@ -57684,9 +57684,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8037,
-    "title": "AI-Driven Optimization of $\text{High Pressure Processing (HPP)}$ Parameters",
+    "title": "AI-Driven Optimization of High Pressure Processing (HPP) Parameters",
     "domain": "116",
-    "description": "Create an $\text{AI}$ control system to adjust the pressure and time parameters of $\text{HPP}$ based on the specific food matrix and target pathogen to maximize safety and preserve quality.",
+    "description": "Create an AI control system to adjust the pressure and time parameters of HPP based on the specific food matrix and target pathogen to maximize safety and preserve quality.",
     "keywords": [
       "HPP Optimization",
       "Non-Thermal Processing",
@@ -57697,7 +57697,7 @@ const PROBLEMS_DATA = {
     "id": 8038,
     "title": "Blockchain for Certified Fair Trade and Ethical Sourcing",
     "domain": "116",
-    "description": "Implement a transparent, auditable blockchain ledger to track products and verify that they meet $\text{Fair Trade}$ or specific ethical labor standards.",
+    "description": "Implement a transparent, auditable blockchain ledger to track products and verify that they meet Fair Trade or specific ethical labor standards.",
     "keywords": [
       "Ethical Sourcing",
       "Fair Trade",
@@ -57706,9 +57706,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8039,
-    "title": "Robotics for Automated $\text{Brix/pH/Acidity}$ Testing",
+    "title": "Robotics for Automated Brix/pH/Acidity Testing",
     "domain": "116",
-    "description": "Design a robotic arm system that autonomously samples liquid or soft food products on a production line and performs rapid chemical quality/safety analysis (e.g., $\text{pH}$, Brix).",
+    "description": "Design a robotic arm system that autonomously samples liquid or soft food products on a production line and performs rapid chemical quality/safety analysis (e.g., pH, Brix).",
     "keywords": [
       "Robotic Testing",
       "Quality Analysis",
@@ -57717,9 +57717,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8040,
-    "title": "Low-Cost Sensor for $\text{CO}_2$ and $\text{O}_2$ Monitoring in $\text{MAP}$ Packaging",
+    "title": "Low-Cost Sensor for CO2 and O2 Monitoring in MAP Packaging",
     "domain": "116",
-    "description": "Develop a cheap, disposable sensor to verify and monitor the gas composition ($\text{CO}_2$, $\text{O}_2$) within Modified Atmosphere Packaging ($\text{MAP}$) throughout distribution.",
+    "description": "Develop a cheap, disposable sensor to verify and monitor the gas composition (CO2, O2) within Modified Atmosphere Packaging (MAP) throughout distribution.",
     "keywords": [
       "MAP Packaging",
       "Gas Monitoring",
@@ -57730,7 +57730,7 @@ const PROBLEMS_DATA = {
     "id": 8041,
     "title": "AI for Predicting Bacterial Growth Rates in Ready-to-Eat Food",
     "domain": "116",
-    "description": "Build a model that uses initial microbial load, $\text{pH}$, water activity, and temperature history to forecast the growth curve of target pathogens in specific ready-to-eat ($\text{RTE}$) products.",
+    "description": "Build a model that uses initial microbial load, pH, water activity, and temperature history to forecast the growth curve of target pathogens in specific ready-to-eat (RTE) products.",
     "keywords": [
       "Predictive Microbiology",
       "RTE Food",
@@ -57741,7 +57741,7 @@ const PROBLEMS_DATA = {
     "id": 8042,
     "title": "Digital Platform for Real-Time Regulatory Change Alerts",
     "domain": "116",
-    "description": "Create a subscription platform that tracks global food safety regulatory changes ($\text{FDA, EFSA}$, etc.) and automatically alerts food companies about relevant upcoming compliance deadlines.",
+    "description": "Create a subscription platform that tracks global food safety regulatory changes (FDA, EFSA, etc.) and automatically alerts food companies about relevant upcoming compliance deadlines.",
     "keywords": [
       "Regulatory Compliance",
       "Global Safety",
@@ -57750,9 +57750,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8043,
-    "title": "Augmented Reality ($\text{AR}$) for Equipment $\text{SOP}$ Guidance",
+    "title": "Augmented Reality (AR) for Equipment SOP Guidance",
     "domain": "116",
-    "description": "Develop an $\text{AR}$ app that provides step-by-step Standard Operating Procedures ($\text{SOPs}$) and safety warnings overlaid onto complex processing equipment for training and compliance.",
+    "description": "Develop an AR app that provides step-by-step Standard Operating Procedures (SOPs) and safety warnings overlaid onto complex processing equipment for training and compliance.",
     "keywords": [
       "AR Training",
       "SOP Compliance",
@@ -57772,9 +57772,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8045,
-    "title": "AI for Optimizing $\text{Clean-in-Place (CIP)}$ Detergent Usage",
+    "title": "AI for Optimizing Clean-in-Place (CIP) Detergent Usage",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that analyzes the level of soiling and the previous batch product to dynamically adjust the concentration and flow rate of $\text{CIP}$ detergents and sanitizers, minimizing waste.",
+    "description": "Develop an AI system that analyzes the level of soiling and the previous batch product to dynamically adjust the concentration and flow rate of CIP detergents and sanitizers, minimizing waste.",
     "keywords": [
       "CIP Optimization",
       "Chemical Usage",
@@ -57807,7 +57807,7 @@ const PROBLEMS_DATA = {
     "id": 8048,
     "title": "Predictive Model for Secondary/Retail Temperature Abuse",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that predicts the likelihood of temperature abuse at the retail and consumer end of the supply chain based on ambient weather, store location, and historical purchase patterns.",
+    "description": "Build an AI model that predicts the likelihood of temperature abuse at the retail and consumer end of the supply chain based on ambient weather, store location, and historical purchase patterns.",
     "keywords": [
       "Retail Safety",
       "Temperature Abuse",
@@ -57827,9 +57827,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8050,
-    "title": "AI for Automated $\text{HACCP}$ Documentation and Record Review",
+    "title": "AI for Automated HACCP Documentation and Record Review",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that automatically collects, time-stamps, and reviews all $\text{HACCP}$ $\text{CCP}$ and $\text{PRP}$ records for completeness, consistency, and compliance in real-time.",
+    "description": "Develop an AI system that automatically collects, time-stamps, and reviews all HACCP CCP and PRP records for completeness, consistency, and compliance in real-time.",
     "keywords": [
       "HACCP Documentation",
       "AI Compliance",
@@ -57838,7 +57838,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8051,
-    "title": "Low-Cost Sensor for $\text{Aflatoxin}$ Detection in Feed/Grain",
+    "title": "Low-Cost Sensor for Aflatoxin Detection in Feed/Grain",
     "domain": "116",
     "description": "Design an affordable, handheld sensor device for rapid on-site screening and quantification of Aflatoxin and other common mycotoxins in animal feed and raw grains.",
     "keywords": [
@@ -57884,7 +57884,7 @@ const PROBLEMS_DATA = {
     "id": 8055,
     "title": "AI for Predicting Shelf-Life Based on Distribution Data",
     "domain": "116",
-    "description": "Train an $\text{AI}$ model to adjust the stated 'best-by' date dynamically based on the actual temperature and time history experienced by a product during its distribution journey.",
+    "description": "Train an AI model to adjust the stated 'best-by' date dynamically based on the actual temperature and time history experienced by a product during its distribution journey.",
     "keywords": [
       "Shelf-Life Modeling",
       "Dynamic Dating",
@@ -57915,9 +57915,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8058,
-    "title": "Blockchain for Certified $\text{GMO}$ Content Tracking",
+    "title": "Blockchain for Certified GMO Content Tracking",
     "domain": "116",
-    "description": "Implement a blockchain ledger to track and certify the $\text{GMO}$ status of ingredients and products throughout the supply chain, ensuring compliance with labeling laws.",
+    "description": "Implement a blockchain ledger to track and certify the GMO status of ingredients and products throughout the supply chain, ensuring compliance with labeling laws.",
     "keywords": [
       "GMO Tracking",
       "Blockchain",
@@ -57928,7 +57928,7 @@ const PROBLEMS_DATA = {
     "id": 8059,
     "title": "Predictive Model for Food Tampering Vulnerability",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that assesses the vulnerability of a food facility or transport route to intentional adulteration or tampering ($\text{Food Defense}$) based on security logs and process flows.",
+    "description": "Build an AI model that assesses the vulnerability of a food facility or transport route to intentional adulteration or tampering (Food Defense) based on security logs and process flows.",
     "keywords": [
       "Food Defense",
       "Tampering Risk",
@@ -57939,7 +57939,7 @@ const PROBLEMS_DATA = {
     "id": 8060,
     "title": "IoT System for Monitoring Fryer Oil Quality and Safety",
     "domain": "116",
-    "description": "Deploy $\text{IoT}$ sensors to continuously monitor the Total Polar Compounds ($\text{TPC}$) and temperature of deep fryer oil in processing and $\text{QSR}$ environments to ensure safety and quality.",
+    "description": "Deploy IoT sensors to continuously monitor the Total Polar Compounds (TPC) and temperature of deep fryer oil in processing and QSR environments to ensure safety and quality.",
     "keywords": [
       "Fryer Oil Monitoring",
       "IoT Sensors",
@@ -57948,9 +57948,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8061,
-    "title": "AI for Automated $\text{PPM}$ (Parts Per Million) Allergen Detection in Swabs",
+    "title": "AI for Automated PPM (Parts Per Million) Allergen Detection in Swabs",
     "domain": "116",
-    "description": "Develop a specialized vision or spectral system coupled with $\text{AI}$ to rapidly and accurately quantify trace amounts of residual allergens ($\text{PPM}$ level) from environmental swabs.",
+    "description": "Develop a specialized vision or spectral system coupled with AI to rapidly and accurately quantify trace amounts of residual allergens (PPM level) from environmental swabs.",
     "keywords": [
       "Allergen Detection",
       "Trace Analysis",
@@ -57959,9 +57959,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8062,
-    "title": "Digital Platform for Real-Time $\text{FSMA}$ Compliance Documentation",
+    "title": "Digital Platform for Real-Time FSMA Compliance Documentation",
     "domain": "116",
-    "description": "Create a platform to automatically collect, organize, and submit compliance data for the $\text{Food Safety Modernization Act (FSMA)}$ $\text{Preventive Controls}$ rule.",
+    "description": "Create a platform to automatically collect, organize, and submit compliance data for the Food Safety Modernization Act (FSMA) Preventive Controls rule.",
     "keywords": [
       "FSMA Compliance",
       "Regulatory Reporting",
@@ -57992,9 +57992,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8065,
-    "title": "Augmented Reality ($\text{AR}$) for Retail Food Safety Training",
+    "title": "Augmented Reality (AR) for Retail Food Safety Training",
     "domain": "116",
-    "description": "Create $\text{AR}$ training modules for grocery store or restaurant staff on safe food handling, temperature logging, and cross-contamination prevention.",
+    "description": "Create AR training modules for grocery store or restaurant staff on safe food handling, temperature logging, and cross-contamination prevention.",
     "keywords": [
       "Retail Food Safety",
       "AR Training",
@@ -58003,9 +58003,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8066,
-    "title": "Predictive Model for $\text{Campylobacter}$ Risk in Poultry Processing",
+    "title": "Predictive Model for Campylobacter Risk in Poultry Processing",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that uses farm data, chilling parameters, and processing line speeds to forecast the final $\text{Campylobacter}$ levels in finished poultry products.",
+    "description": "Build an AI model that uses farm data, chilling parameters, and processing line speeds to forecast the final Campylobacter levels in finished poultry products.",
     "keywords": [
       "Poultry Safety",
       "Campylobacter",
@@ -58014,9 +58014,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8067,
-    "title": "Low-Cost, Reusable $\text{RFID}$ Tags for Item-Level Traceability",
+    "title": "Low-Cost, Reusable RFID Tags for Item-Level Traceability",
     "domain": "116",
-    "description": "Design an ultra-low-cost, robust, and sanitizable $\text{RFID}$ tag system that allows tracking of individual food items or small bundles through the supply chain.",
+    "description": "Design an ultra-low-cost, robust, and sanitizable RFID tag system that allows tracking of individual food items or small bundles through the supply chain.",
     "keywords": [
       "RFID",
       "Item-Level Traceability",
@@ -58025,9 +58025,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8068,
-    "title": "AI for Automated $\text{ATP}$ Swab Result Analysis",
+    "title": "AI for Automated ATP Swab Result Analysis",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that analyzes $\text{ATP}$ sanitation testing results alongside historical data and facility layout to provide immediate, context-specific cleaning validation feedback.",
+    "description": "Develop an AI system that analyzes ATP sanitation testing results alongside historical data and facility layout to provide immediate, context-specific cleaning validation feedback.",
     "keywords": [
       "ATP Testing",
       "Sanitation Validation",
@@ -58038,7 +58038,7 @@ const PROBLEMS_DATA = {
     "id": 8069,
     "title": "Digital Twin for Food Transport Container Thermal Mapping",
     "domain": "116",
-    "description": "Create a virtual model of shipping containers ($\text{reefers}$) to simulate temperature distribution under various external conditions, identifying risk zones and optimizing cargo loading.",
+    "description": "Create a virtual model of shipping containers (reefers) to simulate temperature distribution under various external conditions, identifying risk zones and optimizing cargo loading.",
     "keywords": [
       "Cold Chain Logistics",
       "Digital Twin",
@@ -58058,9 +58058,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8071,
-    "title": "Robotics for Automated $\text{Hazard Analysis and Critical Control Points (HACCP)}$ Monitoring",
+    "title": "Robotics for Automated Hazard Analysis and Critical Control Points (HACCP) Monitoring",
     "domain": "116",
-    "description": "Design a system where mobile robots autonomously patrol $\text{HACCP}$ $\text{CCP}$ locations to verify parameters (e.g., probe temperature, $\text{pH}$) and log data without human intervention.",
+    "description": "Design a system where mobile robots autonomously patrol HACCP CCP locations to verify parameters (e.g., probe temperature, pH) and log data without human intervention.",
     "keywords": [
       "HACCP Automation",
       "Robotic Monitoring",
@@ -58082,7 +58082,7 @@ const PROBLEMS_DATA = {
     "id": 8073,
     "title": "AI for Automated Facility Pest Entry Point Detection",
     "domain": "116",
-    "description": "Use drone or $\text{CCTV}$ footage analyzed by $\text{AI}$ to automatically identify potential rodent or insect entry points (cracks, gaps, open doors) in a food facility's exterior and interior.",
+    "description": "Use drone or CCTV footage analyzed by AI to automatically identify potential rodent or insect entry points (cracks, gaps, open doors) in a food facility's exterior and interior.",
     "keywords": [
       "Pest Control",
       "AI Surveillance",
@@ -58093,7 +58093,7 @@ const PROBLEMS_DATA = {
     "id": 8074,
     "title": "Digital Platform for Centralized Customer Complaint Analysis",
     "domain": "116",
-    "description": "Create a single platform that aggregates customer complaints (from retail, social media, call centers) and uses $\text{AI}$ to identify emerging safety trends or product risks instantly.",
+    "description": "Create a single platform that aggregates customer complaints (from retail, social media, call centers) and uses AI to identify emerging safety trends or product risks instantly.",
     "keywords": [
       "Customer Feedback",
       "Risk Identification",
@@ -58102,9 +58102,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8075,
-    "title": "Predictive Model for $\text{Listeria}$ Risk in Ready-to-Eat Meats",
+    "title": "Predictive Model for Listeria Risk in Ready-to-Eat Meats",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that forecasts $\text{Listeria}$ contamination and growth risk in $\text{RTE}$ meat products based on post-process contamination events, chilling, and storage data.",
+    "description": "Build an AI model that forecasts Listeria contamination and growth risk in RTE meat products based on post-process contamination events, chilling, and storage data.",
     "keywords": [
       "Listeria Risk",
       "RTE Safety",
@@ -58113,9 +58113,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8076,
-    "title": "Smart Packaging for Monitoring $\text{Oxygen}$ Scavenger Performance",
+    "title": "Smart Packaging for Monitoring Oxygen Scavenger Performance",
     "domain": "116",
-    "description": "Develop a visual or digital indicator within packaging to confirm the correct function and saturation level of $\text{oxygen}$ scavengers used for product preservation.",
+    "description": "Develop a visual or digital indicator within packaging to confirm the correct function and saturation level of oxygen scavengers used for product preservation.",
     "keywords": [
       "Smart Packaging",
       "Oxygen Scavengers",
@@ -58135,9 +58135,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8078,
-    "title": "AI for Automated $\text{HACCP}$ Deviation and Corrective Action Management",
+    "title": "AI for Automated HACCP Deviation and Corrective Action Management",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that, upon detecting a $\text{CCP}$ deviation, automatically generates and tracks mandated corrective actions and preventative measures.",
+    "description": "Develop an AI system that, upon detecting a CCP deviation, automatically generates and tracks mandated corrective actions and preventative measures.",
     "keywords": [
       "Corrective Action",
       "HACCP Management",
@@ -58146,7 +58146,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8079,
-    "title": "Digital Platform for Global Ingredient $\text{Risk}$ Scoring",
+    "title": "Digital Platform for Global Ingredient Risk Scoring",
     "domain": "116",
     "description": "Create a constantly updated platform that provides a dynamic safety risk score for thousands of global food ingredients based on origin, supplier history, and historical safety incidents.",
     "keywords": [
@@ -58179,9 +58179,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8082,
-    "title": "AI for Automated Employee Illness and $\text{Hygiene}$ Risk $\text{Screening}$",
+    "title": "AI for Automated Employee Illness and Hygiene Risk Screening",
     "domain": "116",
-    "description": "Develop a non-invasive system using thermal imaging and $\text{AI}$ to screen employees for signs of illness or poor hygiene compliance upon entry to processing areas.",
+    "description": "Develop a non-invasive system using thermal imaging and AI to screen employees for signs of illness or poor hygiene compliance upon entry to processing areas.",
     "keywords": [
       "Employee Health",
       "Hygiene Screening",
@@ -58190,9 +58190,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8083,
-    "title": "Low-Cost Sensor for $\text{pH}$ and Titratable Acidity in Produce",
+    "title": "Low-Cost Sensor for pH and Titratable Acidity in Produce",
     "domain": "116",
-    "description": "Design an inexpensive, robust sensor to rapidly and accurately measure $\text{pH}$ and Titratable Acidity ($\text{TA}$) on the processing line for quality and safety control.",
+    "description": "Design an inexpensive, robust sensor to rapidly and accurately measure pH and Titratable Acidity (TA) on the processing line for quality and safety control.",
     "keywords": [
       "Acidity Measurement",
       "Quality Control",
@@ -58201,7 +58201,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8084,
-    "title": "Digital Twin for Food Processing Line $\text{Flow}$ Optimization",
+    "title": "Digital Twin for Food Processing Line Flow Optimization",
     "domain": "116",
     "description": "Create a virtual model to simulate product flow, minimize bottlenecks, and reduce potential dwell times that could compromise microbial safety.",
     "keywords": [
@@ -58214,7 +58214,7 @@ const PROBLEMS_DATA = {
     "id": 8085,
     "title": "Predictive Model for Food Packaging Integrity Failure",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that uses packaging line speed, material properties, and environmental data to forecast the risk of seal failure and potential microbial ingress.",
+    "description": "Build an AI model that uses packaging line speed, material properties, and environmental data to forecast the risk of seal failure and potential microbial ingress.",
     "keywords": [
       "Packaging Integrity",
       "Seal Failure",
@@ -58225,7 +58225,7 @@ const PROBLEMS_DATA = {
     "id": 8086,
     "title": "Robotics for Automated Sorting of Contaminated or Damaged Produce",
     "domain": "116",
-    "description": "Design a high-speed robotic system using $\text{NIR}$ and $\text{RGB}$ vision to identify and precisely remove individual pieces of damaged, bruised, or contaminated fresh produce.",
+    "description": "Design a high-speed robotic system using NIR and RGB vision to identify and precisely remove individual pieces of damaged, bruised, or contaminated fresh produce.",
     "keywords": [
       "Produce Sorting",
       "Robotic Inspection",
@@ -58234,9 +58234,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8087,
-    "title": "Integrated Platform for $\text{FSVP}$ (Foreign Supplier Verification Program) Compliance",
+    "title": "Integrated Platform for FSVP (Foreign Supplier Verification Program) Compliance",
     "domain": "116",
-    "description": "Develop a digital solution to manage all documentation and risk analysis required for importers to comply with $\text{FSMA}$'s $\text{Foreign Supplier Verification Program}$ ($\text{FSVP}$).",
+    "description": "Develop a digital solution to manage all documentation and risk analysis required for importers to comply with FSMA's Foreign Supplier Verification Program (FSVP).",
     "keywords": [
       "FSVP",
       "Import Compliance",
@@ -58256,9 +58256,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8089,
-    "title": "AI for Automated $\text{CCP}$ Monitoring of $\text{Heat}$ $\text{Treatments}$ (Pasteurization)",
+    "title": "AI for Automated CCP Monitoring of Heat Treatments (Pasteurization)",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that continuously monitors temperature, flow rate, and time data from pasteurizers to ensure critical kill step parameters are met and logged.",
+    "description": "Develop an AI system that continuously monitors temperature, flow rate, and time data from pasteurizers to ensure critical kill step parameters are met and logged.",
     "keywords": [
       "Heat Treatment",
       "Pasteurization",
@@ -58278,7 +58278,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8091,
-    "title": "Low-Cost, Reusable Shipping Container $\text{Leak}$ Detector",
+    "title": "Low-Cost, Reusable Shipping Container Leak Detector",
     "domain": "116",
     "description": "Design an inexpensive sensor system to detect moisture or air leaks in dry and refrigerated shipping containers, protecting food from external contamination and temperature fluctuations.",
     "keywords": [
@@ -58291,7 +58291,7 @@ const PROBLEMS_DATA = {
     "id": 8092,
     "title": "Predictive Model for Cross-Docking and Loading Bay Contamination Risk",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that analyzes traffic, dock door opening times, and cleaning schedules to predict the risk of environmental contamination in loading/unloading zones.",
+    "description": "Build an AI model that analyzes traffic, dock door opening times, and cleaning schedules to predict the risk of environmental contamination in loading/unloading zones.",
     "keywords": [
       "Distribution Safety",
       "Loading Bay Risk",
@@ -58302,7 +58302,7 @@ const PROBLEMS_DATA = {
     "id": 8093,
     "title": "Robotics for Automated Internal Tank Inspection and Verification",
     "domain": "116",
-    "description": "Design a tethered or $\text{wireless}$ robotic probe with $\text{HD}$ cameras and sensors to visually inspect and log the cleanliness of large storage tanks and vessels after $\text{CIP}$.",
+    "description": "Design a tethered or wireless robotic probe with HD cameras and sensors to visually inspect and log the cleanliness of large storage tanks and vessels after CIP.",
     "keywords": [
       "Tank Inspection",
       "Robotic Verification",
@@ -58311,9 +58311,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8094,
-    "title": "AI for Automated Detection of $\text{Pesticide}$ Drift onto Crops",
+    "title": "AI for Automated Detection of Pesticide Drift onto Crops",
     "domain": "116",
-    "description": "Use drone or field camera systems and spectral analysis to detect and map areas of non-target pesticide exposure ($\text{drift}$) onto sensitive crops, providing traceability of contamination.",
+    "description": "Use drone or field camera systems and spectral analysis to detect and map areas of non-target pesticide exposure (drift) onto sensitive crops, providing traceability of contamination.",
     "keywords": [
       "Pesticide Drift",
       "Remote Sensing",
@@ -58322,7 +58322,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8095,
-    "title": "Digital Platform for Real-Time $\text{Product}$ $\text{Hold}$ and $\text{Release}$ $\text{Management}$",
+    "title": "Digital Platform for Real-Time Product Hold and Release Management",
     "domain": "116",
     "description": "Create a centralized system to electronically track all food products placed on 'hold' due to quality or safety concerns, managing testing, release, or destruction with clear auditing.",
     "keywords": [
@@ -58333,9 +58333,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8096,
-    "title": "Rapid Test for $\text{Melamine}$ and Urea Adulteration in Milk/Protein",
+    "title": "Rapid Test for Melamine and Urea Adulteration in Milk/Protein",
     "domain": "116",
-    "description": "Design a simple, highly sensitive, and cost-effective test kit for detecting $\text{nitrogen}$-rich chemical adulterants in dairy products and protein powders.",
+    "description": "Design a simple, highly sensitive, and cost-effective test kit for detecting nitrogen-rich chemical adulterants in dairy products and protein powders.",
     "keywords": [
       "Adulteration Testing",
       "Melamine",
@@ -58344,9 +58344,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8097,
-    "title": "Augmented Reality ($\text{AR}$) for Retail Shelf $\text{Life}$ $\text{Monitoring}$",
+    "title": "Augmented Reality (AR) for Retail Shelf Life Monitoring",
     "domain": "116",
-    "description": "Develop an $\text{AR}$ app for retail workers to scan shelves and instantly highlight products nearing their expiration date or showing signs of visible spoilage.",
+    "description": "Develop an AR app for retail workers to scan shelves and instantly highlight products nearing their expiration date or showing signs of visible spoilage.",
     "keywords": [
       "Retail Operations",
       "Shelf Life",
@@ -58355,7 +58355,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8098,
-    "title": "Predictive Model for $\text{Norovirus}$ Spread in Food Service",
+    "title": "Predictive Model for Norovirus Spread in Food Service",
     "domain": "116",
     "description": "Build a model that integrates sick employee logs, sanitation records, and ingredient source data to forecast the risk of a Norovirus outbreak in a restaurant or catering facility.",
     "keywords": [
@@ -58368,7 +58368,7 @@ const PROBLEMS_DATA = {
     "id": 8099,
     "title": "Smart Label for Tracking UV-C Disinfection History",
     "domain": "116",
-    "description": "Design a color-changing or digital indicator label that can be affixed to products or packaging to provide immutable proof of $\text{UV-C}$ surface disinfection.",
+    "description": "Design a color-changing or digital indicator label that can be affixed to products or packaging to provide immutable proof of UV-C surface disinfection.",
     "keywords": [
       "Disinfection Verification",
       "Smart Label",
@@ -58379,7 +58379,7 @@ const PROBLEMS_DATA = {
     "id": 8100,
     "title": "Robotics for Automated Cleaning of Ventilation Systems",
     "domain": "116",
-    "description": "Design a small, autonomous robot to navigate and clean the internal ducts of $\text{HVAC}$ and ventilation systems in food facilities, reducing airborne contamination risks.",
+    "description": "Design a small, autonomous robot to navigate and clean the internal ducts of HVAC and ventilation systems in food facilities, reducing airborne contamination risks.",
     "keywords": [
       "HVAC Cleaning",
       "Airborne Contamination",
@@ -58388,9 +58388,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8101,
-    "title": "AI for Automated $\text{CIP}$ Concentration Verification",
+    "title": "AI for Automated CIP Concentration Verification",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that uses in-line sensors ($\text{EC}$, $\text{pH}$) to verify that detergent and sanitizer concentrations used during $\text{CIP}$ cycles meet safety and quality standards.",
+    "description": "Develop an AI system that uses in-line sensors (EC, pH) to verify that detergent and sanitizer concentrations used during CIP cycles meet safety and quality standards.",
     "keywords": [
       "CIP Verification",
       "Chemical Control",
@@ -58421,9 +58421,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8104,
-    "title": "Predictive Model for Spore-Forming Bacteria in $\text{Low-Acid}$ Canned Foods",
+    "title": "Predictive Model for Spore-Forming Bacteria in Low-Acid Canned Foods",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model to assess the risk of spore-former survival ($\text{Clostridium botulinum}$) in low-acid canned products based on retort temperature logs and process deviations.",
+    "description": "Build an AI model to assess the risk of spore-former survival (Clostridium botulinum) in low-acid canned products based on retort temperature logs and process deviations.",
     "keywords": [
       "Canning Safety",
       "Botulism Risk",
@@ -58432,9 +58432,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8105,
-    "title": "Integrated $\text{GPS}$ and Temperature Tracking for Item-Level Pallets",
+    "title": "Integrated GPS and Temperature Tracking for Item-Level Pallets",
     "domain": "116",
-    "description": "Develop a system to tag individual pallets with $\text{GPS}$ and $\text{IoT}$ temperature sensors to provide granular, location-aware cold chain monitoring.",
+    "description": "Develop a system to tag individual pallets with GPS and IoT temperature sensors to provide granular, location-aware cold chain monitoring.",
     "keywords": [
       "Pallet Tracking",
       "Cold Chain",
@@ -58454,9 +58454,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8107,
-    "title": "AI for Automated $\text{HACCP}$ Verification Scheduling",
+    "title": "AI for Automated HACCP Verification Scheduling",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ scheduler that dynamically adjusts the frequency and scope of $\text{HACCP}$ verification tasks (e.g., thermometer checks, line checks) based on historical risk and product changes.",
+    "description": "Develop an AI scheduler that dynamically adjusts the frequency and scope of HACCP verification tasks (e.g., thermometer checks, line checks) based on historical risk and product changes.",
     "keywords": [
       "HACCP Verification",
       "Risk-Based Scheduling",
@@ -58465,9 +58465,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8108,
-    "title": "Blockchain for Certified $\text{GHG}$ Emissions Tracking per Product Unit",
+    "title": "Blockchain for Certified GHG Emissions Tracking per Product Unit",
     "domain": "116",
-    "description": "Use blockchain to track and verify the exact $\text{Greenhouse Gas (GHG)}$ emissions associated with the production and transport of a single unit of food product.",
+    "description": "Use blockchain to track and verify the exact Greenhouse Gas (GHG) emissions associated with the production and transport of a single unit of food product.",
     "keywords": [
       "GHG Emissions",
       "Carbon Footprint",
@@ -58476,9 +58476,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8109,
-    "title": "Low-Cost Sensor for $\text{Acrylamide}$ Precursor Detection",
+    "title": "Low-Cost Sensor for Acrylamide Precursor Detection",
     "domain": "116",
-    "description": "Design an inexpensive, rapid test for on-site measurement of $\text{reducing}$ sugars (Acrylamide precursors) in raw materials (e.g., potatoes, grain) before processing.",
+    "description": "Design an inexpensive, rapid test for on-site measurement of reducing sugars (Acrylamide precursors) in raw materials (e.g., potatoes, grain) before processing.",
     "keywords": [
       "Acrylamide Risk",
       "Chemical Safety",
@@ -58487,7 +58487,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8110,
-    "title": "Digital Twin for Facility $\text{Air}$ $\text{Pressure}$ and $\text{Flow}$ $\text{Monitoring}$",
+    "title": "Digital Twin for Facility Air Pressure and Flow Monitoring",
     "domain": "116",
     "description": "Create a virtual model to simulate and monitor positive air pressure and directional airflow in clean processing zones to prevent microbial ingress.",
     "keywords": [
@@ -58500,7 +58500,7 @@ const PROBLEMS_DATA = {
     "id": 8111,
     "title": "AI for Predicting Fungal and Mold Spoilage in Fresh Produce",
     "domain": "116",
-    "description": "Train an $\text{AI}$ model using spectral imagery and environmental data to forecast the onset and severity of fungal and mold spoilage in fresh fruits and vegetables during storage.",
+    "description": "Train an AI model using spectral imagery and environmental data to forecast the onset and severity of fungal and mold spoilage in fresh fruits and vegetables during storage.",
     "keywords": [
       "Fungal Spoilage",
       "Produce Safety",
@@ -58509,9 +58509,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8112,
-    "title": "Rapid Test for $\text{Chlorine}$ Dioxide/Sanitizer Residuals",
+    "title": "Rapid Test for Chlorine Dioxide/Sanitizer Residuals",
     "domain": "116",
-    "description": "Develop a quick, accurate, and easy-to-use test for measuring residual sanitizer concentrations (e.g., chlorine, $\text{peracetic acid}$) in wash water and on surfaces.",
+    "description": "Develop a quick, accurate, and easy-to-use test for measuring residual sanitizer concentrations (e.g., chlorine, peracetic acid) in wash water and on surfaces.",
     "keywords": [
       "Sanitizer Residuals",
       "Chemical Testing",
@@ -58520,9 +58520,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8113,
-    "title": "Robotics for Automated Internal $\text{HACCP}$ Log Auditing",
+    "title": "Robotics for Automated Internal HACCP Log Auditing",
     "domain": "116",
-    "description": "Design an $\text{AI}$-driven system that automatically reviews and audits all digitized $\text{HACCP}$ logs for procedural consistency, sign-offs, and trend analysis.",
+    "description": "Design an AI-driven system that automatically reviews and audits all digitized HACCP logs for procedural consistency, sign-offs, and trend analysis.",
     "keywords": [
       "HACCP Auditing",
       "AI Review",
@@ -58531,9 +58531,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8114,
-    "title": "Integrated Platform for $\text{Root}$ $\text{Cause}$ $\text{Analysis}$ of Safety Incidents",
+    "title": "Integrated Platform for Root Cause Analysis of Safety Incidents",
     "domain": "116",
-    "description": "Create a platform that systematically collects data from recalls, contamination events, and deviations to guide teams through a structured $\text{Root Cause Analysis (RCA)}$ process.",
+    "description": "Create a platform that systematically collects data from recalls, contamination events, and deviations to guide teams through a structured Root Cause Analysis (RCA) process.",
     "keywords": [
       "Root Cause Analysis",
       "Incident Management",
@@ -58542,9 +58542,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8115,
-    "title": "Predictive Model for $\text{Clostridium}$ $\text{perfringens}$ Risk in Cooked Meats",
+    "title": "Predictive Model for Clostridium perfringens Risk in Cooked Meats",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that predicts the risk of $\text{C. perfringens}$ growth in mass-produced cooked meat products based on cooling rates and time-temperature logs.",
+    "description": "Build an AI model that predicts the risk of C. perfringens growth in mass-produced cooked meat products based on cooling rates and time-temperature logs.",
     "keywords": [
       "Cooked Meat Safety",
       "C. perfringens",
@@ -58566,7 +58566,7 @@ const PROBLEMS_DATA = {
     "id": 8117,
     "title": "Blockchain for Certified Non-Antibiotic Raised (NAR) Meat",
     "domain": "116",
-    "description": "Implement a ledger to track livestock history from birth, recording all treatments and ensuring immutable verification of 'No $\text{Antibiotics}$ Ever' claims.",
+    "description": "Implement a ledger to track livestock history from birth, recording all treatments and ensuring immutable verification of 'No Antibiotics Ever' claims.",
     "keywords": [
       "NAR Verification",
       "Livestock Traceability",
@@ -58575,9 +58575,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8118,
-    "title": "AI for Automated Detection of $\text{Filth}$ and $\text{Hair}$ in Bulk Ingredients",
+    "title": "AI for Automated Detection of Filth and Hair in Bulk Ingredients",
     "domain": "116",
-    "description": "Train a high-resolution vision system and $\text{AI}$ to rapidly scan bulk dry ingredients (e.g., flour, sugar, nuts) for signs of insect fragments, hairs, or other filth contaminants.",
+    "description": "Train a high-resolution vision system and AI to rapidly scan bulk dry ingredients (e.g., flour, sugar, nuts) for signs of insect fragments, hairs, or other filth contaminants.",
     "keywords": [
       "Filth Detection",
       "Bulk Ingredient Inspection",
@@ -58586,7 +58586,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8119,
-    "title": "Low-Cost Sensor for Water Activity ($\text{Aw}$) Monitoring in Dry Foods",
+    "title": "Low-Cost Sensor for Water Activity (Aw) Monitoring in Dry Foods",
     "domain": "116",
     "description": "Design an inexpensive, robust sensor to continuously monitor and log water activity in dry food products (e.g., crackers, jerky, spices) during storage to prevent microbial growth.",
     "keywords": [
@@ -58599,7 +58599,7 @@ const PROBLEMS_DATA = {
     "id": 8120,
     "title": "Robotics for Automated Tray and Utensil Inspection/Sorting",
     "domain": "116",
-    "description": "Design a robot with $\text{UV}$ and $\text{RGB}$ vision to inspect and sort catering trays and utensils, ensuring they are free of residual soil or sanitizer before reuse.",
+    "description": "Design a robot with UV and RGB vision to inspect and sort catering trays and utensils, ensuring they are free of residual soil or sanitizer before reuse.",
     "keywords": [
       "Utensil Inspection",
       "Catering Hygiene",
@@ -58608,7 +58608,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8121,
-    "title": "Digital Platform for Real-Time $\text{Supplier}$ $\text{Corrective}$ $\text{Action}$ $\text{Tracking}$",
+    "title": "Digital Platform for Real-Time Supplier Corrective Action Tracking",
     "domain": "116",
     "description": "Create a collaborative portal for tracking and verifying the completion and effectiveness of corrective actions required of food suppliers following an audit or incident.",
     "keywords": [
@@ -58619,9 +58619,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8122,
-    "title": "Predictive Model for $\text{Salmonella}$ Contamination in Eggs",
+    "title": "Predictive Model for Salmonella Contamination in Eggs",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that forecasts $\text{Salmonella}$ risk in eggs based on hen housing conditions, feed data, and egg washing/handling protocols.",
+    "description": "Build an AI model that forecasts Salmonella risk in eggs based on hen housing conditions, feed data, and egg washing/handling protocols.",
     "keywords": [
       "Egg Safety",
       "Salmonella Risk",
@@ -58630,9 +58630,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8123,
-    "title": "Augmented Reality ($\text{AR}$) for $\text{HACCP}$ $\text{CCP}$ Location $\text{Guidance}$",
+    "title": "Augmented Reality (AR) for HACCP CCP Location Guidance",
     "domain": "116",
-    "description": "Develop an $\text{AR}$ application that guides staff to the exact location of $\text{CCP}$ monitoring points in a complex facility and displays the required action and logging procedure.",
+    "description": "Develop an AR application that guides staff to the exact location of CCP monitoring points in a complex facility and displays the required action and logging procedure.",
     "keywords": [
       "HACCP Guidance",
       "AR Assistance",
@@ -58641,9 +58641,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8124,
-    "title": "Rapid Test for $\text{Formaldehyde}$ Adulteration in Liquids",
+    "title": "Rapid Test for Formaldehyde Adulteration in Liquids",
     "domain": "116",
-    "description": "Design a simple, sensitive field test for the detection of $\text{Formaldehyde}$, a common illegal preservative/adulterant in various liquid food products.",
+    "description": "Design a simple, sensitive field test for the detection of Formaldehyde, a common illegal preservative/adulterant in various liquid food products.",
     "keywords": [
       "Adulteration Testing",
       "Chemical Preservatives",
@@ -58652,9 +58652,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8125,
-    "title": "AI for Automated $\text{GMP}$ (Good Manufacturing Practices) Compliance Audit",
+    "title": "AI for Automated GMP (Good Manufacturing Practices) Compliance Audit",
     "domain": "116",
-    "description": "Use $\text{CCTV}$ footage and computer vision to automatically monitor and score employee adherence to $\text{GMP}$ rules (e.g., hairnets, glove use, restricted areas) in real-time.",
+    "description": "Use CCTV footage and computer vision to automatically monitor and score employee adherence to GMP rules (e.g., hairnets, glove use, restricted areas) in real-time.",
     "keywords": [
       "GMP Compliance",
       "AI Audit",
@@ -58674,9 +58674,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8127,
-    "title": "Low-Cost Sensor for $\text{Peracetic}$ $\text{Acid}$ ($\text{PAA}$) Monitoring",
+    "title": "Low-Cost Sensor for Peracetic Acid (PAA) Monitoring",
     "domain": "116",
-    "description": "Design an inexpensive, continuous monitoring sensor for $\text{PAA}$ concentration in wash water and sanitizing solutions, ensuring effective and safe usage.",
+    "description": "Design an inexpensive, continuous monitoring sensor for PAA concentration in wash water and sanitizing solutions, ensuring effective and safe usage.",
     "keywords": [
       "PAA Monitoring",
       "Sanitizer Control",
@@ -58685,7 +58685,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8128,
-    "title": "Robotics for Automated Sorting of $\text{Frozen}$ $\text{Food}$ Contaminants",
+    "title": "Robotics for Automated Sorting of Frozen Food Contaminants",
     "domain": "116",
     "description": "Design a robotic system with advanced vision and air jets/grippers to sort individual pieces of frozen food (e.g., vegetables, fruit) and remove small contaminants or foreign objects.",
     "keywords": [
@@ -58696,7 +58696,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8129,
-    "title": "Digital Platform for End-to-End $\text{Temperature}$ $\text{Mapping}$ $\text{Visualization}$",
+    "title": "Digital Platform for End-to-End Temperature Mapping Visualization",
     "domain": "116",
     "description": "Create a platform that integrates all temperature data loggers across the supply chain into a single, navigable 3D map to visualize critical temperature excursions.",
     "keywords": [
@@ -58707,9 +58707,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8130,
-    "title": "Predictive Model for $\text{Mold}$ Growth in $\text{High-Moisture}$ Baked Goods",
+    "title": "Predictive Model for Mold Growth in High-Moisture Baked Goods",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model to forecast mold growth in baked goods (e.g., bread, cakes) based on water activity, $\text{pH}$, and storage environment history.",
+    "description": "Build an AI model to forecast mold growth in baked goods (e.g., bread, cakes) based on water activity, pH, and storage environment history.",
     "keywords": [
       "Baked Goods Safety",
       "Mold Prediction",
@@ -58718,9 +58718,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8131,
-    "title": "AI for Automated $\text{Clean-in-Place (CIP)}$ Verification of Pipe Flow",
+    "title": "AI for Automated Clean-in-Place (CIP) Verification of Pipe Flow",
     "domain": "116",
-    "description": "Use acoustic or flow sensors and $\text{AI}$ to verify that the turbulent flow rate during $\text{CIP}$ is sufficient to achieve effective cleaning and pathogen removal.",
+    "description": "Use acoustic or flow sensors and AI to verify that the turbulent flow rate during CIP is sufficient to achieve effective cleaning and pathogen removal.",
     "keywords": [
       "CIP Verification",
       "Flow Monitoring",
@@ -58729,9 +58729,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8132,
-    "title": "Rapid Test for $\text{E. coli O157:H7}$ in Ground Meat",
+    "title": "Rapid Test for E. coli O157:H7 in Ground Meat",
     "domain": "116",
-    "description": "Design a fast, highly specific on-site testing method for the detection of pathogenic $\text{E. coli}$ strains in raw ground beef and other high-risk products.",
+    "description": "Design a fast, highly specific on-site testing method for the detection of pathogenic E. coli strains in raw ground beef and other high-risk products.",
     "keywords": [
       "E. coli Testing",
       "Meat Safety",
@@ -58740,9 +58740,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8133,
-    "title": "Blockchain for Certified $\text{Artisan}$ and $\text{Origin}$ Claims",
+    "title": "Blockchain for Certified Artisan and Origin Claims",
     "domain": "116",
-    "description": "Implement a ledger to verify and track the specific methods ($\text{Artisan}$) and geographical origins ($\text{PDO/PGI}$) of specialty food products, securing their premium value.",
+    "description": "Implement a ledger to verify and track the specific methods (Artisan) and geographical origins (PDO/PGI) of specialty food products, securing their premium value.",
     "keywords": [
       "Origin Verification",
       "Specialty Foods",
@@ -58751,9 +58751,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8134,
-    "title": "AI for Automated $\text{Thermal}$ $\text{Process}$ $\text{Deviation}$ $\text{Detection}$",
+    "title": "AI for Automated Thermal Process Deviation Detection",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ system that analyzes real-time temperature profiles from retorts or cookers and immediately flags subtle deviations that could compromise product safety.",
+    "description": "Develop an AI system that analyzes real-time temperature profiles from retorts or cookers and immediately flags subtle deviations that could compromise product safety.",
     "keywords": [
       "Thermal Processing",
       "Deviation Detection",
@@ -58762,7 +58762,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8135,
-    "title": "Low-Cost, Reusable $\text{Water}$ $\text{Hardness}$ $\text{Sensor}$",
+    "title": "Low-Cost, Reusable Water Hardness Sensor",
     "domain": "116",
     "description": "Design an inexpensive sensor for continuous monitoring of water hardness in processing and sanitation water, optimizing detergent use and preventing scale buildup.",
     "keywords": [
@@ -58773,7 +58773,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8136,
-    "title": "Robotics for Automated $\text{Cleaning}$ $\text{and}$ $\text{Debris}$ $\text{Removal}$ from Drains",
+    "title": "Robotics for Automated Cleaning and Debris Removal from Drains",
     "domain": "116",
     "description": "Design a small, maneuverable robot to navigate and clean floor drains and trenches in food processing facilities, a common source of pathogen harborage.",
     "keywords": [
@@ -58795,9 +58795,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8138,
-    "title": "Predictive Model for $\text{Spoilage}$ $\text{Microorganism}$ $\text{Resistance}$ to $\text{Sanitizers}$",
+    "title": "Predictive Model for Spoilage Microorganism Resistance to Sanitizers",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that uses historical environmental swabbing data and sanitizer usage to predict when spoilage organisms may develop resistance, requiring a change in $\text{CIP}$ chemicals.",
+    "description": "Build an AI model that uses historical environmental swabbing data and sanitizer usage to predict when spoilage organisms may develop resistance, requiring a change in CIP chemicals.",
     "keywords": [
       "Microbial Resistance",
       "Sanitizer Efficacy",
@@ -58806,9 +58806,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8139,
-    "title": "AI for Automated $\text{Packaging}$ $\text{Seal}$ $\text{Inspection}$ $\text{using}$ $\text{Thermal}$ $\text{Imaging}$",
+    "title": "AI for Automated Packaging Seal Inspection using Thermal Imaging",
     "domain": "116",
-    "description": "Develop a system that uses thermal imaging and $\text{AI}$ to detect subtle heat deviations indicating weak or compromised seals in packaged food products at high speed.",
+    "description": "Develop a system that uses thermal imaging and AI to detect subtle heat deviations indicating weak or compromised seals in packaged food products at high speed.",
     "keywords": [
       "Seal Inspection",
       "Thermal Imaging",
@@ -58817,9 +58817,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8140,
-    "title": "Integrated Platform for Global $\text{Food}$ $\text{Safety}$ $\text{Alert}$ $\text{Mapping}$",
+    "title": "Integrated Platform for Global Food Safety Alert Mapping",
     "domain": "116",
-    "description": "Create a geospatial platform that aggregates real-time food safety alerts and recalls from multiple global regulatory bodies ($\text{FDA, RASFF}$, etc.) onto a single world map.",
+    "description": "Create a geospatial platform that aggregates real-time food safety alerts and recalls from multiple global regulatory bodies (FDA, RASFF, etc.) onto a single world map.",
     "keywords": [
       "Global Safety Alerts",
       "Geospatial Mapping",
@@ -58828,7 +58828,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8141,
-    "title": "Rapid Test for $\text{Sudan}$ $\text{Dyes}$ and $\text{Illegal}$ $\text{Colorants}$",
+    "title": "Rapid Test for Sudan Dyes and Illegal Colorants",
     "domain": "116",
     "description": "Design a portable, rapid test for the detection of illegal industrial dyes and colorants used to fraudulently enhance the appearance of spices, oils, or sauces.",
     "keywords": [
@@ -58839,7 +58839,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8142,
-    "title": "Blockchain for Certified $\text{Microplastic}$ $\text{Free}$ $\text{Claims}$",
+    "title": "Blockchain for Certified Microplastic Free Claims",
     "domain": "116",
     "description": "Implement a ledger to track and verify testing and source data to support a 'Microplastic Free' claim for bottled water or other packaged goods.",
     "keywords": [
@@ -58850,9 +58850,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8143,
-    "title": "AI for Automated $\text{Pest}$ $\text{Trap}$ $\text{Analysis}$ and $\text{Reporting}$",
+    "title": "AI for Automated Pest Trap Analysis and Reporting",
     "domain": "116",
-    "description": "Develop a system using cameras and $\text{AI}$ to autonomously inspect sticky and lure traps in food facilities, identify the species, count the pests, and generate reports.",
+    "description": "Develop a system using cameras and AI to autonomously inspect sticky and lure traps in food facilities, identify the species, count the pests, and generate reports.",
     "keywords": [
       "Pest Trap Analysis",
       "AI Monitoring",
@@ -58861,7 +58861,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8144,
-    "title": "Low-Cost, $\text{Wireless}$ $\text{Pressure}$ $\text{Sensor}$ for $\text{Aerosol}$ $\text{Monitoring}$",
+    "title": "Low-Cost, Wireless Pressure Sensor for Aerosol Monitoring",
     "domain": "116",
     "description": "Design an inexpensive sensor to monitor subtle air pressure changes and aerosol movement in processing areas, indicating potential pathogen spread via air or water droplets.",
     "keywords": [
@@ -58872,7 +58872,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8145,
-    "title": "Robotics for Automated $\text{Cleaning}$ $\text{of}$ $\text{High}$ $\text{Ceilings}$ $\text{and}$ $\text{Rafters}$",
+    "title": "Robotics for Automated Cleaning of High Ceilings and Rafters",
     "domain": "116",
     "description": "Design a flying or pole-mounted robotic system to inspect and clean high, hard-to-reach surfaces in large food facilities, which can accumulate dust and pathogens.",
     "keywords": [
@@ -58883,9 +58883,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8146,
-    "title": "Digital Platform for $\text{Shelf-Life}$ $\text{Extension}$ $\text{Technology}$ $\text{Tracking}$",
+    "title": "Digital Platform for Shelf-Life Extension Technology Tracking",
     "domain": "116",
-    "description": "Create a platform to track and verify the application and efficacy of $\text{shelf-life}$ extension technologies (e.g., $\text{MAP}$, natural antimicrobials) for product batches.",
+    "description": "Create a platform to track and verify the application and efficacy of shelf-life extension technologies (e.g., MAP, natural antimicrobials) for product batches.",
     "keywords": [
       "Shelf-Life Extension",
       "Technology Tracking",
@@ -58894,9 +58894,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8147,
-    "title": "Predictive Model for $\text{Heavy}$ $\text{Metal}$ $\text{Uptake}$ in Crops",
+    "title": "Predictive Model for Heavy Metal Uptake in Crops",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that uses soil data, irrigation water quality, and crop variety to forecast the potential uptake and concentration of heavy metals in harvested produce.",
+    "description": "Build an AI model that uses soil data, irrigation water quality, and crop variety to forecast the potential uptake and concentration of heavy metals in harvested produce.",
     "keywords": [
       "Heavy Metal Risk",
       "Crop Safety",
@@ -58905,9 +58905,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8148,
-    "title": "AI for Automated $\text{Inspection}$ $\text{of}$ $\text{Packaging}$ $\text{Aesthetics}$ $\text{and}$ $\text{Labeling}$ $\text{Placement}$",
+    "title": "AI for Automated Inspection of Packaging Aesthetics and Labeling Placement",
     "domain": "116",
-    "description": "Use $\text{computer}$ $\text{vision}$ and $\text{AI}$ to ensure that packaging is free of cosmetic defects (dents, misprints) and that all required labeling is correctly placed and legible.",
+    "description": "Use computer vision and AI to ensure that packaging is free of cosmetic defects (dents, misprints) and that all required labeling is correctly placed and legible.",
     "keywords": [
       "Packaging Quality",
       "Labeling Compliance",
@@ -58916,9 +58916,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8149,
-    "title": "Rapid Test for $\text{Furan}$ $\text{and}$ $\text{Furan}$ $\text{Derivatives}$ in Heat-Treated Foods",
+    "title": "Rapid Test for Furan and Furan Derivatives in Heat-Treated Foods",
     "domain": "116",
-    "description": "Design a quick, easy-to-use field or on-line test to detect $\text{furan}$ and its derivatives, which are carcinogens formed during the heat treatment of certain foods.",
+    "description": "Design a quick, easy-to-use field or on-line test to detect furan and its derivatives, which are carcinogens formed during the heat treatment of certain foods.",
     "keywords": [
       "Furan Testing",
       "Chemical Contaminants",
@@ -58927,7 +58927,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8150,
-    "title": "Blockchain for Certified $\text{Food}$ $\text{Allergen}$ $\text{Control}$ $\text{Claims}$",
+    "title": "Blockchain for Certified Food Allergen Control Claims",
     "domain": "116",
     "description": "Implement a ledger to track and verify all cleaning and testing protocols related to allergen control for certified 'Free From' food claims.",
     "keywords": [
@@ -58938,9 +58938,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8151,
-    "title": "AI for Optimized $\text{Ozonation}$ $\text{Treatment}$ $\text{in}$ $\text{Wash}$ $\text{Water}$",
+    "title": "AI for Optimized Ozonation Treatment in Wash Water",
     "domain": "116",
-    "description": "Develop an $\text{AI}$ control system to dynamically adjust the concentration and contact time of $\text{ozone}$ used in wash water for produce or poultry, maximizing microbial kill while minimizing product damage.",
+    "description": "Develop an AI control system to dynamically adjust the concentration and contact time of ozone used in wash water for produce or poultry, maximizing microbial kill while minimizing product damage.",
     "keywords": [
       "Ozonation",
       "Wash Water Safety",
@@ -58949,7 +58949,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8152,
-    "title": "Low-Cost, $\text{Handheld}$ $\text{Device}$ for $\text{Microbial}$ $\text{Load}$ $\text{Estimation}$",
+    "title": "Low-Cost, Handheld Device for Microbial Load Estimation",
     "domain": "116",
     "description": "Design an inexpensive, rapid, and non-destructive handheld device that can provide an estimate of total microbial load on food surfaces or raw ingredients.",
     "keywords": [
@@ -58960,7 +58960,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8153,
-    "title": "Robotics for Automated $\text{Inspection}$ $\text{of}$ $\text{Container}$ $\text{Seals}$ $\text{and}$ $\text{Lids}$",
+    "title": "Robotics for Automated Inspection of Container Seals and Lids",
     "domain": "116",
     "description": "Design a high-speed robotic system using computer vision and pressure sensors to inspect the proper application and integrity of jar lids, bottle caps, and can seals.",
     "keywords": [
