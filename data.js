@@ -71474,6 +71474,446 @@ const PROBLEMS_DATA = {
     ]
   },
   {
+    "id": 9766,
+    "title": "Bridge Deck Load Distribution Analysis Using FEM",
+    "domain": "141",
+    "description": "Use finite element modeling to study load distribution patterns on bridge decks under various traffic conditions.",
+    "keywords": [
+      "Bridge Deck",
+      "Load Distribution",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9767,
+    "title": "Seismic Response Simulation of Cable-Stayed Bridges",
+    "domain": "141",
+    "description": "Analyze the dynamic behavior of cable-stayed bridges during earthquakes using computational models.",
+    "keywords": [
+      "Cable-Stayed Bridges",
+      "Seismic Response",
+      "Computational Simulation"
+    ]
+  },
+  {
+    "id": 9768,
+    "title": "CFD Analysis of Flow Around Bridge Piers",
+    "domain": "141",
+    "description": "Use computational fluid dynamics to study the impact of river flow on bridge piers and assess potential scouring.",
+    "keywords": [
+      "Bridge Piers",
+      "Flow Analysis",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9769,
+    "title": "Dam Spillway Flow Simulation for Safety Assessment",
+    "domain": "141",
+    "description": "Perform numerical simulations of water flow through spillways to predict structural loads and optimize safety.",
+    "keywords": [
+      "Dam Spillway",
+      "Flow Simulation",
+      "Safety Assessment"
+    ]
+  },
+  {
+    "id": 9770,
+    "title": "Bridge Bearing Pad Stress Analysis Under Thermal and Traffic Loads",
+    "domain": "141",
+    "description": "Evaluate stress and deformation in bridge bearings under combined thermal and traffic loading using FEM.",
+    "keywords": [
+      "Bridge Bearings",
+      "Stress Analysis",
+      "Thermal Loads"
+    ]
+  },
+  {
+    "id": 9771,
+    "title": "Finite Element Analysis of Arch Bridge Deformation",
+    "domain": "141",
+    "description": "Model the structural behavior of arch bridges under dead and live loads using finite element methods.",
+    "keywords": [
+      "Arch Bridges",
+      "Deformation Analysis",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9772,
+    "title": "Numerical Modeling of Dam Foundation Seepage",
+    "domain": "141",
+    "description": "Simulate seepage through dam foundations to predict potential piping and structural risk.",
+    "keywords": [
+      "Dam Foundation",
+      "Seepage Analysis",
+      "Numerical Modeling"
+    ]
+  },
+  {
+    "id": 9773,
+    "title": "Bridge Cable Vibration Analysis Under Wind Loads",
+    "domain": "141",
+    "description": "Assess wind-induced vibrations in bridge cables and propose mitigation strategies using computational models.",
+    "keywords": [
+      "Bridge Cables",
+      "Vibration Analysis",
+      "Wind Load"
+    ]
+  },
+  {
+    "id": 9774,
+    "title": "Hydraulic Jump Energy Dissipation in Dam Spillways",
+    "domain": "141",
+    "description": "Model hydraulic jumps in spillways to optimize energy dissipation and minimize downstream erosion.",
+    "keywords": [
+      "Dam Spillway",
+      "Hydraulic Jump",
+      "Energy Dissipation"
+    ]
+  },
+  {
+    "id": 9775,
+    "title": "Bridge Deck Fatigue Analysis Using Traffic Simulation",
+    "domain": "141",
+    "description": "Predict fatigue life of bridge decks based on simulated traffic load data using FEM.",
+    "keywords": [
+      "Bridge Deck",
+      "Fatigue Analysis",
+      "Traffic Simulation"
+    ]
+  },
+  {
+    "id": 9776,
+    "title": "Seismic Retrofit of Concrete Bridges Using FRP Wrapping",
+    "domain": "141",
+    "description": "Enhance the seismic performance of concrete bridges by applying fiber-reinforced polymer wraps.",
+    "keywords": [
+      "Concrete Bridges",
+      "Seismic Retrofit",
+      "FRP Wrapping"
+    ]
+  },
+  {
+    "id": 9777,
+    "title": "Numerical Analysis of Flow-Induced Scour Around Bridge Piers",
+    "domain": "141",
+    "description": "Use CFD to study the scouring effects of river flow on bridge piers and predict potential foundation risks.",
+    "keywords": [
+      "Bridge Piers",
+      "Scour Analysis",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9778,
+    "title": "Bridge Expansion Joint Stress Distribution Analysis",
+    "domain": "141",
+    "description": "Analyze stresses in expansion joints under dynamic loads to improve design and longevity.",
+    "keywords": [
+      "Bridge Expansion Joint",
+      "Stress Analysis",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9779,
+    "title": "Dam Gate Structural Analysis Under Hydrostatic and Dynamic Loads",
+    "domain": "141",
+    "description": "Assess dam gate performance under combined hydrostatic and flow-induced dynamic loads using FEM.",
+    "keywords": [
+      "Dam Gate",
+      "Structural Analysis",
+      "Hydrostatic Loads"
+    ]
+  },
+  {
+    "id": 9780,
+    "title": "Bridge Superstructure Optimization Using FEM Parametric Studies",
+    "domain": "141",
+    "description": "Use parametric finite element studies to optimize bridge superstructure designs for load capacity and material efficiency.",
+    "keywords": [
+      "Bridge Superstructure",
+      "FEM",
+      "Optimization"
+    ]
+  },
+  {
+    "id": 9781,
+    "title": "Seismic Performance Simulation of Earthfill Dams",
+    "domain": "141",
+    "description": "Model the response of earthfill dams during earthquakes to evaluate stability and propose mitigation strategies.",
+    "keywords": [
+      "Earthfill Dams",
+      "Seismic Simulation",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "id": 9782,
+    "title": "Bridge Cable Corrosion Monitoring Using Acoustic Emission",
+    "domain": "141",
+    "description": "Detect and monitor corrosion in bridge cables using acoustic emission techniques to prevent failures.",
+    "keywords": [
+      "Bridge Cables",
+      "Corrosion Monitoring",
+      "Acoustic Emission"
+    ]
+  },
+  {
+    "id": 9783,
+    "title": "Hydraulic Model Testing of Dam Spillway Structures",
+    "domain": "141",
+    "description": "Perform scaled hydraulic tests on spillways to validate CFD models and optimize energy dissipation structures.",
+    "keywords": [
+      "Dam Spillway",
+      "Hydraulic Testing",
+      "Energy Dissipation"
+    ]
+  },
+  {
+    "id": 9784,
+    "title": "Bridge Seismic Isolation Pad Design for Vibration Mitigation",
+    "domain": "141",
+    "description": "Design seismic isolation pads to reduce earthquake-induced forces transmitted to bridge superstructures.",
+    "keywords": [
+      "Bridge Seismic Isolation",
+      "Pad Design",
+      "Vibration Mitigation"
+    ]
+  },
+  {
+    "id": 9785,
+    "title": "Numerical Modeling of Debris Flow Impact on Bridges",
+    "domain": "141",
+    "description": "Simulate debris flow interactions with bridge piers and decks to inform resilient design strategies.",
+    "keywords": [
+      "Debris Flow",
+      "Bridge Impact",
+      "Numerical Simulation"
+    ]
+  },
+  {
+    "id": 9786,
+    "title": "Bridge Bearing Pad Fatigue Life Assessment",
+    "domain": "141",
+    "description": "Predict the fatigue life of bridge bearing pads under repeated traffic and thermal loads using FEM.",
+    "keywords": [
+      "Bridge Bearings",
+      "Fatigue Life",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9787,
+    "title": "Optimization of Dam Outlet Works for Efficient Flood Management",
+    "domain": "141",
+    "description": "Simulate and optimize dam outlet structures to efficiently manage floodwaters while ensuring safety.",
+    "keywords": [
+      "Dam Outlet Works",
+      "Flood Management",
+      "Optimization"
+    ]
+  },
+  {
+    "id": 9788,
+    "title": "Bridge Structural Health Monitoring Using Fiber Bragg Grating Sensors",
+    "domain": "141",
+    "description": "Install fiber optic sensors to measure strain and displacement for real-time monitoring of bridge health.",
+    "keywords": [
+      "Bridge Monitoring",
+      "Fiber Bragg Grating",
+      "Structural Health"
+    ]
+  },
+  {
+    "id": 9789,
+    "title": "Dynamic Wind Load Analysis on Suspension Bridges",
+    "domain": "141",
+    "description": "Simulate suspension bridges under various wind conditions to ensure aerodynamic stability and safety.",
+    "keywords": [
+      "Suspension Bridges",
+      "Wind Load",
+      "Dynamic Analysis"
+    ]
+  },
+  {
+    "id": 9790,
+    "title": "Concrete Dam Crack Assessment Using Ultrasonic Pulse Velocity",
+    "domain": "141",
+    "description": "Detect and evaluate cracks in concrete dams using ultrasonic pulse velocity techniques for maintenance planning.",
+    "keywords": [
+      "Concrete Dam",
+      "Crack Assessment",
+      "Ultrasonic Testing"
+    ]
+  },
+  {
+    "id": 9791,
+    "title": "Parametric FEM Analysis for Bridge Superstructure Optimization",
+    "domain": "141",
+    "description": "Optimize bridge superstructure designs using parametric finite element analysis for efficiency and safety.",
+    "keywords": [
+      "Bridge Superstructure",
+      "FEM",
+      "Parametric Analysis"
+    ]
+  },
+  {
+    "id": 9792,
+    "title": "Flow-Induced Vibration Analysis of Dam Spillways",
+    "domain": "141",
+    "description": "Simulate flow-induced vibrations in spillways to prevent resonance and structural fatigue.",
+    "keywords": [
+      "Dam Spillway",
+      "Flow-Induced Vibration",
+      "Numerical Modeling"
+    ]
+  },
+  {
+    "id": 9793,
+    "title": "Bridge Expansion Joint Material Performance Under Temperature Variations",
+    "domain": "141",
+    "description": "Assess expansion joint materials under extreme temperatures to ensure long-term performance.",
+    "keywords": [
+      "Bridge Expansion Joint",
+      "Material Performance",
+      "Temperature Analysis"
+    ]
+  },
+  {
+    "id": 9794,
+    "title": "Hydraulic and Structural Simulation of Dam Gates During Floods",
+    "domain": "141",
+    "description": "Model combined hydraulic and structural loads on dam gates during flood events for safety assessment.",
+    "keywords": [
+      "Dam Gates",
+      "Flood Simulation",
+      "Hydraulic-Structural Analysis"
+    ]
+  },
+  {
+    "id": 9795,
+    "title": "Bridge Cable Tension Monitoring Using Smart Sensors",
+    "domain": "141",
+    "description": "Use sensor networks to monitor tension in bridge cables continuously and detect anomalies early.",
+    "keywords": [
+      "Bridge Cables",
+      "Smart Sensors",
+      "Tension Monitoring"
+    ]
+  },
+  {
+    "id": 9796,
+    "title": "Dam Seepage and Piping Risk Analysis Using Numerical Modeling",
+    "domain": "141",
+    "description": "Simulate seepage through dam foundations to assess potential piping hazards and mitigation strategies.",
+    "keywords": [
+      "Dam Seepage",
+      "Piping Risk",
+      "Numerical Modeling"
+    ]
+  },
+  {
+    "id": 9797,
+    "title": "Bridge Deck Vibration Analysis with Modal Testing",
+    "domain": "141",
+    "description": "Combine experimental modal testing with simulation to evaluate bridge deck vibration characteristics.",
+    "keywords": [
+      "Bridge Deck",
+      "Vibration Analysis",
+      "Modal Testing"
+    ]
+  },
+  {
+    "id": 9798,
+    "title": "Assessment of Liquefaction Effects on Dam Foundations During Earthquakes",
+    "domain": "141",
+    "description": "Evaluate the impact of soil liquefaction on dam stability during seismic events using numerical modeling.",
+    "keywords": [
+      "Dam Foundation",
+      "Liquefaction",
+      "Seismic Analysis"
+    ]
+  },
+  {
+    "id": 9799,
+    "title": "Bridge Girder Fatigue Analysis Using Simulated Traffic Loads",
+    "domain": "141",
+    "description": "Predict fatigue life of bridge girders under traffic load simulations to plan maintenance schedules.",
+    "keywords": [
+      "Bridge Girders",
+      "Fatigue Analysis",
+      "Traffic Simulation"
+    ]
+  },
+  {
+    "id": 9800,
+    "title": "Reservoir-Induced Seismicity Analysis for Dam Safety",
+    "domain": "141",
+    "description": "Simulate reservoir-induced seismic events and assess potential impacts on dam structures.",
+    "keywords": [
+      "Reservoir-Induced Seismicity",
+      "Dam Safety",
+      "Numerical Simulation"
+    ]
+  },
+  {
+    "id": 9801,
+    "title": "Bridge Bearing Performance Evaluation Under Combined Load Conditions",
+    "domain": "141",
+    "description": "Assess bearings under simultaneous traffic, thermal, and wind loads to improve bridge reliability.",
+    "keywords": [
+      "Bridge Bearings",
+      "Combined Loads",
+      "Performance Evaluation"
+    ]
+  },
+  {
+    "id": 9802,
+    "title": "Hydrodynamic Load Simulation on Dam Spillway Flip Buckets",
+    "domain": "141",
+    "description": "Simulate pressure and forces on spillway flip buckets to ensure structural safety under high-flow conditions.",
+    "keywords": [
+      "Dam Spillway",
+      "Flip Buckets",
+      "Hydrodynamic Analysis"
+    ]
+  },
+  {
+    "id": 9803,
+    "title": "Bridge Cable Vibration Mitigation Using Aerodynamic Devices",
+    "domain": "141",
+    "description": "Design aerodynamic fairings to reduce vortex-induced vibrations in bridge cables subjected to wind loads.",
+    "keywords": [
+      "Bridge Cables",
+      "Vibration Mitigation",
+      "Aerodynamic Devices"
+    ]
+  },
+  {
+    "id": 9804,
+    "title": "CFD Modeling of Flow Separation in Dam Spillways",
+    "domain": "141",
+    "description": "Simulate flow separation in dam spillways to minimize cavitation damage and optimize structure.",
+    "keywords": [
+      "Dam Spillway",
+      "Flow Separation",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9805,
+    "title": "Stress Distribution Analysis in Bridge Superstructures Under Multiple Loads",
+    "domain": "141",
+    "description": "Evaluate stress patterns in bridge superstructures under combined traffic, wind, and seismic loads using FEM.",
+    "keywords": [
+      "Bridge Superstructure",
+      "Stress Analysis",
+      "FEM"
+    ]
+  },
+  {
     "id": 9806,
     "title": "Seismic Retrofitting Strategies for Existing Bridges",
     "domain": "141",
@@ -71581,6 +72021,446 @@ const PROBLEMS_DATA = {
       "Pre-Stressed Concrete",
       "Bridge Design",
       "Load Optimization"
+    ]
+  },
+    {
+    "id": 9816,
+    "title": "Bridge Expansion Joint Wear Monitoring Using IoT Sensors",
+    "domain": "141",
+    "description": "Implement IoT-enabled sensors to monitor the wear and deformation of expansion joints in real time.",
+    "keywords": [
+      "Bridge Expansion Joint",
+      "IoT Monitoring",
+      "Wear Assessment"
+    ]
+  },
+  {
+    "id": 9817,
+    "title": "Dam Reservoir Sloshing Simulation for Seismic Load Assessment",
+    "domain": "141",
+    "description": "Use numerical models to simulate water sloshing in reservoirs and evaluate its impact on dam structures during earthquakes.",
+    "keywords": [
+      "Dam Reservoir",
+      "Sloshing Simulation",
+      "Seismic Load"
+    ]
+  },
+  {
+    "id": 9818,
+    "title": "Bridge Cable Corrosion Protection Using Smart Coatings",
+    "domain": "141",
+    "description": "Design and evaluate smart coatings for bridge cables to prevent corrosion and extend service life.",
+    "keywords": [
+      "Bridge Cables",
+      "Corrosion Protection",
+      "Smart Coatings"
+    ]
+  },
+  {
+    "id": 9819,
+    "title": "Hydrodynamic Analysis of Floating Bridges Under Wave Loads",
+    "domain": "141",
+    "description": "Simulate the dynamic response of floating bridges subjected to waves and currents for stability assessment.",
+    "keywords": [
+      "Floating Bridges",
+      "Wave Loads",
+      "Hydrodynamic Analysis"
+    ]
+  },
+  {
+    "id": 9820,
+    "title": "Bridge Deck Drainage Optimization Using CFD",
+    "domain": "141",
+    "description": "Use computational fluid dynamics to optimize bridge deck drainage systems and prevent water accumulation.",
+    "keywords": [
+      "Bridge Deck",
+      "Drainage Optimization",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9821,
+    "title": "Seismic Analysis of Multi-Span Continuous Bridges",
+    "domain": "141",
+    "description": "Perform earthquake simulation studies on multi-span continuous bridges to evaluate performance and design improvements.",
+    "keywords": [
+      "Multi-Span Bridges",
+      "Seismic Analysis",
+      "Structural Simulation"
+    ]
+  },
+  {
+    "id": 9822,
+    "title": "Numerical Study of Dam Spillway Cavitation Erosion",
+    "domain": "141",
+    "description": "Use CFD to predict cavitation formation in spillways and its potential to cause surface erosion.",
+    "keywords": [
+      "Dam Spillway",
+      "Cavitation",
+      "Erosion Analysis"
+    ]
+  },
+  {
+    "id": 9823,
+    "title": "Bridge Girder Dynamic Response Under Moving Loads",
+    "domain": "141",
+    "description": "Simulate dynamic response of bridge girders under moving vehicles to assess fatigue and structural behavior.",
+    "keywords": [
+      "Bridge Girders",
+      "Dynamic Response",
+      "Moving Loads"
+    ]
+  },
+  {
+    "id": 9824,
+    "title": "Dam Slope Stability Analysis Using Geotechnical FEM",
+    "domain": "141",
+    "description": "Evaluate the stability of dam slopes under varying water levels using finite element geotechnical modeling.",
+    "keywords": [
+      "Dam Slope",
+      "Stability Analysis",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9825,
+    "title": "Bridge Cable Fatigue Life Prediction Using Simulation",
+    "domain": "141",
+    "description": "Predict fatigue life of bridge cables under wind and traffic loads using computational models.",
+    "keywords": [
+      "Bridge Cables",
+      "Fatigue Life",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 9826,
+    "title": "Dam Seepage Analysis Under Extreme Reservoir Conditions",
+    "domain": "141",
+    "description": "Simulate seepage patterns under maximum reservoir water levels to identify potential piping risks.",
+    "keywords": [
+      "Dam Seepage",
+      "Extreme Conditions",
+      "Numerical Modeling"
+    ]
+  },
+  {
+    "id": 9827,
+    "title": "Bridge Superstructure Stress Analysis Under Wind and Seismic Loads",
+    "domain": "141",
+    "description": "Evaluate combined effects of wind and earthquake loads on bridge superstructures using FEM.",
+    "keywords": [
+      "Bridge Superstructure",
+      "Stress Analysis",
+      "Wind & Seismic"
+    ]
+  },
+  {
+    "id": 9828,
+    "title": "Hydraulic Model Testing for Dam Energy Dissipation Structures",
+    "domain": "141",
+    "description": "Conduct physical and numerical tests on dam energy dissipation structures to validate design performance.",
+    "keywords": [
+      "Dam Spillway",
+      "Energy Dissipation",
+      "Hydraulic Testing"
+    ]
+  },
+  {
+    "id": 9829,
+    "title": "Bridge Deck Crack Propagation Simulation Under Traffic Loads",
+    "domain": "141",
+    "description": "Model crack initiation and propagation in bridge decks under repetitive traffic loading to assess maintenance needs.",
+    "keywords": [
+      "Bridge Deck",
+      "Crack Propagation",
+      "Traffic Load Simulation"
+    ]
+  },
+  {
+    "id": 9830,
+    "title": "Seismic Response of Arch Dams Using 3D FEM Modeling",
+    "domain": "141",
+    "description": "Use three-dimensional finite element models to analyze arch dam behavior during seismic events.",
+    "keywords": [
+      "Arch Dams",
+      "Seismic Response",
+      "3D FEM"
+    ]
+  },
+  {
+    "id": 9831,
+    "title": "Bridge Expansion Joint Thermal Stress Analysis",
+    "domain": "141",
+    "description": "Evaluate thermal stresses in bridge expansion joints to improve material selection and durability.",
+    "keywords": [
+      "Bridge Expansion Joint",
+      "Thermal Stress",
+      "Material Analysis"
+    ]
+  },
+  {
+    "id": 9832,
+    "title": "Dam Foundation Settlement Simulation Using FEM",
+    "domain": "141",
+    "description": "Predict foundation settlements under different loading scenarios to ensure dam stability.",
+    "keywords": [
+      "Dam Foundation",
+      "Settlement Simulation",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9833,
+    "title": "Bridge Cable Tension Optimization Using Computational Models",
+    "domain": "141",
+    "description": "Use numerical simulations to optimize cable tension for bridge stability and load distribution.",
+    "keywords": [
+      "Bridge Cables",
+      "Tension Optimization",
+      "Computational Modeling"
+    ]
+  },
+  {
+    "id": 9834,
+    "title": "Dam Spillway Flow-Induced Vibration Analysis",
+    "domain": "141",
+    "description": "Simulate flow-induced vibrations in spillways to prevent resonance and fatigue damage.",
+    "keywords": [
+      "Dam Spillway",
+      "Flow-Induced Vibration",
+      "Numerical Analysis"
+    ]
+  },
+  {
+    "id": 9835,
+    "title": "Bridge Deck Maintenance Scheduling Using Structural Health Data",
+    "domain": "141",
+    "description": "Use real-time monitoring data to plan bridge deck maintenance and prolong service life.",
+    "keywords": [
+      "Bridge Deck",
+      "Maintenance Scheduling",
+      "Structural Health Monitoring"
+    ]
+  },
+  {
+    "id": 9836,
+    "title": "Seismic Analysis of Gravity Dams with Variable Water Levels",
+    "domain": "141",
+    "description": "Assess the impact of varying reservoir water levels on gravity dam stability during earthquakes.",
+    "keywords": [
+      "Gravity Dams",
+      "Seismic Analysis",
+      "Variable Water Levels"
+    ]
+  },
+  {
+    "id": 9837,
+    "title": "Bridge Girder Dynamic Response Under Wind Gusts",
+    "domain": "141",
+    "description": "Simulate bridge girders under gusty wind conditions to evaluate dynamic response and fatigue risks.",
+    "keywords": [
+      "Bridge Girders",
+      "Wind Gusts",
+      "Dynamic Simulation"
+    ]
+  },
+  {
+    "id": 9838,
+    "title": "CFD Simulation of Sediment Transport Around Bridge Piers",
+    "domain": "141",
+    "description": "Use computational fluid dynamics to analyze sediment movement around bridge piers and its effect on scouring.",
+    "keywords": [
+      "Bridge Piers",
+      "Sediment Transport",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9839,
+    "title": "Bridge Superstructure Vibration Analysis Using Modal Testing",
+    "domain": "141",
+    "description": "Combine experimental and numerical methods to analyze superstructure vibrations and identify resonance modes.",
+    "keywords": [
+      "Bridge Superstructure",
+      "Vibration Analysis",
+      "Modal Testing"
+    ]
+  },
+  {
+    "id": 9840,
+    "title": "Dam Spillway Energy Dissipation Optimization Using Numerical Models",
+    "domain": "141",
+    "description": "Optimize spillway design to maximize energy dissipation and minimize downstream erosion.",
+    "keywords": [
+      "Dam Spillway",
+      "Energy Dissipation",
+      "Numerical Optimization"
+    ]
+  },
+  {
+    "id": 9841,
+    "title": "Bridge Cable Monitoring Using Fiber Optic Sensors",
+    "domain": "141",
+    "description": "Use fiber optic sensors to monitor bridge cable strain and detect anomalies in real time.",
+    "keywords": [
+      "Bridge Cables",
+      "Fiber Optic Sensors",
+      "Monitoring"
+    ]
+  },
+  {
+    "id": 9842,
+    "title": "Seismic Retrofit of Concrete Dams Using Post-Tensioning",
+    "domain": "141",
+    "description": "Improve seismic resilience of concrete dams by applying post-tensioning techniques and numerical validation.",
+    "keywords": [
+      "Concrete Dams",
+      "Seismic Retrofit",
+      "Post-Tensioning"
+    ]
+  },
+  {
+    "id": 9843,
+    "title": "Bridge Deck Fatigue Life Estimation Using Traffic Load Data",
+    "domain": "141",
+    "description": "Estimate fatigue life of bridge decks based on real or simulated traffic loading using FEM.",
+    "keywords": [
+      "Bridge Deck",
+      "Fatigue Life",
+      "Traffic Load Analysis"
+    ]
+  },
+  {
+    "id": 9844,
+    "title": "Dam Foundation Piping Risk Assessment Using Numerical Models",
+    "domain": "141",
+    "description": "Evaluate the potential for foundation piping under extreme water pressures using FEM simulations.",
+    "keywords": [
+      "Dam Foundation",
+      "Piping Risk",
+      "Numerical Modeling"
+    ]
+  },
+  {
+    "id": 9845,
+    "title": "Bridge Expansion Joint Dynamic Response Analysis",
+    "domain": "141",
+    "description": "Analyze dynamic stresses in expansion joints under combined traffic and wind loads using FEM.",
+    "keywords": [
+      "Bridge Expansion Joint",
+      "Dynamic Response",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9846,
+    "title": "Hydraulic Modeling of Dam Spillway Flip Buckets Under Extreme Flow",
+    "domain": "141",
+    "description": "Simulate hydraulic behavior of spillway flip buckets under extreme flood flows to prevent damage.",
+    "keywords": [
+      "Dam Spillway",
+      "Flip Buckets",
+      "Hydraulic Modeling"
+    ]
+  },
+  {
+    "id": 9847,
+    "title": "Bridge Cable Aerodynamic Stability Analysis",
+    "domain": "141",
+    "description": "Analyze aerodynamic effects on bridge cables and design mitigation solutions to prevent vortex-induced vibrations.",
+    "keywords": [
+      "Bridge Cables",
+      "Aerodynamic Stability",
+      "Vibration Mitigation"
+    ]
+  },
+  {
+    "id": 9848,
+    "title": "CFD Analysis of Flow Separation at Dam Spillway Outlets",
+    "domain": "141",
+    "description": "Simulate flow separation at dam spillway outlets to optimize design and prevent cavitation damage.",
+    "keywords": [
+      "Dam Spillway",
+      "Flow Separation",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9849,
+    "title": "Bridge Deck Load Distribution Under Simulated Traffic Patterns",
+    "domain": "141",
+    "description": "Use FEM to simulate load distribution on bridge decks under various traffic patterns for design validation.",
+    "keywords": [
+      "Bridge Deck",
+      "Load Distribution",
+      "FEM"
+    ]
+  },
+  {
+    "id": 9850,
+    "title": "Seismic Performance of Earthfill Dams With Reservoir Level Variations",
+    "domain": "141",
+    "description": "Evaluate how varying water levels affect the seismic response of earthfill dams using numerical simulation.",
+    "keywords": [
+      "Earthfill Dams",
+      "Seismic Performance",
+      "Reservoir Level"
+    ]
+  },
+  {
+    "id": 9851,
+    "title": "Bridge Superstructure Stress Monitoring Using Embedded Sensors",
+    "domain": "141",
+    "description": "Implement embedded sensors in bridge superstructures to continuously monitor stress under live loads.",
+    "keywords": [
+      "Bridge Superstructure",
+      "Stress Monitoring",
+      "Embedded Sensors"
+    ]
+  },
+  {
+    "id": 9852,
+    "title": "Dam Spillway Cavitation Risk Assessment Using CFD",
+    "domain": "141",
+    "description": "Use CFD to predict cavitation locations and intensities in spillways for maintenance and design improvements.",
+    "keywords": [
+      "Dam Spillway",
+      "Cavitation Risk",
+      "CFD"
+    ]
+  },
+  {
+    "id": 9853,
+    "title": "Bridge Girder Fatigue Monitoring Using SHM Data",
+    "domain": "141",
+    "description": "Analyze fatigue progression in bridge girders using data from structural health monitoring systems.",
+    "keywords": [
+      "Bridge Girders",
+      "Fatigue Monitoring",
+      "SHM"
+    ]
+  },
+  {
+    "id": 9854,
+    "title": "Seismic Assessment of Concrete Gravity Dams with Variable Foundation Conditions",
+    "domain": "141",
+    "description": "Evaluate seismic response of concrete gravity dams under varying foundation conditions using FEM.",
+    "keywords": [
+      "Concrete Dams",
+      "Seismic Assessment",
+      "Foundation Variability"
+    ]
+  },
+  {
+    "id": 9855,
+    "title": "Bridge Deck Vibration Mitigation Using Tuned Mass Dampers",
+    "domain": "141",
+    "description": "Design and analyze tuned mass dampers to reduce bridge deck vibrations from traffic and wind loads.",
+    "keywords": [
+      "Bridge Deck",
+      "Vibration Mitigation",
+      "Tuned Mass Dampers"
     ]
   },
   {
@@ -72079,7 +72959,7 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 142
-  
+
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
