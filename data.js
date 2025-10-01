@@ -66224,6 +66224,442 @@ const PROBLEMS_DATA = {
         "keywords": ["Die Casting", "Surface Finish", "Post-Processing"]
     },
     //domain-129
+    {
+    "id": 9073,
+    "title": "AI-Powered Device Thermal Predictor",
+    "domain": "129",
+    "description": "Develop an AI-driven thermal modeling system to predict overheating risks in compact electronic devices before failure occurs.",
+    "keywords": ["Thermal Modeling", "Electronics Cooling", "Convection", "Heat Sinks"]
+},
+{
+    "id": 9074,
+    "title": "Bio-Inspired Heat Sink Design",
+    "domain": "129",
+    "description": "Create an innovative heat sink design using bio-inspired structures to improve passive cooling efficiency in high-density electronics.",
+    "keywords": ["Heat Sinks", "Cooling Systems", "Convection", "Thermal Management"]
+},
+{
+    "id": 9075,
+    "title": "PCM-Based Thermal Battery",
+    "domain": "129",
+    "description": "Design a phase change material (PCM)-based thermal battery to store and release excess heat in renewable energy systems.",
+    "keywords": ["Phase Change Materials", "Thermal Storage", "Heat Transfer", "Renewable Energy"]
+},
+{
+    "id": 9076,
+    "title": "Smart HVAC Optimization System",
+    "domain": "129",
+    "description": "Develop an HVAC optimization algorithm that adjusts air circulation based on real-time occupancy and thermal loads for energy savings.",
+    "keywords": ["HVAC Design", "Cooling Systems", "Thermal Modeling", "Convection"]
+},
+{
+    "id": 9077,
+    "title": "3D Printed Microchannel Cooler",
+    "domain": "129",
+    "description": "Create a 3D printed micro-channel cooling system for high-performance processors to enhance thermal dissipation efficiency.",
+    "keywords": ["Cooling Systems", "Heat Transfer", "Conduction", "Electronics Cooling"]
+},
+{
+    "id": 9078,
+    "title": "Self-Healing Thermal Coating",
+    "domain": "129",
+    "description": "Propose a self-healing thermal coating that restores conductivity when exposed to mechanical damage or thermal stress.",
+    "keywords": ["Protective Coatings", "Thermal Management", "Conduction", "Durability"]
+},
+{
+    "id": 9079,
+    "title": "Smart Convection Cooking Appliance",
+    "domain": "129",
+    "description": "Develop a convection-enhanced cooking appliance that optimizes energy consumption while maintaining food quality.",
+    "keywords": ["Convection", "Heat Transfer", "Thermal Management", "Cooking Systems"]
+},
+{
+    "id": 9080,
+    "title": "EV Battery Thermal Barrier",
+    "domain": "129",
+    "description": "Design a thermal barrier layer for electric vehicle batteries that prevents thermal runaway in extreme conditions.",
+    "keywords": ["Thermal Management", "EV Cooling", "Conduction", "Protective Systems"]
+},
+{
+    "id": 9081,
+    "title": "Spacecraft Heat Transfer Simulator",
+    "domain": "129",
+    "description": "Build a radiation heat transfer simulator to model spacecraft thermal management during interplanetary missions.",
+    "keywords": ["Radiation Heat Transfer", "Thermal Modeling", "Space Applications"]
+},
+{
+    "id": 9082,
+    "title": "Low-Cost Solar Cooling Unit",
+    "domain": "129",
+    "description": "Create a low-cost solar cooling unit for rural households using evaporative and radiative cooling principles.",
+    "keywords": ["Cooling Systems", "Radiation Heat Transfer", "Renewable Energy", "HVAC Design"]
+},
+{
+    "id": 9083,
+    "title": "Hybrid Data Center Cooling",
+    "domain": "129",
+    "description": "Propose a hybrid liquid-air cooling system for data centers to minimize energy consumption and reduce carbon footprint.",
+    "keywords": ["Cooling Systems", "Heat Sinks", "Thermal Management", "Convection"]
+},
+{
+    "id": 9084,
+    "title": "AI-Based HVAC Fault Detector",
+    "domain": "129",
+    "description": "Design an AI-driven fault detection system for HVAC equipment based on abnormal thermal signatures and airflow patterns.",
+    "keywords": ["HVAC Design", "Thermal Modeling", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9085,
+    "title": "Wearable Thermoregulation Device",
+    "domain": "129",
+    "description": "Develop a wearable thermoregulation device using PCM fabrics to maintain worker comfort in extreme environments.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Cooling Systems"]
+},
+{
+    "id": 9086,
+    "title": "Waste Heat Energy Harvester",
+    "domain": "129",
+    "description": "Create a thermal energy harvesting module that converts waste heat from industrial engines into electricity.",
+    "keywords": ["Heat Transfer", "Energy Recovery", "Conduction", "Thermal Management"]
+},
+{
+    "id": 9087,
+    "title": "Nano-Fluid Cooling Medium",
+    "domain": "129",
+    "description": "Propose a nano-fluid based heat transfer medium for faster and more efficient cooling in compact electronics.",
+    "keywords": ["Cooling Systems", "Heat Transfer", "Conduction", "Electronics Cooling"]
+},
+{
+    "id": 9088,
+    "title": "Solar Vaccine Cooling Box",
+    "domain": "129",
+    "description": "Build a portable vaccine cooling box powered by solar energy with advanced thermal insulation for rural health centers.",
+    "keywords": ["Cooling Systems", "HVAC Design", "Thermal Management", "Insulation"]
+},
+{
+    "id": 9089,
+    "title": "AI-Optimized Heat Exchanger",
+    "domain": "129",
+    "description": "Design an AI-optimized heat exchanger that adapts geometry dynamically for variable flow and load conditions.",
+    "keywords": ["Heat Transfer", "Thermal Modeling", "Cooling Systems", "Convection"]
+},
+{
+    "id": 9090,
+    "title": "Industrial Thermal Imaging System",
+    "domain": "129",
+    "description": "Develop a thermal imaging system for predictive maintenance and fault detection in industrial plants.",
+    "keywords": ["Thermal Imaging", "Heat Transfer", "Convection", "Industrial Systems"]
+},
+{
+    "id": 9091,
+    "title": "Zero-Energy Building Cooling",
+    "domain": "129",
+    "description": "Create a zero-energy building cooling system using passive convection and airflow optimization.",
+    "keywords": ["HVAC Design", "Convection", "Cooling Systems", "Green Buildings"]
+},
+{
+    "id": 9092,
+    "title": "Heat Recovery Ventilation System",
+    "domain": "129",
+    "description": "Propose a heat recovery ventilation (HRV) system for smart homes to reuse thermal energy from exhaust air.",
+    "keywords": ["HVAC Design", "Heat Transfer", "Thermal Management", "Convection"]
+},
+{
+    "id": 9093,
+    "title": "Thermal Drone Cooling Module",
+    "domain": "129",
+    "description": "Develop a lightweight cooling module for drones to prevent overheating of electronics during extended flight operations.",
+    "keywords": ["Cooling Systems", "Electronics Cooling", "Convection", "Heat Transfer"]
+},
+{
+    "id": 9094,
+    "title": "Smart Radiant Floor Heating",
+    "domain": "129",
+    "description": "Design a smart radiant floor heating system that adjusts heat flow using AI-controlled thermal sensors for efficiency.",
+    "keywords": ["Conduction", "Thermal Management", "HVAC Design", "Heat Transfer"]
+},
+{
+    "id": 9095,
+    "title": "Thermal Runaway Suppression in EVs",
+    "domain": "129",
+    "description": "Create a suppression mechanism to prevent and contain thermal runaway events in electric vehicle battery packs.",
+    "keywords": ["Thermal Management", "EV Cooling", "Protective Systems", "Conduction"]
+},
+{
+    "id": 9096,
+    "title": "Smart Helmet with Cooling Liner",
+    "domain": "129",
+    "description": "Propose a helmet integrated with a PCM cooling liner for thermal comfort of workers and motorcyclists in hot climates.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Cooling Systems"]
+},
+{
+    "id": 9097,
+    "title": "Thermal Regulation in Vertical Farms",
+    "domain": "129",
+    "description": "Develop a thermal regulation system for vertical farms to maintain optimal temperature for crop yield and energy savings.",
+    "keywords": ["HVAC Design", "Thermal Management", "Cooling Systems", "Convection"]
+},
+{
+    "id": 9098,
+    "title": "Underwater Robotics Cooling System",
+    "domain": "129",
+    "description": "Design an efficient cooling mechanism for underwater robots operating in high-pressure and variable temperature environments.",
+    "keywords": ["Cooling Systems", "Conduction", "Heat Transfer", "Robotics"]
+},
+{
+    "id": 9099,
+    "title": "Thermal Storage Bricks for Housing",
+    "domain": "129",
+    "description": "Create housing bricks embedded with PCM materials to store and release heat, reducing dependence on active cooling.",
+    "keywords": ["Phase Change Materials", "Conduction", "Thermal Storage", "Green Buildings"]
+},
+{
+    "id": 9100,
+    "title": "Heat-Optimized Cooking Stove",
+    "domain": "129",
+    "description": "Develop a cooking stove design that reduces fuel consumption by optimizing conduction and convection heat transfer.",
+    "keywords": ["Heat Transfer", "Conduction", "Convection", "Cooking Systems"]
+},
+{
+    "id": 9101,
+    "title": "Cold Chain Logistics Box",
+    "domain": "129",
+    "description": "Design a thermally insulated box for cold chain logistics with smart monitoring to prevent spoilage of perishables.",
+    "keywords": ["Thermal Management", "Insulation", "Cooling Systems", "Logistics"]
+},
+{
+    "id": 9102,
+    "title": "AI-Controlled Data Center Airflow",
+    "domain": "129",
+    "description": "Propose an AI system that dynamically controls airflow in data centers for reduced cooling costs and increased efficiency.",
+    "keywords": ["Cooling Systems", "HVAC Design", "AI Systems", "Thermal Modeling"]
+},
+{
+    "id": 9103,
+    "title": "Heat Absorbing Road Pavements",
+    "domain": "129",
+    "description": "Develop heat-absorbing road materials to reduce urban heat islands and redirect stored thermal energy for city utilities.",
+    "keywords": ["Heat Transfer", "Conduction", "Thermal Management", "Urban Systems"]
+},
+{
+    "id": 9104,
+    "title": "Thermal Jacket for Extreme Climates",
+    "domain": "129",
+    "description": "Create a thermal jacket using advanced insulation and PCM to provide comfort in extremely hot or cold climates.",
+    "keywords": ["Phase Change Materials", "Insulation", "Thermal Comfort", "Heat Transfer"]
+},
+{
+    "id": 9105,
+    "title": "Industrial Furnace Heat Recovery",
+    "domain": "129",
+    "description": "Design a system to recover and reuse waste heat from industrial furnaces to improve energy efficiency.",
+    "keywords": ["Heat Transfer", "Thermal Recovery", "Conduction", "Industrial Systems"]
+},
+{
+    "id": 9106,
+    "title": "Space Suit Thermal Control",
+    "domain": "129",
+    "description": "Propose an adaptive thermal control system for space suits to manage extreme heat and cold in outer space missions.",
+    "keywords": ["Thermal Management", "Space Applications", "Cooling Systems", "Conduction"]
+},
+{
+    "id": 9107,
+    "title": "Portable Solar Water Heater",
+    "domain": "129",
+    "description": "Develop a portable solar water heater with efficient radiation absorption and minimal heat loss for rural use.",
+    "keywords": ["Radiation Heat Transfer", "Solar Energy", "Thermal Storage", "Heat Transfer"]
+},
+{
+    "id": 9108,
+    "title": "Thermal Stabilization in Drones",
+    "domain": "129",
+    "description": "Create a thermal stabilization unit for drone cameras to avoid sensor overheating during long surveillance missions.",
+    "keywords": ["Cooling Systems", "Thermal Management", "Electronics Cooling"]
+},
+{
+    "id": 9109,
+    "title": "Automotive Cabin Heat Reduction",
+    "domain": "129",
+    "description": "Design a smart reflective coating system for car cabins to minimize heat buildup under direct sunlight.",
+    "keywords": ["Protective Coatings", "Thermal Comfort", "Radiation Heat Transfer"]
+},
+{
+    "id": 9110,
+    "title": "Low-Energy Cold Storage Room",
+    "domain": "129",
+    "description": "Propose a low-energy cold storage solution with advanced thermal insulation and PCM-based cooling support.",
+    "keywords": ["Thermal Management", "Phase Change Materials", "Cooling Systems", "Insulation"]
+},
+{
+    "id": 9111,
+    "title": "AI Thermal Comfort Optimizer",
+    "domain": "129",
+    "description": "Develop an AI-powered system that adjusts indoor air distribution and temperature to maintain user comfort.",
+    "keywords": ["HVAC Design", "Thermal Comfort", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9112,
+    "title": "Waste Heat Powered Desalination",
+    "domain": "129",
+    "description": "Create a desalination unit powered by waste heat from industrial processes to reduce water scarcity.",
+    "keywords": ["Heat Transfer", "Thermal Recovery", "Cooling Systems", "Water Treatment"]
+},
+{
+    "id": 9113,
+    "title": "High-Altitude Balloon Thermal Shield",
+    "domain": "129",
+    "description": "Design a thermal shield for high-altitude balloons to protect onboard instruments from extreme cold and heat.",
+    "keywords": ["Thermal Management", "Radiation Heat Transfer", "Conduction", "Aerospace"]
+},
+{
+    "id": 9114,
+    "title": "Solar-Powered Thermal Refrigerator",
+    "domain": "129",
+    "description": "Develop a refrigerator powered by solar thermal collectors, minimizing grid dependency in rural communities.",
+    "keywords": ["Cooling Systems", "Solar Energy", "Thermal Management", "Radiation Heat Transfer"]
+},
+{
+    "id": 9115,
+    "title": "Passive Building Thermal Insulation",
+    "domain": "129",
+    "description": "Propose passive building materials that regulate indoor temperature without active heating or cooling.",
+    "keywords": ["Conduction", "Insulation", "Green Buildings", "Thermal Management"]
+},
+{
+    "id": 9116,
+    "title": "AI Thermal Load Balancer",
+    "domain": "129",
+    "description": "Create an AI load balancing system for buildings that distributes cooling resources based on predicted thermal load.",
+    "keywords": ["Thermal Modeling", "HVAC Design", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9117,
+    "title": "Heat Absorbing Roofing Tiles",
+    "domain": "129",
+    "description": "Develop roofing tiles embedded with PCM that absorb excess heat during the day and release it at night.",
+    "keywords": ["Phase Change Materials", "Thermal Storage", "Green Buildings", "Conduction"]
+},
+{
+    "id": 9118,
+    "title": "Cooling Pad for Laptops",
+    "domain": "129",
+    "description": "Design an energy-efficient cooling pad for laptops using optimized airflow and heat sinks.",
+    "keywords": ["Cooling Systems", "Heat Sinks", "Electronics Cooling", "Convection"]
+},
+{
+    "id": 9119,
+    "title": "Thermal Resistant Drone Coating",
+    "domain": "129",
+    "description": "Propose a special coating for drones to withstand thermal stress during rapid altitude changes.",
+    "keywords": ["Protective Coatings", "Thermal Management", "Conduction", "Aerospace"]
+},
+{
+    "id": 9120,
+    "title": "Underground Cooling System",
+    "domain": "129",
+    "description": "Design an underground cooling system that uses stable earth temperature for low-energy building cooling.",
+    "keywords": ["Conduction", "HVAC Design", "Thermal Management", "Green Buildings"]
+},
+{
+    "id": 9121,
+    "title": "Thermal Mattress for Hospitals",
+    "domain": "129",
+    "description": "Develop a hospital mattress with integrated PCM to maintain patient comfort in intensive care units.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Healthcare", "Conduction"]
+},
+{
+    "id": 9122,
+    "title": "Autonomous Thermal Regulation in EVs",
+    "domain": "129",
+    "description": "Propose an autonomous thermal regulation system in electric vehicles that adapts cooling dynamically.",
+    "keywords": ["EV Cooling", "Cooling Systems", "Thermal Management", "Conduction"]
+},
+{
+    "id": 9123,
+    "title": "Thermal Control for Smart Glass",
+    "domain": "129",
+    "description": "Develop smart glass with embedded thermal regulation to minimize indoor heating and cooling demands.",
+    "keywords": ["Radiation Heat Transfer", "Smart Materials", "Thermal Management"]
+},
+{
+    "id": 9124,
+    "title": "Heat Dissipating Urban Structures",
+    "domain": "129",
+    "description": "Design urban structures with optimized airflow to reduce urban heat island effects naturally.",
+    "keywords": ["Convection", "Urban Systems", "Cooling Systems", "Thermal Management"]
+},
+{
+    "id": 9125,
+    "title": "AI Predictive Thermal Wearable",
+    "domain": "129",
+    "description": "Create a wearable device that predicts overheating or hypothermia risks by analyzing body thermal patterns.",
+    "keywords": ["Thermal Comfort", "AI Systems", "Wearables", "Phase Change Materials"]
+},
+{
+    "id": 9126,
+    "title": "Heat Transfer Fluid Innovation",
+    "domain": "129",
+    "description": "Develop a novel eco-friendly fluid with higher thermal conductivity for industrial heat exchangers.",
+    "keywords": ["Heat Transfer", "Cooling Systems", "Thermal Management", "Conduction"]
+},
+{
+    "id": 9127,
+    "title": "Geothermal Building Heating",
+    "domain": "129",
+    "description": "Create a geothermal heating system that extracts ground heat for sustainable indoor temperature regulation.",
+    "keywords": ["Conduction", "Geothermal Energy", "HVAC Design", "Thermal Management"]
+},
+{
+    "id": 9128,
+    "title": "Adaptive Cooling for Wearable Sensors",
+    "domain": "129",
+    "description": "Design adaptive cooling solutions for medical wearable sensors to maintain accuracy under prolonged use.",
+    "keywords": ["Cooling Systems", "Wearables", "Electronics Cooling", "Thermal Comfort"]
+},
+{
+    "id": 9129,
+    "title": "Self-Cleaning Heat Sinks",
+    "domain": "129",
+    "description": "Develop heat sinks with self-cleaning surfaces to maintain efficiency under dusty industrial environments.",
+    "keywords": ["Heat Sinks", "Cooling Systems", "Thermal Management", "Convection"]
+},
+{
+    "id": 9130,
+    "title": "AI Solar Cooling Predictor",
+    "domain": "129",
+    "description": "Create an AI predictor for solar cooling systems that adjusts thermal load distribution for efficiency.",
+    "keywords": ["Solar Energy", "Cooling Systems", "Thermal Management", "AI Systems"]
+},
+{
+    "id": 9131,
+    "title": "Thermal Shock Resistant Materials",
+    "domain": "129",
+    "description": "Propose materials that can withstand rapid temperature fluctuations for aerospace and defense applications.",
+    "keywords": ["Materials Durability", "Thermal Management", "Conduction", "Radiation Heat Transfer"]
+},
+{
+    "id": 9132,
+    "title": "Ocean Thermal Cooling for Data Centers",
+    "domain": "129",
+    "description": "Design a system that uses ocean thermal gradients to cool coastal data centers sustainably.",
+    "keywords": ["Cooling Systems", "Thermal Management", "Renewable Energy", "Heat Transfer"]
+},
+{
+    "id": 9133,
+    "title": "AI-Controlled Thermal Curtains",
+    "domain": "129",
+    "description": "Develop thermal curtains with AI sensors that automatically adjust insulation in response to room heat levels.",
+    "keywords": ["Insulation", "AI Systems", "Thermal Comfort", "Heat Transfer"]
+},
+{
+    "id": 9134,
+    "title": "Hybrid Radiative Cooling Panels",
+    "domain": "129",
+    "description": "Create hybrid radiative cooling panels for urban rooftops to minimize air-conditioning energy demand.",
+    "keywords": ["Radiation Heat Transfer", "Cooling Systems", "Thermal Management", "Green Buildings"]
+},
+//domain 130
+
 
 
 
