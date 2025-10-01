@@ -66224,6 +66224,2399 @@ const PROBLEMS_DATA = {
         "keywords": ["Die Casting", "Surface Finish", "Post-Processing"]
     },
     //domain-129
+    {
+    "id": 9073,
+    "title": "AI-Powered Device Thermal Predictor",
+    "domain": "129",
+    "description": "Develop an AI-driven thermal modeling system to predict overheating risks in compact electronic devices before failure occurs.",
+    "keywords": ["Thermal Modeling", "Electronics Cooling", "Convection", "Heat Sinks"]
+},
+{
+    "id": 9074,
+    "title": "Bio-Inspired Heat Sink Design",
+    "domain": "129",
+    "description": "Create an innovative heat sink design using bio-inspired structures to improve passive cooling efficiency in high-density electronics.",
+    "keywords": ["Heat Sinks", "Cooling Systems", "Convection", "Thermal Management"]
+},
+{
+    "id": 9075,
+    "title": "PCM-Based Thermal Battery",
+    "domain": "129",
+    "description": "Design a phase change material (PCM)-based thermal battery to store and release excess heat in renewable energy systems.",
+    "keywords": ["Phase Change Materials", "Thermal Storage", "Heat Transfer", "Renewable Energy"]
+},
+{
+    "id": 9076,
+    "title": "Smart HVAC Optimization System",
+    "domain": "129",
+    "description": "Develop an HVAC optimization algorithm that adjusts air circulation based on real-time occupancy and thermal loads for energy savings.",
+    "keywords": ["HVAC Design", "Cooling Systems", "Thermal Modeling", "Convection"]
+},
+{
+    "id": 9077,
+    "title": "3D Printed Microchannel Cooler",
+    "domain": "129",
+    "description": "Create a 3D printed micro-channel cooling system for high-performance processors to enhance thermal dissipation efficiency.",
+    "keywords": ["Cooling Systems", "Heat Transfer", "Conduction", "Electronics Cooling"]
+},
+{
+    "id": 9078,
+    "title": "Self-Healing Thermal Coating",
+    "domain": "129",
+    "description": "Propose a self-healing thermal coating that restores conductivity when exposed to mechanical damage or thermal stress.",
+    "keywords": ["Protective Coatings", "Thermal Management", "Conduction", "Durability"]
+},
+{
+    "id": 9079,
+    "title": "Smart Convection Cooking Appliance",
+    "domain": "129",
+    "description": "Develop a convection-enhanced cooking appliance that optimizes energy consumption while maintaining food quality.",
+    "keywords": ["Convection", "Heat Transfer", "Thermal Management", "Cooking Systems"]
+},
+{
+    "id": 9080,
+    "title": "EV Battery Thermal Barrier",
+    "domain": "129",
+    "description": "Design a thermal barrier layer for electric vehicle batteries that prevents thermal runaway in extreme conditions.",
+    "keywords": ["Thermal Management", "EV Cooling", "Conduction", "Protective Systems"]
+},
+{
+    "id": 9081,
+    "title": "Spacecraft Heat Transfer Simulator",
+    "domain": "129",
+    "description": "Build a radiation heat transfer simulator to model spacecraft thermal management during interplanetary missions.",
+    "keywords": ["Radiation Heat Transfer", "Thermal Modeling", "Space Applications"]
+},
+{
+    "id": 9082,
+    "title": "Low-Cost Solar Cooling Unit",
+    "domain": "129",
+    "description": "Create a low-cost solar cooling unit for rural households using evaporative and radiative cooling principles.",
+    "keywords": ["Cooling Systems", "Radiation Heat Transfer", "Renewable Energy", "HVAC Design"]
+},
+{
+    "id": 9083,
+    "title": "Hybrid Data Center Cooling",
+    "domain": "129",
+    "description": "Propose a hybrid liquid-air cooling system for data centers to minimize energy consumption and reduce carbon footprint.",
+    "keywords": ["Cooling Systems", "Heat Sinks", "Thermal Management", "Convection"]
+},
+{
+    "id": 9084,
+    "title": "AI-Based HVAC Fault Detector",
+    "domain": "129",
+    "description": "Design an AI-driven fault detection system for HVAC equipment based on abnormal thermal signatures and airflow patterns.",
+    "keywords": ["HVAC Design", "Thermal Modeling", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9085,
+    "title": "Wearable Thermoregulation Device",
+    "domain": "129",
+    "description": "Develop a wearable thermoregulation device using PCM fabrics to maintain worker comfort in extreme environments.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Cooling Systems"]
+},
+{
+    "id": 9086,
+    "title": "Waste Heat Energy Harvester",
+    "domain": "129",
+    "description": "Create a thermal energy harvesting module that converts waste heat from industrial engines into electricity.",
+    "keywords": ["Heat Transfer", "Energy Recovery", "Conduction", "Thermal Management"]
+},
+{
+    "id": 9087,
+    "title": "Nano-Fluid Cooling Medium",
+    "domain": "129",
+    "description": "Propose a nano-fluid based heat transfer medium for faster and more efficient cooling in compact electronics.",
+    "keywords": ["Cooling Systems", "Heat Transfer", "Conduction", "Electronics Cooling"]
+},
+{
+    "id": 9088,
+    "title": "Solar Vaccine Cooling Box",
+    "domain": "129",
+    "description": "Build a portable vaccine cooling box powered by solar energy with advanced thermal insulation for rural health centers.",
+    "keywords": ["Cooling Systems", "HVAC Design", "Thermal Management", "Insulation"]
+},
+{
+    "id": 9089,
+    "title": "AI-Optimized Heat Exchanger",
+    "domain": "129",
+    "description": "Design an AI-optimized heat exchanger that adapts geometry dynamically for variable flow and load conditions.",
+    "keywords": ["Heat Transfer", "Thermal Modeling", "Cooling Systems", "Convection"]
+},
+{
+    "id": 9090,
+    "title": "Industrial Thermal Imaging System",
+    "domain": "129",
+    "description": "Develop a thermal imaging system for predictive maintenance and fault detection in industrial plants.",
+    "keywords": ["Thermal Imaging", "Heat Transfer", "Convection", "Industrial Systems"]
+},
+{
+    "id": 9091,
+    "title": "Zero-Energy Building Cooling",
+    "domain": "129",
+    "description": "Create a zero-energy building cooling system using passive convection and airflow optimization.",
+    "keywords": ["HVAC Design", "Convection", "Cooling Systems", "Green Buildings"]
+},
+{
+    "id": 9092,
+    "title": "Heat Recovery Ventilation System",
+    "domain": "129",
+    "description": "Propose a heat recovery ventilation (HRV) system for smart homes to reuse thermal energy from exhaust air.",
+    "keywords": ["HVAC Design", "Heat Transfer", "Thermal Management", "Convection"]
+},
+{
+    "id": 9093,
+    "title": "Thermal Drone Cooling Module",
+    "domain": "129",
+    "description": "Develop a lightweight cooling module for drones to prevent overheating of electronics during extended flight operations.",
+    "keywords": ["Cooling Systems", "Electronics Cooling", "Convection", "Heat Transfer"]
+},
+{
+    "id": 9094,
+    "title": "Smart Radiant Floor Heating",
+    "domain": "129",
+    "description": "Design a smart radiant floor heating system that adjusts heat flow using AI-controlled thermal sensors for efficiency.",
+    "keywords": ["Conduction", "Thermal Management", "HVAC Design", "Heat Transfer"]
+},
+{
+    "id": 9095,
+    "title": "Thermal Runaway Suppression in EVs",
+    "domain": "129",
+    "description": "Create a suppression mechanism to prevent and contain thermal runaway events in electric vehicle battery packs.",
+    "keywords": ["Thermal Management", "EV Cooling", "Protective Systems", "Conduction"]
+},
+{
+    "id": 9096,
+    "title": "Smart Helmet with Cooling Liner",
+    "domain": "129",
+    "description": "Propose a helmet integrated with a PCM cooling liner for thermal comfort of workers and motorcyclists in hot climates.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Cooling Systems"]
+},
+{
+    "id": 9097,
+    "title": "Thermal Regulation in Vertical Farms",
+    "domain": "129",
+    "description": "Develop a thermal regulation system for vertical farms to maintain optimal temperature for crop yield and energy savings.",
+    "keywords": ["HVAC Design", "Thermal Management", "Cooling Systems", "Convection"]
+},
+{
+    "id": 9098,
+    "title": "Underwater Robotics Cooling System",
+    "domain": "129",
+    "description": "Design an efficient cooling mechanism for underwater robots operating in high-pressure and variable temperature environments.",
+    "keywords": ["Cooling Systems", "Conduction", "Heat Transfer", "Robotics"]
+},
+{
+    "id": 9099,
+    "title": "Thermal Storage Bricks for Housing",
+    "domain": "129",
+    "description": "Create housing bricks embedded with PCM materials to store and release heat, reducing dependence on active cooling.",
+    "keywords": ["Phase Change Materials", "Conduction", "Thermal Storage", "Green Buildings"]
+},
+{
+    "id": 9100,
+    "title": "Heat-Optimized Cooking Stove",
+    "domain": "129",
+    "description": "Develop a cooking stove design that reduces fuel consumption by optimizing conduction and convection heat transfer.",
+    "keywords": ["Heat Transfer", "Conduction", "Convection", "Cooking Systems"]
+},
+{
+    "id": 9101,
+    "title": "Cold Chain Logistics Box",
+    "domain": "129",
+    "description": "Design a thermally insulated box for cold chain logistics with smart monitoring to prevent spoilage of perishables.",
+    "keywords": ["Thermal Management", "Insulation", "Cooling Systems", "Logistics"]
+},
+{
+    "id": 9102,
+    "title": "AI-Controlled Data Center Airflow",
+    "domain": "129",
+    "description": "Propose an AI system that dynamically controls airflow in data centers for reduced cooling costs and increased efficiency.",
+    "keywords": ["Cooling Systems", "HVAC Design", "AI Systems", "Thermal Modeling"]
+},
+{
+    "id": 9103,
+    "title": "Heat Absorbing Road Pavements",
+    "domain": "129",
+    "description": "Develop heat-absorbing road materials to reduce urban heat islands and redirect stored thermal energy for city utilities.",
+    "keywords": ["Heat Transfer", "Conduction", "Thermal Management", "Urban Systems"]
+},
+{
+    "id": 9104,
+    "title": "Thermal Jacket for Extreme Climates",
+    "domain": "129",
+    "description": "Create a thermal jacket using advanced insulation and PCM to provide comfort in extremely hot or cold climates.",
+    "keywords": ["Phase Change Materials", "Insulation", "Thermal Comfort", "Heat Transfer"]
+},
+{
+    "id": 9105,
+    "title": "Industrial Furnace Heat Recovery",
+    "domain": "129",
+    "description": "Design a system to recover and reuse waste heat from industrial furnaces to improve energy efficiency.",
+    "keywords": ["Heat Transfer", "Thermal Recovery", "Conduction", "Industrial Systems"]
+},
+{
+    "id": 9106,
+    "title": "Space Suit Thermal Control",
+    "domain": "129",
+    "description": "Propose an adaptive thermal control system for space suits to manage extreme heat and cold in outer space missions.",
+    "keywords": ["Thermal Management", "Space Applications", "Cooling Systems", "Conduction"]
+},
+{
+    "id": 9107,
+    "title": "Portable Solar Water Heater",
+    "domain": "129",
+    "description": "Develop a portable solar water heater with efficient radiation absorption and minimal heat loss for rural use.",
+    "keywords": ["Radiation Heat Transfer", "Solar Energy", "Thermal Storage", "Heat Transfer"]
+},
+{
+    "id": 9108,
+    "title": "Thermal Stabilization in Drones",
+    "domain": "129",
+    "description": "Create a thermal stabilization unit for drone cameras to avoid sensor overheating during long surveillance missions.",
+    "keywords": ["Cooling Systems", "Thermal Management", "Electronics Cooling"]
+},
+{
+    "id": 9109,
+    "title": "Automotive Cabin Heat Reduction",
+    "domain": "129",
+    "description": "Design a smart reflective coating system for car cabins to minimize heat buildup under direct sunlight.",
+    "keywords": ["Protective Coatings", "Thermal Comfort", "Radiation Heat Transfer"]
+},
+{
+    "id": 9110,
+    "title": "Low-Energy Cold Storage Room",
+    "domain": "129",
+    "description": "Propose a low-energy cold storage solution with advanced thermal insulation and PCM-based cooling support.",
+    "keywords": ["Thermal Management", "Phase Change Materials", "Cooling Systems", "Insulation"]
+},
+{
+    "id": 9111,
+    "title": "AI Thermal Comfort Optimizer",
+    "domain": "129",
+    "description": "Develop an AI-powered system that adjusts indoor air distribution and temperature to maintain user comfort.",
+    "keywords": ["HVAC Design", "Thermal Comfort", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9112,
+    "title": "Waste Heat Powered Desalination",
+    "domain": "129",
+    "description": "Create a desalination unit powered by waste heat from industrial processes to reduce water scarcity.",
+    "keywords": ["Heat Transfer", "Thermal Recovery", "Cooling Systems", "Water Treatment"]
+},
+{
+    "id": 9113,
+    "title": "High-Altitude Balloon Thermal Shield",
+    "domain": "129",
+    "description": "Design a thermal shield for high-altitude balloons to protect onboard instruments from extreme cold and heat.",
+    "keywords": ["Thermal Management", "Radiation Heat Transfer", "Conduction", "Aerospace"]
+},
+{
+    "id": 9114,
+    "title": "Solar-Powered Thermal Refrigerator",
+    "domain": "129",
+    "description": "Develop a refrigerator powered by solar thermal collectors, minimizing grid dependency in rural communities.",
+    "keywords": ["Cooling Systems", "Solar Energy", "Thermal Management", "Radiation Heat Transfer"]
+},
+{
+    "id": 9115,
+    "title": "Passive Building Thermal Insulation",
+    "domain": "129",
+    "description": "Propose passive building materials that regulate indoor temperature without active heating or cooling.",
+    "keywords": ["Conduction", "Insulation", "Green Buildings", "Thermal Management"]
+},
+{
+    "id": 9116,
+    "title": "AI Thermal Load Balancer",
+    "domain": "129",
+    "description": "Create an AI load balancing system for buildings that distributes cooling resources based on predicted thermal load.",
+    "keywords": ["Thermal Modeling", "HVAC Design", "AI Systems", "Cooling Systems"]
+},
+{
+    "id": 9117,
+    "title": "Heat Absorbing Roofing Tiles",
+    "domain": "129",
+    "description": "Develop roofing tiles embedded with PCM that absorb excess heat during the day and release it at night.",
+    "keywords": ["Phase Change Materials", "Thermal Storage", "Green Buildings", "Conduction"]
+},
+{
+    "id": 9118,
+    "title": "Cooling Pad for Laptops",
+    "domain": "129",
+    "description": "Design an energy-efficient cooling pad for laptops using optimized airflow and heat sinks.",
+    "keywords": ["Cooling Systems", "Heat Sinks", "Electronics Cooling", "Convection"]
+},
+{
+    "id": 9119,
+    "title": "Thermal Resistant Drone Coating",
+    "domain": "129",
+    "description": "Propose a special coating for drones to withstand thermal stress during rapid altitude changes.",
+    "keywords": ["Protective Coatings", "Thermal Management", "Conduction", "Aerospace"]
+},
+{
+    "id": 9120,
+    "title": "Underground Cooling System",
+    "domain": "129",
+    "description": "Design an underground cooling system that uses stable earth temperature for low-energy building cooling.",
+    "keywords": ["Conduction", "HVAC Design", "Thermal Management", "Green Buildings"]
+},
+{
+    "id": 9121,
+    "title": "Thermal Mattress for Hospitals",
+    "domain": "129",
+    "description": "Develop a hospital mattress with integrated PCM to maintain patient comfort in intensive care units.",
+    "keywords": ["Phase Change Materials", "Thermal Comfort", "Healthcare", "Conduction"]
+},
+{
+    "id": 9122,
+    "title": "Autonomous Thermal Regulation in EVs",
+    "domain": "129",
+    "description": "Propose an autonomous thermal regulation system in electric vehicles that adapts cooling dynamically.",
+    "keywords": ["EV Cooling", "Cooling Systems", "Thermal Management", "Conduction"]
+},
+{
+    "id": 9123,
+    "title": "Thermal Control for Smart Glass",
+    "domain": "129",
+    "description": "Develop smart glass with embedded thermal regulation to minimize indoor heating and cooling demands.",
+    "keywords": ["Radiation Heat Transfer", "Smart Materials", "Thermal Management"]
+},
+{
+    "id": 9124,
+    "title": "Heat Dissipating Urban Structures",
+    "domain": "129",
+    "description": "Design urban structures with optimized airflow to reduce urban heat island effects naturally.",
+    "keywords": ["Convection", "Urban Systems", "Cooling Systems", "Thermal Management"]
+},
+{
+    "id": 9125,
+    "title": "AI Predictive Thermal Wearable",
+    "domain": "129",
+    "description": "Create a wearable device that predicts overheating or hypothermia risks by analyzing body thermal patterns.",
+    "keywords": ["Thermal Comfort", "AI Systems", "Wearables", "Phase Change Materials"]
+},
+{
+    "id": 9126,
+    "title": "Heat Transfer Fluid Innovation",
+    "domain": "129",
+    "description": "Develop a novel eco-friendly fluid with higher thermal conductivity for industrial heat exchangers.",
+    "keywords": ["Heat Transfer", "Cooling Systems", "Thermal Management", "Conduction"]
+},
+{
+    "id": 9127,
+    "title": "Geothermal Building Heating",
+    "domain": "129",
+    "description": "Create a geothermal heating system that extracts ground heat for sustainable indoor temperature regulation.",
+    "keywords": ["Conduction", "Geothermal Energy", "HVAC Design", "Thermal Management"]
+},
+{
+    "id": 9128,
+    "title": "Adaptive Cooling for Wearable Sensors",
+    "domain": "129",
+    "description": "Design adaptive cooling solutions for medical wearable sensors to maintain accuracy under prolonged use.",
+    "keywords": ["Cooling Systems", "Wearables", "Electronics Cooling", "Thermal Comfort"]
+},
+{
+    "id": 9129,
+    "title": "Self-Cleaning Heat Sinks",
+    "domain": "129",
+    "description": "Develop heat sinks with self-cleaning surfaces to maintain efficiency under dusty industrial environments.",
+    "keywords": ["Heat Sinks", "Cooling Systems", "Thermal Management", "Convection"]
+},
+{
+    "id": 9130,
+    "title": "AI Solar Cooling Predictor",
+    "domain": "129",
+    "description": "Create an AI predictor for solar cooling systems that adjusts thermal load distribution for efficiency.",
+    "keywords": ["Solar Energy", "Cooling Systems", "Thermal Management", "AI Systems"]
+},
+{
+    "id": 9131,
+    "title": "Thermal Shock Resistant Materials",
+    "domain": "129",
+    "description": "Propose materials that can withstand rapid temperature fluctuations for aerospace and defense applications.",
+    "keywords": ["Materials Durability", "Thermal Management", "Conduction", "Radiation Heat Transfer"]
+},
+{
+    "id": 9132,
+    "title": "Ocean Thermal Cooling for Data Centers",
+    "domain": "129",
+    "description": "Design a system that uses ocean thermal gradients to cool coastal data centers sustainably.",
+    "keywords": ["Cooling Systems", "Thermal Management", "Renewable Energy", "Heat Transfer"]
+},
+{
+    "id": 9133,
+    "title": "AI-Controlled Thermal Curtains",
+    "domain": "129",
+    "description": "Develop thermal curtains with AI sensors that automatically adjust insulation in response to room heat levels.",
+    "keywords": ["Insulation", "AI Systems", "Thermal Comfort", "Heat Transfer"]
+},
+{
+    "id": 9134,
+    "title": "Hybrid Radiative Cooling Panels",
+    "domain": "129",
+    "description": "Create hybrid radiative cooling panels for urban rooftops to minimize air-conditioning energy demand.",
+    "keywords": ["Radiation Heat Transfer", "Cooling Systems", "Thermal Management", "Green Buildings"]
+},
+//domain 130
+
+{
+    "id": 9135,
+    "title": "Smart Coating for Marine Structures",
+    "domain": "130",
+    "description": "Develop an intelligent self-healing protective coating for offshore platforms to reduce corrosion from saltwater exposure.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Marine Environment", "Materials Durability"]
+},
+{
+    "id": 9136,
+    "title": "AI-Based Corrosion Prediction Model",
+    "domain": "130",
+    "description": "Design an AI-driven predictive system to estimate corrosion rates in pipelines under varying pressure and fluid compositions.",
+    "keywords": ["Corrosion Prevention", "Degradation Modeling", "Electrochemistry", "Pipelines"]
+},
+{
+    "id": 9137,
+    "title": "Nano-Inhibitor for Stress Corrosion Cracking",
+    "domain": "130",
+    "description": "Develop nano-scale corrosion inhibitors to mitigate stress corrosion cracking in aerospace alloys.",
+    "keywords": ["Stress Corrosion Cracking", "Nano Coatings", "Corrosion Prevention", "Aerospace Materials"]
+},
+{
+    "id": 9138,
+    "title": "Cathodic Protection Optimization System",
+    "domain": "130",
+    "description": "Create an IoT-enabled monitoring and optimization system for cathodic protection in underground pipelines.",
+    "keywords": ["Cathodic Protection", "Corrosion Prevention", "Pipelines", "IoT"]
+},
+{
+    "id": 9139,
+    "title": "High-Temperature Oxidation Resistant Alloy",
+    "domain": "130",
+    "description": "Develop a new alloy resistant to oxidation at extreme temperatures for use in jet engines.",
+    "keywords": ["Oxidation", "Materials Durability", "Alloys", "High Temperature"]
+},
+{
+    "id": 9140,
+    "title": "Smart Paint for Corrosion Detection",
+    "domain": "130",
+    "description": "Design a paint embedded with sensors that changes color to indicate early stages of corrosion.",
+    "keywords": ["Protective Coatings", "Corrosion Detection", "Electrochemistry", "Smart Materials"]
+},
+{
+    "id": 9141,
+    "title": "Biodegradable Corrosion Inhibitors",
+    "domain": "130",
+    "description": "Develop eco-friendly biodegradable corrosion inhibitors for use in water treatment plants.",
+    "keywords": ["Corrosion Prevention", "Electrochemistry", "Green Chemistry", "Water Systems"]
+},
+{
+    "id": 9142,
+    "title": "Laser Surface Modification",
+    "domain": "130",
+    "description": "Investigate laser-based surface modification techniques to enhance corrosion resistance of stainless steels.",
+    "keywords": ["Surface Modification", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9143,
+    "title": "Corrosion Monitoring Drones",
+    "domain": "130",
+    "description": "Develop drone-based imaging and sensor systems for real-time corrosion inspection of bridges and towers.",
+    "keywords": ["Corrosion Monitoring", "Electrochemistry", "Materials Durability", "Drones"]
+},
+{
+    "id": 9144,
+    "title": "Graphene-Enhanced Protective Coatings",
+    "domain": "130",
+    "description": "Design graphene-based coatings for long-lasting protection of oil rigs and marine ships.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Graphene", "Marine Structures"]
+},
+{
+    "id": 9145,
+    "title": "AI Corrosion Risk Map",
+    "domain": "130",
+    "description": "Develop a GIS-based AI tool to map corrosion-prone areas in large infrastructure projects.",
+    "keywords": ["Degradation Modeling", "GIS", "Corrosion Prevention", "Infrastructure"]
+},
+{
+    "id": 9146,
+    "title": "Electrochemical Noise Analysis Tool",
+    "domain": "130",
+    "description": "Create a portable tool to detect corrosion activity through electrochemical noise analysis in industrial equipment.",
+    "keywords": ["Electrochemistry", "Degradation Modeling", "Materials Durability", "Corrosion Detection"]
+},
+{
+    "id": 9147,
+    "title": "Additive Manufacturing for Corrosion Resistance",
+    "domain": "130",
+    "description": "Use 3D printing to develop alloys with microstructures designed to resist corrosion in aggressive environments.",
+    "keywords": ["Materials Durability", "Corrosion Prevention", "Additive Manufacturing", "Alloys"]
+},
+{
+    "id": 9148,
+    "title": "Moisture-Activated Protective Coating",
+    "domain": "130",
+    "description": "Develop coatings that release corrosion inhibitors when exposed to moisture, offering adaptive protection.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Moisture Resistance", "Materials Durability"]
+},
+{
+    "id": 9149,
+    "title": "Corrosion Resistant Concrete Additives",
+    "domain": "130",
+    "description": "Design admixtures for concrete that prevent corrosion of embedded steel reinforcement in buildings.",
+    "keywords": ["Corrosion Prevention", "Protective Coatings", "Concrete Structures", "Materials Durability"]
+},
+{
+    "id": 9150,
+    "title": "Corrosion-Safe Nuclear Waste Containers",
+    "domain": "130",
+    "description": "Develop long-lasting container materials resistant to corrosion for nuclear waste storage.",
+    "keywords": ["Materials Durability", "Corrosion Prevention", "Oxidation", "Nuclear Storage"]
+},
+{
+    "id": 9151,
+    "title": "Marine Biofilm Resistant Coating",
+    "domain": "130",
+    "description": "Create coatings that prevent biofilm growth which accelerates corrosion in marine environments.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Marine Structures", "Biofilm Resistance"]
+},
+{
+    "id": 9152,
+    "title": "AI-Based Stress Corrosion Detection",
+    "domain": "130",
+    "description": "Develop an AI-based tool for early detection of stress corrosion cracking in oil refineries.",
+    "keywords": ["Stress Corrosion Cracking", "AI", "Corrosion Detection", "Oil Refineries"]
+},
+{
+    "id": 9153,
+    "title": "Corrosion-Resistant Microelectronics Packaging",
+    "domain": "130",
+    "description": "Design new packaging materials for microelectronics to prevent moisture-induced corrosion failures.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Electrochemistry", "Microelectronics"]
+},
+{
+    "id": 9154,
+    "title": "Recyclable Corrosion Protection Film",
+    "domain": "130",
+    "description": "Develop recyclable protective films for temporary corrosion protection of transport components.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Recyclable Materials", "Materials Durability"]
+},
+{
+    "id": 9155,
+    "title": "Corrosion Under Insulation Detection",
+    "domain": "130",
+    "description": "Design sensors for detecting hidden corrosion under insulation in pipelines and industrial plants.",
+    "keywords": ["Corrosion Detection", "Materials Durability", "IoT Sensors", "Pipelines"]
+},
+{
+    "id": 9156,
+    "title": "Hybrid Ceramic-Metal Coatings",
+    "domain": "130",
+    "description": "Create hybrid ceramic-metallic coatings that provide enhanced protection against high-temperature corrosion.",
+    "keywords": ["Protective Coatings", "Oxidation", "Corrosion Prevention", "Ceramic Materials"]
+},
+{
+    "id": 9157,
+    "title": "Underground Storage Tank Protection",
+    "domain": "130",
+    "description": "Develop new corrosion prevention techniques for underground storage tanks carrying hazardous materials.",
+    "keywords": ["Corrosion Prevention", "Cathodic Protection", "Materials Durability", "Storage Tanks"]
+},
+{
+    "id": 9158,
+    "title": "Smart Cathodic Protection Controller",
+    "domain": "130",
+    "description": "Design a self-learning controller that optimizes cathodic protection for changing soil conditions.",
+    "keywords": ["Cathodic Protection", "Corrosion Prevention", "Electrochemistry", "AI"]
+},
+{
+    "id": 9159,
+    "title": "Corrosion Resistant Biodegradable Polymers",
+    "domain": "130",
+    "description": "Develop polymers that resist corrosion while being biodegradable for medical implants.",
+    "keywords": ["Biodegradable Materials", "Corrosion Prevention", "Polymers", "Medical Applications"]
+},
+{
+    "id": 9160,
+    "title": "Robotics for Corrosion Maintenance",
+    "domain": "130",
+    "description": "Design autonomous robots capable of inspecting and repairing corrosion on underwater structures.",
+    "keywords": ["Corrosion Monitoring", "Robotics", "Marine Structures", "Corrosion Prevention"]
+},
+{
+    "id": 9161,
+    "title": "Corrosion Resistant Nanocoatings",
+    "domain": "130",
+    "description": "Develop ultra-thin nanocoatings to enhance corrosion resistance in aerospace materials.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Nanotechnology", "Aerospace Materials"]
+},
+{
+    "id": 9162,
+    "title": "AI Pipeline Corrosion Analyzer",
+    "domain": "130",
+    "description": "Create an AI-based analyzer that predicts corrosion hotspots in long-distance pipelines.",
+    "keywords": ["Degradation Modeling", "AI", "Corrosion Prevention", "Pipelines"]
+},
+{
+    "id": 9163,
+    "title": "Corrosion Resistant Biomedical Alloys",
+    "domain": "130",
+    "description": "Design biomedical alloys resistant to corrosion in body fluids for long-term implants.",
+    "keywords": ["Alloys", "Materials Durability", "Biomedical", "Corrosion Prevention"]
+},
+{
+    "id": 9164,
+    "title": "Zero-Maintenance Corrosion Barriers",
+    "domain": "130",
+    "description": "Develop barriers that require no maintenance for over 20 years while protecting critical infrastructure from corrosion.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Infrastructure", "Materials Durability"]
+},
+{
+    "id": 9165,
+    "title": "Corrosion Detection Using Acoustic Sensors",
+    "domain": "130",
+    "description": "Investigate the use of acoustic sensors for detecting early corrosion in structural steel beams.",
+    "keywords": ["Corrosion Detection", "Acoustic Sensors", "Materials Durability", "Structural Health Monitoring"]
+},
+{
+    "id": 9166,
+    "title": "Microbial Corrosion Prevention System",
+    "domain": "130",
+    "description": "Design systems to control microbial-induced corrosion in oil and gas industries.",
+    "keywords": ["Corrosion Prevention", "Electrochemistry", "Microbial Corrosion", "Oil Industry"]
+},
+{
+    "id": 9167,
+    "title": "High Strength Lightweight Corrosion Resistant Alloy",
+    "domain": "130",
+    "description": "Develop lightweight alloys with enhanced corrosion resistance for automotive applications.",
+    "keywords": ["Alloys", "Corrosion Prevention", "Materials Durability", "Automotive"]
+},
+{
+    "id": 9168,
+    "title": "Corrosion Resistant Coating for Renewable Energy Structures",
+    "domain": "130",
+    "description": "Design corrosion-resistant coatings for offshore wind turbines and solar panel mounts.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Renewable Energy", "Marine Environment"]
+},
+{
+    "id": 9169,
+    "title": "pH-Responsive Corrosion Barrier",
+    "domain": "130",
+    "description": "Create coatings that adapt their corrosion protection properties based on environmental pH changes.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Electrochemistry", "Smart Materials"]
+},
+{
+    "id": 9170,
+    "title": "Electrochemical Corrosion Simulator",
+    "domain": "130",
+    "description": "Develop a simulator to replicate various corrosion processes for accelerated material testing.",
+    "keywords": ["Electrochemistry", "Degradation Modeling", "Corrosion Prevention", "Materials Testing"]
+},
+{
+    "id": 9171,
+    "title": "Corrosion Resistant Transparent Coating",
+    "domain": "130",
+    "description": "Design transparent coatings to protect optical instruments from corrosion in humid climates.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Transparent Materials", "Optical Devices"]
+},
+{
+    "id": 9172,
+    "title": "Self-Lubricating Anti-Corrosion Films",
+    "domain": "130",
+    "description": "Develop protective films that also provide lubrication to reduce wear-corrosion synergy.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Materials Durability", "Lubrication"]
+},
+{
+    "id": 9173,
+    "title": "Corrosion Resistant Nanocomposites",
+    "domain": "130",
+    "description": "Create nanocomposites with enhanced corrosion resistance for structural applications.",
+    "keywords": ["Nanocomposites", "Corrosion Prevention", "Protective Coatings", "Materials Durability"]
+},
+{
+    "id": 9174,
+    "title": "AI Marine Corrosion Forecasting",
+    "domain": "130",
+    "description": "Develop an AI-based forecasting model to predict marine corrosion based on environmental data.",
+    "keywords": ["AI", "Degradation Modeling", "Marine Environment", "Corrosion Prevention"]
+},
+{
+    "id": 9175,
+    "title": "Corrosion Resistant 3D Printing Filaments",
+    "domain": "130",
+    "description": "Design 3D printing materials resistant to corrosion for industrial prototyping in harsh environments.",
+    "keywords": ["3D Printing", "Materials Durability", "Corrosion Prevention", "Polymers"]
+},
+{
+    "id": 9176,
+    "title": "Corrosion Resistant High-Entropy Alloys",
+    "domain": "130",
+    "description": "Investigate high-entropy alloys for their superior corrosion resistance in chemical industries.",
+    "keywords": ["High-Entropy Alloys", "Corrosion Prevention", "Materials Durability", "Oxidation"]
+},
+{
+    "id": 9177,
+    "title": "Corrosion Prevention in Additively Manufactured Lattices",
+    "domain": "130",
+    "description": "Develop protective methods for 3D-printed lattice structures prone to accelerated corrosion.",
+    "keywords": ["Additive Manufacturing", "Lattices", "Corrosion Prevention", "Protective Coatings"]
+},
+{
+    "id": 9178,
+    "title": "Solar-Powered Corrosion Monitoring Sensors",
+    "domain": "130",
+    "description": "Design energy-efficient solar-powered sensors for continuous corrosion monitoring in pipelines.",
+    "keywords": ["Corrosion Monitoring", "Sensors", "Solar Power", "Pipelines"]
+},
+{
+    "id": 9179,
+    "title": "Corrosion Resistant Transparent Polymers",
+    "domain": "130",
+    "description": "Develop transparent polymer coatings that protect glass and plastics from environmental corrosion.",
+    "keywords": ["Protective Coatings", "Polymers", "Corrosion Prevention", "Transparent Materials"]
+},
+{
+    "id": 9180,
+    "title": "Corrosion Resistant Rebar for Construction",
+    "domain": "130",
+    "description": "Develop steel reinforcement bars with built-in corrosion resistance for coastal construction projects.",
+    "keywords": ["Rebar", "Construction", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9181,
+    "title": "AI-Enhanced Corrosion Risk Assessment for Aircraft",
+    "domain": "130",
+    "description": "Create AI models to assess corrosion risk in aircraft components based on operational data.",
+    "keywords": ["AI", "Degradation Modeling", "Aircraft", "Corrosion Prevention"]
+},
+{
+    "id": 9182,
+    "title": "Reversible Protective Coatings",
+    "domain": "130",
+    "description": "Develop coatings that can be easily removed and reapplied without damaging the base material.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Reversible Materials", "Materials Durability"]
+},
+{
+    "id": 9183,
+    "title": "Corrosion Resistant Smart Packaging",
+    "domain": "130",
+    "description": "Design packaging that protects sensitive materials and electronics from corrosion during shipping.",
+    "keywords": ["Smart Packaging", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9184,
+    "title": "AI-Powered Corrosion Lifecycle Estimator",
+    "domain": "130",
+    "description": "Develop an AI tool to estimate the lifecycle of infrastructure components under corrosion stress.",
+    "keywords": ["AI", "Degradation Modeling", "Corrosion Prevention", "Lifecycle Estimation"]
+},
+{
+    "id": 9185,
+    "title": "Corrosion Resistant Biocompatible Coatings",
+    "domain": "130",
+    "description": "Develop coatings that are both corrosion resistant and biocompatible for surgical implants.",
+    "keywords": ["Protective Coatings", "Biocompatibility", "Corrosion Prevention", "Medical Devices"]
+},
+{
+    "id": 9186,
+    "title": "AI-Driven Corrosion Failure Analysis",
+    "domain": "130",
+    "description": "Create an AI-driven platform for root cause analysis of corrosion failures in industries.",
+    "keywords": ["AI", "Degradation Modeling", "Corrosion Prevention", "Failure Analysis"]
+},
+{
+    "id": 9187,
+    "title": "Corrosion Resistant Fire Suppression Systems",
+    "domain": "130",
+    "description": "Design corrosion-resistant piping and tanks for long-term reliability in fire suppression systems.",
+    "keywords": ["Materials Durability", "Protective Coatings", "Corrosion Prevention", "Fire Safety"]
+},
+{
+    "id": 9188,
+    "title": "Bio-Inspired Anti-Corrosion Structures",
+    "domain": "130",
+    "description": "Create bio-inspired surface structures that mimic natural barriers for corrosion resistance.",
+    "keywords": ["Bio-Inspired Design", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+
+//domain 131
+
+{
+    "id": 9189,
+    "title": "Nanofluid Heat Exchanger Design",
+    "domain": "131",
+    "description": "Develop a nanofluid-based compact heat exchanger that improves thermal conductivity and efficiency for industrial applications.",
+    "keywords": ["Nanofluid", "Heat Exchanger", "Thermal Conductivity", "Cooling Systems"]
+},
+{
+    "id": 9190,
+    "title": "AI-Based Energy Optimization in Smart Grids",
+    "domain": "131",
+    "description": "Implement an AI-driven optimization algorithm to reduce peak load and improve demand-response strategies in smart grids.",
+    "keywords": ["Smart Grids", "AI Optimization", "Energy Management", "Demand Response"]
+},
+{
+    "id": 9191,
+    "title": "Phase Change Thermal Energy Storage",
+    "domain": "131",
+    "description": "Design a scalable phase change material system to store excess renewable energy as latent heat for later use.",
+    "keywords": ["Thermal Storage", "Phase Change Materials", "Renewable Energy", "Energy Efficiency"]
+},
+{
+    "id": 9192,
+    "title": "3D Printed High-Efficiency Heat Sink",
+    "domain": "131",
+    "description": "Create a lattice-structured heat sink using additive manufacturing to maximize surface area and improve thermal dissipation.",
+    "keywords": ["3D Printing", "Heat Sink", "Thermal Management", "Cooling Systems"]
+},
+{
+    "id": 9193,
+    "title": "Waste Heat Recovery in Data Centers",
+    "domain": "131",
+    "description": "Develop a system that captures and reuses waste heat from data centers for district heating applications.",
+    "keywords": ["Waste Heat Recovery", "Data Centers", "Thermal Systems", "Energy Reuse"]
+},
+{
+    "id": 9194,
+    "title": "Self-Healing Thermal Coatings",
+    "domain": "131",
+    "description": "Engineer self-healing thermal coatings that can repair micro-cracks and maintain thermal insulation in extreme environments.",
+    "keywords": ["Thermal Coatings", "Self-Healing Materials", "Insulation", "Advanced Materials"]
+},
+{
+    "id": 9195,
+    "title": "Hybrid Solar-Thermal Cooling System",
+    "domain": "131",
+    "description": "Design a hybrid solar-thermal cooling system that uses concentrated solar energy for absorption-based cooling in hot climates.",
+    "keywords": ["Solar Thermal", "Cooling Systems", "Absorption Cooling", "Hybrid Systems"]
+},
+{
+    "id": 9196,
+    "title": "AI-Driven Heat Transfer Simulation",
+    "domain": "131",
+    "description": "Develop an AI tool for predictive simulation of heat transfer across complex geometries to optimize engineering designs.",
+    "keywords": ["Heat Transfer", "AI Simulation", "Thermal Analysis", "Predictive Modeling"]
+},
+{
+    "id": 9197,
+    "title": "Thermoelectric Waste Heat Harvester",
+    "domain": "131",
+    "description": "Create a thermoelectric generator to convert industrial exhaust heat into usable electrical energy.",
+    "keywords": ["Thermoelectric", "Waste Heat Recovery", "Energy Conversion", "Industrial Systems"]
+},
+{
+    "id": 9198,
+    "title": "Passive Radiative Cooling Material",
+    "domain": "131",
+    "description": "Design a radiative cooling material that passively rejects heat into the sky without electricity, reducing building energy use.",
+    "keywords": ["Radiative Cooling", "Passive Systems", "Thermal Materials", "Energy Efficiency"]
+},
+{
+    "id": 9199,
+    "title": "Liquid Metal Cooling System",
+    "domain": "131",
+    "description": "Develop a liquid metal-based cooling system for high-power electronics with enhanced thermal conductivity.",
+    "keywords": ["Liquid Metal", "Cooling Systems", "High Power Electronics", "Thermal Conductivity"]
+},
+{
+    "id": 9200,
+    "title": "AI-Based HVAC Optimization",
+    "domain": "131",
+    "description": "Implement AI algorithms to optimize HVAC operations, reducing energy consumption while maintaining comfort levels.",
+    "keywords": ["HVAC", "AI Optimization", "Energy Efficiency", "Smart Buildings"]
+},
+{
+    "id": 9201,
+    "title": "Microchannel Heat Exchanger for EV Batteries",
+    "domain": "131",
+    "description": "Create a microchannel liquid cooling heat exchanger for electric vehicle batteries to prevent thermal runaway.",
+    "keywords": ["EV Batteries", "Microchannel Cooling", "Thermal Management", "Heat Exchanger"]
+},
+{
+    "id": 9202,
+    "title": "Thermal Cloaking Materials",
+    "domain": "131",
+    "description": "Develop advanced metamaterials that redirect heat flow, creating cloaking effects for thermal insulation applications.",
+    "keywords": ["Thermal Cloaking", "Metamaterials", "Heat Flow", "Insulation"]
+},
+{
+    "id": 9203,
+    "title": "Energy Harvesting from Human Body Heat",
+    "domain": "131",
+    "description": "Design wearable thermoelectric devices that harvest body heat to power low-energy electronics like health trackers.",
+    "keywords": ["Wearables", "Thermoelectric", "Body Heat", "Energy Harvesting"]
+},
+{
+    "id": 9204,
+    "title": "Self-Cleaning Solar Thermal Panels",
+    "domain": "131",
+    "description": "Engineer self-cleaning coatings for solar thermal collectors to maintain efficiency in dusty environments.",
+    "keywords": ["Solar Thermal", "Self-Cleaning", "Surface Coatings", "Energy Efficiency"]
+},
+{
+    "id": 9205,
+    "title": "Heat Pipe Integration in Aerospace Systems",
+    "domain": "131",
+    "description": "Design lightweight heat pipe systems to manage extreme thermal conditions in spacecraft and aircraft applications.",
+    "keywords": ["Heat Pipes", "Aerospace Systems", "Thermal Management", "Lightweight Design"]
+},
+{
+    "id": 9206,
+    "title": "Smart Thermal Insulation with IoT Sensors",
+    "domain": "131",
+    "description": "Develop IoT-enabled insulation materials that adapt thermal resistance based on real-time temperature monitoring.",
+    "keywords": ["IoT Sensors", "Thermal Insulation", "Smart Materials", "Energy Management"]
+},
+{
+    "id": 9207,
+    "title": "AI-Controlled Cooling for Edge Devices",
+    "domain": "131",
+    "description": "Create an AI-driven dynamic cooling system for IoT edge devices to prevent overheating and improve performance.",
+    "keywords": ["IoT", "AI Cooling", "Edge Devices", "Thermal Control"]
+},
+{
+    "id": 9208,
+    "title": "Thermal-Responsive Building Facades",
+    "domain": "131",
+    "description": "Design adaptive building facades that change thermal conductivity depending on external weather conditions.",
+    "keywords": ["Building Facades", "Thermal Materials", "Smart Buildings", "Adaptive Systems"]
+},
+{
+    "id": 9209,
+    "title": "High-Performance Thermal Grease",
+    "domain": "131",
+    "description": "Develop eco-friendly thermal grease with high thermal conductivity for semiconductor and electronic cooling.",
+    "keywords": ["Thermal Grease", "Electronics Cooling", "Semiconductors", "Eco-Friendly Materials"]
+},
+{
+    "id": 9210,
+    "title": "Magnetocaloric Refrigeration System",
+    "domain": "131",
+    "description": "Create a magnetic refrigeration system using magnetocaloric materials as an alternative to traditional vapor compression.",
+    "keywords": ["Magnetocaloric", "Refrigeration", "Green Cooling", "Thermal Systems"]
+},
+{
+    "id": 9211,
+    "title": "AI-Optimized Heat Exchanger Geometry",
+    "domain": "131",
+    "description": "Use AI-based generative design to optimize complex geometries in heat exchangers for maximum efficiency.",
+    "keywords": ["Heat Exchanger", "AI Optimization", "Generative Design", "Thermal Systems"]
+},
+{
+    "id": 9212,
+    "title": "Cryogenic Cooling for Quantum Computers",
+    "domain": "131",
+    "description": "Develop advanced cryogenic cooling solutions to stabilize superconducting qubits in quantum computers.",
+    "keywords": ["Cryogenics", "Quantum Computing", "Cooling Systems", "Superconductors"]
+},
+{
+    "id": 9213,
+    "title": "Nano-Encapsulated PCM for Buildings",
+    "domain": "131",
+    "description": "Design nano-encapsulated phase change materials for building walls to regulate indoor temperature passively.",
+    "keywords": ["Phase Change Materials", "Nanoencapsulation", "Buildings", "Thermal Regulation"]
+},
+{
+    "id": 9214,
+    "title": "AI-Powered Turbine Cooling",
+    "domain": "131",
+    "description": "Develop AI-controlled active cooling strategies for gas turbines to improve lifespan and performance.",
+    "keywords": ["Gas Turbines", "AI Cooling", "Active Cooling", "Thermal Management"]
+},
+{
+    "id": 9215,
+    "title": "Zero-Energy Cold Storage",
+    "domain": "131",
+    "description": "Create a cold storage system powered by renewable thermal energy sources without external electricity demand.",
+    "keywords": ["Cold Storage", "Renewable Energy", "Thermal Systems", "Energy Efficiency"]
+},
+{
+    "id": 9216,
+    "title": "Graphene-Enhanced Thermal Pads",
+    "domain": "131",
+    "description": "Engineer flexible graphene-based thermal pads for high-performance electronics and wearables.",
+    "keywords": ["Graphene", "Thermal Pads", "Wearables", "Electronics Cooling"]
+},
+{
+    "id": 9217,
+    "title": "Thermal Energy Blockchain Marketplace",
+    "domain": "131",
+    "description": "Develop a blockchain-enabled platform for trading stored thermal energy among distributed energy users.",
+    "keywords": ["Blockchain", "Thermal Energy", "Trading Platform", "Energy Systems"]
+},
+{
+    "id": 9218,
+    "title": "Cooling System for 5G Base Stations",
+    "domain": "131",
+    "description": "Design compact and energy-efficient cooling systems tailored for 5G base stations operating in hot climates.",
+    "keywords": ["5G", "Cooling Systems", "Telecom Infrastructure", "Thermal Management"]
+},
+{
+    "id": 9219,
+    "title": "Thermal-Responsive Textiles",
+    "domain": "131",
+    "description": "Create textiles that regulate body temperature using phase change fibers for comfort and energy savings.",
+    "keywords": ["Smart Textiles", "Phase Change", "Wearables", "Body Temperature"]
+},
+{
+    "id": 9220,
+    "title": "AI-Enhanced Thermal Drone Design",
+    "domain": "131",
+    "description": "Develop thermal drones equipped with AI for wildfire monitoring, industrial inspections, and energy audits.",
+    "keywords": ["Thermal Drones", "AI", "Wildfire Monitoring", "Energy Inspection"]
+},
+{
+    "id": 9221,
+    "title": "Waste Heat Recovery in Automobiles",
+    "domain": "131",
+    "description": "Create a compact heat recovery system for automobiles that converts exhaust heat into additional power.",
+    "keywords": ["Automobiles", "Waste Heat Recovery", "Energy Conversion", "Thermal Systems"]
+},
+{
+    "id": 9222,
+    "title": "Underwater Thermal Energy Harvesting",
+    "domain": "131",
+    "description": "Design systems to harvest temperature gradients in oceans for powering underwater devices and sensors.",
+    "keywords": ["Thermal Energy", "Ocean Systems", "Energy Harvesting", "Marine Technology"]
+},
+{
+    "id": 9223,
+    "title": "Thermal Imaging for Precision Agriculture",
+    "domain": "131",
+    "description": "Use AI-enabled thermal imaging to monitor soil moisture stress and optimize irrigation in farmlands.",
+    "keywords": ["Thermal Imaging", "Agriculture", "AI", "Irrigation Management"]
+},
+{
+    "id": 9224,
+    "title": "AI-Based Fire Prediction using Thermal Data",
+    "domain": "131",
+    "description": "Develop an AI model that analyzes thermal imagery to predict and prevent forest fire outbreaks.",
+    "keywords": ["AI Prediction", "Thermal Imaging", "Wildfire Prevention", "Disaster Management"]
+},
+{
+    "id": 9225,
+    "title": "Smart Refrigeration with IoT",
+    "domain": "131",
+    "description": "Design IoT-enabled smart refrigeration units that dynamically adjust cooling based on stored contents.",
+    "keywords": ["IoT", "Smart Refrigeration", "Cooling Systems", "Energy Optimization"]
+},
+{
+    "id": 9226,
+    "title": "3D Printed Thermal Lattices",
+    "domain": "131",
+    "description": "Engineer 3D printed lattice structures optimized for efficient heat dissipation in electronic devices.",
+    "keywords": ["3D Printing", "Thermal Lattices", "Electronics Cooling", "Heat Dissipation"]
+},
+{
+    "id": 9227,
+    "title": "Thermal AI Chip Design",
+    "domain": "131",
+    "description": "Develop an AI chip architecture optimized for low thermal output without reducing computational performance.",
+    "keywords": ["AI Chips", "Low Thermal Design", "Semiconductors", "Cooling Systems"]
+},
+{
+    "id": 9228,
+    "title": "Floating Solar Thermal Plants",
+    "domain": "131",
+    "description": "Design floating solar thermal energy plants for efficient energy generation and water body management.",
+    "keywords": ["Floating Solar", "Thermal Energy", "Renewable Energy", "Water Management"]
+},
+{
+    "id": 9229,
+    "title": "AI-Powered Heat Stress Monitoring",
+    "domain": "131",
+    "description": "Develop wearable AI devices to monitor worker heat stress and prevent health risks in extreme environments.",
+    "keywords": ["Wearables", "Heat Stress", "AI", "Worker Safety"]
+},
+{
+    "id": 9230,
+    "title": "Thermal Regulation in Smart Prosthetics",
+    "domain": "131",
+    "description": "Create prosthetics with built-in thermal regulation systems to improve comfort and durability.",
+    "keywords": ["Smart Prosthetics", "Thermal Regulation", "Wearables", "Healthcare Technology"]
+},
+{
+    "id": 9231,
+    "title": "Thermal AI in Electric Aviation",
+    "domain": "131",
+    "description": "Design AI-powered cooling systems for electric aircraft to handle high energy demands and heat loads.",
+    "keywords": ["Electric Aviation", "Thermal AI", "Cooling Systems", "Aerospace"]
+},
+{
+    "id": 9232,
+    "title": "Hybrid PCM-Electric Cooling Jackets",
+    "domain": "131",
+    "description": "Develop cooling jackets using hybrid phase change and electric cooling systems for industrial workers.",
+    "keywords": ["Cooling Jackets", "Phase Change Materials", "Hybrid Cooling", "Industrial Safety"]
+},
+{
+    "id": 9233,
+    "title": "Smart Food Packaging with Thermal Indicators",
+    "domain": "131",
+    "description": "Design thermal indicator-enabled packaging that changes color when food experiences unsafe temperatures.",
+    "keywords": ["Smart Packaging", "Thermal Indicators", "Food Safety", "Sensors"]
+},
+{
+    "id": 9234,
+    "title": "AI-Powered District Heating Optimization",
+    "domain": "131",
+    "description": "Use AI to optimize energy flow in district heating networks for improved efficiency and reduced costs.",
+    "keywords": ["District Heating", "AI Optimization", "Thermal Networks", "Energy Systems"]
+},
+{
+    "id": 9235,
+    "title": "Geothermal Heat Exchange Systems",
+    "domain": "131",
+    "description": "Design compact geothermal heat exchange systems for buildings to reduce HVAC energy consumption.",
+    "keywords": ["Geothermal", "Heat Exchange", "Buildings", "HVAC"]
+},
+{
+    "id": 9236,
+    "title": "Smart Thermal Control in EV Charging Stations",
+    "domain": "131",
+    "description": "Develop intelligent cooling systems for high-power EV chargers to prevent overheating and ensure safety.",
+    "keywords": ["EV Chargers", "Thermal Management", "Smart Cooling", "Energy Systems"]
+},
+{
+    "id": 9237,
+    "title": "AI-Powered Heat Leak Detection",
+    "domain": "131",
+    "description": "Create an AI system that uses thermal imaging to detect heat leaks in industrial pipelines and equipment.",
+    "keywords": ["Heat Leak Detection", "AI", "Thermal Imaging", "Industrial Systems"]
+},
+{
+    "id": 9238,
+    "title": "Compact Cooling for Medical Implants",
+    "domain": "131",
+    "description": "Design ultra-small thermal regulation systems for active medical implants to ensure safe operation.",
+    "keywords": ["Medical Implants", "Cooling Systems", "Miniaturization", "Healthcare"]
+},
+{
+    "id": 9239,
+    "title": "AI-Driven Thermal Comfort Systems",
+    "domain": "131",
+    "description": "Develop adaptive thermal comfort systems that adjust air flow and heating in smart homes using AI.",
+    "keywords": ["AI", "Smart Homes", "Thermal Comfort", "HVAC"]
+},
+{
+    "id": 9240,
+    "title": "Thermal Supercapacitors",
+    "domain": "131",
+    "description": "Engineer hybrid thermal supercapacitors that integrate heat storage with high-power electrical storage.",
+    "keywords": ["Supercapacitors", "Thermal Energy", "Hybrid Storage", "Energy Systems"]
+},
+{
+    "id": 9241,
+    "title": "AI in Thermal Fluid Flow Optimization",
+    "domain": "131",
+    "description": "Apply AI to optimize thermal fluid flow in large-scale heating and cooling industrial processes.",
+    "keywords": ["AI Optimization", "Thermal Fluids", "Industrial Systems", "Heat Transfer"]
+},
+{
+    "id": 9242,
+    "title": "Smart Thermal Control for Space Habitats",
+    "domain": "131",
+    "description": "Develop smart thermal control systems for long-term space habitats to maintain livable conditions.",
+    "keywords": ["Space Habitats", "Thermal Control", "Smart Systems", "Space Exploration"]
+},
+{
+    "id": 9243,
+    "title": "Waste Heat Utilization in Greenhouses",
+    "domain": "131",
+    "description": "Create systems that use industrial waste heat to maintain greenhouse temperatures year-round.",
+    "keywords": ["Greenhouses", "Waste Heat", "Agriculture", "Energy Efficiency"]
+},
+{
+    "id": 9244,
+    "title": "Self-Powered Thermal Sensors",
+    "domain": "131",
+    "description": "Design self-powered thermal sensors that harvest energy from heat gradients for continuous operation.",
+    "keywords": ["Thermal Sensors", "Energy Harvesting", "Self-Powered", "IoT"]
+},
+{
+    "id": 9245,
+    "title": "Thermal Energy Desalination System",
+    "domain": "131",
+    "description": "Develop a desalination system powered by thermal energy to provide clean water in off-grid regions.",
+    "keywords": ["Desalination", "Thermal Energy", "Clean Water", "Sustainability"]
+},
+{
+    "id": 9246,
+    "title": "AI-Powered Thermal Supply Chain Monitoring",
+    "domain": "131",
+    "description": "Implement AI-enabled thermal monitoring in supply chains to ensure sensitive goods maintain safe conditions.",
+    "keywords": ["Supply Chain", "Thermal Monitoring", "AI", "Cold Storage"]
+},
+//domain 132
+{
+    "id": 9247,
+    "title": "AI-Based Hydraulic Pump Optimization",
+    "domain": "132",
+    "description": "Develop an AI system to optimize hydraulic pump performance, reducing energy consumption and improving efficiency.",
+    "keywords": ["Hydraulic Pumps", "AI Optimization", "Energy Efficiency", "Fluid Power"]
+},
+{
+    "id": 9248,
+    "title": "Smart Pneumatic Actuator Control",
+    "domain": "132",
+    "description": "Design IoT-enabled pneumatic actuators with adaptive control for industrial automation applications.",
+    "keywords": ["Pneumatic Actuators", "IoT", "Automation", "Control Systems"]
+},
+{
+    "id": 9249,
+    "title": "Self-Lubricating Hydraulic Valves",
+    "domain": "132",
+    "description": "Develop self-lubricating valves for hydraulic systems to reduce wear and maintenance requirements.",
+    "keywords": ["Hydraulic Valves", "Self-Lubricating", "Maintenance Reduction", "Fluid Mechanics"]
+},
+{
+    "id": 9250,
+    "title": "Hydraulic System Fault Detection Using AI",
+    "domain": "132",
+    "description": "Implement an AI-based diagnostic system to detect faults in hydraulic systems in real-time.",
+    "keywords": ["Hydraulic Systems", "Fault Detection", "AI", "Diagnostics"]
+},
+{
+    "id": 9251,
+    "title": "Energy Recovery in Hydraulic Presses",
+    "domain": "132",
+    "description": "Design a regenerative hydraulic system to capture and reuse energy from press operations.",
+    "keywords": ["Hydraulic Press", "Energy Recovery", "Regenerative Systems", "Efficiency"]
+},
+{
+    "id": 9252,
+    "title": "Compact Pneumatic Cooling System",
+    "domain": "132",
+    "description": "Create a compact pneumatic system for cooling electronic equipment using compressed air.",
+    "keywords": ["Pneumatics", "Cooling Systems", "Compressed Air", "Electronics"]
+},
+{
+    "id": 9253,
+    "title": "Smart Hydraulic Suspension for Vehicles",
+    "domain": "132",
+    "description": "Design an adaptive hydraulic suspension system that adjusts damping in real-time for ride comfort.",
+    "keywords": ["Hydraulic Suspension", "Adaptive Systems", "Vehicle Dynamics", "Smart Control"]
+},
+{
+    "id": 9254,
+    "title": "IoT-Enabled Hydraulic Pressure Monitoring",
+    "domain": "132",
+    "description": "Develop sensors and IoT systems to monitor hydraulic pressure and prevent system failures.",
+    "keywords": ["Hydraulic Pressure", "IoT Monitoring", "Sensors", "Safety"]
+},
+{
+    "id": 9255,
+    "title": "Pneumatic Robotic Arm for Precision Tasks",
+    "domain": "132",
+    "description": "Build a pneumatic-powered robotic arm capable of precise movement and force control for industrial use.",
+    "keywords": ["Pneumatic Robotics", "Robotic Arm", "Precision Control", "Automation"]
+},
+{
+    "id": 9256,
+    "title": "Hydraulic Fluid Leak Detection System",
+    "domain": "132",
+    "description": "Create a real-time leak detection system for hydraulic circuits to prevent accidents and fluid loss.",
+    "keywords": ["Hydraulic Leak Detection", "Safety", "Fluid Systems", "Monitoring"]
+},
+{
+    "id": 9257,
+    "title": "Eco-Friendly Hydraulic Fluids",
+    "domain": "132",
+    "description": "Develop biodegradable hydraulic fluids that maintain performance while reducing environmental impact.",
+    "keywords": ["Hydraulic Fluids", "Eco-Friendly", "Biodegradable", "Sustainability"]
+},
+{
+    "id": 9258,
+    "title": "AI-Optimized Pneumatic Conveyor Systems",
+    "domain": "132",
+    "description": "Implement AI to optimize pneumatic conveyor systems for efficiency and reduced energy consumption.",
+    "keywords": ["Pneumatic Conveyor", "AI Optimization", "Energy Efficiency", "Automation"]
+},
+{
+    "id": 9259,
+    "title": "Hydraulic Vibration Control System",
+    "domain": "132",
+    "description": "Design a hydraulic system that dampens vibrations in industrial machinery to improve stability and precision.",
+    "keywords": ["Vibration Control", "Hydraulics", "Industrial Machinery", "Damping Systems"]
+},
+{
+    "id": 9260,
+    "title": "Rapid-Response Pneumatic Valves",
+    "domain": "132",
+    "description": "Develop high-speed pneumatic valves for automated systems requiring quick actuation.",
+    "keywords": ["Pneumatic Valves", "High-Speed", "Automation", "Control Systems"]
+},
+{
+    "id": 9261,
+    "title": "Hydraulic Energy Harvesting from Brakes",
+    "domain": "132",
+    "description": "Design a system to capture energy from hydraulic brakes in vehicles and convert it to usable power.",
+    "keywords": ["Hydraulic Brakes", "Energy Harvesting", "Vehicles", "Efficiency"]
+},
+{
+    "id": 9262,
+    "title": "Adaptive Pneumatic Grippers",
+    "domain": "132",
+    "description": "Create pneumatic grippers capable of adjusting grip strength based on object type and size.",
+    "keywords": ["Pneumatic Grippers", "Adaptive Control", "Robotics", "Automation"]
+},
+{
+    "id": 9263,
+    "title": "Smart Hydraulic Lift Systems",
+    "domain": "132",
+    "description": "Develop hydraulic lift systems with IoT and AI integration for predictive maintenance and safety.",
+    "keywords": ["Hydraulic Lifts", "Smart Systems", "IoT", "Predictive Maintenance"]
+},
+{
+    "id": 9264,
+    "title": "Hydraulic Circuit Simulation Software",
+    "domain": "132",
+    "description": "Create software that simulates complex hydraulic circuits for training and design optimization.",
+    "keywords": ["Hydraulic Circuits", "Simulation Software", "Training", "Design Optimization"]
+},
+{
+    "id": 9265,
+    "title": "Pneumatic Energy Storage System",
+    "domain": "132",
+    "description": "Design a system that stores energy using compressed air for intermittent industrial processes.",
+    "keywords": ["Pneumatic Energy", "Compressed Air", "Energy Storage", "Industrial Systems"]
+},
+{
+    "id": 9266,
+    "title": "Hydraulic Actuator with Variable Stiffness",
+    "domain": "132",
+    "description": "Develop a hydraulic actuator whose stiffness can be dynamically controlled for flexible applications.",
+    "keywords": ["Hydraulic Actuator", "Variable Stiffness", "Control Systems", "Automation"]
+},
+{
+    "id": 9267,
+    "title": "AI-Powered Hydraulic System Diagnostics",
+    "domain": "132",
+    "description": "Implement AI diagnostics to detect inefficiencies, leaks, and faults in complex hydraulic networks.",
+    "keywords": ["Hydraulic Systems", "AI Diagnostics", "Fault Detection", "Efficiency"]
+},
+{
+    "id": 9268,
+    "title": "Low-Noise Pneumatic Actuators",
+    "domain": "132",
+    "description": "Design pneumatic actuators optimized to minimize operational noise in sensitive environments.",
+    "keywords": ["Pneumatic Actuators", "Low-Noise", "Industrial Applications", "Automation"]
+},
+{
+    "id": 9269,
+    "title": "Hydraulic System Thermal Management",
+    "domain": "132",
+    "description": "Develop techniques to manage heat generation in hydraulic systems to improve reliability and lifespan.",
+    "keywords": ["Hydraulic Systems", "Thermal Management", "Reliability", "Fluid Mechanics"]
+},
+{
+    "id": 9270,
+    "title": "Pneumatic Sorting System for Manufacturing",
+    "domain": "132",
+    "description": "Design an automated pneumatic sorting system for high-speed industrial manufacturing processes.",
+    "keywords": ["Pneumatic Sorting", "Automation", "Industrial Manufacturing", "Control Systems"]
+},
+{
+    "id": 9271,
+    "title": "Hydraulic Robot for Hazardous Environments",
+    "domain": "132",
+    "description": "Create a hydraulic-powered robot capable of performing tasks in high-temperature or toxic environments.",
+    "keywords": ["Hydraulic Robotics", "Hazardous Environments", "Industrial Safety", "Automation"]
+},
+{
+    "id": 9272,
+    "title": "Self-Adaptive Pneumatic Suspension",
+    "domain": "132",
+    "description": "Develop a pneumatic suspension system that adapts to road conditions in real-time for vehicles.",
+    "keywords": ["Pneumatic Suspension", "Adaptive Systems", "Vehicle Dynamics", "Control"]
+},
+{
+    "id": 9273,
+    "title": "Hydraulic System Noise Prediction",
+    "domain": "132",
+    "description": "Implement AI to predict and reduce noise generated in complex hydraulic circuits.",
+    "keywords": ["Hydraulic Noise", "AI Prediction", "Fluid Systems", "Industrial Machinery"]
+},
+{
+    "id": 9274,
+    "title": "Pneumatic Assisted Exoskeleton",
+    "domain": "132",
+    "description": "Design a pneumatic exoskeleton to assist workers in lifting heavy loads safely.",
+    "keywords": ["Pneumatic Exoskeleton", "Industrial Assistance", "Safety", "Automation"]
+},
+{
+    "id": 9275,
+    "title": "Hydraulic Pressure Surge Protection",
+    "domain": "132",
+    "description": "Develop devices to protect hydraulic systems from pressure surges and cavitation damage.",
+    "keywords": ["Hydraulic Pressure", "Surge Protection", "Cavitation", "Safety Systems"]
+},
+{
+    "id": 9276,
+    "title": "Pneumatic Micro-Manipulator",
+    "domain": "132",
+    "description": "Create a precision pneumatic micro-manipulator for medical or laboratory applications.",
+    "keywords": ["Pneumatic Manipulator", "Precision", "Medical Applications", "Micro Devices"]
+},
+{
+    "id": 9277,
+    "title": "Hydraulic Smart Valves for Energy Efficiency",
+    "domain": "132",
+    "description": "Develop hydraulic valves with smart control to minimize energy losses in industrial systems.",
+    "keywords": ["Hydraulic Valves", "Smart Control", "Energy Efficiency", "Industrial Systems"]
+},
+{
+    "id": 9278,
+    "title": "Pneumatic Haptic Feedback System",
+    "domain": "132",
+    "description": "Design a pneumatic-based haptic feedback system for virtual reality and teleoperation.",
+    "keywords": ["Pneumatics", "Haptic Feedback", "VR", "Teleoperation"]
+},
+{
+    "id": 9279,
+    "title": "Hydraulic System Digital Twin",
+    "domain": "132",
+    "description": "Create a digital twin of a hydraulic system for predictive maintenance and performance optimization.",
+    "keywords": ["Digital Twin", "Hydraulic Systems", "Predictive Maintenance", "Simulation"]
+},
+{
+    "id": 9280,
+    "title": "Pneumatic Drone Control System",
+    "domain": "132",
+    "description": "Develop drones using pneumatic actuators for lightweight, quiet, and efficient flight.",
+    "keywords": ["Pneumatic Drones", "Actuators", "Flight Control", "Efficiency"]
+},
+{
+    "id": 9281,
+    "title": "Hydraulic Hybrid Vehicle System",
+    "domain": "132",
+    "description": "Design a hybrid vehicle system using hydraulics to recover braking energy and improve efficiency.",
+    "keywords": ["Hydraulic Hybrid", "Energy Recovery", "Vehicles", "Efficiency"]
+},
+{
+    "id": 9282,
+    "title": "AI-Enhanced Pneumatic Pipeline Monitoring",
+    "domain": "132",
+    "description": "Implement AI monitoring for pneumatic pipelines to detect leaks and optimize flow.",
+    "keywords": ["Pneumatic Pipelines", "AI Monitoring", "Leak Detection", "Flow Optimization"]
+},
+{
+    "id": 9283,
+    "title": "Hydraulic Modular Robotic Arm",
+    "domain": "132",
+    "description": "Develop modular hydraulic robotic arms that can be reconfigured for different industrial tasks.",
+    "keywords": ["Hydraulic Robotics", "Modular Systems", "Industrial Automation", "Flexibility"]
+},
+{
+    "id": 9284,
+    "title": "Pneumatic Soft Gripper for Delicate Objects",
+    "domain": "132",
+    "description": "Create a soft pneumatic gripper capable of handling fragile items without causing damage.",
+    "keywords": ["Soft Robotics", "Pneumatic Grippers", "Delicate Handling", "Automation"]
+},
+{
+    "id": 9285,
+    "title": "Hydraulic System Energy Analytics",
+    "domain": "132",
+    "description": "Design an analytics platform to monitor and optimize energy usage in hydraulic systems.",
+    "keywords": ["Hydraulic Systems", "Energy Analytics", "Optimization", "Industrial Systems"]
+},
+{
+    "id": 9286,
+    "title": "Pneumatic Automation for Smart Warehouses",
+    "domain": "132",
+    "description": "Develop pneumatic automation solutions for warehouse operations to improve speed and reliability.",
+    "keywords": ["Pneumatics", "Automation", "Smart Warehouses", "Industrial Efficiency"]
+},
+{
+    "id": 9287,
+    "title": "Hydraulic Rescue Robot",
+    "domain": "132",
+    "description": "Create a hydraulic-powered rescue robot capable of operating in disaster-struck environments.",
+    "keywords": ["Hydraulic Robotics", "Rescue", "Disaster Response", "Automation"]
+},
+{
+    "id": 9288,
+    "title": "Pneumatic Temperature Controlled Actuators",
+    "domain": "132",
+    "description": "Develop pneumatic actuators with integrated temperature control for sensitive operations.",
+    "keywords": ["Pneumatic Actuators", "Temperature Control", "Precision Systems", "Automation"]
+},
+{
+    "id": 9289,
+    "title": "Hydraulic Pipeline Smart Valves",
+    "domain": "132",
+    "description": "Design smart valves to dynamically adjust flow and pressure in hydraulic pipelines.",
+    "keywords": ["Hydraulic Pipelines", "Smart Valves", "Flow Control", "Industrial Systems"]
+},
+{
+    "id": 9290,
+    "title": "Pneumatic Artificial Muscles",
+    "domain": "132",
+    "description": "Develop pneumatic artificial muscles for robotics to provide lightweight and flexible actuation.",
+    "keywords": ["Pneumatic Muscles", "Soft Robotics", "Actuators", "Robotics"]
+},
+{
+    "id": 9291,
+    "title": "Hydraulic Energy-Efficient Excavators",
+    "domain": "132",
+    "description": "Design hydraulic excavator systems that minimize energy consumption while maximizing performance.",
+    "keywords": ["Hydraulic Excavators", "Energy Efficiency", "Construction Equipment", "Hydraulics"]
+},
+{
+    "id": 9292,
+    "title": "Pneumatic Air Quality Monitoring System",
+    "domain": "132",
+    "description": "Develop a pneumatic-driven system to monitor air quality in industrial settings for safety compliance.",
+    "keywords": ["Pneumatics", "Air Quality", "Monitoring Systems", "Industrial Safety"]
+},
+{
+    "id": 9293,
+    "title": "Hydraulic Multi-Function Industrial Robot",
+    "domain": "132",
+    "description": "Create a multi-function industrial robot using hydraulics for heavy lifting, welding, and precision tasks.",
+    "keywords": ["Hydraulic Robotics", "Industrial Automation", "Multi-Function", "Heavy Lifting"]
+},
+{
+    "id": 9294,
+    "title": "Pneumatic Conveyor Speed Optimization",
+    "domain": "132",
+    "description": "Develop AI-based control to optimize speed and efficiency in pneumatic conveyor systems.",
+    "keywords": ["Pneumatic Conveyor", "Speed Optimization", "AI Control", "Automation"]
+},
+{
+    "id": 9295,
+    "title": "Hydraulic High-Pressure Filtration System",
+    "domain": "132",
+    "description": "Design a hydraulic filtration system to remove impurities from high-pressure fluids efficiently.",
+    "keywords": ["Hydraulic Filtration", "High Pressure", "Fluid Systems", "Industrial Efficiency"]
+},
+{
+    "id": 9296,
+    "title": "Pneumatic Emergency Actuation System",
+    "domain": "132",
+    "description": "Create pneumatic systems for rapid emergency actuation in critical industrial machinery.",
+    "keywords": ["Pneumatics", "Emergency Actuation", "Industrial Safety", "Control Systems"]
+},
+{
+    "id": 9297,
+    "title": "Hydraulic Smart Energy Recovery System",
+    "domain": "132",
+    "description": "Develop a hydraulic system that recovers energy from industrial machinery and stores it efficiently.",
+    "keywords": ["Hydraulic Energy Recovery", "Smart Systems", "Industrial Machinery", "Efficiency"]
+},
+{
+    "id": 9298,
+    "title": "Pneumatic Modular Robotics Kit",
+    "domain": "132",
+    "description": "Create a modular pneumatic robotics kit for educational and prototyping purposes.",
+    "keywords": ["Pneumatic Robotics", "Modular Kit", "Education", "Prototyping"]
+},
+{
+    "id": 9299,
+    "title": "Hydraulic Smart Valve Diagnostics",
+    "domain": "132",
+    "description": "Implement smart diagnostics in hydraulic valves to predict failures and reduce downtime.",
+    "keywords": ["Hydraulic Valves", "Diagnostics", "Smart Systems", "Predictive Maintenance"]
+},
+{
+    "id": 9300,
+    "title": "Pneumatic-Assisted Exosuit for Laborers",
+    "domain": "132",
+    "description": "Design a pneumatic exosuit that assists workers in heavy-lifting tasks while reducing fatigue.",
+    "keywords": ["Pneumatic Exosuit", "Labor Assistance", "Ergonomics", "Industrial Safety"]
+},
+{
+    "id": 9301,
+    "title": "Hydraulic System Digital Twin Analytics",
+    "domain": "132",
+    "description": "Develop a digital twin platform to simulate, monitor, and optimize hydraulic system operations.",
+    "keywords": ["Digital Twin", "Hydraulic Systems", "Analytics", "Simulation"]
+},
+{
+    "id": 9302,
+    "title": "Pneumatic Energy-Efficient Actuators",
+    "domain": "132",
+    "description": "Design pneumatic actuators with improved energy efficiency for continuous industrial use.",
+    "keywords": ["Pneumatic Actuators", "Energy Efficiency", "Automation", "Industrial Systems"]
+},
+{
+    "id": 9303,
+    "title": "Hydraulic Overpressure Safety System",
+    "domain": "132",
+    "description": "Develop a safety system to prevent hydraulic system overpressure and protect components.",
+    "keywords": ["Hydraulic Safety", "Overpressure Protection", "Industrial Systems", "Fluid Mechanics"]
+},
+{
+    "id": 9304,
+    "title": "Pneumatic Soft Robotics for Agriculture",
+    "domain": "132",
+    "description": "Create pneumatic-based soft robots for agricultural tasks such as harvesting delicate fruits.",
+    "keywords": ["Soft Robotics", "Pneumatics", "Agriculture Automation", "Harvesting"]
+},
+{
+    "id": 9305,
+    "title": "Hydraulic Adaptive Flow System",
+    "domain": "132",
+    "description": "Develop an adaptive hydraulic flow system that automatically adjusts flow rates based on demand.",
+    "keywords": ["Hydraulic Flow", "Adaptive Control", "Industrial Systems", "Efficiency"]
+},
+{
+    "id": 9306,
+    "title": "Pneumatic Teleoperation System",
+    "domain": "132",
+    "description": "Design a pneumatic teleoperation system for remote handling of hazardous materials.",
+    "keywords": ["Pneumatics", "Teleoperation", "Hazardous Material Handling", "Remote Control"]
+},
+{
+    "id": 9307,
+    "title": "Hydraulic Regenerative Excavator System",
+    "domain": "132",
+    "description": "Implement a regenerative hydraulic system in excavators to recover energy and improve fuel efficiency.",
+    "keywords": ["Hydraulic Excavators", "Regenerative System", "Energy Recovery", "Construction"]
+},
+
+//domain 133
+
+{
+    "id": 9308,
+    "title": "AI-Based Urban Sprawl Detection",
+    "domain": "133",
+    "description": "Develop an AI system to analyze satellite imagery and detect urban sprawl patterns for city planning.",
+    "keywords": ["GIS", "Urban Sprawl", "AI", "Satellite Imagery"]
+},
+{
+    "id": 9309,
+    "title": "Disaster Risk Mapping Using GIS",
+    "domain": "133",
+    "description": "Create a GIS platform to map disaster-prone areas and support emergency response planning.",
+    "keywords": ["GIS", "Disaster Management", "Risk Mapping", "Emergency Planning"]
+},
+{
+    "id": 9310,
+    "title": "Smart Traffic Flow Analysis",
+    "domain": "133",
+    "description": "Use GIS and real-time traffic data to optimize urban traffic flow and reduce congestion.",
+    "keywords": ["GIS", "Traffic Flow", "Urban Planning", "Real-Time Data"]
+},
+{
+    "id": 9311,
+    "title": "Precision Agriculture Mapping",
+    "domain": "133",
+    "description": "Develop GIS-based mapping for precision agriculture to optimize crop yield and resource usage.",
+    "keywords": ["GIS", "Precision Agriculture", "Crop Yield", "Resource Optimization"]
+},
+{
+    "id": 9312,
+    "title": "Wildlife Habitat Monitoring",
+    "domain": "133",
+    "description": "Use GIS to monitor and analyze wildlife habitats to support conservation efforts.",
+    "keywords": ["GIS", "Wildlife Monitoring", "Habitat Analysis", "Conservation"]
+},
+{
+    "id": 9313,
+    "title": "Flood Risk Prediction System",
+    "domain": "133",
+    "description": "Implement a GIS-based flood risk prediction system using elevation and rainfall data.",
+    "keywords": ["GIS", "Flood Risk", "Prediction", "Hydrology"]
+},
+{
+    "id": 9314,
+    "title": "Tourism Heatmap Generator",
+    "domain": "133",
+    "description": "Create GIS-generated heatmaps to visualize tourist hotspots and improve city planning.",
+    "keywords": ["GIS", "Tourism", "Heatmap", "City Planning"]
+},
+{
+    "id": 9315,
+    "title": "GIS-Based Soil Quality Analysis",
+    "domain": "133",
+    "description": "Develop GIS tools to analyze soil quality and suitability for different crops and land use.",
+    "keywords": ["GIS", "Soil Analysis", "Land Use", "Agriculture"]
+},
+{
+    "id": 9316,
+    "title": "Real-Time Urban Pollution Mapping",
+    "domain": "133",
+    "description": "Use GIS and IoT sensors to map urban air and water pollution levels in real-time.",
+    "keywords": ["GIS", "Pollution Mapping", "IoT", "Environmental Monitoring"]
+},
+{
+    "id": 9317,
+    "title": "Public Transport Route Optimization",
+    "domain": "133",
+    "description": "Develop GIS-based tools to optimize public transport routes for efficiency and coverage.",
+    "keywords": ["GIS", "Public Transport", "Route Optimization", "Urban Planning"]
+},
+{
+    "id": 9318,
+    "title": "Climate Change Impact Mapping",
+    "domain": "133",
+    "description": "Use GIS to visualize and predict climate change impacts on vulnerable regions.",
+    "keywords": ["GIS", "Climate Change", "Impact Mapping", "Environmental Planning"]
+},
+{
+    "id": 9319,
+    "title": "GIS-Based Renewable Energy Site Selection",
+    "domain": "133",
+    "description": "Develop a GIS tool to identify optimal locations for solar and wind energy installations.",
+    "keywords": ["GIS", "Renewable Energy", "Site Selection", "Sustainability"]
+},
+{
+    "id": 9320,
+    "title": "Urban Heat Island Effect Mapping",
+    "domain": "133",
+    "description": "Use GIS to identify and mitigate urban heat islands through planning and vegetation analysis.",
+    "keywords": ["GIS", "Urban Heat", "Environmental Planning", "Vegetation"]
+},
+{
+    "id": 9321,
+    "title": "Real-Time Flood Monitoring System",
+    "domain": "133",
+    "description": "Implement a GIS platform integrated with IoT sensors to monitor flood levels in real-time.",
+    "keywords": ["GIS", "Flood Monitoring", "IoT", "Real-Time Data"]
+},
+{
+    "id": 9322,
+    "title": "Wildfire Risk Assessment",
+    "domain": "133",
+    "description": "Use GIS to map wildfire-prone regions and simulate risk for early warning systems.",
+    "keywords": ["GIS", "Wildfire", "Risk Assessment", "Simulation"]
+},
+{
+    "id": 9323,
+    "title": "Smart Water Resource Management",
+    "domain": "133",
+    "description": "Develop GIS-based tools to optimize water distribution and prevent wastage in urban areas.",
+    "keywords": ["GIS", "Water Management", "Urban Planning", "Resource Optimization"]
+},
+{
+    "id": 9324,
+    "title": "GIS-Based Landslide Prediction",
+    "domain": "133",
+    "description": "Create a GIS model to predict landslide-prone areas using topography and soil data.",
+    "keywords": ["GIS", "Landslide Prediction", "Topography", "Soil Analysis"]
+},
+{
+    "id": 9325,
+    "title": "Historical Site Preservation Mapping",
+    "domain": "133",
+    "description": "Use GIS to document and preserve historical sites and monitor changes over time.",
+    "keywords": ["GIS", "Historical Sites", "Preservation", "Mapping"]
+},
+{
+    "id": 9326,
+    "title": "Real-Time Traffic Accident Mapping",
+    "domain": "133",
+    "description": "Implement GIS tools to map traffic accidents in real-time and optimize emergency response.",
+    "keywords": ["GIS", "Traffic Accidents", "Real-Time Mapping", "Emergency Response"]
+},
+{
+    "id": 9327,
+    "title": "GIS-Based Noise Pollution Mapping",
+    "domain": "133",
+    "description": "Develop a GIS platform to visualize and analyze urban noise pollution patterns.",
+    "keywords": ["GIS", "Noise Pollution", "Urban Planning", "Environmental Monitoring"]
+},
+{
+    "id": 9328,
+    "title": "Remote Sensing Integration with GIS",
+    "domain": "133",
+    "description": "Combine remote sensing data with GIS to improve environmental and urban planning analysis.",
+    "keywords": ["GIS", "Remote Sensing", "Environmental Analysis", "Urban Planning"]
+},
+{
+    "id": 9329,
+    "title": "GIS-Based Emergency Shelter Planning",
+    "domain": "133",
+    "description": "Develop GIS tools to identify optimal locations for emergency shelters during disasters.",
+    "keywords": ["GIS", "Emergency Planning", "Shelter Location", "Disaster Management"]
+},
+{
+    "id": 9330,
+    "title": "Urban Green Space Mapping",
+    "domain": "133",
+    "description": "Use GIS to map and optimize green spaces in urban areas for environmental and health benefits.",
+    "keywords": ["GIS", "Green Spaces", "Urban Planning", "Environmental Health"]
+},
+{
+    "id": 9331,
+    "title": "GIS-Based Transportation Emission Analysis",
+    "domain": "133",
+    "description": "Develop GIS tools to analyze and reduce carbon emissions from urban transportation systems.",
+    "keywords": ["GIS", "Emissions Analysis", "Transportation", "Carbon Reduction"]
+},
+{
+    "id": 9332,
+    "title": "Smart City Infrastructure Monitoring",
+    "domain": "133",
+    "description": "Implement GIS-based monitoring of smart city infrastructure to detect maintenance needs in real-time.",
+    "keywords": ["GIS", "Smart City", "Infrastructure Monitoring", "Real-Time Data"]
+},
+{
+    "id": 9333,
+    "title": "Floodplain Management and Mapping",
+    "domain": "133",
+    "description": "Use GIS to analyze floodplains and optimize land use to reduce flood risks.",
+    "keywords": ["GIS", "Floodplain", "Land Use", "Risk Management"]
+},
+{
+    "id": 9334,
+    "title": "GIS-Based Coastal Erosion Monitoring",
+    "domain": "133",
+    "description": "Monitor and map coastal erosion over time using GIS for environmental protection.",
+    "keywords": ["GIS", "Coastal Erosion", "Environmental Monitoring", "Mapping"]
+},
+{
+    "id": 9335,
+    "title": "Real-Time GIS-Based Public Safety Alerts",
+    "domain": "133",
+    "description": "Develop a system using GIS to send real-time public safety alerts during emergencies.",
+    "keywords": ["GIS", "Public Safety", "Real-Time Alerts", "Emergency Response"]
+},
+{
+    "id": 9336,
+    "title": "GIS-Based Flood Damage Assessment",
+    "domain": "133",
+    "description": "Use GIS to assess flood damage to infrastructure and prioritize relief efforts.",
+    "keywords": ["GIS", "Flood Damage", "Assessment", "Disaster Management"]
+},
+{
+    "id": 9337,
+    "title": "GIS-Based Deforestation Analysis",
+    "domain": "133",
+    "description": "Analyze deforestation trends and patterns using GIS and satellite imagery.",
+    "keywords": ["GIS", "Deforestation", "Environmental Monitoring", "Remote Sensing"]
+},
+{
+    "id": 9338,
+    "title": "Geospatial Crime Pattern Analysis",
+    "domain": "133",
+    "description": "Use GIS to map and analyze crime hotspots for law enforcement resource optimization.",
+    "keywords": ["GIS", "Crime Mapping", "Geospatial Analysis", "Law Enforcement"]
+},
+{
+    "id": 9339,
+    "title": "GIS-Based Renewable Water Source Mapping",
+    "domain": "133",
+    "description": "Identify and map potential renewable water sources using GIS and hydrological data.",
+    "keywords": ["GIS", "Water Resources", "Mapping", "Sustainability"]
+},
+{
+    "id": 9340,
+    "title": "GIS-Enabled Land Use Change Detection",
+    "domain": "133",
+    "description": "Develop a GIS system to detect and monitor land use changes over time for urban planning.",
+    "keywords": ["GIS", "Land Use", "Change Detection", "Urban Planning"]
+},
+{
+    "id": 9341,
+    "title": "GIS-Based Renewable Energy Potential Mapping",
+    "domain": "133",
+    "description": "Analyze and map regions suitable for renewable energy installations using GIS.",
+    "keywords": ["GIS", "Renewable Energy", "Mapping", "Sustainability"]
+},
+{
+    "id": 9342,
+    "title": "GIS-Based Transportation Accident Risk Prediction",
+    "domain": "133",
+    "description": "Use GIS and historical accident data to predict high-risk areas for transportation safety improvements.",
+    "keywords": ["GIS", "Accident Prediction", "Transportation Safety", "Urban Planning"]
+},
+{
+    "id": 9343,
+    "title": "GIS-Based Soil Erosion Risk Mapping",
+    "domain": "133",
+    "description": "Develop GIS tools to map soil erosion risk for agriculture and land management planning.",
+    "keywords": ["GIS", "Soil Erosion", "Risk Mapping", "Land Management"]
+},
+{
+    "id": 9344,
+    "title": "GIS-Based Urban Flood Modeling",
+    "domain": "133",
+    "description": "Simulate urban flooding scenarios using GIS to improve drainage planning.",
+    "keywords": ["GIS", "Urban Flood", "Modeling", "Drainage Planning"]
+},
+{
+    "id": 9345,
+    "title": "GIS-Based Wildlife Corridor Mapping",
+    "domain": "133",
+    "description": "Identify and map wildlife corridors to support biodiversity conservation using GIS.",
+    "keywords": ["GIS", "Wildlife Corridors", "Biodiversity", "Conservation"]
+},
+{
+    "id": 9346,
+    "title": "GIS-Based Industrial Pollution Mapping",
+    "domain": "133",
+    "description": "Map industrial pollution sources and their impact on surrounding areas using GIS.",
+    "keywords": ["GIS", "Industrial Pollution", "Environmental Monitoring", "Mapping"]
+},
+{
+    "id": 9347,
+    "title": "GIS-Based Renewable Energy Grid Planning",
+    "domain": "133",
+    "description": "Use GIS to plan efficient and sustainable renewable energy grid distribution.",
+    "keywords": ["GIS", "Energy Grid", "Renewable Energy", "Planning"]
+},
+{
+    "id": 9348,
+    "title": "GIS-Based River Basin Management",
+    "domain": "133",
+    "description": "Develop GIS tools for comprehensive river basin management including flood prevention and water allocation.",
+    "keywords": ["GIS", "River Basin", "Water Management", "Flood Prevention"]
+},
+{
+    "id": 9349,
+    "title": "GIS-Based Public Health Risk Mapping",
+    "domain": "133",
+    "description": "Map and analyze public health risks like disease outbreaks using GIS and demographic data.",
+    "keywords": ["GIS", "Public Health", "Risk Mapping", "Disease Outbreaks"]
+},
+{
+    "id": 9350,
+    "title": "GIS-Based Smart Irrigation Planning",
+    "domain": "133",
+    "description": "Optimize irrigation planning for agriculture using GIS and soil moisture data.",
+    "keywords": ["GIS", "Irrigation Planning", "Agriculture", "Soil Moisture"]
+},
+{
+    "id": 9351,
+    "title": "GIS-Based Urban Accessibility Mapping",
+    "domain": "133",
+    "description": "Map urban areas for accessibility to services like hospitals, schools, and transportation using GIS.",
+    "keywords": ["GIS", "Urban Accessibility", "Mapping", "Public Services"]
+},
+{
+    "id": 9352,
+    "title": "GIS-Based Coastal Flood Risk Mapping",
+    "domain": "133",
+    "description": "Use GIS to map coastal flood risks due to sea-level rise and storm surges.",
+    "keywords": ["GIS", "Coastal Flood", "Risk Mapping", "Climate Change"]
+},
+{
+    "id": 9353,
+    "title": "GIS-Based Urban Greenhouse Gas Monitoring",
+    "domain": "133",
+    "description": "Develop GIS tools to monitor urban greenhouse gas emissions for climate action planning.",
+    "keywords": ["GIS", "GHG Monitoring", "Urban Planning", "Climate Action"]
+},
+{
+    "id": 9354,
+    "title": "GIS-Based Transportation Accessibility Analysis",
+    "domain": "133",
+    "description": "Analyze accessibility to transportation networks using GIS to support urban planning.",
+    "keywords": ["GIS", "Transportation", "Accessibility", "Urban Planning"]
+},
+{
+    "id": 9355,
+    "title": "GIS-Based Environmental Impact Assessment",
+    "domain": "133",
+    "description": "Use GIS to conduct environmental impact assessments for urban development projects.",
+    "keywords": ["GIS", "Environmental Impact", "Urban Development", "Assessment"]
+},
+{
+    "id": 9356,
+    "title": "GIS-Based Urban Heat Vulnerability Mapping",
+    "domain": "133",
+    "description": "Map urban areas most vulnerable to heatwaves using GIS for targeted interventions.",
+    "keywords": ["GIS", "Urban Heat", "Vulnerability Mapping", "Climate Adaptation"]
+},
+{
+    "id": 9357,
+    "title": "GIS-Based Land Degradation Mapping",
+    "domain": "133",
+    "description": "Identify and monitor land degradation patterns using GIS and satellite imagery.",
+    "keywords": ["GIS", "Land Degradation", "Monitoring", "Remote Sensing"]
+},
+{
+    "id": 9358,
+    "title": "GIS-Based Habitat Connectivity Analysis",
+    "domain": "133",
+    "description": "Analyze connectivity between habitats using GIS to support ecological planning.",
+    "keywords": ["GIS", "Habitat Connectivity", "Ecology", "Conservation"]
+},
+{
+    "id": 9359,
+    "title": "GIS-Based Renewable Resource Mapping",
+    "domain": "133",
+    "description": "Map potential renewable resources like wind, solar, and biomass using GIS tools.",
+    "keywords": ["GIS", "Renewable Resources", "Mapping", "Sustainability"]
+},
+{
+    "id": 9360,
+    "title": "GIS-Based Urban Energy Demand Analysis",
+    "domain": "133",
+    "description": "Analyze energy demand patterns in urban areas using GIS for efficient planning.",
+    "keywords": ["GIS", "Energy Demand", "Urban Planning", "Sustainability"]
+},
+{
+    "id": 9361,
+    "title": "GIS-Based Flood Emergency Response Planning",
+    "domain": "133",
+    "description": "Use GIS to plan and optimize flood emergency response and evacuation routes.",
+    "keywords": ["GIS", "Flood Response", "Emergency Planning", "Evacuation"]
+},
+{
+    "id": 9362,
+    "title": "GIS-Based Agricultural Pest Mapping",
+    "domain": "133",
+    "description": "Map and predict pest outbreaks in agricultural fields using GIS and remote sensing data.",
+    "keywords": ["GIS", "Agriculture", "Pest Mapping", "Remote Sensing"]
+},
+{
+    "id": 9363,
+    "title": "GIS-Based Urban Infrastructure Vulnerability Mapping",
+    "domain": "133",
+    "description": "Map vulnerable urban infrastructure for disaster preparedness using GIS.",
+    "keywords": ["GIS", "Urban Infrastructure", "Vulnerability Mapping", "Disaster Preparedness"]
+},
+{
+    "id": 9364,
+    "title": "GIS-Based Soil Salinity Monitoring",
+    "domain": "133",
+    "description": "Use GIS to monitor and map soil salinity levels for sustainable agriculture.",
+    "keywords": ["GIS", "Soil Salinity", "Monitoring", "Agriculture"]
+},
+{
+    "id": 9365,
+    "title": "GIS-Based Coastal Wetlands Protection",
+    "domain": "133",
+    "description": "Map and analyze coastal wetlands using GIS to support conservation and protection efforts.",
+    "keywords": ["GIS", "Coastal Wetlands", "Conservation", "Environmental Protection"]
+},
+{
+    "id": 9366,
+    "title": "GIS-Based Emergency Vehicle Routing",
+    "domain": "133",
+    "description": "Develop GIS tools to optimize emergency vehicle routing during urban disasters.",
+    "keywords": ["GIS", "Emergency Routing", "Urban Planning", "Disaster Management"]
+},
+{
+    "id": 9367,
+    "title": "GIS-Based Renewable Energy Impact Analysis",
+    "domain": "133",
+    "description": "Analyze the environmental impact of renewable energy projects using GIS.",
+    "keywords": ["GIS", "Renewable Energy", "Impact Analysis", "Sustainability"]
+},
+{
+    "id": 9368,
+    "title": "GIS-Based Urban Vulnerability Assessment",
+    "domain": "133",
+    "description": "Assess urban vulnerabilities to natural and man-made hazards using GIS for planning and mitigation.",
+    "keywords": ["GIS", "Urban Vulnerability", "Hazard Assessment", "Mitigation"]
+},
+{
+    "id": 9369,
+    "title": "GIS-Based Urban Land Value Estimation",
+    "domain": "133",
+    "description": "Estimate urban land values using GIS-based spatial analysis for real estate and planning.",
+    "keywords": ["GIS", "Urban Planning", "Land Value", "Spatial Analysis"]
+},
+{
+    "id": 9370,
+    "title": "GIS-Based Urban Ecosystem Service Mapping",
+    "domain": "133",
+    "description": "Map and evaluate urban ecosystem services using GIS to support sustainable planning.",
+    "keywords": ["GIS", "Urban Ecosystem", "Sustainability", "Mapping"]
+},
+
+//domain 134
+
+{
+    "id": 9371,
+    "title": "Satellite-Based Deforestation Monitoring",
+    "domain": "134",
+    "description": "Develop a remote sensing system to monitor deforestation and land cover changes using satellite imagery.",
+    "keywords": ["Remote Sensing", "Deforestation", "Satellite Imagery", "Environmental Monitoring"]
+},
+{
+    "id": 9372,
+    "title": "Crop Health Analysis Using Hyperspectral Imaging",
+    "domain": "134",
+    "description": "Use hyperspectral satellite data to detect crop stress and predict yield variations.",
+    "keywords": ["Remote Sensing", "Hyperspectral Imaging", "Agriculture", "Crop Monitoring"]
+},
+{
+    "id": 9373,
+    "title": "Urban Expansion Detection via Satellite Imagery",
+    "domain": "134",
+    "description": "Analyze urban growth patterns and land use changes using multi-temporal satellite images.",
+    "keywords": ["Remote Sensing", "Urban Expansion", "Satellite Imagery", "Land Use"]
+},
+{
+    "id": 9374,
+    "title": "Coastal Erosion Monitoring with Lidar",
+    "domain": "134",
+    "description": "Develop a satellite-based Lidar system to monitor and map coastal erosion over time.",
+    "keywords": ["Remote Sensing", "Coastal Erosion", "Lidar", "Environmental Monitoring"]
+},
+{
+    "id": 9375,
+    "title": "Wildfire Detection Using Satellite Thermal Imaging",
+    "domain": "134",
+    "description": "Implement satellite-based thermal imaging for early detection of wildfires in forested regions.",
+    "keywords": ["Remote Sensing", "Wildfire Detection", "Thermal Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9376,
+    "title": "Glacial Retreat Analysis Using Satellite Data",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor glacial melting and retreat patterns over time.",
+    "keywords": ["Remote Sensing", "Glacial Retreat", "Satellite Imagery", "Climate Change"]
+},
+{
+    "id": 9377,
+    "title": "Soil Moisture Mapping from Remote Sensing",
+    "domain": "134",
+    "description": "Develop methods to map soil moisture levels using satellite-derived data for agricultural planning.",
+    "keywords": ["Remote Sensing", "Soil Moisture", "Satellite Imaging", "Agriculture"]
+},
+{
+    "id": 9378,
+    "title": "Monitoring Urban Heat Islands via Satellite",
+    "domain": "134",
+    "description": "Use satellite thermal imaging to detect and analyze urban heat islands for city planning.",
+    "keywords": ["Remote Sensing", "Urban Heat Island", "Thermal Imaging", "Urban Planning"]
+},
+{
+    "id": 9379,
+    "title": "Flood Extent Mapping Using Satellite Radar",
+    "domain": "134",
+    "description": "Implement radar-based remote sensing to detect and map flood-affected areas in real time.",
+    "keywords": ["Remote Sensing", "Flood Mapping", "Radar", "Disaster Management"]
+},
+{
+    "id": 9380,
+    "title": "Monitoring Vegetation Health with NDVI",
+    "domain": "134",
+    "description": "Use satellite-derived NDVI indices to assess vegetation health and detect stress conditions.",
+    "keywords": ["Remote Sensing", "NDVI", "Vegetation Health", "Satellite Imaging"]
+},
+{
+    "id": 9381,
+    "title": "Air Pollution Detection Using Satellite Sensors",
+    "domain": "134",
+    "description": "Develop satellite-based sensing to monitor air pollutant concentrations over urban areas.",
+    "keywords": ["Remote Sensing", "Air Pollution", "Satellite Sensors", "Environmental Monitoring"]
+},
+{
+    "id": 9382,
+    "title": "Mapping Coastal Mangroves Using Satellite Imagery",
+    "domain": "134",
+    "description": "Detect and monitor coastal mangrove ecosystems through multi-spectral satellite data.",
+    "keywords": ["Remote Sensing", "Mangroves", "Satellite Imagery", "Environmental Conservation"]
+},
+{
+    "id": 9383,
+    "title": "Landslide Risk Prediction via Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery and terrain analysis to predict landslide-prone areas.",
+    "keywords": ["Remote Sensing", "Landslide", "Terrain Analysis", "Risk Prediction"]
+},
+{
+    "id": 9384,
+    "title": "Snow Cover Monitoring Using Satellite Imagery",
+    "domain": "134",
+    "description": "Track seasonal snow cover and changes over time using remote sensing data.",
+    "keywords": ["Remote Sensing", "Snow Cover", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9385,
+    "title": "Detection of Illegal Mining Activities via Satellite",
+    "domain": "134",
+    "description": "Use satellite imagery to identify and monitor illegal mining operations.",
+    "keywords": ["Remote Sensing", "Illegal Mining", "Satellite Imaging", "Environmental Protection"]
+},
+{
+    "id": 9386,
+    "title": "Monitoring Wetland Degradation via Satellite",
+    "domain": "134",
+    "description": "Detect changes in wetland ecosystems over time using multi-temporal satellite images.",
+    "keywords": ["Remote Sensing", "Wetlands", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9387,
+    "title": "Urban Infrastructure Damage Assessment Using Remote Sensing",
+    "domain": "134",
+    "description": "Develop satellite-based tools to assess urban infrastructure damage after disasters.",
+    "keywords": ["Remote Sensing", "Urban Damage", "Satellite Imaging", "Disaster Response"]
+},
+{
+    "id": 9388,
+    "title": "Mapping Desertification Using Satellite Data",
+    "domain": "134",
+    "description": "Use remote sensing to track desertification and land degradation trends.",
+    "keywords": ["Remote Sensing", "Desertification", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9389,
+    "title": "Monitoring Coral Reef Health via Satellite Imaging",
+    "domain": "134",
+    "description": "Use multi-spectral satellite imagery to detect coral bleaching and reef degradation.",
+    "keywords": ["Remote Sensing", "Coral Reefs", "Satellite Imaging", "Environmental Conservation"]
+},
+{
+    "id": 9390,
+    "title": "Real-Time Iceberg Tracking Using Satellite Data",
+    "domain": "134",
+    "description": "Implement a satellite-based system to track iceberg movement and prevent maritime hazards.",
+    "keywords": ["Remote Sensing", "Iceberg Tracking", "Satellite Imaging", "Maritime Safety"]
+},
+{
+    "id": 9391,
+    "title": "Monitoring River Sedimentation via Remote Sensing",
+    "domain": "134",
+    "description": "Track sedimentation patterns in rivers using satellite imagery for water resource management.",
+    "keywords": ["Remote Sensing", "Sedimentation", "Satellite Imaging", "Water Management"]
+},
+{
+    "id": 9392,
+    "title": "Detection of Algal Blooms in Water Bodies Using Satellite",
+    "domain": "134",
+    "description": "Use satellite remote sensing to detect and monitor harmful algal blooms in lakes and rivers.",
+    "keywords": ["Remote Sensing", "Algal Bloom", "Satellite Imaging", "Water Quality"]
+},
+{
+    "id": 9393,
+    "title": "Mapping Glacier Thickness Using Remote Sensing",
+    "domain": "134",
+    "description": "Estimate glacier thickness changes over time using satellite and remote sensing data.",
+    "keywords": ["Remote Sensing", "Glaciers", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9394,
+    "title": "Monitoring Urban Vegetation Canopy Using Satellite Data",
+    "domain": "134",
+    "description": "Analyze urban tree canopy coverage and green spaces using remote sensing technology.",
+    "keywords": ["Remote Sensing", "Urban Vegetation", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9395,
+    "title": "Oil Spill Detection via Satellite Imaging",
+    "domain": "134",
+    "description": "Develop a remote sensing solution to detect and monitor marine oil spills using satellite data.",
+    "keywords": ["Remote Sensing", "Oil Spill", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9396,
+    "title": "Monitoring Agricultural Irrigation Efficiency Using Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery to assess irrigation efficiency and water usage in agricultural fields.",
+    "keywords": ["Remote Sensing", "Irrigation", "Satellite Imaging", "Agriculture"]
+},
+{
+    "id": 9397,
+    "title": "Detection of Urban Roof Solar Potential via Satellite",
+    "domain": "134",
+    "description": "Identify suitable urban rooftops for solar energy installation using satellite imagery.",
+    "keywords": ["Remote Sensing", "Solar Energy", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9398,
+    "title": "Mapping Fire-Prone Areas Using Satellite Thermal Data",
+    "domain": "134",
+    "description": "Analyze thermal satellite data to identify and monitor fire-prone regions.",
+    "keywords": ["Remote Sensing", "Fire Risk", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9399,
+    "title": "Monitoring Glacier Surface Velocity Using Satellite Data",
+    "domain": "134",
+    "description": "Use satellite remote sensing to measure glacier surface movement and dynamics.",
+    "keywords": ["Remote Sensing", "Glacier Velocity", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9400,
+    "title": "Monitoring Coastal Pollution Using Satellite Sensors",
+    "domain": "134",
+    "description": "Detect and map coastal water pollution using satellite-based remote sensing.",
+    "keywords": ["Remote Sensing", "Coastal Pollution", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9401,
+    "title": "Monitoring Forest Fragmentation Using Satellite Data",
+    "domain": "134",
+    "description": "Use remote sensing to detect forest fragmentation and habitat loss over time.",
+    "keywords": ["Remote Sensing", "Forest Fragmentation", "Satellite Imaging", "Conservation"]
+},
+{
+    "id": 9402,
+    "title": "Monitoring Urban Sprawl and Green Cover Reduction via Satellite",
+    "domain": "134",
+    "description": "Analyze urban expansion and loss of green cover using multi-temporal satellite imagery.",
+    "keywords": ["Remote Sensing", "Urban Sprawl", "Green Cover", "Satellite Imaging"]
+},
+{
+    "id": 9403,
+    "title": "Mapping Mountain Glacier Retreat Using Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery to track retreat and thinning of mountain glaciers over time.",
+    "keywords": ["Remote Sensing", "Glacier Retreat", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9404,
+    "title": "Detection of Illegal Logging via Satellite Imaging",
+    "domain": "134",
+    "description": "Implement a remote sensing solution to identify illegal logging activities in forested regions.",
+    "keywords": ["Remote Sensing", "Illegal Logging", "Satellite Imaging", "Forest Monitoring"]
+},
+{
+    "id": 9405,
+    "title": "Monitoring River Meandering Using Satellite Data",
+    "domain": "134",
+    "description": "Track changes in river courses and meanders over time using satellite imagery.",
+    "keywords": ["Remote Sensing", "Rivers", "Satellite Imaging", "Hydrology"]
+},
+{
+    "id": 9406,
+    "title": "Urban Flood Hazard Mapping Using Satellite Radar",
+    "domain": "134",
+    "description": "Use radar remote sensing to map urban areas prone to flooding for disaster preparedness.",
+    "keywords": ["Remote Sensing", "Urban Flood", "Radar", "Disaster Management"]
+},
+{
+    "id": 9407,
+    "title": "Monitoring Vegetation Phenology Using Satellite Imagery",
+    "domain": "134",
+    "description": "Use multi-temporal satellite data to study seasonal vegetation changes and phenology.",
+    "keywords": ["Remote Sensing", "Vegetation Phenology", "Satellite Imaging", "Ecology"]
+},
+{
+    "id": 9408,
+    "title": "Monitoring Water Body Dynamics Using Satellite Data",
+    "domain": "134",
+    "description": "Track seasonal changes and water levels in lakes and rivers using remote sensing imagery.",
+    "keywords": ["Remote Sensing", "Water Bodies", "Satellite Imaging", "Hydrology"]
+},
+{
+    "id": 9409,
+    "title": "Detecting Illegal Urban Encroachment via Satellite",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor and identify illegal construction and encroachments in urban areas.",
+    "keywords": ["Remote Sensing", "Urban Encroachment", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9410,
+    "title": "Monitoring Desert Vegetation Health Using Satellite Imagery",
+    "domain": "134",
+    "description": "Analyze desert vegetation health and growth patterns using remote sensing data.",
+    "keywords": ["Remote Sensing", "Desert Vegetation", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9411,
+    "title": "Mapping Snow-Covered Mountains Using Satellite Sensors",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor snow coverage and seasonal variations in mountainous regions.",
+    "keywords": ["Remote Sensing", "Snow Cover", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9412,
+    "title": "Monitoring Urban Air Quality via Satellite Spectral Data",
+    "domain": "134",
+    "description": "Use satellite spectral imagery to detect pollutants and monitor urban air quality over time.",
+    "keywords": ["Remote Sensing", "Air Quality", "Satellite Spectral Data", "Environmental Monitoring"]
+},
+//domain 135
 
 
 
