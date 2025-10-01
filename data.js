@@ -61195,6 +61195,364 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 119
+    {
+        "id": 8356,
+        "title": "Advanced Cryocooler System for Quantum Devices",
+        "domain": "119",
+        "description": "Develop a next-generation cryocooler capable of maintaining stable ultra-low temperatures required for quantum computers, minimizing vibrations and energy consumption.",
+        "keywords": ["Cryocoolers", "Quantum Cooling", "Low-Temperature Physics", "Superconductivity"]
+    },
+    {
+        "id": 8357,
+        "title": "Superconducting Magnetic Energy Storage System",
+        "domain": "119",
+        "description": "Design a superconducting energy storage solution operating at cryogenic temperatures for efficient power grids with minimal losses.",
+        "keywords": ["Superconductivity", "Cryocoolers", "Low-Temperature Physics", "Liquefied Gas Storage"]
+    },
+    {
+        "id": 8358,
+        "title": "Space-Based Cryogenic Fuel Depot",
+        "domain": "119",
+        "description": "Build a cryogenic fuel storage and transfer station in orbit to support deep space missions using liquid hydrogen and oxygen.",
+        "keywords": ["Space Cryogenics", "Liquefied Gas Storage", "Cryocoolers", "Rocketry"]
+    },
+    {
+        "id": 8359,
+        "title": "Cryopreservation Biobank Platform",
+        "domain": "119",
+        "description": "Develop a scalable cryopreservation infrastructure for long-term storage of biological samples, tissues, and genetic materials.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Low-Temperature Physics", "Liquefied Gas Storage"]
+    },
+    {
+        "id": 8360,
+        "title": "Cryogenic Machining System for Superalloys",
+        "domain": "119",
+        "description": "Create a machining system using cryogenic cooling for efficient cutting of superalloys used in aerospace and defense industries.",
+        "keywords": ["Cryogenic Machining", "Low-Temperature Physics", "Cryocoolers", "Superconductivity"]
+    },
+    {
+        "id": 8361,
+        "title": "Quantum Cryogenic Sensor Array",
+        "domain": "119",
+        "description": "Engineer a cryogenically cooled sensor array for quantum experiments, capable of detecting minute magnetic and thermal fluctuations.",
+        "keywords": ["Quantum Cooling", "Cryocoolers", "Low-Temperature Physics", "Superconductivity"]
+    },
+    {
+        "id": 8362,
+        "title": "Hybrid Cryogenic-Laser Cooling System",
+        "domain": "119",
+        "description": "Design a hybrid cooling platform that combines laser and cryogenic cooling methods for advanced atomic physics experiments.",
+        "keywords": ["Low-Temperature Physics", "Quantum Cooling", "Cryocoolers", "Superconductivity"]
+    },
+    {
+        "id": 8363,
+        "title": "Cryogenic Hydrogen Storage Tank for Aviation",
+        "domain": "119",
+        "description": "Develop a lightweight cryogenic hydrogen storage solution for zero-emission aircraft propulsion systems.",
+        "keywords": ["Liquefied Gas Storage", "Space Cryogenics", "Cryocoolers", "Cryogenic Machining"]
+    },
+    {
+        "id": 8364,
+        "title": "Superfluid Helium Quantum Transport System",
+        "domain": "119",
+        "description": "Build a system that utilizes superfluid helium at cryogenic temperatures for ultra-low-resistance quantum transport.",
+        "keywords": ["Low-Temperature Physics", "Quantum Cooling", "Superconductivity", "Cryocoolers"]
+    },
+    {
+        "id": 8365,
+        "title": "Deep Space Cryogenic Propellant Management",
+        "domain": "119",
+        "description": "Create a cryogenic propellant handling system optimized for long-duration space missions, preventing boil-off and losses.",
+        "keywords": ["Space Cryogenics", "Liquefied Gas Storage", "Cryocoolers", "Rocketry"]
+    },
+    {
+        "id": 8366,
+        "title": "Cryogenic Additive Manufacturing",
+        "domain": "119",
+        "description": "Research and implement cryogenically-assisted 3D printing methods for high-strength aerospace materials.",
+        "keywords": ["Cryogenic Machining", "Low-Temperature Physics", "Cryocoolers", "Superconductivity"]
+    },
+    {
+        "id": 8367,
+        "title": "Biological Cryostability Analyzer",
+        "domain": "119",
+        "description": "Develop a cryogenic system to analyze cell and tissue stability during long-term cryopreservation.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Low-Temperature Physics", "Quantum Cooling"]
+    },
+    {
+        "id": 8368,
+        "title": "Cryogenic Power Electronics for Spacecraft",
+        "domain": "119",
+        "description": "Design superconducting cryogenic power electronics for spacecraft to improve efficiency and reduce thermal loads.",
+        "keywords": ["Superconductivity", "Space Cryogenics", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8369,
+        "title": "Cryogenic Quantum Communication Node",
+        "domain": "119",
+        "description": "Develop a quantum communication infrastructure based on cryogenic photon detectors and superconducting circuits.",
+        "keywords": ["Quantum Cooling", "Superconductivity", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8370,
+        "title": "Portable Cryogenic Vaccine Storage System",
+        "domain": "119",
+        "description": "Build a compact, portable cryogenic storage device for global vaccine distribution in remote regions.",
+        "keywords": ["Cryopreservation", "Liquefied Gas Storage", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8371,
+        "title": "Cryogenic Turbomachinery for Rocket Engines",
+        "domain": "119",
+        "description": "Engineer a high-performance turbopump system capable of handling cryogenic propellants for reusable rockets.",
+        "keywords": ["Space Cryogenics", "Rocketry", "Liquefied Gas Storage", "Cryogenic Machining"]
+    },
+    {
+        "id": 8372,
+        "title": "Cryogenic Quantum Annealing Processor",
+        "domain": "119",
+        "description": "Design a specialized quantum annealing system that uses cryogenic cooling for solving complex optimization problems.",
+        "keywords": ["Quantum Cooling", "Superconductivity", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8373,
+        "title": "Industrial Cryogenic Heat Exchanger",
+        "domain": "119",
+        "description": "Develop an efficient cryogenic heat exchanger for large-scale liquefied gas production and storage facilities.",
+        "keywords": ["Liquefied Gas Storage", "Cryocoolers", "Cryogenic Machining", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8374,
+        "title": "Cryogenic Ion Trap Quantum Simulator",
+        "domain": "119",
+        "description": "Create a quantum simulator based on ion traps operating at cryogenic temperatures to minimize decoherence.",
+        "keywords": ["Quantum Cooling", "Cryocoolers", "Superconductivity", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8375,
+        "title": "High-Resolution Cryogenic Electron Microscope",
+        "domain": "119",
+        "description": "Build a cryo-electron microscopy system that leverages cryogenic cooling for biomolecular imaging.",
+        "keywords": ["Cryopreservation", "Quantum Cooling", "Low-Temperature Physics", "Cryocoolers"]
+    },
+    {
+        "id": 8376,
+        "title": "Cryogenic Fluid Dynamics Simulator",
+        "domain": "119",
+        "description": "Develop a simulation platform to model fluid dynamics of cryogenic liquids in aerospace and industrial systems.",
+        "keywords": ["Low-Temperature Physics", "Liquefied Gas Storage", "Cryocoolers", "Space Cryogenics"]
+    },
+    {
+        "id": 8377,
+        "title": "Cryogenic Magnetic Levitation Transport",
+        "domain": "119",
+        "description": "Design a superconducting maglev transport system powered by cryogenic technology for ultra-fast transit.",
+        "keywords": ["Superconductivity", "Cryocoolers", "Low-Temperature Physics", "Cryogenic Machining"]
+    },
+    {
+        "id": 8378,
+        "title": "Long-Duration Cryogenic Life Support",
+        "domain": "119",
+        "description": "Create a cryogenic system for extending human life support in deep space habitats by preserving oxygen and water.",
+        "keywords": ["Space Cryogenics", "Liquefied Gas Storage", "Cryocoolers", "Cryopreservation"]
+    },
+    {
+        "id": 8379,
+        "title": "Cryogenic Neural Preservation Framework",
+        "domain": "119",
+        "description": "Develop a neural preservation technique using cryogenics for advanced brain preservation and revival research.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Low-Temperature Physics", "Superconductivity"]
+    },
+    {
+        "id": 8380,
+        "title": "Cryogenic High-Energy Particle Detector",
+        "domain": "119",
+        "description": "Design a high-energy physics detector that relies on cryogenic cooling to improve sensitivity and precision.",
+        "keywords": ["Low-Temperature Physics", "Quantum Cooling", "Cryocoolers", "Superconductivity"]
+    },
+    {
+        "id": 8381,
+        "title": "Cryogenic Plasma Propulsion Engine",
+        "domain": "119",
+        "description": "Develop a propulsion engine using cryogenic propellants and plasma acceleration for next-gen spacecraft.",
+        "keywords": ["Space Cryogenics", "Rocketry", "Liquefied Gas Storage", "Cryocoolers"]
+    },
+    {
+        "id": 8382,
+        "title": "Cryogenic Data Center Cooling System",
+        "domain": "119",
+        "description": "Implement a cryogenic-based cooling solution for data centers to drastically reduce power consumption.",
+        "keywords": ["Cryocoolers", "Low-Temperature Physics", "Quantum Cooling", "Superconductivity"]
+    },
+    {
+        "id": 8383,
+        "title": "Cryogenic Nanofabrication Lab-on-Chip",
+        "domain": "119",
+        "description": "Develop a miniaturized cryogenic system for nanoscale material synthesis and quantum device prototyping.",
+        "keywords": ["Cryogenic Machining", "Quantum Cooling", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8384,
+        "title": "Cryogenic Waste Management for Space",
+        "domain": "119",
+        "description": "Engineer a cryogenic system for waste processing and recycling in long-term space missions.",
+        "keywords": ["Space Cryogenics", "Cryocoolers", "Liquefied Gas Storage", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8385,
+        "title": "Cryogenic Semiconductor Fabrication",
+        "domain": "119",
+        "description": "Research semiconductor manufacturing under cryogenic conditions to enhance electron mobility and device performance.",
+        "keywords": ["Superconductivity", "Cryogenic Machining", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8386,
+        "title": "Cryogenic Dark Matter Detector",
+        "domain": "119",
+        "description": "Develop a cryogenic detection system capable of capturing weak dark matter interactions at ultra-low temperatures.",
+        "keywords": ["Quantum Cooling", "Low-Temperature Physics", "Cryocoolers", "Superconductivity"]
+    },
+    {
+        "id": 8387,
+        "title": "Cryogenic Turbine Energy Recovery System",
+        "domain": "119",
+        "description": "Design a turbine system that recovers energy from cryogenic liquid vaporization for industrial efficiency.",
+        "keywords": ["Liquefied Gas Storage", "Cryocoolers", "Cryogenic Machining", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8388,
+        "title": "Cryogenic Medical Imaging Enhancer",
+        "domain": "119",
+        "description": "Build a cryogenically cooled MRI and PET scanning enhancement system for improved resolution and sensitivity.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Quantum Cooling", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8389,
+        "title": "Cryogenic Artificial Organ Bank",
+        "domain": "119",
+        "description": "Develop an artificial organ cryogenic storage system for transplantation medicine.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Low-Temperature Physics", "Liquefied Gas Storage"]
+    },
+    {
+        "id": 8390,
+        "title": "Cryogenic Microgravity Experiment Module",
+        "domain": "119",
+        "description": "Design a microgravity research platform with cryogenic cooling for biological and physical experiments in orbit.",
+        "keywords": ["Space Cryogenics", "Cryopreservation", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8391,
+        "title": "Cryogenic High-Speed Rail Lubrication",
+        "domain": "119",
+        "description": "Develop cryogenically cooled lubrication methods for minimizing friction in high-speed rail systems.",
+        "keywords": ["Cryogenic Machining", "Cryocoolers", "Low-Temperature Physics", "Superconductivity"]
+    },
+    {
+        "id": 8392,
+        "title": "Cryogenic Quantum Battery",
+        "domain": "119",
+        "description": "Create a cryogenically stabilized quantum battery system for rapid charging and long-term energy retention.",
+        "keywords": ["Quantum Cooling", "Superconductivity", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8393,
+        "title": "Cryogenic Atmospheric Sampling Drone",
+        "domain": "119",
+        "description": "Build an autonomous drone that uses cryogenic methods to capture and preserve atmospheric samples for analysis.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Space Cryogenics", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8394,
+        "title": "Cryogenic Propellantless Thruster",
+        "domain": "119",
+        "description": "Research a propellantless thruster concept based on superconducting and cryogenic plasma interactions.",
+        "keywords": ["Space Cryogenics", "Quantum Cooling", "Superconductivity", "Cryocoolers"]
+    },
+    {
+        "id": 8395,
+        "title": "Cryogenic Data Storage Medium",
+        "domain": "119",
+        "description": "Develop a data storage technology that leverages cryogenic environments for ultra-stable long-term archival storage.",
+        "keywords": ["Cryopreservation", "Quantum Cooling", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8396,
+        "title": "Cryogenic Nuclear Fusion Test Bed",
+        "domain": "119",
+        "description": "Design a cryogenic test facility for stabilizing superconducting magnets used in nuclear fusion reactors.",
+        "keywords": ["Superconductivity", "Cryocoolers", "Quantum Cooling", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8397,
+        "title": "Cryogenic Flexible Electronics",
+        "domain": "119",
+        "description": "Develop flexible, cryogenically stable electronic materials for wearable quantum and space technologies.",
+        "keywords": ["Cryogenic Machining", "Superconductivity", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8398,
+        "title": "Cryogenic Satellite Thermal Control",
+        "domain": "119",
+        "description": "Engineer a cryogenic thermal management system for satellites operating in deep space.",
+        "keywords": ["Space Cryogenics", "Cryocoolers", "Liquefied Gas Storage", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8399,
+        "title": "Cryogenic Biological Time Capsule",
+        "domain": "119",
+        "description": "Build a cryogenic biological time capsule for preserving biodiversity and genetic information for centuries.",
+        "keywords": ["Cryopreservation", "Cryocoolers", "Low-Temperature Physics", "Liquefied Gas Storage"]
+    },
+    {
+        "id": 8400,
+        "title": "Cryogenic Earthquake Monitoring Sensors",
+        "domain": "119",
+        "description": "Develop cryogenically cooled seismic sensors for ultra-sensitive earthquake monitoring and geophysical studies.",
+        "keywords": ["Low-Temperature Physics", "Cryocoolers", "Superconductivity", "Quantum Cooling"]
+    },
+    {
+        "id": 8401,
+        "title": "Cryogenic Virtual Reality Engine",
+        "domain": "119",
+        "description": "Create a VR rendering engine powered by cryogenic computing cores for real-time high-fidelity experiences.",
+        "keywords": ["Quantum Cooling", "Superconductivity", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8402,
+        "title": "Cryogenic Deep-Sea Exploration Vessel",
+        "domain": "119",
+        "description": "Build a submersible vessel using cryogenic storage and power systems for long-term deep-sea research.",
+        "keywords": ["Liquefied Gas Storage", "Cryocoolers", "Cryogenic Machining", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8403,
+        "title": "Cryogenic Mars Habitat Systems",
+        "domain": "119",
+        "description": "Engineer cryogenic life-support and resource storage systems for sustained human presence on Mars.",
+        "keywords": ["Space Cryogenics", "Cryopreservation", "Cryocoolers", "Liquefied Gas Storage"]
+    },
+    {
+        "id": 8404,
+        "title": "Cryogenic Particle Accelerator Cooling",
+        "domain": "119",
+        "description": "Design cryogenic cooling systems for superconducting magnets in large-scale particle accelerators.",
+        "keywords": ["Superconductivity", "Cryocoolers", "Low-Temperature Physics", "Quantum Cooling"]
+    },
+    {
+        "id": 8405,
+        "title": "Cryogenic Sustainable Food Storage",
+        "domain": "119",
+        "description": "Develop eco-friendly cryogenic food preservation techniques for long-term storage without additives.",
+        "keywords": ["Cryopreservation", "Liquefied Gas Storage", "Cryocoolers", "Low-Temperature Physics"]
+    },
+    {
+        "id": 8406,
+        "title": "Cryogenic Smart Prosthetics",
+        "domain": "119",
+        "description": "Design cryogenically enhanced prosthetics that integrate superconducting materials for improved signal.",
+        "keywords": ["Superconductivity", "Cryocoolers", "Low-Temperature Physics", "Cryogenic Machining"]
+    },
+    //domain-120
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
