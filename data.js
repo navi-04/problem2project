@@ -62830,7 +62830,456 @@ const PROBLEMS_DATA = {
         "keywords": ["Reverse Osmosis", "Water Purification", "Membrane Separation"]
     },
     //domain-123
-    
+  {
+    "id": 8589,
+    "title": "High-Throughput Carbon Fiber Layup Optimizer",
+    "domain": "123",
+    "description": "A tool that analyzes load cases and automatically generates optimized carbon fiber reinforced polymer (CFRP) layup sequences to minimize weight while meeting strength targets.",
+    "keywords": ["Carbon Fiber Reinforced Polymer", "Composite Manufacturing", "Lightweight Structures"]
+  },
+  {
+    "id": 8590,
+    "title": "Rapid Fiberglass Mold Fabrication System",
+    "domain": "123",
+    "description": "Design and prototype a fast, repeatable process for producing high-precision fiberglass molds using low-cost tooling and vacuum infusion.",
+    "keywords": ["Fiberglass", "Composite Manufacturing", "Lightweight Structures"]
+  },
+  {
+    "id": 8591,
+    "title": "Laminate Theory Visualizer and Checker",
+    "domain": "123",
+    "description": "An interactive educational app that visualizes laminate stacking sequences, computes stiffness matrices, and predicts failure using classical laminate theory.",
+    "keywords": ["Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8592,
+    "title": "Nano-Filler Dispersion Monitor for Nanocomposites",
+    "domain": "123",
+    "description": "Develop a sensor and analysis suite to quantify nanoparticle dispersion quality in polymer matrices to improve mechanical and thermal performance.",
+    "keywords": ["Nanocomposites", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8593,
+    "title": "Hybrid Material Sandwich Panel for Drone Frames",
+    "domain": "123",
+    "description": "Design and test a lightweight sandwich panel combining carbon fiber skins and foam core with hybrid materials to maximize stiffness-to-weight for UAV frames.",
+    "keywords": ["Hybrid Materials", "Lightweight Structures", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8594,
+    "title": "Predictive Composite Repair Planner",
+    "domain": "123",
+    "description": "A decision-support system that recommends repair techniques and patch geometries for damaged composite parts based on NDT inputs.",
+    "keywords": ["Composite Repair", "Fiberglass", "Composite Manufacturing"]
+  },
+  {
+    "id": 8595,
+    "title": "Automated Vacuum Infusion Controller",
+    "domain": "123",
+    "description": "Build an automated controller that manages vacuum infusion parameters (pressure, resin flow) to reduce voids and improve laminate quality.",
+    "keywords": ["Composite Manufacturing", "Fiberglass", "Laminate Theory"]
+  },
+  {
+    "id": 8596,
+    "title": "Recyclable Carbon Fiber Composite Concept",
+    "domain": "123",
+    "description": "Develop and characterize a recyclable CFRP system using reversible thermoplastic matrices and process routes for circular manufacturing.",
+    "keywords": ["Carbon Fiber Reinforced Polymer", "Composite Manufacturing", "Nanocomposites"]
+  },
+  {
+    "id": 8597,
+    "title": "Hybrid Fiber Architecture for Impact Resistance",
+    "domain": "123",
+    "description": "Investigate combinations of carbon fiber and fiberglass in hybrid laminates to improve impact tolerance without large weight penalties.",
+    "keywords": ["Hybrid Materials", "Carbon Fiber Reinforced Polymer", "Fiberglass"]
+  },
+  {
+    "id": 8598,
+    "title": "In-situ Cure Monitoring with Nanocomposite Sensors",
+    "domain": "123",
+    "description": "Embed conductive nanofillers in resin to create in-situ sensors that monitor cure progress and degree of conversion during composite manufacturing.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing"]
+  },
+  {
+    "id": 8599,
+    "title": "Topology-Aware Composite Layup Generator",
+    "domain": "123",
+    "description": "A CAD-integrated plugin that translates topology optimization results into manufacturable laminate stacking sequences for CFRP parts.",
+    "keywords": ["Carbon Fiber Reinforced Polymer", "Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8600,
+    "title": "Field Kit for Fiberglass Patch Repair",
+    "domain": "123",
+    "description": "Design a portable, user-friendly kit and procedure for rapid fiberglass repairs on marine and structural applications.",
+    "keywords": ["Fiberglass", "Composite Repair", "Lightweight Structures"]
+  },
+  {
+    "id": 8601,
+    "title": "Electromagnetic Shielding with Nanocomposite Coatings",
+    "domain": "123",
+    "description": "Formulate and evaluate nanocomposite coatings applied to composite substrates to provide EMI shielding without compromising weight.",
+    "keywords": ["Nanocomposites", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8602,
+    "title": "Hybrid Composite Joint Design for Load Transfer",
+    "domain": "123",
+    "description": "Develop bolted and bonded joint designs that combine hybrid material layers to improve fatigue life and distribute stress effectively.",
+    "keywords": ["Hybrid Materials", "Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8603,
+    "title": "Lightweight Structural Health Monitoring Patch",
+    "domain": "123",
+    "description": "Create a thin, low-mass sensor patch using nanocomposite sensing layers to detect delamination and strain in composite panels.",
+    "keywords": ["Nanocomposites", "Composite Repair", "Lightweight Structures"]
+  },
+  {
+    "id": 8604,
+    "title": "Additive Manufacturing of Hybrid Composite Preforms",
+    "domain": "123",
+    "description": "Combine 3D printing and fiber placement to create complex preforms with integrated hybrid materials for advanced composite parts.",
+    "keywords": ["Hybrid Materials", "Composite Manufacturing", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8605,
+    "title": "Micromechanics-Based Nanocomposite Strength Predictor",
+    "domain": "123",
+    "description": "Develop predictive models that link nanoparticle-matrix interactions to macroscale stiffness and strength in nanocomposites.",
+    "keywords": ["Nanocomposites", "Laminate Theory"]
+  },
+  {
+    "id": 8606,
+    "title": "Thermal Management in CFRP with Embedded Nanofillers",
+    "domain": "123",
+    "description": "Investigate how thermally conductive nanofillers in polymer matrices can improve heat dissipation in carbon fiber structures.",
+    "keywords": ["Carbon Fiber Reinforced Polymer", "Nanocomposites"]
+  },
+  {
+    "id": 8607,
+    "title": "Fiber Orientation Optimization for Crashworthy Structures",
+    "domain": "123",
+    "description": "Optimize fiber orientation and stacking sequences for energy absorption in lightweight composite crash structures.",
+    "keywords": ["Laminate Theory", "Lightweight Structures", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8608,
+    "title": "Portable NDT Scanner for Composite Repair Assessment",
+    "domain": "123",
+    "description": "Design a handheld non-destructive testing scanner tailored for composite materials to locate delaminations and voids before repair.",
+    "keywords": ["Composite Repair", "Fiberglass", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8609,
+    "title": "Bio-Inspired Hybrid Composite for Flexibility and Strength",
+    "domain": "123",
+    "description": "Create a hybrid composite inspired by natural fiber arrangements to balance flexibility and tensile strength for wearable structures.",
+    "keywords": ["Hybrid Materials", "Carbon Fiber Reinforced Polymer", "Lightweight Structures"]
+  },
+  {
+    "id": 8610,
+    "title": "Resin Infusion Path Planner Using Laminate Principles",
+    "domain": "123",
+    "description": "A simulator that uses laminate theory to plan resin flow channels and venting positions for defect-free infusion.",
+    "keywords": ["Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8611,
+    "title": "Self-Healing Nanocomposite Matrix for Micro-Crack Repair",
+    "domain": "123",
+    "description": "Formulate a polymer matrix with microencapsulated healing agents and nanofillers to enable autonomous micro-crack repair in composites.",
+    "keywords": ["Nanocomposites", "Composite Repair"]
+  },
+  {
+    "id": 8612,
+    "title": "Lightweight Composite Pedal for Performance Bicycles",
+    "domain": "123",
+    "description": "Design and test a bicycle pedal using hybrid materials to reduce mass while maintaining fatigue resistance and safety.",
+    "keywords": ["Lightweight Structures", "Hybrid Materials", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8613,
+    "title": "Fiber-Matrix Interface Strengthening with Nanofillers",
+    "domain": "123",
+    "description": "Experimentally assess how specific nanofillers improve fiber-matrix bonding and overall composite toughness.",
+    "keywords": ["Nanocomposites", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8614,
+    "title": "Repair Workflow Automation for Composite Panels",
+    "domain": "123",
+    "description": "Software to generate repair step-by-step procedures (cut, patch, cure) based on damaged composite geometry and material stackup.",
+    "keywords": ["Composite Repair", "Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8615,
+    "title": "Hybrid Composite Propeller Blade Study",
+    "domain": "123",
+    "description": "Design, fabricate, and test a small-scale propeller blade using hybrid composites for improved fatigue and reduced noise.",
+    "keywords": ["Hybrid Materials", "Fiberglass", "Lightweight Structures"]
+  },
+  {
+    "id": 8616,
+    "title": "Vacuum-Assisted Nanocomposite Infusion Process",
+    "domain": "123",
+    "description": "Adapt vacuum infusion to handle nanoparticle-loaded resins while ensuring even dispersion and minimal agglomeration.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing"]
+  },
+  {
+    "id": 8617,
+    "title": "CFRP Heat-Resistant Coating Development",
+    "domain": "123",
+    "description": "Develop coatings or matrix modifications to increase the high-temperature capability of carbon fiber reinforced composites.",
+    "keywords": ["Carbon Fiber Reinforced Polymer", "Nanocomposites"]
+  },
+  {
+    "id": 8618,
+    "title": "Lightweight Composite Footbridge Concept",
+    "domain": "123",
+    "description": "Conceptual design and load testing of a pedestrian bridge built from hybrid composite panels optimized for transportability and durability.",
+    "keywords": ["Lightweight Structures", "Composite Manufacturing", "Hybrid Materials"]
+  },
+  {
+    "id": 8619,
+    "title": "Smart Patch for Structural Composite Repairs",
+    "domain": "123",
+    "description": "Design a repair patch with embedded sensing nanocomposite layers to monitor repair integrity and load after installation.",
+    "keywords": ["Composite Repair", "Nanocomposites", "Lightweight Structures"]
+  },
+  {
+    "id": 8620,
+    "title": "Automated Fiber Placement Head for Hybrid Preforms",
+    "domain": "123",
+    "description": "Prototype a low-cost automated fiber placement head capable of laying mixed fiber types to produce hybrid preforms with complex geometries.",
+    "keywords": ["Composite Manufacturing", "Hybrid Materials", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8621,
+    "title": "Delamination-Resistant Laminate Design",
+    "domain": "123",
+    "description": "Use laminate sequencing and interleaf nanocomposite films to design laminates with improved resistance to delamination.",
+    "keywords": ["Laminate Theory", "Nanocomposites", "Composite Repair"]
+  },
+  {
+    "id": 8622,
+    "title": "Acoustic Dampening Composite with Nanofillers",
+    "domain": "123",
+    "description": "Engineer a composite panel with nanocomposite layers that reduce transmitted noise for automotive or aerospace interiors.",
+    "keywords": ["Nanocomposites", "Lightweight Structures"]
+  },
+  {
+    "id": 8623,
+    "title": "Rapid Prototyping Method for Fiberglass Components",
+    "domain": "123",
+    "description": "Develop a fast prototyping workflow that uses cost-effective fiberglass layups and rapid tooling for early-stage product validation.",
+    "keywords": ["Fiberglass", "Composite Manufacturing"]
+  },
+  {
+    "id": 8624,
+    "title": "Hybrid Biofiber-Carbon Composite for Sustainability",
+    "domain": "123",
+    "description": "Investigate hybrid laminates combining natural fibers and carbon fiber to reduce environmental footprint while retaining performance.",
+    "keywords": ["Hybrid Materials", "Carbon Fiber Reinforced Polymer", "Lightweight Structures"]
+  },
+  {
+    "id": 8625,
+    "title": "Resinless Composite Repair Technique Exploration",
+    "domain": "123",
+    "description": "Explore mechanical fastening and thermoplastic welding strategies as alternatives to traditional resin-based composite repairs.",
+    "keywords": ["Composite Repair", "Composite Manufacturing"]
+  },
+  {
+    "id": 8626,
+    "title": "Thermal Expansion-Controlled Laminate for Precision Parts",
+    "domain": "123",
+    "description": "Design laminates with tailored coefficients of thermal expansion using hybrid materials for precision structural applications.",
+    "keywords": ["Laminate Theory", "Hybrid Materials", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8627,
+    "title": "Nanocomposite-Based Corrosion Barrier for Fiberglass",
+    "domain": "123",
+    "description": "Formulate protective nanocomposite barriers applied to fiberglass substrates to improve chemical and environmental resistance.",
+    "keywords": ["Nanocomposites", "Fiberglass"]
+  },
+  {
+    "id": 8628,
+    "title": "Lightweight Composite Drone Airframe Optimization",
+    "domain": "123",
+    "description": "End-to-end design and testing of an optimized CFRP/hybrid airframe focusing on minimum mass for a given payload and flight envelope.",
+    "keywords": ["Lightweight Structures", "Carbon Fiber Reinforced Polymer", "Hybrid Materials"]
+  },
+  {
+    "id": 8629,
+    "title": "Fracture Toughness Enhancement via Nanofiller Bridging",
+    "domain": "123",
+    "description": "Test how different nanofillers contribute to crack bridging and improved fracture toughness in composite matrices.",
+    "keywords": ["Nanocomposites", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8630,
+    "title": "Composite Wind Turbine Blade Root Repair Strategy",
+    "domain": "123",
+    "description": "Develop procedures and repair patches specifically for root-section damage in composite wind turbine blades to restore structural capacity.",
+    "keywords": ["Composite Repair", "Fiberglass", "Composite Manufacturing"]
+  },
+  {
+    "id": 8631,
+    "title": "Sensor-Integrated Laminate for Real-Time Strain Mapping",
+    "domain": "123",
+    "description": "Embed a grid of nanocomposite strain sensors into laminate stacks to produce real-time strain distribution maps under load.",
+    "keywords": ["Nanocomposites", "Laminate Theory", "Lightweight Structures"]
+  },
+  {
+    "id": 8632,
+    "title": "Automated Quality Inspector for Composite Surfaces",
+    "domain": "123",
+    "description": "Use computer vision and process data to detect surface defects, resin-rich/lean areas, and fiber misalignment in manufactured composites.",
+    "keywords": ["Composite Manufacturing", "Fiberglass"]
+  },
+  {
+    "id": 8633,
+    "title": "Hybrid Composite Bicycle Frame for Vibration Damping",
+    "domain": "123",
+    "description": "Design a frame combining carbon fiber and fiberglass layers to tune stiffness and damping for rider comfort and performance.",
+    "keywords": ["Hybrid Materials", "Carbon Fiber Reinforced Polymer", "Fiberglass"]
+  },
+  {
+    "id": 8634,
+    "title": "Laminate Fatigue Life Estimator",
+    "domain": "123",
+    "description": "Create a computational tool that predicts fatigue life of laminated composites using material S-N data and stacking sequence inputs.",
+    "keywords": ["Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8635,
+    "title": "Nanocomposite Anti-Microbial Surface for Marine Composites",
+    "domain": "123",
+    "description": "Develop nanocomposite coatings that add anti-microbial properties to marine composite structures to reduce biofouling.",
+    "keywords": ["Nanocomposites", "Fiberglass"]
+  },
+  {
+    "id": 8636,
+    "title": "Lightweight Crash Absorber Using Hybrid Layers",
+    "domain": "123",
+    "description": "Design a compact energy-absorbing structure made from alternating hybrid material layers optimized for controlled crushing.",
+    "keywords": ["Lightweight Structures", "Hybrid Materials", "Laminate Theory"]
+  },
+  {
+    "id": 8637,
+    "title": "Carbon Fiber Repair Toolkit with Curable Patch Media",
+    "domain": "123",
+    "description": "Develop a specialized kit and standardized patch media for in-field CFRP repairs that cure rapidly and restore load paths.",
+    "keywords": ["Composite Repair", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8638,
+    "title": "Bio-Inspired Laminate Stacking for Bend-Twist Coupling",
+    "domain": "123",
+    "description": "Engineer laminates that exploit anisotropy to produce controlled bend-twist coupling for adaptive aerodynamic surfaces.",
+    "keywords": ["Laminate Theory", "Carbon Fiber Reinforced Polymer", "Hybrid Materials"]
+  },
+  {
+    "id": 8639,
+    "title": "Electrically Conductive Nanocomposite Track Layers",
+    "domain": "123",
+    "description": "Integrate conductive nanocomposite layers into composites for lightning protection and health monitoring capabilities.",
+    "keywords": ["Nanocomposites", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8640,
+    "title": "Modular Lightweight Composite Shelter Panels",
+    "domain": "123",
+    "description": "Design stackable, hybrid-composite panels for rapid-deploy shelters emphasizing low weight, insulation, and repairability.",
+    "keywords": ["Lightweight Structures", "Hybrid Materials", "Composite Manufacturing"]
+  },
+  {
+    "id": 8641,
+    "title": "Fiber Misalignment Detection Using Ultrasonic Nanocomposite Sensors",
+    "domain": "123",
+    "description": "Develop an ultrasonic inspection method enhanced by surface-applied nanocomposite sensor films to detect fiber misalignment.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing"]
+  },
+  {
+    "id": 8642,
+    "title": "Hybrid Composite Automotive Crash Beam",
+    "domain": "123",
+    "description": "Design and test a crash beam made from hybrid composite laminates to meet automotive energy absorption targets while reducing mass.",
+    "keywords": ["Hybrid Materials", "Lightweight Structures", "Laminate Theory"]
+  },
+  {
+    "id": 8643,
+    "title": "Fiberglass to Carbon Transition Joint for Mixed-Structure Assemblies",
+    "domain": "123",
+    "description": "Create joint solutions and graded transitions for assemblies combining fiberglass and carbon fiber components to minimize stress concentrations.",
+    "keywords": ["Fiberglass", "Carbon Fiber Reinforced Polymer", "Composite Manufacturing"]
+  },
+  {
+    "id": 8644,
+    "title": "Nanocomposite-Enhanced Adhesives for Composite Bonding",
+    "domain": "123",
+    "description": "Formulate and validate adhesives with nanofillers to increase bond strength and environmental durability in composite assemblies.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing", "Composite Repair"]
+  },
+  {
+    "id": 8645,
+    "title": "Lightweight Composite Tooling Concepts",
+    "domain": "123",
+    "description": "Design reusable lightweight tooling made from hybrid composite structures to reduce cure energy and tooling cost for small-batch manufacturing.",
+    "keywords": ["Lightweight Structures", "Hybrid Materials", "Composite Manufacturing"]
+  },
+  {
+    "id": 8646,
+    "title": "Damage Tolerant Laminate for Repeated Impact",
+    "domain": "123",
+    "description": "Develop laminate stacks and interleaf strategies that retain strength after repeated low-energy impacts.",
+    "keywords": ["Laminate Theory", "Composite Repair", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8647,
+    "title": "Smart Curing Oven for Nanocomposite Resins",
+    "domain": "123",
+    "description": "Build an oven with precise thermal profiles and monitoring optimized for curing nanofiller-containing resins without agglomeration.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing"]
+  },
+  {
+    "id": 8648,
+    "title": "Hybrid Composite Rail for Lightweight Transport",
+    "domain": "123",
+    "description": "Design a lightweight rail member using hybrid composite laminates to achieve high stiffness and low mass for transit applications.",
+    "keywords": ["Hybrid Materials", "Lightweight Structures", "Laminate Theory"]
+  },
+  {
+    "id": 8649,
+    "title": "Rapid Cure Patch System for Emergency Composite Repairs",
+    "domain": "123",
+    "description": "Create a rapid-curing patch material and deployment method for emergency repairs on fiberglass and CFRP structures.",
+    "keywords": ["Composite Repair", "Fiberglass", "Carbon Fiber Reinforced Polymer"]
+  },
+  {
+    "id": 8650,
+    "title": "Automated Layup Defect Prediction Using Laminate Data",
+    "domain": "123",
+    "description": "Use machine learning on process and layup data to predict likely defect locations and recommend corrective layup actions.",
+    "keywords": ["Laminate Theory", "Composite Manufacturing"]
+  },
+  {
+    "id": 8651,
+    "title": "Nanocomposite Wear-Resistant Coatings for Moving Composite Parts",
+    "domain": "123",
+    "description": "Develop thin nanocomposite coatings to extend the wear life of rubbing composite interfaces and bearings.",
+    "keywords": ["Nanocomposites", "Composite Manufacturing"]
+  },
+  {
+    "id": 8652,
+    "title": "Lightweight Energy-Absorbing Helmet Shell with Hybrid Layers",
+    "domain": "123",
+    "description": "Design a helmet shell that uses hybrid composite laminates and tailored layups to maximize impact energy absorption at minimal weight.",
+    "keywords": ["Lightweight Structures", "Hybrid Materials", "Laminate Theory"]
+  },
+  //domain-124
+
 
 
 
