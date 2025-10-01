@@ -69032,6 +69032,427 @@ const PROBLEMS_DATA = {
 },
 //domain 136
 
+{
+    "id": 9472,
+    "title": "Portable Microfluidic Device for Rapid Blood Typing",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip system for rapid, point-of-care blood typing using microchannel devices.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Lab-on-a-Chip", "Blood Typing"]
+},
+{
+    "id": 9473,
+    "title": "Droplet Microfluidics for Single-Cell Analysis",
+    "domain": "136",
+    "description": "Design a droplet-based microfluidic device for high-throughput single-cell analysis and isolation.",
+    "keywords": ["Droplet Microfluidics", "Single-Cell Analysis", "Miniaturized Assays", "Lab-on-a-Chip"]
+},
+{
+    "id": 9474,
+    "title": "Capillary Electrophoresis on a Chip for DNA Separation",
+    "domain": "136",
+    "description": "Develop a microfluidic lab-on-a-chip device for rapid DNA separation using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Microchannel Devices", "DNA Separation", "Lab-on-a-Chip"]
+},
+{
+    "id": 9475,
+    "title": "BioMEMS-Based Glucose Monitoring Chip",
+    "domain": "136",
+    "description": "Create a BioMEMS lab-on-a-chip device for real-time glucose monitoring in diabetic patients.",
+    "keywords": ["BioMEMS", "Point-of-Care Diagnostics", "Glucose Monitoring", "Lab-on-a-Chip"]
+},
+{
+    "id": 9476,
+    "title": "Microfluidic Assay for Rapid Viral Detection",
+    "domain": "136",
+    "description": "Design a microfluidic device for fast detection of viral pathogens in biological samples.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "Viral Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9477,
+    "title": "Integrated Sample Preparation and Analysis Chip",
+    "domain": "136",
+    "description": "Develop a microfluidic lab-on-a-chip integrating sample preparation and analysis for medical diagnostics.",
+    "keywords": ["Sample Preparation", "Microchannel Devices", "Point-of-Care Diagnostics", "Lab-on-a-Chip"]
+},
+{
+    "id": 9478,
+    "title": "Automated Droplet Microfluidics for Drug Screening",
+    "domain": "136",
+    "description": "Create an automated droplet microfluidic system for high-throughput drug screening assays.",
+    "keywords": ["Droplet Microfluidics", "Drug Screening", "Miniaturized Assays", "Lab-on-a-Chip"]
+},
+{
+    "id": 9479,
+    "title": "Portable Lab-on-a-Chip for Waterborne Pathogen Detection",
+    "domain": "136",
+    "description": "Develop a microfluidic device to detect waterborne pathogens quickly at remote locations.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Pathogen Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9480,
+    "title": "Microfluidic Platform for Protein Crystallization",
+    "domain": "136",
+    "description": "Design a lab-on-a-chip platform for rapid and controlled protein crystallization experiments.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "Protein Crystallization", "Lab-on-a-Chip"]
+},
+{
+    "id": 9481,
+    "title": "On-Chip Immunoassay for Rapid Antibody Detection",
+    "domain": "136",
+    "description": "Develop a microfluidic immunoassay chip for rapid detection of specific antibodies in blood samples.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Immunoassay", "Lab-on-a-Chip"]
+},
+{
+    "id": 9482,
+    "title": "Droplet-Based Enzyme Kinetics on a Chip",
+    "domain": "136",
+    "description": "Create a droplet microfluidics platform to study enzyme kinetics at high throughput.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Enzyme Kinetics", "Lab-on-a-Chip"]
+},
+{
+    "id": 9483,
+    "title": "Portable Microfluidic Device for Hormone Monitoring",
+    "domain": "136",
+    "description": "Design a point-of-care lab-on-a-chip for real-time hormone detection in bodily fluids.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Hormone Monitoring", "Lab-on-a-Chip"]
+},
+{
+    "id": 9484,
+    "title": "Integration of Microfluidics with Optical Detection",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device integrating microfluidic channels with optical detection systems for enhanced analysis.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "Optical Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9485,
+    "title": "Microfluidic Device for Cell Sorting and Counting",
+    "domain": "136",
+    "description": "Design a microfluidics chip capable of sorting and counting cells in biological samples efficiently.",
+    "keywords": ["Microchannel Devices", "BioMEMS", "Cell Sorting", "Lab-on-a-Chip"]
+},
+{
+    "id": 9486,
+    "title": "Lab-on-a-Chip for Antibiotic Susceptibility Testing",
+    "domain": "136",
+    "description": "Create a microfluidic device for rapid antibiotic susceptibility testing of bacterial strains.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Antibiotic Testing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9487,
+    "title": "Capillary Electrophoresis Chip for Metabolite Profiling",
+    "domain": "136",
+    "description": "Develop a microfluidic device for fast metabolite profiling using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Metabolite Profiling", "Lab-on-a-Chip"]
+},
+{
+    "id": 9488,
+    "title": "Microfluidic Biosensor for Cancer Biomarkers",
+    "domain": "136",
+    "description": "Design a lab-on-a-chip biosensor for detecting cancer biomarkers in blood samples.",
+    "keywords": ["BioMEMS", "Point-of-Care Diagnostics", "Cancer Biomarkers", "Lab-on-a-Chip"]
+},
+{
+    "id": 9489,
+    "title": "Droplet Microfluidics for Enzyme Inhibitor Screening",
+    "domain": "136",
+    "description": "Develop a droplet-based microfluidic platform for high-throughput enzyme inhibitor screening.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Enzyme Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9490,
+    "title": "On-Chip Microfluidic Platform for RNA Detection",
+    "domain": "136",
+    "description": "Create a lab-on-a-chip device capable of rapid RNA detection for pathogen identification.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "RNA Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9491,
+    "title": "Microfluidic Device for Enzyme-Linked Immunosorbent Assays",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip system to perform ELISA tests faster and with lower sample volumes.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "ELISA", "Lab-on-a-Chip"]
+},
+{
+    "id": 9492,
+    "title": "High-Throughput Screening Chip for Drug Metabolites",
+    "domain": "136",
+    "description": "Design a microfluidic droplet platform to study drug metabolites at high throughput.",
+    "keywords": ["Droplet Microfluidics", "Drug Screening", "Miniaturized Assays", "Lab-on-a-Chip"]
+},
+{
+    "id": 9493,
+    "title": "Integrated Microfluidic Device for Blood Cell Counting",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device capable of rapid, automated blood cell counting.",
+    "keywords": ["Microchannel Devices", "BioMEMS", "Cell Counting", "Lab-on-a-Chip"]
+},
+{
+    "id": 9494,
+    "title": "Microfluidic Chip for Monitoring Viral Load in Patients",
+    "domain": "136",
+    "description": "Design a point-of-care microfluidic chip to quantify viral load in patient samples quickly.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Viral Load", "Lab-on-a-Chip"]
+},
+{
+    "id": 9495,
+    "title": "Droplet Microfluidic Platform for Antibody Screening",
+    "domain": "136",
+    "description": "Create a droplet microfluidics device for high-throughput antibody screening in research labs.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Antibody Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9496,
+    "title": "Capillary Electrophoresis Lab-on-a-Chip for Metabolomics",
+    "domain": "136",
+    "description": "Develop a microfluidic device to perform rapid metabolomics analysis using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Metabolomics", "Lab-on-a-Chip"]
+},
+{
+    "id": 9497,
+    "title": "Portable Lab-on-a-Chip for Environmental Pathogen Detection",
+    "domain": "136",
+    "description": "Design a microfluidic device to detect pathogens in environmental samples in the field.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Environmental Pathogens", "Lab-on-a-Chip"]
+},
+{
+    "id": 9498,
+    "title": "Microfluidic Chip for Rapid Antigen Testing",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device for fast antigen testing with minimal sample volume.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Antigen Testing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9499,
+    "title": "Droplet Microfluidics for High-Throughput PCR",
+    "domain": "136",
+    "description": "Design a droplet-based microfluidic system for performing high-throughput polymerase chain reactions.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "PCR", "Lab-on-a-Chip"]
+},
+{
+    "id": 9500,
+    "title": "Integrated Microfluidic Device for Pathogen Sequencing",
+    "domain": "136",
+    "description": "Create a lab-on-a-chip that integrates sample prep and sequencing for rapid pathogen identification.",
+    "keywords": ["Microchannel Devices", "Sample Preparation", "Pathogen Sequencing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9501,
+    "title": "BioMEMS Chip for Continuous Glucose Monitoring",
+    "domain": "136",
+    "description": "Develop a wearable lab-on-a-chip device using BioMEMS for real-time glucose monitoring.",
+    "keywords": ["BioMEMS", "Point-of-Care Diagnostics", "Glucose Monitoring", "Lab-on-a-Chip"]
+},
+{
+    "id": 9502,
+    "title": "Droplet Microfluidics for Enzyme Activity Profiling",
+    "domain": "136",
+    "description": "Create a high-throughput droplet microfluidics device to profile enzyme activities.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Enzyme Profiling", "Lab-on-a-Chip"]
+},
+{
+    "id": 9503,
+    "title": "Capillary Electrophoresis Chip for Protein Analysis",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device for rapid protein separation and analysis using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Protein Analysis", "Lab-on-a-Chip"]
+},
+{
+    "id": 9504,
+    "title": "Point-of-Care Lab-on-a-Chip for Infectious Disease Detection",
+    "domain": "136",
+    "description": "Design a portable microfluidic chip to detect infectious diseases at the patient’s bedside.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Infectious Disease", "Lab-on-a-Chip"]
+},
+{
+    "id": 9505,
+    "title": "Microfluidic Device for Single-Cell Drug Response",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip platform to test drug responses on individual cells.",
+    "keywords": ["Droplet Microfluidics", "Single-Cell Analysis", "Drug Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9506,
+    "title": "Integrated Microfluidic Platform for CRISPR Screening",
+    "domain": "136",
+    "description": "Design a lab-on-a-chip device to perform high-throughput CRISPR-based gene editing experiments.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "CRISPR Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9507,
+    "title": "Droplet Microfluidics for Rapid Vaccine Testing",
+    "domain": "136",
+    "description": "Create a microfluidic droplet system to accelerate vaccine candidate screening.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Vaccine Testing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9508,
+    "title": "Lab-on-a-Chip for Multiplexed Biomarker Detection",
+    "domain": "136",
+    "description": "Develop a microfluidic device capable of detecting multiple biomarkers simultaneously.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "Biomarker Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9509,
+    "title": "Microfluidic Device for Rapid Urine Analysis",
+    "domain": "136",
+    "description": "Design a lab-on-a-chip device for point-of-care urine diagnostics with minimal reagent use.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Urine Analysis", "Lab-on-a-Chip"]
+},
+{
+    "id": 9510,
+    "title": "Droplet Microfluidics for Antimicrobial Susceptibility Testing",
+    "domain": "136",
+    "description": "Develop a high-throughput droplet microfluidic system to test bacterial susceptibility to antibiotics.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Antimicrobial Testing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9511,
+    "title": "Capillary Electrophoresis Lab-on-a-Chip for Drug Metabolism",
+    "domain": "136",
+    "description": "Create a microfluidic device to analyze drug metabolism products using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Drug Metabolism", "Lab-on-a-Chip"]
+},
+{
+    "id": 9512,
+    "title": "Microfluidic Device for Environmental Toxin Detection",
+    "domain": "136",
+    "description": "Design a portable lab-on-a-chip system to detect environmental toxins in water or soil samples.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Environmental Toxins", "Lab-on-a-Chip"]
+},
+{
+    "id": 9513,
+    "title": "Droplet Microfluidics for High-Throughput Cell Viability Assays",
+    "domain": "136",
+    "description": "Develop a droplet-based microfluidic platform to assess cell viability at high throughput.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Cell Viability", "Lab-on-a-Chip"]
+},
+{
+    "id": 9514,
+    "title": "Lab-on-a-Chip for Monitoring Antibiotic Resistance Genes",
+    "domain": "136",
+    "description": "Create a microfluidic device capable of detecting antibiotic resistance genes in bacterial samples.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Antibiotic Resistance", "Lab-on-a-Chip"]
+},
+{
+    "id": 9515,
+    "title": "BioMEMS-Based On-Chip Electrochemical Sensing",
+    "domain": "136",
+    "description": "Design a lab-on-a-chip device integrating BioMEMS for electrochemical detection of biomolecules.",
+    "keywords": ["BioMEMS", "Point-of-Care Diagnostics", "Electrochemical Sensing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9516,
+    "title": "Microfluidic Chip for Rapid Foodborne Pathogen Detection",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device to quickly identify foodborne pathogens in samples.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Foodborne Pathogens", "Lab-on-a-Chip"]
+},
+{
+    "id": 9517,
+    "title": "Droplet Microfluidics for High-Throughput Enzyme Screening",
+    "domain": "136",
+    "description": "Design a droplet-based microfluidic platform for rapid screening of enzyme activities.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Enzyme Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9518,
+    "title": "Capillary Electrophoresis Chip for Nucleic Acid Analysis",
+    "domain": "136",
+    "description": "Create a microfluidic device for rapid nucleic acid separation and analysis using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Nucleic Acid Analysis", "Lab-on-a-Chip"]
+},
+{
+    "id": 9519,
+    "title": "Point-of-Care Lab-on-a-Chip for Hematology",
+    "domain": "136",
+    "description": "Develop a microfluidic device to perform complete blood count and hematology diagnostics at the point-of-care.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Hematology", "Lab-on-a-Chip"]
+},
+{
+    "id": 9520,
+    "title": "Droplet Microfluidics for Rapid Metabolite Profiling",
+    "domain": "136",
+    "description": "Design a high-throughput droplet microfluidic system for metabolite profiling in biological samples.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Metabolite Profiling", "Lab-on-a-Chip"]
+},
+{
+    "id": 9521,
+    "title": "Integrated Microfluidic Chip for Multiplexed Immunoassays",
+    "domain": "136",
+    "description": "Create a lab-on-a-chip device capable of running multiple immunoassays simultaneously.",
+    "keywords": ["Microchannel Devices", "Miniaturized Assays", "Immunoassays", "Lab-on-a-Chip"]
+},
+{
+    "id": 9522,
+    "title": "Microfluidic Device for Rapid Saliva Diagnostics",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip system for rapid point-of-care saliva testing for biomarkers.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Saliva Testing", "Lab-on-a-Chip"]
+},
+{
+    "id": 9523,
+    "title": "Droplet Microfluidics for On-Chip Drug Delivery Screening",
+    "domain": "136",
+    "description": "Design a microfluidic droplet platform to screen drug delivery vehicles efficiently.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Drug Delivery", "Lab-on-a-Chip"]
+},
+{
+    "id": 9524,
+    "title": "Capillary Electrophoresis Chip for Lipid Analysis",
+    "domain": "136",
+    "description": "Develop a microfluidic device to separate and analyze lipids using capillary electrophoresis.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Lipid Analysis", "Lab-on-a-Chip"]
+},
+{
+    "id": 9525,
+    "title": "BioMEMS Device for On-Chip Cell Counting",
+    "domain": "136",
+    "description": "Create a lab-on-a-chip using BioMEMS technology for automated on-chip cell counting.",
+    "keywords": ["BioMEMS", "Miniaturized Assays", "Cell Counting", "Lab-on-a-Chip"]
+},
+{
+    "id": 9526,
+    "title": "Microfluidic Chip for Rapid Viral Load Monitoring",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device for point-of-care viral load monitoring with high sensitivity.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Viral Load", "Lab-on-a-Chip"]
+},
+{
+    "id": 9527,
+    "title": "Droplet Microfluidics for High-Throughput Microbiome Screening",
+    "domain": "136",
+    "description": "Design a droplet-based microfluidic platform to screen microbiome samples rapidly.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Microbiome Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9528,
+    "title": "Lab-on-a-Chip for Rapid Hormone Level Detection",
+    "domain": "136",
+    "description": "Create a microfluidic device for point-of-care hormone testing using minimal sample volumes.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Hormone Detection", "Lab-on-a-Chip"]
+},
+{
+    "id": 9529,
+    "title": "Microfluidic Device for Environmental DNA Analysis",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip system to detect environmental DNA from water or soil samples efficiently.",
+    "keywords": ["Microchannel Devices", "Point-of-Care Diagnostics", "Environmental DNA", "Lab-on-a-Chip"]
+},
+{
+    "id": 9530,
+    "title": "Droplet Microfluidics for High-Throughput Toxicology Screening",
+    "domain": "136",
+    "description": "Design a droplet-based microfluidic platform for rapid toxicology testing on cell cultures.",
+    "keywords": ["Droplet Microfluidics", "Miniaturized Assays", "Toxicology Screening", "Lab-on-a-Chip"]
+},
+{
+    "id": 9531,
+    "title": "Capillary Electrophoresis Chip for Amino Acid Analysis",
+    "domain": "136",
+    "description": "Develop a lab-on-a-chip device to separate and quantify amino acids in biological samples.",
+    "keywords": ["Capillary Electrophoresis", "Miniaturized Assays", "Amino Acid Analysis", "Lab-on-a-Chip"]
+},
+//domain 137
 
 
 
