@@ -61553,6 +61553,779 @@ const PROBLEMS_DATA = {
         "keywords": ["Superconductivity", "Cryocoolers", "Low-Temperature Physics", "Cryogenic Machining"]
     },
     //domain-120
+    {
+        "id": 8407,
+        "title": "AI-based Friction Science Simulator",
+        "domain": "120",
+        "description": "Develop a simulation tool that uses AI models to predict friction behavior in different materials and environments, supporting design optimization in automotive and aerospace systems.",
+        "keywords": ["Friction Science"]
+    },
+    {
+        "id": 8408,
+        "title": "Wear Mechanism Visualization Platform",
+        "domain": "120",
+        "description": "Create an interactive software platform that visualizes wear processes in real time using computational models, enabling engineers to study material degradation patterns more effectively.",
+        "keywords": ["Wear Mechanisms"]
+    },
+    {
+        "id": 8409,
+        "title": "Lubricant Additive Optimization Tool",
+        "domain": "120",
+        "description": "Design a system that tests and recommends optimal combinations of lubricant additives to enhance performance and extend machine life under varying load and temperature conditions.",
+        "keywords": ["Lubricant Additives"]
+    },
+    {
+        "id": 8410,
+        "title": "Machine Element Stress Analysis with Lubrication Effects",
+        "domain": "120",
+        "description": "Develop a tool that integrates tribological factors such as lubrication, friction, and wear into machine element stress analysis for accurate performance predictions.",
+        "keywords": ["Machine Element Analysis"]
+    },
+    {
+        "id": 8411,
+        "title": "IoT-enabled Condition Monitoring System",
+        "domain": "120",
+        "description": "Build a real-time IoT solution that continuously monitors machine elements for lubrication effectiveness, friction levels, and early signs of wear.",
+        "keywords": ["Condition Monitoring"]
+    },
+    {
+        "id": 8412,
+        "title": "AI-driven Oil Analysis Dashboard",
+        "domain": "120",
+        "description": "Develop an AI-based dashboard that analyzes oil samples for contaminants, viscosity changes, and degradation to predict maintenance needs.",
+        "keywords": ["Oil Analysis"]
+    },
+    {
+        "id": 8413,
+        "title": "Biotribology-based Prosthetic Joint Evaluation",
+        "domain": "120",
+        "description": "Create a research platform for evaluating prosthetic joints using biotribology models to predict wear, friction, and lubrication performance in human-like conditions.",
+        "keywords": ["Biotribology"]
+    },
+    {
+        "id": 8414,
+        "title": "Surface Engineering for Friction Reduction",
+        "domain": "120",
+        "description": "Design a computational tool for studying surface coatings, texturing, and treatments to minimize friction and wear in machine components.",
+        "keywords": ["Surface Engineering"]
+    },
+    {
+        "id": 8415,
+        "title": "Nanoparticle-enhanced Lubricant Research Platform",
+        "domain": "120",
+        "description": "Develop a simulation-based tool for studying the role of nanoparticles in reducing friction and enhancing lubricant performance.",
+        "keywords": ["Lubricant Additives", "Friction Science"]
+    },
+    {
+        "id": 8416,
+        "title": "Digital Twin for Bearing Wear Prediction",
+        "domain": "120",
+        "description": "Build a digital twin system that integrates real-time data and wear models to forecast bearing performance and maintenance schedules.",
+        "keywords": ["Wear Mechanisms", "Condition Monitoring"]
+    },
+    {
+        "id": 8417,
+        "title": "Self-healing Lubricant Analysis",
+        "domain": "120",
+        "description": "Design a testing system for self-healing lubricants that can repair microscopic wear damage during machine operation.",
+        "keywords": ["Oil Analysis", "Lubricant Additives"]
+    },
+    {
+        "id": 8418,
+        "title": "Frictional Heat Monitoring in Engines",
+        "domain": "120",
+        "description": "Develop a tool to measure and analyze frictional heat generation in internal combustion engines and its effect on wear and fuel efficiency.",
+        "keywords": ["Friction Science", "Condition Monitoring"]
+    },
+    {
+        "id": 8419,
+        "title": "AI-based Gearbox Lubrication Monitoring",
+        "domain": "120",
+        "description": "Create an AI-driven monitoring solution that evaluates lubrication levels in gearboxes and predicts failures due to friction or wear.",
+        "keywords": ["Machine Element Analysis", "Oil Analysis"]
+    },
+    {
+        "id": 8420,
+        "title": "Wear-resistant Surface Coating Database",
+        "domain": "120",
+        "description": "Build a digital database of surface coatings and treatments for tribological applications, supporting engineers in selecting the right material for specific conditions.",
+        "keywords": ["Surface Engineering", "Wear Mechanisms"]
+    },
+    {
+        "id": 8421,
+        "title": "Tribology-based Vehicle Maintenance Predictor",
+        "domain": "120",
+        "description": "Develop an AI system that uses lubrication and wear models to forecast optimal maintenance cycles for vehicles.",
+        "keywords": ["Condition Monitoring", "Oil Analysis"]
+    },
+    {
+        "id": 8422,
+        "title": "Biotribology in Artificial Heart Valves",
+        "domain": "120",
+        "description": "Create a simulation tool for analyzing tribological factors in artificial heart valves, focusing on lubrication and friction reduction in blood-contact applications.",
+        "keywords": ["Biotribology", "Friction Science"]
+    },
+    {
+        "id": 8423,
+        "title": "Real-time Wear Sensor for Industrial Machines",
+        "domain": "120",
+        "description": "Design an embedded sensor system to detect wear in rotating equipment using vibration and lubrication quality analysis.",
+        "keywords": ["Wear Mechanisms", "Condition Monitoring"]
+    },
+    {
+        "id": 8424,
+        "title": "Lubricant Additive Lifecycle Simulator",
+        "domain": "120",
+        "description": "Develop a lifecycle simulation system to study degradation, replenishment, and effectiveness of lubricant additives in long-term use.",
+        "keywords": ["Lubricant Additives", "Oil Analysis"]
+    },
+    {
+        "id": 8425,
+        "title": "Surface Micro-texturing Optimization Tool",
+        "domain": "120",
+        "description": "Build a computational platform to analyze how surface micro-texturing impacts friction and lubrication efficiency.",
+        "keywords": ["Surface Engineering", "Friction Science"]
+    },
+    {
+        "id": 8426,
+        "title": "Tribology-based Smart Manufacturing System",
+        "domain": "120",
+        "description": "Create an intelligent manufacturing monitoring system that integrates tribology models to reduce tool wear and optimize lubrication usage.",
+        "keywords": ["Machine Element Analysis", "Condition Monitoring"]
+    },
+    {
+        "id": 8427,
+        "title": "Eco-friendly Lubricant Development Platform",
+        "domain": "120",
+        "description": "Develop a testing framework for analyzing bio-based lubricants, focusing on minimizing wear and environmental impact.",
+        "keywords": ["Lubricant Additives", "Surface Engineering"]
+    },
+    {
+        "id": 8428,
+        "title": "AI-driven Oil Contaminant Detection",
+        "domain": "120",
+        "description": "Design an AI platform for detecting contaminants like metal particles and soot in lubricants, enabling proactive maintenance decisions.",
+        "keywords": ["Oil Analysis", "Condition Monitoring"]
+    },
+    {
+        "id": 8429,
+        "title": "Biotribology of Dental Implants",
+        "domain": "120",
+        "description": "Build a research platform to analyze lubrication and wear in dental implants, enhancing durability and patient comfort.",
+        "keywords": ["Biotribology", "Wear Mechanisms"]
+    },
+    {
+        "id": 8430,
+        "title": "Surface Coating Wear Resistance Simulator",
+        "domain": "120",
+        "description": "Develop a predictive simulator for analyzing wear resistance of different coating materials under tribological conditions.",
+        "keywords": ["Surface Engineering", "Wear Mechanisms"]
+    },
+    {
+        "id": 8431,
+        "title": "Lubricant Viscosity Prediction AI",
+        "domain": "120",
+        "description": "Build an AI tool that predicts lubricant viscosity changes under variable temperature and pressure conditions.",
+        "keywords": ["Oil Analysis", "Friction Science"]
+    },
+    {
+        "id": 8432,
+        "title": "Friction Control in Electric Vehicles",
+        "domain": "120",
+        "description": "Develop a friction management system optimized for electric vehicles, balancing wear reduction and energy efficiency.",
+        "keywords": ["Friction Science", "Condition Monitoring"]
+    },
+    {
+        "id": 8433,
+        "title": "Nanostructured Surface Engineering Platform",
+        "domain": "120",
+        "description": "Design a research tool for exploring nanostructured surfaces to reduce wear and improve lubrication performance.",
+        "keywords": ["Surface Engineering", "Lubricant Additives"]
+    },
+    {
+        "id": 8434,
+        "title": "AI-based Biotribology Predictor",
+        "domain": "120",
+        "description": "Develop an AI-driven model to predict wear and lubrication efficiency in human joint replacements under varying movement patterns.",
+        "keywords": ["Biotribology", "Condition Monitoring"]
+    },
+    {
+        "id": 8435,
+        "title": "3D Printed Component Tribology Analyzer",
+        "domain": "120",
+        "description": "Create a tool to study the tribological behavior of 3D printed machine elements, focusing on friction, wear, and lubrication compatibility.",
+        "keywords": ["Machine Element Analysis", "Wear Mechanisms"]
+    },
+    {
+        "id": 8436,
+        "title": "Lubricant Recycling and Performance Evaluation",
+        "domain": "120",
+        "description": "Build a system to recycle used lubricants and test their tribological performance against fresh samples.",
+        "keywords": ["Oil Analysis", "Lubricant Additives"]
+    },
+    {
+        "id": 8437,
+        "title": "Surface Roughness Impact Analyzer",
+        "domain": "120",
+        "description": "Develop a computational model to evaluate how surface roughness affects friction and lubrication efficiency in machine elements.",
+        "keywords": ["Surface Engineering", "Friction Science"]
+    },
+    {
+        "id": 8438,
+        "title": "Smart Oil Filtration Monitoring",
+        "domain": "120",
+        "description": "Design an intelligent oil filtration monitoring system that detects filter clogging and efficiency drop due to contaminants.",
+        "keywords": ["Oil Analysis", "Condition Monitoring"]
+    },
+    {
+        "id": 8439,
+        "title": "Tribology in Wind Turbine Bearings",
+        "domain": "120",
+        "description": "Create a predictive maintenance system for wind turbine bearings, incorporating wear, lubrication, and friction models.",
+        "keywords": ["Wear Mechanisms", "Condition Monitoring"]
+    },
+    {
+        "id": 8440,
+        "title": "Lubricant Additive Synergy Analyzer",
+        "domain": "120",
+        "description": "Develop a simulation system to study the synergistic effects of multiple lubricant additives under high-load conditions.",
+        "keywords": ["Lubricant Additives", "Machine Element Analysis"]
+    },
+    {
+        "id": 8441,
+        "title": "Biotribology of Soft Tissue Implants",
+        "domain": "120",
+        "description": "Design a computational model to study lubrication, wear, and friction in soft tissue implants for biomedical applications.",
+        "keywords": ["Biotribology", "Surface Engineering"]
+    },
+    {
+        "id": 8442,
+        "title": "Smart Condition Monitoring for Hydraulic Systems",
+        "domain": "120",
+        "description": "Develop a monitoring system for hydraulic systems that detects wear and lubrication breakdown in real time.",
+        "keywords": ["Condition Monitoring", "Friction Science"]
+    },
+    {
+        "id": 8443,
+        "title": "Tribology in Spacecraft Components",
+        "domain": "120",
+        "description": "Create a testing system to study tribological performance of lubricants and coatings in vacuum and low-temperature space conditions.",
+        "keywords": ["Surface Engineering", "Wear Mechanisms"]
+    },
+    {
+        "id": 8444,
+        "title": "AI-based Surface Coating Selector",
+        "domain": "120",
+        "description": "Build an AI system to recommend optimal surface coatings based on tribological requirements and environmental conditions.",
+        "keywords": ["Surface Engineering", "Machine Element Analysis"]
+    },
+    {
+        "id": 8445,
+        "title": "Tribological Fatigue Testing Platform",
+        "domain": "120",
+        "description": "Develop an automated platform to test fatigue wear in materials under repeated lubrication and friction cycles.",
+        "keywords": ["Wear Mechanisms", "Friction Science"]
+    },
+    {
+        "id": 8446,
+        "title": "Eco-biotribology Lubricant Testing",
+        "domain": "120",
+        "description": "Create a framework for studying eco-friendly lubricants in biomedical implants, focusing on long-term wear and friction behavior.",
+        "keywords": ["Biotribology", "Lubricant Additives"]
+    },
+    {
+        "id": 8447,
+        "title": "Smart Bearing Health Predictor",
+        "domain": "120",
+        "description": "Build a predictive maintenance tool for bearings that integrates wear models and lubrication effectiveness.",
+        "keywords": ["Condition Monitoring", "Machine Element Analysis"]
+    },
+    {
+        "id": 8448,
+        "title": "AI-driven Friction Coefficient Predictor",
+        "domain": "120",
+        "description": "Develop an AI-based tool that predicts the coefficient of friction under various lubrication and surface treatment conditions.",
+        "keywords": ["Friction Science", "Surface Engineering"]
+    },
+    {
+        "id": 8449,
+        "title": "Lubricant Thermal Stability Analyzer",
+        "domain": "120",
+        "description": "Design a system to test lubricant stability under extreme heat conditions and study its impact on wear.",
+        "keywords": ["Oil Analysis", "Wear Mechanisms"]
+    },
+    {
+        "id": 8450,
+        "title": "Tribology-based Smart Agriculture Machinery",
+        "domain": "120",
+        "description": "Develop a tribology monitoring system for agricultural machinery to reduce downtime and extend life with optimal lubrication use.",
+        "keywords": ["Condition Monitoring", "Lubricant Additives"]
+    },
+    {
+        "id": 8451,
+        "title": "Nanotribology Simulation Platform",
+        "domain": "120",
+        "description": "Create a nanoscale tribology simulation environment to study atomic-level friction and lubrication behavior.",
+        "keywords": ["Surface Engineering", "Friction Science"]
+    },
+    {
+        "id": 8452,
+        "title": "AI-based Oil Life Estimator",
+        "domain": "120",
+        "description": "Build a predictive tool to estimate remaining useful life of lubricants based on chemical and physical changes.",
+        "keywords": ["Oil Analysis", "Condition Monitoring"]
+    },
+    {
+        "id": 8453,
+        "title": "Tribology of Renewable Energy Systems",
+        "domain": "120",
+        "description": "Develop models to optimize lubrication and wear management in renewable energy equipment like hydro turbines and solar trackers.",
+        "keywords": ["Wear Mechanisms", "Friction Science"]
+    },
+    {
+        "id": 8454,
+        "title": "Smart Lubricant Dispenser",
+        "domain": "120",
+        "description": "Design an automated dispenser system that releases lubricants only when sensors detect rising friction or wear.",
+        "keywords": ["Condition Monitoring", "Lubricant Additives"]
+    },
+    {
+        "id": 8455,
+        "title": "Biotribology of Cartilage Replacement",
+        "domain": "120",
+        "description": "Create a study platform to analyze friction and wear in cartilage replacement materials using biotribology models.",
+        "keywords": ["Biotribology", "Wear Mechanisms"]
+    },
+    {
+        "id": 8456,
+        "title": "Tribology in Robotics Joints",
+        "domain": "120",
+        "description": "Build a system to monitor lubrication efficiency and wear in robotic joints, ensuring precision and durability.",
+        "keywords": ["Machine Element Analysis", "Surface Engineering"]
+    },
+    {
+        "id": 8457,
+        "title": "Lubricant Degradation AI Predictor",
+        "domain": "120",
+        "description": "Develop an AI tool to predict lubricant degradation under different mechanical and environmental stresses.",
+        "keywords": ["Oil Analysis", "Friction Science"]
+    },
+    {
+        "id": 8458,
+        "title": "Tribology Knowledge Graph",
+        "domain": "120",
+        "description": "Create a knowledge graph that connects tribology concepts, lubricants, wear mechanisms, and surface treatments for research and industry use.",
+        "keywords": ["Friction Science", "Wear Mechanisms", "Lubricant Additives", "Machine Element Analysis", "Condition Monitoring", "Oil Analysis", "Biotribology", "Surface Engineering"]
+    },
+    {
+        "id": 8459,
+        "title": "Smart Tribology Education Platform",
+        "domain": "120",
+        "description": "Develop an interactive educational system that teaches friction, wear, and lubrication principles using simulations and gamification.",
+        "keywords": ["Friction Science", "Wear Mechanisms", "Surface Engineering"]
+    },
+    //domain-121
+{
+    "id": 8460,
+    "title": "High Vacuum Chamber Design Simulator",
+    "domain": "121",
+    "description": "A simulation tool to design and optimize high vacuum chambers for industrial and research applications, ensuring minimal leakage and efficient evacuation times.",
+    "keywords": ["High Vacuum", "Vacuum Pumps", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8461,
+    "title": "Ultra-High Vacuum Surface Analysis System",
+    "domain": "121",
+    "description": "A research-oriented project for creating ultra-high vacuum environments to study atomic-scale material surfaces using spectroscopic and microscopic methods.",
+    "keywords": ["Ultra-High Vacuum", "Particle Contamination Control", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8462,
+    "title": "Vacuum Pump Efficiency Analyzer",
+    "domain": "121",
+    "description": "A monitoring and analysis system to measure the efficiency, energy consumption, and reliability of different types of vacuum pumps in various environments.",
+    "keywords": ["Vacuum Pumps", "High Vacuum", "Vacuum Gauges", "Space Simulation"]
+},
+{
+    "id": 8463,
+    "title": "Cleanroom Airflow and Pressure Balancing System",
+    "domain": "121",
+    "description": "Design and implement an intelligent system to regulate cleanroom airflow and pressure while maintaining controlled vacuum levels for contamination-free environments.",
+    "keywords": ["Cleanroom Design", "Controlled Atmosphere", "Particle Contamination Control", "Vacuum Gauges"]
+},
+{
+    "id": 8464,
+    "title": "Particle Contamination Early Warning System",
+    "domain": "121",
+    "description": "Develop a sensor-based contamination detection system for vacuum and controlled environments that alerts operators before particle buildup reaches critical levels.",
+    "keywords": ["Particle Contamination Control", "Cleanroom Design", "High Vacuum", "Vacuum Gauges"]
+},
+{
+    "id": 8465,
+    "title": "Space Simulation Vacuum Test Platform",
+    "domain": "121",
+    "description": "A system to replicate space-like vacuum and temperature conditions for testing spacecraft materials, sensors, and instruments before deployment.",
+    "keywords": ["Space Simulation", "Ultra-High Vacuum", "Vacuum Pumps", "Controlled Atmosphere"]
+},
+{
+    "id": 8466,
+    "title": "Smart Vacuum Gauge Network",
+    "domain": "121",
+    "description": "IoT-enabled vacuum gauges that provide real-time monitoring, predictive maintenance alerts, and integration with control systems for better process management.",
+    "keywords": ["Vacuum Gauges", "High Vacuum", "Vacuum Pumps", "Controlled Atmosphere"]
+},
+{
+    "id": 8467,
+    "title": "Controlled Atmosphere Packaging System",
+    "domain": "121",
+    "description": "Develop a packaging system that leverages controlled atmosphere vacuum technology to extend the shelf life of sensitive products such as pharmaceuticals and electronics.",
+    "keywords": ["Controlled Atmosphere", "Vacuum Pumps", "Cleanroom Design", "Particle Contamination Control"]
+},
+{
+    "id": 8468,
+    "title": "Cryogenic Ultra-High Vacuum Experiment Platform",
+    "domain": "121",
+    "description": "A research platform for cryogenic ultra-high vacuum conditions used in superconductivity and quantum computing experiments.",
+    "keywords": ["Ultra-High Vacuum", "Space Simulation", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8469,
+    "title": "Self-Healing Vacuum Seal Technology",
+    "domain": "121",
+    "description": "An innovative sealing system for vacuum chambers that automatically compensates for micro-leaks, ensuring long-term stability in controlled environments.",
+    "keywords": ["High Vacuum", "Vacuum Pumps", "Particle Contamination Control", "Cleanroom Design"]
+},
+{
+    "id": 8470,
+    "title": "AI-Based Cleanroom Particle Tracker",
+    "domain": "121",
+    "description": "An AI-driven system that predicts contamination hotspots in cleanrooms and vacuum environments by analyzing particle flow dynamics.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8471,
+    "title": "Spacecraft Vacuum Stress Test Framework",
+    "domain": "121",
+    "description": "A framework for testing spacecraft systems in simulated vacuum conditions with real-time telemetry, ensuring reliability under harsh space environments.",
+    "keywords": ["Space Simulation", "High Vacuum", "Vacuum Gauges", "Vacuum Pumps"]
+},
+{
+    "id": 8472,
+    "title": "Vacuum Pump Noise Reduction System",
+    "domain": "121",
+    "description": "An engineering project to reduce operational noise in vacuum pumps using smart materials and vibration control methods for cleaner laboratory environments.",
+    "keywords": ["Vacuum Pumps", "Cleanroom Design", "Controlled Atmosphere", "High Vacuum"]
+},
+{
+    "id": 8473,
+    "title": "Dynamic Vacuum Gauge Calibration Unit",
+    "domain": "121",
+    "description": "A calibration system for vacuum gauges that dynamically adjusts for drift and environmental factors, ensuring long-term measurement accuracy.",
+    "keywords": ["Vacuum Gauges", "Ultra-High Vacuum", "High Vacuum", "Particle Contamination Control"]
+},
+{
+    "id": 8474,
+    "title": "Adaptive Cleanroom and Vacuum Integration System",
+    "domain": "121",
+    "description": "A hybrid system integrating cleanroom design with vacuum chambers for experiments requiring both contamination control and controlled atmosphere.",
+    "keywords": ["Cleanroom Design", "Controlled Atmosphere", "Vacuum Pumps", "Vacuum Gauges"]
+},
+{
+    "id": 8475,
+    "title": "Next-Gen Space Simulation Laboratory",
+    "domain": "121",
+    "description": "A comprehensive laboratory setup that provides thermal-vacuum and ultra-high vacuum simulation capabilities for testing future space exploration technologies.",
+    "keywords": ["Space Simulation", "Ultra-High Vacuum", "High Vacuum", "Vacuum Pumps"]
+},
+{
+    "id": 8476,
+    "title": "Vacuum-Assisted Nanoparticle Containment System",
+    "domain": "121",
+    "description": "A specialized vacuum containment system designed to handle and analyze nanoparticles without contamination risks in controlled atmospheres.",
+    "keywords": ["Particle Contamination Control", "Controlled Atmosphere", "Vacuum Gauges", "High Vacuum"]
+},
+{
+    "id": 8477,
+    "title": "Energy-Efficient Turbo Molecular Pump Controller",
+    "domain": "120",
+    "description": "A smart controller for turbo molecular pumps that minimizes power consumption while maintaining stable ultra-high vacuum conditions.",
+    "keywords": ["Vacuum Pumps", "Ultra-High Vacuum", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8478,
+    "title": "Cleanroom Virtual Reality Training Simulator",
+    "domain": "121",
+    "description": "A VR-based training platform for cleanroom staff, teaching contamination prevention and vacuum handling protocols in a safe environment.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Controlled Atmosphere", "Space Simulation"]
+},
+{
+    "id": 8479,
+    "title": "Multi-Sensor Vacuum Leak Detection System",
+    "domain": "121",
+    "description": "A portable system integrating ultrasonic, pressure, and thermal sensors for rapid leak detection in vacuum chambers and pipelines.",
+    "keywords": ["High Vacuum", "Vacuum Gauges", "Vacuum Pumps", "Particle Contamination Control"]
+},
+{
+    "id": 8480,
+    "title": "AI-Powered Space Simulation Chamber Control",
+    "domain": "121",
+    "description": "Artificial intelligence system for regulating space simulation chambers, adapting vacuum, temperature, and contamination controls in real-time.",
+    "keywords": ["Space Simulation", "Vacuum Pumps", "Ultra-High Vacuum", "Vacuum Gauges"]
+},
+{
+    "id": 8481,
+    "title": "Smart Controlled Atmosphere Greenhouse",
+    "domain": "121",
+    "description": "An agricultural system that uses vacuum and controlled atmosphere technology to extend crop storage life and maintain pest-free conditions.",
+    "keywords": ["Controlled Atmosphere", "Vacuum Pumps", "Cleanroom Design", "High Vacuum"]
+},
+{
+    "id": 8482,
+    "title": "Portable Cleanroom Pod with Vacuum Lock",
+    "domain": "121",
+    "description": "A mobile cleanroom pod with integrated vacuum lock systems for transporting sensitive equipment without contamination risk.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8483,
+    "title": "High Precision Ion Pump Development",
+    "domain": "121",
+    "description": "Design of an advanced ion pump for ultra-high vacuum applications in physics research and semiconductor industries.",
+    "keywords": ["Ultra-High Vacuum", "Vacuum Pumps", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8484,
+    "title": "Hybrid Cleanroom-Vacuum Manufacturing Line",
+    "domain": "121",
+    "description": "An integrated system that combines cleanroom design with vacuum technology for next-gen semiconductor and nanotech manufacturing lines.",
+    "keywords": ["Cleanroom Design", "Vacuum Pumps", "Particle Contamination Control", "High Vacuum"]
+},
+{
+    "id": 8485,
+    "title": "Deep Space Radiation and Vacuum Simulator",
+    "domain": "121",
+    "description": "A facility for simulating both vacuum and radiation environments encountered in deep space missions, enabling advanced spacecraft testing.",
+    "keywords": ["Space Simulation", "Ultra-High Vacuum", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8486,
+    "title": "Vacuum-Integrated 3D Printing System",
+    "domain": "121",
+    "description": "A 3D printing system operating under vacuum and controlled atmospheres to reduce oxidation and improve material quality in additive manufacturing.",
+    "keywords": ["High Vacuum", "Controlled Atmosphere", "Vacuum Pumps", "Cleanroom Design"]
+},
+{
+    "id": 8487,
+    "title": "Nanoelectronics Fabrication in Ultra-High Vacuum",
+    "domain": "121",
+    "description": "A fabrication platform for nanoelectronic devices requiring ultra-high vacuum and particle-free environments to ensure defect-free production.",
+    "keywords": ["Ultra-High Vacuum", "Cleanroom Design", "Vacuum Gauges", "Particle Contamination Control"]
+},
+{
+    "id": 8488,
+    "title": "Automated Vacuum Chamber Leak Sealing Robot",
+    "domain": "121",
+    "description": "A robotic system capable of identifying and automatically sealing leaks in large-scale vacuum chambers used in industrial research.",
+    "keywords": ["High Vacuum", "Vacuum Pumps", "Vacuum Gauges", "Particle Contamination Control"]
+},
+{
+    "id": 8489,
+    "title": "Hybrid Cryo-Vacuum Cooling System",
+    "domain": "121",
+    "description": "A combined cryogenic and vacuum system for cooling superconducting materials and quantum computing components in a stable environment.",
+    "keywords": ["Ultra-High Vacuum", "Space Simulation", "Controlled Atmosphere", "Vacuum Pumps"]
+},
+{
+    "id": 8490,
+    "title": "AI-Powered Cleanroom Energy Optimizer",
+    "domain": "121",
+    "description": "An artificial intelligence system to optimize airflow, pressure, and vacuum integration in cleanrooms while minimizing energy costs.",
+    "keywords": ["Cleanroom Design", "Controlled Atmosphere", "High Vacuum", "Vacuum Gauges"]
+},
+{
+    "id": 8491,
+    "title": "Space Dust and Particle Interaction Simulator",
+    "domain": "121",
+    "description": "A space simulation vacuum platform to study dust and particle interactions on spacecraft surfaces for better mission resilience.",
+    "keywords": ["Space Simulation", "Particle Contamination Control", "Vacuum Gauges", "High Vacuum"]
+},
+{
+    "id": 8492,
+    "title": "Portable High Vacuum Sterilization Unit",
+    "domain": "121",
+    "description": "A portable sterilization unit using high vacuum and controlled atmosphere techniques for sterilizing medical equipment in remote locations.",
+    "keywords": ["High Vacuum", "Controlled Atmosphere", "Vacuum Pumps", "Cleanroom Design"]
+},
+{
+    "id": 8493,
+    "title": "Next-Gen Ultra-High Vacuum Research Microscope",
+    "domain": "121",
+    "description": "A microscope capable of operating in ultra-high vacuum conditions for atomic-scale imaging and analysis in physics and nanotech research.",
+    "keywords": ["Ultra-High Vacuum", "Vacuum Gauges", "Particle Contamination Control", "Controlled Atmosphere"]
+},
+{
+    "id": 8494,
+    "title": "Vacuum-Assisted Biopharmaceutical Preservation",
+    "domain": "121",
+    "description": "A preservation system for biopharmaceuticals that leverages vacuum and controlled atmospheres to extend storage life and purity.",
+    "keywords": ["Controlled Atmosphere", "Vacuum Pumps", "High Vacuum", "Cleanroom Design"]
+},
+{
+    "id": 8495,
+    "title": "Radiation-Hard Space Simulation Facility",
+    "domain": "121",
+    "description": "An advanced space simulation facility combining vacuum, radiation, and thermal conditions for spacecraft component testing.",
+    "keywords": ["Space Simulation", "Ultra-High Vacuum", "Vacuum Gauges", "Vacuum Pumps"]
+},
+{
+    "id": 8496,
+    "title": "Smart Cleanroom Monitoring Dashboard",
+    "domain": "121",
+    "description": "An IoT-enabled dashboard that aggregates sensor data from cleanroom and vacuum systems, providing real-time air quality and contamination reports.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8497,
+    "title": "High Vacuum Food Preservation Chamber",
+    "domain": "121",
+    "description": "A vacuum chamber designed to extend food preservation by removing oxygen and moisture under controlled vacuum conditions.",
+    "keywords": ["High Vacuum", "Controlled Atmosphere", "Vacuum Pumps", "Particle Contamination Control"]
+},
+{
+    "id": 8498,
+    "title": "Ultra-High Vacuum Thin Film Deposition System",
+    "domain": "121",
+    "description": "A system for thin-film deposition using ultra-high vacuum conditions to achieve superior film purity and adhesion in electronics manufacturing.",
+    "keywords": ["Ultra-High Vacuum", "Vacuum Gauges", "Vacuum Pumps", "Cleanroom Design"]
+},
+{
+    "id": 8499,
+    "title": "Self-Cleaning Vacuum Chamber Walls",
+    "domain": "121",
+    "description": "A chamber coating technology that repels contaminants and self-cleans, reducing downtime in high and ultra-high vacuum environments.",
+    "keywords": ["Particle Contamination Control", "High Vacuum", "Ultra-High Vacuum", "Controlled Atmosphere"]
+},
+{
+    "id": 8500,
+    "title": "Smart Controlled Atmosphere Cold Storage",
+    "domain": "121",
+    "description": "An AI-regulated controlled atmosphere cold storage system integrating vacuum-based oxygen reduction for perishable goods.",
+    "keywords": ["Controlled Atmosphere", "Vacuum Pumps", "High Vacuum", "Cleanroom Design"]
+},
+{
+    "id": 8501,
+    "title": "Spacecraft Material Fatigue Vacuum Lab",
+    "domain": "121",
+    "description": "A lab setup that simulates vacuum and thermal cycling to test spacecraft materials for durability under long-term space exposure.",
+    "keywords": ["Space Simulation", "High Vacuum", "Vacuum Gauges", "Vacuum Pumps"]
+},
+{
+    "id": 8502,
+    "title": "Vacuum-Optimized Plasma Cleaning System",
+    "domain": "121",
+    "description": "A plasma cleaning system operating under vacuum conditions for contaminant removal in semiconductor and medical industries.",
+    "keywords": ["High Vacuum", "Particle Contamination Control", "Controlled Atmosphere", "Vacuum Pumps"]
+},
+{
+    "id": 8503,
+    "title": "Ultra-High Vacuum Nanoparticle Analyzer",
+    "domain": "121",
+    "description": "An analyzer operating in ultra-high vacuum to characterize nanoparticles without risk of contamination or atmospheric interference.",
+    "keywords": ["Ultra-High Vacuum", "Vacuum Gauges", "Particle Contamination Control", "Controlled Atmosphere"]
+},
+{
+    "id": 8504,
+    "title": "AI-Powered Vacuum Leak Prediction",
+    "domain": "121",
+    "description": "A predictive analytics system using AI and sensor data to forecast vacuum chamber leaks before they occur.",
+    "keywords": ["Vacuum Gauges", "High Vacuum", "Vacuum Pumps", "Cleanroom Design"]
+},
+{
+    "id": 8505,
+    "title": "Portable Controlled Atmosphere Lab Pod",
+    "domain": "121",
+    "description": "A portable laboratory pod with vacuum and atmosphere control for field research in pharmaceuticals and biology.",
+    "keywords": ["Controlled Atmosphere", "Vacuum Pumps", "Cleanroom Design", "Vacuum Gauges"]
+},
+{
+    "id": 8506,
+    "title": "High Vacuum Semiconductor Etching Chamber",
+    "domain": "121",
+    "description": "A vacuum chamber specialized for precision semiconductor etching processes, ensuring contamination-free microfabrication.",
+    "keywords": ["High Vacuum", "Vacuum Pumps", "Cleanroom Design", "Particle Contamination Control"]
+},
+{
+    "id": 8507,
+    "title": "Space Simulation Life Support Test Rig",
+    "domain": "121",
+    "description": "A space simulation vacuum test rig for validating spacecraft life support systems under real mission-like conditions.",
+    "keywords": ["Space Simulation", "Controlled Atmosphere", "Vacuum Gauges", "High Vacuum"]
+},
+{
+    "id": 8508,
+    "title": "Cleanroom Particle Neutralization System",
+    "domain": "121",
+    "description": "A system that neutralizes airborne particles inside cleanrooms and vacuum-connected environments to minimize contamination.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Vacuum Gauges", "Controlled Atmosphere"]
+},
+{
+    "id": 8509,
+    "title": "Energy Harvesting Vacuum Pump",
+    "domain": "121",
+    "description": "A vacuum pump system that recycles mechanical energy during compression and release cycles for improved energy efficiency.",
+    "keywords": ["Vacuum Pumps", "High Vacuum", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8510,
+    "title": "Next-Gen Ultra-High Vacuum Lithography Tool",
+    "domain": "121",
+    "description": "An advanced lithography system designed for nano-patterning under ultra-high vacuum conditions to achieve defect-free circuits.",
+    "keywords": ["Ultra-High Vacuum", "Vacuum Gauges", "Cleanroom Design", "Vacuum Pumps"]
+},
+{
+    "id": 8511,
+    "title": "Vacuum-Powered Contaminant Filtration System",
+    "domain": "121",
+    "description": "A filtration system that utilizes vacuum flows to capture and isolate contaminants in industrial cleanrooms.",
+    "keywords": ["Particle Contamination Control", "High Vacuum", "Controlled Atmosphere", "Vacuum Gauges"]
+},
+{
+    "id": 8512,
+    "title": "Space Simulation Thermal-Vacuum Cycling Lab",
+    "domain": "121",
+    "description": "A lab facility that provides vacuum plus extreme temperature cycling for spacecraft component durability testing.",
+    "keywords": ["Space Simulation", "Vacuum Pumps", "Ultra-High Vacuum", "Vacuum Gauges"]
+},
+{
+    "id": 8513,
+    "title": "Smart Cleanroom Robotic Assistant",
+    "domain": "121",
+    "description": "A robot designed to operate in vacuum-linked cleanrooms to handle materials while maintaining contamination-free standards.",
+    "keywords": ["Cleanroom Design", "Particle Contamination Control", "Vacuum Pumps", "Controlled Atmosphere"]
+},
+{
+    "id": 8514,
+    "title": "Vacuum-Assisted Cryogenic Storage Facility",
+    "domain": "121",
+    "description": "A cryogenic storage system enhanced with vacuum and controlled atmosphere layers to store biological and chemical samples long-term.",
+    "keywords": ["Controlled Atmosphere", "Ultra-High Vacuum", "Vacuum Pumps", "High Vacuum"]
+},
+{
+    "id": 8515,
+    "title": "AI-Driven Space Simulation Fault Detection",
+    "domain": "121",
+    "description": "Artificial intelligence system for fault detection in space simulation vacuum chambers, predicting failures in real-time.",
+    "keywords": ["Space Simulation", "Vacuum Gauges", "Vacuum Pumps", "Controlled Atmosphere"]
+},
+{
+    "id": 8516,
+    "title": "High Vacuum Additive Manufacturing Lab",
+    "domain": "121",
+    "description": "A research lab for metal and ceramic additive manufacturing processes conducted under high vacuum for improved purity.",
+    "keywords": ["High Vacuum", "Vacuum Pumps", "Vacuum Gauges", "Cleanroom Design"]
+},
+//domain-122
+
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
