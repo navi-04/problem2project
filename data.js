@@ -67041,6 +67041,413 @@ const PROBLEMS_DATA = {
 
 //domain 131
 
+{
+    "id": 9189,
+    "title": "Nanofluid Heat Exchanger Design",
+    "domain": "131",
+    "description": "Develop a nanofluid-based compact heat exchanger that improves thermal conductivity and efficiency for industrial applications.",
+    "keywords": ["Nanofluid", "Heat Exchanger", "Thermal Conductivity", "Cooling Systems"]
+},
+{
+    "id": 9190,
+    "title": "AI-Based Energy Optimization in Smart Grids",
+    "domain": "131",
+    "description": "Implement an AI-driven optimization algorithm to reduce peak load and improve demand-response strategies in smart grids.",
+    "keywords": ["Smart Grids", "AI Optimization", "Energy Management", "Demand Response"]
+},
+{
+    "id": 9191,
+    "title": "Phase Change Thermal Energy Storage",
+    "domain": "131",
+    "description": "Design a scalable phase change material system to store excess renewable energy as latent heat for later use.",
+    "keywords": ["Thermal Storage", "Phase Change Materials", "Renewable Energy", "Energy Efficiency"]
+},
+{
+    "id": 9192,
+    "title": "3D Printed High-Efficiency Heat Sink",
+    "domain": "131",
+    "description": "Create a lattice-structured heat sink using additive manufacturing to maximize surface area and improve thermal dissipation.",
+    "keywords": ["3D Printing", "Heat Sink", "Thermal Management", "Cooling Systems"]
+},
+{
+    "id": 9193,
+    "title": "Waste Heat Recovery in Data Centers",
+    "domain": "131",
+    "description": "Develop a system that captures and reuses waste heat from data centers for district heating applications.",
+    "keywords": ["Waste Heat Recovery", "Data Centers", "Thermal Systems", "Energy Reuse"]
+},
+{
+    "id": 9194,
+    "title": "Self-Healing Thermal Coatings",
+    "domain": "131",
+    "description": "Engineer self-healing thermal coatings that can repair micro-cracks and maintain thermal insulation in extreme environments.",
+    "keywords": ["Thermal Coatings", "Self-Healing Materials", "Insulation", "Advanced Materials"]
+},
+{
+    "id": 9195,
+    "title": "Hybrid Solar-Thermal Cooling System",
+    "domain": "131",
+    "description": "Design a hybrid solar-thermal cooling system that uses concentrated solar energy for absorption-based cooling in hot climates.",
+    "keywords": ["Solar Thermal", "Cooling Systems", "Absorption Cooling", "Hybrid Systems"]
+},
+{
+    "id": 9196,
+    "title": "AI-Driven Heat Transfer Simulation",
+    "domain": "131",
+    "description": "Develop an AI tool for predictive simulation of heat transfer across complex geometries to optimize engineering designs.",
+    "keywords": ["Heat Transfer", "AI Simulation", "Thermal Analysis", "Predictive Modeling"]
+},
+{
+    "id": 9197,
+    "title": "Thermoelectric Waste Heat Harvester",
+    "domain": "131",
+    "description": "Create a thermoelectric generator to convert industrial exhaust heat into usable electrical energy.",
+    "keywords": ["Thermoelectric", "Waste Heat Recovery", "Energy Conversion", "Industrial Systems"]
+},
+{
+    "id": 9198,
+    "title": "Passive Radiative Cooling Material",
+    "domain": "131",
+    "description": "Design a radiative cooling material that passively rejects heat into the sky without electricity, reducing building energy use.",
+    "keywords": ["Radiative Cooling", "Passive Systems", "Thermal Materials", "Energy Efficiency"]
+},
+{
+    "id": 9199,
+    "title": "Liquid Metal Cooling System",
+    "domain": "131",
+    "description": "Develop a liquid metal-based cooling system for high-power electronics with enhanced thermal conductivity.",
+    "keywords": ["Liquid Metal", "Cooling Systems", "High Power Electronics", "Thermal Conductivity"]
+},
+{
+    "id": 9200,
+    "title": "AI-Based HVAC Optimization",
+    "domain": "131",
+    "description": "Implement AI algorithms to optimize HVAC operations, reducing energy consumption while maintaining comfort levels.",
+    "keywords": ["HVAC", "AI Optimization", "Energy Efficiency", "Smart Buildings"]
+},
+{
+    "id": 9201,
+    "title": "Microchannel Heat Exchanger for EV Batteries",
+    "domain": "131",
+    "description": "Create a microchannel liquid cooling heat exchanger for electric vehicle batteries to prevent thermal runaway.",
+    "keywords": ["EV Batteries", "Microchannel Cooling", "Thermal Management", "Heat Exchanger"]
+},
+{
+    "id": 9202,
+    "title": "Thermal Cloaking Materials",
+    "domain": "131",
+    "description": "Develop advanced metamaterials that redirect heat flow, creating cloaking effects for thermal insulation applications.",
+    "keywords": ["Thermal Cloaking", "Metamaterials", "Heat Flow", "Insulation"]
+},
+{
+    "id": 9203,
+    "title": "Energy Harvesting from Human Body Heat",
+    "domain": "131",
+    "description": "Design wearable thermoelectric devices that harvest body heat to power low-energy electronics like health trackers.",
+    "keywords": ["Wearables", "Thermoelectric", "Body Heat", "Energy Harvesting"]
+},
+{
+    "id": 9204,
+    "title": "Self-Cleaning Solar Thermal Panels",
+    "domain": "131",
+    "description": "Engineer self-cleaning coatings for solar thermal collectors to maintain efficiency in dusty environments.",
+    "keywords": ["Solar Thermal", "Self-Cleaning", "Surface Coatings", "Energy Efficiency"]
+},
+{
+    "id": 9205,
+    "title": "Heat Pipe Integration in Aerospace Systems",
+    "domain": "131",
+    "description": "Design lightweight heat pipe systems to manage extreme thermal conditions in spacecraft and aircraft applications.",
+    "keywords": ["Heat Pipes", "Aerospace Systems", "Thermal Management", "Lightweight Design"]
+},
+{
+    "id": 9206,
+    "title": "Smart Thermal Insulation with IoT Sensors",
+    "domain": "131",
+    "description": "Develop IoT-enabled insulation materials that adapt thermal resistance based on real-time temperature monitoring.",
+    "keywords": ["IoT Sensors", "Thermal Insulation", "Smart Materials", "Energy Management"]
+},
+{
+    "id": 9207,
+    "title": "AI-Controlled Cooling for Edge Devices",
+    "domain": "131",
+    "description": "Create an AI-driven dynamic cooling system for IoT edge devices to prevent overheating and improve performance.",
+    "keywords": ["IoT", "AI Cooling", "Edge Devices", "Thermal Control"]
+},
+{
+    "id": 9208,
+    "title": "Thermal-Responsive Building Facades",
+    "domain": "131",
+    "description": "Design adaptive building facades that change thermal conductivity depending on external weather conditions.",
+    "keywords": ["Building Facades", "Thermal Materials", "Smart Buildings", "Adaptive Systems"]
+},
+{
+    "id": 9209,
+    "title": "High-Performance Thermal Grease",
+    "domain": "131",
+    "description": "Develop eco-friendly thermal grease with high thermal conductivity for semiconductor and electronic cooling.",
+    "keywords": ["Thermal Grease", "Electronics Cooling", "Semiconductors", "Eco-Friendly Materials"]
+},
+{
+    "id": 9210,
+    "title": "Magnetocaloric Refrigeration System",
+    "domain": "131",
+    "description": "Create a magnetic refrigeration system using magnetocaloric materials as an alternative to traditional vapor compression.",
+    "keywords": ["Magnetocaloric", "Refrigeration", "Green Cooling", "Thermal Systems"]
+},
+{
+    "id": 9211,
+    "title": "AI-Optimized Heat Exchanger Geometry",
+    "domain": "131",
+    "description": "Use AI-based generative design to optimize complex geometries in heat exchangers for maximum efficiency.",
+    "keywords": ["Heat Exchanger", "AI Optimization", "Generative Design", "Thermal Systems"]
+},
+{
+    "id": 9212,
+    "title": "Cryogenic Cooling for Quantum Computers",
+    "domain": "131",
+    "description": "Develop advanced cryogenic cooling solutions to stabilize superconducting qubits in quantum computers.",
+    "keywords": ["Cryogenics", "Quantum Computing", "Cooling Systems", "Superconductors"]
+},
+{
+    "id": 9213,
+    "title": "Nano-Encapsulated PCM for Buildings",
+    "domain": "131",
+    "description": "Design nano-encapsulated phase change materials for building walls to regulate indoor temperature passively.",
+    "keywords": ["Phase Change Materials", "Nanoencapsulation", "Buildings", "Thermal Regulation"]
+},
+{
+    "id": 9214,
+    "title": "AI-Powered Turbine Cooling",
+    "domain": "131",
+    "description": "Develop AI-controlled active cooling strategies for gas turbines to improve lifespan and performance.",
+    "keywords": ["Gas Turbines", "AI Cooling", "Active Cooling", "Thermal Management"]
+},
+{
+    "id": 9215,
+    "title": "Zero-Energy Cold Storage",
+    "domain": "131",
+    "description": "Create a cold storage system powered by renewable thermal energy sources without external electricity demand.",
+    "keywords": ["Cold Storage", "Renewable Energy", "Thermal Systems", "Energy Efficiency"]
+},
+{
+    "id": 9216,
+    "title": "Graphene-Enhanced Thermal Pads",
+    "domain": "131",
+    "description": "Engineer flexible graphene-based thermal pads for high-performance electronics and wearables.",
+    "keywords": ["Graphene", "Thermal Pads", "Wearables", "Electronics Cooling"]
+},
+{
+    "id": 9217,
+    "title": "Thermal Energy Blockchain Marketplace",
+    "domain": "131",
+    "description": "Develop a blockchain-enabled platform for trading stored thermal energy among distributed energy users.",
+    "keywords": ["Blockchain", "Thermal Energy", "Trading Platform", "Energy Systems"]
+},
+{
+    "id": 9218,
+    "title": "Cooling System for 5G Base Stations",
+    "domain": "131",
+    "description": "Design compact and energy-efficient cooling systems tailored for 5G base stations operating in hot climates.",
+    "keywords": ["5G", "Cooling Systems", "Telecom Infrastructure", "Thermal Management"]
+},
+{
+    "id": 9219,
+    "title": "Thermal-Responsive Textiles",
+    "domain": "131",
+    "description": "Create textiles that regulate body temperature using phase change fibers for comfort and energy savings.",
+    "keywords": ["Smart Textiles", "Phase Change", "Wearables", "Body Temperature"]
+},
+{
+    "id": 9220,
+    "title": "AI-Enhanced Thermal Drone Design",
+    "domain": "131",
+    "description": "Develop thermal drones equipped with AI for wildfire monitoring, industrial inspections, and energy audits.",
+    "keywords": ["Thermal Drones", "AI", "Wildfire Monitoring", "Energy Inspection"]
+},
+{
+    "id": 9221,
+    "title": "Waste Heat Recovery in Automobiles",
+    "domain": "131",
+    "description": "Create a compact heat recovery system for automobiles that converts exhaust heat into additional power.",
+    "keywords": ["Automobiles", "Waste Heat Recovery", "Energy Conversion", "Thermal Systems"]
+},
+{
+    "id": 9222,
+    "title": "Underwater Thermal Energy Harvesting",
+    "domain": "131",
+    "description": "Design systems to harvest temperature gradients in oceans for powering underwater devices and sensors.",
+    "keywords": ["Thermal Energy", "Ocean Systems", "Energy Harvesting", "Marine Technology"]
+},
+{
+    "id": 9223,
+    "title": "Thermal Imaging for Precision Agriculture",
+    "domain": "131",
+    "description": "Use AI-enabled thermal imaging to monitor soil moisture stress and optimize irrigation in farmlands.",
+    "keywords": ["Thermal Imaging", "Agriculture", "AI", "Irrigation Management"]
+},
+{
+    "id": 9224,
+    "title": "AI-Based Fire Prediction using Thermal Data",
+    "domain": "131",
+    "description": "Develop an AI model that analyzes thermal imagery to predict and prevent forest fire outbreaks.",
+    "keywords": ["AI Prediction", "Thermal Imaging", "Wildfire Prevention", "Disaster Management"]
+},
+{
+    "id": 9225,
+    "title": "Smart Refrigeration with IoT",
+    "domain": "131",
+    "description": "Design IoT-enabled smart refrigeration units that dynamically adjust cooling based on stored contents.",
+    "keywords": ["IoT", "Smart Refrigeration", "Cooling Systems", "Energy Optimization"]
+},
+{
+    "id": 9226,
+    "title": "3D Printed Thermal Lattices",
+    "domain": "131",
+    "description": "Engineer 3D printed lattice structures optimized for efficient heat dissipation in electronic devices.",
+    "keywords": ["3D Printing", "Thermal Lattices", "Electronics Cooling", "Heat Dissipation"]
+},
+{
+    "id": 9227,
+    "title": "Thermal AI Chip Design",
+    "domain": "131",
+    "description": "Develop an AI chip architecture optimized for low thermal output without reducing computational performance.",
+    "keywords": ["AI Chips", "Low Thermal Design", "Semiconductors", "Cooling Systems"]
+},
+{
+    "id": 9228,
+    "title": "Floating Solar Thermal Plants",
+    "domain": "131",
+    "description": "Design floating solar thermal energy plants for efficient energy generation and water body management.",
+    "keywords": ["Floating Solar", "Thermal Energy", "Renewable Energy", "Water Management"]
+},
+{
+    "id": 9229,
+    "title": "AI-Powered Heat Stress Monitoring",
+    "domain": "131",
+    "description": "Develop wearable AI devices to monitor worker heat stress and prevent health risks in extreme environments.",
+    "keywords": ["Wearables", "Heat Stress", "AI", "Worker Safety"]
+},
+{
+    "id": 9230,
+    "title": "Thermal Regulation in Smart Prosthetics",
+    "domain": "131",
+    "description": "Create prosthetics with built-in thermal regulation systems to improve comfort and durability.",
+    "keywords": ["Smart Prosthetics", "Thermal Regulation", "Wearables", "Healthcare Technology"]
+},
+{
+    "id": 9231,
+    "title": "Thermal AI in Electric Aviation",
+    "domain": "131",
+    "description": "Design AI-powered cooling systems for electric aircraft to handle high energy demands and heat loads.",
+    "keywords": ["Electric Aviation", "Thermal AI", "Cooling Systems", "Aerospace"]
+},
+{
+    "id": 9232,
+    "title": "Hybrid PCM-Electric Cooling Jackets",
+    "domain": "131",
+    "description": "Develop cooling jackets using hybrid phase change and electric cooling systems for industrial workers.",
+    "keywords": ["Cooling Jackets", "Phase Change Materials", "Hybrid Cooling", "Industrial Safety"]
+},
+{
+    "id": 9233,
+    "title": "Smart Food Packaging with Thermal Indicators",
+    "domain": "131",
+    "description": "Design thermal indicator-enabled packaging that changes color when food experiences unsafe temperatures.",
+    "keywords": ["Smart Packaging", "Thermal Indicators", "Food Safety", "Sensors"]
+},
+{
+    "id": 9234,
+    "title": "AI-Powered District Heating Optimization",
+    "domain": "131",
+    "description": "Use AI to optimize energy flow in district heating networks for improved efficiency and reduced costs.",
+    "keywords": ["District Heating", "AI Optimization", "Thermal Networks", "Energy Systems"]
+},
+{
+    "id": 9235,
+    "title": "Geothermal Heat Exchange Systems",
+    "domain": "131",
+    "description": "Design compact geothermal heat exchange systems for buildings to reduce HVAC energy consumption.",
+    "keywords": ["Geothermal", "Heat Exchange", "Buildings", "HVAC"]
+},
+{
+    "id": 9236,
+    "title": "Smart Thermal Control in EV Charging Stations",
+    "domain": "131",
+    "description": "Develop intelligent cooling systems for high-power EV chargers to prevent overheating and ensure safety.",
+    "keywords": ["EV Chargers", "Thermal Management", "Smart Cooling", "Energy Systems"]
+},
+{
+    "id": 9237,
+    "title": "AI-Powered Heat Leak Detection",
+    "domain": "131",
+    "description": "Create an AI system that uses thermal imaging to detect heat leaks in industrial pipelines and equipment.",
+    "keywords": ["Heat Leak Detection", "AI", "Thermal Imaging", "Industrial Systems"]
+},
+{
+    "id": 9238,
+    "title": "Compact Cooling for Medical Implants",
+    "domain": "131",
+    "description": "Design ultra-small thermal regulation systems for active medical implants to ensure safe operation.",
+    "keywords": ["Medical Implants", "Cooling Systems", "Miniaturization", "Healthcare"]
+},
+{
+    "id": 9239,
+    "title": "AI-Driven Thermal Comfort Systems",
+    "domain": "131",
+    "description": "Develop adaptive thermal comfort systems that adjust air flow and heating in smart homes using AI.",
+    "keywords": ["AI", "Smart Homes", "Thermal Comfort", "HVAC"]
+},
+{
+    "id": 9240,
+    "title": "Thermal Supercapacitors",
+    "domain": "131",
+    "description": "Engineer hybrid thermal supercapacitors that integrate heat storage with high-power electrical storage.",
+    "keywords": ["Supercapacitors", "Thermal Energy", "Hybrid Storage", "Energy Systems"]
+},
+{
+    "id": 9241,
+    "title": "AI in Thermal Fluid Flow Optimization",
+    "domain": "131",
+    "description": "Apply AI to optimize thermal fluid flow in large-scale heating and cooling industrial processes.",
+    "keywords": ["AI Optimization", "Thermal Fluids", "Industrial Systems", "Heat Transfer"]
+},
+{
+    "id": 9242,
+    "title": "Smart Thermal Control for Space Habitats",
+    "domain": "131",
+    "description": "Develop smart thermal control systems for long-term space habitats to maintain livable conditions.",
+    "keywords": ["Space Habitats", "Thermal Control", "Smart Systems", "Space Exploration"]
+},
+{
+    "id": 9243,
+    "title": "Waste Heat Utilization in Greenhouses",
+    "domain": "131",
+    "description": "Create systems that use industrial waste heat to maintain greenhouse temperatures year-round.",
+    "keywords": ["Greenhouses", "Waste Heat", "Agriculture", "Energy Efficiency"]
+},
+{
+    "id": 9244,
+    "title": "Self-Powered Thermal Sensors",
+    "domain": "131",
+    "description": "Design self-powered thermal sensors that harvest energy from heat gradients for continuous operation.",
+    "keywords": ["Thermal Sensors", "Energy Harvesting", "Self-Powered", "IoT"]
+},
+{
+    "id": 9245,
+    "title": "Thermal Energy Desalination System",
+    "domain": "131",
+    "description": "Develop a desalination system powered by thermal energy to provide clean water in off-grid regions.",
+    "keywords": ["Desalination", "Thermal Energy", "Clean Water", "Sustainability"]
+},
+{
+    "id": 9246,
+    "title": "AI-Powered Thermal Supply Chain Monitoring",
+    "domain": "131",
+    "description": "Implement AI-enabled thermal monitoring in supply chains to ensure sensitive goods maintain safe conditions.",
+    "keywords": ["Supply Chain", "Thermal Monitoring", "AI", "Cold Storage"]
+},
+//domain 132
 
 
 
