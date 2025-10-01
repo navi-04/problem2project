@@ -69394,8 +69394,246 @@ const PROBLEMS_DATA = {
 },
 //domain 137
 
+{
+    "id": 9532,
+    "title": "Smart Valve for Adaptive Flow Regulation",
+    "domain": "137",
+    "description": "Design a smart control valve capable of dynamically adjusting flow rates based on real-time process data.",
+    "keywords": ["Control Valves", "Actuators", "Fluid Dynamics", "Flow Control"]
+},
+{
+    "id": 9533,
+    "title": "Self-Cleaning Industrial Valve System",
+    "domain": "137",
+    "description": "Develop a valve system with an automated self-cleaning mechanism to prevent clogging in industrial pipelines.",
+    "keywords": ["Control Valves", "Piping Systems", "Maintenance", "Flow Control"]
+},
+{
+    "id": 9534,
+    "title": "IoT-Enabled Pressure Regulator",
+    "domain": "137",
+    "description": "Create a pressure regulator with IoT connectivity for remote monitoring and adjustment of fluid systems.",
+    "keywords": ["Regulators", "Pressure Control", "Process Instrumentation", "Flow Control"]
+},
+{
+    "id": 9535,
+    "title": "Miniaturized Micro-Valves for Lab-on-Chip Systems",
+    "domain": "137",
+    "description": "Design compact micro-valves for precise fluid control in microfluidic devices.",
+    "keywords": ["Control Valves", "Microfluidics", "Actuators", "Flow Control"]
+},
+{
+    "id": 9536,
+    "title": "Valve System for High-Temperature Fluid Applications",
+    "domain": "137",
+    "description": "Develop valves capable of withstanding extreme temperatures while maintaining precise flow regulation.",
+    "keywords": ["Control Valves", "Piping Systems", "High-Temperature", "Flow Control"]
+},
+{
+    "id": 9537,
+    "title": "Energy-Efficient Flow Control Valve",
+    "domain": "137",
+    "description": "Design a valve system that reduces energy consumption in industrial fluid handling processes.",
+    "keywords": ["Control Valves", "Actuators", "Energy Efficiency", "Flow Control"]
+},
+{
+    "id": 9538,
+    "title": "Digital Twin Valve for Predictive Maintenance",
+    "domain": "137",
+    "description": "Develop a valve with a digital twin for predictive maintenance and performance optimization.",
+    "keywords": ["Control Valves", "Process Instrumentation", "Predictive Maintenance", "Flow Control"]
+},
+{
+    "id": 9539,
+    "title": "Hydraulic Valve for High-Precision Machinery",
+    "domain": "137",
+    "description": "Design a hydraulic valve system for precise motion control in industrial machinery.",
+    "keywords": ["Hydraulic Valves", "Fluid Dynamics", "Actuators", "Flow Control"]
+},
+{
+    "id": 9540,
+    "title": "Pneumatic Valve System for Automated Manufacturing",
+    "domain": "137",
+    "description": "Create a pneumatic valve network to optimize airflow in automated manufacturing lines.",
+    "keywords": ["Pneumatic Valves", "Control Valves", "Automation", "Flow Control"]
+},
+{
+    "id": 9541,
+    "title": "Anti-Corrosion Valve Coating for Industrial Fluids",
+    "domain": "137",
+    "description": "Develop a corrosion-resistant coating for valves handling aggressive industrial fluids.",
+    "keywords": ["Control Valves", "Protective Coatings", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9542,
+    "title": "Smart Solenoid Valve for Water Conservation",
+    "domain": "137",
+    "description": "Design a solenoid valve with automatic control to optimize water usage in irrigation systems.",
+    "keywords": ["Solenoid Valves", "Actuators", "Water Conservation", "Flow Control"]
+},
+{
+    "id": 9543,
+    "title": "Valve System for Multi-Phase Fluid Separation",
+    "domain": "137",
+    "description": "Develop a valve network to manage and separate multi-phase fluids in chemical processes.",
+    "keywords": ["Control Valves", "Fluid Dynamics", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9544,
+    "title": "Self-Adaptive Flow Valve Using AI",
+    "domain": "137",
+    "description": "Design a valve that uses AI algorithms to adapt flow rates to changing process conditions.",
+    "keywords": ["Control Valves", "Artificial Intelligence", "Actuators", "Flow Control"]
+},
+{
+    "id": 9545,
+    "title": "Compact High-Pressure Regulator",
+    "domain": "137",
+    "description": "Develop a small footprint high-pressure regulator for industrial applications.",
+    "keywords": ["Regulators", "High Pressure", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9546,
+    "title": "Valve System for Cryogenic Fluids",
+    "domain": "137",
+    "description": "Design valves capable of safe and efficient handling of cryogenic liquids.",
+    "keywords": ["Control Valves", "Cryogenics", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9547,
+    "title": "Wireless Sensor Integrated Flow Valve",
+    "domain": "137",
+    "description": "Create a valve system with embedded wireless sensors for real-time flow monitoring.",
+    "keywords": ["Control Valves", "Sensors", "Process Instrumentation", "Flow Control"]
+},
+{
+    "id": 9548,
+    "title": "Valve for Corrosive Gas Handling",
+    "domain": "137",
+    "description": "Develop a valve resistant to highly corrosive gases for chemical plants.",
+    "keywords": ["Control Valves", "Piping Systems", "Corrosion Resistance", "Flow Control"]
+},
+{
+    "id": 9549,
+    "title": "Fast-Response Valve for Emergency Shutoff",
+    "domain": "137",
+    "description": "Design a valve system with rapid actuation to shut off fluid flow during emergencies.",
+    "keywords": ["Control Valves", "Actuators", "Emergency Safety", "Flow Control"]
+},
+{
+    "id": 9550,
+    "title": "Modular Valve System for Industrial Flexibility",
+    "domain": "137",
+    "description": "Develop a modular valve design for easy reconfiguration in complex piping networks.",
+    "keywords": ["Control Valves", "Piping Systems", "Modular Design", "Flow Control"]
+},
+{
+    "id": 9551,
+    "title": "Valve System for Bioreactor Flow Optimization",
+    "domain": "137",
+    "description": "Design valves to precisely control nutrient and gas flow in bioreactors for enhanced productivity.",
+    "keywords": ["Control Valves", "Fluid Dynamics", "Bioreactors", "Flow Control"]
+},
+{
+    "id": 9552,
+    "title": "Energy Harvesting Flow Valve",
+    "domain": "137",
+    "description": "Develop a valve capable of generating electricity from fluid flow in pipelines.",
+    "keywords": ["Control Valves", "Energy Harvesting", "Fluid Dynamics", "Flow Control"]
+},
+{
+    "id": 9553,
+    "title": "Valve System for Non-Newtonian Fluids",
+    "domain": "137",
+    "description": "Design valves optimized for controlling flow of non-Newtonian fluids like slurries and gels.",
+    "keywords": ["Control Valves", "Fluid Dynamics", "Non-Newtonian Fluids", "Flow Control"]
+},
+{
+    "id": 9554,
+    "title": "3D-Printed Valve for Custom Piping Networks",
+    "domain": "137",
+    "description": "Create a customizable 3D-printed valve system for specialized industrial piping needs.",
+    "keywords": ["Control Valves", "3D Printing", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9555,
+    "title": "Valve System for Microreactors",
+    "domain": "137",
+    "description": "Design micro-scale valves for precise flow management in microreactor systems.",
+    "keywords": ["Control Valves", "Microreactors", "Actuators", "Flow Control"]
+},
+{
+    "id": 9556,
+    "title": "Self-Lubricating Valve System",
+    "domain": "137",
+    "description": "Develop valves with a self-lubricating mechanism to reduce maintenance in industrial systems.",
+    "keywords": ["Control Valves", "Maintenance", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9557,
+    "title": "Valve System for High-Speed Fluid Switching",
+    "domain": "137",
+    "description": "Design valves capable of switching fluid streams rapidly without causing pressure shocks.",
+    "keywords": ["Control Valves", "Actuators", "Fluid Dynamics", "Flow Control"]
+},
+{
+    "id": 9558,
+    "title": "Anti-Fouling Valve for Slurry Pipelines",
+    "domain": "137",
+    "description": "Develop a valve resistant to fouling and blockage in slurry and particle-laden pipelines.",
+    "keywords": ["Control Valves", "Fluid Dynamics", "Anti-Fouling", "Flow Control"]
+},
+{
+    "id": 9559,
+    "title": "Valve with Integrated Flow Meter",
+    "domain": "137",
+    "description": "Design a valve system that integrates flow measurement for real-time monitoring and control.",
+    "keywords": ["Control Valves", "Flow Measurement", "Process Instrumentation", "Flow Control"]
+},
+{
+    "id": 9560,
+    "title": "High-Precision Solenoid Valve for Gas Chromatography",
+    "domain": "137",
+    "description": "Develop a solenoid valve for highly precise gas flow control in analytical instruments.",
+    "keywords": ["Solenoid Valves", "Actuators", "Gas Chromatography", "Flow Control"]
+},
+{
+    "id": 9561,
+    "title": "Valve System for Safe Handling of Toxic Fluids",
+    "domain": "137",
+    "description": "Design valves with safety features to prevent leaks and ensure controlled handling of toxic fluids.",
+    "keywords": ["Control Valves", "Safety", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9562,
+    "title": "Valve Network Optimization Using AI",
+    "domain": "137",
+    "description": "Create an AI-driven approach to optimize valve network configuration for efficiency and stability.",
+    "keywords": ["Control Valves", "Artificial Intelligence", "Network Optimization", "Flow Control"]
+},
+{
+    "id": 9563,
+    "title": "Temperature-Resistant Valve for Steam Systems",
+    "domain": "137",
+    "description": "Develop valves capable of operating under high-temperature steam conditions without failure.",
+    "keywords": ["Control Valves", "High Temperature", "Steam Systems", "Flow Control"]
+},
+{
+    "id": 9564,
+    "title": "Valve System for Multi-Fluid Mixing Applications",
+    "domain": "137",
+    "description": "Design a valve setup that allows precise mixing of multiple fluids in industrial processes.",
+    "keywords": ["Control Valves", "Fluid Mixing", "Piping Systems", "Flow Control"]
+},
+{
+    "id": 9565,
+    "title": "Adaptive Valve for Energy-Efficient HVAC Systems",
+    "domain": "137",
+    "description": "Create a smart valve that adjusts airflow in HVAC systems to optimize energy efficiency.",
+    "keywords": ["Control Valves", "Actuators", "Energy Efficiency", "Flow Control"]
+},
 
-
+//domain 138
 
 
 
