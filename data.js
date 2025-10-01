@@ -70009,6 +70009,280 @@ const PROBLEMS_DATA = {
 
 //domain 139
 
+{
+    "id": 9619,
+    "title": "High-Efficiency Solar Inverter Design",
+    "domain": "139",
+    "description": "Develop an inverter with improved efficiency for converting DC from solar panels to AC power with minimal loss.",
+    "keywords": ["Inverters", "Solar Energy", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9620,
+    "title": "Smart Grid Stability Using FACTS Devices",
+    "domain": "139",
+    "description": "Implement Flexible AC Transmission Systems (FACTS) to maintain grid stability during fluctuating loads.",
+    "keywords": ["FACTS", "Smart Grid", "Power Electronics", "Grid Stability"]
+},
+{
+    "id": 9621,
+    "title": "Microgrid Power Management System",
+    "domain": "139",
+    "description": "Design a microgrid controller to optimize energy flow between distributed generation and storage units.",
+    "keywords": ["Microgrids", "Power Electronics", "Energy Management", "Grid Systems"]
+},
+{
+    "id": 9622,
+    "title": "Bidirectional EV Charger for Grid Support",
+    "domain": "139",
+    "description": "Develop a bidirectional EV charger to allow vehicles to supply energy back to the grid during peak demand.",
+    "keywords": ["Electric Vehicles", "Bidirectional Charging", "Smart Grid", "Power Electronics"]
+},
+{
+    "id": 9623,
+    "title": "High-Frequency Transformer for DC-DC Converters",
+    "domain": "139",
+    "description": "Design a high-frequency transformer to improve efficiency and reduce size in DC-DC converters.",
+    "keywords": ["Transformers", "DC-DC Converters", "Power Electronics", "Energy Systems"]
+},
+{
+    "id": 9624,
+    "title": "Grid-Tied Battery Inverter with AI Control",
+    "domain": "139",
+    "description": "Implement AI-controlled grid-tied inverters for optimized energy storage and dispatch.",
+    "keywords": ["AI", "Inverters", "Grid Storage", "Power Electronics"]
+},
+{
+    "id": 9625,
+    "title": "HVDC Transmission System Optimization",
+    "domain": "139",
+    "description": "Design control strategies to improve efficiency and reduce losses in high-voltage DC transmission systems.",
+    "keywords": ["HVDC", "Transmission", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9626,
+    "title": "Smart Transformer for Real-Time Load Balancing",
+    "domain": "139",
+    "description": "Develop a transformer with real-time monitoring and automatic load balancing for urban grids.",
+    "keywords": ["Transformers", "Smart Grid", "Load Balancing", "Power Electronics"]
+},
+{
+    "id": 9627,
+    "title": "Solid-State Circuit Breaker for High-Voltage Grids",
+    "domain": "139",
+    "description": "Design a solid-state circuit breaker to protect high-voltage lines with faster response times.",
+    "keywords": ["Circuit Breakers", "Solid-State", "Grid Protection", "Power Electronics"]
+},
+{
+    "id": 9628,
+    "title": "Renewable Energy Integration Using Multilevel Inverters",
+    "domain": "139",
+    "description": "Use multilevel inverters to integrate solar and wind energy into the grid with reduced harmonics.",
+    "keywords": ["Multilevel Inverters", "Renewable Energy", "Grid Integration", "Power Electronics"]
+},
+{
+    "id": 9629,
+    "title": "Dynamic Voltage Restorer for Industrial Loads",
+    "domain": "139",
+    "description": "Develop a dynamic voltage restorer to protect sensitive industrial loads from voltage sags and swells.",
+    "keywords": ["Voltage Restoration", "Industrial Loads", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9630,
+    "title": "Power Factor Correction for Smart Homes",
+    "domain": "139",
+    "description": "Implement adaptive power factor correction systems to reduce reactive power in residential grids.",
+    "keywords": ["Power Factor", "Smart Homes", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9631,
+    "title": "Microgrid Controller for Hybrid Renewable Systems",
+    "domain": "139",
+    "description": "Design a microgrid controller to optimize energy flow from solar, wind, and storage units in hybrid systems.",
+    "keywords": ["Microgrids", "Hybrid Renewable Energy", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9632,
+    "title": "AI-Based Load Forecasting for Smart Grids",
+    "domain": "139",
+    "description": "Develop AI algorithms to predict load patterns and optimize energy dispatch in smart grids.",
+    "keywords": ["Artificial Intelligence", "Load Forecasting", "Smart Grid", "Power Electronics"]
+},
+{
+    "id": 9633,
+    "title": "High-Efficiency Three-Phase Inverter Design",
+    "domain": "139",
+    "description": "Design a three-phase inverter with minimal losses for industrial and renewable applications.",
+    "keywords": ["Three-Phase Inverter", "Power Electronics", "Grid Systems", "Efficiency"]
+},
+{
+    "id": 9634,
+    "title": "Battery-to-Grid Interface with Real-Time Control",
+    "domain": "139",
+    "description": "Develop a power electronics interface to enable seamless bidirectional energy flow between batteries and grid.",
+    "keywords": ["Battery-to-Grid", "Power Electronics", "Smart Grid", "Energy Storage"]
+},
+{
+    "id": 9635,
+    "title": "Fault-Tolerant Grid Converter Design",
+    "domain": "139",
+    "description": "Create converters that maintain grid stability during line faults or sudden load changes.",
+    "keywords": ["Converters", "Fault Tolerance", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9636,
+    "title": "Hybrid AC-DC Microgrid Inverter",
+    "domain": "139",
+    "description": "Design an inverter capable of managing both AC and DC loads in hybrid microgrid systems.",
+    "keywords": ["Microgrids", "AC-DC Inverter", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9637,
+    "title": "EV Fast Charger with Grid Interaction",
+    "domain": "139",
+    "description": "Develop a fast-charging system for electric vehicles with intelligent grid load management.",
+    "keywords": ["EV Charging", "Fast Charging", "Grid Interaction", "Power Electronics"]
+},
+{
+    "id": 9638,
+    "title": "High-Frequency DC-AC Converter for Wind Turbines",
+    "domain": "139",
+    "description": "Design a high-frequency converter for efficient energy conversion in wind turbine systems.",
+    "keywords": ["DC-AC Converter", "Wind Turbines", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9639,
+    "title": "Energy Storage Integration with Smart Inverters",
+    "domain": "139",
+    "description": "Integrate battery storage systems with smart inverters to enhance grid stability and renewable utilization.",
+    "keywords": ["Energy Storage", "Smart Inverters", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9640,
+    "title": "Wireless Control of Distributed Power Electronics",
+    "domain": "139",
+    "description": "Implement wireless control and monitoring of distributed power electronic devices in smart grids.",
+    "keywords": ["Wireless Control", "Distributed Systems", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9641,
+    "title": "Grid-Connected Multilevel Converter for Wind Farms",
+    "domain": "139",
+    "description": "Design a multilevel converter to improve power quality and efficiency in wind farm integration.",
+    "keywords": ["Multilevel Converter", "Wind Farms", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9642,
+    "title": "High-Power Bi-Directional Converter for EVs",
+    "domain": "139",
+    "description": "Develop a bi-directional converter for electric vehicles to enable both charging and vehicle-to-grid energy flow.",
+    "keywords": ["EVs", "Bi-Directional Converter", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9643,
+    "title": "Real-Time Harmonic Mitigation Using Power Electronics",
+    "domain": "139",
+    "description": "Design active power electronic devices to reduce harmonic distortion in industrial and renewable grids.",
+    "keywords": ["Harmonics", "Power Electronics", "Grid Systems", "Active Mitigation"]
+},
+{
+    "id": 9644,
+    "title": "Smart Transformer with Energy Flow Control",
+    "domain": "139",
+    "description": "Develop a transformer capable of intelligent energy routing and flow control for urban distribution networks.",
+    "keywords": ["Smart Transformer", "Energy Flow", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9645,
+    "title": "Dynamic Reactive Power Compensation System",
+    "domain": "139",
+    "description": "Design a system to dynamically inject reactive power for voltage regulation in power distribution grids.",
+    "keywords": ["Reactive Power", "Voltage Regulation", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9646,
+    "title": "AI-Enhanced Fault Detection in Power Converters",
+    "domain": "139",
+    "description": "Use AI algorithms to detect and predict faults in power converters for grid applications.",
+    "keywords": ["Artificial Intelligence", "Fault Detection", "Power Converters", "Grid Systems"]
+},
+{
+    "id": 9647,
+    "title": "Modular Grid-Tied Inverter for Rooftop PV",
+    "domain": "139",
+    "description": "Design a modular inverter system for rooftop solar PV installations to improve scalability and maintenance.",
+    "keywords": ["Modular Inverter", "Rooftop PV", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9648,
+    "title": "High-Reliability Converter for Offshore Wind Farms",
+    "domain": "139",
+    "description": "Develop a robust and efficient power converter for offshore wind farm applications.",
+    "keywords": ["Converters", "Offshore Wind", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9649,
+    "title": "Energy Management for Islanded Microgrids",
+    "domain": "139",
+    "description": "Implement a control system to manage distributed generation and storage in isolated microgrids.",
+    "keywords": ["Islanded Microgrid", "Energy Management", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9650,
+    "title": "Integration of Supercapacitors for Grid Stability",
+    "domain": "139",
+    "description": "Use supercapacitors in conjunction with grid inverters to improve transient response and stability.",
+    "keywords": ["Supercapacitors", "Grid Stability", "Power Electronics", "Energy Storage"]
+},
+{
+    "id": 9651,
+    "title": "Advanced Power Semiconductor Devices for HVDC",
+    "domain": "139",
+    "description": "Design and implement high-performance semiconductor devices to improve HVDC transmission efficiency.",
+    "keywords": ["Power Semiconductors", "HVDC", "Grid Systems", "Power Electronics"]
+},
+{
+    "id": 9652,
+    "title": "Grid-Interactive DC Microgrid Converter",
+    "domain": "139",
+    "description": "Develop a DC-DC converter for microgrids that can interact with the main AC grid efficiently.",
+    "keywords": ["DC Microgrid", "Power Electronics", "Grid Interaction", "Converters"]
+},
+{
+    "id": 9653,
+    "title": "Intelligent Load Shedding for Renewable-Heavy Grids",
+    "domain": "139",
+    "description": "Create an AI-based system to prioritize loads during peak demand in grids with high renewable penetration.",
+    "keywords": ["Load Shedding", "AI", "Renewable Energy", "Power Electronics"]
+},
+{
+    "id": 9654,
+    "title": "Real-Time Energy Flow Visualization System",
+    "domain": "139",
+    "description": "Develop a visualization tool for real-time monitoring of energy flow in smart grid systems.",
+    "keywords": ["Visualization", "Smart Grid", "Power Electronics", "Energy Management"]
+},
+{
+    "id": 9655,
+    "title": "Grid-Tied Converter with Fault Ride-Through Capability",
+    "domain": "139",
+    "description": "Design a converter that can maintain operation and stability during grid voltage faults.",
+    "keywords": ["Converters", "Fault Ride-Through", "Power Electronics", "Grid Systems"]
+},
+{
+    "id": 9656,
+    "title": "High-Fidelity Simulation for Power Electronics in Smart Grids",
+    "domain": "139",
+    "description": "Develop a simulation framework for accurate modeling of power electronic devices and grid interactions.",
+    "keywords": ["Simulation", "Power Electronics", "Smart Grid", "Modeling"]
+},
+{
+    "id": 9657,
+    "title": "AI-Based Voltage Regulation for Distributed Grids",
+    "domain": "139",
+    "description": "Implement AI algorithms to dynamically regulate voltage across distributed power networks.",
+    "keywords": ["AI", "Voltage Regulation", "Distributed Grid", "Power Electronics"]
+},
+
 
 
 
