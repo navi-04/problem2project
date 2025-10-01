@@ -67448,7 +67448,433 @@ const PROBLEMS_DATA = {
     "keywords": ["Supply Chain", "Thermal Monitoring", "AI", "Cold Storage"]
 },
 //domain 132
-
+{
+    "id": 9247,
+    "title": "AI-Based Hydraulic Pump Optimization",
+    "domain": "132",
+    "description": "Develop an AI system to optimize hydraulic pump performance, reducing energy consumption and improving efficiency.",
+    "keywords": ["Hydraulic Pumps", "AI Optimization", "Energy Efficiency", "Fluid Power"]
+},
+{
+    "id": 9248,
+    "title": "Smart Pneumatic Actuator Control",
+    "domain": "132",
+    "description": "Design IoT-enabled pneumatic actuators with adaptive control for industrial automation applications.",
+    "keywords": ["Pneumatic Actuators", "IoT", "Automation", "Control Systems"]
+},
+{
+    "id": 9249,
+    "title": "Self-Lubricating Hydraulic Valves",
+    "domain": "132",
+    "description": "Develop self-lubricating valves for hydraulic systems to reduce wear and maintenance requirements.",
+    "keywords": ["Hydraulic Valves", "Self-Lubricating", "Maintenance Reduction", "Fluid Mechanics"]
+},
+{
+    "id": 9250,
+    "title": "Hydraulic System Fault Detection Using AI",
+    "domain": "132",
+    "description": "Implement an AI-based diagnostic system to detect faults in hydraulic systems in real-time.",
+    "keywords": ["Hydraulic Systems", "Fault Detection", "AI", "Diagnostics"]
+},
+{
+    "id": 9251,
+    "title": "Energy Recovery in Hydraulic Presses",
+    "domain": "132",
+    "description": "Design a regenerative hydraulic system to capture and reuse energy from press operations.",
+    "keywords": ["Hydraulic Press", "Energy Recovery", "Regenerative Systems", "Efficiency"]
+},
+{
+    "id": 9252,
+    "title": "Compact Pneumatic Cooling System",
+    "domain": "132",
+    "description": "Create a compact pneumatic system for cooling electronic equipment using compressed air.",
+    "keywords": ["Pneumatics", "Cooling Systems", "Compressed Air", "Electronics"]
+},
+{
+    "id": 9253,
+    "title": "Smart Hydraulic Suspension for Vehicles",
+    "domain": "132",
+    "description": "Design an adaptive hydraulic suspension system that adjusts damping in real-time for ride comfort.",
+    "keywords": ["Hydraulic Suspension", "Adaptive Systems", "Vehicle Dynamics", "Smart Control"]
+},
+{
+    "id": 9254,
+    "title": "IoT-Enabled Hydraulic Pressure Monitoring",
+    "domain": "132",
+    "description": "Develop sensors and IoT systems to monitor hydraulic pressure and prevent system failures.",
+    "keywords": ["Hydraulic Pressure", "IoT Monitoring", "Sensors", "Safety"]
+},
+{
+    "id": 9255,
+    "title": "Pneumatic Robotic Arm for Precision Tasks",
+    "domain": "132",
+    "description": "Build a pneumatic-powered robotic arm capable of precise movement and force control for industrial use.",
+    "keywords": ["Pneumatic Robotics", "Robotic Arm", "Precision Control", "Automation"]
+},
+{
+    "id": 9256,
+    "title": "Hydraulic Fluid Leak Detection System",
+    "domain": "132",
+    "description": "Create a real-time leak detection system for hydraulic circuits to prevent accidents and fluid loss.",
+    "keywords": ["Hydraulic Leak Detection", "Safety", "Fluid Systems", "Monitoring"]
+},
+{
+    "id": 9257,
+    "title": "Eco-Friendly Hydraulic Fluids",
+    "domain": "132",
+    "description": "Develop biodegradable hydraulic fluids that maintain performance while reducing environmental impact.",
+    "keywords": ["Hydraulic Fluids", "Eco-Friendly", "Biodegradable", "Sustainability"]
+},
+{
+    "id": 9258,
+    "title": "AI-Optimized Pneumatic Conveyor Systems",
+    "domain": "132",
+    "description": "Implement AI to optimize pneumatic conveyor systems for efficiency and reduced energy consumption.",
+    "keywords": ["Pneumatic Conveyor", "AI Optimization", "Energy Efficiency", "Automation"]
+},
+{
+    "id": 9259,
+    "title": "Hydraulic Vibration Control System",
+    "domain": "132",
+    "description": "Design a hydraulic system that dampens vibrations in industrial machinery to improve stability and precision.",
+    "keywords": ["Vibration Control", "Hydraulics", "Industrial Machinery", "Damping Systems"]
+},
+{
+    "id": 9260,
+    "title": "Rapid-Response Pneumatic Valves",
+    "domain": "132",
+    "description": "Develop high-speed pneumatic valves for automated systems requiring quick actuation.",
+    "keywords": ["Pneumatic Valves", "High-Speed", "Automation", "Control Systems"]
+},
+{
+    "id": 9261,
+    "title": "Hydraulic Energy Harvesting from Brakes",
+    "domain": "132",
+    "description": "Design a system to capture energy from hydraulic brakes in vehicles and convert it to usable power.",
+    "keywords": ["Hydraulic Brakes", "Energy Harvesting", "Vehicles", "Efficiency"]
+},
+{
+    "id": 9262,
+    "title": "Adaptive Pneumatic Grippers",
+    "domain": "132",
+    "description": "Create pneumatic grippers capable of adjusting grip strength based on object type and size.",
+    "keywords": ["Pneumatic Grippers", "Adaptive Control", "Robotics", "Automation"]
+},
+{
+    "id": 9263,
+    "title": "Smart Hydraulic Lift Systems",
+    "domain": "132",
+    "description": "Develop hydraulic lift systems with IoT and AI integration for predictive maintenance and safety.",
+    "keywords": ["Hydraulic Lifts", "Smart Systems", "IoT", "Predictive Maintenance"]
+},
+{
+    "id": 9264,
+    "title": "Hydraulic Circuit Simulation Software",
+    "domain": "132",
+    "description": "Create software that simulates complex hydraulic circuits for training and design optimization.",
+    "keywords": ["Hydraulic Circuits", "Simulation Software", "Training", "Design Optimization"]
+},
+{
+    "id": 9265,
+    "title": "Pneumatic Energy Storage System",
+    "domain": "132",
+    "description": "Design a system that stores energy using compressed air for intermittent industrial processes.",
+    "keywords": ["Pneumatic Energy", "Compressed Air", "Energy Storage", "Industrial Systems"]
+},
+{
+    "id": 9266,
+    "title": "Hydraulic Actuator with Variable Stiffness",
+    "domain": "132",
+    "description": "Develop a hydraulic actuator whose stiffness can be dynamically controlled for flexible applications.",
+    "keywords": ["Hydraulic Actuator", "Variable Stiffness", "Control Systems", "Automation"]
+},
+{
+    "id": 9267,
+    "title": "AI-Powered Hydraulic System Diagnostics",
+    "domain": "132",
+    "description": "Implement AI diagnostics to detect inefficiencies, leaks, and faults in complex hydraulic networks.",
+    "keywords": ["Hydraulic Systems", "AI Diagnostics", "Fault Detection", "Efficiency"]
+},
+{
+    "id": 9268,
+    "title": "Low-Noise Pneumatic Actuators",
+    "domain": "132",
+    "description": "Design pneumatic actuators optimized to minimize operational noise in sensitive environments.",
+    "keywords": ["Pneumatic Actuators", "Low-Noise", "Industrial Applications", "Automation"]
+},
+{
+    "id": 9269,
+    "title": "Hydraulic System Thermal Management",
+    "domain": "132",
+    "description": "Develop techniques to manage heat generation in hydraulic systems to improve reliability and lifespan.",
+    "keywords": ["Hydraulic Systems", "Thermal Management", "Reliability", "Fluid Mechanics"]
+},
+{
+    "id": 9270,
+    "title": "Pneumatic Sorting System for Manufacturing",
+    "domain": "132",
+    "description": "Design an automated pneumatic sorting system for high-speed industrial manufacturing processes.",
+    "keywords": ["Pneumatic Sorting", "Automation", "Industrial Manufacturing", "Control Systems"]
+},
+{
+    "id": 9271,
+    "title": "Hydraulic Robot for Hazardous Environments",
+    "domain": "132",
+    "description": "Create a hydraulic-powered robot capable of performing tasks in high-temperature or toxic environments.",
+    "keywords": ["Hydraulic Robotics", "Hazardous Environments", "Industrial Safety", "Automation"]
+},
+{
+    "id": 9272,
+    "title": "Self-Adaptive Pneumatic Suspension",
+    "domain": "132",
+    "description": "Develop a pneumatic suspension system that adapts to road conditions in real-time for vehicles.",
+    "keywords": ["Pneumatic Suspension", "Adaptive Systems", "Vehicle Dynamics", "Control"]
+},
+{
+    "id": 9273,
+    "title": "Hydraulic System Noise Prediction",
+    "domain": "132",
+    "description": "Implement AI to predict and reduce noise generated in complex hydraulic circuits.",
+    "keywords": ["Hydraulic Noise", "AI Prediction", "Fluid Systems", "Industrial Machinery"]
+},
+{
+    "id": 9274,
+    "title": "Pneumatic Assisted Exoskeleton",
+    "domain": "132",
+    "description": "Design a pneumatic exoskeleton to assist workers in lifting heavy loads safely.",
+    "keywords": ["Pneumatic Exoskeleton", "Industrial Assistance", "Safety", "Automation"]
+},
+{
+    "id": 9275,
+    "title": "Hydraulic Pressure Surge Protection",
+    "domain": "132",
+    "description": "Develop devices to protect hydraulic systems from pressure surges and cavitation damage.",
+    "keywords": ["Hydraulic Pressure", "Surge Protection", "Cavitation", "Safety Systems"]
+},
+{
+    "id": 9276,
+    "title": "Pneumatic Micro-Manipulator",
+    "domain": "132",
+    "description": "Create a precision pneumatic micro-manipulator for medical or laboratory applications.",
+    "keywords": ["Pneumatic Manipulator", "Precision", "Medical Applications", "Micro Devices"]
+},
+{
+    "id": 9277,
+    "title": "Hydraulic Smart Valves for Energy Efficiency",
+    "domain": "132",
+    "description": "Develop hydraulic valves with smart control to minimize energy losses in industrial systems.",
+    "keywords": ["Hydraulic Valves", "Smart Control", "Energy Efficiency", "Industrial Systems"]
+},
+{
+    "id": 9278,
+    "title": "Pneumatic Haptic Feedback System",
+    "domain": "132",
+    "description": "Design a pneumatic-based haptic feedback system for virtual reality and teleoperation.",
+    "keywords": ["Pneumatics", "Haptic Feedback", "VR", "Teleoperation"]
+},
+{
+    "id": 9279,
+    "title": "Hydraulic System Digital Twin",
+    "domain": "132",
+    "description": "Create a digital twin of a hydraulic system for predictive maintenance and performance optimization.",
+    "keywords": ["Digital Twin", "Hydraulic Systems", "Predictive Maintenance", "Simulation"]
+},
+{
+    "id": 9280,
+    "title": "Pneumatic Drone Control System",
+    "domain": "132",
+    "description": "Develop drones using pneumatic actuators for lightweight, quiet, and efficient flight.",
+    "keywords": ["Pneumatic Drones", "Actuators", "Flight Control", "Efficiency"]
+},
+{
+    "id": 9281,
+    "title": "Hydraulic Hybrid Vehicle System",
+    "domain": "132",
+    "description": "Design a hybrid vehicle system using hydraulics to recover braking energy and improve efficiency.",
+    "keywords": ["Hydraulic Hybrid", "Energy Recovery", "Vehicles", "Efficiency"]
+},
+{
+    "id": 9282,
+    "title": "AI-Enhanced Pneumatic Pipeline Monitoring",
+    "domain": "132",
+    "description": "Implement AI monitoring for pneumatic pipelines to detect leaks and optimize flow.",
+    "keywords": ["Pneumatic Pipelines", "AI Monitoring", "Leak Detection", "Flow Optimization"]
+},
+{
+    "id": 9283,
+    "title": "Hydraulic Modular Robotic Arm",
+    "domain": "132",
+    "description": "Develop modular hydraulic robotic arms that can be reconfigured for different industrial tasks.",
+    "keywords": ["Hydraulic Robotics", "Modular Systems", "Industrial Automation", "Flexibility"]
+},
+{
+    "id": 9284,
+    "title": "Pneumatic Soft Gripper for Delicate Objects",
+    "domain": "132",
+    "description": "Create a soft pneumatic gripper capable of handling fragile items without causing damage.",
+    "keywords": ["Soft Robotics", "Pneumatic Grippers", "Delicate Handling", "Automation"]
+},
+{
+    "id": 9285,
+    "title": "Hydraulic System Energy Analytics",
+    "domain": "132",
+    "description": "Design an analytics platform to monitor and optimize energy usage in hydraulic systems.",
+    "keywords": ["Hydraulic Systems", "Energy Analytics", "Optimization", "Industrial Systems"]
+},
+{
+    "id": 9286,
+    "title": "Pneumatic Automation for Smart Warehouses",
+    "domain": "132",
+    "description": "Develop pneumatic automation solutions for warehouse operations to improve speed and reliability.",
+    "keywords": ["Pneumatics", "Automation", "Smart Warehouses", "Industrial Efficiency"]
+},
+{
+    "id": 9287,
+    "title": "Hydraulic Rescue Robot",
+    "domain": "132",
+    "description": "Create a hydraulic-powered rescue robot capable of operating in disaster-struck environments.",
+    "keywords": ["Hydraulic Robotics", "Rescue", "Disaster Response", "Automation"]
+},
+{
+    "id": 9288,
+    "title": "Pneumatic Temperature Controlled Actuators",
+    "domain": "132",
+    "description": "Develop pneumatic actuators with integrated temperature control for sensitive operations.",
+    "keywords": ["Pneumatic Actuators", "Temperature Control", "Precision Systems", "Automation"]
+},
+{
+    "id": 9289,
+    "title": "Hydraulic Pipeline Smart Valves",
+    "domain": "132",
+    "description": "Design smart valves to dynamically adjust flow and pressure in hydraulic pipelines.",
+    "keywords": ["Hydraulic Pipelines", "Smart Valves", "Flow Control", "Industrial Systems"]
+},
+{
+    "id": 9290,
+    "title": "Pneumatic Artificial Muscles",
+    "domain": "132",
+    "description": "Develop pneumatic artificial muscles for robotics to provide lightweight and flexible actuation.",
+    "keywords": ["Pneumatic Muscles", "Soft Robotics", "Actuators", "Robotics"]
+},
+{
+    "id": 9291,
+    "title": "Hydraulic Energy-Efficient Excavators",
+    "domain": "132",
+    "description": "Design hydraulic excavator systems that minimize energy consumption while maximizing performance.",
+    "keywords": ["Hydraulic Excavators", "Energy Efficiency", "Construction Equipment", "Hydraulics"]
+},
+{
+    "id": 9292,
+    "title": "Pneumatic Air Quality Monitoring System",
+    "domain": "132",
+    "description": "Develop a pneumatic-driven system to monitor air quality in industrial settings for safety compliance.",
+    "keywords": ["Pneumatics", "Air Quality", "Monitoring Systems", "Industrial Safety"]
+},
+{
+    "id": 9293,
+    "title": "Hydraulic Multi-Function Industrial Robot",
+    "domain": "132",
+    "description": "Create a multi-function industrial robot using hydraulics for heavy lifting, welding, and precision tasks.",
+    "keywords": ["Hydraulic Robotics", "Industrial Automation", "Multi-Function", "Heavy Lifting"]
+},
+{
+    "id": 9294,
+    "title": "Pneumatic Conveyor Speed Optimization",
+    "domain": "132",
+    "description": "Develop AI-based control to optimize speed and efficiency in pneumatic conveyor systems.",
+    "keywords": ["Pneumatic Conveyor", "Speed Optimization", "AI Control", "Automation"]
+},
+{
+    "id": 9295,
+    "title": "Hydraulic High-Pressure Filtration System",
+    "domain": "132",
+    "description": "Design a hydraulic filtration system to remove impurities from high-pressure fluids efficiently.",
+    "keywords": ["Hydraulic Filtration", "High Pressure", "Fluid Systems", "Industrial Efficiency"]
+},
+{
+    "id": 9296,
+    "title": "Pneumatic Emergency Actuation System",
+    "domain": "132",
+    "description": "Create pneumatic systems for rapid emergency actuation in critical industrial machinery.",
+    "keywords": ["Pneumatics", "Emergency Actuation", "Industrial Safety", "Control Systems"]
+},
+{
+    "id": 9297,
+    "title": "Hydraulic Smart Energy Recovery System",
+    "domain": "132",
+    "description": "Develop a hydraulic system that recovers energy from industrial machinery and stores it efficiently.",
+    "keywords": ["Hydraulic Energy Recovery", "Smart Systems", "Industrial Machinery", "Efficiency"]
+},
+{
+    "id": 9298,
+    "title": "Pneumatic Modular Robotics Kit",
+    "domain": "132",
+    "description": "Create a modular pneumatic robotics kit for educational and prototyping purposes.",
+    "keywords": ["Pneumatic Robotics", "Modular Kit", "Education", "Prototyping"]
+},
+{
+    "id": 9299,
+    "title": "Hydraulic Smart Valve Diagnostics",
+    "domain": "132",
+    "description": "Implement smart diagnostics in hydraulic valves to predict failures and reduce downtime.",
+    "keywords": ["Hydraulic Valves", "Diagnostics", "Smart Systems", "Predictive Maintenance"]
+},
+{
+    "id": 9300,
+    "title": "Pneumatic-Assisted Exosuit for Laborers",
+    "domain": "132",
+    "description": "Design a pneumatic exosuit that assists workers in heavy-lifting tasks while reducing fatigue.",
+    "keywords": ["Pneumatic Exosuit", "Labor Assistance", "Ergonomics", "Industrial Safety"]
+},
+{
+    "id": 9301,
+    "title": "Hydraulic System Digital Twin Analytics",
+    "domain": "132",
+    "description": "Develop a digital twin platform to simulate, monitor, and optimize hydraulic system operations.",
+    "keywords": ["Digital Twin", "Hydraulic Systems", "Analytics", "Simulation"]
+},
+{
+    "id": 9302,
+    "title": "Pneumatic Energy-Efficient Actuators",
+    "domain": "132",
+    "description": "Design pneumatic actuators with improved energy efficiency for continuous industrial use.",
+    "keywords": ["Pneumatic Actuators", "Energy Efficiency", "Automation", "Industrial Systems"]
+},
+{
+    "id": 9303,
+    "title": "Hydraulic Overpressure Safety System",
+    "domain": "132",
+    "description": "Develop a safety system to prevent hydraulic system overpressure and protect components.",
+    "keywords": ["Hydraulic Safety", "Overpressure Protection", "Industrial Systems", "Fluid Mechanics"]
+},
+{
+    "id": 9304,
+    "title": "Pneumatic Soft Robotics for Agriculture",
+    "domain": "132",
+    "description": "Create pneumatic-based soft robots for agricultural tasks such as harvesting delicate fruits.",
+    "keywords": ["Soft Robotics", "Pneumatics", "Agriculture Automation", "Harvesting"]
+},
+{
+    "id": 9305,
+    "title": "Hydraulic Adaptive Flow System",
+    "domain": "132",
+    "description": "Develop an adaptive hydraulic flow system that automatically adjusts flow rates based on demand.",
+    "keywords": ["Hydraulic Flow", "Adaptive Control", "Industrial Systems", "Efficiency"]
+},
+{
+    "id": 9306,
+    "title": "Pneumatic Teleoperation System",
+    "domain": "132",
+    "description": "Design a pneumatic teleoperation system for remote handling of hazardous materials.",
+    "keywords": ["Pneumatics", "Teleoperation", "Hazardous Material Handling", "Remote Control"]
+},
+{
+    "id": 9307,
+    "title": "Hydraulic Regenerative Excavator System",
+    "domain": "132",
+    "description": "Implement a regenerative hydraulic system in excavators to recover energy and improve fuel efficiency.",
+    "keywords": ["Hydraulic Excavators", "Regenerative System", "Energy Recovery", "Construction"]
+},
 
 
 
