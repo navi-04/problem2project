@@ -65866,6 +65866,364 @@ const PROBLEMS_DATA = {
     "keywords": ["Cobots", "Smart Factory"]
 },
 //domain-128
+    {
+        "id": 9022,
+        "title": "AI-Optimized CNC Machining Parameters",
+        "domain": "128",
+        "description": "Develop an AI-driven system that dynamically adjusts CNC machining parameters like spindle speed, feed rate, and depth of cut to optimize tool life and surface finish.",
+        "keywords": ["CNC Machining", "Optimization", "AI"]
+    },
+    {
+        "id": 9023,
+        "title": "Smart Injection Molding Defect Detection",
+        "domain": "128",
+        "description": "Implement a computer vision-based system to detect defects such as sink marks, warpage, and voids in injection molded parts in real time.",
+        "keywords": ["Injection Molding", "Defect Detection", "Computer Vision"]
+    },
+    {
+        "id": 9024,
+        "title": "Digital Twin for Die Casting Process",
+        "domain": "128",
+        "description": "Create a digital twin of a die casting machine to simulate molten flow, cooling rates, and shrinkage defects for predictive quality control.",
+        "keywords": ["Die Casting", "Simulation", "Digital Twin"]
+    },
+    {
+        "id": 9025,
+        "title": "Automated Press Tool Wear Monitoring",
+        "domain": "128",
+        "description": "Develop a sensor-based system to monitor tool wear in press tools and predict maintenance schedules for increased tool life.",
+        "keywords": ["Press Tools", "Condition Monitoring", "IoT"]
+    },
+    {
+        "id": 9026,
+        "title": "AR-Based Jig and Fixture Assembly Guide",
+        "domain": "128",
+        "description": "Design an augmented reality application that guides technicians in assembling and aligning jigs and fixtures with precision.",
+        "keywords": ["Jigs and Fixtures", "AR", "Assembly"]
+    },
+    {
+        "id": 9027,
+        "title": "IoT-Enabled CNC Machine Monitoring",
+        "domain": "128",
+        "description": "Develop an IoT-based system to monitor CNC machine health, tool wear, and energy consumption in real-time.",
+        "keywords": ["CNC Machining", "IoT", "Monitoring"]
+    },
+    {
+        "id": 9028,
+        "title": "Smart Metrology Data Integration System",
+        "domain": "128",
+        "description": "Build a cloud-based platform to collect, analyze, and visualize metrology data for quality assurance in manufacturing.",
+        "keywords": ["Metrology", "Data Analytics", "Cloud"]
+    },
+    {
+        "id": 9029,
+        "title": "Rapid Prototyping Material Property Database",
+        "domain": "128",
+        "description": "Develop a searchable database of material properties specifically tailored for rapid prototyping processes like SLA, FDM, and SLS.",
+        "keywords": ["Rapid Prototyping", "Materials", "Database"]
+    },
+    {
+        "id": 9030,
+        "title": "Hybrid Additive Tooling for Molds",
+        "domain": "128",
+        "description": "Create a hybrid tooling method that combines additive manufacturing and conventional machining for mold production.",
+        "keywords": ["Additive Tooling", "Hybrid Manufacturing", "Molds"]
+    },
+    {
+        "id": 9031,
+        "title": "AI-Powered Tool Path Optimization",
+        "domain": "128",
+        "description": "Design an AI algorithm that automatically generates optimal CNC tool paths to minimize machining time and tool wear.",
+        "keywords": ["CNC Machining", "Tool Path", "AI"]
+    },
+    {
+        "id": 9032,
+        "title": "Injection Molding Cooling Channel Optimization",
+        "domain": "128",
+        "description": "Use computational fluid dynamics (CFD) to optimize cooling channel designs in injection molds for reduced cycle times.",
+        "keywords": ["Injection Molding", "Cooling", "CFD"]
+    },
+    {
+        "id": 9033,
+        "title": "Die Casting Alloy Optimization",
+        "domain": "128",
+        "description": "Develop a system for optimizing alloy composition in die casting to reduce porosity and improve mechanical properties.",
+        "keywords": ["Die Casting", "Alloys", "Optimization"]
+    },
+    {
+        "id": 9034,
+        "title": "Press Tool Design Automation",
+        "domain": "128",
+        "description": "Create a CAD-based tool that automates press tool design by suggesting punch-die layouts and material utilization.",
+        "keywords": ["Press Tools", "CAD", "Automation"]
+    },
+    {
+        "id": 9035,
+        "title": "AI-Enhanced Jig Clamping Design",
+        "domain": "128",
+        "description": "Develop an AI model that suggests optimal clamping positions in jigs and fixtures for stability and accuracy.",
+        "keywords": ["Jigs and Fixtures", "AI", "Clamping"]
+    },
+    {
+        "id": 9036,
+        "title": "Smart Metrology with Edge Computing",
+        "domain": "128",
+        "description": "Implement an edge computing device that processes metrology data locally for instant tolerance verification.",
+        "keywords": ["Metrology", "Edge Computing", "Quality Control"]
+    },
+    {
+        "id": 9037,
+        "title": "3D Printed Injection Mold Inserts",
+        "domain": "128",
+        "description": "Use additive tooling techniques to fabricate conformal cooling inserts for injection molds.",
+        "keywords": ["Additive Tooling", "Injection Molding", "3D Printing"]
+    },
+    {
+        "id": 9038,
+        "title": "CNC Machining Force Monitoring",
+        "domain": "128",
+        "description": "Develop a real-time force monitoring system to detect chatter, tool breakage, and machining instability.",
+        "keywords": ["CNC Machining", "Force Monitoring", "Sensors"]
+    },
+    {
+        "id": 9039,
+        "title": "Injection Molding Waste Reduction",
+        "domain": "128",
+        "description": "Design a system that analyzes runner and sprue designs to minimize material waste in injection molding.",
+        "keywords": ["Injection Molding", "Waste Reduction", "Sustainability"]
+    },
+    {
+        "id": 9040,
+        "title": "AI-Based Die Casting Defect Prediction",
+        "domain": "128",
+        "description": "Develop a predictive model that identifies potential defects in die casting based on machine parameters.",
+        "keywords": ["Die Casting", "AI", "Defect Prediction"]
+    },
+    {
+        "id": 9041,
+        "title": "Press Tool Safety Automation",
+        "domain": "128",
+        "description": "Implement safety automation in press tools using sensors and AI to prevent operator injuries.",
+        "keywords": ["Press Tools", "Safety", "Automation"]
+    },
+    {
+        "id": 9042,
+        "title": "Fixture-Free Machining Optimization",
+        "domain": "128",
+        "description": "Develop machining strategies that minimize or eliminate the need for external fixtures using adaptive clamping.",
+        "keywords": ["Jigs and Fixtures", "Optimization", "Machining"]
+    },
+    {
+        "id": 9043,
+        "title": "Metrology Blockchain for Quality Assurance",
+        "domain": "128",
+        "description": "Use blockchain technology to ensure secure and tamper-proof metrology data records in manufacturing.",
+        "keywords": ["Metrology", "Blockchain", "Quality Assurance"]
+    },
+    {
+        "id": 9044,
+        "title": "On-Demand Rapid Prototyping Platform",
+        "domain": "128",
+        "description": "Develop a web platform that connects designers with rapid prototyping services for on-demand production.",
+        "keywords": ["Rapid Prototyping", "Platform", "Manufacturing"]
+    },
+    {
+        "id": 9045,
+        "title": "AI-Driven Additive Tooling Failure Detection",
+        "domain": "128",
+        "description": "Implement an AI-based monitoring system for detecting failures in additive tooling during build processes.",
+        "keywords": ["Additive Tooling", "AI", "Failure Detection"]
+    },
+    {
+        "id": 9046,
+        "title": "CNC Machining Virtual Reality Training",
+        "domain": "128",
+        "description": "Create a VR-based training system for CNC machine operators to practice without risking real equipment.",
+        "keywords": ["CNC Machining", "VR", "Training"]
+    },
+    {
+        "id": 9047,
+        "title": "Injection Molding Cycle Time Optimization",
+        "domain": "128",
+        "description": "Develop a machine learning model to optimize injection molding cycle times based on historical data.",
+        "keywords": ["Injection Molding", "Cycle Time", "Machine Learning"]
+    },
+    {
+        "id": 9048,
+        "title": "AI-Powered Die Casting Temperature Control",
+        "domain": "128",
+        "description": "Implement AI to monitor and control die casting furnace temperatures for process stability.",
+        "keywords": ["Die Casting", "Temperature Control", "AI"]
+    },
+    {
+        "id": 9049,
+        "title": "Press Tool Material Utilization Analyzer",
+        "domain": "128",
+        "description": "Create a tool that evaluates sheet metal layouts in press tools to maximize material usage efficiency.",
+        "keywords": ["Press Tools", "Material Utilization", "Efficiency"]
+    },
+    {
+        "id": 9050,
+        "title": "AI-Enhanced Jig Positioning System",
+        "domain": "128",
+        "description": "Develop an AI-powered system for precise jig positioning in multi-step machining operations.",
+        "keywords": ["Jigs and Fixtures", "AI", "Positioning"]
+    },
+    {
+        "id": 9051,
+        "title": "Portable 3D Metrology Device",
+        "domain": "128",
+        "description": "Design a handheld metrology device capable of 3D scanning parts for tolerance verification.",
+        "keywords": ["Metrology", "3D Scanning", "Portable"]
+    },
+    {
+        "id": 9052,
+        "title": "Distributed Rapid Prototyping Network",
+        "domain": "128",
+        "description": "Develop a decentralized manufacturing network that connects local rapid prototyping hubs for faster delivery.",
+        "keywords": ["Rapid Prototyping", "Decentralized", "Network"]
+    },
+    {
+        "id": 9053,
+        "title": "Additive Tooling Topology Optimization",
+        "domain": "128",
+        "description": "Use topology optimization algorithms to design lightweight and strong additive tooling components.",
+        "keywords": ["Additive Tooling", "Topology Optimization", "Design"]
+    },
+    {
+        "id": 9054,
+        "title": "CNC Machining Energy Consumption Analyzer",
+        "domain": "128",
+        "description": "Develop a system to analyze and optimize CNC machine energy consumption during various operations.",
+        "keywords": ["CNC Machining", "Energy", "Sustainability"]
+    },
+    {
+        "id": 9055,
+        "title": "Smart Injection Mold Maintenance Scheduler",
+        "domain": "128",
+        "description": "Implement a predictive maintenance system that schedules injection mold servicing based on usage data.",
+        "keywords": ["Injection Molding", "Maintenance", "Predictive"]
+    },
+    {
+        "id": 9056,
+        "title": "Die Casting Process Data Analytics",
+        "domain": "128",
+        "description": "Build a data analytics platform for tracking die casting machine parameters and correlating them with defect trends.",
+        "keywords": ["Die Casting", "Data Analytics", "Process"]
+    },
+    {
+        "id": 9057,
+        "title": "Press Tool Force Simulation",
+        "domain": "128",
+        "description": "Develop a finite element analysis tool to simulate force distribution in press tools for design improvements.",
+        "keywords": ["Press Tools", "Simulation", "FEA"]
+    },
+    {
+        "id": 9058,
+        "title": "Adaptive Fixture Design Software",
+        "domain": "128",
+        "description": "Create a software tool that designs adaptive fixtures for varying part geometries using modular components.",
+        "keywords": ["Jigs and Fixtures", "Adaptive", "Design"]
+    },
+    {
+        "id": 9059,
+        "title": "AI-Driven Metrology Error Compensation",
+        "domain": "128",
+        "description": "Develop an AI system to detect and compensate measurement errors in metrology equipment.",
+        "keywords": ["Metrology", "AI", "Error Compensation"]
+    },
+    {
+        "id": 9060,
+        "title": "Sustainable Rapid Prototyping Material Recycling",
+        "domain": "128",
+        "description": "Design a recycling system for rapid prototyping waste materials like resin and thermoplastics.",
+        "keywords": ["Rapid Prototyping", "Sustainability", "Recycling"]
+    },
+    {
+        "id": 9061,
+        "title": "Multi-Material Additive Tooling",
+        "domain": "128",
+        "description": "Develop additive tooling methods that integrate multiple materials for enhanced tool properties.",
+        "keywords": ["Additive Tooling", "Multi-Material", "Manufacturing"]
+    },
+    {
+        "id": 9062,
+        "title": "AI-Based CNC Machining Anomaly Detection",
+        "domain": "128",
+        "description": "Implement an AI system that monitors CNC machining for unusual vibration or sound patterns indicating faults.",
+        "keywords": ["CNC Machining", "Anomaly Detection", "AI"]
+    },
+    {
+        "id": 9063,
+        "title": "Injection Molding Digital Twin",
+        "domain": "128",
+        "description": "Build a digital twin of the injection molding process to predict warpage and shrinkage in parts.",
+        "keywords": ["Injection Molding", "Digital Twin", "Simulation"]
+    },
+    {
+        "id": 9064,
+        "title": "Die Casting Cooling Simulation Tool",
+        "domain": "128",
+        "description": "Develop a simulation tool to optimize cooling channel placement in die casting dies.",
+        "keywords": ["Die Casting", "Cooling", "Simulation"]
+    },
+    {
+        "id": 9065,
+        "title": "AI-Powered Press Tool Fault Detection",
+        "domain": "128",
+        "description": "Design an AI model that detects misalignment, cracks, or deformation in press tools during operation.",
+        "keywords": ["Press Tools", "Fault Detection", "AI"]
+    },
+    {
+        "id": 9066,
+        "title": "Smart Fixture with Embedded Sensors",
+        "domain": "128",
+        "description": "Create fixtures with embedded sensors that measure forces, vibrations, and clamping pressures in real time.",
+        "keywords": ["Jigs and Fixtures", "Smart", "Sensors"]
+    },
+    {
+        "id": 9067,
+        "title": "Metrology Data Visualization Dashboard",
+        "domain": "128",
+        "description": "Develop a dashboard that visualizes real-time metrology data for quality engineers.",
+        "keywords": ["Metrology", "Dashboard", "Visualization"]
+    },
+    {
+        "id": 9068,
+        "title": "Collaborative Rapid Prototyping Cloud",
+        "domain": "128",
+        "description": "Build a cloud-based collaboration platform where engineers can co-design and rapidly prototype parts.",
+        "keywords": ["Rapid Prototyping", "Cloud", "Collaboration"]
+    },
+    {
+        "id": 9069,
+        "title": "Additive Tooling Simulation Platform",
+        "domain": "128",
+        "description": "Develop a simulation platform to analyze stresses and thermal properties in additive tooling designs.",
+        "keywords": ["Additive Tooling", "Simulation", "Design"]
+    },
+    {
+        "id": 9070,
+        "title": "CNC Machining Digital Twin",
+        "domain": "128",
+        "description": "Create a digital twin of a CNC machine to simulate machining processes, tool wear, and part deformation.",
+        "keywords": ["CNC Machining", "Digital Twin", "Simulation"]
+    },
+    {
+        "id": 9071,
+        "title": "Injection Molding Smart Material Selector",
+        "domain": "128",
+        "description": "Build a software tool that recommends optimal polymer materials for injection molding applications.",
+        "keywords": ["Injection Molding", "Material Selector", "Polymers"]
+    },
+    {
+        "id": 9072,
+        "title": "Die Casting Surface Finish Enhancer",
+        "domain": "128",
+        "description": "Develop a post-processing technique using laser texturing to enhance surface finish of die cast parts.",
+        "keywords": ["Die Casting", "Surface Finish", "Post-Processing"]
+    },
+    //domain-129
 
 
 
