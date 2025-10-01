@@ -62325,6 +62325,514 @@ const PROBLEMS_DATA = {
     "keywords": ["High Vacuum", "Vacuum Pumps", "Vacuum Gauges", "Cleanroom Design"]
 },
 //domain-122
+    {
+        "id": 8517,
+        "title": "Smart Membrane Separation Analyzer",
+        "domain": "122",
+        "description": "Develop a system that evaluates membrane separation efficiency under different operating conditions, predicting fouling risks and optimizing flux performance.",
+        "keywords": ["Membrane Separation", "Mass Transfer", "Water Purification"]
+    },
+    {
+        "id": 8518,
+        "title": "IoT-Enabled Microfiltration Monitor",
+        "domain": "122",
+        "description": "Create a real-time IoT device that tracks pressure drop, turbidity, and clogging in microfiltration systems for industrial water treatment applications.",
+        "keywords": ["Microfiltration", "Water Purification", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8519,
+        "title": "Reverse Osmosis Fault Detection System",
+        "domain": "122",
+        "description": "Design an AI-driven platform to detect early signs of scaling, leakage, and membrane degradation in reverse osmosis plants to reduce downtime.",
+        "keywords": ["Reverse Osmosis", "Membrane Separation", "Mass Transfer"]
+    },
+    {
+        "id": 8520,
+        "title": "Air Filtration Performance Optimizer",
+        "domain": "122",
+        "description": "Develop a predictive software that models particulate capture efficiency and pressure losses in air filtration units under varying flow rates.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8521,
+        "title": "Portable Water Purification Device",
+        "domain": "122",
+        "description": "Engineer a compact, energy-efficient portable water purification system for remote or disaster-prone regions using hybrid separation methods.",
+        "keywords": ["Water Purification", "Microfiltration", "Reverse Osmosis"]
+    },
+    {
+        "id": 8522,
+        "title": "Solid-Liquid Separation Digital Twin",
+        "domain": "122",
+        "description": "Develop a digital twin for solid-liquid separation systems that simulates filtration cycles and predicts sludge handling efficiency.",
+        "keywords": ["Solid-Liquid Separation", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8523,
+        "title": "Chromatography Process Optimizer",
+        "domain": "122",
+        "description": "Build an AI-driven chromatography optimizer to improve separation resolution and throughput in pharmaceutical purification processes.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8524,
+        "title": "Adaptive Membrane Cleaning System",
+        "domain": "122",
+        "description": "Design a smart cleaning protocol for filtration membranes that dynamically adjusts based on fouling levels and operational data.",
+        "keywords": ["Membrane Separation", "Reverse Osmosis", "Water Purification"]
+    },
+    {
+        "id": 8525,
+        "title": "Low-Energy Reverse Osmosis Plant",
+        "domain": "122",
+        "description": "Engineer a reverse osmosis desalination plant with reduced energy consumption using advanced pressure recovery technologies.",
+        "keywords": ["Reverse Osmosis", "Water Purification", "Mass Transfer"]
+    },
+    {
+        "id": 8526,
+        "title": "High-Resolution Air Particle Separator",
+        "domain": "122",
+        "description": "Develop an electrostatic-assisted air filtration system capable of separating ultra-fine particulates in urban environments.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8527,
+        "title": "Modular Solid-Liquid Separator",
+        "domain": "122",
+        "description": "Create a modular solid-liquid separation unit that can be scaled for different industries such as food processing, mining, and wastewater treatment.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Chromatography"]
+    },
+    {
+        "id": 8528,
+        "title": "AI-Based Filtration Lifecycle Predictor",
+        "domain": "122",
+        "description": "Build an AI model that predicts filter replacement schedules based on usage history, particle load, and pressure drop data.",
+        "keywords": ["Membrane Separation", "Air Filtration", "Mass Transfer"]
+    },
+    {
+        "id": 8529,
+        "title": "Green Membrane Technology",
+        "domain": "122",
+        "description": "Research and develop bio-based membranes for separation processes that reduce plastic waste and enhance biodegradability.",
+        "keywords": ["Membrane Separation", "Water Purification", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8530,
+        "title": "Nanoparticle-Enhanced Chromatography",
+        "domain": "122",
+        "description": "Investigate the use of nanomaterials to improve separation efficiency and selectivity in chromatography applications.",
+        "keywords": ["Chromatography", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8531,
+        "title": "Real-Time Air Quality Filtration Dashboard",
+        "domain": "122",
+        "description": "Develop a cloud-based dashboard that integrates real-time air filtration data from HVAC systems for smart buildings.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Water Purification"]
+    },
+    {
+        "id": 8532,
+        "title": "Energy-Efficient Water Purification System",
+        "domain": "122",
+        "description": "Engineer a hybrid water purification system that combines microfiltration and reverse osmosis for reduced energy usage.",
+        "keywords": ["Water Purification", "Microfiltration", "Reverse Osmosis"]
+    },
+    {
+        "id": 8533,
+        "title": "Waste-to-Water Recovery Separator",
+        "domain": "122",
+        "description": "Design a system that recycles industrial wastewater through advanced solid-liquid separation and membrane filtration methods.",
+        "keywords": ["Solid-Liquid Separation", "Water Purification", "Membrane Separation"]
+    },
+    {
+        "id": 8534,
+        "title": "Advanced Chromatography Simulator",
+        "domain": "122",
+        "description": "Develop a software tool that simulates chromatography experiments to predict separation outcomes before laboratory testing.",
+        "keywords": ["Chromatography", "Mass Transfer", "Reverse Osmosis"]
+    },
+    {
+        "id": 8535,
+        "title": "Smart HVAC Air Filtration System",
+        "domain": "122",
+        "description": "Build an intelligent HVAC system that adjusts air filtration levels based on occupancy, pollutant load, and energy efficiency goals.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8536,
+        "title": "AI-Guided Membrane Design Tool",
+        "domain": "122",
+        "description": "Create an AI-powered platform that designs customized membranes with optimized pore sizes for different separation applications.",
+        "keywords": ["Membrane Separation", "Chromatography", "Water Purification"]
+    },
+    {
+        "id": 8537,
+        "title": "Decentralized Water Purification Pods",
+        "domain": "122",
+        "description": "Engineer decentralized modular purification pods using membrane separation for rural and emergency applications.",
+        "keywords": ["Water Purification", "Membrane Separation", "Microfiltration"]
+    },
+    {
+        "id": 8538,
+        "title": "Fouling-Resistant Reverse Osmosis System",
+        "domain": "122",
+        "description": "Design a reverse osmosis system with real-time fouling detection and antifouling coatings to extend operational lifespan.",
+        "keywords": ["Reverse Osmosis", "Membrane Separation", "Mass Transfer"]
+    },
+    {
+        "id": 8539,
+        "title": "High-Altitude Air Filtration Unit",
+        "domain": "122",
+        "description": "Develop an efficient air filtration device for high-altitude regions, optimized for thin air and low pressure conditions.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8540,
+        "title": "Dynamic Solid-Liquid Separator for Mining",
+        "domain": "122",
+        "description": "Build a solid-liquid separation system tailored for mining wastewater with high solids concentration and variable flow rates.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8541,
+        "title": "Chromatography Waste Minimizer",
+        "domain": "122",
+        "description": "Create a chromatography system with solvent recovery and reuse features to minimize chemical waste and operational costs.",
+        "keywords": ["Chromatography", "Mass Transfer", "Water Purification"]
+    },
+    {
+        "id": 8542,
+        "title": "Self-Healing Filtration Membrane",
+        "domain": "122",
+        "description": "Research and develop membranes with nanomaterial coatings that can self-heal minor cracks and extend service life.",
+        "keywords": ["Membrane Separation", "Reverse Osmosis", "Microfiltration"]
+    },
+    {
+        "id": 8543,
+        "title": "Smartphone-Integrated Water Filter",
+        "domain": "122",
+        "description": "Design a personal water purification filter with smartphone-based monitoring of filter health and water quality.",
+        "keywords": ["Water Purification", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8544,
+        "title": "Urban Air Filtration Towers",
+        "domain": "122",
+        "description": "Engineer large-scale air filtration towers for cities to capture dust, smog, and fine particulates in polluted regions.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Chromatography"]
+    },
+    {
+        "id": 8545,
+        "title": "Zero-Energy Solid-Liquid Separator",
+        "domain": "122",
+        "description": "Develop a gravity-driven solid-liquid separation device requiring no external power for rural wastewater treatment.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Water Purification"]
+    },
+    {
+        "id": 8546,
+        "title": "Chromatography AI Peak Predictor",
+        "domain": "122",
+        "description": "Build an AI-based tool to predict peak elution times and improve separation performance in chromatography labs.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8547,
+        "title": "Hydrophobic-Hydrophilic Hybrid Membrane",
+        "domain": "122",
+        "description": "Design a hybrid membrane combining hydrophobic and hydrophilic layers for selective gas-liquid and solid-liquid separation.",
+        "keywords": ["Membrane Separation", "Reverse Osmosis", "Mass Transfer"]
+    },
+    {
+        "id": 8548,
+        "title": "Reverse Osmosis Energy Recovery Add-On",
+        "domain": "122",
+        "description": "Create a retrofittable module that recovers energy from brine streams in existing reverse osmosis plants.",
+        "keywords": ["Reverse Osmosis", "Mass Transfer", "Water Purification"]
+    },
+    {
+        "id": 8549,
+        "title": "IoT Air Quality and Filtration Network",
+        "domain": "122",
+        "description": "Build an IoT-enabled city-wide network of air filtration units that communicate real-time pollutant levels.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8550,
+        "title": "Industrial Solid-Liquid Separator Optimizer",
+        "domain": "122",
+        "description": "Develop a control system that optimizes filtration cycles in industrial solid-liquid separation processes to maximize throughput.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8551,
+        "title": "On-Chip Chromatography Device",
+        "domain": "122",
+        "description": "Design a microfluidic chromatography chip for rapid chemical analysis in portable laboratories.",
+        "keywords": ["Chromatography", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8552,
+        "title": "Long-Life Anti-Clogging Membrane",
+        "domain": "122",
+        "description": "Research and fabricate membranes with nano-patterned pores that resist clogging and fouling in high-solid feeds.",
+        "keywords": ["Membrane Separation", "Water Purification", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8553,
+        "title": "Multi-Stage Portable Water Purifier",
+        "domain": "122",
+        "description": "Develop a portable water purification unit with sequential microfiltration, carbon adsorption, and reverse osmosis stages.",
+        "keywords": ["Water Purification", "Microfiltration", "Reverse Osmosis"]
+    },
+    {
+        "id": 8554,
+        "title": "AI-Based Air Filtration Cost Optimizer",
+        "domain": "122",
+        "description": "Build an AI model that balances filter replacement schedules with air quality requirements to minimize operational costs.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8555,
+        "title": "Solid-Liquid Separation for Food Processing",
+        "domain": "122",
+        "description": "Engineer specialized solid-liquid separators for juice clarification, edible oil refining, and brewery applications.",
+        "keywords": ["Solid-Liquid Separation", "Water Purification", "Microfiltration"]
+    },
+    {
+        "id": 8556,
+        "title": "Smart Chromatography Column Selector",
+        "domain": "122",
+        "description": "Develop an AI-driven tool that recommends chromatography columns based on sample characteristics and separation needs.",
+        "keywords": ["Chromatography", "Membrane Separation", "Mass Transfer"]
+    },
+    {
+        "id": 8557,
+        "title": "Membrane Separation for Gas Purification",
+        "domain": "122",
+        "description": "Develop advanced membranes for selective gas separation applications like CO₂ capture and hydrogen purification.",
+        "keywords": ["Membrane Separation", "Mass Transfer", "Air Filtration"]
+    },
+    {
+        "id": 8558,
+        "title": "AI-Driven Reverse Osmosis Desalination",
+        "domain": "122",
+        "description": "Design an AI-controlled reverse osmosis plant that adjusts flow rates, pressure, and cleaning cycles for maximum efficiency.",
+        "keywords": ["Reverse Osmosis", "Water Purification", "Membrane Separation"]
+    },
+    {
+        "id": 8559,
+        "title": "Wearable Personal Air Filter",
+        "domain": "122",
+        "description": "Engineer a lightweight, wearable air filtration system for individuals in high-pollution environments.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8560,
+        "title": "Solid-Liquid Separator for Biogas Plants",
+        "domain": "122",
+        "description": "Create a separator that efficiently processes slurry in biogas plants, enhancing gas yield and fertilizer recovery.",
+        "keywords": ["Solid-Liquid Separation", "Mass Transfer", "Water Purification"]
+    },
+    {
+        "id": 8561,
+        "title": "Chromatography Data Analytics Tool",
+        "domain": "122",
+        "description": "Develop a software platform that analyzes chromatography results and suggests optimization strategies.",
+        "keywords": ["Chromatography", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8562,
+        "title": "Graphene-Based Water Filtration Membrane",
+        "domain": "122",
+        "description": "Fabricate graphene-based ultrathin membranes for rapid and selective water purification.",
+        "keywords": ["Membrane Separation", "Water Purification", "Reverse Osmosis"]
+    },
+    {
+        "id": 8563,
+        "title": "AI-Powered Air Quality Forecaster",
+        "domain": "122",
+        "description": "Integrate air filtration sensors with AI models to forecast indoor air quality trends and optimize ventilation.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Chromatography"]
+    },
+    {
+        "id": 8564,
+        "title": "Solid-Liquid Separation for Textile Industry",
+        "domain": "122",
+        "description": "Design a solid-liquid separation system tailored for wastewater recycling in textile dyeing processes.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Water Purification"]
+    },
+    {
+        "id": 8565,
+        "title": "High-Throughput Chromatography Automation",
+        "domain": "122",
+        "description": "Develop an automated system that enables parallel chromatography experiments for pharmaceutical industries.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8566,
+        "title": "Reverse Osmosis Brine Management System",
+        "domain": "122",
+        "description": "Engineer a brine concentration and reuse system to minimize waste discharge from desalination plants.",
+        "keywords": ["Reverse Osmosis", "Water Purification", "Mass Transfer"]
+    },
+    {
+        "id": 8567,
+        "title": "Solar-Powered Air Filtration Pods",
+        "domain": "122",
+        "description": "Develop self-powered outdoor air filtration pods for deployment in pollution-heavy city zones.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8568,
+        "title": "Food-Grade Solid-Liquid Separator",
+        "domain": "122",
+        "description": "Engineer a hygienic solid-liquid separator for dairy, juice, and beverage manufacturing processes.",
+        "keywords": ["Solid-Liquid Separation", "Water Purification", "Microfiltration"]
+    },
+    {
+        "id": 8569,
+        "title": "Cloud-Connected Chromatography Database",
+        "domain": "122",
+        "description": "Create a cloud-based database for chromatography results that enables cross-lab collaboration and benchmarking.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8570,
+        "title": "Anti-Biofouling Filtration Membrane",
+        "domain": "122",
+        "description": "Develop bio-resistant membranes with nanocoatings to minimize microbial growth during filtration.",
+        "keywords": ["Membrane Separation", "Reverse Osmosis", "Water Purification"]
+    },
+    {
+        "id": 8571,
+        "title": "AI-Integrated Portable Water Purifier",
+        "domain": "122",
+        "description": "Build a portable purifier that uses AI to predict filter life and automatically suggest replacements.",
+        "keywords": ["Water Purification", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8572,
+        "title": "Industrial Air Filtration Energy Saver",
+        "domain": "122",
+        "description": "Develop a smart controller that adjusts industrial air filtration intensity based on real-time particulate loads.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8573,
+        "title": "Solid-Liquid Separation AI Optimizer",
+        "domain": "122",
+        "description": "Design an AI platform that predicts sludge volume reduction and improves separator efficiency.",
+        "keywords": ["Solid-Liquid Separation", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8574,
+        "title": "Self-Learning Chromatography System",
+        "domain": "122",
+        "description": "Build a chromatography system that learns from prior runs and continuously optimizes separation parameters.",
+        "keywords": ["Chromatography", "Membrane Separation", "Mass Transfer"]
+    },
+    {
+        "id": 8575,
+        "title": "Reverse Osmosis Leak Detection AI",
+        "domain": "122",
+        "description": "Develop a leak detection system for reverse osmosis units using acoustic sensors and AI analytics.",
+        "keywords": ["Reverse Osmosis", "Membrane Separation", "Water Purification"]
+    },
+    {
+        "id": 8576,
+        "title": "Personal Indoor Air Filtration Cube",
+        "domain": "122",
+        "description": "Create a compact air purification cube with customizable filters for home and office environments.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8577,
+        "title": "High-Capacity Industrial Separator",
+        "domain": "122",
+        "description": "Engineer a high-capacity solid-liquid separator for continuous processing in large-scale industries.",
+        "keywords": ["Solid-Liquid Separation", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8578,
+        "title": "AI-Enabled Chromatography Error Detector",
+        "domain": "122",
+        "description": "Develop an AI tool to detect anomalies and errors in chromatography runs to improve reliability.",
+        "keywords": ["Chromatography", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8579,
+        "title": "Bio-Inspired Membrane Design",
+        "domain": "122",
+        "description": "Research membranes inspired by biological cell walls for improved selectivity in separation processes.",
+        "keywords": ["Membrane Separation", "Water Purification", "Reverse Osmosis"]
+    },
+    {
+        "id": 8580,
+        "title": "Community-Scale Solar Water Purifier",
+        "domain": "122",
+        "description": "Build a solar-driven water purification unit with microfiltration and reverse osmosis for villages.",
+        "keywords": ["Water Purification", "Microfiltration", "Reverse Osmosis"]
+    },
+    {
+        "id": 8581,
+        "title": "HVAC Air Filtration AI Controller",
+        "domain": "122",
+        "description": "Design an AI-enhanced controller for HVAC systems that optimizes filter usage and air quality simultaneously.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Solid-Liquid Separation"]
+    },
+    {
+        "id": 8582,
+        "title": "Portable Solid-Liquid Separator for Field Work",
+        "domain": "122",
+        "description": "Create a lightweight, portable separator for field scientists handling environmental water samples.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Water Purification"]
+    },
+    {
+        "id": 8583,
+        "title": "Chromatography Virtual Lab",
+        "domain": "122",
+        "description": "Develop a VR-based simulation lab to train students in chromatography experiments without lab costs.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8584,
+        "title": "Smart Reverse Osmosis Brine Reuse",
+        "domain": "122",
+        "description": "Build a reverse osmosis add-on system that reuses brine for industrial washing and cooling applications.",
+        "keywords": ["Reverse Osmosis", "Water Purification", "Mass Transfer"]
+    },
+    {
+        "id": 8585,
+        "title": "Air Filtration in Smart Wearables",
+        "domain": "122",
+        "description": "Design smart wearable masks with active air filtration and real-time quality monitoring sensors.",
+        "keywords": ["Air Filtration", "Mass Transfer", "Microfiltration"]
+    },
+    {
+        "id": 8586,
+        "title": "Sludge-Free Solid-Liquid Separator",
+        "domain": "122",
+        "description": "Engineer a separator with near-zero sludge output for industries with strict environmental regulations.",
+        "keywords": ["Solid-Liquid Separation", "Microfiltration", "Mass Transfer"]
+    },
+    {
+        "id": 8587,
+        "title": "Green Chromatography Columns",
+        "domain": "122",
+        "description": "Research eco-friendly chromatography columns made from biodegradable materials for sustainable labs.",
+        "keywords": ["Chromatography", "Mass Transfer", "Membrane Separation"]
+    },
+    {
+        "id": 8588,
+        "title": "Self-Cleaning Reverse Osmosis System",
+        "domain": "122",
+        "description": "Design a reverse osmosis unit with an integrated self-cleaning mechanism to reduce maintenance downtime.",
+        "keywords": ["Reverse Osmosis", "Water Purification", "Membrane Separation"]
+    },
+    //domain-123
+    
+
+
 
 
 
