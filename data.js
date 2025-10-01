@@ -63279,6 +63279,421 @@ const PROBLEMS_DATA = {
     "keywords": ["Lightweight Structures", "Hybrid Materials", "Laminate Theory"]
   },
   //domain-124
+{
+    "id": 8653,
+    "title": "Ultrasonic Pipeline Crack Detection System",
+    "domain": "124",
+    "description": "Develop a system that uses ultrasonic testing techniques to detect cracks and corrosion in long-distance oil and gas pipelines. The project will focus on accurate defect sizing and automated reporting.",
+    "keywords": ["Ultrasonic Testing", "Material Flaw Detection", "Structural Health Monitoring"]
+},
+{
+    "id": 8654,
+    "title": "AI-Based X-Ray Weld Inspection",
+    "domain": "124",
+    "description": "Design an AI-powered X-ray image analysis tool for weld inspection. The system should identify porosity, cracks, and inclusions automatically to reduce human error.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8655,
+    "title": "Magnetic Particle Testing Robot for Bridges",
+    "domain": "124",
+    "description": "Create a robotic system that performs magnetic particle testing on bridge structures to detect surface and near-surface cracks in steel components.",
+    "keywords": ["Magnetic Particle Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8656,
+    "title": "Portable Eddy Current Testing Kit",
+    "domain": "124",
+    "description": "Develop a portable eddy current testing kit for field engineers to quickly detect surface cracks and material thinning in aircraft and automotive components.",
+    "keywords": ["Eddy Current Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8657,
+    "title": "Acoustic Emission Monitoring for Wind Turbines",
+    "domain": "124",
+    "description": "Implement an acoustic emission-based monitoring system to detect early-stage crack growth and fatigue in wind turbine blades.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8658,
+    "title": "Infrared Thermography for Electrical Fault Detection",
+    "domain": "124",
+    "description": "Build a thermal imaging system to detect overheating, insulation failures, and loose electrical connections in industrial power systems.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8659,
+    "title": "AI-Driven Structural Health Monitoring Platform",
+    "domain": "124",
+    "description": "Develop an AI-based structural health monitoring platform integrating ultrasonic, infrared, and acoustic emission data for real-time condition assessment of civil structures.",
+    "keywords": ["Structural Health Monitoring", "Ultrasonic Testing", "Infrared Thermography"]
+},
+{
+    "id": 8660,
+    "title": "Drone-Assisted Ultrasonic Testing",
+    "domain": "124",
+    "description": "Design a drone equipped with ultrasonic transducers to perform aerial non-destructive testing of tall structures like towers and skyscrapers.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8661,
+    "title": "Magnetic Particle Crack Detection in Rail Tracks",
+    "domain": "124",
+    "description": "Implement a system that automates magnetic particle inspection on rail tracks to prevent derailments caused by micro-cracks.",
+    "keywords": ["Magnetic Particle Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8662,
+    "title": "X-Ray Inspection for Aerospace Components",
+    "domain": "124",
+    "description": "Develop an advanced X-ray inspection system for detecting casting defects and structural weaknesses in aerospace components.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8663,
+    "title": "Infrared Thermography for Composite Materials",
+    "domain": "124",
+    "description": "Design an infrared thermography solution to detect delamination and moisture intrusion in composite aircraft panels.",
+    "keywords": ["Infrared Thermography", "Material Flaw Detection"]
+},
+{
+    "id": 8664,
+    "title": "Eddy Current Testing for Aircraft Maintenance",
+    "domain": "124",
+    "description": "Create an eddy current testing framework for rapid inspection of aircraft fuselage and wings to ensure flight safety.",
+    "keywords": ["Eddy Current Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8665,
+    "title": "Pipeline Acoustic Emission Leak Detection",
+    "domain": "124",
+    "description": "Develop a pipeline monitoring system that uses acoustic emission to detect leaks, crack initiation, and corrosion in real-time.",
+    "keywords": ["Acoustic Emission", "Material Flaw Detection"]
+},
+{
+    "id": 8666,
+    "title": "Ultrasonic Flaw Detection in Additive Manufacturing",
+    "domain": "124",
+    "description": "Build a real-time ultrasonic flaw detection system for 3D-printed metallic parts to ensure high reliability in critical applications.",
+    "keywords": ["Ultrasonic Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8667,
+    "title": "AI-Powered Infrared Thermography Analysis",
+    "domain": "124",
+    "description": "Develop an AI-driven image recognition tool for automatic interpretation of infrared thermography results in building inspections.",
+    "keywords": ["Infrared Thermography", "AI", "Structural Health Monitoring"]
+},
+{
+    "id": 8668,
+    "title": "Robotic Arm for Eddy Current Surface Scanning",
+    "domain": "124",
+    "description": "Create a robotic arm equipped with eddy current probes to scan large metallic surfaces for fatigue cracks.",
+    "keywords": ["Eddy Current Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8669,
+    "title": "Magnetic Particle Testing for Automotive Parts",
+    "domain": "124",
+    "description": "Develop a semi-automated magnetic particle testing system for quality inspection of engine components.",
+    "keywords": ["Magnetic Particle Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8670,
+    "title": "Hybrid NDT Inspection System",
+    "domain": "124",
+    "description": "Design a hybrid system that combines ultrasonic, infrared, and eddy current testing for improved flaw detection accuracy.",
+    "keywords": ["Ultrasonic Testing", "Infrared Thermography", "Eddy Current Testing"]
+},
+{
+    "id": 8671,
+    "title": "Underwater Ultrasonic Inspection Robot",
+    "domain": "124",
+    "description": "Develop an underwater robot equipped with ultrasonic sensors to inspect ship hulls and offshore platforms.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8672,
+    "title": "Acoustic Emission Fatigue Life Estimator",
+    "domain": "124",
+    "description": "Implement an acoustic emission-based system that estimates the fatigue life of structural components under stress.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8673,
+    "title": "AI-Enabled X-Ray Defect Classification",
+    "domain": "124",
+    "description": "Build a deep learning model that classifies weld defects from X-ray images into categories such as cracks, porosity, or inclusions.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection", "AI"]
+},
+{
+    "id": 8674,
+    "title": "Drone-Based Infrared Bridge Inspection",
+    "domain": "124",
+    "description": "Develop a drone-mounted infrared thermography system to detect hidden cracks and moisture in bridge structures.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8675,
+    "title": "Portable Acoustic Emission Analyzer",
+    "domain": "124",
+    "description": "Design a compact acoustic emission device for in-field monitoring of cracks in industrial pressure vessels.",
+    "keywords": ["Acoustic Emission", "Material Flaw Detection"]
+},
+{
+    "id": 8676,
+    "title": "Eddy Current Testing for Nuclear Plant Tubes",
+    "domain": "124",
+    "description": "Develop an eddy current inspection tool for early detection of cracks and corrosion in nuclear plant heat exchanger tubes.",
+    "keywords": ["Eddy Current Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8677,
+    "title": "Smart Ultrasonic Welding Defect Detection",
+    "domain": "124",
+    "description": "Create an ultrasonic testing system that monitors welds during fabrication and provides real-time defect alerts.",
+    "keywords": ["Ultrasonic Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8678,
+    "title": "Infrared Thermography for Solar Panel Monitoring",
+    "domain": "124",
+    "description": "Build a system that uses thermography to identify overheating, microcracks, and delamination in solar panels.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8679,
+    "title": "Acoustic Emission Seismic Monitoring",
+    "domain": "124",
+    "description": "Implement an acoustic emission-based monitoring network for detecting micro-fractures in geological formations prone to earthquakes.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8680,
+    "title": "AI-Based Eddy Current Data Analysis",
+    "domain": "124",
+    "description": "Develop an AI tool to interpret eddy current testing signals and distinguish between surface cracks, corrosion, and material thinning.",
+    "keywords": ["Eddy Current Testing", "AI", "Material Flaw Detection"]
+},
+{
+    "id": 8681,
+    "title": "Robot-Assisted X-Ray Tank Inspection",
+    "domain": "124",
+    "description": "Design a robotic crawler equipped with X-ray imaging to inspect internal surfaces of large storage tanks.",
+    "keywords": ["X-Ray Inspection", "Structural Health Monitoring"]
+},
+{
+    "id": 8682,
+    "title": "Automated Magnetic Particle Conveyor Inspection",
+    "domain": "124",
+    "description": "Develop a magnetic particle testing conveyor system for high-speed inspection of manufactured automotive parts.",
+    "keywords": ["Magnetic Particle Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8683,
+    "title": "Ultrasonic Testing for Concrete Structures",
+    "domain": "124",
+    "description": "Create a low-frequency ultrasonic testing solution for detecting voids and cracks in reinforced concrete.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8684,
+    "title": "Infrared Leak Detection in Industrial Plants",
+    "domain": "124",
+    "description": "Design an infrared thermography system for detecting gas and fluid leaks in processing plants without shutdown.",
+    "keywords": ["Infrared Thermography", "Material Flaw Detection"]
+},
+{
+    "id": 8685,
+    "title": "Wireless Acoustic Emission Sensor Network",
+    "domain": "124",
+    "description": "Implement a wireless acoustic emission sensor network for large-scale monitoring of bridges and dams.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8686,
+    "title": "X-Ray CT for Additive Manufacturing Quality",
+    "domain": "124",
+    "description": "Develop an X-ray computed tomography inspection system for detecting voids and layer delamination in 3D-printed parts.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8687,
+    "title": "Magnetic Particle Testing for Aerospace Wheels",
+    "domain": "124",
+    "description": "Design a magnetic particle testing method to inspect aircraft landing gear wheels for fatigue cracks.",
+    "keywords": ["Magnetic Particle Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8688,
+    "title": "AI-Based Multi-Sensor NDT Fusion",
+    "domain": "124",
+    "description": "Create a data fusion framework combining ultrasonic, infrared, and eddy current data for enhanced flaw detection accuracy.",
+    "keywords": ["Ultrasonic Testing", "Infrared Thermography", "Eddy Current Testing"]
+},
+{
+    "id": 8689,
+    "title": "Remote Ultrasonic Corrosion Monitoring",
+    "domain": "124",
+    "description": "Develop an IoT-enabled ultrasonic monitoring device for real-time corrosion detection in industrial pipelines.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8690,
+    "title": "Infrared Thermography for Building Inspections",
+    "domain": "124",
+    "description": "Design a building inspection tool that uses thermal imaging to detect insulation gaps, moisture, and hidden structural flaws.",
+    "keywords": ["Infrared Thermography", "Material Flaw Detection"]
+},
+{
+    "id": 8691,
+    "title": "Acoustic Emission for Composite Blade Monitoring",
+    "domain": "124",
+    "description": "Implement an acoustic emission monitoring system to detect delamination and fatigue in helicopter and wind turbine blades.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8692,
+    "title": "Portable X-Ray Cargo Container Inspection",
+    "domain": "124",
+    "description": "Develop a portable X-ray system for customs officers to detect structural weaknesses and contraband in shipping containers.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8693,
+    "title": "Eddy Current Inspection of Railway Wheels",
+    "domain": "124",
+    "description": "Design an eddy current inspection device for railway wheels to detect rolling contact fatigue and cracks.",
+    "keywords": ["Eddy Current Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8694,
+    "title": "Smart Magnetic Particle Handheld Device",
+    "domain": "124",
+    "description": "Build a handheld magnetic particle inspection device with automated defect visualization using augmented reality.",
+    "keywords": ["Magnetic Particle Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8695,
+    "title": "Underwater Infrared Thermography Drone",
+    "domain": "124",
+    "description": "Develop a waterproof infrared drone for detecting thermal anomalies and cracks in underwater pipelines.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8696,
+    "title": "AI-Enhanced Acoustic Emission Pattern Recognition",
+    "domain": "124",
+    "description": "Create an AI-based signal recognition system to classify different types of acoustic emission events during crack propagation.",
+    "keywords": ["Acoustic Emission", "AI", "Material Flaw Detection"]
+},
+{
+    "id": 8697,
+    "title": "Robotic Ultrasonic Tank Inspection",
+    "domain": "124",
+    "description": "Develop a robotic crawler that performs ultrasonic thickness testing inside liquid storage tanks to detect corrosion.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8698,
+    "title": "Infrared Thermography for Aircraft Wing Deicing",
+    "domain": "124",
+    "description": "Implement an infrared thermography system to monitor de-icing effectiveness and detect hidden ice formation in aircraft wings.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8699,
+    "title": "Acoustic Emission Pipeline Burst Prevention",
+    "domain": "124",
+    "description": "Design a predictive maintenance system that uses acoustic emission to prevent catastrophic pipeline bursts.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8700,
+    "title": "X-Ray Guided Robotic Weld Inspector",
+    "domain": "124",
+    "description": "Develop a robotic system that performs automated weld inspection using X-ray imaging and AI-based defect detection.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8701,
+    "title": "Eddy Current Robotic Crack Mapper",
+    "domain": "124",
+    "description": "Build a robotic eddy current scanner that maps cracks and corrosion patterns in ship hulls and offshore platforms.",
+    "keywords": ["Eddy Current Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8702,
+    "title": "Magnetic Particle Inspection for Railway Axles",
+    "domain": "124",
+    "description": "Develop a magnetic particle system for railway axle inspections to detect fatigue-induced cracks.",
+    "keywords": ["Magnetic Particle Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8703,
+    "title": "Infrared Thermography Fire Risk Detection",
+    "domain": "124",
+    "description": "Design a system that uses infrared thermography to detect hotspots in electrical substations and prevent fires.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8704,
+    "title": "Acoustic Emission for Offshore Rig Monitoring",
+    "domain": "124",
+    "description": "Develop an acoustic emission system for continuous monitoring of offshore oil rigs to detect structural fatigue.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8705,
+    "title": "AI-Driven Ultrasonic Crack Sizing",
+    "domain": "124",
+    "description": "Implement a machine learning model to automatically size cracks detected during ultrasonic testing inspections.",
+    "keywords": ["Ultrasonic Testing", "Material Flaw Detection", "AI"]
+},
+{
+    "id": 8706,
+    "title": "Drone-Mounted Magnetic Particle Inspection",
+    "domain": "124",
+    "description": "Develop a drone with magnetic particle spraying and UV detection capability for large structural inspections.",
+    "keywords": ["Magnetic Particle Testing", "Structural Health Monitoring"]
+},
+{
+    "id": 8707,
+    "title": "X-Ray Microcrack Detection in Electronics",
+    "domain": "124",
+    "description": "Create an X-ray micro-imaging system for detecting solder joint cracks in electronic circuit boards.",
+    "keywords": ["X-Ray Inspection", "Material Flaw Detection"]
+},
+{
+    "id": 8708,
+    "title": "Smart Eddy Current Crack Depth Estimator",
+    "domain": "124",
+    "description": "Design an eddy current system with AI integration to estimate the depth and severity of cracks in metals.",
+    "keywords": ["Eddy Current Testing", "Material Flaw Detection"]
+},
+{
+    "id": 8709,
+    "title": "Infrared Thermography for Railway Infrastructure",
+    "domain": "124",
+    "description": "Implement thermal imaging systems to detect defects in railway overhead lines and concrete sleepers.",
+    "keywords": ["Infrared Thermography", "Structural Health Monitoring"]
+},
+{
+    "id": 8710,
+    "title": "Acoustic Emission Crack Propagation Tracker",
+    "domain": "124",
+    "description": "Build a monitoring solution to track crack propagation rates in pressurized vessels using acoustic emission.",
+    "keywords": ["Acoustic Emission", "Structural Health Monitoring"]
+},
+{
+    "id": 8711,
+    "title": "Ultrasonic Testing for Ship Hull Integrity",
+    "domain": "124",
+    "description": "Design an ultrasonic inspection system for ship hulls to detect corrosion and structural weakness.",
+    "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
+},
+//domain-125
+
 
 
 
