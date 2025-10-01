@@ -68320,6 +68320,305 @@ const PROBLEMS_DATA = {
     "keywords": ["GIS", "Urban Ecosystem", "Sustainability", "Mapping"]
 },
 
+//domain 134
+
+{
+    "id": 9371,
+    "title": "Satellite-Based Deforestation Monitoring",
+    "domain": "134",
+    "description": "Develop a remote sensing system to monitor deforestation and land cover changes using satellite imagery.",
+    "keywords": ["Remote Sensing", "Deforestation", "Satellite Imagery", "Environmental Monitoring"]
+},
+{
+    "id": 9372,
+    "title": "Crop Health Analysis Using Hyperspectral Imaging",
+    "domain": "134",
+    "description": "Use hyperspectral satellite data to detect crop stress and predict yield variations.",
+    "keywords": ["Remote Sensing", "Hyperspectral Imaging", "Agriculture", "Crop Monitoring"]
+},
+{
+    "id": 9373,
+    "title": "Urban Expansion Detection via Satellite Imagery",
+    "domain": "134",
+    "description": "Analyze urban growth patterns and land use changes using multi-temporal satellite images.",
+    "keywords": ["Remote Sensing", "Urban Expansion", "Satellite Imagery", "Land Use"]
+},
+{
+    "id": 9374,
+    "title": "Coastal Erosion Monitoring with Lidar",
+    "domain": "134",
+    "description": "Develop a satellite-based Lidar system to monitor and map coastal erosion over time.",
+    "keywords": ["Remote Sensing", "Coastal Erosion", "Lidar", "Environmental Monitoring"]
+},
+{
+    "id": 9375,
+    "title": "Wildfire Detection Using Satellite Thermal Imaging",
+    "domain": "134",
+    "description": "Implement satellite-based thermal imaging for early detection of wildfires in forested regions.",
+    "keywords": ["Remote Sensing", "Wildfire Detection", "Thermal Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9376,
+    "title": "Glacial Retreat Analysis Using Satellite Data",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor glacial melting and retreat patterns over time.",
+    "keywords": ["Remote Sensing", "Glacial Retreat", "Satellite Imagery", "Climate Change"]
+},
+{
+    "id": 9377,
+    "title": "Soil Moisture Mapping from Remote Sensing",
+    "domain": "134",
+    "description": "Develop methods to map soil moisture levels using satellite-derived data for agricultural planning.",
+    "keywords": ["Remote Sensing", "Soil Moisture", "Satellite Imaging", "Agriculture"]
+},
+{
+    "id": 9378,
+    "title": "Monitoring Urban Heat Islands via Satellite",
+    "domain": "134",
+    "description": "Use satellite thermal imaging to detect and analyze urban heat islands for city planning.",
+    "keywords": ["Remote Sensing", "Urban Heat Island", "Thermal Imaging", "Urban Planning"]
+},
+{
+    "id": 9379,
+    "title": "Flood Extent Mapping Using Satellite Radar",
+    "domain": "134",
+    "description": "Implement radar-based remote sensing to detect and map flood-affected areas in real time.",
+    "keywords": ["Remote Sensing", "Flood Mapping", "Radar", "Disaster Management"]
+},
+{
+    "id": 9380,
+    "title": "Monitoring Vegetation Health with NDVI",
+    "domain": "134",
+    "description": "Use satellite-derived NDVI indices to assess vegetation health and detect stress conditions.",
+    "keywords": ["Remote Sensing", "NDVI", "Vegetation Health", "Satellite Imaging"]
+},
+{
+    "id": 9381,
+    "title": "Air Pollution Detection Using Satellite Sensors",
+    "domain": "134",
+    "description": "Develop satellite-based sensing to monitor air pollutant concentrations over urban areas.",
+    "keywords": ["Remote Sensing", "Air Pollution", "Satellite Sensors", "Environmental Monitoring"]
+},
+{
+    "id": 9382,
+    "title": "Mapping Coastal Mangroves Using Satellite Imagery",
+    "domain": "134",
+    "description": "Detect and monitor coastal mangrove ecosystems through multi-spectral satellite data.",
+    "keywords": ["Remote Sensing", "Mangroves", "Satellite Imagery", "Environmental Conservation"]
+},
+{
+    "id": 9383,
+    "title": "Landslide Risk Prediction via Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery and terrain analysis to predict landslide-prone areas.",
+    "keywords": ["Remote Sensing", "Landslide", "Terrain Analysis", "Risk Prediction"]
+},
+{
+    "id": 9384,
+    "title": "Snow Cover Monitoring Using Satellite Imagery",
+    "domain": "134",
+    "description": "Track seasonal snow cover and changes over time using remote sensing data.",
+    "keywords": ["Remote Sensing", "Snow Cover", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9385,
+    "title": "Detection of Illegal Mining Activities via Satellite",
+    "domain": "134",
+    "description": "Use satellite imagery to identify and monitor illegal mining operations.",
+    "keywords": ["Remote Sensing", "Illegal Mining", "Satellite Imaging", "Environmental Protection"]
+},
+{
+    "id": 9386,
+    "title": "Monitoring Wetland Degradation via Satellite",
+    "domain": "134",
+    "description": "Detect changes in wetland ecosystems over time using multi-temporal satellite images.",
+    "keywords": ["Remote Sensing", "Wetlands", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9387,
+    "title": "Urban Infrastructure Damage Assessment Using Remote Sensing",
+    "domain": "134",
+    "description": "Develop satellite-based tools to assess urban infrastructure damage after disasters.",
+    "keywords": ["Remote Sensing", "Urban Damage", "Satellite Imaging", "Disaster Response"]
+},
+{
+    "id": 9388,
+    "title": "Mapping Desertification Using Satellite Data",
+    "domain": "134",
+    "description": "Use remote sensing to track desertification and land degradation trends.",
+    "keywords": ["Remote Sensing", "Desertification", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9389,
+    "title": "Monitoring Coral Reef Health via Satellite Imaging",
+    "domain": "134",
+    "description": "Use multi-spectral satellite imagery to detect coral bleaching and reef degradation.",
+    "keywords": ["Remote Sensing", "Coral Reefs", "Satellite Imaging", "Environmental Conservation"]
+},
+{
+    "id": 9390,
+    "title": "Real-Time Iceberg Tracking Using Satellite Data",
+    "domain": "134",
+    "description": "Implement a satellite-based system to track iceberg movement and prevent maritime hazards.",
+    "keywords": ["Remote Sensing", "Iceberg Tracking", "Satellite Imaging", "Maritime Safety"]
+},
+{
+    "id": 9391,
+    "title": "Monitoring River Sedimentation via Remote Sensing",
+    "domain": "134",
+    "description": "Track sedimentation patterns in rivers using satellite imagery for water resource management.",
+    "keywords": ["Remote Sensing", "Sedimentation", "Satellite Imaging", "Water Management"]
+},
+{
+    "id": 9392,
+    "title": "Detection of Algal Blooms in Water Bodies Using Satellite",
+    "domain": "134",
+    "description": "Use satellite remote sensing to detect and monitor harmful algal blooms in lakes and rivers.",
+    "keywords": ["Remote Sensing", "Algal Bloom", "Satellite Imaging", "Water Quality"]
+},
+{
+    "id": 9393,
+    "title": "Mapping Glacier Thickness Using Remote Sensing",
+    "domain": "134",
+    "description": "Estimate glacier thickness changes over time using satellite and remote sensing data.",
+    "keywords": ["Remote Sensing", "Glaciers", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9394,
+    "title": "Monitoring Urban Vegetation Canopy Using Satellite Data",
+    "domain": "134",
+    "description": "Analyze urban tree canopy coverage and green spaces using remote sensing technology.",
+    "keywords": ["Remote Sensing", "Urban Vegetation", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9395,
+    "title": "Oil Spill Detection via Satellite Imaging",
+    "domain": "134",
+    "description": "Develop a remote sensing solution to detect and monitor marine oil spills using satellite data.",
+    "keywords": ["Remote Sensing", "Oil Spill", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9396,
+    "title": "Monitoring Agricultural Irrigation Efficiency Using Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery to assess irrigation efficiency and water usage in agricultural fields.",
+    "keywords": ["Remote Sensing", "Irrigation", "Satellite Imaging", "Agriculture"]
+},
+{
+    "id": 9397,
+    "title": "Detection of Urban Roof Solar Potential via Satellite",
+    "domain": "134",
+    "description": "Identify suitable urban rooftops for solar energy installation using satellite imagery.",
+    "keywords": ["Remote Sensing", "Solar Energy", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9398,
+    "title": "Mapping Fire-Prone Areas Using Satellite Thermal Data",
+    "domain": "134",
+    "description": "Analyze thermal satellite data to identify and monitor fire-prone regions.",
+    "keywords": ["Remote Sensing", "Fire Risk", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9399,
+    "title": "Monitoring Glacier Surface Velocity Using Satellite Data",
+    "domain": "134",
+    "description": "Use satellite remote sensing to measure glacier surface movement and dynamics.",
+    "keywords": ["Remote Sensing", "Glacier Velocity", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9400,
+    "title": "Monitoring Coastal Pollution Using Satellite Sensors",
+    "domain": "134",
+    "description": "Detect and map coastal water pollution using satellite-based remote sensing.",
+    "keywords": ["Remote Sensing", "Coastal Pollution", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9401,
+    "title": "Monitoring Forest Fragmentation Using Satellite Data",
+    "domain": "134",
+    "description": "Use remote sensing to detect forest fragmentation and habitat loss over time.",
+    "keywords": ["Remote Sensing", "Forest Fragmentation", "Satellite Imaging", "Conservation"]
+},
+{
+    "id": 9402,
+    "title": "Monitoring Urban Sprawl and Green Cover Reduction via Satellite",
+    "domain": "134",
+    "description": "Analyze urban expansion and loss of green cover using multi-temporal satellite imagery.",
+    "keywords": ["Remote Sensing", "Urban Sprawl", "Green Cover", "Satellite Imaging"]
+},
+{
+    "id": 9403,
+    "title": "Mapping Mountain Glacier Retreat Using Remote Sensing",
+    "domain": "134",
+    "description": "Use satellite imagery to track retreat and thinning of mountain glaciers over time.",
+    "keywords": ["Remote Sensing", "Glacier Retreat", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9404,
+    "title": "Detection of Illegal Logging via Satellite Imaging",
+    "domain": "134",
+    "description": "Implement a remote sensing solution to identify illegal logging activities in forested regions.",
+    "keywords": ["Remote Sensing", "Illegal Logging", "Satellite Imaging", "Forest Monitoring"]
+},
+{
+    "id": 9405,
+    "title": "Monitoring River Meandering Using Satellite Data",
+    "domain": "134",
+    "description": "Track changes in river courses and meanders over time using satellite imagery.",
+    "keywords": ["Remote Sensing", "Rivers", "Satellite Imaging", "Hydrology"]
+},
+{
+    "id": 9406,
+    "title": "Urban Flood Hazard Mapping Using Satellite Radar",
+    "domain": "134",
+    "description": "Use radar remote sensing to map urban areas prone to flooding for disaster preparedness.",
+    "keywords": ["Remote Sensing", "Urban Flood", "Radar", "Disaster Management"]
+},
+{
+    "id": 9407,
+    "title": "Monitoring Vegetation Phenology Using Satellite Imagery",
+    "domain": "134",
+    "description": "Use multi-temporal satellite data to study seasonal vegetation changes and phenology.",
+    "keywords": ["Remote Sensing", "Vegetation Phenology", "Satellite Imaging", "Ecology"]
+},
+{
+    "id": 9408,
+    "title": "Monitoring Water Body Dynamics Using Satellite Data",
+    "domain": "134",
+    "description": "Track seasonal changes and water levels in lakes and rivers using remote sensing imagery.",
+    "keywords": ["Remote Sensing", "Water Bodies", "Satellite Imaging", "Hydrology"]
+},
+{
+    "id": 9409,
+    "title": "Detecting Illegal Urban Encroachment via Satellite",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor and identify illegal construction and encroachments in urban areas.",
+    "keywords": ["Remote Sensing", "Urban Encroachment", "Satellite Imaging", "Urban Planning"]
+},
+{
+    "id": 9410,
+    "title": "Monitoring Desert Vegetation Health Using Satellite Imagery",
+    "domain": "134",
+    "description": "Analyze desert vegetation health and growth patterns using remote sensing data.",
+    "keywords": ["Remote Sensing", "Desert Vegetation", "Satellite Imaging", "Environmental Monitoring"]
+},
+{
+    "id": 9411,
+    "title": "Mapping Snow-Covered Mountains Using Satellite Sensors",
+    "domain": "134",
+    "description": "Use satellite imagery to monitor snow coverage and seasonal variations in mountainous regions.",
+    "keywords": ["Remote Sensing", "Snow Cover", "Satellite Imaging", "Climate Monitoring"]
+},
+{
+    "id": 9412,
+    "title": "Monitoring Urban Air Quality via Satellite Spectral Data",
+    "domain": "134",
+    "description": "Use satellite spectral imagery to detect pollutants and monitor urban air quality over time.",
+    "keywords": ["Remote Sensing", "Air Quality", "Satellite Spectral Data", "Environmental Monitoring"]
+},
+//domain 135
+
+
 
 
 
