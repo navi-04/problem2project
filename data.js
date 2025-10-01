@@ -66660,6 +66660,388 @@ const PROBLEMS_DATA = {
 },
 //domain 130
 
+{
+    "id": 9135,
+    "title": "Smart Coating for Marine Structures",
+    "domain": "130",
+    "description": "Develop an intelligent self-healing protective coating for offshore platforms to reduce corrosion from saltwater exposure.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Marine Environment", "Materials Durability"]
+},
+{
+    "id": 9136,
+    "title": "AI-Based Corrosion Prediction Model",
+    "domain": "130",
+    "description": "Design an AI-driven predictive system to estimate corrosion rates in pipelines under varying pressure and fluid compositions.",
+    "keywords": ["Corrosion Prevention", "Degradation Modeling", "Electrochemistry", "Pipelines"]
+},
+{
+    "id": 9137,
+    "title": "Nano-Inhibitor for Stress Corrosion Cracking",
+    "domain": "130",
+    "description": "Develop nano-scale corrosion inhibitors to mitigate stress corrosion cracking in aerospace alloys.",
+    "keywords": ["Stress Corrosion Cracking", "Nano Coatings", "Corrosion Prevention", "Aerospace Materials"]
+},
+{
+    "id": 9138,
+    "title": "Cathodic Protection Optimization System",
+    "domain": "130",
+    "description": "Create an IoT-enabled monitoring and optimization system for cathodic protection in underground pipelines.",
+    "keywords": ["Cathodic Protection", "Corrosion Prevention", "Pipelines", "IoT"]
+},
+{
+    "id": 9139,
+    "title": "High-Temperature Oxidation Resistant Alloy",
+    "domain": "130",
+    "description": "Develop a new alloy resistant to oxidation at extreme temperatures for use in jet engines.",
+    "keywords": ["Oxidation", "Materials Durability", "Alloys", "High Temperature"]
+},
+{
+    "id": 9140,
+    "title": "Smart Paint for Corrosion Detection",
+    "domain": "130",
+    "description": "Design a paint embedded with sensors that changes color to indicate early stages of corrosion.",
+    "keywords": ["Protective Coatings", "Corrosion Detection", "Electrochemistry", "Smart Materials"]
+},
+{
+    "id": 9141,
+    "title": "Biodegradable Corrosion Inhibitors",
+    "domain": "130",
+    "description": "Develop eco-friendly biodegradable corrosion inhibitors for use in water treatment plants.",
+    "keywords": ["Corrosion Prevention", "Electrochemistry", "Green Chemistry", "Water Systems"]
+},
+{
+    "id": 9142,
+    "title": "Laser Surface Modification",
+    "domain": "130",
+    "description": "Investigate laser-based surface modification techniques to enhance corrosion resistance of stainless steels.",
+    "keywords": ["Surface Modification", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9143,
+    "title": "Corrosion Monitoring Drones",
+    "domain": "130",
+    "description": "Develop drone-based imaging and sensor systems for real-time corrosion inspection of bridges and towers.",
+    "keywords": ["Corrosion Monitoring", "Electrochemistry", "Materials Durability", "Drones"]
+},
+{
+    "id": 9144,
+    "title": "Graphene-Enhanced Protective Coatings",
+    "domain": "130",
+    "description": "Design graphene-based coatings for long-lasting protection of oil rigs and marine ships.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Graphene", "Marine Structures"]
+},
+{
+    "id": 9145,
+    "title": "AI Corrosion Risk Map",
+    "domain": "130",
+    "description": "Develop a GIS-based AI tool to map corrosion-prone areas in large infrastructure projects.",
+    "keywords": ["Degradation Modeling", "GIS", "Corrosion Prevention", "Infrastructure"]
+},
+{
+    "id": 9146,
+    "title": "Electrochemical Noise Analysis Tool",
+    "domain": "130",
+    "description": "Create a portable tool to detect corrosion activity through electrochemical noise analysis in industrial equipment.",
+    "keywords": ["Electrochemistry", "Degradation Modeling", "Materials Durability", "Corrosion Detection"]
+},
+{
+    "id": 9147,
+    "title": "Additive Manufacturing for Corrosion Resistance",
+    "domain": "130",
+    "description": "Use 3D printing to develop alloys with microstructures designed to resist corrosion in aggressive environments.",
+    "keywords": ["Materials Durability", "Corrosion Prevention", "Additive Manufacturing", "Alloys"]
+},
+{
+    "id": 9148,
+    "title": "Moisture-Activated Protective Coating",
+    "domain": "130",
+    "description": "Develop coatings that release corrosion inhibitors when exposed to moisture, offering adaptive protection.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Moisture Resistance", "Materials Durability"]
+},
+{
+    "id": 9149,
+    "title": "Corrosion Resistant Concrete Additives",
+    "domain": "130",
+    "description": "Design admixtures for concrete that prevent corrosion of embedded steel reinforcement in buildings.",
+    "keywords": ["Corrosion Prevention", "Protective Coatings", "Concrete Structures", "Materials Durability"]
+},
+{
+    "id": 9150,
+    "title": "Corrosion-Safe Nuclear Waste Containers",
+    "domain": "130",
+    "description": "Develop long-lasting container materials resistant to corrosion for nuclear waste storage.",
+    "keywords": ["Materials Durability", "Corrosion Prevention", "Oxidation", "Nuclear Storage"]
+},
+{
+    "id": 9151,
+    "title": "Marine Biofilm Resistant Coating",
+    "domain": "130",
+    "description": "Create coatings that prevent biofilm growth which accelerates corrosion in marine environments.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Marine Structures", "Biofilm Resistance"]
+},
+{
+    "id": 9152,
+    "title": "AI-Based Stress Corrosion Detection",
+    "domain": "130",
+    "description": "Develop an AI-based tool for early detection of stress corrosion cracking in oil refineries.",
+    "keywords": ["Stress Corrosion Cracking", "AI", "Corrosion Detection", "Oil Refineries"]
+},
+{
+    "id": 9153,
+    "title": "Corrosion-Resistant Microelectronics Packaging",
+    "domain": "130",
+    "description": "Design new packaging materials for microelectronics to prevent moisture-induced corrosion failures.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Electrochemistry", "Microelectronics"]
+},
+{
+    "id": 9154,
+    "title": "Recyclable Corrosion Protection Film",
+    "domain": "130",
+    "description": "Develop recyclable protective films for temporary corrosion protection of transport components.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Recyclable Materials", "Materials Durability"]
+},
+{
+    "id": 9155,
+    "title": "Corrosion Under Insulation Detection",
+    "domain": "130",
+    "description": "Design sensors for detecting hidden corrosion under insulation in pipelines and industrial plants.",
+    "keywords": ["Corrosion Detection", "Materials Durability", "IoT Sensors", "Pipelines"]
+},
+{
+    "id": 9156,
+    "title": "Hybrid Ceramic-Metal Coatings",
+    "domain": "130",
+    "description": "Create hybrid ceramic-metallic coatings that provide enhanced protection against high-temperature corrosion.",
+    "keywords": ["Protective Coatings", "Oxidation", "Corrosion Prevention", "Ceramic Materials"]
+},
+{
+    "id": 9157,
+    "title": "Underground Storage Tank Protection",
+    "domain": "130",
+    "description": "Develop new corrosion prevention techniques for underground storage tanks carrying hazardous materials.",
+    "keywords": ["Corrosion Prevention", "Cathodic Protection", "Materials Durability", "Storage Tanks"]
+},
+{
+    "id": 9158,
+    "title": "Smart Cathodic Protection Controller",
+    "domain": "130",
+    "description": "Design a self-learning controller that optimizes cathodic protection for changing soil conditions.",
+    "keywords": ["Cathodic Protection", "Corrosion Prevention", "Electrochemistry", "AI"]
+},
+{
+    "id": 9159,
+    "title": "Corrosion Resistant Biodegradable Polymers",
+    "domain": "130",
+    "description": "Develop polymers that resist corrosion while being biodegradable for medical implants.",
+    "keywords": ["Biodegradable Materials", "Corrosion Prevention", "Polymers", "Medical Applications"]
+},
+{
+    "id": 9160,
+    "title": "Robotics for Corrosion Maintenance",
+    "domain": "130",
+    "description": "Design autonomous robots capable of inspecting and repairing corrosion on underwater structures.",
+    "keywords": ["Corrosion Monitoring", "Robotics", "Marine Structures", "Corrosion Prevention"]
+},
+{
+    "id": 9161,
+    "title": "Corrosion Resistant Nanocoatings",
+    "domain": "130",
+    "description": "Develop ultra-thin nanocoatings to enhance corrosion resistance in aerospace materials.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Nanotechnology", "Aerospace Materials"]
+},
+{
+    "id": 9162,
+    "title": "AI Pipeline Corrosion Analyzer",
+    "domain": "130",
+    "description": "Create an AI-based analyzer that predicts corrosion hotspots in long-distance pipelines.",
+    "keywords": ["Degradation Modeling", "AI", "Corrosion Prevention", "Pipelines"]
+},
+{
+    "id": 9163,
+    "title": "Corrosion Resistant Biomedical Alloys",
+    "domain": "130",
+    "description": "Design biomedical alloys resistant to corrosion in body fluids for long-term implants.",
+    "keywords": ["Alloys", "Materials Durability", "Biomedical", "Corrosion Prevention"]
+},
+{
+    "id": 9164,
+    "title": "Zero-Maintenance Corrosion Barriers",
+    "domain": "130",
+    "description": "Develop barriers that require no maintenance for over 20 years while protecting critical infrastructure from corrosion.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Infrastructure", "Materials Durability"]
+},
+{
+    "id": 9165,
+    "title": "Corrosion Detection Using Acoustic Sensors",
+    "domain": "130",
+    "description": "Investigate the use of acoustic sensors for detecting early corrosion in structural steel beams.",
+    "keywords": ["Corrosion Detection", "Acoustic Sensors", "Materials Durability", "Structural Health Monitoring"]
+},
+{
+    "id": 9166,
+    "title": "Microbial Corrosion Prevention System",
+    "domain": "130",
+    "description": "Design systems to control microbial-induced corrosion in oil and gas industries.",
+    "keywords": ["Corrosion Prevention", "Electrochemistry", "Microbial Corrosion", "Oil Industry"]
+},
+{
+    "id": 9167,
+    "title": "High Strength Lightweight Corrosion Resistant Alloy",
+    "domain": "130",
+    "description": "Develop lightweight alloys with enhanced corrosion resistance for automotive applications.",
+    "keywords": ["Alloys", "Corrosion Prevention", "Materials Durability", "Automotive"]
+},
+{
+    "id": 9168,
+    "title": "Corrosion Resistant Coating for Renewable Energy Structures",
+    "domain": "130",
+    "description": "Design corrosion-resistant coatings for offshore wind turbines and solar panel mounts.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Renewable Energy", "Marine Environment"]
+},
+{
+    "id": 9169,
+    "title": "pH-Responsive Corrosion Barrier",
+    "domain": "130",
+    "description": "Create coatings that adapt their corrosion protection properties based on environmental pH changes.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Electrochemistry", "Smart Materials"]
+},
+{
+    "id": 9170,
+    "title": "Electrochemical Corrosion Simulator",
+    "domain": "130",
+    "description": "Develop a simulator to replicate various corrosion processes for accelerated material testing.",
+    "keywords": ["Electrochemistry", "Degradation Modeling", "Corrosion Prevention", "Materials Testing"]
+},
+{
+    "id": 9171,
+    "title": "Corrosion Resistant Transparent Coating",
+    "domain": "130",
+    "description": "Design transparent coatings to protect optical instruments from corrosion in humid climates.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Transparent Materials", "Optical Devices"]
+},
+{
+    "id": 9172,
+    "title": "Self-Lubricating Anti-Corrosion Films",
+    "domain": "130",
+    "description": "Develop protective films that also provide lubrication to reduce wear-corrosion synergy.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Materials Durability", "Lubrication"]
+},
+{
+    "id": 9173,
+    "title": "Corrosion Resistant Nanocomposites",
+    "domain": "130",
+    "description": "Create nanocomposites with enhanced corrosion resistance for structural applications.",
+    "keywords": ["Nanocomposites", "Corrosion Prevention", "Protective Coatings", "Materials Durability"]
+},
+{
+    "id": 9174,
+    "title": "AI Marine Corrosion Forecasting",
+    "domain": "130",
+    "description": "Develop an AI-based forecasting model to predict marine corrosion based on environmental data.",
+    "keywords": ["AI", "Degradation Modeling", "Marine Environment", "Corrosion Prevention"]
+},
+{
+    "id": 9175,
+    "title": "Corrosion Resistant 3D Printing Filaments",
+    "domain": "130",
+    "description": "Design 3D printing materials resistant to corrosion for industrial prototyping in harsh environments.",
+    "keywords": ["3D Printing", "Materials Durability", "Corrosion Prevention", "Polymers"]
+},
+{
+    "id": 9176,
+    "title": "Corrosion Resistant High-Entropy Alloys",
+    "domain": "130",
+    "description": "Investigate high-entropy alloys for their superior corrosion resistance in chemical industries.",
+    "keywords": ["High-Entropy Alloys", "Corrosion Prevention", "Materials Durability", "Oxidation"]
+},
+{
+    "id": 9177,
+    "title": "Corrosion Prevention in Additively Manufactured Lattices",
+    "domain": "130",
+    "description": "Develop protective methods for 3D-printed lattice structures prone to accelerated corrosion.",
+    "keywords": ["Additive Manufacturing", "Lattices", "Corrosion Prevention", "Protective Coatings"]
+},
+{
+    "id": 9178,
+    "title": "Solar-Powered Corrosion Monitoring Sensors",
+    "domain": "130",
+    "description": "Design energy-efficient solar-powered sensors for continuous corrosion monitoring in pipelines.",
+    "keywords": ["Corrosion Monitoring", "Sensors", "Solar Power", "Pipelines"]
+},
+{
+    "id": 9179,
+    "title": "Corrosion Resistant Transparent Polymers",
+    "domain": "130",
+    "description": "Develop transparent polymer coatings that protect glass and plastics from environmental corrosion.",
+    "keywords": ["Protective Coatings", "Polymers", "Corrosion Prevention", "Transparent Materials"]
+},
+{
+    "id": 9180,
+    "title": "Corrosion Resistant Rebar for Construction",
+    "domain": "130",
+    "description": "Develop steel reinforcement bars with built-in corrosion resistance for coastal construction projects.",
+    "keywords": ["Rebar", "Construction", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9181,
+    "title": "AI-Enhanced Corrosion Risk Assessment for Aircraft",
+    "domain": "130",
+    "description": "Create AI models to assess corrosion risk in aircraft components based on operational data.",
+    "keywords": ["AI", "Degradation Modeling", "Aircraft", "Corrosion Prevention"]
+},
+{
+    "id": 9182,
+    "title": "Reversible Protective Coatings",
+    "domain": "130",
+    "description": "Develop coatings that can be easily removed and reapplied without damaging the base material.",
+    "keywords": ["Protective Coatings", "Corrosion Prevention", "Reversible Materials", "Materials Durability"]
+},
+{
+    "id": 9183,
+    "title": "Corrosion Resistant Smart Packaging",
+    "domain": "130",
+    "description": "Design packaging that protects sensitive materials and electronics from corrosion during shipping.",
+    "keywords": ["Smart Packaging", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+{
+    "id": 9184,
+    "title": "AI-Powered Corrosion Lifecycle Estimator",
+    "domain": "130",
+    "description": "Develop an AI tool to estimate the lifecycle of infrastructure components under corrosion stress.",
+    "keywords": ["AI", "Degradation Modeling", "Corrosion Prevention", "Lifecycle Estimation"]
+},
+{
+    "id": 9185,
+    "title": "Corrosion Resistant Biocompatible Coatings",
+    "domain": "130",
+    "description": "Develop coatings that are both corrosion resistant and biocompatible for surgical implants.",
+    "keywords": ["Protective Coatings", "Biocompatibility", "Corrosion Prevention", "Medical Devices"]
+},
+{
+    "id": 9186,
+    "title": "AI-Driven Corrosion Failure Analysis",
+    "domain": "130",
+    "description": "Create an AI-driven platform for root cause analysis of corrosion failures in industries.",
+    "keywords": ["AI", "Degradation Modeling", "Corrosion Prevention", "Failure Analysis"]
+},
+{
+    "id": 9187,
+    "title": "Corrosion Resistant Fire Suppression Systems",
+    "domain": "130",
+    "description": "Design corrosion-resistant piping and tanks for long-term reliability in fire suppression systems.",
+    "keywords": ["Materials Durability", "Protective Coatings", "Corrosion Prevention", "Fire Safety"]
+},
+{
+    "id": 9188,
+    "title": "Bio-Inspired Anti-Corrosion Structures",
+    "domain": "130",
+    "description": "Create bio-inspired surface structures that mimic natural barriers for corrosion resistance.",
+    "keywords": ["Bio-Inspired Design", "Protective Coatings", "Corrosion Prevention", "Materials Durability"]
+},
+
+//domain 131
+
+
 
 
 
