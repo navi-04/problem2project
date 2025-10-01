@@ -68617,6 +68617,420 @@ const PROBLEMS_DATA = {
     "keywords": ["Remote Sensing", "Air Quality", "Satellite Spectral Data", "Environmental Monitoring"]
 },
 //domain 135
+{
+    "id": 9413,
+    "title": "Real-Time Air Quality Monitoring Using NMR Sensors",
+    "domain": "135",
+    "description": "Develop an analytical instrument using NMR spectroscopy to monitor urban air pollutants in real-time.",
+    "keywords": ["NMR Spectroscopy", "Air Quality", "Analytical Instrumentation", "Real-Time Monitoring"]
+},
+{
+    "id": 9414,
+    "title": "Detection of Heavy Metals in Water Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect and quantify trace heavy metals in water sources.",
+    "keywords": ["Mass Spectrometry", "Heavy Metals", "Water Analysis", "Analytical Chemistry"]
+},
+{
+    "id": 9415,
+    "title": "Food Adulteration Detection via Infrared Spectroscopy",
+    "domain": "135",
+    "description": "Develop a portable IR spectroscopy device to detect adulterants in food products.",
+    "keywords": ["IR Spectroscopy", "Food Adulteration", "Portable Instrumentation", "Chemical Analysis"]
+},
+{
+    "id": 9416,
+    "title": "Pharmaceutical Compound Purity Analysis",
+    "domain": "135",
+    "description": "Use Raman spectroscopy to assess the purity and quality of pharmaceutical compounds.",
+    "keywords": ["Raman Spectroscopy", "Pharmaceuticals", "Purity Analysis", "Analytical Instrumentation"]
+},
+{
+    "id": 9417,
+    "title": "Monitoring Soil Contaminants Using Portable NMR",
+    "domain": "135",
+    "description": "Develop a portable NMR device to detect chemical contaminants in soil samples.",
+    "keywords": ["NMR Spectroscopy", "Soil Contamination", "Portable Instrumentation", "Environmental Monitoring"]
+},
+{
+    "id": 9418,
+    "title": "Detection of Microplastics in Water via Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to identify and quantify microplastic particles in water samples.",
+    "keywords": ["Mass Spectrometry", "Microplastics", "Water Analysis", "Environmental Monitoring"]
+},
+{
+    "id": 9419,
+    "title": "Real-Time Breath Analysis for Disease Diagnosis",
+    "domain": "135",
+    "description": "Develop a spectroscopy-based device to analyze human breath for biomarkers of disease.",
+    "keywords": ["Spectroscopy", "Breath Analysis", "Disease Diagnosis", "Analytical Instrumentation"]
+},
+{
+    "id": 9420,
+    "title": "Detection of Pesticide Residues Using IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to detect and quantify pesticide residues in agricultural produce.",
+    "keywords": ["IR Spectroscopy", "Pesticides", "Food Safety", "Analytical Chemistry"]
+},
+{
+    "id": 9421,
+    "title": "Monitoring Airborne Volatile Organic Compounds (VOCs)",
+    "domain": "135",
+    "description": "Develop an analytical instrument using spectroscopy to measure VOCs in urban air environments.",
+    "keywords": ["Spectroscopy", "VOCs", "Air Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9422,
+    "title": "Detection of Heavy Metal Contamination in Soil Using XRF",
+    "domain": "135",
+    "description": "Use X-ray fluorescence spectroscopy to detect and map heavy metal contamination in soils.",
+    "keywords": ["XRF", "Heavy Metals", "Soil Analysis", "Analytical Instrumentation"]
+},
+{
+    "id": 9423,
+    "title": "Real-Time Water Quality Analysis Using Raman Spectroscopy",
+    "domain": "135",
+    "description": "Develop a Raman spectroscopy-based system to monitor water quality in real time.",
+    "keywords": ["Raman Spectroscopy", "Water Quality", "Real-Time Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9424,
+    "title": "Detection of Explosive Residues Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to identify and quantify trace explosive residues in forensic investigations.",
+    "keywords": ["Mass Spectrometry", "Explosives", "Forensics", "Analytical Chemistry"]
+},
+{
+    "id": 9425,
+    "title": "Monitoring Industrial Emissions Using FTIR",
+    "domain": "135",
+    "description": "Develop a spectroscopy-based system to monitor gaseous industrial emissions for regulatory compliance.",
+    "keywords": ["FTIR Spectroscopy", "Industrial Emissions", "Environmental Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9426,
+    "title": "Detection of Protein Conformational Changes via NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to study structural changes in proteins under different environmental conditions.",
+    "keywords": ["NMR Spectroscopy", "Protein Structure", "Analytical Chemistry", "Biochemistry"]
+},
+{
+    "id": 9427,
+    "title": "Detection of Adulterated Cosmetics Using IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to detect harmful or adulterated chemicals in cosmetic products.",
+    "keywords": ["IR Spectroscopy", "Cosmetics", "Adulteration Detection", "Analytical Instrumentation"]
+},
+{
+    "id": 9428,
+    "title": "Quantification of Pharmaceutical Residues in Water",
+    "domain": "135",
+    "description": "Develop a mass spectrometry-based method to quantify pharmaceutical residues in water bodies.",
+    "keywords": ["Mass Spectrometry", "Pharmaceuticals", "Water Analysis", "Environmental Monitoring"]
+},
+{
+    "id": 9429,
+    "title": "Detection of Food Spoilage Using Raman Spectroscopy",
+    "domain": "135",
+    "description": "Use Raman spectroscopy to detect chemical markers of food spoilage for quality control.",
+    "keywords": ["Raman Spectroscopy", "Food Safety", "Spoilage Detection", "Analytical Instrumentation"]
+},
+{
+    "id": 9430,
+    "title": "Monitoring Heavy Metal Bioaccumulation in Plants",
+    "domain": "135",
+    "description": "Use analytical spectroscopy techniques to measure heavy metal accumulation in plant tissues.",
+    "keywords": ["Spectroscopy", "Heavy Metals", "Bioaccumulation", "Environmental Monitoring"]
+},
+{
+    "id": 9431,
+    "title": "Detection of Pharmaceutical Impurities Using NMR",
+    "domain": "135",
+    "description": "Apply NMR spectroscopy to detect impurities in pharmaceutical drug formulations.",
+    "keywords": ["NMR Spectroscopy", "Pharmaceuticals", "Impurity Detection", "Analytical Chemistry"]
+},
+{
+    "id": 9432,
+    "title": "Real-Time Monitoring of Atmospheric Pollutants",
+    "domain": "135",
+    "description": "Develop a spectroscopy-based system to monitor urban atmospheric pollutants in real time.",
+    "keywords": ["Spectroscopy", "Air Quality", "Real-Time Monitoring", "Environmental Monitoring"]
+},
+{
+    "id": 9433,
+    "title": "Detection of Soil Nutrient Deficiencies Using IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to assess soil nutrient levels and deficiencies for precision agriculture.",
+    "keywords": ["IR Spectroscopy", "Soil Analysis", "Nutrients", "Precision Agriculture"]
+},
+{
+    "id": 9434,
+    "title": "Monitoring Trace Gases in Atmosphere via Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect and quantify trace atmospheric gases for climate studies.",
+    "keywords": ["Mass Spectrometry", "Trace Gases", "Atmosphere", "Environmental Monitoring"]
+},
+{
+    "id": 9435,
+    "title": "Detection of Illegal Drug Residues Using Raman Spectroscopy",
+    "domain": "135",
+    "description": "Apply Raman spectroscopy to detect trace drug residues for forensic applications.",
+    "keywords": ["Raman Spectroscopy", "Forensics", "Drug Detection", "Analytical Chemistry"]
+},
+{
+    "id": 9436,
+    "title": "Monitoring Microplastics in Air Using Spectroscopy",
+    "domain": "135",
+    "description": "Use analytical instrumentation to detect and quantify airborne microplastic particles.",
+    "keywords": ["Spectroscopy", "Microplastics", "Air Quality", "Environmental Monitoring"]
+},
+{
+    "id": 9437,
+    "title": "Detection of Contaminants in Drinking Water via FTIR",
+    "domain": "135",
+    "description": "Use FTIR spectroscopy to detect chemical contaminants in potable water sources.",
+    "keywords": ["FTIR", "Water Quality", "Contaminants", "Analytical Instrumentation"]
+},
+{
+    "id": 9438,
+    "title": "Real-Time Detection of Hazardous Industrial Gases",
+    "domain": "135",
+    "description": "Develop a spectroscopy-based sensor to monitor hazardous industrial gases in real time.",
+    "keywords": ["Spectroscopy", "Industrial Gases", "Real-Time Monitoring", "Safety"]
+},
+{
+    "id": 9439,
+    "title": "Monitoring Heavy Metal Leaching from Landfills",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect leaching of heavy metals from landfill sites into soil and water.",
+    "keywords": ["Mass Spectrometry", "Heavy Metals", "Landfill", "Environmental Monitoring"]
+},
+{
+    "id": 9440,
+    "title": "Detection of Food Additives Using NMR Spectroscopy",
+    "domain": "135",
+    "description": "Apply NMR spectroscopy to identify and quantify artificial food additives in processed foods.",
+    "keywords": ["NMR Spectroscopy", "Food Additives", "Analytical Instrumentation", "Food Safety"]
+},
+{
+    "id": 9441,
+    "title": "Detection of Pharmaceutical Residues in Soil Using IR",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to monitor pharmaceutical residues accumulated in soil.",
+    "keywords": ["IR Spectroscopy", "Pharmaceuticals", "Soil Analysis", "Environmental Monitoring"]
+},
+{
+    "id": 9442,
+    "title": "Analysis of Cosmetic Chemical Stability via Raman",
+    "domain": "135",
+    "description": "Use Raman spectroscopy to evaluate chemical stability of cosmetic formulations over time.",
+    "keywords": ["Raman Spectroscopy", "Cosmetics", "Chemical Stability", "Analytical Instrumentation"]
+},
+{
+    "id": 9443,
+    "title": "Detection of Industrial Effluents Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Monitor industrial effluents in water using high-precision mass spectrometry.",
+    "keywords": ["Mass Spectrometry", "Industrial Effluents", "Water Quality", "Analytical Instrumentation"]
+},
+{
+    "id": 9444,
+    "title": "Detection of Airborne Nanoparticles Using Spectroscopy",
+    "domain": "135",
+    "description": "Develop analytical instrumentation to detect and quantify nanoparticles in ambient air.",
+    "keywords": ["Spectroscopy", "Nanoparticles", "Air Quality", "Analytical Instrumentation"]
+},
+{
+    "id": 9445,
+    "title": "Monitoring Soil pH Variations via IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to detect and map pH variations across agricultural fields.",
+    "keywords": ["IR Spectroscopy", "Soil Analysis", "pH Monitoring", "Agriculture"]
+},
+{
+    "id": 9446,
+    "title": "Detection of Persistent Organic Pollutants in Water",
+    "domain": "135",
+    "description": "Use mass spectrometry to identify persistent organic pollutants in water systems.",
+    "keywords": ["Mass Spectrometry", "POP", "Water Quality", "Environmental Monitoring"]
+},
+{
+    "id": 9447,
+    "title": "Monitoring Industrial VOCs Using FTIR Spectroscopy",
+    "domain": "135",
+    "description": "Detect volatile organic compounds from industrial emissions using FTIR spectroscopy.",
+    "keywords": ["FTIR", "VOCs", "Industrial Emissions", "Analytical Instrumentation"]
+},
+{
+    "id": 9448,
+    "title": "Detection of Antibiotic Residues in Food Using NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to identify and quantify antibiotic residues in meat and dairy products.",
+    "keywords": ["NMR Spectroscopy", "Antibiotics", "Food Safety", "Analytical Instrumentation"]
+},
+{
+    "id": 9449,
+    "title": "Detection of Microbial Contamination Using Raman Spectroscopy",
+    "domain": "135",
+    "description": "Apply Raman spectroscopy to detect microbial contamination in food and water samples.",
+    "keywords": ["Raman Spectroscopy", "Microbial Detection", "Food Safety", "Analytical Instrumentation"]
+},
+{
+    "id": 9450,
+    "title": "Monitoring Pharmaceutical Degradation Using IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to track degradation of pharmaceuticals under storage conditions.",
+    "keywords": ["IR Spectroscopy", "Pharmaceuticals", "Degradation Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9451,
+    "title": "Detection of Soil Salinity Using NMR Spectroscopy",
+    "domain": "135",
+    "description": "Develop a method using NMR spectroscopy to monitor soil salinity for agriculture management.",
+    "keywords": ["NMR Spectroscopy", "Soil Salinity", "Agriculture", "Analytical Instrumentation"]
+},
+{
+    "id": 9452,
+    "title": "Analysis of Food Contaminants Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Detect chemical contaminants in food products using high-resolution mass spectrometry.",
+    "keywords": ["Mass Spectrometry", "Food Contaminants", "Analytical Instrumentation", "Food Safety"]
+},
+{
+    "id": 9453,
+    "title": "Monitoring Industrial Acid Gas Emissions via FTIR",
+    "domain": "135",
+    "description": "Use FTIR spectroscopy to detect and quantify acid gases emitted from industrial plants.",
+    "keywords": ["FTIR", "Acid Gas", "Industrial Emissions", "Analytical Instrumentation"]
+},
+{
+    "id": 9454,
+    "title": "Detection of Biochemical Markers in Human Sweat",
+    "domain": "135",
+    "description": "Use spectroscopy-based instrumentation to analyze human sweat for health biomarker detection.",
+    "keywords": ["Spectroscopy", "Biomarkers", "Sweat Analysis", "Health Monitoring"]
+},
+{
+    "id": 9455,
+    "title": "Detection of Oil Contaminants in Soil via IR Spectroscopy",
+    "domain": "135",
+    "description": "Use infrared spectroscopy to detect oil contamination in industrial or spill-affected soils.",
+    "keywords": ["IR Spectroscopy", "Soil Contamination", "Oil Detection", "Analytical Instrumentation"]
+},
+{
+    "id": 9456,
+    "title": "Monitoring Trace Pesticides in Crops Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Detect and quantify trace pesticide residues in crops using mass spectrometry for food safety.",
+    "keywords": ["Mass Spectrometry", "Pesticides", "Crops", "Food Safety"]
+},
+{
+    "id": 9457,
+    "title": "Detection of Pharmaceutical Residues in Milk Using NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to identify and quantify pharmaceutical residues in dairy milk.",
+    "keywords": ["NMR Spectroscopy", "Pharmaceuticals", "Milk Analysis", "Food Safety"]
+},
+{
+    "id": 9458,
+    "title": "Monitoring Environmental VOCs Using Raman Spectroscopy",
+    "domain": "135",
+    "description": "Detect and quantify volatile organic compounds in the environment using Raman spectroscopy.",
+    "keywords": ["Raman Spectroscopy", "VOCs", "Environmental Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9459,
+    "title": "Detection of Industrial Contaminants in Water Using FTIR",
+    "domain": "135",
+    "description": "Use FTIR spectroscopy to identify and quantify industrial contaminants in water bodies.",
+    "keywords": ["FTIR", "Water Contamination", "Industrial Pollutants", "Analytical Instrumentation"]
+},
+{
+    "id": 9460,
+    "title": "Monitoring Food Additives Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect and quantify food additives in processed foods for compliance.",
+    "keywords": ["Mass Spectrometry", "Food Additives", "Food Safety", "Analytical Instrumentation"]
+},
+{
+    "id": 9461,
+    "title": "Detection of Heavy Metals in Vegetables Using NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to identify and quantify heavy metal accumulation in vegetables.",
+    "keywords": ["NMR Spectroscopy", "Heavy Metals", "Vegetables", "Food Safety"]
+},
+{
+    "id": 9462,
+    "title": "Detection of Pharmaceutical Contaminants in Fish",
+    "domain": "135",
+    "description": "Use spectroscopy techniques to monitor pharmaceutical residues in fish for environmental safety.",
+    "keywords": ["Spectroscopy", "Pharmaceuticals", "Fish Analysis", "Environmental Monitoring"]
+},
+{
+    "id": 9463,
+    "title": "Real-Time Detection of Industrial Pollutants in Air",
+    "domain": "135",
+    "description": "Develop a spectroscopy-based real-time sensor to monitor industrial airborne pollutants.",
+    "keywords": ["Spectroscopy", "Industrial Pollutants", "Air Quality", "Real-Time Monitoring"]
+},
+{
+    "id": 9464,
+    "title": "Detection of Contaminants in Honey Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect chemical contaminants and adulterants in honey.",
+    "keywords": ["Mass Spectrometry", "Honey", "Contaminant Detection", "Food Safety"]
+},
+{
+    "id": 9465,
+    "title": "Monitoring Water Soluble Vitamins in Beverages Using NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to quantify water-soluble vitamins in beverage products.",
+    "keywords": ["NMR Spectroscopy", "Vitamins", "Beverage Analysis", "Analytical Instrumentation"]
+},
+{
+    "id": 9466,
+    "title": "Detection of Industrial Smoke Components via FTIR",
+    "domain": "135",
+    "description": "Use FTIR spectroscopy to detect and quantify harmful components in industrial smoke.",
+    "keywords": ["FTIR", "Industrial Smoke", "Pollution Monitoring", "Analytical Instrumentation"]
+},
+{
+    "id": 9467,
+    "title": "Detection of Antibiotic Contamination in Soil Using Raman",
+    "domain": "135",
+    "description": "Use Raman spectroscopy to identify and quantify antibiotics in agricultural soil samples.",
+    "keywords": ["Raman Spectroscopy", "Antibiotics", "Soil Analysis", "Environmental Monitoring"]
+},
+{
+    "id": 9468,
+    "title": "Monitoring Heavy Metal Levels in Drinking Water via NMR",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to detect and quantify heavy metals in potable water.",
+    "keywords": ["NMR Spectroscopy", "Heavy Metals", "Drinking Water", "Environmental Monitoring"]
+},
+{
+    "id": 9469,
+    "title": "Detection of Chemical Contaminants in Seafood Using Mass Spectrometry",
+    "domain": "135",
+    "description": "Use mass spectrometry to detect chemical residues in seafood products for safety.",
+    "keywords": ["Mass Spectrometry", "Seafood", "Contaminants", "Food Safety"]
+},
+{
+    "id": 9470,
+    "title": "Detection of Airborne Pesticide Residues Using FTIR",
+    "domain": "135",
+    "description": "Use FTIR spectroscopy to detect pesticide residues suspended in air for environmental monitoring.",
+    "keywords": ["FTIR", "Pesticides", "Airborne Residues", "Environmental Monitoring"]
+},
+{
+    "id": 9471,
+    "title": "Monitoring Soil Organic Matter via NMR Spectroscopy",
+    "domain": "135",
+    "description": "Use NMR spectroscopy to quantify soil organic matter content for agricultural management.",
+    "keywords": ["NMR Spectroscopy", "Soil Organic Matter", "Agriculture", "Analytical Instrumentation"]
+},
+//domain 136
 
 
 
