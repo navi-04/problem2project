@@ -58972,9 +58972,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8154,
-    "title": "Digital Platform for $\text{Food}$ $\text{Service}$ $\text{Time-Temperature}$ $\text{Logging}$",
+    "title": "Digital Platform for Food Service Time-Temperature Logging",
     "domain": "116",
-    "description": "Create a simple, $\text{IoT}$-enabled system for restaurants and food service to automatically log and verify cooking, holding, and cooling temperatures/times for regulatory compliance.",
+    "description": "Create a simple, IoT-enabled system for restaurants and food service to automatically log and verify cooking, holding, and cooling temperatures/times for regulatory compliance.",
     "keywords": [
       "Food Service Safety",
       "Time-Temperature Control",
@@ -58983,9 +58983,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8155,
-    "title": "Predictive Model for $\text{Heavy}$ $\text{Metal}$ $\text{Contamination}$ in $\text{Seafood}$",
+    "title": "Predictive Model for Heavy Metal Contamination in Seafood",
     "domain": "116",
-    "description": "Build an $\text{AI}$ model that uses catch location, fish species/size, and historical oceanographic data to predict the $\text{mercury}$ and heavy metal concentration in wild-caught fish.",
+    "description": "Build an AI model that uses catch location, fish species/size, and historical oceanographic data to predict the mercury and heavy metal concentration in wild-caught fish.",
     "keywords": [
       "Seafood Safety",
       "Heavy Metal Prediction",
@@ -58994,9 +58994,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8156,
-    "title": "AI for Automated $\text{Personnel}$ $\text{Traffic}$ $\text{Flow}$ $\text{Optimization}$",
+    "title": "AI for Automated Personnel Traffic Flow Optimization",
     "domain": "116",
-    "description": "Use $\text{Wi-Fi}$ $\text{RTLS}$ (Real-Time Location System) or $\text{CCTV}$ and $\text{AI}$ to analyze employee movement within a facility, optimizing traffic flow to prevent cross-contamination between raw and finished zones.",
+    "description": "Use Wi-Fi RTLS (Real-Time Location System) or CCTV and AI to analyze employee movement within a facility, optimizing traffic flow to prevent cross-contamination between raw and finished zones.",
     "keywords": [
       "Personnel Flow",
       "Cross-Contamination",
@@ -59006,9 +59006,9 @@ const PROBLEMS_DATA = {
   // domain 117
   {
     "id": 8157,
-    "title": "AI-Driven Active Noise Cancellation ($\text{ANC}$) for Industrial Machinery",
+    "title": "AI-Driven Active Noise Cancellation (ANC) for Industrial Machinery",
     "domain": "117",
-    "description": "Develop an $\text{AI}$ system that learns the complex, non-linear noise signatures of heavy industrial machinery (e.g., stamping presses, generators) and generates targeted anti-noise in real-time to achieve $\text{>15 dB}$ attenuation.",
+    "description": "Develop an AI system that learns the complex, non-linear noise signatures of heavy industrial machinery (e.g., stamping presses, generators) and generates targeted anti-noise in real-time to achieve >15 dB attenuation.",
     "keywords": [
       "Active Noise Cancellation",
       "Industrial Noise",
@@ -59028,9 +59028,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8159,
-    "title": "Predictive Model for Urban Traffic Noise Mapping ($\text{3D}$)",
+    "title": "Predictive Model for Urban Traffic Noise Mapping (3D)",
     "domain": "117",
-    "description": "Build a computational model that integrates real-time traffic data, weather conditions, terrain geometry, and building structures to generate an accurate, predictive $\text{3D}$ noise map of an urban area.",
+    "description": "Build a computational model that integrates real-time traffic data, weather conditions, terrain geometry, and building structures to generate an accurate, predictive 3D noise map of an urban area.",
     "keywords": [
       "Urban Acoustics",
       "Noise Mapping",
@@ -59041,7 +59041,7 @@ const PROBLEMS_DATA = {
     "id": 8160,
     "title": "IoT System for Real-Time Construction Site Noise Monitoring",
     "domain": "117",
-    "description": "Deploy a network of $\text{IoT}$ noise sensors and weather stations to continuously monitor sound pressure levels ($\text{dBA, dBC}$) on construction sites, automatically generating alerts and compliance reports.",
+    "description": "Deploy a network of IoT noise sensors and weather stations to continuously monitor sound pressure levels (dBA, dBC) on construction sites, automatically generating alerts and compliance reports.",
     "keywords": [
       "IoT Noise Monitoring",
       "Construction Noise",
@@ -59050,9 +59050,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8161,
-    "title": "Acoustic Dampening for High-Speed $\text{HVAC}$ $\text{Duct}$ $\text{Systems}$",
+    "title": "Acoustic Dampening for High-Speed HVAC Duct Systems",
     "domain": "117",
-    "description": "Develop novel internal duct linings or silent $\text{diffusers}$ that significantly reduce fan and airflow noise without increasing pressure drop in high-velocity $\text{HVAC}$ systems.",
+    "description": "Develop novel internal duct linings or silent diffusers that significantly reduce fan and airflow noise without increasing pressure drop in high-velocity HVAC systems.",
     "keywords": [
       "HVAC Noise Control",
       "Acoustic Dampening",
@@ -59072,9 +59072,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8163,
-    "title": "Vibration-to-Noise Reduction for Electric Vehicle ($\text{EV}$) Powertrains",
+    "title": "Vibration-to-Noise Reduction for Electric Vehicle (EV) Powertrains",
     "domain": "117",
-    "description": "Develop materials or mounting systems that isolate and absorb high-frequency $\text{NVH}$ (Noise, Vibration, and Harshness) generated by $\text{EV}$ motors and inverters, which become more prominent without engine noise.",
+    "description": "Develop materials or mounting systems that isolate and absorb high-frequency NVH (Noise, Vibration, and Harshness) generated by EV motors and inverters, which become more prominent without engine noise.",
     "keywords": [
       "NVH",
       "Electric Vehicles",
@@ -59083,9 +59083,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8164,
-    "title": "Personalized $\text{ANC}$ System Integrated into Office Cubicles",
+    "title": "Personalized ANC System Integrated into Office Cubicles",
     "domain": "117",
-    "description": "Design a small, directional $\text{ANC}$ system integrated into a workspace cubicle to specifically cancel distracting speech and office chatter for the individual occupant without affecting neighbors.",
+    "description": "Design a small, directional ANC system integrated into a workspace cubicle to specifically cancel distracting speech and office chatter for the individual occupant without affecting neighbors.",
     "keywords": [
       "Active Noise Cancellation",
       "Office Acoustics",
@@ -59096,7 +59096,7 @@ const PROBLEMS_DATA = {
     "id": 8165,
     "title": "Acoustic Monitoring for Predictive Maintenance of Wind Turbines",
     "domain": "117",
-    "description": "Use passive acoustic sensors and $\text{AI}$ signal processing to detect early warning signs of mechanical failure (e.g., gearbox wear, blade damage) in wind turbines by analyzing subtle changes in operational noise.",
+    "description": "Use passive acoustic sensors and AI signal processing to detect early warning signs of mechanical failure (e.g., gearbox wear, blade damage) in wind turbines by analyzing subtle changes in operational noise.",
     "keywords": [
       "Predictive Maintenance",
       "Acoustic Sensing",
@@ -59116,9 +59116,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8167,
-    "title": "AI for Automated Fault Detection in Pipe $\text{Leak}$ $\text{Acoustics}$",
+    "title": "AI for Automated Fault Detection in Pipe Leak Acoustics",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze acoustic data from underground pipelines (water, gas) to distinguish between normal flow noise and the specific signatures of leaks or structural defects.",
+    "description": "Train an AI model to analyze acoustic data from underground pipelines (water, gas) to distinguish between normal flow noise and the specific signatures of leaks or structural defects.",
     "keywords": [
       "Acoustic Leak Detection",
       "Pipeline Inspection",
@@ -59129,7 +59129,7 @@ const PROBLEMS_DATA = {
     "id": 8168,
     "title": "Variable Acoustic Treatments for Multi-Purpose Rooms",
     "domain": "117",
-    "description": "Design and implement a dynamic system of motorized or programmable acoustic panels and $\text{diffusers}$ that can instantly change the room's acoustic properties for different uses (e.g., lecture, band, meeting).",
+    "description": "Design and implement a dynamic system of motorized or programmable acoustic panels and diffusers that can instantly change the room's acoustic properties for different uses (e.g., lecture, band, meeting).",
     "keywords": [
       "Variable Acoustics",
       "Room Design",
@@ -59140,7 +59140,7 @@ const PROBLEMS_DATA = {
     "id": 8169,
     "title": "Noise Control for High-Density Data Centers",
     "domain": "117",
-    "description": "Develop novel cooling system designs (e.g., liquid cooling jackets, silent fans) and acoustic enclosures to reduce the extreme $\text{white}$ $\text{noise}$ and high-frequency fan noise in modern data centers.",
+    "description": "Develop novel cooling system designs (e.g., liquid cooling jackets, silent fans) and acoustic enclosures to reduce the extreme white noise and high-frequency fan noise in modern data centers.",
     "keywords": [
       "Data Center Noise",
       "Acoustic Enclosures",
@@ -59171,9 +59171,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8172,
-    "title": "Predictive Model for Aircraft Flyover Noise in Urban Air Mobility ($\text{UAM}$)",
+    "title": "Predictive Model for Aircraft Flyover Noise in Urban Air Mobility (UAM)",
     "domain": "117",
-    "description": "Build an acoustic prediction model for the noise footprint of future $\text{UAM}$ vehicles ($\text{eVTOL}$) that considers rotor design, flight path, and urban canyon effects for community noise planning.",
+    "description": "Build an acoustic prediction model for the noise footprint of future UAM vehicles (eVTOL) that considers rotor design, flight path, and urban canyon effects for community noise planning.",
     "keywords": [
       "Aircraft Noise",
       "Urban Air Mobility",
@@ -59182,9 +59182,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8173,
-    "title": "AI for Automated $\text{Soundscape}$ $\text{Analysis}$ and $\text{Acoustic}$ $\text{Comfort}$ $\text{Assessment}$",
+    "title": "AI for Automated Soundscape Analysis and Acoustic Comfort Assessment",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze the full soundscape ($\text{natural, human, mechanical}$ sounds) of an environment and quantitatively assess the perceived acoustic comfort and quality for occupants.",
+    "description": "Train an AI model to analyze the full soundscape (natural, human, mechanical sounds) of an environment and quantitatively assess the perceived acoustic comfort and quality for occupants.",
     "keywords": [
       "Soundscape Analysis",
       "Acoustic Comfort",
@@ -59193,9 +59193,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8174,
-    "title": "Acoustic Shielding for Medical Imaging Equipment (e.g., $\text{MRI}$)",
+    "title": "Acoustic Shielding for Medical Imaging Equipment (e.g., MRI)",
     "domain": "117",
-    "description": "Develop novel acoustic enclosures or patient-worn $\text{ANC}$ devices to drastically reduce the high-intensity, transient noise generated by $\text{MRI}$ machines, improving patient experience.",
+    "description": "Develop novel acoustic enclosures or patient-worn ANC devices to drastically reduce the high-intensity, transient noise generated by MRI machines, improving patient experience.",
     "keywords": [
       "Medical Acoustics",
       "MRI Noise",
@@ -59239,7 +59239,7 @@ const PROBLEMS_DATA = {
     "id": 8178,
     "title": "Digital Twin for Building Façade Sound Transmission Optimization",
     "domain": "117",
-    "description": "Create a $\text{Digital}$ $\text{Twin}$ to simulate the sound transmission loss ($\text{STL}$) and flanking noise paths through complex building façades (windows, walls, doors, joints) for optimal noise ingress reduction.",
+    "description": "Create a Digital Twin to simulate the sound transmission loss (STL) and flanking noise paths through complex building façades (windows, walls, doors, joints) for optimal noise ingress reduction.",
     "keywords": [
       "Building Acoustics",
       "Sound Transmission Loss",
@@ -59250,7 +59250,7 @@ const PROBLEMS_DATA = {
     "id": 8179,
     "title": "AI for Real-Time Speaker Identification and Noise Source Separation",
     "domain": "117",
-    "description": "Develop an $\text{AI}$ model that can accurately isolate and identify individual human voices and separate them from background noise in highly reverberant or noisy environments for surveillance or security.",
+    "description": "Develop an AI model that can accurately isolate and identify individual human voices and separate them from background noise in highly reverberant or noisy environments for surveillance or security.",
     "keywords": [
       "Signal Separation",
       "AI Speech Processing",
@@ -59272,7 +59272,7 @@ const PROBLEMS_DATA = {
     "id": 8181,
     "title": "Acoustic Sensing for Early Forest Fire Detection",
     "domain": "117",
-    "description": "Design a passive acoustic sensor network and $\text{AI}$ processing to detect the unique, subtle sound signatures (e.g., crackling, low-frequency rumble) of a developing forest fire over large areas.",
+    "description": "Design a passive acoustic sensor network and AI processing to detect the unique, subtle sound signatures (e.g., crackling, low-frequency rumble) of a developing forest fire over large areas.",
     "keywords": [
       "Acoustic Sensing",
       "Environmental Monitoring",
@@ -59281,9 +59281,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8182,
-    "title": "Noise Reduction for Unmanned Aerial Vehicles ($\text{UAV}$) Propellers",
+    "title": "Noise Reduction for Unmanned Aerial Vehicles (UAV) Propellers",
     "domain": "117",
-    "description": "Design and test novel propeller blade geometries, coatings, or tip treatments that significantly reduce the tonal and broadband noise signatures of $\text{UAV}$ $\text{(Drone)}$ rotors.",
+    "description": "Design and test novel propeller blade geometries, coatings, or tip treatments that significantly reduce the tonal and broadband noise signatures of UAV (Drone) rotors.",
     "keywords": [
       "UAV Noise",
       "Rotor Acoustics",
@@ -59325,9 +59325,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8186,
-    "title": "$\text{Active}$ $\text{Noise}$ $\text{Damping}$ for $\text{Structural}$ $\text{Vibration}$ in $\text{Ships}$",
+    "title": "Active Noise Damping for Structural Vibration in Ships",
     "domain": "117",
-    "description": "Implement an $\text{ANC}$-like system using accelerometers and actuators to actively counteract and reduce low-frequency structural vibration and resultant noise in large marine vessels.",
+    "description": "Implement an ANC-like system using accelerometers and actuators to actively counteract and reduce low-frequency structural vibration and resultant noise in large marine vessels.",
     "keywords": [
       "Active Vibration Control",
       "Structural Acoustics",
@@ -59336,9 +59336,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8187,
-    "title": "AI for Automated $\text{Environmental}$ $\text{Sound}$ $\text{Classification}$ $\text{for}$ $\text{Wildlife}$ $\text{Monitoring}$",
+    "title": "AI for Automated Environmental Sound Classification for Wildlife Monitoring",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to classify and tag thousands of hours of acoustic data from wilderness areas, automatically identifying specific animal species, human activity, and environmental sounds.",
+    "description": "Train an AI model to classify and tag thousands of hours of acoustic data from wilderness areas, automatically identifying specific animal species, human activity, and environmental sounds.",
     "keywords": [
       "Bioacoustics",
       "AI Classification",
@@ -59349,7 +59349,7 @@ const PROBLEMS_DATA = {
     "id": 8188,
     "title": "Low-Cost, Portable Acoustic Intensity Meter",
     "domain": "117",
-    "description": "Develop an affordable, handheld device capable of measuring sound intensity ($\text{W/m}^2$) to accurately locate the direction and magnitude of noise leaks in industrial or architectural settings.",
+    "description": "Develop an affordable, handheld device capable of measuring sound intensity (W/m²) to accurately locate the direction and magnitude of noise leaks in industrial or architectural settings.",
     "keywords": [
       "Acoustic Instrumentation",
       "Sound Intensity",
@@ -59369,7 +59369,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8190,
-    "title": "Predictive Model for $\text{Impact}$ $\text{Noise}$ $\text{Transmission}$ in $\text{Multi-Story}$ $\text{Buildings}$",
+    "title": "Predictive Model for Impact Noise Transmission in Multi-Story Buildings",
     "domain": "117",
     "description": "Build a simulation model to accurately forecast the transmission of footfall and impact noise between different floors in multi-unit residential buildings with various floor assemblies.",
     "keywords": [
@@ -59380,7 +59380,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8191,
-    "title": "Noise Control for High-Power $\text{Generators}$ and $\text{Engines}$",
+    "title": "Noise Control for High-Power Generators and Engines",
     "domain": "117",
     "description": "Develop advanced muffler and enclosure designs that significantly reduce the exhaust and mechanical noise from large, standby power generators while maintaining ventilation and cooling requirements.",
     "keywords": [
@@ -59391,7 +59391,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8192,
-    "title": "Acoustic Sensor Network for $\text{Early}$ $\text{Detection}$ $\text{of}$ $\text{Rockfall}$ $\text{and}$ $\text{Landslides}$",
+    "title": "Acoustic Sensor Network for Early Detection of Rockfall and Landslides",
     "domain": "117",
     "description": "Deploy a network of acoustic sensors and use machine learning to detect the early, subtle sounds associated with ground instability, rock cracking, and potential landslides in high-risk areas.",
     "keywords": [
@@ -59402,9 +59402,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8193,
-    "title": "AI-Driven $\text{ANC}$ for Open-Air $\text{Stadiums}$ and $\text{Public}$ $\text{Spaces}$",
+    "title": "AI-Driven ANC for Open-Air Stadiums and Public Spaces",
     "domain": "117",
-    "description": "Develop an $\text{ANC}$ system using large arrays of speakers and microphones to reduce excessive, transient noise (e.g., crowd cheering, fireworks) at the stadium perimeter, protecting surrounding neighborhoods.",
+    "description": "Develop an ANC system using large arrays of speakers and microphones to reduce excessive, transient noise (e.g., crowd cheering, fireworks) at the stadium perimeter, protecting surrounding neighborhoods.",
     "keywords": [
       "Active Noise Cancellation",
       "Outdoor Acoustics",
@@ -59424,9 +59424,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8195,
-    "title": "Vibration Damping for $\text{3D}$ $\text{Printers}$ and $\text{Additive}$ $\text{Manufacturing}$",
+    "title": "Vibration Damping for 3D Printers and Additive Manufacturing",
     "domain": "117",
-    "description": "Develop internal damping structures or isolation mounts to reduce the motor, fan, and mechanical movement noise and vibration in $\text{3D}$ printers, improving output quality and reducing workspace noise.",
+    "description": "Develop internal damping structures or isolation mounts to reduce the motor, fan, and mechanical movement noise and vibration in 3D printers, improving output quality and reducing workspace noise.",
     "keywords": [
       "Vibration Damping",
       "Additive Manufacturing",
@@ -59435,9 +59435,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8196,
-    "title": "AI for Automated $\text{Road}$ $\text{Pavement}$ $\text{Acoustic}$ $\text{Quality}$ $\text{Assessment}$",
+    "title": "AI for Automated Road Pavement Acoustic Quality Assessment",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze the acoustic signatures generated by a vehicle's tire interaction with pavement to automatically classify the pavement condition and tire noise properties.",
+    "description": "Train an AI model to analyze the acoustic signatures generated by a vehicle's tire interaction with pavement to automatically classify the pavement condition and tire noise properties.",
     "keywords": [
       "Tire-Pavement Noise",
       "Acoustic Sensing",
@@ -59446,7 +59446,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8197,
-    "title": "Digital Twin for Submarine $\text{Acoustic}$ $\text{Signature}$ $\text{Minimization}$",
+    "title": "Digital Twin for Submarine Acoustic Signature Minimization",
     "domain": "117",
     "description": "Create a virtual model of a submarine structure and propulsion system to simulate and optimize noise radiation patterns, reducing the overall acoustic signature for stealth.",
     "keywords": [
@@ -59479,7 +59479,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8200,
-    "title": "Acoustic Sensing for $\text{Piping}$ $\text{Vibration}$ and $\text{Fatigue}$ $\text{Monitoring}$",
+    "title": "Acoustic Sensing for Piping Vibration and Fatigue Monitoring",
     "domain": "117",
     "description": "Use acoustic emission sensors to monitor the internal flow noise and structural vibration of piping systems, detecting early signs of fatigue, erosion, or cavitation.",
     "keywords": [
@@ -59490,7 +59490,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8201,
-    "title": "Active $\text{Control}$ of $\text{Propeller}$ $\text{Cavitation}$ $\text{Noise}$ in $\text{Marine}$ $\text{Vessels}$",
+    "title": "Active Control of Propeller Cavitation Noise in Marine Vessels",
     "domain": "117",
     "description": "Develop a feedback control system to actively mitigate or reduce the high-intensity, broadband noise generated by propeller cavitation in ships.",
     "keywords": [
@@ -59501,9 +59501,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8202,
-    "title": "Bio-Inspired Surfaces for $\text{Aerodynamic}$ $\text{Noise}$ $\text{Reduction}$",
+    "title": "Bio-Inspired Surfaces for Aerodynamic Noise Reduction",
     "domain": "117",
-    "description": "Research and apply micro-surface textures (e.g., based on owl feathers or shark skin) to airfoils, fan blades, or vehicle surfaces to reduce $\text{turbulent}$ $\text{boundary}$ $\text{layer}$ noise.",
+    "description": "Research and apply micro-surface textures (e.g., based on owl feathers or shark skin) to airfoils, fan blades, or vehicle surfaces to reduce turbulent boundary layer noise.",
     "keywords": [
       "Aeroacoustics",
       "Bio-Inspired Design",
@@ -59512,9 +59512,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8203,
-    "title": "$\text{AI}$ $\text{for}$ $\text{Automated}$ $\text{Acoustic}$ $\text{Inspection}$ $\text{of}$ $\text{Welds}$ $\text{and}$ $\text{Joints}$",
+    "title": "AI for Automated Acoustic Inspection of Welds and Joints",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze $\text{ultrasonic}$ or $\text{acoustic}$ $\text{emission}$ signals during or after welding/bonding to automatically detect internal defects, cracks, or voids.",
+    "description": "Train an AI model to analyze ultrasonic or acoustic emission signals during or after welding/bonding to automatically detect internal defects, cracks, or voids.",
     "keywords": [
       "Non-Destructive Testing",
       "Acoustic Emission",
@@ -59523,9 +59523,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8204,
-    "title": "Low-Cost, $\text{Wireless}$ $\text{Vibration}$ $\text{Monitoring}$ $\text{Sensor}$ $\text{Network}$",
+    "title": "Low-Cost, Wireless Vibration Monitoring Sensor Network",
     "domain": "117",
-    "description": "Design an inexpensive, self-powered, and easily deployable $\text{IoT}$ network of accelerometers for continuous vibration monitoring of many mechanical assets (pumps, motors, bearings).",
+    "description": "Design an inexpensive, self-powered, and easily deployable IoT network of accelerometers for continuous vibration monitoring of many mechanical assets (pumps, motors, bearings).",
     "keywords": [
       "Vibration Monitoring",
       "IoT Sensors",
@@ -59534,9 +59534,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8205,
-    "title": "Acoustic Metamaterials for Low-Frequency $\text{Tire}$ $\text{Noise}$ $\text{Absorption}$",
+    "title": "Acoustic Metamaterials for Low-Frequency Tire Noise Absorption",
     "domain": "117",
-    "description": "Design acoustic liners or treatments embedded near the $\text{wheel}$ $\text{arch}$ of vehicles, using metamaterials to target and absorb the low-frequency noise generated by tire-road interaction.",
+    "description": "Design acoustic liners or treatments embedded near the wheel arch of vehicles, using metamaterials to target and absorb the low-frequency noise generated by tire-road interaction.",
     "keywords": [
       "Tire Noise",
       "Vehicle NVH",
@@ -59545,7 +59545,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8206,
-    "title": "Predictive Model for $\text{Flanking}$ $\text{Noise}$ $\text{Transmission}$ in $\text{Modular}$ $\text{Buildings}$",
+    "title": "Predictive Model for Flanking Noise Transmission in Modular Buildings",
     "domain": "117",
     "description": "Build a simulation model to accurately predict the complex flanking noise paths in modular or prefabricated building structures, which often have unique joint characteristics.",
     "keywords": [
@@ -59556,9 +59556,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8207,
-    "title": "Acoustic Control for $\text{Quantum}$ $\text{Computing}$ $\text{Cryogenic}$ $\text{Systems}$",
+    "title": "Acoustic Control for Quantum Computing Cryogenic Systems",
     "domain": "117",
-    "description": "Develop specialized vibration and acoustic isolation systems for the $\text{cryogenic}$ $\text{refrigerators}$ used in $\text{quantum}$ $\text{computers}$, where even minute acoustic energy can disrupt qubit coherence.",
+    "description": "Develop specialized vibration and acoustic isolation systems for the cryogenic refrigerators used in quantum computers, where even minute acoustic energy can disrupt qubit coherence.",
     "keywords": [
       "Quantum Computing",
       "Cryogenic Acoustics",
@@ -59567,9 +59567,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8208,
-    "title": "AI for Automated $\text{Leak}$ $\text{Detection}$ $\text{in}$ $\text{High-Pressure}$ $\text{Gas}$ $\text{Systems}$",
+    "title": "AI for Automated Leak Detection in High-Pressure Gas Systems",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze acoustic or ultrasonic data to rapidly and accurately pinpoint the location and size of leaks in high-pressure gas distribution or processing systems.",
+    "description": "Train an AI model to analyze acoustic or ultrasonic data to rapidly and accurately pinpoint the location and size of leaks in high-pressure gas distribution or processing systems.",
     "keywords": [
       "Leak Detection",
       "Ultrasonic Acoustics",
@@ -59578,7 +59578,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8209,
-    "title": "Acoustic Monitoring of $\text{Bridge}$ $\text{Cable}$ $\text{Integrity}$",
+    "title": "Acoustic Monitoring of Bridge Cable Integrity",
     "domain": "117",
     "description": "Deploy a network of acoustic sensors on bridge suspension cables to detect the subtle acoustic emissions generated by internal wire breakage, corrosion, or fatigue.",
     "keywords": [
@@ -59589,9 +59589,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8210,
-    "title": "Adaptive $\text{ANC}$ for $\text{Open}$ $\text{Cockpits}$ and $\text{Helmets}$",
+    "title": "Adaptive ANC for Open Cockpits and Helmets",
     "domain": "117",
-    "description": "Develop an $\text{ANC}$ system optimized for open-air environments (e.g., flight decks, motorcycle helmets) that can rapidly adapt to highly variable and directional wind/air flow noise.",
+    "description": "Develop an ANC system optimized for open-air environments (e.g., flight decks, motorcycle helmets) that can rapidly adapt to highly variable and directional wind/air flow noise.",
     "keywords": [
       "Active Noise Cancellation",
       "Aeroacoustics",
@@ -59600,9 +59600,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8211,
-    "title": "Bio-Inspired $\text{Vibration}$ $\text{Damping}$ $\text{Materials}$",
+    "title": "Bio-Inspired Vibration Damping Materials",
     "domain": "117",
-    "description": "Research and create damping materials or structures that mimic biological forms (e.g., bone structure, tree rings) to achieve superior $\text{broadband}$ $\text{vibration}$ $\text{absorption}$ efficiency per unit weight.",
+    "description": "Research and create damping materials or structures that mimic biological forms (e.g., bone structure, tree rings) to achieve superior broadband vibration absorption efficiency per unit weight.",
     "keywords": [
       "Vibration Damping",
       "Bio-Inspired Materials",
@@ -59611,9 +59611,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8212,
-    "title": "AI for Automated $\text{Acoustic}$ $\text{Quality}$ $\text{Control}$ $\text{in}$ $\text{Manufacturing}$",
+    "title": "AI for Automated Acoustic Quality Control in Manufacturing",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to listen to the operational sounds of mass-produced products (e.g., appliances, motors, toys) on the assembly line to automatically detect subtle defects and quality flaws.",
+    "description": "Train an AI model to listen to the operational sounds of mass-produced products (e.g., appliances, motors, toys) on the assembly line to automatically detect subtle defects and quality flaws.",
     "keywords": [
       "Acoustic Quality Control",
       "Manufacturing Inspection",
@@ -59622,9 +59622,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8213,
-    "title": "Digital Twin for Sub-Sonic $\text{Jet}$ $\text{Noise}$ $\text{Mitigation}$",
+    "title": "Digital Twin for Sub-Sonic Jet Noise Mitigation",
     "domain": "117",
-    "description": "Create a virtual model of a jet engine exhaust nozzle and use $\text{CFD/Acoustic}$ analysis to design optimal chevrons or flow-control devices for reducing mixing noise during takeoff and landing.",
+    "description": "Create a virtual model of a jet engine exhaust nozzle and use CFD/Acoustic analysis to design optimal chevrons or flow-control devices for reducing mixing noise during takeoff and landing.",
     "keywords": [
       "Jet Noise",
       "Aeroacoustics",
@@ -59633,7 +59633,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8214,
-    "title": "Low-Cost $\text{Acoustic}$ $\text{Impedance}$ $\text{Tube}$ for $\text{Material}$ $\text{Testing}$",
+    "title": "Low-Cost Acoustic Impedance Tube for Material Testing",
     "domain": "117",
     "description": "Design an inexpensive, standardized, and portable impedance tube system to allow rapid, accurate measurement of the acoustic absorption coefficient and impedance of small material samples.",
     "keywords": [
@@ -59644,7 +59644,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8215,
-    "title": "Acoustic Metamaterial for $\text{Directional}$ $\text{Sound}$ $\text{Focusing}$ $\text{and}$ $\text{Shielding}$",
+    "title": "Acoustic Metamaterial for Directional Sound Focusing and Shielding",
     "domain": "117",
     "description": "Develop planar acoustic metamaterial arrays that can be tuned to either highly focus sound energy into a narrow beam or completely shield an area from a specific direction.",
     "keywords": [
@@ -59655,9 +59655,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8216,
-    "title": "Predictive Model for $\text{Washing}$ $\text{Machine}$ $\text{Out-of-Balance}$ $\text{Noise}$ $\text{and}$ $\text{Vibration}$",
+    "title": "Predictive Model for Washing Machine Out-of-Balance Noise and Vibration",
     "domain": "117",
-    "description": "Build an $\text{AI}$ model that predicts the severity of noise and vibration in washing machines based on load distribution, spin cycle speed, and structural resonance.",
+    "description": "Build an AI model that predicts the severity of noise and vibration in washing machines based on load distribution, spin cycle speed, and structural resonance.",
     "keywords": [
       "Appliance NVH",
       "Vibration Prediction",
@@ -59666,9 +59666,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8217,
-    "title": "Acoustic Sensing for $\text{Roadway}$ $\text{Tunnel}$ $\text{Ventilation}$ $\text{Noise}$ $\text{Control}$",
+    "title": "Acoustic Sensing for Roadway Tunnel Ventilation Noise Control",
     "domain": "117",
-    "description": "Develop acoustic treatments and $\text{muffler}$ designs for large, powerful jet fans used in roadway and subway tunnels to reduce both low-frequency rumble and high-frequency fan noise.",
+    "description": "Develop acoustic treatments and muffler designs for large, powerful jet fans used in roadway and subway tunnels to reduce both low-frequency rumble and high-frequency fan noise.",
     "keywords": [
       "Tunnel Acoustics",
       "Ventilation Noise",
@@ -59677,7 +59677,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8218,
-    "title": "Active $\text{Vibration}$ $\text{Control}$ $\text{for}$ $\text{Industrial}$ $\text{Pumps}$ $\text{and}$ $\text{Compressors}$",
+    "title": "Active Vibration Control for Industrial Pumps and Compressors",
     "domain": "117",
     "description": "Implement an active control system using force actuators and accelerometers to dynamically cancel the dominant structural vibrations in large pumps and air compressors.",
     "keywords": [
@@ -59688,9 +59688,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8219,
-    "title": "AI for $\text{Automated}$ $\text{Detection}$ $\text{of}$ $\text{Gunfire}$ $\text{and}$ $\text{Explosions}$ $\text{in}$ $\text{Urban}$ $\text{Areas}$",
+    "title": "AI for Automated Detection of Gunfire and Explosions in Urban Areas",
     "domain": "117",
-    "description": "Train a robust $\text{AI}$ model to distinguish the acoustic signatures of gunfire, explosions, and other critical transient events from typical urban background noise.",
+    "description": "Train a robust AI model to distinguish the acoustic signatures of gunfire, explosions, and other critical transient events from typical urban background noise.",
     "keywords": [
       "Acoustic Surveillance",
       "Transient Noise",
@@ -59699,7 +59699,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8220,
-    "title": "Passive $\text{Noise}$ $\text{Control}$ $\text{for}$ $\text{Small}$ $\text{Medical}$ $\text{Devices}$ ($\text{e.g.,}$ $\text{CPAP}$ $\text{machines}$)",
+    "title": "Passive Noise Control for Small Medical Devices (e.g., CPAP machines)",
     "domain": "117",
     "description": "Develop highly efficient acoustic linings, air path designs, or micro-mufflers to minimize the noise output of small, motor-driven medical devices used close to the patient.",
     "keywords": [
@@ -59710,9 +59710,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8221,
-    "title": "Acoustic Metamaterials for Low-Frequency $\text{Sound}$ $\text{Isolation}$ $\text{in}$ $\text{Residential}$ $\text{Walls}$",
+    "title": "Acoustic Metamaterials for Low-Frequency Sound Isolation in Residential Walls",
     "domain": "117",
-    "description": "Design ultra-thin wall panels incorporating acoustic metamaterial resonators to achieve high sound transmission loss ($\text{STL}$) for low-frequency noise (e.g., music bass, traffic rumble).",
+    "description": "Design ultra-thin wall panels incorporating acoustic metamaterial resonators to achieve high sound transmission loss (STL) for low-frequency noise (e.g., music bass, traffic rumble).",
     "keywords": [
       "Acoustic Metamaterials",
       "Wall Insulation",
@@ -59721,9 +59721,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8222,
-    "title": "Predictive Model for $\text{Road}$ $\text{Traffic}$ $\text{Noise}$ $\text{Impact}$ $\text{on}$ $\text{Nature}$ $\text{Reserves}$",
+    "title": "Predictive Model for Road Traffic Noise Impact on Nature Reserves",
     "domain": "117",
-    "description": "Build an acoustic model that considers complex terrain, vegetation, and atmospheric conditions to accurately predict the intrusion of road noise into sensitive $\text{wildlife}$ $\text{habitats}$ and nature areas.",
+    "description": "Build an acoustic model that considers complex terrain, vegetation, and atmospheric conditions to accurately predict the intrusion of road noise into sensitive wildlife habitats and nature areas.",
     "keywords": [
       "Environmental Acoustics",
       "Traffic Noise",
@@ -59732,9 +59732,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8223,
-    "title": "Acoustic Sensing for $\text{Structural}$ $\text{Integrity}$ $\text{Monitoring}$ $\text{of}$ $\text{Bridges}$ $\text{and}$ $\text{Tunnels}$",
+    "title": "Acoustic Sensing for Structural Integrity Monitoring of Bridges and Tunnels",
     "domain": "117",
-    "description": "Deploy distributed fiber optic acoustic sensing ($\text{DAS}$) or sensor networks to continuously monitor for anomalies like crack growth, spalling, or debonding in large civil infrastructure.",
+    "description": "Deploy distributed fiber optic acoustic sensing (DAS) or sensor networks to continuously monitor for anomalies like crack growth, spalling, or debonding in large civil infrastructure.",
     "keywords": [
       "Structural Health Monitoring",
       "Acoustic Sensing",
@@ -59743,9 +59743,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8224,
-    "title": "Digital Twin for $\text{Aircraft}$ $\text{Cabin}$ $\text{Noise}$ $\text{Reduction}$ $\text{Optimization}$",
+    "title": "Digital Twin for Aircraft Cabin Noise Reduction Optimization",
     "domain": "117",
-    "description": "Create a virtual $\text{Twin}$ of an aircraft cabin to simulate the structural-acoustic coupling, optimizing passive treatments (linings, damping) and $\text{ANC}$ placement for maximum passenger comfort.",
+    "description": "Create a virtual Twin of an aircraft cabin to simulate the structural-acoustic coupling, optimizing passive treatments (linings, damping) and ANC placement for maximum passenger comfort.",
     "keywords": [
       "Aircraft Cabin Noise",
       "Digital Twin",
@@ -59754,9 +59754,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8225,
-    "title": "AI for Automated $\text{Analysis}$ $\text{of}$ $\text{Marine}$ $\text{Vessel}$ $\text{Source}$ $\text{Signatures}$",
+    "title": "AI for Automated Analysis of Marine Vessel Source Signatures",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze underwater acoustic data and automatically classify and identify the specific type, size, and operating condition of passing marine vessels ($\text{Ship}$ $\text{Source}$ $\text{Level}$).",
+    "description": "Train an AI model to analyze underwater acoustic data and automatically classify and identify the specific type, size, and operating condition of passing marine vessels (Ship Source Level).",
     "keywords": [
       "Underwater Acoustics",
       "Vessel Classification",
@@ -59765,9 +59765,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8226,
-    "title": "Low-Cost, $\text{Directional}$ $\text{Noise}$ $\text{Sensor}$ $\text{for}$ $\text{Traffic}$ $\text{Monitoring}$",
+    "title": "Low-Cost, Directional Noise Sensor for Traffic Monitoring",
     "domain": "117",
-    "description": "Design an inexpensive $\text{IoT}$ sensor node with a small microphone array and processing capability to not only measure noise levels but also determine the direction of the dominant noise source.",
+    "description": "Design an inexpensive IoT sensor node with a small microphone array and processing capability to not only measure noise levels but also determine the direction of the dominant noise source.",
     "keywords": [
       "Directional Sensing",
       "Traffic Noise",
@@ -59776,9 +59776,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8227,
-    "title": "Acoustic Metamaterials for $\text{Broadband}$ $\text{Low-Frequency}$ $\text{Absorption}$",
+    "title": "Acoustic Metamaterials for Broadband Low-Frequency Absorption",
     "domain": "117",
-    "description": "Develop multi-layered or coupled acoustic metamaterial structures that can achieve high absorption coefficients across a wide range of low and mid-range frequencies ($\text{50}$ $\text{Hz}$ $\text{-}$ $\text{500}$ $\text{Hz}$).",
+    "description": "Develop multi-layered or coupled acoustic metamaterial structures that can achieve high absorption coefficients across a wide range of low and mid-range frequencies (50 Hz - 500 Hz).",
     "keywords": [
       "Acoustic Metamaterials",
       "Broadband Absorption",
@@ -59787,9 +59787,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8228,
-    "title": "Predictive Model for $\text{Hydraulic}$ $\text{Noise}$ $\text{in}$ $\text{Plumbing}$ $\text{Systems}$",
+    "title": "Predictive Model for Hydraulic Noise in Plumbing Systems",
     "domain": "117",
-    "description": "Build a simulation model to predict the noise generated by water flow, pressure surges ($\text{water}$ $\text{hammer}$), and cavitation in residential and commercial plumbing systems.",
+    "description": "Build a simulation model to predict the noise generated by water flow, pressure surges (water hammer), and cavitation in residential and commercial plumbing systems.",
     "keywords": [
       "Plumbing Noise",
       "Hydraulic Acoustics",
@@ -59798,9 +59798,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8229,
-    "title": "Acoustic Shielding for $\text{Augmented}$ $\text{Reality}$ ($\text{AR}$) $\text{Headsets}$",
+    "title": "Acoustic Shielding for Augmented Reality (AR) Headsets",
     "domain": "117",
-    "description": "Develop micro-acoustic enclosures or $\text{ANC}$ systems integrated into $\text{AR}$ headsets to isolate the user from external noise without compromising safety-critical auditory cues.",
+    "description": "Develop micro-acoustic enclosures or ANC systems integrated into AR headsets to isolate the user from external noise without compromising safety-critical auditory cues.",
     "keywords": [
       "AR Headsets",
       "Wearable Acoustics",
@@ -59809,9 +59809,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8230,
-    "title": "Active $\text{Vibration}$ $\text{Control}$ $\text{for}$ $\text{Robotic}$ $\text{Arms}$",
+    "title": "Active Vibration Control for Robotic Arms",
     "domain": "117",
-    "description": "Implement a control system using piezo actuators and $\text{feedback}$ to damp out structural vibrations in high-precision robotic arms, improving speed and accuracy.",
+    "description": "Implement a control system using piezo actuators and feedback to damp out structural vibrations in high-precision robotic arms, improving speed and accuracy.",
     "keywords": [
       "Active Vibration Control",
       "Robotics",
@@ -59820,9 +59820,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8231,
-    "title": "AI for $\text{Real-Time}$ $\text{Acoustic}$ $\text{Monitoring}$ $\text{of}$ $\text{Food}$ $\text{Processing}$ $\text{Quality}$",
+    "title": "AI for Real-Time Acoustic Monitoring of Food Processing Quality",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to analyze the acoustic signatures of food products during processing (e.g., crunchiness of chips, carbonation level of beverages) for automated quality control.",
+    "description": "Train an AI model to analyze the acoustic signatures of food products during processing (e.g., crunchiness of chips, carbonation level of beverages) for automated quality control.",
     "keywords": [
       "Acoustic Quality Control",
       "Food Processing",
@@ -59831,9 +59831,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8232,
-    "title": "Digital Twin for $\text{Automotive}$ $\text{Brake}$ $\text{Squeal}$ $\text{Prediction}$",
+    "title": "Digital Twin for Automotive Brake Squeal Prediction",
     "domain": "117",
-    "description": "Create a virtual $\text{Twin}$ of a vehicle's $\text{brake}$ $\text{system}$ to simulate the complex $\text{NVH}$ phenomena that lead to brake squeal under various operating and environmental conditions.",
+    "description": "Create a virtual Twin of a vehicle's brake system to simulate the complex NVH phenomena that lead to brake squeal under various operating and environmental conditions.",
     "keywords": [
       "Automotive NVH",
       "Brake Squeal",
@@ -59842,9 +59842,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8233,
-    "title": "Acoustic Monitoring of $\text{Power}$ $\text{Transformer}$ $\text{Health}$",
+    "title": "Acoustic Monitoring of Power Transformer Health",
     "domain": "117",
-    "description": "Use acoustic emission sensors and $\text{AI}$ to monitor the unique hum and internal discharge sounds of power transformers, detecting insulation defects or partial discharge before failure.",
+    "description": "Use acoustic emission sensors and AI to monitor the unique hum and internal discharge sounds of power transformers, detecting insulation defects or partial discharge before failure.",
     "keywords": [
       "Power Grid Monitoring",
       "Acoustic Emission",
@@ -59853,9 +59853,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8234,
-    "title": "Noise Reduction in $\text{High-Speed}$ $\text{Fans}$ $\text{for}$ $\text{Electronics}$ $\text{Cooling}$",
+    "title": "Noise Reduction in High-Speed Fans for Electronics Cooling",
     "domain": "117",
-    "description": "Develop novel $\text{impeller}$ $\text{geometries}$, $\text{stator}$ $\text{designs}$, or $\text{housing}$ $\text{features}$ to minimize the tonal and broadband noise from small, high $\text{RPM}$ fans used in compact electronic enclosures.",
+    "description": "Develop novel impeller geometries, stator designs, or housing features to minimize the tonal and broadband noise from small, high RPM fans used in compact electronic enclosures.",
     "keywords": [
       "Fan Noise Control",
       "Aeroacoustics",
@@ -59864,9 +59864,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8235,
-    "title": "Acoustic Metamaterials for $\text{Tunable}$ $\text{Sound}$ $\text{Absorption}$",
+    "title": "Acoustic Metamaterials for Tunable Sound Absorption",
     "domain": "117",
-    "description": "Design acoustic metamaterials whose absorption frequency or $\text{Sound}$ $\text{Transmission}$ $\text{Loss}$ ($\text{STL}$) can be electronically or mechanically tuned in real-time to match changing noise environments.",
+    "description": "Design acoustic metamaterials whose absorption frequency or Sound Transmission Loss (STL) can be electronically or mechanically tuned in real-time to match changing noise environments.",
     "keywords": [
       "Tunable Acoustics",
       "Active Metamaterials",
@@ -59875,7 +59875,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8236,
-    "title": "Predictive Model for $\text{Building}$ $\text{Façade}$ $\text{Vibration}$ $\text{Due}$ $\text{to}$ $\text{Subway}$ $\text{Noise}$",
+    "title": "Predictive Model for Building Façade Vibration Due to Subway Noise",
     "domain": "117",
     "description": "Build a complex model to predict the vibration and re-radiated noise into building interiors caused by subway train passage in close proximity to the foundation or tunnel.",
     "keywords": [
@@ -59886,9 +59886,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8237,
-    "title": "Acoustic Sensing for $\text{Livestock}$ $\text{Health}$ $\text{and}$ $\text{Welfare}$ $\text{Monitoring}$",
+    "title": "Acoustic Sensing for Livestock Health and Welfare Monitoring",
     "domain": "117",
-    "description": "Use acoustic sensors and $\text{AI}$ to analyze the sounds made by livestock (e.g., coughing, feeding patterns, distress calls) to monitor for early signs of disease or stress.",
+    "description": "Use acoustic sensors and AI to analyze the sounds made by livestock (e.g., coughing, feeding patterns, distress calls) to monitor for early signs of disease or stress.",
     "keywords": [
       "Bioacoustics",
       "Livestock Monitoring",
@@ -59897,7 +59897,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8238,
-    "title": "Active $\text{Vibration}$ $\text{Isolation}$ $\text{for}$ $\text{Office}$ $\text{Equipment}$ $\text{on}$ $\text{Desks}$",
+    "title": "Active Vibration Isolation for Office Equipment on Desks",
     "domain": "117",
     "description": "Develop a small, active isolation pad or mount to cancel the low-frequency vibration (and resultant noise) generated by equipment like computer towers or mini-fridges on a shared desk.",
     "keywords": [
@@ -59908,9 +59908,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8239,
-    "title": "AI for $\text{Source}$ $\text{Separation}$ $\text{in}$ $\text{Highly}$ $\text{Overlapping}$ $\text{Acoustic}$ $\text{Environments}$",
+    "title": "AI for Source Separation in Highly Overlapping Acoustic Environments",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to effectively separate and identify multiple simultaneous sound sources (e.g., three overlapping conversations and a piece of machinery) in a single recording.",
+    "description": "Train an AI model to effectively separate and identify multiple simultaneous sound sources (e.g., three overlapping conversations and a piece of machinery) in a single recording.",
     "keywords": [
       "Source Separation",
       "AI Signal Processing",
@@ -59919,9 +59919,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8240,
-    "title": "Digital Twin for $\text{Anechoic}$ $\text{Chamber}$ $\text{Acoustic}$ $\text{Performance}$ $\text{Verification}$",
+    "title": "Digital Twin for Anechoic Chamber Acoustic Performance Verification",
     "domain": "117",
-    "description": "Create a virtual $\text{Twin}$ of an anechoic chamber to simulate and verify its acoustic performance ($\text{free-field}$ $\text{conditions,}$ $\text{cut-off}$ $\text{frequency}$) under different temperature and humidity conditions.",
+    "description": "Create a virtual Twin of an anechoic chamber to simulate and verify its acoustic performance (free-field conditions, cut-off frequency) under different temperature and humidity conditions.",
     "keywords": [
       "Acoustic Testing",
       "Anechoic Chamber",
@@ -59930,9 +59930,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8241,
-    "title": "Low-Cost, $\text{Smartphone-Based}$ $\text{Noise}$ $\text{Dosimeter}$ $\text{for}$ $\text{Workers}$",
+    "title": "Low-Cost, Smartphone-Based Noise Dosimeter for Workers",
     "domain": "117",
-    "description": "Develop an application that uses an external, calibrated microphone and advanced processing on a smartphone to accurately measure and log a worker's daily $\text{noise}$ $\text{exposure}$ ($\text{dose}$).",
+    "description": "Develop an application that uses an external, calibrated microphone and advanced processing on a smartphone to accurately measure and log a worker's daily noise exposure (dose).",
     "keywords": [
       "Noise Dosimetry",
       "Occupational Health",
@@ -59941,9 +59941,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8242,
-    "title": "Acoustic Metamaterials for $\text{Ultra-Wideband}$ $\text{Sound}$ $\text{Absorption}$ $\text{in}$ $\text{Small}$ $\text{Volumes}$",
+    "title": "Acoustic Metamaterials for Ultra-Wideband Sound Absorption in Small Volumes",
     "domain": "117",
-    "description": "Design compact $\text{metamaterial}$ structures that achieve near-perfect sound absorption across the entire $\text{human}$ $\text{audible}$ $\text{range}$ ($\text{20}$ $\text{Hz}$ $\text{-}$ $\text{20}$ $\text{kHz}$) within a minimal depth.",
+    "description": "Design compact metamaterial structures that achieve near-perfect sound absorption across the entire human audible range (20 Hz - 20 kHz) within a minimal depth.",
     "keywords": [
       "Acoustic Metamaterials",
       "Wideband Absorption",
@@ -59952,7 +59952,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8243,
-    "title": "Predictive Model for $\text{Construction}$ $\text{Vibration}$ $\text{Impact}$ $\text{on}$ $\text{Historic}$ $\text{Buildings}$",
+    "title": "Predictive Model for Construction Vibration Impact on Historic Buildings",
     "domain": "117",
     "description": "Build a model to simulate the propagation of ground-borne vibration from construction activities (e.g., piling, demolition) and predict its stress and damage potential on sensitive historic structures.",
     "keywords": [
@@ -59963,9 +59963,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8244,
-    "title": "Acoustic Sensing for $\text{Early}$ $\text{Detection}$ $\text{of}$ $\text{Gas}$ $\text{Bubble}$ $\text{Formation}$ $\text{in}$ $\text{Liquid}$ $\text{Systems}$",
+    "title": "Acoustic Sensing for Early Detection of Gas Bubble Formation in Liquid Systems",
     "domain": "117",
-    "description": "Use $\text{ultrasonic}$ $\text{or}$ $\text{acoustic}$ $\text{emission}$ sensors to detect the onset of gas bubble formation (boiling, cavitation) in industrial liquid processes, enabling preventative control.",
+    "description": "Use ultrasonic or acoustic emission sensors to detect the onset of gas bubble formation (boiling, cavitation) in industrial liquid processes, enabling preventative control.",
     "keywords": [
       "Acoustic Emission",
       "Cavitation Detection",
@@ -59974,9 +59974,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8245,
-    "title": "Noise Control for $\text{Hyperloop}$ $\text{and}$ $\text{High-Speed}$ $\text{Tube}$ $\text{Transport}$ $\text{Systems}$",
+    "title": "Noise Control for Hyperloop and High-Speed Tube Transport Systems",
     "domain": "117",
-    "description": "Develop specialized $\text{acoustic}$ $\text{linings}$ and $\text{magnetic}$ $\text{levitation}$ $\text{NVH}$ $\text{mitigation}$ strategies to control the extreme noise generated within and around high-speed tube transport systems.",
+    "description": "Develop specialized acoustic linings and magnetic levitation NVH mitigation strategies to control the extreme noise generated within and around high-speed tube transport systems.",
     "keywords": [
       "Hyperloop Acoustics",
       "High-Speed Transport",
@@ -59985,9 +59985,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8246,
-    "title": "Active $\text{Noise}$ $\text{Control}$ $\text{for}$ $\text{Small}$ $\text{Ducts}$ $\text{and}$ $\text{Pipes}$",
+    "title": "Active Noise Control for Small Ducts and Pipes",
     "domain": "117",
-    "description": "Design miniaturized $\text{ANC}$ systems with micro-speakers and microphones to cancel noise in small diameter ducts and pipes found in appliances or small machinery.",
+    "description": "Design miniaturized ANC systems with micro-speakers and microphones to cancel noise in small diameter ducts and pipes found in appliances or small machinery.",
     "keywords": [
       "Active Noise Cancellation",
       "Duct Acoustics",
@@ -59996,9 +59996,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8247,
-    "title": "Bio-Inspired $\text{Acoustic}$ $\text{Privacy}$ $\text{Screens}$",
+    "title": "Bio-Inspired Acoustic Privacy Screens",
     "domain": "117",
-    "description": "Design $\text{office}$ $\text{dividers}$ or $\text{screens}$ that utilize $\text{biomimetic}$ $\text{structures}$ (e.g., perforated membranes, porous surfaces) to enhance speech privacy and sound absorption in open spaces.",
+    "description": "Design office dividers or screens that utilize biomimetic structures (e.g., perforated membranes, porous surfaces) to enhance speech privacy and sound absorption in open spaces.",
     "keywords": [
       "Bio-Inspired Acoustics",
       "Speech Privacy",
@@ -60007,9 +60007,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8248,
-    "title": "AI for $\text{Automatic}$ $\text{Acoustic}$ $\text{Insulation}$ $\text{Measurement}$ $\text{on}$ $\text{Site}$",
+    "title": "AI for Automatic Acoustic Insulation Measurement on Site",
     "domain": "117",
-    "description": "Develop an $\text{AI}$-driven application using standard portable acoustic gear to perform rapid, non-intrusive, and automated measurements of $\text{STC/Rw}$ (Sound Transmission Class) for building partitions on site.",
+    "description": "Develop an AI-driven application using standard portable acoustic gear to perform rapid, non-intrusive, and automated measurements of STC/Rw (Sound Transmission Class) for building partitions on site.",
     "keywords": [
       "Building Acoustics",
       "Acoustic Measurement",
@@ -60018,7 +60018,7 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8249,
-    "title": "Digital Twin for $\text{Automotive}$ $\text{Tire-Road}$ $\text{Noise}$ $\text{Optimization}$",
+    "title": "Digital Twin for Automotive Tire-Road Noise Optimization",
     "domain": "117",
     "description": "Create a virtual $\text{Twin}$ of the tire-road interaction to simulate and optimize tire tread patterns and road surfaces for minimum $\text{external}$ $\text{traffic}$ $\text{noise}$ $\text{radiation}$.",
     "keywords": [
