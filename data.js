@@ -69635,6 +69635,380 @@ const PROBLEMS_DATA = {
 
 //domain 138
 
+{
+    "id": 9566,
+    "title": "Solid-State Battery for Electric Vehicles",
+    "domain": "138",
+    "description": "Develop a solid-state battery with higher energy density and safety for electric vehicle applications.",
+    "keywords": ["Solid-State Batteries", "Energy Density", "Electric Vehicles", "Battery Tech"]
+},
+{
+    "id": 9567,
+    "title": "Grid-Scale Flow Battery Storage System",
+    "domain": "138",
+    "description": "Design a flow battery system for large-scale energy storage in renewable power grids.",
+    "keywords": ["Flow Batteries", "Grid Storage", "Battery Management Systems", "Energy Storage"]
+},
+{
+    "id": 9568,
+    "title": "Lithium-Sulfur Battery with Extended Cycle Life",
+    "domain": "138",
+    "description": "Develop a lithium-sulfur battery with improved cycle stability for high-capacity applications.",
+    "keywords": ["Lithium-ion Batteries", "Energy Density", "Battery Tech", "Battery Management Systems"]
+},
+{
+    "id": 9569,
+    "title": "Battery Recycling Automation System",
+    "domain": "138",
+    "description": "Create an automated system for disassembling and recycling lithium-ion and solid-state batteries.",
+    "keywords": ["Battery Recycling", "Automation", "Battery Management Systems", "Sustainability"]
+},
+{
+    "id": 9570,
+    "title": "Supercapacitor Hybrid Battery for Fast Charging",
+    "domain": "138",
+    "description": "Design a hybrid battery integrating supercapacitors for rapid energy delivery and storage.",
+    "keywords": ["Supercapacitors", "Hybrid Batteries", "Fast Charging", "Energy Storage"]
+},
+{
+    "id": 9571,
+    "title": "Thermal Management System for Lithium-Ion Batteries",
+    "domain": "138",
+    "description": "Develop an advanced thermal management system to prevent overheating and improve battery life.",
+    "keywords": ["Lithium-ion Batteries", "Thermal Management", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9572,
+    "title": "AI-Enhanced Battery Management System",
+    "domain": "138",
+    "description": "Implement AI algorithms for optimized charging, discharging, and state-of-health monitoring.",
+    "keywords": ["Battery Management Systems", "Artificial Intelligence", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9573,
+    "title": "Flexible Battery for Wearable Electronics",
+    "domain": "138",
+    "description": "Design a bendable, lightweight battery suitable for wearable electronics and medical devices.",
+    "keywords": ["Lithium-ion Batteries", "Flexible Batteries", "Wearables", "Battery Tech"]
+},
+{
+    "id": 9574,
+    "title": "High-Energy-Density Battery Using Silicon Anodes",
+    "domain": "138",
+    "description": "Develop lithium-ion batteries with silicon anodes to achieve higher energy density and longevity.",
+    "keywords": ["Lithium-ion Batteries", "Silicon Anodes", "Energy Density", "Battery Tech"]
+},
+{
+    "id": 9575,
+    "title": "Battery System for Off-Grid Renewable Energy",
+    "domain": "138",
+    "description": "Design a robust battery storage system for off-grid solar and wind installations.",
+    "keywords": ["Grid Storage", "Battery Management Systems", "Renewable Energy", "Energy Storage"]
+},
+{
+    "id": 9576,
+    "title": "Fast-Charging Protocol for EV Batteries",
+    "domain": "138",
+    "description": "Develop a charging protocol that minimizes degradation while achieving ultra-fast EV battery charging.",
+    "keywords": ["Lithium-ion Batteries", "Fast Charging", "Battery Management Systems", "Battery Tech"]
+},
+{
+    "id": 9577,
+    "title": "Recyclable Solid-State Battery Materials",
+    "domain": "138",
+    "description": "Design eco-friendly solid-state batteries using recyclable materials for sustainability.",
+    "keywords": ["Solid-State Batteries", "Battery Recycling", "Sustainability", "Battery Tech"]
+},
+{
+    "id": 9578,
+    "title": "Temperature-Resilient Battery for Extreme Climates",
+    "domain": "138",
+    "description": "Develop batteries capable of stable operation under extreme high and low temperatures.",
+    "keywords": ["Lithium-ion Batteries", "Temperature Control", "Battery Management Systems", "Energy Storage"]
+},
+{
+    "id": 9579,
+    "title": "Battery Monitoring Using IoT Sensors",
+    "domain": "138",
+    "description": "Integrate IoT sensors for real-time monitoring of voltage, temperature, and charge status.",
+    "keywords": ["Battery Management Systems", "IoT", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9580,
+    "title": "High-Power Battery for Industrial Robotics",
+    "domain": "138",
+    "description": "Design a battery optimized for high current and power requirements in industrial robots.",
+    "keywords": ["Lithium-ion Batteries", "Energy Density", "Industrial Robotics", "Battery Tech"]
+},
+{
+    "id": 9581,
+    "title": "Biodegradable Battery for Single-Use Devices",
+    "domain": "138",
+    "description": "Develop a battery using biodegradable materials for temporary medical and electronic devices.",
+    "keywords": ["Battery Tech", "Sustainability", "Energy Storage", "Biodegradable Batteries"]
+},
+{
+    "id": 9582,
+    "title": "Battery Pack Design for Modular EV Systems",
+    "domain": "138",
+    "description": "Design modular battery packs for flexible assembly and replacement in electric vehicles.",
+    "keywords": ["Lithium-ion Batteries", "Modular Design", "Electric Vehicles", "Battery Tech"]
+},
+{
+    "id": 9583,
+    "title": "Flow Battery for Large-Scale Renewable Integration",
+    "domain": "138",
+    "description": "Develop a flow battery system to store and dispatch renewable energy efficiently for grid applications.",
+    "keywords": ["Flow Batteries", "Grid Storage", "Renewable Energy", "Energy Storage"]
+},
+{
+    "id": 9584,
+    "title": "Nanostructured Electrodes for High-Capacity Batteries",
+    "domain": "138",
+    "description": "Implement nanostructured electrodes to enhance battery capacity and charge/discharge rates.",
+    "keywords": ["Lithium-ion Batteries", "Nanostructures", "Energy Density", "Battery Tech"]
+},
+{
+    "id": 9585,
+    "title": "Wireless Battery State-of-Charge Monitoring",
+    "domain": "138",
+    "description": "Develop a wireless system to monitor battery state-of-charge and predict remaining runtime.",
+    "keywords": ["Battery Management Systems", "IoT", "Wireless Monitoring", "Energy Storage"]
+},
+{
+    "id": 9586,
+    "title": "Redox-Flow Battery for Industrial Energy Storage",
+    "domain": "138",
+    "description": "Design a redox-flow battery system for efficient energy storage in industrial plants.",
+    "keywords": ["Flow Batteries", "Redox-Flow", "Industrial Energy", "Battery Tech"]
+},
+{
+    "id": 9587,
+    "title": "High-Voltage Battery Pack for Aerospace Applications",
+    "domain": "138",
+    "description": "Develop lightweight, high-voltage battery packs suitable for aerospace power systems.",
+    "keywords": ["Lithium-ion Batteries", "Energy Density", "Aerospace", "Battery Tech"]
+},
+{
+    "id": 9588,
+    "title": "Battery Degradation Prediction Using AI",
+    "domain": "138",
+    "description": "Implement AI algorithms to predict battery life and performance degradation over time.",
+    "keywords": ["Battery Management Systems", "Artificial Intelligence", "Predictive Analytics", "Battery Tech"]
+},
+{
+    "id": 9589,
+    "title": "Flexible Flow Battery for Portable Electronics",
+    "domain": "138",
+    "description": "Develop a flexible, miniaturized flow battery for wearable and portable electronic devices.",
+    "keywords": ["Flow Batteries", "Flexible Batteries", "Energy Storage", "Portable Electronics"]
+},
+{
+    "id": 9590,
+    "title": "Fast-Ion-Conducting Electrolyte Battery",
+    "domain": "138",
+    "description": "Create batteries with fast-ion-conducting electrolytes to improve charge/discharge speed.",
+    "keywords": ["Solid-State Batteries", "Fast Ion Conduction", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9591,
+    "title": "Battery Thermal Runaway Detection System",
+    "domain": "138",
+    "description": "Develop sensors and algorithms to detect early signs of thermal runaway in batteries.",
+    "keywords": ["Battery Management Systems", "Safety", "Thermal Control", "Battery Tech"]
+},
+{
+    "id": 9592,
+    "title": "Hybrid Battery-Supercapacitor System for Grid Stability",
+    "domain": "138",
+    "description": "Integrate batteries and supercapacitors for smooth energy supply in fluctuating grid conditions.",
+    "keywords": ["Supercapacitors", "Hybrid Systems", "Grid Storage", "Battery Tech"]
+},
+{
+    "id": 9593,
+    "title": "Battery Pack for High-Power Drones",
+    "domain": "138",
+    "description": "Design lightweight, high-power battery packs to maximize drone flight time and payload capacity.",
+    "keywords": ["Lithium-ion Batteries", "Drones", "Energy Density", "Battery Tech"]
+},
+{
+    "id": 9594,
+    "title": "Eco-Friendly Electrolyte for Lithium-Ion Batteries",
+    "domain": "138",
+    "description": "Develop non-toxic, eco-friendly electrolytes to enhance battery safety and reduce environmental impact.",
+    "keywords": ["Lithium-ion Batteries", "Eco-Friendly", "Battery Tech", "Sustainability"]
+},
+{
+    "id": 9595,
+    "title": "Modular Flow Battery for Renewable Microgrids",
+    "domain": "138",
+    "description": "Create a scalable flow battery system for renewable-powered microgrid applications.",
+    "keywords": ["Flow Batteries", "Modular Design", "Microgrids", "Energy Storage"]
+},
+{
+    "id": 9596,
+    "title": "High-Performance Cathode Material Development",
+    "domain": "138",
+    "description": "Research and develop novel cathode materials to increase battery energy density and stability.",
+    "keywords": ["Lithium-ion Batteries", "Cathode Materials", "Energy Density", "Battery Tech"]
+},
+{
+    "id": 9597,
+    "title": "Battery Swapping Station Design for EVs",
+    "domain": "138",
+    "description": "Design a modular battery swapping station for electric vehicles to reduce downtime.",
+    "keywords": ["Battery Management Systems", "Electric Vehicles", "Modular Design", "Battery Tech"]
+},
+{
+    "id": 9598,
+    "title": "Transparent Battery for Smart Windows",
+    "domain": "138",
+    "description": "Develop a transparent battery for integration into smart windows and displays.",
+    "keywords": ["Lithium-ion Batteries", "Transparent Batteries", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9599,
+    "title": "Battery Storage Optimization Using AI for Renewable Energy",
+    "domain": "138",
+    "description": "Implement AI-based algorithms to optimize energy storage and dispatch from renewable sources.",
+    "keywords": ["Battery Management Systems", "Artificial Intelligence", "Renewable Energy", "Battery Tech"]
+},
+{
+    "id": 9600,
+    "title": "Low-Cost Solid-State Battery for Consumer Electronics",
+    "domain": "138",
+    "description": "Design an affordable solid-state battery for consumer electronics without compromising performance.",
+    "keywords": ["Solid-State Batteries", "Consumer Electronics", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9601,
+    "title": "Battery Pack for Marine Applications",
+    "domain": "138",
+    "description": "Develop battery systems resistant to corrosion and pressure variations for marine environments.",
+    "keywords": ["Lithium-ion Batteries", "Marine Applications", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9602,
+    "title": "Battery Life Extension Through Smart Charging Protocols",
+    "domain": "138",
+    "description": "Create intelligent charging protocols to extend battery life and minimize degradation.",
+    "keywords": ["Battery Management Systems", "Smart Charging", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9603,
+    "title": "High-Efficiency Inverter for Solar PV Systems",
+    "domain": "138",
+    "description": "Design an inverter with improved efficiency for converting solar PV DC output to AC power.",
+    "keywords": ["Inverters", "Solar PV", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9604,
+    "title": "Battery Pack with Integrated Thermal Sensors",
+    "domain": "138",
+    "description": "Develop a battery pack with embedded sensors to monitor temperature and prevent overheating.",
+    "keywords": ["Battery Management Systems", "Thermal Monitoring", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9605,
+    "title": "High-Capacity Lithium-Iron-Phosphate Battery",
+    "domain": "138",
+    "description": "Create LiFePO4 batteries with improved capacity and cycle life for renewable energy storage.",
+    "keywords": ["Lithium-ion Batteries", "LiFePO4", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9606,
+    "title": "AI-Optimized Hybrid Battery and Supercapacitor System",
+    "domain": "138",
+    "description": "Integrate AI algorithms to optimize hybrid battery-supercapacitor performance in energy storage systems.",
+    "keywords": ["Supercapacitors", "AI", "Hybrid Batteries", "Battery Tech"]
+},
+{
+    "id": 9607,
+    "title": "Battery Pack for Extreme Cold Environments",
+    "domain": "138",
+    "description": "Develop batteries that maintain performance and capacity in sub-zero temperatures for EVs and remote applications.",
+    "keywords": ["Lithium-ion Batteries", "Cold Environment", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9608,
+    "title": "Next-Gen Flow Battery with Organic Electrolytes",
+    "domain": "138",
+    "description": "Design a flow battery using organic electrolytes for safer, scalable grid energy storage.",
+    "keywords": ["Flow Batteries", "Organic Electrolytes", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9609,
+    "title": "Battery Module for Rapid Energy Deployment",
+    "domain": "138",
+    "description": "Develop modular battery packs capable of quick installation and replacement for critical applications.",
+    "keywords": ["Battery Modules", "Rapid Deployment", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9610,
+    "title": "Battery with Self-Healing Electrodes",
+    "domain": "138",
+    "description": "Design electrodes that self-repair to reduce degradation and extend battery lifespan.",
+    "keywords": ["Lithium-ion Batteries", "Self-Healing", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9611,
+    "title": "Battery Integration with Microgrid Management Systems",
+    "domain": "138",
+    "description": "Integrate energy storage batteries into microgrid systems for enhanced stability and efficiency.",
+    "keywords": ["Battery Management Systems", "Microgrids", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9612,
+    "title": "High-Performance Anode Material Development",
+    "domain": "138",
+    "description": "Research novel anode materials to increase energy density and reduce charging times in lithium-ion batteries.",
+    "keywords": ["Lithium-ion Batteries", "Anode Materials", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9613,
+    "title": "Wireless Battery Health Monitoring System",
+    "domain": "138",
+    "description": "Develop a wireless system for continuous monitoring of battery state-of-health and early fault detection.",
+    "keywords": ["Battery Management Systems", "Wireless Monitoring", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9614,
+    "title": "Battery Storage System for Emergency Backup Power",
+    "domain": "138",
+    "description": "Design a battery system to provide reliable backup power during grid failures or natural disasters.",
+    "keywords": ["Battery Management Systems", "Backup Power", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9615,
+    "title": "High-Energy-Density Battery for Marine Applications",
+    "domain": "138",
+    "description": "Develop energy-dense batteries resistant to corrosion and pressure for marine vessels and underwater systems.",
+    "keywords": ["Lithium-ion Batteries", "Marine Applications", "Battery Tech", "Energy Storage"]
+},
+{
+    "id": 9616,
+    "title": "Battery System for Smart Home Energy Storage",
+    "domain": "138",
+    "description": "Design a compact and intelligent battery storage solution for residential renewable energy integration.",
+    "keywords": ["Battery Management Systems", "Smart Home", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9617,
+    "title": "Reconfigurable Battery Modules for EV Fleets",
+    "domain": "138",
+    "description": "Develop modular battery systems that can be reconfigured to adapt to different electric vehicle fleet needs.",
+    "keywords": ["Battery Modules", "Electric Vehicles", "Energy Storage", "Battery Tech"]
+},
+{
+    "id": 9618,
+    "title": "Eco-Friendly Fast-Charging Battery for Consumer Electronics",
+    "domain": "138",
+    "description": "Create a fast-charging battery using environmentally friendly materials for mobile devices and laptops.",
+    "keywords": ["Fast Charging", "Battery Recycling", "Energy Storage", "Battery Tech"]
+},
+
+//domain 139
+
 
 
 
