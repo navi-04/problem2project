@@ -70282,17 +70282,986 @@ const PROBLEMS_DATA = {
     "description": "Implement AI algorithms to dynamically regulate voltage across distributed power networks.",
     "keywords": ["AI", "Voltage Regulation", "Distributed Grid", "Power Electronics"]
 },
-
-
-
-
-    
-
-
-
-
-
-
+// domain 140
+  {
+    "id": 9658,
+    "title": "CFD Simulation of Supersonic Jet Noise Reduction",
+    "domain": "140",
+    "description": "Model supersonic jet exhaust using CFD to analyze shock-cell structures and propose nozzle modifications for noise suppression.",
+    "keywords": [
+      "Supersonic Jets",
+      "Shock Cells",
+      "Noise Reduction"
+    ]
+  },
+  {
+    "id": 9659,
+    "title": "CFD-Based Optimization of Heat Exchanger Design",
+    "domain": "140",
+    "description": "Simulate fluid flow and heat transfer in compact heat exchangers to optimize fin geometry and thermal performance.",
+    "keywords": [
+      "Heat Transfer",
+      "Heat Exchanger",
+      "CFD Optimization"
+    ]
+  },
+  {
+    "id": 9660,
+    "title": "Turbulence Modeling for Automotive Aerodynamics",
+    "domain": "140",
+    "description": "Use advanced turbulence models in CFD to predict drag and lift coefficients for car body aerodynamics under crosswinds.",
+    "keywords": [
+      "Automotive CFD",
+      "Turbulence Models",
+      "Aerodynamics"
+    ]
+  },
+  {
+    "id": 9661,
+    "title": "CFD Analysis of Blood Flow in Arteries",
+    "domain": "140",
+    "description": "Simulate pulsatile blood flow in patient-specific artery geometries to predict pressure drop and wall shear stress distribution.",
+    "keywords": [
+      "Biomedical CFD",
+      "Blood Flow",
+      "Artery Simulation"
+    ]
+  },
+  {
+    "id": 9662,
+    "title": "Computational Modeling of Natural Ventilation in Buildings",
+    "domain": "140",
+    "description": "Use CFD to evaluate airflow and pollutant dispersion in naturally ventilated buildings under varying wind conditions.",
+    "keywords": [
+      "Building CFD",
+      "Natural Ventilation",
+      "Airflow Simulation"
+    ]
+  },
+  {
+    "id": 9663,
+    "title": "Multiphase CFD for Bubble Column Reactors",
+    "domain": "140",
+    "description": "Develop CFD models to study gas–liquid hydrodynamics in bubble column reactors for process intensification.",
+    "keywords": [
+      "Multiphase Flow",
+      "Bubble Column",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "id": 9664,
+    "title": "Aeroacoustic CFD of UAV Propeller Noise",
+    "domain": "140",
+    "description": "Apply CFD coupled with acoustic analogies to predict noise radiation from UAV propellers under hovering conditions.",
+    "keywords": [
+      "UAV CFD",
+      "Aeroacoustics",
+      "Propeller Noise"
+    ]
+  },
+  {
+    "id": 9665,
+    "title": "CFD Simulation of Cooling in Data Centers",
+    "domain": "140",
+    "description": "Model airflow distribution in server racks and optimize cooling strategies to reduce hotspots in large data centers.",
+    "keywords": [
+      "Data Center Cooling",
+      "Airflow Optimization",
+      "Thermal CFD"
+    ]
+  },
+  {
+    "id": 9666,
+    "title": "CFD Modeling of Wind Turbine Wake Effects",
+    "domain": "140",
+    "description": "Simulate wake interactions in wind farms to predict power losses and optimize turbine spacing for higher efficiency.",
+    "keywords": [
+      "Wind Energy",
+      "Wake Modeling",
+      "Turbine Spacing"
+    ]
+  },
+  {
+    "id": 9667,
+    "title": "CFD for Combustion in Gas Turbines",
+    "domain": "140",
+    "description": "Develop CFD simulations of combustion chambers in gas turbines to predict flame stability and pollutant emissions.",
+    "keywords": [
+      "Combustion CFD",
+      "Gas Turbines",
+      "Pollution Control"
+    ]
+  },
+  {
+    "id": 9668,
+    "title": "CFD Analysis of Microfluidic Devices",
+    "domain": "140",
+    "description": "Model laminar flow and mixing efficiency in microfluidic chips for lab-on-chip biomedical applications.",
+    "keywords": [
+      "Microfluidics",
+      "Biomedical CFD",
+      "Lab-on-Chip"
+    ]
+  },
+  {
+    "id": 9669,
+    "title": "Hydrodynamic CFD Modeling of Ship Hull Resistance",
+    "domain": "140",
+    "description": "Simulate wave resistance and drag forces on ship hulls to optimize hull shape and fuel efficiency.",
+    "keywords": [
+      "Marine CFD",
+      "Hull Design",
+      "Hydrodynamics"
+    ]
+  },
+  {
+    "id": 9670,
+    "title": "CFD Investigation of Dust Dispersion in Mining Tunnels",
+    "domain": "140",
+    "description": "Simulate dust particle transport in underground mining tunnels to improve ventilation and worker safety.",
+    "keywords": [
+      "Mining CFD",
+      "Dust Dispersion",
+      "Ventilation"
+    ]
+  },
+  {
+    "id": 9671,
+    "title": "CFD Simulation of Fuel Injection in IC Engines",
+    "domain": "140",
+    "description": "Model spray dynamics, atomization, and mixing of fuel injectors in internal combustion engines using CFD.",
+    "keywords": [
+      "IC Engines",
+      "Fuel Injection",
+      "Spray CFD"
+    ]
+  },
+  {
+    "id": 9672,
+    "title": "Numerical Study of Tsunami Wave Propagation",
+    "domain": "140",
+    "description": "Use CFD models to simulate tsunami wave generation and coastal impact for disaster risk assessment.",
+    "keywords": [
+      "Tsunami Modeling",
+      "Ocean CFD",
+      "Disaster Prediction"
+    ]
+  },
+  {
+    "id": 9673,
+    "title": "CFD for Aircraft Wing Icing Prediction",
+    "domain": "140",
+    "description": "Simulate ice formation on aircraft wings under varying atmospheric conditions to improve de-icing strategies.",
+    "keywords": [
+      "Aircraft Safety",
+      "Wing Icing",
+      "Aero CFD"
+    ]
+  },
+  {
+    "id": 9674,
+    "title": "CFD Simulation of HVAC Air Distribution in Hospitals",
+    "domain": "140",
+    "description": "Model airflow in hospital wards and operating theaters to minimize pathogen spread and improve indoor air quality.",
+    "keywords": [
+      "Hospital CFD",
+      "HVAC Design",
+      "Airborne Pathogens"
+    ]
+  },
+  {
+    "id": 9675,
+    "title": "CFD Modeling of Rocket Nozzle Flow Separation",
+    "domain": "140",
+    "description": "Analyze flow separation phenomena in rocket nozzles using CFD to optimize thrust and stability.",
+    "keywords": [
+      "Rocket CFD",
+      "Nozzle Flow",
+      "Flow Separation"
+    ]
+  },
+  {
+    "id": 9676,
+    "title": "CFD Study of Fish Swimming Hydrodynamics",
+    "domain": "140",
+    "description": "Simulate swimming patterns of fish to understand vortex shedding and bio-inspired propulsion mechanisms.",
+    "keywords": [
+      "Bio-CFD",
+      "Fish Swimming",
+      "Hydrodynamics"
+    ]
+  },
+  {
+    "id": 9677,
+    "title": "CFD for Aerosol Transport in Urban Environments",
+    "domain": "140",
+    "description": "Simulate dispersion of aerosols and pollutants in dense urban areas under different meteorological conditions.",
+    "keywords": [
+      "Urban CFD",
+      "Aerosol Dispersion",
+      "Air Pollution"
+    ]
+  },
+  {
+    "id": 9678,
+    "title": "CFD Analysis of Swirling Flow in Cyclone Separators",
+    "domain": "140",
+    "description": "Simulate particle-laden swirling flows in cyclone separators to optimize particle separation efficiency and pressure drop.",
+    "keywords": [
+      "Cyclone Separator",
+      "Swirling Flow",
+      "Particle Separation"
+    ]
+  },
+  {
+    "id": 9679,
+    "title": "CFD Simulation of Airflow over High-Speed Trains",
+    "domain": "140",
+    "description": "Model aerodynamic drag, lift, and crosswind stability of high-speed trains using turbulence-resolving CFD methods.",
+    "keywords": [
+      "High-Speed Trains",
+      "Aerodynamics",
+      "CFD Simulation"
+    ]
+  },
+  {
+    "id": 9680,
+    "title": "CFD-Based Prediction of Snow Accumulation on Power Lines",
+    "domain": "140",
+    "description": "Simulate airflow and snow deposition around power lines to assess ice/snow load risks and optimize line design.",
+    "keywords": [
+      "Snow Accumulation",
+      "Power Lines",
+      "CFD Modeling"
+    ]
+  },
+  {
+    "id": 9681,
+    "title": "CFD Modeling of Spray Drying in Industrial Processes",
+    "domain": "140",
+    "description": "Simulate droplet evaporation, heat transfer, and particle formation during spray drying to enhance product quality.",
+    "keywords": [
+      "Spray Drying",
+      "Heat Transfer",
+      "Process CFD"
+    ]
+  },
+  {
+    "id": 9682,
+    "title": "CFD Simulation of Coastal Erosion due to Wave Action",
+    "domain": "140",
+    "description": "Model sediment transport and shoreline changes under wave and tidal influences for coastal protection planning.",
+    "keywords": [
+      "Coastal CFD",
+      "Erosion Modeling",
+      "Sediment Transport"
+    ]
+  },
+  {
+    "id": 9683,
+    "title": "CFD Analysis of Droplet Impact on Superhydrophobic Surfaces",
+    "domain": "140",
+    "description": "Simulate droplet deformation, spreading, and rebound on textured surfaces to study anti-wetting behavior.",
+    "keywords": [
+      "Droplet Impact",
+      "Superhydrophobic",
+      "Surface CFD"
+    ]
+  },
+  {
+    "id": 9684,
+    "title": "CFD Simulation of Oxygen Transfer in Bioreactors",
+    "domain": "140",
+    "description": "Model gas-liquid flow and oxygen transfer rates in stirred-tank bioreactors to optimize microbial growth conditions.",
+    "keywords": [
+      "Bioreactor CFD",
+      "Oxygen Transfer",
+      "Bioprocess Simulation"
+    ]
+  },
+  {
+    "id": 9685,
+    "title": "CFD Modeling of Turbulent Combustion in Boilers",
+    "domain": "140",
+    "description": "Simulate flame propagation, heat release, and emissions in industrial boilers using turbulence-chemistry interaction models.",
+    "keywords": [
+      "Boiler CFD",
+      "Turbulent Combustion",
+      "Emission Control"
+    ]
+  },
+  {
+    "id": 9686,
+    "title": "CFD Analysis of Hydrodynamic Forces on Offshore Structures",
+    "domain": "140",
+    "description": "Model wave-structure interactions and predict forces on offshore platforms for structural design and safety assessment.",
+    "keywords": [
+      "Offshore CFD",
+      "Hydrodynamics",
+      "Structural Forces"
+    ]
+  },
+  {
+    "id": 9687,
+    "title": "CFD Simulation of Inkjet Droplet Formation",
+    "domain": "140",
+    "description": "Analyze fluid dynamics and droplet breakup during inkjet printing to improve print quality and droplet accuracy.",
+    "keywords": [
+      "Inkjet CFD",
+      "Droplet Formation",
+      "Printing Technology"
+    ]
+  },
+  {
+    "id": 9688,
+    "title": "CFD Modeling of Thermal Plumes in Indoor Spaces",
+    "domain": "140",
+    "description": "Simulate heat-driven airflow from heaters or occupants to improve indoor air circulation and comfort.",
+    "keywords": [
+      "Indoor CFD",
+      "Thermal Plume",
+      "Airflow Simulation"
+    ]
+  },
+  {
+    "id": 9689,
+    "title": "CFD-Based Design of Microchannel Heat Sinks",
+    "domain": "140",
+    "description": "Optimize microchannel geometries for efficient heat removal in electronics using laminar and turbulent CFD simulations.",
+    "keywords": [
+      "Microchannel CFD",
+      "Heat Sink Design",
+      "Thermal Management"
+    ]
+  },
+  {
+    "id": 9690,
+    "title": "CFD Analysis of Supersonic Combustion in Scramjets",
+    "domain": "140",
+    "description": "Simulate fuel-air mixing, shock interactions, and flame stabilization in supersonic combustion engines.",
+    "keywords": [
+      "Scramjet CFD",
+      "Supersonic Combustion",
+      "Fuel-Air Mixing"
+    ]
+  },
+  {
+    "id": 9691,
+    "title": "CFD Simulation of Particle Deposition in Respiratory Airways",
+    "domain": "140",
+    "description": "Model inhaled aerosol transport and deposition in human lungs to assess drug delivery efficiency and health impacts.",
+    "keywords": [
+      "Respiratory CFD",
+      "Particle Deposition",
+      "Aerosol Simulation"
+    ]
+  },
+  {
+    "id": 9692,
+    "title": "CFD Modeling of Flood Dynamics in Urban Drainage Systems",
+    "domain": "140",
+    "description": "Simulate rainfall-runoff and pipe network hydraulics to predict urban flooding and optimize drainage design.",
+    "keywords": [
+      "Urban Flooding",
+      "Drainage CFD",
+      "Hydraulic Simulation"
+    ]
+  },
+  {
+    "id": 9693,
+    "title": "CFD Analysis of Laminar-to-Turbulent Transition in Pipes",
+    "domain": "140",
+    "description": "Investigate flow transition mechanisms and frictional losses in pipes using numerical simulations.",
+    "keywords": [
+      "Pipe Flow",
+      "Transition CFD",
+      "Laminar-Turbulent"
+    ]
+  },
+  {
+    "id": 9694,
+    "title": "CFD Simulation of Airfoil Stall and Separation",
+    "domain": "140",
+    "description": "Predict stall onset and separation patterns on airfoils under different angles of attack for aerodynamic optimization.",
+    "keywords": [
+      "Airfoil CFD",
+      "Flow Separation",
+      "Aerodynamic Stall"
+    ]
+  },
+  {
+    "id": 9695,
+    "title": "CFD Modeling of Evaporation in Spray Cooling Systems",
+    "domain": "140",
+    "description": "Simulate liquid droplet evaporation and heat transfer in spray cooling for high-power electronic components.",
+    "keywords": [
+      "Spray Cooling",
+      "Evaporation CFD",
+      "Thermal Management"
+    ]
+  },
+  {
+    "id": 9696,
+    "title": "CFD Simulation of Sediment Transport in Rivers",
+    "domain": "140",
+    "description": "Model sediment-laden flow to study erosion, deposition, and riverbed evolution under varying hydraulic conditions.",
+    "keywords": [
+      "River CFD",
+      "Sediment Transport",
+      "Hydrodynamics"
+    ]
+  },
+  {
+    "id": 9697,
+    "title": "CFD Analysis of Pressure Drop in Porous Media",
+    "domain": "140",
+    "description": "Simulate flow through porous structures to predict pressure loss and optimize permeability for filtration systems.",
+    "keywords": [
+      "Porous Media CFD",
+      "Pressure Drop",
+      "Filtration"
+    ]
+  },
+  {
+    "id": 9698,
+    "title": "CFD Simulation of Blood Flow in Arteries with Stenosis",
+    "domain": "140",
+    "description": "Model hemodynamics in arteries with varying degrees of stenosis to study pressure drop, wall shear stress, and risk of plaque rupture.",
+    "keywords": [
+      "Arterial CFD",
+      "Blood Flow",
+      "Stenosis Modeling"
+    ]
+  },
+  {
+    "id": 9699,
+    "title": "CFD Analysis of Ventilation in Subway Stations",
+    "domain": "140",
+    "description": "Simulate airflow, contaminant dispersion, and thermal comfort in underground stations to optimize ventilation design.",
+    "keywords": [
+      "Subway CFD",
+      "Ventilation",
+      "Airflow Simulation"
+    ]
+  },
+  {
+    "id": 9700,
+    "title": "CFD Modeling of Gas-Liquid Flow in Bubble Columns",
+    "domain": "140",
+    "description": "Simulate multiphase flow, bubble distribution, and mass transfer in chemical reactors for process optimization.",
+    "keywords": [
+      "Bubble Column",
+      "Multiphase CFD",
+      "Mass Transfer"
+    ]
+  },
+  {
+    "id": 9701,
+    "title": "CFD Simulation of Wind Flow over Urban Landscapes",
+    "domain": "140",
+    "description": "Analyze wind patterns around buildings to assess pedestrian comfort, wind loads, and pollutant dispersion.",
+    "keywords": [
+      "Urban CFD",
+      "Wind Flow",
+      "Pollutant Dispersion"
+    ]
+  },
+  {
+    "id": 9702,
+    "title": "CFD Analysis of Heat Exchanger Performance",
+    "domain": "140",
+    "description": "Simulate fluid flow and heat transfer in shell-and-tube and plate heat exchangers to optimize efficiency and pressure drop.",
+    "keywords": [
+      "Heat Exchanger CFD",
+      "Thermal Performance",
+      "Fluid Flow"
+    ]
+  },
+  {
+    "id": 9703,
+    "title": "CFD Modeling of Spray Impingement on Surfaces",
+    "domain": "140",
+    "description": "Simulate droplet dynamics, impact, and spreading on surfaces to improve coating, cooling, or cleaning processes.",
+    "keywords": [
+      "Spray CFD",
+      "Surface Impingement",
+      "Droplet Dynamics"
+    ]
+  },
+  {
+    "id": 9704,
+    "title": "CFD Simulation of Turbulent Flow in Valves and Fittings",
+    "domain": "140",
+    "description": "Analyze flow separation, pressure losses, and cavitation risks in valves and piping components under turbulent conditions.",
+    "keywords": [
+      "Valve CFD",
+      "Turbulent Flow",
+      "Pressure Loss"
+    ]
+  },
+  {
+    "id": 9705,
+    "title": "CFD Modeling of Gas Exchange in Lungs",
+    "domain": "140",
+    "description": "Simulate airflow, alveolar oxygen uptake, and carbon dioxide removal to study respiratory efficiency and disease impacts.",
+    "keywords": [
+      "Lung CFD",
+      "Gas Exchange",
+      "Respiratory Simulation"
+    ]
+  },
+  {
+    "id": 9706,
+    "title": "CFD Simulation of Evaporative Cooling Towers",
+    "domain": "140",
+    "description": "Model airflow, heat, and mass transfer in cooling towers to optimize efficiency and water consumption.",
+    "keywords": [
+      "Cooling Tower CFD",
+      "Evaporative Cooling",
+      "Thermal Simulation"
+    ]
+  },
+  {
+    "id": 9707,
+    "title": "CFD Analysis of Flow-Induced Vibration in Pipelines",
+    "domain": "140",
+    "description": "Simulate turbulent flow and associated vibrations in pipelines to predict structural fatigue and optimize supports.",
+    "keywords": [
+      "Pipeline CFD",
+      "Flow-Induced Vibration",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "id": 9708,
+    "title": "CFD Modeling of Liquid Sloshing in Tanks",
+    "domain": "140",
+    "description": "Simulate fluid sloshing under dynamic conditions in storage tanks and transport vehicles to prevent structural damage.",
+    "keywords": [
+      "Sloshing CFD",
+      "Tank Simulation",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": 9709,
+    "title": "CFD Simulation of Compressible Flow in Nozzles",
+    "domain": "140",
+    "description": "Analyze supersonic and subsonic nozzle flows, shock formations, and expansion characteristics for propulsion applications.",
+    "keywords": [
+      "Nozzle CFD",
+      "Compressible Flow",
+      "Supersonic"
+    ]
+  },
+  {
+    "id": 9710,
+    "title": "CFD Analysis of Cooling of Electronic Devices",
+    "domain": "140",
+    "description": "Simulate airflow and heat dissipation in compact electronics to design effective cooling solutions and prevent overheating.",
+    "keywords": [
+      "Electronics CFD",
+      "Cooling Design",
+      "Heat Dissipation"
+    ]
+  },
+  {
+    "id": 9711,
+    "title": "CFD Simulation of Flow around Offshore Wind Turbine Blades",
+    "domain": "140",
+    "description": "Model aerodynamic loads, turbulence, and wake interactions for improved energy capture and structural safety of wind turbines.",
+    "keywords": [
+      "Wind Turbine CFD",
+      "Blade Aerodynamics",
+      "Offshore CFD"
+    ]
+  },
+  {
+    "id": 9712,
+    "title": "CFD Modeling of Particle-Laden Jet Flows",
+    "domain": "140",
+    "description": "Simulate dispersed particle dynamics in jets for industrial applications such as spraying, coating, and combustion.",
+    "keywords": [
+      "Jet Flow CFD",
+      "Particle Dynamics",
+      "Spray Simulation"
+    ]
+  },
+  {
+    "id": 9713,
+    "title": "CFD Analysis of Ventilation in Data Centers",
+    "domain": "140",
+    "description": "Simulate airflow and temperature distribution to ensure efficient cooling, reduce hotspots, and optimize energy consumption.",
+    "keywords": [
+      "Data Center CFD",
+      "Ventilation",
+      "Thermal Management"
+    ]
+  },
+  {
+    "id": 9714,
+    "title": "CFD Simulation of Fire and Smoke Propagation in Buildings",
+    "domain": "140",
+    "description": "Model combustion, heat release, and smoke spread in indoor spaces to improve fire safety design and evacuation strategies.",
+    "keywords": [
+      "Fire CFD",
+      "Smoke Propagation",
+      "Building Safety"
+    ]
+  },
+  {
+    "id": 9715,
+    "title": "CFD Modeling of Two-Phase Flow in Oil and Gas Pipelines",
+    "domain": "140",
+    "description": "Simulate oil-water or gas-liquid flow in pipelines to predict pressure drop, phase distribution, and potential blockages.",
+    "keywords": [
+      "Two-Phase Flow CFD",
+      "Oil & Gas",
+      "Pipeline Simulation"
+    ]
+  },
+  {
+    "id": 9716,
+    "title": "CFD Simulation of Heat Transfer in Phase-Change Materials",
+    "domain": "140",
+    "description": "Model melting and solidification processes in PCMs for thermal energy storage and building cooling applications.",
+    "keywords": [
+      "Phase-Change CFD",
+      "Heat Transfer",
+      "Thermal Storage"
+    ]
+  },
+  {
+    "id": 9717,
+    "title": "CFD Analysis of Aeroacoustic Noise from Fans and Propellers",
+    "domain": "140",
+    "description": "Simulate flow-induced noise generation and propagation to reduce aerodynamic noise in fans, drones, and propellers.",
+    "keywords": [
+      "Aeroacoustics CFD",
+      "Noise Simulation",
+      "Flow-Induced Noise"
+    ]
+  },
+  {
+    "id": 9718,
+    "title": "CFD Simulation of Hydrodynamics in Tidal Turbines",
+    "domain": "140",
+    "description": "Model flow interactions with tidal turbine blades to optimize energy extraction efficiency and minimize structural loads.",
+    "keywords": [
+      "Tidal Turbine CFD",
+      "Hydrodynamics",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "id": 9719,
+    "title": "CFD Modeling of Flow-Induced Corrosion in Pipelines",
+    "domain": "140",
+    "description": "Simulate fluid flow patterns and wall shear stress to predict erosion-corrosion hotspots in industrial pipelines.",
+    "keywords": [
+      "Pipeline CFD",
+      "Corrosion Prediction",
+      "Flow Analysis"
+    ]
+  },
+  {
+    "id": 9720,
+    "title": "CFD Analysis of Spray Drying Process in Pharmaceuticals",
+    "domain": "140",
+    "description": "Model atomization, droplet drying, and particle formation to optimize spray drying of pharmaceutical powders.",
+    "keywords": [
+      "Spray Drying CFD",
+      "Pharma Process",
+      "Particle Formation"
+    ]
+  },
+  {
+    "id": 9721,
+    "title": "CFD Simulation of Flow over Bluff Bodies for Vortex Shedding Analysis",
+    "domain": "140",
+    "description": "Analyze flow separation and vortex shedding behind bluff bodies to study aerodynamic forces and structural vibrations.",
+    "keywords": [
+      "Bluff Body CFD",
+      "Vortex Shedding",
+      "Flow Separation"
+    ]
+  },
+  {
+    "id": 9722,
+    "title": "CFD Modeling of Supercavitating Hydrofoils",
+    "domain": "140",
+    "description": "Simulate formation and collapse of vapor cavities around hydrofoils to optimize lift and reduce drag in high-speed marine vehicles.",
+    "keywords": [
+      "Hydrofoil CFD",
+      "Supercavitation",
+      "Marine Flow"
+    ]
+  },
+  {
+    "id": 9723,
+    "title": "CFD Simulation of Heat and Mass Transfer in Drying Processes",
+    "domain": "140",
+    "description": "Model convective and evaporative heat transfer during drying of solids and liquids for industrial processing optimization.",
+    "keywords": [
+      "Drying CFD",
+      "Heat Transfer",
+      "Mass Transfer"
+    ]
+  },
+  {
+    "id": 9724,
+    "title": "CFD Analysis of Flow in Microchannels for Lab-on-Chip Devices",
+    "domain": "140",
+    "description": "Simulate laminar and multiphase flow in microfluidic channels for optimized mixing, reaction, and particle transport.",
+    "keywords": [
+      "Microfluidics CFD",
+      "Lab-on-Chip",
+      "Microchannel Flow"
+    ]
+  },
+  {
+    "id": 9725,
+    "title": "CFD Simulation of Combustion in Gas Turbine Chambers",
+    "domain": "140",
+    "description": "Model fuel-air mixing, flame propagation, and heat release in turbine combustion chambers for efficiency and emission optimization.",
+    "keywords": [
+      "Gas Turbine CFD",
+      "Combustion Modeling",
+      "Emission Reduction"
+    ]
+  },
+  {
+    "id": 9726,
+    "title": "CFD Modeling of Multiphase Flow in Oil Reservoirs",
+    "domain": "140",
+    "description": "Simulate oil, water, and gas interactions in porous media to predict recovery efficiency and pressure distribution.",
+    "keywords": [
+      "Reservoir CFD",
+      "Multiphase Flow",
+      "Oil Recovery"
+    ]
+  },
+  {
+    "id": 9727,
+    "title": "CFD Simulation of Heat Pipes for Electronics Cooling",
+    "domain": "140",
+    "description": "Model fluid flow and phase change inside heat pipes to enhance thermal management in compact electronics.",
+    "keywords": [
+      "Heat Pipe CFD",
+      "Electronics Cooling",
+      "Phase Change"
+    ]
+  },
+  {
+    "id": 9728,
+    "title": "CFD Analysis of Pollutant Dispersion from Industrial Chimneys",
+    "domain": "140",
+    "description": "Simulate plume rise, atmospheric dispersion, and ground-level concentration to optimize emission control strategies.",
+    "keywords": [
+      "Pollutant CFD",
+      "Chimney Emission",
+      "Dispersion Modeling"
+    ]
+  },
+  {
+    "id": 9729,
+    "title": "CFD Modeling of Supersonic Flow over Airfoils",
+    "domain": "140",
+    "description": "Simulate compressible flow, shock waves, and aerodynamic heating effects on supersonic airfoils for high-speed flight design.",
+    "keywords": [
+      "Supersonic CFD",
+      "Airfoil Simulation",
+      "Shock Analysis"
+    ]
+  },
+  {
+    "id": 9730,
+    "title": "CFD Simulation of Buoyancy-Driven Flows in Tall Buildings",
+    "domain": "140",
+    "description": "Analyze natural ventilation, temperature stratification, and airflow patterns in high-rise structures for energy efficiency.",
+    "keywords": [
+      "Buoyancy CFD",
+      "Tall Building Ventilation",
+      "Natural Convection"
+    ]
+  },
+  {
+    "id": 9731,
+    "title": "CFD Analysis of Cavitation in Hydraulic Turbines",
+    "domain": "140",
+    "description": "Simulate vapor bubble formation and collapse in turbine blades to reduce erosion and improve efficiency.",
+    "keywords": [
+      "Cavitation CFD",
+      "Hydraulic Turbine",
+      "Erosion Analysis"
+    ]
+  },
+  {
+    "id": 9732,
+    "title": "CFD Modeling of Inkjet Droplet Formation and Deposition",
+    "domain": "140",
+    "description": "Simulate droplet breakup, velocity, and impact on substrate to optimize print quality in inkjet systems.",
+    "keywords": [
+      "Inkjet CFD",
+      "Droplet Simulation",
+      "Printing Technology"
+    ]
+  },
+  {
+    "id": 9733,
+    "title": "CFD Simulation of Flow Past Flexible Structures",
+    "domain": "140",
+    "description": "Model fluid-structure interaction for flexible structures like flags, sails, or membranes under various flow conditions.",
+    "keywords": [
+      "FSI CFD",
+      "Flexible Structures",
+      "Fluid-Structure Interaction"
+    ]
+  },
+  {
+    "id": 9734,
+    "title": "CFD Analysis of Thermal Comfort in Automotive Cabins",
+    "domain": "140",
+    "description": "Simulate airflow, temperature distribution, and HVAC performance inside vehicle cabins to improve passenger comfort.",
+    "keywords": [
+      "Automotive CFD",
+      "Thermal Comfort",
+      "HVAC Simulation"
+    ]
+  },
+  {
+    "id": 9735,
+    "title": "CFD Modeling of Spray Cooling for High-Power Electronics",
+    "domain": "140",
+    "description": "Simulate droplet impingement, evaporation, and heat transfer to optimize cooling performance of high-power electronic components.",
+    "keywords": [
+      "Spray Cooling CFD",
+      "Electronics Cooling",
+      "Heat Transfer"
+    ]
+  },
+  {
+    "id": 9736,
+    "title": "CFD Simulation of Blood Flow in Artificial Heart Valves",
+    "domain": "140",
+    "description": "Model pulsatile flow and shear stresses in prosthetic heart valves to assess thrombosis risk and performance.",
+    "keywords": [
+      "Artificial Valve CFD",
+      "Pulsatile Flow",
+      "Medical Simulation"
+    ]
+  },
+  {
+    "id": 9737,
+    "title": "CFD Analysis of Flow over Porous Media for Filtration Systems",
+    "domain": "140",
+    "description": "Simulate fluid flow through porous filters to optimize pressure drop, permeability, and filtration efficiency.",
+    "keywords": [
+      "Porous Media CFD",
+      "Filtration System",
+      "Flow Optimization"
+    ]
+  },
+  {
+    "id": 9738,
+    "title": "CFD Simulation of Wind Flow around Urban Landscapes",
+    "domain": "140",
+    "description": "Model airflow through city streets and around buildings to assess wind loads, pollution dispersion, and natural ventilation.",
+    "keywords": [
+      "Urban CFD",
+      "Wind Simulation",
+      "Pollution Dispersion"
+    ]
+  },
+  {
+    "id": 9739,
+    "title": "CFD Modeling of Multiphase Slurry Flow in Pipelines",
+    "domain": "140",
+    "description": "Simulate transport of solid-liquid slurries to optimize flow rates, minimize erosion, and prevent blockages.",
+    "keywords": [
+      "Slurry Flow CFD",
+      "Pipeline Transport",
+      "Multiphase Flow"
+    ]
+  },
+  {
+    "id": 9740,
+    "title": "CFD Simulation of Hypersonic Flow over Reentry Vehicles",
+    "domain": "140",
+    "description": "Model high-temperature, compressible flow with shock interactions and boundary layer effects for spacecraft reentry analysis.",
+    "keywords": [
+      "Hypersonic CFD",
+      "Reentry Vehicle",
+      "Shock Layer"
+    ]
+  },
+  {
+    "id": 9741,
+    "title": "CFD Analysis of Natural Convection in Solar Chimneys",
+    "domain": "140",
+    "description": "Simulate airflow driven by temperature differences in solar chimneys for passive building ventilation and energy generation.",
+    "keywords": [
+      "Solar Chimney CFD",
+      "Natural Convection",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "id": 9742,
+    "title": "CFD Modeling of Liquid Metal Flow in Metallurgical Processes",
+    "domain": "140",
+    "description": "Simulate turbulent flow, heat transfer, and solidification in molten metal processing for casting and alloy production.",
+    "keywords": [
+      "Liquid Metal CFD",
+      "Metallurgy",
+      "Turbulent Flow"
+    ]
+  },
+  {
+    "id": 9743,
+    "title": "CFD Simulation of Shock-Induced Cavitation in Propellers",
+    "domain": "140",
+    "description": "Analyze cavitation and pressure fluctuations caused by shock waves on marine propellers to improve performance and reduce noise.",
+    "keywords": [
+      "Cavitation CFD",
+      "Propeller Analysis",
+      "Marine Engineering"
+    ]
+  },
+  {
+    "id": 9744,
+    "title": "CFD Modeling of Gas-Liquid Mass Transfer in Bubble Columns",
+    "domain": "140",
+    "description": "Simulate bubble dynamics, gas dispersion, and mass transfer efficiency in industrial bubble column reactors.",
+    "keywords": [
+      "Bubble Column CFD",
+      "Mass Transfer",
+      "Chemical Reactor"
+    ]
+  },
+  {
+    "id": 9745,
+    "title": "CFD Simulation of Flow and Heat Transfer in Heat Exchangers",
+    "domain": "140",
+    "description": "Model fluid flow and thermal behavior in shell-and-tube and plate heat exchangers to optimize efficiency and pressure drop.",
+    "keywords": [
+      "Heat Exchanger CFD",
+      "Flow Simulation",
+      "Thermal Optimization"
+    ]
+  },
+  {
+    "id": 9746,
+    "title": "CFD Analysis of Particle-Laden Flows in Cyclone Separators",
+    "domain": "140",
+    "description": "Simulate the separation efficiency of cyclones by modeling particle trajectories and turbulent flow patterns.",
+    "keywords": [
+      "Cyclone Separator CFD",
+      "Particle Flow",
+      "Turbulence Modeling"
+    ]
+  },
 
         // Note: In a real implementation, this array would contain 2000+ problems
         // This sample shows the structure and approach for the complete dataset
