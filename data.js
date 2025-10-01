@@ -64864,6 +64864,1014 @@ const PROBLEMS_DATA = {
         "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
     },
     //domain-127
+{
+    "id": 8879,
+    "title": "Industry 4.0 Smart Factory Simulation Platform",
+    "domain": "127",
+    "description": "A simulation-based platform to demonstrate Industry 4.0 concepts in a virtual manufacturing environment, integrating IoT, AI, and robotics for real-time monitoring and decision-making.",
+    "keywords": ["Industry 4.0", "Smart Factory", "Digital Manufacturing"]
+},
+{
+    "id": 8880,
+    "title": "PLC-Controlled Conveyor Sorting System",
+    "domain": "127",
+    "description": "Develop a programmable logic controller (PLC) system to automate conveyor belt sorting based on sensor data such as weight, size, or RFID tags for improved factory efficiency.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8881,
+    "title": "SCADA-Based Energy Monitoring System",
+    "domain": "127",
+    "description": "Design a SCADA system to monitor, analyze, and optimize energy usage in an automated factory, reducing energy wastage and improving sustainability.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 8882,
+    "title": "MES for Real-Time Production Tracking",
+    "domain": "127",
+    "description": "Implement a manufacturing execution system (MES) to track production status, machine downtime, and operator efficiency in real time across the factory floor.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8883,
+    "title": "Collaborative Robots (Cobots) for Assembly",
+    "domain": "127",
+    "description": "Develop cobot solutions that can safely work alongside human operators in precision assembly tasks, improving ergonomics and productivity in smart factories.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8884,
+    "title": "AI-Enhanced Predictive Maintenance with PLC Data",
+    "domain": "127",
+    "description": "Leverage PLC sensor data and AI algorithms to build a predictive maintenance system that reduces downtime by forecasting potential machine failures.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Industry 4.0"]
+},
+{
+    "id": 8885,
+    "title": "Digital Twin for Process Control Optimization",
+    "domain": "127",
+    "description": "Create a digital twin of a production line to optimize process control, improve efficiency, and test automation changes in a risk-free virtual environment.",
+    "keywords": ["Process Control", "Digital Manufacturing"]
+},
+{
+    "id": 8886,
+    "title": "Smart Factory IoT Sensor Network",
+    "domain": "127",
+    "description": "Deploy IoT-enabled sensors across factory equipment to collect data for real-time analytics, process optimization, and predictive quality monitoring.",
+    "keywords": ["Smart Factory", "Industry 4.0"]
+},
+{
+    "id": 8887,
+    "title": "Automated SCADA Alarm Management System",
+    "domain": "127",
+    "description": "Build a SCADA-based alarm management system that prioritizes, categorizes, and notifies operators about critical events to improve response time.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8888,
+    "title": "MES-Integrated Quality Control Dashboard",
+    "domain": "127",
+    "description": "Develop a dashboard integrated with MES to monitor quality metrics, defects, and compliance in real time, ensuring consistent product quality.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8889,
+    "title": "Cobot-Assisted Welding Automation",
+    "domain": "127",
+    "description": "Design a collaborative robot solution for welding tasks in manufacturing, enabling safer and more precise operations in shared workspaces.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8890,
+    "title": "Industry 4.0 Edge Computing Gateway",
+    "domain": "127",
+    "description": "Implement an edge computing system that preprocesses IoT sensor data in real time for Industry 4.0 applications, reducing cloud dependency.",
+    "keywords": ["Industry 4.0", "Smart Factory"]
+},
+{
+    "id": 8891,
+    "title": "SCADA-Enabled Remote Factory Monitoring",
+    "domain": "127",
+    "description": "Develop a SCADA interface to allow remote operators to securely monitor and control industrial processes across geographically distributed plants.",
+    "keywords": ["SCADA Systems", "Digital Manufacturing"]
+},
+{
+    "id": 8892,
+    "title": "PLC-Based Automated Packaging Line",
+    "domain": "127",
+    "description": "Create a PLC-controlled packaging system that integrates sensors and actuators for automated sealing, labeling, and product sorting.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8893,
+    "title": "AI-Driven Smart Factory Scheduling",
+    "domain": "127",
+    "description": "Develop an AI-powered system to optimize scheduling of machines and workers in a smart factory environment, minimizing bottlenecks and idle time.",
+    "keywords": ["Smart Factory", "Industry 4.0"]
+},
+{
+    "id": 8894,
+    "title": "MES Integration with Supply Chain Management",
+    "domain": "127",
+    "description": "Integrate MES with supply chain systems to provide end-to-end visibility of materials, production, and delivery timelines in manufacturing plants.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8895,
+    "title": "Cobots in Human-Robot Collaborative Assembly Line",
+    "domain": "127",
+    "description": "Design an assembly line where cobots assist human operators in repetitive tasks, improving ergonomics, reducing fatigue, and boosting productivity.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8896,
+    "title": "SCADA-Based Water Usage Optimization",
+    "domain": "127",
+    "description": "Implement a SCADA system to monitor and optimize industrial water consumption across processes, promoting sustainable factory operations.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8897,
+    "title": "Digital Manufacturing Cloud Analytics",
+    "domain": "127",
+    "description": "Develop a cloud-based analytics platform for digital manufacturing that provides insights on production trends, efficiency, and predictive maintenance.",
+    "keywords": ["Digital Manufacturing", "Industry 4.0"]
+},
+{
+    "id": 8898,
+    "title": "PLC-Based Robotic Arm Control",
+    "domain": "127",
+    "description": "Design a PLC-controlled robotic arm for industrial applications such as pick-and-place operations, material handling, and precision assembly.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Cobots"]
+},
+{
+    "id": 8899,
+    "title": "Smart Factory Cybersecurity Simulation",
+    "domain": "127",
+    "description": "Develop a simulation environment to test and evaluate cybersecurity measures for IoT-enabled smart factories under Industry 4.0 frameworks.",
+    "keywords": ["Smart Factory", "Industry 4.0"]
+},
+{
+    "id": 8900,
+    "title": "MES-Driven Predictive Quality Control",
+    "domain": "127",
+    "description": "Implement predictive analytics within MES to forecast product quality issues before they occur, reducing waste and improving output consistency.",
+    "keywords": ["Manufacturing Execution System (MES)", "Process Control"]
+},
+{
+    "id": 8901,
+    "title": "Cobots for Automated Material Handling",
+    "domain": "127",
+    "description": "Develop collaborative robots (cobots) to automate repetitive material handling tasks, improving safety and reducing strain on human workers.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8902,
+    "title": "AI-Integrated SCADA Fault Detection",
+    "domain": "127",
+    "description": "Build a SCADA-based fault detection system enhanced with AI to identify anomalies in real time and prevent process failures.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8903,
+    "title": "Digital Manufacturing Workflow Optimizer",
+    "domain": "127",
+    "description": "Develop a workflow optimization tool for digital manufacturing that uses real-time data to streamline production lines and reduce bottlenecks.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8904,
+    "title": "PLC-Based Automated Pick and Place Machine",
+    "domain": "127",
+    "description": "Design a PLC-controlled pick-and-place system for assembling electronic components, reducing human error and improving production speed.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Cobots"]
+},
+{
+    "id": 8905,
+    "title": "Smart Factory Environmental Monitoring System",
+    "domain": "127",
+    "description": "Deploy IoT sensors to monitor environmental factors like temperature, humidity, and air quality in smart factories to maintain optimal conditions.",
+    "keywords": ["Smart Factory", "Industry 4.0"]
+},
+{
+    "id": 8906,
+    "title": "MES for Automated Production Planning",
+    "domain": "127",
+    "description": "Implement an MES module that automatically generates optimized production plans based on material availability and demand forecasts.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8907,
+    "title": "Cobots-Assisted Quality Inspection",
+    "domain": "127",
+    "description": "Develop cobots with integrated vision systems to perform automated quality inspections alongside human supervisors in a factory setting.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8908,
+    "title": "SCADA System for Multi-Plant Synchronization",
+    "domain": "127",
+    "description": "Create a SCADA system to synchronize production data and operations across multiple manufacturing plants in real time.",
+    "keywords": ["SCADA Systems", "Digital Manufacturing"]
+},
+{
+    "id": 8909,
+    "title": "PLC-Controlled Automated Mixing Process",
+    "domain": "127",
+    "description": "Develop a PLC-based system to automate the mixing process in food or chemical industries, ensuring precise control of ingredients.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8910,
+    "title": "AI-Driven MES Data Analytics",
+    "domain": "127",
+    "description": "Integrate artificial intelligence into MES platforms to analyze production data and suggest optimization strategies in real time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8911,
+    "title": "Smart Factory Augmented Reality Maintenance",
+    "domain": "127",
+    "description": "Design an augmented reality application for smart factories that guides technicians through equipment maintenance tasks using live IoT data.",
+    "keywords": ["Smart Factory", "Digital Manufacturing"]
+},
+{
+    "id": 8912,
+    "title": "Cobots in Automotive Assembly Lines",
+    "domain": "127",
+    "description": "Implement cobots in automotive assembly lines to perform repetitive fastening and assembly tasks in collaboration with human workers.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8913,
+    "title": "SCADA with Blockchain for Secure Data Logging",
+    "domain": "127",
+    "description": "Develop a SCADA system integrated with blockchain technology to ensure secure and tamper-proof logging of industrial data.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8914,
+    "title": "PLC-Based Automated Painting Line",
+    "domain": "127",
+    "description": "Design a PLC-controlled automated painting system for manufacturing that ensures uniform coating and minimizes wastage.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8915,
+    "title": "MES-Enabled Traceability System",
+    "domain": "127",
+    "description": "Implement a traceability system using MES that tracks raw materials, production batches, and delivery to improve supply chain transparency.",
+    "keywords": ["Manufacturing Execution System (MES)", "Smart Factory"]
+},
+{
+    "id": 8916,
+    "title": "Cobots for Electronics Assembly",
+    "domain": "127",
+    "description": "Develop cobot-based assembly systems for electronic devices where precision placement and handling of small parts are required.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8917,
+    "title": "AI-Powered SCADA Predictive Analytics",
+    "domain": "127",
+    "description": "Integrate AI with SCADA systems to perform predictive analytics on machine performance, helping factories avoid unexpected failures.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8918,
+    "title": "Digital Manufacturing Additive Manufacturing Integration",
+    "domain": "127",
+    "description": "Build a digital manufacturing system that integrates additive manufacturing (3D printing) into existing production lines.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8919,
+    "title": "PLC-Based Safety Interlock Systems",
+    "domain": "127",
+    "description": "Develop PLC-controlled safety interlock systems that shut down machines under unsafe operating conditions to protect workers.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8920,
+    "title": "MES-Driven Real-Time Resource Allocation",
+    "domain": "127",
+    "description": "Implement MES modules to allocate resources such as manpower, machines, and tools in real time based on factory demand.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8921,
+    "title": "Cobots for Pharmaceutical Packaging",
+    "domain": "127",
+    "description": "Develop collaborative robots to assist in pharmaceutical packaging processes, ensuring sterility, precision, and compliance with safety standards.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8922,
+    "title": "SCADA-Integrated Renewable Energy Management",
+    "domain": "127",
+    "description": "Design a SCADA-based system to integrate renewable energy sources into industrial power grids, ensuring stable and optimized usage.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8923,
+    "title": "PLC-Controlled Smart Warehouse Automation",
+    "domain": "127",
+    "description": "Implement a PLC-based control system for automating warehouse conveyors, lifts, and inventory systems to improve logistics efficiency.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Industry 4.0"]
+},
+{
+    "id": 8924,
+    "title": "MES-Enhanced Workforce Performance Tracking",
+    "domain": "127",
+    "description": "Build an MES platform module that tracks workforce efficiency, safety compliance, and productivity for continuous improvement.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8925,
+    "title": "Cobots for Precision Medical Device Assembly",
+    "domain": "127",
+    "description": "Design cobots capable of assembling medical devices that require extremely high precision and cleanroom compatibility.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8926,
+    "title": "AI-Driven SCADA Cybersecurity Shield",
+    "domain": "127",
+    "description": "Develop an AI-powered SCADA cybersecurity layer that detects abnormal network activity and prevents cyber-attacks on industrial systems.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8927,
+    "title": "Smart Factory Digital Kanban System",
+    "domain": "127",
+    "description": "Implement a digital Kanban system in a smart factory to manage inventory flow and trigger automated production orders in real time.",
+    "keywords": ["Smart Factory", "Digital Manufacturing"]
+},
+{
+    "id": 8928,
+    "title": "PLC-Controlled Automated Beverage Bottling Line",
+    "domain": "127",
+    "description": "Develop a PLC-controlled system for automating beverage bottling, including filling, sealing, and labeling processes.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8929,
+    "title": "MES-Driven Real-Time Cost Analysis",
+    "domain": "127",
+    "description": "Integrate cost-tracking modules into MES systems to calculate real-time production costs and identify cost-saving opportunities.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8930,
+    "title": "Cobots for Collaborative CNC Machining",
+    "domain": "127",
+    "description": "Develop cobots that can assist with CNC machining tasks, such as tool loading, workpiece handling, and inspection.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8931,
+    "title": "SCADA-Enabled Predictive Power Distribution",
+    "domain": "127",
+    "description": "Create a SCADA-based power distribution system that uses predictive analytics to balance load and minimize downtime.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 8932,
+    "title": "PLC-Controlled Automated Dairy Processing",
+    "domain": "127",
+    "description": "Design a PLC system to automate dairy processing operations such as pasteurization, homogenization, and packaging.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8933,
+    "title": "AI-Powered MES Defect Prediction",
+    "domain": "127",
+    "description": "Enhance MES systems with AI models that predict manufacturing defects in real time, allowing corrective actions during production.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8934,
+    "title": "Smart Factory IoT-Driven Safety System",
+    "domain": "127",
+    "description": "Develop an IoT-based safety monitoring system for smart factories that tracks operator safety and ensures compliance.",
+    "keywords": ["Smart Factory", "Process Control"]
+},
+{
+    "id": 8935,
+    "title": "Cobots for Textile Industry Automation",
+    "domain": "127",
+    "description": "Deploy cobots in textile industries to perform repetitive tasks such as folding, stitching, and packaging alongside humans.",
+    "keywords": ["Cobots", "Industry 4.0"]
+},
+{
+    "id": 8936,
+    "title": "SCADA with AI for Process Optimization",
+    "domain": "127",
+    "description": "Build a SCADA system enhanced with AI to optimize process control in manufacturing plants and improve throughput.",
+    "keywords": ["SCADA Systems", "Digital Manufacturing"]
+},
+{
+    "id": 8937,
+    "title": "PLC-Based Automated Car Wash System",
+    "domain": "127",
+    "description": "Design a PLC-controlled automated car wash that adjusts wash cycles based on vehicle type and user preferences.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8938,
+    "title": "MES for Smart Supply Chain Forecasting",
+    "domain": "127",
+    "description": "Develop an MES module for predicting supply chain demand using AI-driven forecasting models, ensuring efficient production planning.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8939,
+    "title": "Cobots for Precision Glass Handling",
+    "domain": "127",
+    "description": "Create cobot systems capable of handling fragile glass materials in manufacturing lines with high precision and care.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8940,
+    "title": "SCADA System for Industrial Water Recycling",
+    "domain": "127",
+    "description": "Implement a SCADA-based monitoring and control system for water recycling and reuse in industrial manufacturing processes.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8941,
+    "title": "PLC-Controlled Smart Traffic Management System",
+    "domain": "127",
+    "description": "Develop a PLC-based smart traffic control system that automates traffic light cycles using real-time sensor input to reduce congestion.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Industry 4.0"]
+},
+{
+    "id": 8942,
+    "title": "MES-Integrated Lean Manufacturing Dashboard",
+    "domain": "127",
+    "description": "Build a dashboard integrated with MES that measures lean manufacturing KPIs such as takt time, OEE, and cycle efficiency.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8943,
+    "title": "Cobots for Aerospace Component Assembly",
+    "domain": "127",
+    "description": "Design cobots to assist in aerospace component assembly requiring high precision and compliance with strict safety regulations.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8944,
+    "title": "SCADA-Driven Factory Energy Optimization",
+    "domain": "127",
+    "description": "Implement a SCADA system to monitor energy flows in industrial plants and optimize energy consumption in real time.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8945,
+    "title": "PLC-Controlled Automated Irrigation in Factories",
+    "domain": "127",
+    "description": "Create a PLC-based irrigation control system for green factory campuses, optimizing water use with soil moisture sensors.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8946,
+    "title": "MES-Enabled Digital Work Instructions",
+    "domain": "127",
+    "description": "Develop MES-driven digital work instructions that guide operators step by step on factory floor tasks using tablets or AR devices.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8947,
+    "title": "Cobots in Food Packaging Industry",
+    "domain": "127",
+    "description": "Deploy cobots to assist in food packaging tasks such as filling, sealing, and sorting with hygiene-compliant automation.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8948,
+    "title": "AI-Supported SCADA Anomaly Detection",
+    "domain": "127",
+    "description": "Integrate AI algorithms into SCADA systems to automatically detect anomalies in production data and trigger alerts.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8949,
+    "title": "Digital Manufacturing with Blockchain Traceability",
+    "domain": "127",
+    "description": "Implement blockchain-based traceability in digital manufacturing to track raw material origins and product authenticity.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8950,
+    "title": "PLC-Based Automated Parking Garage",
+    "domain": "127",
+    "description": "Design a PLC-controlled automated multi-level parking system that efficiently manages car storage and retrieval.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8951,
+    "title": "MES-Driven Paperless Manufacturing System",
+    "domain": "127",
+    "description": "Build a paperless manufacturing system with MES integration that replaces physical records with digital workflows and real-time dashboards.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8952,
+    "title": "Cobots for Furniture Assembly",
+    "domain": "127",
+    "description": "Develop cobots that work with humans to assemble modular furniture, combining speed and adaptability with ergonomic design.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8953,
+    "title": "SCADA-Enabled Industrial HVAC Optimization",
+    "domain": "127",
+    "description": "Create a SCADA-based system to monitor and optimize industrial HVAC systems for energy efficiency and comfort.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 8954,
+    "title": "PLC-Controlled Pharmaceutical Batch Processing",
+    "domain": "127",
+    "description": "Develop a PLC-controlled batch processing system for pharmaceuticals ensuring strict adherence to GMP guidelines.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8955,
+    "title": "MES-Integrated Just-in-Time Production",
+    "domain": "127",
+    "description": "Design an MES module that enables just-in-time production scheduling and real-time material requirement planning.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8956,
+    "title": "Cobots for High-Precision Laser Cutting",
+    "domain": "127",
+    "description": "Deploy cobots to assist in laser cutting processes, enhancing flexibility and precision in handling diverse materials.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8957,
+    "title": "AI-Powered SCADA Root Cause Analysis",
+    "domain": "127",
+    "description": "Enhance SCADA with AI-driven root cause analysis for faster troubleshooting and process reliability in smart factories.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8958,
+    "title": "Digital Manufacturing Predictive Simulation",
+    "domain": "127",
+    "description": "Develop a simulation platform for digital manufacturing that predicts production outcomes based on real-time input variables.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8959,
+    "title": "PLC-Based Automated Cold Storage Control",
+    "domain": "127",
+    "description": "Create a PLC-based automation system for cold storage warehouses that maintains optimal temperature and humidity levels.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8960,
+    "title": "MES-Enhanced Factory Digital Twin",
+    "domain": "127",
+    "description": "Build a digital twin of a factory floor integrated with MES data to simulate and optimize operational efficiency in real time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8961,
+    "title": "Cobots for Automated PCB Assembly",
+    "domain": "127",
+    "description": "Design cobots that assist in PCB assembly by handling delicate components, soldering, and inspection with high precision.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8962,
+    "title": "SCADA-Integrated Smart Waste Management",
+    "domain": "127",
+    "description": "Develop a SCADA-based waste management system for factories that monitors, categorizes, and automates waste disposal.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8963,
+    "title": "PLC-Based Robotic Palletizing System",
+    "domain": "127",
+    "description": "Create a PLC-controlled robotic palletizing system to automate stacking, sorting, and packaging of products for shipment.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Cobots"]
+},
+{
+    "id": 8964,
+    "title": "MES-Enabled Energy Efficiency Tracking",
+    "domain": "127",
+    "description": "Implement MES modules that track energy consumption across production units and generate sustainability reports.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8965,
+    "title": "Cobots for Surgical Instrument Sterilization",
+    "domain": "127",
+    "description": "Develop cobots that automate sterilization and packaging of surgical instruments in healthcare manufacturing facilities.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8966,
+    "title": "AI-Powered SCADA Demand Forecasting",
+    "domain": "127",
+    "description": "Integrate AI forecasting models with SCADA to predict demand fluctuations and optimize production accordingly.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8967,
+    "title": "Digital Manufacturing Cloud Collaboration Platform",
+    "domain": "127",
+    "description": "Build a cloud-based platform for digital manufacturing teams to collaborate, share production data, and optimize workflows remotely.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8968,
+    "title": "PLC-Based Automated Textile Dyeing Process",
+    "domain": "127",
+    "description": "Design a PLC-controlled textile dyeing system that ensures precise control of color mixing, timing, and temperature.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8969,
+    "title": "MES-Driven Predictive Maintenance Scheduler",
+    "domain": "127",
+    "description": "Create an MES tool that automatically schedules predictive maintenance tasks based on machine health data.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8970,
+    "title": "Cobots for Agricultural Processing Plants",
+    "domain": "127",
+    "description": "Deploy cobots in agricultural processing plants for tasks like fruit sorting, packing, and quality grading.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8971,
+    "title": "SCADA-Enabled Industrial Lighting Automation",
+    "domain": "127",
+    "description": "Implement a SCADA-based lighting control system that adjusts brightness and energy use based on factory activity levels.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 8972,
+    "title": "PLC-Controlled Assembly Line Balancing",
+    "domain": "127",
+    "description": "Develop a PLC system that dynamically balances assembly line operations by redistributing workloads in real time.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Industry 4.0"]
+},
+{
+    "id": 8973,
+    "title": "MES-Enhanced Digital Inventory Management",
+    "domain": "127",
+    "description": "Create an MES-driven digital inventory system that provides real-time stock levels, alerts, and automated reordering.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8974,
+    "title": "Cobots for Packaging in Cold Chain Logistics",
+    "domain": "127",
+    "description": "Develop cobots designed to package perishable goods under cold chain logistics while ensuring product quality and speed.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 8975,
+    "title": "AI-Integrated SCADA Workflow Automation",
+    "domain": "127",
+    "description": "Enhance SCADA with AI models that automatically adjust workflow parameters for maximum efficiency in production lines.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8976,
+    "title": "Digital Manufacturing with Virtual Reality Training",
+    "domain": "127",
+    "description": "Develop a VR-based training platform integrated with digital manufacturing systems to train operators in simulated environments.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8977,
+    "title": "PLC-Controlled Automated Sorting of Recyclables",
+    "domain": "127",
+    "description": "Create a PLC-based recycling line that uses sensors to sort plastic, glass, and metals for sustainable manufacturing.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8978,
+    "title": "MES-Driven Multi-Factory Integration System",
+    "domain": "127",
+    "description": "Implement an MES solution that integrates multiple factory sites under a single platform for unified management.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8979,
+    "title": "Cobots for Tire Manufacturing Processes",
+    "domain": "127",
+    "description": "Deploy cobots in tire production for handling raw materials, vulcanization support, and product quality inspection.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8980,
+    "title": "SCADA-Based Real-Time Water Quality Monitoring",
+    "domain": "127",
+    "description": "Develop a SCADA system that continuously monitors water quality parameters for factories and ensures compliance with environmental standards.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 8981,
+    "title": "PLC-Based Automated Greenhouse System",
+    "domain": "127",
+    "description": "Design a PLC-controlled greenhouse system that manages irrigation, lighting, and ventilation for optimized crop growth.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Smart Factory"]
+},
+{
+    "id": 8982,
+    "title": "MES-Integrated Digital Twin Platform",
+    "domain": "127",
+    "description": "Build a digital twin of the manufacturing floor integrated with MES to simulate, monitor, and optimize production in real time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8983,
+    "title": "Cobots for Hazardous Material Handling",
+    "domain": "127",
+    "description": "Develop cobots specialized in handling hazardous chemicals and materials safely within industrial environments.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8984,
+    "title": "SCADA-Based Predictive Fault Detection",
+    "domain": "127",
+    "description": "Implement SCADA with predictive analytics to detect and prevent equipment faults before they impact production.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8985,
+    "title": "PLC-Controlled Smart Conveyor System",
+    "domain": "127",
+    "description": "Create a PLC-managed conveyor system that automatically adjusts speed, routing, and load balancing across assembly lines.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8986,
+    "title": "MES-Driven Workforce Productivity Dashboard",
+    "domain": "127",
+    "description": "Design an MES dashboard that tracks workforce productivity, efficiency levels, and skill utilization in real time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8987,
+    "title": "Cobots for Welding Operations",
+    "domain": "127",
+    "description": "Deploy cobots in welding tasks to improve safety, precision, and consistency in automotive and aerospace industries.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 8988,
+    "title": "AI-Powered SCADA for Process Optimization",
+    "domain": "127",
+    "description": "Integrate AI with SCADA to continuously optimize industrial processes, reducing waste and improving quality control.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8989,
+    "title": "Digital Manufacturing 3D Printing Integration",
+    "domain": "127",
+    "description": "Develop a digital manufacturing module that integrates additive manufacturing (3D printing) with traditional production lines.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8990,
+    "title": "PLC-Based Industrial Safety Shutdown System",
+    "domain": "127",
+    "description": "Create a PLC-controlled safety shutdown system that automatically halts machinery during emergencies to prevent accidents.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 8991,
+    "title": "MES-Integrated Lean Manufacturing Toolkit",
+    "domain": "127",
+    "description": "Design an MES toolkit that implements lean manufacturing principles to minimize waste and maximize production efficiency.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 8992,
+    "title": "Cobots for Automated Painting Systems",
+    "domain": "127",
+    "description": "Develop cobots that handle industrial painting tasks with precision, reducing material wastage and improving coating consistency.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 8993,
+    "title": "SCADA-Enabled Environmental Monitoring System",
+    "domain": "127",
+    "description": "Implement SCADA to monitor air emissions, water discharge, and environmental compliance for sustainable factories.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 8994,
+    "title": "PLC-Controlled Smart Packaging System",
+    "domain": "127",
+    "description": "Create a PLC system that automates packaging operations, adjusting to different product types and packaging materials.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Smart Factory"]
+},
+{
+    "id": 8995,
+    "title": "MES-Driven Supply Chain Transparency System",
+    "domain": "127",
+    "description": "Develop an MES-enabled system that provides end-to-end supply chain transparency and traceability for manufacturers.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 8996,
+    "title": "Cobots for Automotive Assembly Lines",
+    "domain": "127",
+    "description": "Design cobots to work alongside human operators on automotive assembly lines, performing tasks like fastening and inspection.",
+    "keywords": ["Cobots", "Industry 4.0"]
+},
+{
+    "id": 8997,
+    "title": "AI-Enhanced SCADA Cybersecurity Module",
+    "domain": "127",
+    "description": "Build a SCADA cybersecurity layer powered by AI to detect, prevent, and respond to cyber threats in industrial systems.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 8998,
+    "title": "Digital Manufacturing Real-Time Cost Analyzer",
+    "domain": "127",
+    "description": "Create a cost-analysis tool within digital manufacturing platforms to evaluate real-time production costs and resource usage.",
+    "keywords": ["Digital Manufacturing", "Smart Factory"]
+},
+{
+    "id": 8999,
+    "title": "PLC-Controlled Multi-Stage Food Processing System",
+    "domain": "127",
+    "description": "Design a PLC-based food processing system that manages cooking, packaging, and quality checks in a multi-stage pipeline.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 9000,
+    "title": "MES-Integrated Worker Safety Monitoring",
+    "domain": "127",
+    "description": "Develop an MES-enabled safety system that monitors worker health, PPE usage, and workplace conditions in real time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Smart Factory"]
+},
+{
+    "id": 9001,
+    "title": "Cobots for Smart Material Handling",
+    "domain": "127",
+    "description": "Develop cobots that autonomously move raw materials between different production stages, reducing manual labor and delays.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 9002,
+    "title": "SCADA-Based Energy Load Balancing",
+    "domain": "127",
+    "description": "Implement a SCADA-controlled system to balance factory energy loads, optimize peak usage, and minimize electricity costs.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 9003,
+    "title": "PLC-Controlled Automated Paint Mixing",
+    "domain": "127",
+    "description": "Design a PLC-controlled system for automated paint mixing, ensuring accurate proportions and consistent quality.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Digital Manufacturing"]
+},
+{
+    "id": 9004,
+    "title": "MES-Driven Real-Time Quality Analytics",
+    "domain": "127",
+    "description": "Develop an MES module that provides real-time quality analytics across all production units with instant defect alerts.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 9005,
+    "title": "Cobots for Furniture Assembly",
+    "domain": "127",
+    "description": "Design cobots to automate drilling, fastening, and gluing processes in furniture manufacturing lines.",
+    "keywords": ["Cobots", "Process Control"]
+},
+{
+    "id": 9006,
+    "title": "SCADA-Integrated Smart HVAC Management",
+    "domain": "127",
+    "description": "Implement a SCADA-enabled HVAC system that optimizes temperature, humidity, and air quality in factories.",
+    "keywords": ["SCADA Systems", "Smart Factory"]
+},
+{
+    "id": 9007,
+    "title": "PLC-Based Industrial Robot Arm Control",
+    "domain": "127",
+    "description": "Develop a PLC program to control multi-axis robotic arms used for precision assembly and machining tasks.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Cobots"]
+},
+{
+    "id": 9008,
+    "title": "MES-Enabled Customer Order Tracking",
+    "domain": "127",
+    "description": "Create an MES-based system that integrates production schedules with customer orders for real-time order status tracking.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 9009,
+    "title": "Cobots for Pharmaceutical Packaging",
+    "domain": "127",
+    "description": "Deploy cobots to handle pharmaceutical packaging with high precision, ensuring compliance with safety standards.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 9010,
+    "title": "SCADA-Based Industrial Fire Safety System",
+    "domain": "127",
+    "description": "Develop a SCADA-integrated fire detection and suppression system for industrial plants with automatic response mechanisms.",
+    "keywords": ["SCADA Systems", "Process Control"]
+},
+{
+    "id": 9011,
+    "title": "PLC-Controlled Automated Beverage Bottling",
+    "domain": "127",
+    "description": "Design a PLC-controlled bottling plant that automates filling, sealing, and labeling of beverages.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Smart Factory"]
+},
+{
+    "id": 9012,
+    "title": "MES-Integrated Worker Training Analytics",
+    "domain": "127",
+    "description": "Build an MES module that tracks worker training sessions, skill levels, and competency improvements over time.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 9013,
+    "title": "Cobots for Metal Cutting and Grinding",
+    "domain": "127",
+    "description": "Develop cobots capable of performing cutting, grinding, and polishing operations with enhanced safety and accuracy.",
+    "keywords": ["Cobots", "Digital Manufacturing"]
+},
+{
+    "id": 9014,
+    "title": "AI-Enhanced SCADA Fault Classification",
+    "domain": "127",
+    "description": "Integrate AI with SCADA to classify and prioritize machine faults, improving maintenance efficiency.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 9015,
+    "title": "PLC-Controlled Industrial Water Recycling System",
+    "domain": "127",
+    "description": "Design a PLC-controlled water recycling system for factories to reduce water wastage and promote sustainability.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 9016,
+    "title": "MES-Driven Carbon Footprint Tracker",
+    "domain": "127",
+    "description": "Develop an MES-enabled carbon footprint monitoring tool that tracks emissions and provides sustainability insights.",
+    "keywords": ["Manufacturing Execution System (MES)", "Digital Manufacturing"]
+},
+{
+    "id": 9017,
+    "title": "Cobots for Glass Manufacturing Processes",
+    "domain": "127",
+    "description": "Deploy cobots in glass factories to handle shaping, inspection, and transportation of fragile glass products.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+{
+    "id": 9018,
+    "title": "SCADA-Enabled Predictive Energy Analytics",
+    "domain": "127",
+    "description": "Implement a SCADA system with predictive analytics for optimizing energy usage and reducing power wastage.",
+    "keywords": ["SCADA Systems", "Industry 4.0"]
+},
+{
+    "id": 9019,
+    "title": "PLC-Based Smart Irrigation for Industrial Parks",
+    "domain": "127",
+    "description": "Create a PLC-controlled smart irrigation system for industrial campuses, ensuring efficient water usage.",
+    "keywords": ["Programmable Logic Controllers (PLC)", "Process Control"]
+},
+{
+    "id": 9020,
+    "title": "MES-Integrated End-to-End Traceability",
+    "domain": "127",
+    "description": "Develop an MES solution that provides complete traceability of raw materials to finished goods across production lines.",
+    "keywords": ["Manufacturing Execution System (MES)", "Industry 4.0"]
+},
+{
+    "id": 9021,
+    "title": "Cobots for Food Packaging and Sorting",
+    "domain": "127",
+    "description": "Design cobots that automate food packaging and sorting operations with precision and compliance to food safety standards.",
+    "keywords": ["Cobots", "Smart Factory"]
+},
+//domain-128
+
+
+
+
+
+
 
 
     
