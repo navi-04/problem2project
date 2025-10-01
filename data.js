@@ -63693,6 +63693,1180 @@ const PROBLEMS_DATA = {
     "keywords": ["Ultrasonic Testing", "Structural Health Monitoring"]
 },
 //domain-125
+{
+"id": 8712,
+"title": "Automated FEA Mesh Optimizer",
+"domain": "125",
+"description": "Tool that analyzes geometry and loading to automatically generate and optimize finite element meshes for accuracy and compute efficiency.",
+"keywords": ["Finite Element Analysis (FEA)", "Computational Modeling", "Virtual Prototyping"]
+},
+{
+"id": 8713,
+"title": "Digital Twin for HVAC System Performance",
+"domain": "125",
+"description": "Create a digital twin that simulates HVAC behavior under varying loads and controls to predict performance and energy use.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Multiphysics Analysis"]
+},
+{
+"id": 8714,
+"title": "Multiphysics Battery Degradation Simulator",
+"domain": "125",
+"description": "A coupled thermal-electrochemical model to simulate battery aging, heat generation, and capacity fade under different duty cycles.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8715,
+"title": "Virtual Prototyping for Drone Aerodynamics",
+"domain": "125",
+"description": "End-to-end virtual prototyping pipeline that predicts aerodynamic performance of drone designs using CFD-integrated FEA.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Computational Modeling"]
+},
+{
+"id": 8716,
+"title": "System Dynamics Model of Urban Traffic Flow",
+"domain": "125",
+"description": "Develop a system-dynamics simulation to study congestion, signal timing, and demand-response strategies in city networks.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8717,
+"title": "FEA-Based Crashworthiness Evaluator",
+"domain": "125",
+"description": "A computational framework that runs rapid FEA crash scenarios on vehicle structures to rank design safety metrics.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Virtual Prototyping"]
+},
+{
+"id": 8718,
+"title": "Computational Modeling Toolkit for MEMS",
+"domain": "125",
+"description": "Toolkit to model mechanical, thermal, and electrostatic behavior of MEMS devices with coupled multiphysics routines.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Mathematical Simulation"]
+},
+{
+"id": 8719,
+"title": "Digital Twin for Manufacturing Line Optimization",
+"domain": "125",
+"description": "Simulate an assembly line as a digital twin to optimize throughput, buffer sizes, and predictive maintenance schedules.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Virtual Prototyping"]
+},
+{
+"id": 8720,
+"title": "Wind Turbine Blade FEA & Fatigue Analyzer",
+"domain": "125",
+"description": "Simulate structural response and long-term fatigue of turbine blades under stochastic wind loading using FEA.",
+"keywords": ["Finite Element Analysis (FEA)", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8721,
+"title": "Virtual Prototyping of Robotic Grippers",
+"domain": "125",
+"description": "End-to-end simulation environment to prototype robotic gripper kinematics, contact mechanics, and control strategies.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "System Dynamics"]
+},
+{
+"id": 8722,
+"title": "FEA-Assisted Topology Optimization Service",
+"domain": "125",
+"description": "A service that integrates FEA with topology optimization to produce lightweight, manufacturable geometries.",
+"keywords": ["Finite Element Analysis (FEA)", "Virtual Prototyping", "Computational Modeling"]
+},
+{
+"id": 8723,
+"title": "Mathematical Simulation of Infectious Disease Spread",
+"domain": "125",
+"description": "Compartmental and agent-based models to simulate disease transmission and evaluate intervention strategies.",
+"keywords": ["Mathematical Simulation", "System Dynamics", "Verification and Validation"]
+},
+{
+"id": 8724,
+"title": "Multiphysics Heat Exchanger Designer",
+"domain": "125",
+"description": "Simulate conjugate heat transfer and flow to virtually prototype compact heat exchangers for performance and manufacturability.",
+"keywords": ["Multiphysics Analysis", "Virtual Prototyping", "Computational Modeling"]
+},
+{
+"id": 8725,
+"title": "Digital Twin for Battery Pack Thermal Management",
+"domain": "125",
+"description": "Create a digital twin that couples electrical and thermal models to optimize pack cooling strategies in real time.",
+"keywords": ["Digital Twin Simulation", "Multiphysics Analysis", "Computational Modeling"]
+},
+{
+"id": 8726,
+"title": "Structural-Vibration FEA Suite for Machinery",
+"domain": "125",
+"description": "Simulate modal behavior and forced response of rotating machinery to prevent resonant failures using FEA methods.",
+"keywords": ["Finite Element Analysis (FEA)", "Mathematical Simulation", "Verification and Validation"]
+},
+{
+"id": 8727,
+"title": "System Dynamics Simulator for Renewable Microgrids",
+"domain": "125",
+"description": "Model microgrid dynamics, storage, and control interactions to assess stability and optimal dispatch strategies.",
+"keywords": ["System Dynamics", "Digital Twin Simulation", "Computational Modeling"]
+},
+{
+"id": 8728,
+"title": "Virtual Prototyping Platform for Prosthetic Limbs",
+"domain": "125",
+"description": "End-to-end simulation for biomechanical compatibility, structural integrity, and user-specific customization of prosthetics.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Multiphysics Analysis"]
+},
+{
+"id": 8729,
+"title": "Computational Modeling of Composite Layups",
+"domain": "125",
+"description": "Tool to simulate anisotropic behavior and failure modes of composite laminates under complex loading.",
+"keywords": ["Computational Modeling", "Finite Element Analysis (FEA)", "Verification and Validation"]
+},
+{
+"id": 8730,
+"title": "Digital Twin for Railway Track Deformation",
+"domain": "125",
+"description": "Model track-structure interaction and long-term deformation under train loads to predict maintenance needs.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Mathematical Simulation"]
+},
+{
+"id": 8731,
+"title": "FEA Thermal-Structural Coupled Solver",
+"domain": "125",
+"description": "Solver that couples thermal and structural physics for components exposed to transient heating and mechanical loads.",
+"keywords": ["Multiphysics Analysis", "Finite Element Analysis (FEA)", "Computational Modeling"]
+},
+{
+"id": 8732,
+"title": "Model Verification & Validation Manager",
+"domain": "125",
+"description": "Framework for managing and automating verification and validation test cases, traceability, and metric reporting.",
+"keywords": ["Verification and Validation", "Computational Modeling", "Mathematical Simulation"]
+},
+{
+"id": 8733,
+"title": "Virtual Prototyping for Consumer Electronics Drop Tests",
+"domain": "125",
+"description": "Simulate impact and drop scenarios to predict device fragility and improve enclosure designs before physical testing.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Verification and Validation"]
+},
+{
+"id": 8734,
+"title": "System Dynamics Model for Supply Chain Resilience",
+"domain": "125",
+"description": "Simulate supply chain nodes and flows to test resilience strategies under disruptions and demand variability.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8735,
+"title": "Computational Modeling of Blood Flow in Arteries",
+"domain": "125",
+"description": "CFD and structural coupling to simulate hemodynamics and arterial wall mechanics for disease diagnosis support.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8736,
+"title": "FEA-Based Additive Manufacturing Distortion Predictor",
+"domain": "125",
+"description": "Predict residual stresses and geometric distortion in 3D-printed metal parts to guide support placement and parameters.",
+"keywords": ["Finite Element Analysis (FEA)", "Virtual Prototyping", "Computational Modeling"]
+},
+{
+"id": 8737,
+"title": "Digital Twin for Building Energy & Comfort",
+"domain": "125",
+"description": "Couple occupancy, HVAC, and envelope models to predict occupant comfort and energy consumption for buildings.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Mathematical Simulation"]
+},
+{
+"id": 8738,
+"title": "Multiphysics Simulation of Optical MEMS",
+"domain": "125",
+"description": "Model mechanical deformation, thermal effects, and optical behavior in MEMS optical switches and mirrors.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Virtual Prototyping"]
+},
+{
+"id": 8739,
+"title": "FEA-Driven Crashworthiness Topology Advisor",
+"domain": "125",
+"description": "Generate topology-guided design suggestions for improved crash energy absorption using iterative FEA assessments.",
+"keywords": ["Finite Element Analysis (FEA)", "Virtual Prototyping", "Verification and Validation"]
+},
+{
+"id": 8740,
+"title": "Mathematical Simulation Toolkit for Hydrology",
+"domain": "125",
+"description": "Simulate watershed dynamics, infiltration, and runoff to support flood prediction and water resources planning.",
+"keywords": ["Mathematical Simulation", "Computational Modeling", "System Dynamics"]
+},
+{
+"id": 8741,
+"title": "Digital Twin for Industrial Rotating Equipment Health",
+"domain": "125",
+"description": "Real-time digital twin to predict bearing faults and imbalance effects through coupled dynamics and thermal models.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Verification and Validation"]
+},
+{
+"id": 8742,
+"title": "Virtual Prototyping of Heat Sink Designs",
+"domain": "125",
+"description": "Rapidly evaluate heat sink geometries and airflow patterns to maximize thermal performance and manufacturability.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "Computational Modeling"]
+},
+{
+"id": 8743,
+"title": "FEA-Based Acoustic Emission Source Locator",
+"domain": "125",
+"description": "Use structural FEA and wave propagation models to localize acoustic emissions and detect crack sources.",
+"keywords": ["Finite Element Analysis (FEA)", "Mathematical Simulation", "Verification and Validation"]
+},
+{
+"id": 8744,
+"title": "Coupled System Dynamics for Autonomous Vehicle Platoons",
+"domain": "125",
+"description": "Simulate vehicle-to-vehicle control interactions and platoon stability under varying traffic and communication delays.",
+"keywords": ["System Dynamics", "Computational Modeling", "Digital Twin Simulation"]
+},
+{
+"id": 8745,
+"title": "Multiphysics Corrosion Growth Simulator",
+"domain": "125",
+"description": "Model electrochemical reactions, diffusion, and mechanical effects to predict corrosion progression in components.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8746,
+"title": "Digital Twin for Agricultural Crop Microclimate",
+"domain": "125",
+"description": "Simulate field-level microclimate and crop responses to optimize irrigation, shading, and yield predictions.",
+"keywords": ["Digital Twin Simulation", "Mathematical Simulation", "System Dynamics"]
+},
+{
+"id": 8747,
+"title": "Virtual Prototyping for Wearable Devices",
+"domain": "125",
+"description": "Integrate biomechanics and thermal comfort models to prototype wearable electronics and ensure user comfort.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "Computational Modeling"]
+},
+{
+"id": 8748,
+"title": "FEA Tool for Seismic Retrofit Design",
+"domain": "125",
+"description": "Evaluate existing structures under seismic loads and propose retrofit schemes tested by nonlinear FEA.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Computational Modeling"]
+},
+{
+"id": 8749,
+"title": "System Dynamics Simulation for Ecosystem Management",
+"domain": "125",
+"description": "Model species interactions, resource flows, and human interventions to explore sustainable ecosystem strategies.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8750,
+"title": "Computational Modeling of Turbomachinery Flow",
+"domain": "125",
+"description": "High-fidelity CFD coupled with structural analysis to predict performance and blade stresses in turbomachinery.",
+"keywords": ["Computational Modeling", "Multiphysics Analysis", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8751,
+"title": "Digital Twin for Smart Grid Stability Studies",
+"domain": "125",
+"description": "Simulate grid dynamics, distributed generation, and demand response to assess stability and contingency plans.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Mathematical Simulation"]
+},
+{
+"id": 8752,
+"title": "Virtual Prototyping of Medical Implant Fixation",
+"domain": "125",
+"description": "Model implant-bone interactions and surgical procedures to assess fixation strength and long-term stability.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Verification and Validation"]
+},
+{
+"id": 8753,
+"title": "FEA-Guided Composite Repair Planner",
+"domain": "125",
+"description": "Planner that uses FEA to design repair layups for damaged composite structures and predict restored performance.",
+"keywords": ["Finite Element Analysis (FEA)", "Computational Modeling", "Virtual Prototyping"]
+},
+{
+"id": 8754,
+"title": "Multiphysics Simulation for Semiconductor Thermal Management",
+"domain": "125",
+"description": "Model heat generation, conduction, and packaging effects in chips to guide thermal mitigation strategies.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Virtual Prototyping"]
+},
+{
+"id": 8755,
+"title": "Mathematical Simulation of Economic Agent Behavior",
+"domain": "125",
+"description": "Agent-based and equation-based models to study market dynamics, policy impacts, and emergent phenomena.",
+"keywords": ["Mathematical Simulation", "System Dynamics", "Computational Modeling"]
+},
+{
+"id": 8756,
+"title": "Digital Twin for Pipeline Integrity Monitoring",
+"domain": "125",
+"description": "Simulate flow, pressure transients, and structural behavior of pipelines to prioritize inspections and repairs.",
+"keywords": ["Digital Twin Simulation", "Multiphysics Analysis", "Verification and Validation"]
+},
+{
+"id": 8757,
+"title": "FEA Structural Health Monitoring Correlator",
+"domain": "125",
+"description": "Correlate sensor data with FEA predictions to detect structural anomalies and update models automatically.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Computational Modeling"]
+},
+{
+"id": 8758,
+"title": "Virtual Prototyping for Automotive NVH",
+"domain": "125",
+"description": "Predict noise, vibration, and harshness characteristics of vehicle subassemblies using coupled simulations.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8759,
+"title": "System Dynamics-Based Policy Simulator",
+"domain": "125",
+"description": "Tool for policymakers to test long-term effects of interventions on demographics, economy, and environment.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8760,
+"title": "Computational Modeling for Aerothermal Reentry",
+"domain": "125",
+"description": "High-fidelity multiphysics simulation of aerodynamic heating and ablation for reentry vehicle design.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8761,
+"title": "Digital Twin for Human-in-the-Loop Simulators",
+"domain": "125",
+"description": "Create a digital twin that couples human operator models with system dynamics to evaluate training and safety.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Mathematical Simulation"]
+},
+{
+"id": 8762,
+"title": "FEA-Driven HVAC Duct Stress Analyzer",
+"domain": "125",
+"description": "Evaluate ductwork structural response under thermal expansion and pressure loads to prevent failures.",
+"keywords": ["Finite Element Analysis (FEA)", "Multiphysics Analysis", "Verification and Validation"]
+},
+{
+"id": 8763,
+"title": "Virtual Prototyping for Rapid Consumer Product Iteration",
+"domain": "125",
+"description": "Pipeline that accelerates product design cycles by automating simulation and feedback from virtual tests.",
+"keywords": ["Virtual Prototyping", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8764,
+"title": "Mathematical Simulation of Crowd Evacuation",
+"domain": "125",
+"description": "Simulate crowd dynamics in venues to optimize evacuation routes and safety measures.",
+"keywords": ["Mathematical Simulation", "System Dynamics", "Verification and Validation"]
+},
+{
+"id": 8765,
+"title": "Multiphysics Simulation for Laser-Material Interaction",
+"domain": "125",
+"description": "Model thermo-mechanical and phase-change effects during laser processing to predict microstructure changes.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Virtual Prototyping"]
+},
+{
+"id": 8766,
+"title": "Digital Twin for Aircraft Fuel System Management",
+"domain": "125",
+"description": "Real-time simulation of fuel slosh, transfer, and gauges to optimize balancing and fault detection.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Multiphysics Analysis"]
+},
+{
+"id": 8767,
+"title": "FEA-Based Prosthesis Fit and Stress Checker",
+"domain": "125",
+"description": "Predict stress concentrations and fit issues in patient-specific prostheses using structural FEA.",
+"keywords": ["Finite Element Analysis (FEA)", "Virtual Prototyping", "Verification and Validation"]
+},
+{
+"id": 8768,
+"title": "Computational Modeling of Wave-Structure Interaction",
+"domain": "125",
+"description": "Simulate hydrodynamic loads and structural response of offshore platforms and wave energy devices.",
+"keywords": ["Computational Modeling", "Multiphysics Analysis", "Mathematical Simulation"]
+},
+{
+"id": 8769,
+"title": "System Dynamics Energy Market Simulator",
+"domain": "125",
+"description": "Model interactions between producers, consumers, and storage to study pricing and stability under scenarios.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8770,
+"title": "Virtual Prototyping for Surgical Procedure Planning",
+"domain": "125",
+"description": "Patient-specific virtual prototyping of surgical steps to predict tissue response and instrument interactions.",
+"keywords": ["Virtual Prototyping", "Computational Modeling", "Verification and Validation"]
+},
+{
+"id": 8771,
+"title": "Multiphysics Correlated Materials Simulator",
+"domain": "125",
+"description": "Model coupled thermal, mechanical, and electromagnetic behavior of new functional materials for design insights.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8772,
+"title": "Digital Twin for Cold Chain Logistics",
+"domain": "125",
+"description": "Simulate temperature profiles, transport dynamics, and packaging effects to ensure product integrity in transit.",
+"keywords": ["Digital Twin Simulation", "System Dynamics", "Mathematical Simulation"]
+},
+{
+"id": 8773,
+"title": "FEA Pipeline for Biomechanical Implant Testing",
+"domain": "125",
+"description": "Automated pipeline to run standardized FEA tests on implants and compare to regulatory benchmarks.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Virtual Prototyping"]
+},
+{
+"id": 8774,
+"title": "Computational Modeling for Smart Material Actuators",
+"domain": "125",
+"description": "Simulate coupled electrical, thermal, and mechanical behavior of shape-memory and piezoelectric actuators.",
+"keywords": ["Computational Modeling", "Multiphysics Analysis", "Virtual Prototyping"]
+},
+{
+"id": 8775,
+"title": "System Dynamics Model for Water Distribution Networks",
+"domain": "125",
+"description": "Simulate pressures, flows, and pump control strategies to reduce leaks and improve reliability.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Verification and Validation"]
+},
+{
+"id": 8776,
+"title": "Digital Twin for Smart Factory Throughput Forecasting",
+"domain": "125",
+"description": "Use a digital twin to forecast production throughput and bottlenecks under changing orders and machine health.",
+"keywords": ["Digital Twin Simulation", "Virtual Prototyping", "Computational Modeling"]
+},
+{
+"id": 8777,
+"title": "Virtual Prototyping of Consumer Packaging Drop Survivability",
+"domain": "125",
+"description": "Simulate packaging and product interactions under drops and vibrations to minimize transit damage.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Verification and Validation"]
+},
+{
+"id": 8778,
+"title": "Multiphysics Simulation of RF Heating in Materials",
+"domain": "125",
+"description": "Model electromagnetic heating, thermal diffusion, and resulting mechanical effects for RF processing applications.",
+"keywords": ["Multiphysics Analysis", "Computational Modeling", "Mathematical Simulation"]
+},
+{
+"id": 8779,
+"title": "FEA-Backed Optimizer for Mechanical Linkages",
+"domain": "125",
+"description": "Optimize linkage geometry and material selection using iterative FEA to meet kinematic and strength targets.",
+"keywords": ["Finite Element Analysis (FEA)", "Virtual Prototyping", "Computational Modeling"]
+},
+{
+"id": 8780,
+"title": "Mathematical Simulation of Renewable Resource Allocation",
+"domain": "125",
+"description": "Model resource availability, demand, and policy levers to support optimized allocation strategies.",
+"keywords": ["Mathematical Simulation", "System Dynamics", "Digital Twin Simulation"]
+},
+{
+"id": 8781,
+"title": "Digital Twin for Ship Hull Performance",
+"domain": "125",
+"description": "Simulate hydrodynamics, hull stresses, and fouling effects to predict fuel consumption and maintenance windows.",
+"keywords": ["Digital Twin Simulation", "Multiphysics Analysis", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8782,
+"title": "Computational Modeling of Heat Pipes and Vapor Chambers",
+"domain": "125",
+"description": "Simulate two-phase flow and heat transfer in heat pipes to guide thermal management for electronics.",
+"keywords": ["Computational Modeling", "Multiphysics Analysis", "Virtual Prototyping"]
+},
+{
+"id": 8783,
+"title": "Virtual Prototyping for Sports Equipment Performance",
+"domain": "125",
+"description": "Predict aerodynamic and structural performance of sports gear to improve safety and competitiveness.",
+"keywords": ["Virtual Prototyping", "Finite Element Analysis (FEA)", "Computational Modeling"]
+},
+{
+"id": 8784,
+"title": "FEA Framework for Additive Design for Autoclave Parts",
+"domain": "125",
+"description": "Model residual stress and cure-induced deformation for composite parts processed in autoclaves.",
+"keywords": ["Finite Element Analysis (FEA)", "Multiphysics Analysis", "Verification and Validation"]
+},
+{
+"id": 8785,
+"title": "System Dynamics Model for Urban Energy Consumption",
+"domain": "125",
+"description": "Simulate interactions between buildings, transportation, and industry to evaluate decarbonization pathways.",
+"keywords": ["System Dynamics", "Mathematical Simulation", "Digital Twin Simulation"]
+},
+{
+"id": 8786,
+"title": "Digital Twin for HVAC Fault Detection and Diagnosis",
+"domain": "125",
+"description": "Use a digital twin to compare expected and measured HVAC behavior and automatically flag faults for service.",
+"keywords": ["Digital Twin Simulation", "Verification and Validation", "System Dynamics"]
+},
+{
+"id": 8787,
+"title": "Computational Modeling of Shock Wave Interaction",
+"domain": "125",
+"description": "Simulate shock wave propagation, reflection, and structure interaction for protective system design.",
+"keywords": ["Computational Modeling", "Multiphysics Analysis", "Finite Element Analysis (FEA)"]
+},
+{
+"id": 8788,
+"title": "Virtual Prototyping for Injection Mold Fill & Warp",
+"domain": "125",
+"description": "Simulate mold filling, cooling, and warpage to minimize defects and cycle time in plastic parts.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "Computational Modeling"]
+},
+{
+"id": 8789,
+"title": "FEA-Based Fastener Fatigue Predictor",
+"domain": "125",
+"description": "Predict fatigue life of bolted and riveted joints under variable loads using focused FEA submodeling.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Mathematical Simulation"]
+},
+{
+"id": 8790,
+"title": "Mathematical Simulation of Climate-Responsive Architecture",
+"domain": "125",
+"description": "Model thermal comfort, solar gains, and natural ventilation to guide climate-adaptive building designs.",
+"keywords": ["Mathematical Simulation", "Virtual Prototyping", "System Dynamics"]
+},
+{
+"id": 8791,
+"title": "Digital Twin for Autonomous Marine Vehicle Navigation",
+"domain": "125",
+"description": "Simulate sensor fusion, control, and hydrodynamics to validate autonomous navigation strategies offshore.",
+"keywords": ["Digital Twin Simulation", "Computational Modeling", "Multiphysics Analysis"]
+},
+{
+"id": 8792,
+"title": "FEA-Integrated Reliability Assessment Platform",
+"domain": "125",
+"description": "Combine FEA stress analysis with probabilistic models to estimate component reliability under operational variability.",
+"keywords": ["Finite Element Analysis (FEA)", "Verification and Validation", "Computational Modeling"]
+},
+{
+"id": 8793,
+"title": "Virtual Prototyping for Thermal Comfort Wearables",
+"domain": "125",
+"description": "Simulate microclimate and heat transfer around wearable devices to improve thermal comfort and battery life.",
+"keywords": ["Virtual Prototyping", "Multiphysics Analysis", "Computational Modeling"]
+},
+{
+"id": 8794,
+"title": "Multiphysics Simulator for Electromechanical Switches",
+"domain": "125",
+"description": "Model electrical contact, arcing, thermal effects, and mechanical wear to predict switch lifespan and failure modes.",
+"keywords": ["Multiphysics Analysis", "Finite Element Analysis (FEA)", "Verification and Validation"]
+},
+//domain-126
+    {
+        "id": 8795,
+        "title": "Adaptive HMI for Industrial Robots",
+        "domain": "126",
+        "description": "Develop an adaptive human-machine interface for industrial robots that adjusts based on operator experience, task complexity, and anthropometric data to improve usability and reduce training time.",
+        "keywords": ["Human-Machine Interface (HMI)", "Anthropometry", "User Experience (UX)"]
+    },
+    {
+        "id": 8796,
+        "title": "Cognitive Ergonomics in Air Traffic Control",
+        "domain": "126",
+        "description": "Design a decision-support interface for air traffic controllers that reduces cognitive workload and improves response times under stress.",
+        "keywords": ["Cognitive Ergonomics", "Human-Machine Interface (HMI)", "Safety Engineering"]
+    },
+    {
+        "id": 8797,
+        "title": "Workplace Ergonomics Analyzer",
+        "domain": "126",
+        "description": "Develop a software tool that analyzes workplace setups using anthropometric data and provides recommendations to prevent musculoskeletal strain.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "Anthropometry"]
+    },
+    {
+        "id": 8798,
+        "title": "Usability Testing Framework for Medical Devices",
+        "domain": "126",
+        "description": "Create a usability testing framework specifically for medical devices to ensure compliance with human factors standards and reduce user errors.",
+        "keywords": ["Usability Testing", "Safety Engineering", "User Experience (UX)"]
+    },
+    {
+        "id": 8799,
+        "title": "Smart Office Furniture with Ergonomic Feedback",
+        "domain": "126",
+        "description": "Design office furniture embedded with sensors to monitor posture and provide real-time feedback for improved ergonomics.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "Anthropometry"]
+    },
+    {
+        "id": 8800,
+        "title": "Cognitive Load Monitoring in VR Training",
+        "domain": "126",
+        "description": "Develop a VR training system that dynamically adapts tasks based on real-time monitoring of cognitive load to optimize learning.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8801,
+        "title": "Ergonomic Assessment App for Field Engineers",
+        "domain": "126",
+        "description": "Create a mobile application that field engineers can use to assess the ergonomic safety of their work environments using built-in smartphone sensors.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "Safety Engineering"]
+    },
+    {
+        "id": 8802,
+        "title": "User-Centered Dashboard for Emergency Vehicles",
+        "domain": "126",
+        "description": "Design an optimized dashboard layout for emergency vehicles to minimize distraction and enhance rapid decision-making.",
+        "keywords": ["Human-Machine Interface (HMI)", "Safety Engineering", "User Experience (UX)"]
+    },
+    {
+        "id": 8803,
+        "title": "Anthropometric Data-Based Exoskeleton",
+        "domain": "126",
+        "description": "Develop an industrial exoskeleton customized with anthropometric datasets to support workers in heavy-lifting environments.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8804,
+        "title": "Usability-Driven Smart Home Control System",
+        "domain": "126",
+        "description": "Create a smart home control interface designed with usability testing to ensure accessibility for elderly users.",
+        "keywords": ["Usability Testing", "Human-Machine Interface (HMI)", "User Experience (UX)"]
+    },
+    {
+        "id": 8805,
+        "title": "Ergonomic Safety in Augmented Reality Workflows",
+        "domain": "126",
+        "description": "Design an AR workflow tool that reduces physical strain and cognitive overload for assembly line workers.",
+        "keywords": ["Cognitive Ergonomics", "Physical Ergonomics", "Safety Engineering"]
+    },
+    {
+        "id": 8806,
+        "title": "Driver Fatigue Detection via Cognitive Ergonomics",
+        "domain": "126",
+        "description": "Develop a human factors-based driver assistance system that detects fatigue and cognitive overload to prevent accidents.",
+        "keywords": ["Cognitive Ergonomics", "Safety Engineering", "User Experience (UX)"]
+    },
+    {
+        "id": 8807,
+        "title": "Ergonomic Virtual Keyboard Design",
+        "domain": "126",
+        "description": "Design a virtual keyboard layout optimized using physical ergonomics and anthropometric data to reduce typing strain.",
+        "keywords": ["Physical Ergonomics", "Anthropometry", "Usability Testing"]
+    },
+    {
+        "id": 8808,
+        "title": "Workplace Stress Detection Using UX Metrics",
+        "domain": "126",
+        "description": "Develop a tool to assess user stress levels during workplace tasks based on UX-driven performance and feedback metrics.",
+        "keywords": ["User Experience (UX)", "Cognitive Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8809,
+        "title": "Adaptive Cockpit Design for Pilots",
+        "domain": "126",
+        "description": "Build a cockpit interface that adapts to pilot anthropometry and cognitive workload to improve safety and performance.",
+        "keywords": ["Anthropometry", "Cognitive Ergonomics", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8810,
+        "title": "Usability-First E-Government Portal",
+        "domain": "126",
+        "description": "Design a citizen-friendly government services portal tested for usability and accessibility across age groups.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8811,
+        "title": "Smart Ergonomic Desk for Remote Workers",
+        "domain": "126",
+        "description": "Develop an intelligent desk that adapts height, lighting, and seating angles using ergonomic data to enhance productivity at home.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "Anthropometry"]
+    },
+    {
+        "id": 8812,
+        "title": "HMI for Assistive Robots",
+        "domain": "126",
+        "description": "Design a simplified HMI for assistive robots that improves usability for elderly and differently-abled users.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
+    },
+    {
+        "id": 8813,
+        "title": "Cognitive Ergonomics in E-Learning Platforms",
+        "domain": "126",
+        "description": "Enhance online learning systems by applying cognitive ergonomics to reduce overload and improve retention.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Usability Testing"]
+    },
+    {
+        "id": 8814,
+        "title": "Ergonomic Hand Tool Redesign",
+        "domain": "126",
+        "description": "Redesign commonly used industrial hand tools to minimize repetitive strain injuries using anthropometric data.",
+        "keywords": ["Physical Ergonomics", "Anthropometry", "Safety Engineering"]
+    },
+    {
+        "id": 8815,
+        "title": "Smart Safety Helmets with Ergonomic Design",
+        "domain": "126",
+        "description": "Design safety helmets with built-in sensors and ergonomic adjustments to improve comfort while monitoring fatigue.",
+        "keywords": ["Safety Engineering", "Physical Ergonomics", "Anthropometry"]
+    },
+    {
+        "id": 8816,
+        "title": "HMI for Autonomous Cars",
+        "domain": "126",
+        "description": "Develop a human-machine interface that communicates vehicle status clearly to passengers in autonomous vehicles.",
+        "keywords": ["Human-Machine Interface (HMI)", "User Experience (UX)", "Safety Engineering"]
+    },
+    {
+        "id": 8817,
+        "title": "Workplace Noise Impact Analyzer",
+        "domain": "126",
+        "description": "Build a system to evaluate workplace noise impact on human factors and suggest ergonomic improvements.",
+        "keywords": ["Workplace Design", "Cognitive Ergonomics", "Safety Engineering"]
+    },
+    {
+        "id": 8818,
+        "title": "Ergonomic Wearable for Warehouse Workers",
+        "domain": "126",
+        "description": "Develop a wearable device that tracks posture and movement of warehouse workers to prevent ergonomic injuries.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "User Experience (UX)"]
+    },
+    {
+        "id": 8819,
+        "title": "Usability-Based Smart ATM Interface",
+        "domain": "126",
+        "description": "Redesign ATM interfaces using usability testing and HMI principles to improve accessibility for elderly users.",
+        "keywords": ["Usability Testing", "Human-Machine Interface (HMI)", "User Experience (UX)"]
+    },
+    {
+        "id": 8820,
+        "title": "Cognitive Ergonomics in Online Gaming",
+        "domain": "126",
+        "description": "Design gaming interfaces that balance cognitive workload and reduce player fatigue while enhancing engagement.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8821,
+        "title": "AI-Driven Ergonomic Task Scheduling",
+        "domain": "126",
+        "description": "Develop an AI scheduler that assigns workplace tasks based on ergonomic risk levels and worker capacity.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "Safety Engineering"]
+    },
+    {
+        "id": 8822,
+        "title": "Smart Prosthetics with Anthropometric Adaptation",
+        "domain": "126",
+        "description": "Design prosthetics that adapt automatically to the user’s anthropometry and ergonomic comfort requirements.",
+        "keywords": ["Anthropometry", "User Experience (UX)", "Physical Ergonomics"]
+    },
+    {
+        "id": 8823,
+        "title": "Voice-Driven HMI for Industrial Machines",
+        "domain": "126",
+        "description": "Develop a voice-enabled HMI for industrial environments to reduce manual input errors and improve usability.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "Safety Engineering"]
+    },
+    {
+        "id": 8824,
+        "title": "Cognitive Workload Estimator for Call Centers",
+        "domain": "126",
+        "description": "Build a cognitive ergonomics tool that tracks operator stress levels in call centers and suggests breaks.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Workplace Design"]
+    },
+    {
+        "id": 8825,
+        "title": "Ergonomic Redesign of School Furniture",
+        "domain": "126",
+        "description": "Redesign classroom furniture to better fit the anthropometry of children and reduce long-term health risks.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8826,
+        "title": "Smart Wearable for Construction Safety",
+        "domain": "126",
+        "description": "Develop a wearable that monitors ergonomic strain and alerts construction workers when unsafe posture is detected.",
+        "keywords": ["Safety Engineering", "Physical Ergonomics", "User Experience (UX)"]
+    },
+    {
+        "id": 8827,
+        "title": "Adaptive E-Library Interface",
+        "domain": "126",
+        "description": "Design an adaptive digital library interface optimized through usability testing for students of varying needs.",
+        "keywords": ["Usability Testing", "Human-Machine Interface (HMI)", "User Experience (UX)"]
+    },
+    {
+        "id": 8828,
+        "title": "Cognitive Ergonomics in Drone Operation",
+        "domain": "126",
+        "description": "Develop a drone control system interface that reduces cognitive strain for operators during complex missions.",
+        "keywords": ["Cognitive Ergonomics", "Human-Machine Interface (HMI)", "Safety Engineering"]
+    },
+    {
+        "id": 8829,
+        "title": "Workplace Illumination Ergonomics Analyzer",
+        "domain": "126",
+        "description": "Create a tool that evaluates workplace lighting and suggests ergonomic lighting designs for better focus.",
+        "keywords": ["Workplace Design", "Cognitive Ergonomics", "User Experience (UX)"]
+    },
+    {
+        "id": 8830,
+        "title": "HMI for Smart Farming Systems",
+        "domain": "126",
+        "description": "Design a farmer-friendly HMI for smart agriculture machinery ensuring intuitive usability and ergonomic control.",
+        "keywords": ["Human-Machine Interface (HMI)", "User Experience (UX)", "Usability Testing"]
+    },
+    {
+        "id": 8831,
+        "title": "Ergonomic Simulation Toolkit",
+        "domain": "126",
+        "description": "Build a simulation tool that predicts ergonomic risks of workplace designs before implementation.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "Safety Engineering"]
+    },
+    {
+        "id": 8832,
+        "title": "Cognitive Ergonomics in Smart Assistants",
+        "domain": "126",
+        "description": "Design smart voice assistants that minimize cognitive load when providing task-related information.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8833,
+        "title": "Anthropometry-Based Bicycle Design",
+        "domain": "126",
+        "description": "Create a customizable bicycle frame designed to match rider anthropometry and enhance comfort.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Usability Testing"]
+    },
+    {
+        "id": 8834,
+        "title": "Ergonomic Risk Detection using AI",
+        "domain": "126",
+        "description": "Develop an AI-powered system to analyze worker postures via cameras and recommend ergonomic corrections.",
+        "keywords": ["Safety Engineering", "Physical Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8835,
+        "title": "User-Centered Ergonomic Kitchen Design",
+        "domain": "126",
+        "description": "Design a smart kitchen workspace based on ergonomic principles to reduce strain and improve usability.",
+        "keywords": ["Workplace Design", "Anthropometry", "User Experience (UX)"]
+    },
+    {
+        "id": 8836,
+        "title": "HMI for Smart Wheelchairs",
+        "domain": "126",
+        "description": "Develop a user-friendly HMI for motorized wheelchairs to enhance independence of differently-abled users.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
+    },
+    {
+        "id": 8837,
+        "title": "Cognitive Ergonomics in AR Learning",
+        "domain": "126",
+        "description": "Apply cognitive ergonomics to AR-based education platforms to reduce overload and improve learning outcomes.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Usability Testing"]
+    },
+    {
+        "id": 8838,
+        "title": "Ergonomic Office Chair with Smart Sensors",
+        "domain": "126",
+        "description": "Design a smart office chair with posture-tracking sensors and ergonomic adjustments for long-term comfort.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "Anthropometry"]
+    },
+    {
+        "id": 8839,
+        "title": "Safety Engineering in Mining Equipment Interfaces",
+        "domain": "126",
+        "description": "Redesign mining equipment HMIs with safety-focused human factors principles to minimize accidents.",
+        "keywords": ["Safety Engineering", "Human-Machine Interface (HMI)", "Usability Testing"]
+    },
+    {
+        "id": 8840,
+        "title": "Workplace Thermal Comfort Analyzer",
+        "domain": "126",
+        "description": "Build a system that evaluates ergonomic impacts of thermal conditions in workplaces and suggests adjustments.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "User Experience (UX)"]
+    },
+    {
+        "id": 8841,
+        "title": "HMI for Smart Medical Monitoring Devices",
+        "domain": "126",
+        "description": "Design a user-friendly HMI for wearable medical monitoring devices with focus on usability and safety.",
+        "keywords": ["Human-Machine Interface (HMI)", "User Experience (UX)", "Safety Engineering"]
+    },
+    {
+        "id": 8842,
+        "title": "Cognitive Ergonomics in Remote Work Platforms",
+        "domain": "126",
+        "description": "Develop tools that reduce cognitive fatigue in virtual meetings through ergonomically designed interfaces.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Workplace Design"]
+    },
+    {
+        "id": 8843,
+        "title": "Anthropometry-Based Car Seat Design",
+        "domain": "126",
+        "description": "Design adjustable car seats using anthropometric data to maximize comfort and minimize injury risk.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Safety Engineering"]
+    },
+    {
+        "id": 8844,
+        "title": "Usability Testing for E-Learning Platforms",
+        "domain": "126",
+        "description": "Conduct usability testing on online learning platforms to identify ergonomic issues and improve accessibility.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8845,
+        "title": "Ergonomic VR Controller Design",
+        "domain": "126",
+        "description": "Redesign VR hand controllers with anthropometric and ergonomic principles to reduce wrist strain.",
+        "keywords": ["Physical Ergonomics", "Anthropometry", "Usability Testing"]
+    },
+    {
+        "id": 8846,
+        "title": "Cognitive Ergonomics in Decision Dashboards",
+        "domain": "126",
+        "description": "Develop business dashboards that reduce cognitive load while maintaining clarity and decision efficiency.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8847,
+        "title": "Ergonomic Hospital Bed Design",
+        "domain": "126",
+        "description": "Design an ergonomic hospital bed that reduces patient discomfort and assists caregivers in repositioning.",
+        "keywords": ["Physical Ergonomics", "Workplace Design", "Anthropometry"]
+    },
+    {
+        "id": 8848,
+        "title": "HMI for Smart Factory Dashboards",
+        "domain": "126",
+        "description": "Create a user-friendly smart factory dashboard interface that improves usability and reduces errors.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
+    },
+    {
+        "id": 8849,
+        "title": "Safety Engineering in Healthcare Workflows",
+        "domain": "126",
+        "description": "Analyze hospital workflows to identify ergonomic hazards and design safety-focused improvements.",
+        "keywords": ["Safety Engineering", "Workplace Design", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8850,
+        "title": "Smart Ergonomic Footwear",
+        "domain": "126",
+        "description": "Design footwear that adapts to walking style and anthropometry, providing ergonomic support and reducing injuries.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "User Experience (UX)"]
+    },
+    {
+        "id": 8851,
+        "title": "Cognitive Ergonomics in Financial Apps",
+        "domain": "126",
+        "description": "Redesign financial app dashboards to reduce overload and improve decision-making efficiency for users.",
+        "keywords": ["Cognitive Ergonomics", "Human-Machine Interface (HMI)", "User Experience (UX)"]
+    },
+    {
+        "id": 8852,
+        "title": "Workplace Ergonomics for Remote Labs",
+        "domain": "126",
+        "description": "Design remote laboratory workstations using ergonomic principles to improve researcher comfort and efficiency.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "Safety Engineering"]
+    },
+    {
+        "id": 8853,
+        "title": "Usability Testing of Wearable Fitness Devices",
+        "domain": "126",
+        "description": "Perform usability testing on fitness wearables to identify design issues and improve overall UX.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Safety Engineering"]
+    },
+    {
+        "id": 8854,
+        "title": "Anthropometry-Driven Gaming Chair Design",
+        "domain": "126",
+        "description": "Create a gaming chair designed with anthropometric principles for long-duration comfort and posture support.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8855,
+        "title": "Ergonomic Control Panels for Power Plants",
+        "domain": "126",
+        "description": "Redesign control panels in power plants with ergonomic principles to minimize operator fatigue and errors.",
+        "keywords": ["Human-Machine Interface (HMI)", "Workplace Design", "Safety Engineering"]
+    },
+    {
+        "id": 8856,
+        "title": "Cognitive Ergonomics in Navigation Apps",
+        "domain": "126",
+        "description": "Develop a navigation app interface that reduces cognitive overload and distraction while driving.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8857,
+        "title": "Ergonomic Smart Gloves",
+        "domain": "126",
+        "description": "Design wearable smart gloves with sensors that reduce hand strain and improve ergonomics in repetitive tasks.",
+        "keywords": ["Physical Ergonomics", "Anthropometry", "Safety Engineering"]
+    },
+    {
+        "id": 8858,
+        "title": "Usability Testing for Smart TVs",
+        "domain": "126",
+        "description": "Conduct usability testing of smart TV interfaces to improve accessibility and minimize user frustration.",
+        "keywords": ["Usability Testing", "Human-Machine Interface (HMI)", "User Experience (UX)"]
+    },
+    {
+        "id": 8859,
+        "title": "Smart Ergonomic Workbench",
+        "domain": "126",
+        "description": "Design a customizable workbench that adjusts automatically to user anthropometry and task type.",
+        "keywords": ["Workplace Design", "Anthropometry", "Physical Ergonomics"]
+    },
+    {
+        "id": 8860,
+        "title": "Cognitive Ergonomics in Emergency Dispatch Systems",
+        "domain": "126",
+        "description": "Redesign emergency response interfaces to reduce stress and cognitive load for dispatch operators.",
+        "keywords": ["Cognitive Ergonomics", "Safety Engineering", "User Experience (UX)"]
+    },
+    {
+        "id": 8861,
+        "title": "Ergonomic Bicycle Helmet with HMI",
+        "domain": "126",
+        "description": "Create an ergonomic helmet with an integrated HMI for cyclists that provides safety alerts without distraction.",
+        "keywords": ["Human-Machine Interface (HMI)", "Safety Engineering", "User Experience (UX)"]
+    },
+    {
+        "id": 8862,
+        "title": "Workplace Ergonomics in Standing Desks",
+        "domain": "126",
+        "description": "Design adjustable standing desks optimized for ergonomic comfort and reduced fatigue over long hours.",
+        "keywords": ["Workplace Design", "Physical Ergonomics", "Anthropometry"]
+    },
+    {
+        "id": 8863,
+        "title": "Usability Testing for Smart Home Apps",
+        "domain": "126",
+        "description": "Perform usability testing on smart home control apps to improve intuitiveness and accessibility.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8864,
+        "title": "Cognitive Ergonomics in Military Training Simulators",
+        "domain": "126",
+        "description": "Develop military simulators that balance realism with cognitive ergonomics to avoid overload.",
+        "keywords": ["Cognitive Ergonomics", "Safety Engineering", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8865,
+        "title": "Ergonomic Baby Stroller Design",
+        "domain": "126",
+        "description": "Design a stroller optimized for both parent comfort and child safety using anthropometric principles.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "User Experience (UX)"]
+    },
+    {
+        "id": 8866,
+        "title": "Safety Engineering in Smart Elevators",
+        "domain": "126",
+        "description": "Design elevator interfaces using human factors engineering to minimize errors and enhance safety.",
+        "keywords": ["Safety Engineering", "Human-Machine Interface (HMI)", "Usability Testing"]
+    },
+    {
+        "id": 8867,
+        "title": "Cognitive Ergonomics in Financial Dashboards",
+        "domain": "126",
+        "description": "Redesign dashboards for traders to reduce cognitive load and improve real-time decision-making.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8868,
+        "title": "Anthropometry-Based Office Partition Design",
+        "domain": "126",
+        "description": "Develop modular office partitions based on anthropometry to maximize space efficiency and comfort.",
+        "keywords": ["Anthropometry", "Workplace Design", "Physical Ergonomics"]
+    },
+    {
+        "id": 8869,
+        "title": "Usability Testing for Smart Wearables",
+        "domain": "126",
+        "description": "Conduct usability studies on smartwatches to improve ergonomic design and minimize user strain.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Safety Engineering"]
+    },
+    {
+        "id": 8870,
+        "title": "Cognitive Ergonomics in Healthcare Apps",
+        "domain": "126",
+        "description": "Design healthcare apps with cognitive ergonomics to simplify patient data visualization and interactions.",
+        "keywords": ["Cognitive Ergonomics", "User Experience (UX)", "Human-Machine Interface (HMI)"]
+    },
+    {
+        "id": 8871,
+        "title": "Ergonomic Redesign of Public Transport Seats",
+        "domain": "126",
+        "description": "Redesign bus and train seats with ergonomic and anthropometric principles for long-duration comfort.",
+        "keywords": ["Anthropometry", "Physical Ergonomics", "Workplace Design"]
+    },
+    {
+        "id": 8872,
+        "title": "HMI for Agricultural Drones",
+        "domain": "126",
+        "description": "Create a simple HMI for farmers to operate agricultural drones with minimal training.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
+    },
+    {
+        "id": 8873,
+        "title": "Safety Engineering in Chemical Plant Workflows",
+        "domain": "126",
+        "description": "Analyze and redesign workflows in chemical plants with safety-focused human factors engineering.",
+        "keywords": ["Safety Engineering", "Workplace Design", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8874,
+        "title": "Ergonomic Redesign of Retail Checkout Counters",
+        "domain": "126",
+        "description": "Redesign checkout counters to reduce worker fatigue and improve customer ergonomics using anthropometric data.",
+        "keywords": ["Anthropometry", "Workplace Design", "Physical Ergonomics"]
+    },
+    {
+        "id": 8875,
+        "title": "Usability Testing in Online Banking Interfaces",
+        "domain": "126",
+        "description": "Conduct usability testing on online banking apps to ensure secure and ergonomic user interactions.",
+        "keywords": ["Usability Testing", "User Experience (UX)", "Cognitive Ergonomics"]
+    },
+    {
+        "id": 8876,
+        "title": "Cognitive Ergonomics in Traffic Management Systems",
+        "domain": "126",
+        "description": "Design traffic management control systems that reduce operator stress and improve decision-making.",
+        "keywords": ["Cognitive Ergonomics", "Human-Machine Interface (HMI)", "Safety Engineering"]
+    },
+    {
+        "id": 8877,
+        "title": "Smart Ergonomic Backpack Design",
+        "domain": "126",
+        "description": "Develop a backpack with ergonomic weight distribution and smart features to reduce back strain.",
+        "keywords": ["Physical Ergonomics", "Anthropometry", "User Experience (UX)"]
+    },
+    {
+        "id": 8878,
+        "title": "HMI for Smart Public Information Systems",
+        "domain": "126",
+        "description": "Design a public information display system with intuitive HMI for airports and train stations.",
+        "keywords": ["Human-Machine Interface (HMI)", "Usability Testing", "User Experience (UX)"]
+    },
+    //domain-127
+
+
+    
 
 
 
