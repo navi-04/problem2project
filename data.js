@@ -67876,6 +67876,449 @@ const PROBLEMS_DATA = {
     "keywords": ["Hydraulic Excavators", "Regenerative System", "Energy Recovery", "Construction"]
 },
 
+//domain 133
+
+{
+    "id": 9308,
+    "title": "AI-Based Urban Sprawl Detection",
+    "domain": "133",
+    "description": "Develop an AI system to analyze satellite imagery and detect urban sprawl patterns for city planning.",
+    "keywords": ["GIS", "Urban Sprawl", "AI", "Satellite Imagery"]
+},
+{
+    "id": 9309,
+    "title": "Disaster Risk Mapping Using GIS",
+    "domain": "133",
+    "description": "Create a GIS platform to map disaster-prone areas and support emergency response planning.",
+    "keywords": ["GIS", "Disaster Management", "Risk Mapping", "Emergency Planning"]
+},
+{
+    "id": 9310,
+    "title": "Smart Traffic Flow Analysis",
+    "domain": "133",
+    "description": "Use GIS and real-time traffic data to optimize urban traffic flow and reduce congestion.",
+    "keywords": ["GIS", "Traffic Flow", "Urban Planning", "Real-Time Data"]
+},
+{
+    "id": 9311,
+    "title": "Precision Agriculture Mapping",
+    "domain": "133",
+    "description": "Develop GIS-based mapping for precision agriculture to optimize crop yield and resource usage.",
+    "keywords": ["GIS", "Precision Agriculture", "Crop Yield", "Resource Optimization"]
+},
+{
+    "id": 9312,
+    "title": "Wildlife Habitat Monitoring",
+    "domain": "133",
+    "description": "Use GIS to monitor and analyze wildlife habitats to support conservation efforts.",
+    "keywords": ["GIS", "Wildlife Monitoring", "Habitat Analysis", "Conservation"]
+},
+{
+    "id": 9313,
+    "title": "Flood Risk Prediction System",
+    "domain": "133",
+    "description": "Implement a GIS-based flood risk prediction system using elevation and rainfall data.",
+    "keywords": ["GIS", "Flood Risk", "Prediction", "Hydrology"]
+},
+{
+    "id": 9314,
+    "title": "Tourism Heatmap Generator",
+    "domain": "133",
+    "description": "Create GIS-generated heatmaps to visualize tourist hotspots and improve city planning.",
+    "keywords": ["GIS", "Tourism", "Heatmap", "City Planning"]
+},
+{
+    "id": 9315,
+    "title": "GIS-Based Soil Quality Analysis",
+    "domain": "133",
+    "description": "Develop GIS tools to analyze soil quality and suitability for different crops and land use.",
+    "keywords": ["GIS", "Soil Analysis", "Land Use", "Agriculture"]
+},
+{
+    "id": 9316,
+    "title": "Real-Time Urban Pollution Mapping",
+    "domain": "133",
+    "description": "Use GIS and IoT sensors to map urban air and water pollution levels in real-time.",
+    "keywords": ["GIS", "Pollution Mapping", "IoT", "Environmental Monitoring"]
+},
+{
+    "id": 9317,
+    "title": "Public Transport Route Optimization",
+    "domain": "133",
+    "description": "Develop GIS-based tools to optimize public transport routes for efficiency and coverage.",
+    "keywords": ["GIS", "Public Transport", "Route Optimization", "Urban Planning"]
+},
+{
+    "id": 9318,
+    "title": "Climate Change Impact Mapping",
+    "domain": "133",
+    "description": "Use GIS to visualize and predict climate change impacts on vulnerable regions.",
+    "keywords": ["GIS", "Climate Change", "Impact Mapping", "Environmental Planning"]
+},
+{
+    "id": 9319,
+    "title": "GIS-Based Renewable Energy Site Selection",
+    "domain": "133",
+    "description": "Develop a GIS tool to identify optimal locations for solar and wind energy installations.",
+    "keywords": ["GIS", "Renewable Energy", "Site Selection", "Sustainability"]
+},
+{
+    "id": 9320,
+    "title": "Urban Heat Island Effect Mapping",
+    "domain": "133",
+    "description": "Use GIS to identify and mitigate urban heat islands through planning and vegetation analysis.",
+    "keywords": ["GIS", "Urban Heat", "Environmental Planning", "Vegetation"]
+},
+{
+    "id": 9321,
+    "title": "Real-Time Flood Monitoring System",
+    "domain": "133",
+    "description": "Implement a GIS platform integrated with IoT sensors to monitor flood levels in real-time.",
+    "keywords": ["GIS", "Flood Monitoring", "IoT", "Real-Time Data"]
+},
+{
+    "id": 9322,
+    "title": "Wildfire Risk Assessment",
+    "domain": "133",
+    "description": "Use GIS to map wildfire-prone regions and simulate risk for early warning systems.",
+    "keywords": ["GIS", "Wildfire", "Risk Assessment", "Simulation"]
+},
+{
+    "id": 9323,
+    "title": "Smart Water Resource Management",
+    "domain": "133",
+    "description": "Develop GIS-based tools to optimize water distribution and prevent wastage in urban areas.",
+    "keywords": ["GIS", "Water Management", "Urban Planning", "Resource Optimization"]
+},
+{
+    "id": 9324,
+    "title": "GIS-Based Landslide Prediction",
+    "domain": "133",
+    "description": "Create a GIS model to predict landslide-prone areas using topography and soil data.",
+    "keywords": ["GIS", "Landslide Prediction", "Topography", "Soil Analysis"]
+},
+{
+    "id": 9325,
+    "title": "Historical Site Preservation Mapping",
+    "domain": "133",
+    "description": "Use GIS to document and preserve historical sites and monitor changes over time.",
+    "keywords": ["GIS", "Historical Sites", "Preservation", "Mapping"]
+},
+{
+    "id": 9326,
+    "title": "Real-Time Traffic Accident Mapping",
+    "domain": "133",
+    "description": "Implement GIS tools to map traffic accidents in real-time and optimize emergency response.",
+    "keywords": ["GIS", "Traffic Accidents", "Real-Time Mapping", "Emergency Response"]
+},
+{
+    "id": 9327,
+    "title": "GIS-Based Noise Pollution Mapping",
+    "domain": "133",
+    "description": "Develop a GIS platform to visualize and analyze urban noise pollution patterns.",
+    "keywords": ["GIS", "Noise Pollution", "Urban Planning", "Environmental Monitoring"]
+},
+{
+    "id": 9328,
+    "title": "Remote Sensing Integration with GIS",
+    "domain": "133",
+    "description": "Combine remote sensing data with GIS to improve environmental and urban planning analysis.",
+    "keywords": ["GIS", "Remote Sensing", "Environmental Analysis", "Urban Planning"]
+},
+{
+    "id": 9329,
+    "title": "GIS-Based Emergency Shelter Planning",
+    "domain": "133",
+    "description": "Develop GIS tools to identify optimal locations for emergency shelters during disasters.",
+    "keywords": ["GIS", "Emergency Planning", "Shelter Location", "Disaster Management"]
+},
+{
+    "id": 9330,
+    "title": "Urban Green Space Mapping",
+    "domain": "133",
+    "description": "Use GIS to map and optimize green spaces in urban areas for environmental and health benefits.",
+    "keywords": ["GIS", "Green Spaces", "Urban Planning", "Environmental Health"]
+},
+{
+    "id": 9331,
+    "title": "GIS-Based Transportation Emission Analysis",
+    "domain": "133",
+    "description": "Develop GIS tools to analyze and reduce carbon emissions from urban transportation systems.",
+    "keywords": ["GIS", "Emissions Analysis", "Transportation", "Carbon Reduction"]
+},
+{
+    "id": 9332,
+    "title": "Smart City Infrastructure Monitoring",
+    "domain": "133",
+    "description": "Implement GIS-based monitoring of smart city infrastructure to detect maintenance needs in real-time.",
+    "keywords": ["GIS", "Smart City", "Infrastructure Monitoring", "Real-Time Data"]
+},
+{
+    "id": 9333,
+    "title": "Floodplain Management and Mapping",
+    "domain": "133",
+    "description": "Use GIS to analyze floodplains and optimize land use to reduce flood risks.",
+    "keywords": ["GIS", "Floodplain", "Land Use", "Risk Management"]
+},
+{
+    "id": 9334,
+    "title": "GIS-Based Coastal Erosion Monitoring",
+    "domain": "133",
+    "description": "Monitor and map coastal erosion over time using GIS for environmental protection.",
+    "keywords": ["GIS", "Coastal Erosion", "Environmental Monitoring", "Mapping"]
+},
+{
+    "id": 9335,
+    "title": "Real-Time GIS-Based Public Safety Alerts",
+    "domain": "133",
+    "description": "Develop a system using GIS to send real-time public safety alerts during emergencies.",
+    "keywords": ["GIS", "Public Safety", "Real-Time Alerts", "Emergency Response"]
+},
+{
+    "id": 9336,
+    "title": "GIS-Based Flood Damage Assessment",
+    "domain": "133",
+    "description": "Use GIS to assess flood damage to infrastructure and prioritize relief efforts.",
+    "keywords": ["GIS", "Flood Damage", "Assessment", "Disaster Management"]
+},
+{
+    "id": 9337,
+    "title": "GIS-Based Deforestation Analysis",
+    "domain": "133",
+    "description": "Analyze deforestation trends and patterns using GIS and satellite imagery.",
+    "keywords": ["GIS", "Deforestation", "Environmental Monitoring", "Remote Sensing"]
+},
+{
+    "id": 9338,
+    "title": "Geospatial Crime Pattern Analysis",
+    "domain": "133",
+    "description": "Use GIS to map and analyze crime hotspots for law enforcement resource optimization.",
+    "keywords": ["GIS", "Crime Mapping", "Geospatial Analysis", "Law Enforcement"]
+},
+{
+    "id": 9339,
+    "title": "GIS-Based Renewable Water Source Mapping",
+    "domain": "133",
+    "description": "Identify and map potential renewable water sources using GIS and hydrological data.",
+    "keywords": ["GIS", "Water Resources", "Mapping", "Sustainability"]
+},
+{
+    "id": 9340,
+    "title": "GIS-Enabled Land Use Change Detection",
+    "domain": "133",
+    "description": "Develop a GIS system to detect and monitor land use changes over time for urban planning.",
+    "keywords": ["GIS", "Land Use", "Change Detection", "Urban Planning"]
+},
+{
+    "id": 9341,
+    "title": "GIS-Based Renewable Energy Potential Mapping",
+    "domain": "133",
+    "description": "Analyze and map regions suitable for renewable energy installations using GIS.",
+    "keywords": ["GIS", "Renewable Energy", "Mapping", "Sustainability"]
+},
+{
+    "id": 9342,
+    "title": "GIS-Based Transportation Accident Risk Prediction",
+    "domain": "133",
+    "description": "Use GIS and historical accident data to predict high-risk areas for transportation safety improvements.",
+    "keywords": ["GIS", "Accident Prediction", "Transportation Safety", "Urban Planning"]
+},
+{
+    "id": 9343,
+    "title": "GIS-Based Soil Erosion Risk Mapping",
+    "domain": "133",
+    "description": "Develop GIS tools to map soil erosion risk for agriculture and land management planning.",
+    "keywords": ["GIS", "Soil Erosion", "Risk Mapping", "Land Management"]
+},
+{
+    "id": 9344,
+    "title": "GIS-Based Urban Flood Modeling",
+    "domain": "133",
+    "description": "Simulate urban flooding scenarios using GIS to improve drainage planning.",
+    "keywords": ["GIS", "Urban Flood", "Modeling", "Drainage Planning"]
+},
+{
+    "id": 9345,
+    "title": "GIS-Based Wildlife Corridor Mapping",
+    "domain": "133",
+    "description": "Identify and map wildlife corridors to support biodiversity conservation using GIS.",
+    "keywords": ["GIS", "Wildlife Corridors", "Biodiversity", "Conservation"]
+},
+{
+    "id": 9346,
+    "title": "GIS-Based Industrial Pollution Mapping",
+    "domain": "133",
+    "description": "Map industrial pollution sources and their impact on surrounding areas using GIS.",
+    "keywords": ["GIS", "Industrial Pollution", "Environmental Monitoring", "Mapping"]
+},
+{
+    "id": 9347,
+    "title": "GIS-Based Renewable Energy Grid Planning",
+    "domain": "133",
+    "description": "Use GIS to plan efficient and sustainable renewable energy grid distribution.",
+    "keywords": ["GIS", "Energy Grid", "Renewable Energy", "Planning"]
+},
+{
+    "id": 9348,
+    "title": "GIS-Based River Basin Management",
+    "domain": "133",
+    "description": "Develop GIS tools for comprehensive river basin management including flood prevention and water allocation.",
+    "keywords": ["GIS", "River Basin", "Water Management", "Flood Prevention"]
+},
+{
+    "id": 9349,
+    "title": "GIS-Based Public Health Risk Mapping",
+    "domain": "133",
+    "description": "Map and analyze public health risks like disease outbreaks using GIS and demographic data.",
+    "keywords": ["GIS", "Public Health", "Risk Mapping", "Disease Outbreaks"]
+},
+{
+    "id": 9350,
+    "title": "GIS-Based Smart Irrigation Planning",
+    "domain": "133",
+    "description": "Optimize irrigation planning for agriculture using GIS and soil moisture data.",
+    "keywords": ["GIS", "Irrigation Planning", "Agriculture", "Soil Moisture"]
+},
+{
+    "id": 9351,
+    "title": "GIS-Based Urban Accessibility Mapping",
+    "domain": "133",
+    "description": "Map urban areas for accessibility to services like hospitals, schools, and transportation using GIS.",
+    "keywords": ["GIS", "Urban Accessibility", "Mapping", "Public Services"]
+},
+{
+    "id": 9352,
+    "title": "GIS-Based Coastal Flood Risk Mapping",
+    "domain": "133",
+    "description": "Use GIS to map coastal flood risks due to sea-level rise and storm surges.",
+    "keywords": ["GIS", "Coastal Flood", "Risk Mapping", "Climate Change"]
+},
+{
+    "id": 9353,
+    "title": "GIS-Based Urban Greenhouse Gas Monitoring",
+    "domain": "133",
+    "description": "Develop GIS tools to monitor urban greenhouse gas emissions for climate action planning.",
+    "keywords": ["GIS", "GHG Monitoring", "Urban Planning", "Climate Action"]
+},
+{
+    "id": 9354,
+    "title": "GIS-Based Transportation Accessibility Analysis",
+    "domain": "133",
+    "description": "Analyze accessibility to transportation networks using GIS to support urban planning.",
+    "keywords": ["GIS", "Transportation", "Accessibility", "Urban Planning"]
+},
+{
+    "id": 9355,
+    "title": "GIS-Based Environmental Impact Assessment",
+    "domain": "133",
+    "description": "Use GIS to conduct environmental impact assessments for urban development projects.",
+    "keywords": ["GIS", "Environmental Impact", "Urban Development", "Assessment"]
+},
+{
+    "id": 9356,
+    "title": "GIS-Based Urban Heat Vulnerability Mapping",
+    "domain": "133",
+    "description": "Map urban areas most vulnerable to heatwaves using GIS for targeted interventions.",
+    "keywords": ["GIS", "Urban Heat", "Vulnerability Mapping", "Climate Adaptation"]
+},
+{
+    "id": 9357,
+    "title": "GIS-Based Land Degradation Mapping",
+    "domain": "133",
+    "description": "Identify and monitor land degradation patterns using GIS and satellite imagery.",
+    "keywords": ["GIS", "Land Degradation", "Monitoring", "Remote Sensing"]
+},
+{
+    "id": 9358,
+    "title": "GIS-Based Habitat Connectivity Analysis",
+    "domain": "133",
+    "description": "Analyze connectivity between habitats using GIS to support ecological planning.",
+    "keywords": ["GIS", "Habitat Connectivity", "Ecology", "Conservation"]
+},
+{
+    "id": 9359,
+    "title": "GIS-Based Renewable Resource Mapping",
+    "domain": "133",
+    "description": "Map potential renewable resources like wind, solar, and biomass using GIS tools.",
+    "keywords": ["GIS", "Renewable Resources", "Mapping", "Sustainability"]
+},
+{
+    "id": 9360,
+    "title": "GIS-Based Urban Energy Demand Analysis",
+    "domain": "133",
+    "description": "Analyze energy demand patterns in urban areas using GIS for efficient planning.",
+    "keywords": ["GIS", "Energy Demand", "Urban Planning", "Sustainability"]
+},
+{
+    "id": 9361,
+    "title": "GIS-Based Flood Emergency Response Planning",
+    "domain": "133",
+    "description": "Use GIS to plan and optimize flood emergency response and evacuation routes.",
+    "keywords": ["GIS", "Flood Response", "Emergency Planning", "Evacuation"]
+},
+{
+    "id": 9362,
+    "title": "GIS-Based Agricultural Pest Mapping",
+    "domain": "133",
+    "description": "Map and predict pest outbreaks in agricultural fields using GIS and remote sensing data.",
+    "keywords": ["GIS", "Agriculture", "Pest Mapping", "Remote Sensing"]
+},
+{
+    "id": 9363,
+    "title": "GIS-Based Urban Infrastructure Vulnerability Mapping",
+    "domain": "133",
+    "description": "Map vulnerable urban infrastructure for disaster preparedness using GIS.",
+    "keywords": ["GIS", "Urban Infrastructure", "Vulnerability Mapping", "Disaster Preparedness"]
+},
+{
+    "id": 9364,
+    "title": "GIS-Based Soil Salinity Monitoring",
+    "domain": "133",
+    "description": "Use GIS to monitor and map soil salinity levels for sustainable agriculture.",
+    "keywords": ["GIS", "Soil Salinity", "Monitoring", "Agriculture"]
+},
+{
+    "id": 9365,
+    "title": "GIS-Based Coastal Wetlands Protection",
+    "domain": "133",
+    "description": "Map and analyze coastal wetlands using GIS to support conservation and protection efforts.",
+    "keywords": ["GIS", "Coastal Wetlands", "Conservation", "Environmental Protection"]
+},
+{
+    "id": 9366,
+    "title": "GIS-Based Emergency Vehicle Routing",
+    "domain": "133",
+    "description": "Develop GIS tools to optimize emergency vehicle routing during urban disasters.",
+    "keywords": ["GIS", "Emergency Routing", "Urban Planning", "Disaster Management"]
+},
+{
+    "id": 9367,
+    "title": "GIS-Based Renewable Energy Impact Analysis",
+    "domain": "133",
+    "description": "Analyze the environmental impact of renewable energy projects using GIS.",
+    "keywords": ["GIS", "Renewable Energy", "Impact Analysis", "Sustainability"]
+},
+{
+    "id": 9368,
+    "title": "GIS-Based Urban Vulnerability Assessment",
+    "domain": "133",
+    "description": "Assess urban vulnerabilities to natural and man-made hazards using GIS for planning and mitigation.",
+    "keywords": ["GIS", "Urban Vulnerability", "Hazard Assessment", "Mitigation"]
+},
+{
+    "id": 9369,
+    "title": "GIS-Based Urban Land Value Estimation",
+    "domain": "133",
+    "description": "Estimate urban land values using GIS-based spatial analysis for real estate and planning.",
+    "keywords": ["GIS", "Urban Planning", "Land Value", "Spatial Analysis"]
+},
+{
+    "id": 9370,
+    "title": "GIS-Based Urban Ecosystem Service Mapping",
+    "domain": "133",
+    "description": "Map and evaluate urban ecosystem services using GIS to support sustainable planning.",
+    "keywords": ["GIS", "Urban Ecosystem", "Sustainability", "Mapping"]
+},
 
 
 
