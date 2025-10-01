@@ -4181,7 +4181,7 @@ const PROBLEMS_DATA = {
             "id": 148,
             "title": "Topology of Surfaces Visual Lab",
             "domain": "2",
-            "description": "Develop a lab where users can explore classification of surfaces like Möbius strips, Klein bottles, and tori through interactive manipulation.",
+            "description": "Develop a lab where users can explore classification of surfaces like Mobius strips, Klein bottles, and tori through interactive manipulation.",
             "keywords": ["Topology", "Surfaces", "Visualization", "Mathematical Exploration"]
         },
         {
@@ -60020,166 +60020,106 @@ const PROBLEMS_DATA = {
     "id": 8249,
     "title": "Digital Twin for Automotive Tire-Road Noise Optimization",
     "domain": "117",
-    "description": "Create a virtual $\text{Twin}$ of the tire-road interaction to simulate and optimize tire tread patterns and road surfaces for minimum $\text{external}$ $\text{traffic}$ $\text{noise}$ $\text{radiation}$.",
-    "keywords": [
-      "Tire-Road Noise",
-      "Automotive NVH",
-      "Digital Twin"
-    ]
+    "description": "Create a virtual Twin of the tire-road interaction to simulate and optimize tire tread patterns and road surfaces for minimum external traffic noise radiation.",
+    "keywords": ["Tire-Road Noise", "Automotive NVH", "Digital Twin"]
   },
   {
     "id": 8250,
-    "title": "Low-Cost, $\text{Handheld}$ $\text{Device}$ $\text{for}$ $\text{Structural}$ $\text{Defect}$ $\text{Detection}$ $\text{via}$ $\text{Impact}$ $\text{Acoustics}$",
+    "title": "Low-Cost, Handheld Device for Structural Defect Detection via Impact Acoustics",
     "domain": "117",
     "description": "Design a portable device that uses a standardized impact source and microphone/accelerometer array to detect internal defects (delamination, voids) in materials like composites or concrete based on the acoustic response.",
-    "keywords": [
-      "Impact Acoustics",
-      "Non-Destructive Testing",
-      "Material Defects"
-    ]
+    "keywords": ["Impact Acoustics", "Non-Destructive Testing", "Material Defects"]
   },
   {
     "id": 8251,
-    "title": "Acoustic Metamaterials for $\text{Total}$ $\text{Transmission}$ $\text{Control}$ $\text{at}$ $\text{Specific}$ $\text{Frequencies}$",
+    "title": "Acoustic Metamaterials for Total Transmission Control at Specific Frequencies",
     "domain": "117",
-    "description": "Develop metamaterial structures that can be designed to allow $\text{100\%}$ $\text{sound}$ $\text{transmission}$ $\text{at}$ $\text{a}$ $\text{single}$ $\text{desired}$ $\text{frequency}$ while blocking all others, for specialized communication or sensing.",
-    "keywords": [
-      "Acoustic Metamaterials",
-      "Frequency Selective",
-      "Sound Transmission"
-    ]
+    "description": "Develop metamaterial structures that can be designed to allow 100% sound transmission at a single desired frequency while blocking all others, for specialized communication or sensing.",
+    "keywords": ["Acoustic Metamaterials", "Frequency Selective", "Sound Transmission"]
   },
   {
     "id": 8252,
-    "title": "Predictive Model for $\text{Noise}$ $\text{Generation}$ $\text{in}$ $\text{Centrifugal}$ $\text{Pumps}$",
+    "title": "Predictive Model for Noise Generation in Centrifugal Pumps",
     "domain": "117",
-    "description": "Build a $\text{CFD}$-coupled acoustic model to predict the dominant noise sources (e.g., $\text{blade}$ $\text{passing}$ $\text{frequency}$, $\text{vortex}$ $\text{shedding}$) in centrifugal pumps under varying flow conditions.",
-    "keywords": [
-      "Pump Noise",
-      "Fluid Dynamics",
-      "Predictive Modeling"
-    ]
+    "description": "Build a CFD-coupled acoustic model to predict the dominant noise sources (e.g., blade passing frequency, vortex shedding) in centrifugal pumps under varying flow conditions.",
+    "keywords": ["Pump Noise", "Fluid Dynamics", "Predictive Modeling"]
   },
   {
     "id": 8253,
-    "title": "Acoustic Sensing for $\text{Underground}$ $\text{Utility}$ $\text{Mapping}$ $\text{and}$ $\text{Identification}$",
+    "title": "Acoustic Sensing for Underground Utility Mapping and Identification",
     "domain": "117",
-    "description": "Use ground-penetrating radar ($\text{GPR}$) combined with acoustic sensing and $\text{AI}$ to accurately map and identify the type (power, water, gas) of underground utilities before excavation.",
-    "keywords": [
-      "Geophysical Acoustics",
-      "Utility Mapping",
-      "Non-Invasive Sensing"
-    ]
+    "description": "Use ground-penetrating radar (GPR) combined with acoustic sensing and AI to accurately map and identify the type (power, water, gas) of underground utilities before excavation.",
+    "keywords": ["Geophysical Acoustics", "Utility Mapping", "Non-Invasive Sensing"]
   },
   {
     "id": 8254,
-    "title": "Noise Control for $\text{High-Speed}$ $\text{Dental}$ $\text{Drills}$ $\text{and}$ $\text{Medical}$ $\text{Tools}$",
+    "title": "Noise Control for High-Speed Dental Drills and Medical Tools",
     "domain": "117",
-    "description": "Develop $\text{acoustic}$ $\text{design}$ improvements for high $\text{RPM}$ dental drills and surgical tools to reduce the high-pitched $\text{whine}$ that causes patient distress and operator fatigue.",
-    "keywords": [
-      "Medical Acoustics",
-      "High-Frequency Noise",
-      "Tool Noise Control"
-    ]
+    "description": "Develop acoustic design improvements for high RPM dental drills and surgical tools to reduce the high-pitched whine that causes patient distress and operator fatigue.",
+    "keywords": ["Medical Acoustics", "High-Frequency Noise", "Tool Noise Control"]
   },
   {
     "id": 8255,
-    "title": "Active $\text{Noise}$ $\text{Control}$ $\text{for}$ $\text{Ceiling}$ $\text{Fans}$ $\text{and}$ $\text{Air}$ $\text{Purifiers}$",
+    "title": "Active Noise Control for Ceiling Fans and Air Purifiers",
     "domain": "117",
-    "description": "Design an $\text{ANC}$ system integrated into the housing of ceiling fans or air purifiers to silently cancel the low-frequency $\text{motor}$ $\text{hum}$ and $\text{blade}$ $\text{swoosh}$ noise.",
-    "keywords": [
-      "Active Noise Cancellation",
-      "Appliance Noise",
-      "Residential Acoustics"
-    ]
+    "description": "Design an ANC system integrated into the housing of ceiling fans or air purifiers to silently cancel the low-frequency motor hum and blade swoosh noise.",
+    "keywords": ["Active Noise Cancellation", "Appliance Noise", "Residential Acoustics"]
   },
   {
     "id": 8256,
-    "title": "AI for $\text{Automated}$ $\text{Diagnosis}$ $\text{of}$ $\text{Machine}$ $\text{Faults}$ $\text{via}$ $\text{Vibration}$ $\text{Analysis}$",
+    "title": "AI for Automated Diagnosis of Machine Faults via Vibration Analysis",
     "domain": "117",
-    "description": "Train a deep learning model to analyze raw vibration signals ($\text{time}$ $\text{and}$ $\text{frequency}$ $\text{domain}$) from rotating machinery and automatically diagnose the specific fault type (e.g., $\text{bearing}$ $\text{wear,}$ $\text{unbalance,}$ $\text{misalignment}$).",
-    "keywords": [
-      "Vibration Analysis",
-      "Predictive Maintenance",
-      "Deep Learning"
-    ]
+    "description": "Train a deep learning model to analyze raw vibration signals (time and frequency domain) from rotating machinery and automatically diagnose the specific fault type (e.g., bearing wear, unbalance, misalignment).",
+    "keywords": ["Vibration Analysis", "Predictive Maintenance", "Deep Learning"]
   },
   {
     "id": 8257,
-    "title": "Digital Twin for $\text{Urban}$ $\text{Soundscape}$ $\text{Design}$ $\text{and}$ $\text{Planning}$",
+    "title": "Digital Twin for Urban Soundscape Design and Planning",
     "domain": "117",
-    "description": "Create a $\text{Digital}$ $\text{Twin}$ of a city district that allows planners to simulate the effect of new infrastructure (e.g., rail lines, parks, buildings) on the subjective human perception of the $\text{soundscape}$.",
-    "keywords": [
-      "Urban Soundscape",
-      "Acoustic Planning",
-      "Digital Twin"
-    ]
+    "description": "Create a Digital Twin of a city district that allows planners to simulate the effect of new infrastructure (e.g., rail lines, parks, buildings) on the subjective human perception of the soundscape.",
+    "keywords": ["Urban Soundscape", "Acoustic Planning", "Digital Twin"]
   },
   {
     "id": 8258,
-    "title": "Low-Cost, $\text{Wearable}$ $\text{Sensor}$ $\text{for}$ $\text{In-Ear}$ $\text{Noise}$ $\text{Exposure}$",
+    "title": "Low-Cost, Wearable Sensor for In-Ear Noise Exposure",
     "domain": "117",
-    "description": "Design a small, inconspicuous, and affordable $\text{in-ear}$ $\text{sensor}$ that accurately measures the sound pressure level right at the eardrum for accurate $\text{personal}$ $\text{noise}$ $\text{exposure}$ $\text{monitoring}$.",
-    "keywords": [
-      "Occupational Health",
-      "Wearable Sensor",
-      "Noise Exposure"
-    ]
+    "description": "Design a small, inconspicuous, and affordable in-ear sensor that accurately measures the sound pressure level right at the eardrum for accurate personal noise exposure monitoring.",
+    "keywords": ["Occupational Health", "Wearable Sensor", "Noise Exposure"]
   },
   {
     "id": 8259,
-    "title": "Acoustic Metamaterials for $\text{Perfect}$ $\text{Sound}$ $\text{Absorption}$ $\text{at}$ $\text{Single}$ $\text{Frequency}$ $\text{Tones}$",
+    "title": "Acoustic Metamaterials for Perfect Sound Absorption at Single Frequency Tones",
     "domain": "117",
-    "description": "Develop highly efficient, compact $\text{metamaterial}$ $\text{absorbers}$ (e.g., micro-perforated Helmholtz resonators) capable of achieving near $\text{100\%}$ $\text{absorption}$ of specific tonal noise from machinery or $\text{HVAC}$ systems.",
-    "keywords": [
-      "Tonal Noise Control",
-      "Acoustic Metamaterials",
-      "Perfect Absorption"
-    ]
+    "description": "Develop highly efficient, compact metamaterial absorbers (e.g., micro-perforated Helmholtz resonators) capable of achieving near 100% absorption of specific tonal noise from machinery or HVAC systems.",
+    "keywords": ["Tonal Noise Control", "Acoustic Metamaterials", "Perfect Absorption"]
   },
   {
     "id": 8260,
-    "title": "Predictive Model for $\text{Exterior}$ $\text{Facade}$ $\text{Noise}$ $\text{from}$ $\text{Building-Mounted}$ $\text{Equipment}$",
+    "title": "Predictive Model for Exterior Facade Noise from Building-Mounted Equipment",
     "domain": "117",
-    "description": "Build a model to accurately predict the noise radiated from chillers, cooling towers, and $\text{HVAC}$ units mounted on building rooftops or near $\text{façades}$, impacting adjacent structures.",
-    "keywords": [
-      "Building Acoustics",
-      "Equipment Noise",
-      "Noise Propagation"
-    ]
+    "description": "Build a model to accurately predict the noise radiated from chillers, cooling towers, and HVAC units mounted on building rooftops or near façades, impacting adjacent structures.",
+    "keywords": ["Building Acoustics", "Equipment Noise", "Noise Propagation"]
   },
   {
     "id": 8261,
-    "title": "Acoustic Sensing for $\text{Early}$ $\text{Detection}$ $\text{of}$ $\text{Avalanches}$ $\text{and}$ $\text{Crevices}$",
+    "title": "Acoustic Sensing for Early Detection of Avalanches and Crevices",
     "domain": "117",
-    "description": "Use passive acoustic sensors and $\text{AI}$ to detect the $\text{precursory}$ $\text{acoustic}$ $\text{signatures}$ of snowpack instability, snow shearing, or the sound of falling into a hidden crevice in mountainous terrain.",
-    "keywords": [
-      "Geophysical Acoustics",
-      "Safety Monitoring",
-      "Avalanche Detection"
-    ]
+    "description": "Use passive acoustic sensors and AI to detect the precursory acoustic signatures of snowpack instability, snow shearing, or the sound of falling into a hidden crevice in mountainous terrain.",
+    "keywords": ["Geophysical Acoustics", "Safety Monitoring", "Avalanche Detection"]
   },
   {
     "id": 8262,
-    "title": "Noise Control for $\text{High-Speed}$ $\text{Packaging}$ $\text{Machinery}$ $\text{in}$ $\text{Food}$ $\text{Industry}$",
+    "title": "Noise Control for High-Speed Packaging Machinery in Food Industry",
     "domain": "117",
-    "description": "Develop $\text{acoustic}$ $\text{enclosures}$, $\text{dampening}$ $\text{treatments}$, and $\text{material}$ $\text{handling}$ $\text{solutions}$ to reduce the high-intensity, $\text{impulse}$ $\text{and}$ $\text{rattling}$ noise from packaging lines.",
-    "keywords": [
-      "Industrial Noise",
-      "Packaging Machinery",
-      "Impulse Noise"
-    ]
+    "description": "Develop acoustic enclosures, dampening treatments, and material handling solutions to reduce the high-intensity, impulse and rattling noise from packaging lines.",
+    "keywords": ["Industrial Noise", "Packaging Machinery", "Impulse Noise"]
   },
   {
     "id": 8263,
-    "title": "Active $\text{Vibration}$ $\text{Control}$ $\text{for}$ $\text{Large}$ $\text{Telescope}$ $\text{Mounts}$",
+    "title": "Active Vibration Control for Large Telescope Mounts",
     "domain": "117",
     "description": "Implement a high-precision active vibration cancellation system to eliminate the minute structural vibrations in large astronomical telescope mounts, improving image stability and resolution.",
-    "keywords": [
-      "Active Vibration Control",
-      "Precision Optics",
-      "Structural Acoustics"
-    ]
+    "keywords": ["Active Vibration Control", "Precision Optics", "Structural Acoustics"]
   },
   {
     "id": 8264,
@@ -60359,9 +60299,9 @@ const PROBLEMS_DATA = {
   },
   {
     "id": 8280,
-    "title": "AI for $\text{Non-Contact}$ $\text{Vibration}$ $\text{Measurement}$ $\text{using}$ $\text{Acoustic}$ $\text{Waves}$",
+    "title": "AI for Non-Contact Vibration Measurement using Acoustic Waves",
     "domain": "117",
-    "description": "Train an $\text{AI}$ model to use a single microphone (or array) to measure the $\text{vibration}$ $\text{velocity}$ and $\text{amplitude}$ of a surface based on the subtle $\text{Doppler}$ $\text{shift}$ or $\text{acoustic}$ $\text{reflection}$ of sound waves.",
+    "description": "Train an AI model to use a single microphone (or array) to measure the vibration velocity and amplitude of a surface based on the subtle Doppler shift or acoustic reflection of sound waves.",
     "keywords": [
       "Non-Contact Sensing",
       "Vibration Measurement",
