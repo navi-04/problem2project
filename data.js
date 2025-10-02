@@ -72959,6 +72959,3872 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 142
+  {
+    "id": 9900,
+    "title": "Seismic Retrofit Design for Unreinforced Masonry Buildings",
+    "domain": "142",
+    "description": "Develop seismic retrofit strategies for historical unreinforced masonry buildings to improve lateral load resistance and prevent collapse during earthquakes.",
+    "keywords": [
+      "Seismic Retrofit",
+      "Unreinforced Masonry",
+      "Lateral Load Resistance"
+    ]
+  },
+  {
+    "id": 9901,
+    "title": "Liquefaction Potential Assessment for Coastal Infrastructure",
+    "domain": "142",
+    "description": "Evaluate soil liquefaction susceptibility in coastal regions and design foundation systems to mitigate liquefaction-induced settlement and tilting.",
+    "keywords": [
+      "Liquefaction",
+      "Coastal Infrastructure",
+      "Foundation Design"
+    ]
+  },
+  {
+    "id": 9902,
+    "title": "Base Isolation System Optimization for Hospital Buildings",
+    "domain": "142",
+    "description": "Design and optimize base isolation systems for critical hospital facilities to minimize seismic forces and ensure operational continuity after earthquakes.",
+    "keywords": [
+      "Base Isolation",
+      "Hospital Buildings",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9903,
+    "title": "Ground Motion Selection for Nonlinear Time History Analysis",
+    "domain": "142",
+    "description": "Select and scale appropriate ground motion records matching target response spectra for nonlinear dynamic analysis of structures.",
+    "keywords": [
+      "Ground Motion",
+      "Time History Analysis",
+      "Response Spectra"
+    ]
+  },
+  {
+    "id": 9904,
+    "title": "Seismic Performance Assessment of RC Frame Buildings",
+    "domain": "142",
+    "description": "Conduct performance-based seismic evaluation of reinforced concrete frame structures using pushover analysis and fragility curves.",
+    "keywords": [
+      "RC Frame",
+      "Performance Assessment",
+      "Pushover Analysis"
+    ]
+  },
+  {
+    "id": 9905,
+    "title": "Earthquake Early Warning System Algorithm Development",
+    "domain": "142",
+    "description": "Develop real-time algorithms for earthquake early warning systems using P-wave detection and magnitude estimation techniques.",
+    "keywords": [
+      "Early Warning",
+      "P-wave Detection",
+      "Magnitude Estimation"
+    ]
+  },
+  {
+    "id": 9906,
+    "title": "Soil-Structure Interaction Analysis for High-Rise Buildings",
+    "domain": "142",
+    "description": "Model and analyze soil-structure interaction effects on seismic response of tall buildings using finite element methods.",
+    "keywords": [
+      "Soil-Structure Interaction",
+      "High-Rise Buildings",
+      "Finite Element Analysis"
+    ]
+  },
+  {
+    "id": 9907,
+    "title": "Seismic Vulnerability Assessment of Bridge Networks",
+    "domain": "142",
+    "description": "Evaluate seismic vulnerability of transportation bridge networks and prioritize retrofit interventions based on risk analysis.",
+    "keywords": [
+      "Bridge Networks",
+      "Vulnerability Assessment",
+      "Risk Analysis"
+    ]
+  },
+  {
+    "id": 9908,
+    "title": "Damping System Design Using Viscous Dampers",
+    "domain": "142",
+    "description": "Design and optimize viscous damper configurations for seismic energy dissipation in building structures.",
+    "keywords": [
+      "Viscous Dampers",
+      "Energy Dissipation",
+      "Damping System"
+    ]
+  },
+  {
+    "id": 9909,
+    "title": "Probabilistic Seismic Hazard Analysis for Urban Areas",
+    "domain": "142",
+    "description": "Perform probabilistic seismic hazard analysis to determine ground motion intensities for various return periods in metropolitan regions.",
+    "keywords": [
+      "PSHA",
+      "Seismic Hazard",
+      "Urban Planning"
+    ]
+  },
+  {
+    "id": 9910,
+    "title": "Rocking Foundation Design for Moment-Resisting Frames",
+    "domain": "142",
+    "description": "Analyze and design rocking shallow foundations as a seismic isolation mechanism for steel moment frames.",
+    "keywords": [
+      "Rocking Foundation",
+      "Moment Frame",
+      "Seismic Isolation"
+    ]
+  },
+  {
+    "id": 9911,
+    "title": "Seismic Response of Earth Dams and Embankments",
+    "domain": "142",
+    "description": "Evaluate dynamic response and stability of earth dams under seismic loading using finite element modeling and slope stability analysis.",
+    "keywords": [
+      "Earth Dams",
+      "Dynamic Response",
+      "Slope Stability"
+    ]
+  },
+  {
+    "id": 9912,
+    "title": "Post-Earthquake Structural Damage Detection Using Sensors",
+    "domain": "142",
+    "description": "Develop sensor-based damage detection methods for rapid post-earthquake structural health assessment using vibration monitoring.",
+    "keywords": [
+      "Damage Detection",
+      "Structural Health Monitoring",
+      "Vibration Sensors"
+    ]
+  },
+  {
+    "id": 9913,
+    "title": "Seismic Design of Steel Concentrically Braced Frames",
+    "domain": "142",
+    "description": "Design steel concentrically braced frames with optimized brace configurations to meet seismic performance objectives.",
+    "keywords": [
+      "Braced Frames",
+      "Steel Structures",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9914,
+    "title": "Tsunami Wave Propagation and Coastal Impact Modeling",
+    "domain": "142",
+    "description": "Simulate tsunami wave generation, propagation, and inundation effects on coastal structures using hydrodynamic modeling.",
+    "keywords": [
+      "Tsunami",
+      "Wave Propagation",
+      "Coastal Impact"
+    ]
+  },
+  {
+    "id": 9915,
+    "title": "Seismic Pounding Analysis Between Adjacent Buildings",
+    "domain": "142",
+    "description": "Analyze and mitigate structural pounding effects between closely spaced buildings during earthquakes.",
+    "keywords": [
+      "Structural Pounding",
+      "Adjacent Buildings",
+      "Seismic Gap"
+    ]
+  },
+  {
+    "id": 9916,
+    "title": "Energy-Based Seismic Design of Steel Structures",
+    "domain": "142",
+    "description": "Apply energy-based design methodology to optimize steel structural systems for balanced energy dissipation capacity.",
+    "keywords": [
+      "Energy-Based Design",
+      "Steel Structures",
+      "Energy Dissipation"
+    ]
+  },
+  {
+    "id": 9917,
+    "title": "Seismic Upgrading of Precast Concrete Connections",
+    "domain": "142",
+    "description": "Design improved connection details for precast concrete structures to enhance ductility and seismic performance.",
+    "keywords": [
+      "Precast Concrete",
+      "Connection Design",
+      "Ductility"
+    ]
+  },
+  {
+    "id": 9918,
+    "title": "Active Mass Damper Control for Seismic Protection",
+    "domain": "142",
+    "description": "Design active mass damper systems with feedback control algorithms for real-time seismic response reduction in buildings.",
+    "keywords": [
+      "Active Control",
+      "Mass Damper",
+      "Seismic Protection"
+    ]
+  },
+  {
+    "id": 9919,
+    "title": "Seismic Microzonation Mapping for City Planning",
+    "domain": "142",
+    "description": "Develop detailed seismic microzonation maps incorporating local site effects, geology, and soil conditions for urban development.",
+    "keywords": [
+      "Microzonation",
+      "Site Effects",
+      "Urban Planning"
+    ]
+  },
+  {
+    "id": 9920,
+    "title": "Buckling-Restrained Brace Design and Analysis",
+    "domain": "142",
+    "description": "Design buckling-restrained braced frames with optimized core and restraining mechanisms for stable hysteretic behavior.",
+    "keywords": [
+      "Buckling-Restrained Brace",
+      "Hysteretic Behavior",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9921,
+    "title": "Seismic Behavior of Reinforced Concrete Shear Walls",
+    "domain": "142",
+    "description": "Analyze nonlinear behavior of RC shear walls under cyclic loading and optimize reinforcement detailing for ductility.",
+    "keywords": [
+      "Shear Walls",
+      "Cyclic Loading",
+      "RC Structures"
+    ]
+  },
+  {
+    "id": 9922,
+    "title": "Ground Motion Intensity Measure Selection for Fragility Analysis",
+    "domain": "142",
+    "description": "Evaluate and select optimal intensity measures for developing seismic fragility functions of structural components.",
+    "keywords": [
+      "Intensity Measures",
+      "Fragility Analysis",
+      "Structural Performance"
+    ]
+  },
+  {
+    "id": 9923,
+    "title": "Seismic Response of Underground Pipeline Networks",
+    "domain": "142",
+    "description": "Model seismic wave propagation effects on buried pipeline systems and design flexible joint connections to accommodate ground displacement.",
+    "keywords": [
+      "Underground Pipelines",
+      "Ground Displacement",
+      "Seismic Waves"
+    ]
+  },
+  {
+    "id": 9924,
+    "title": "Displacement-Based Seismic Design of RC Buildings",
+    "domain": "142",
+    "description": "Apply displacement-based design methodology to reinforced concrete buildings with specified drift and ductility targets.",
+    "keywords": [
+      "Displacement-Based Design",
+      "RC Buildings",
+      "Drift Control"
+    ]
+  },
+  {
+    "id": 9925,
+    "title": "Seismic Testing of Scale Model Structures on Shake Tables",
+    "domain": "142",
+    "description": "Design and execute shake table experiments on scaled structural models to validate seismic performance predictions.",
+    "keywords": [
+      "Shake Table",
+      "Scale Models",
+      "Experimental Testing"
+    ]
+  },
+  {
+    "id": 9926,
+    "title": "Friction Pendulum Bearing Design for Seismic Isolation",
+    "domain": "142",
+    "description": "Design friction pendulum isolators with optimized sliding surface geometry and friction coefficients for building isolation systems.",
+    "keywords": [
+      "Friction Pendulum",
+      "Seismic Isolation",
+      "Bearing Design"
+    ]
+  },
+  {
+    "id": 9927,
+    "title": "Seismic Capacity Evaluation of Existing Concrete Bridges",
+    "domain": "142",
+    "description": "Assess seismic capacity of aging concrete bridge structures and develop strengthening strategies using fiber-reinforced polymers.",
+    "keywords": [
+      "Bridge Evaluation",
+      "Seismic Capacity",
+      "FRP Strengthening"
+    ]
+  },
+  {
+    "id": 9928,
+    "title": "Nonlinear Soil-Pile-Structure Interaction Analysis",
+    "domain": "142",
+    "description": "Perform nonlinear finite element analysis of pile foundations considering soil plasticity and kinematic interaction effects.",
+    "keywords": [
+      "Pile Foundations",
+      "Nonlinear Analysis",
+      "Soil-Pile Interaction"
+    ]
+  },
+  {
+    "id": 9929,
+    "title": "Seismic Risk Assessment for Critical Infrastructure",
+    "domain": "142",
+    "description": "Conduct comprehensive seismic risk assessment for power plants, hospitals, and emergency facilities using scenario-based analysis.",
+    "keywords": [
+      "Seismic Risk",
+      "Critical Infrastructure",
+      "Scenario Analysis"
+    ]
+  },
+  {
+    "id": 9930,
+    "title": "Steel Plate Shear Wall System Design and Optimization",
+    "domain": "142",
+    "description": "Design steel plate shear wall systems with optimized plate thickness and boundary frame configurations for seismic resistance.",
+    "keywords": [
+      "Steel Plate Shear Wall",
+      "Lateral System",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9931,
+    "title": "Aftershock Fragility Analysis of Damaged Structures",
+    "domain": "142",
+    "description": "Develop fragility curves for earthquake-damaged structures subjected to aftershock sequences considering cumulative damage.",
+    "keywords": [
+      "Aftershocks",
+      "Fragility Curves",
+      "Cumulative Damage"
+    ]
+  },
+  {
+    "id": 9932,
+    "title": "Seismic Design of Elevated Water Tanks and Storage Facilities",
+    "domain": "142",
+    "description": "Analyze fluid-structure interaction and design supporting structures for elevated water tanks under seismic loading.",
+    "keywords": [
+      "Water Tanks",
+      "Fluid-Structure Interaction",
+      "Elevated Structures"
+    ]
+  },
+  {
+    "id": 9933,
+    "title": "Machine Learning for Earthquake Magnitude Prediction",
+    "domain": "142",
+    "description": "Develop machine learning models using seismic waveform features for rapid earthquake magnitude estimation.",
+    "keywords": [
+      "Machine Learning",
+      "Magnitude Prediction",
+      "Seismic Waveforms"
+    ]
+  },
+  {
+    "id": 9934,
+    "title": "Seismic Performance of Coupled Shear Wall Systems",
+    "domain": "142",
+    "description": "Analyze and design coupled shear wall systems with optimized coupling beam reinforcement for enhanced ductility.",
+    "keywords": [
+      "Coupled Shear Walls",
+      "Coupling Beams",
+      "Ductility Design"
+    ]
+  },
+  {
+    "id": 9935,
+    "title": "Site-Specific Ground Response Analysis Using 1D Methods",
+    "domain": "142",
+    "description": "Perform one-dimensional site response analysis to evaluate local amplification effects on seismic ground motions.",
+    "keywords": [
+      "Site Response",
+      "Ground Amplification",
+      "1D Analysis"
+    ]
+  },
+  {
+    "id": 9936,
+    "title": "Seismic Rehabilitation of Historic Timber Structures",
+    "domain": "142",
+    "description": "Develop compatible seismic strengthening techniques for historic timber buildings preserving architectural heritage.",
+    "keywords": [
+      "Timber Structures",
+      "Historic Buildings",
+      "Seismic Rehabilitation"
+    ]
+  },
+  {
+    "id": 9937,
+    "title": "Shape Memory Alloy Dampers for Seismic Applications",
+    "domain": "142",
+    "description": "Design and test shape memory alloy-based damping devices for self-centering and energy dissipation in structures.",
+    "keywords": [
+      "Shape Memory Alloy",
+      "Self-Centering",
+      "Seismic Dampers"
+    ]
+  },
+  {
+    "id": 9938,
+    "title": "Seismic Slope Stability Analysis Using Pseudo-Static Methods",
+    "domain": "142",
+    "description": "Evaluate earthquake-induced slope failures using pseudo-static and Newmark sliding block analysis methods.",
+    "keywords": [
+      "Slope Stability",
+      "Pseudo-Static Analysis",
+      "Landslide Hazard"
+    ]
+  },
+  {
+    "id": 9939,
+    "title": "Performance-Based Design of Eccentrically Braced Frames",
+    "domain": "142",
+    "description": "Design eccentrically braced steel frames with link beams optimized for target displacement and energy dissipation.",
+    "keywords": [
+      "Eccentrically Braced Frame",
+      "Link Beams",
+      "Performance-Based Design"
+    ]
+  },
+  {
+    "id": 9940,
+    "title": "Seismic Analysis of Asymmetric Buildings with Torsion",
+    "domain": "142",
+    "description": "Analyze torsional effects in plan-asymmetric buildings and implement design strategies to reduce torsional irregularity.",
+    "keywords": [
+      "Torsional Response",
+      "Asymmetric Buildings",
+      "Plan Irregularity"
+    ]
+  },
+  {
+    "id": 9941,
+    "title": "Lead Rubber Bearing Design for Bridge Seismic Isolation",
+    "domain": "142",
+    "description": "Design lead rubber bearings for bridge seismic isolation systems with appropriate damping and restoring force characteristics.",
+    "keywords": [
+      "Lead Rubber Bearing",
+      "Bridge Isolation",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9942,
+    "title": "Seismic Collapse Assessment Using Incremental Dynamic Analysis",
+    "domain": "142",
+    "description": "Perform incremental dynamic analysis to evaluate collapse capacity and safety margins of building structures.",
+    "keywords": [
+      "Collapse Assessment",
+      "Incremental Dynamic Analysis",
+      "Safety Margins"
+    ]
+  },
+  {
+    "id": 9943,
+    "title": "Foundation Rocking and Uplift Analysis for Tall Buildings",
+    "domain": "142",
+    "description": "Analyze controlled foundation rocking behavior as a seismic design strategy for tall building structures.",
+    "keywords": [
+      "Foundation Rocking",
+      "Uplift Analysis",
+      "Tall Buildings"
+    ]
+  },
+  {
+    "id": 9944,
+    "title": "Seismic Retrofit Using External Steel Frames",
+    "domain": "142",
+    "description": "Design external steel frame systems for seismic retrofitting of existing buildings without interior disruption.",
+    "keywords": [
+      "External Frames",
+      "Seismic Retrofit",
+      "Steel Structures"
+    ]
+  },
+  {
+    "id": 9945,
+    "title": "Seismic Wave Velocity Measurement Using Geophysical Methods",
+    "domain": "142",
+    "description": "Conduct seismic refraction and MASW surveys to characterize subsurface soil layers and determine shear wave velocities.",
+    "keywords": [
+      "Shear Wave Velocity",
+      "Geophysical Survey",
+      "Site Characterization"
+    ]
+  },
+  {
+    "id": 9946,
+    "title": "Diaphragm Flexibility Effects on Building Seismic Response",
+    "domain": "142",
+    "description": "Analyze effects of flexible floor diaphragms on seismic force distribution and design appropriate diaphragm reinforcement.",
+    "keywords": [
+      "Flexible Diaphragms",
+      "Floor Systems",
+      "Force Distribution"
+    ]
+  },
+  {
+    "id": 9947,
+    "title": "Seismic Design of Precast Parking Structures",
+    "domain": "142",
+    "description": "Design precast concrete parking structures with robust connections and lateral load resisting systems for seismic zones.",
+    "keywords": [
+      "Precast Structures",
+      "Parking Garages",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9948,
+    "title": "Synthetic Ground Motion Generation for Design",
+    "domain": "142",
+    "description": "Generate synthetic earthquake ground motions compatible with design spectra using stochastic or deterministic approaches.",
+    "keywords": [
+      "Synthetic Ground Motion",
+      "Spectral Matching",
+      "Earthquake Engineering"
+    ]
+  },
+  {
+    "id": 9949,
+    "title": "Seismic Response of Soft Story Buildings",
+    "domain": "142",
+    "description": "Evaluate vulnerability of soft story buildings and design strengthening interventions for ground floor columns and walls.",
+    "keywords": [
+      "Soft Story",
+      "Vertical Irregularity",
+      "Seismic Vulnerability"
+    ]
+  },
+  {
+    "id": 9950,
+    "title": "Fiber Optic Sensing for Structural Seismic Monitoring",
+    "domain": "142",
+    "description": "Implement distributed fiber optic sensing systems for continuous seismic monitoring and strain measurement in structures.",
+    "keywords": [
+      "Fiber Optic Sensors",
+      "Structural Monitoring",
+      "Strain Measurement"
+    ]
+  },
+  {
+    "id": 9951,
+    "title": "Seismic Design of Moment-Resisting Connections in Steel Frames",
+    "domain": "142",
+    "description": "Design beam-column moment connections with adequate ductility and strength to prevent brittle fracture during earthquakes.",
+    "keywords": [
+      "Moment Connections",
+      "Steel Frames",
+      "Connection Design"
+    ]
+  },
+  {
+    "id": 9952,
+    "title": "Rapid Visual Screening of Buildings for Seismic Safety",
+    "domain": "142",
+    "description": "Develop rapid assessment protocols for preliminary seismic safety evaluation of building inventories.",
+    "keywords": [
+      "Rapid Screening",
+      "Seismic Safety",
+      "Building Assessment"
+    ]
+  },
+  {
+    "id": 9953,
+    "title": "Seismic Analysis of Nuclear Power Plant Structures",
+    "domain": "142",
+    "description": "Perform rigorous seismic analysis of nuclear containment structures considering multiple hazard levels and safety margins.",
+    "keywords": [
+      "Nuclear Structures",
+      "Containment Buildings",
+      "Seismic Safety"
+    ]
+  },
+  {
+    "id": 9954,
+    "title": "Rocking Wall Systems with Self-Centering Capabilities",
+    "domain": "142",
+    "description": "Design post-tensioned rocking wall systems with energy dissipation devices for damage-free seismic performance.",
+    "keywords": [
+      "Rocking Walls",
+      "Self-Centering",
+      "Post-Tensioned Systems"
+    ]
+  },
+  {
+    "id": 9955,
+    "title": "Seismic Response of Masonry Infilled RC Frames",
+    "domain": "142",
+    "description": "Analyze interaction between masonry infill walls and RC frames and evaluate effects on seismic performance.",
+    "keywords": [
+      "Masonry Infill",
+      "RC Frames",
+      "Frame-Infill Interaction"
+    ]
+  },
+  {
+    "id": 9956,
+    "title": "Stochastic Ground Motion Modeling for Hazard Analysis",
+    "domain": "142",
+    "description": "Develop stochastic ground motion models for regions with limited recorded data using seismological parameters.",
+    "keywords": [
+      "Stochastic Modeling",
+      "Ground Motion",
+      "Hazard Analysis"
+    ]
+  },
+  {
+    "id": 9957,
+    "title": "Seismic Design of Reinforced Concrete Coupling Beams",
+    "domain": "142",
+    "description": "Design coupling beams in dual systems with diagonal reinforcement to achieve ductile behavior under reversed cyclic loading.",
+    "keywords": [
+      "Coupling Beams",
+      "Diagonal Reinforcement",
+      "Cyclic Loading"
+    ]
+  },
+  {
+    "id": 9958,
+    "title": "Smart Base Isolation Systems with Adaptive Control",
+    "domain": "142",
+    "description": "Develop semi-active base isolation systems with magnetorheological fluids and adaptive control algorithms.",
+    "keywords": [
+      "Smart Isolation",
+      "Adaptive Control",
+      "Magnetorheological Fluids"
+    ]
+  },
+  {
+    "id": 9959,
+    "title": "Seismic Performance of Cold-Formed Steel Structures",
+    "domain": "142",
+    "description": "Evaluate seismic behavior of cold-formed steel framing systems and design connection details for energy dissipation.",
+    "keywords": [
+      "Cold-Formed Steel",
+      "Light-Gauge Structures",
+      "Seismic Performance"
+    ]
+  },
+  {
+    "id": 9960,
+    "title": "Earthquake-Induced Pore Pressure Generation in Soils",
+    "domain": "142",
+    "description": "Model excess pore pressure generation and dissipation in saturated soils during seismic loading using effective stress analysis.",
+    "keywords": [
+      "Pore Pressure",
+      "Saturated Soils",
+      "Effective Stress"
+    ]
+  },
+  {
+    "id": 9961,
+    "title": "Seismic Detailing of RC Beam-Column Joints",
+    "domain": "142",
+    "description": "Design reinforcement detailing for beam-column joints to prevent joint shear failure and ensure ductile frame behavior.",
+    "keywords": [
+      "Beam-Column Joints",
+      "Joint Shear",
+      "Reinforcement Detailing"
+    ]
+  },
+  {
+    "id": 9962,
+    "title": "Seismic Response Modification Using Fluid Viscous Dampers",
+    "domain": "142",
+    "description": "Design supplemental damping systems using fluid viscous dampers to reduce structural response and member forces.",
+    "keywords": [
+      "Fluid Viscous Dampers",
+      "Supplemental Damping",
+      "Response Modification"
+    ]
+  },
+  {
+    "id": 9963,
+    "title": "Multi-Hazard Analysis of Coastal Structures",
+    "domain": "142",
+    "description": "Perform combined earthquake and tsunami hazard analysis for coastal buildings and infrastructure systems.",
+    "keywords": [
+      "Multi-Hazard",
+      "Coastal Structures",
+      "Earthquake-Tsunami"
+    ]
+  },
+  {
+    "id": 9964,
+    "title": "Seismic Design of Glass Curtain Wall Systems",
+    "domain": "142",
+    "description": "Design glass curtain wall facades with adequate drift accommodation and anchorage to prevent earthquake damage.",
+    "keywords": [
+      "Curtain Walls",
+      "Facade Systems",
+      "Drift Accommodation"
+    ]
+  },
+  {
+    "id": 9965,
+    "title": "Finite Element Modeling of RC Structural Components",
+    "domain": "142",
+    "description": "Develop detailed finite element models of reinforced concrete elements with appropriate material constitutive models for seismic analysis.",
+    "keywords": [
+      "Finite Element",
+      "RC Components",
+      "Material Modeling"
+    ]
+  },
+  {
+    "id": 9966,
+    "title": "Seismic Evaluation of Plan-Irregular Buildings",
+    "domain": "142",
+    "description": "Assess seismic performance of buildings with plan irregularities including re-entrant corners and torsional effects.",
+    "keywords": [
+      "Plan Irregularity",
+      "Torsion",
+      "Irregular Buildings"
+    ]
+  },
+  {
+    "id": 9967,
+    "title": "Design of Earthquake-Resistant Foundation Systems",
+    "domain": "142",
+    "description": "Compare performance of different foundation types including mat, pile, and drilled shaft foundations under seismic loading.",
+    "keywords": [
+      "Foundation Systems",
+      "Earthquake Resistance",
+      "Foundation Design"
+    ]
+  },
+  {
+    "id": 9968,
+    "title": "Seismic Response of Curved and Skewed Bridges",
+    "domain": "142",
+    "description": "Analyze complex seismic behavior of curved and skewed bridge geometries considering spatial variation of ground motion.",
+    "keywords": [
+      "Curved Bridges",
+      "Skewed Bridges",
+      "Geometric Complexity"
+    ]
+  },
+  {
+    "id": 9969,
+    "title": "Magnetorheological Damper Design for Seismic Control",
+    "domain": "142",
+    "description": "Design semi-active magnetorheological dampers with optimal valve configurations and control strategies for seismic applications.",
+    "keywords": [
+      "MR Dampers",
+      "Semi-Active Control",
+      "Smart Damping"
+    ]
+  },
+  {
+    "id": 9970,
+    "title": "Seismic Performance of Precast Hollow-Core Slabs",
+    "domain": "142",
+    "description": "Evaluate seismic behavior of precast hollow-core floor systems and design connection details for diaphragm action.",
+    "keywords": [
+      "Hollow-Core Slabs",
+      "Precast Floors",
+      "Diaphragm Design"
+    ]
+  },
+  {
+    "id": 9971,
+    "title": "Near-Fault Ground Motion Effects on Structures",
+    "domain": "142",
+    "description": "Analyze structural response to near-fault ground motions with velocity pulses and directivity effects.",
+    "keywords": [
+      "Near-Fault Effects",
+      "Velocity Pulses",
+      "Directivity"
+    ]
+  },
+  {
+    "id": 9972,
+    "title": "Seismic Design of Steel Storage Rack Systems",
+    "domain": "142",
+    "description": "Design industrial storage rack structures with consideration of stored mass effects and connection flexibility under seismic loads.",
+    "keywords": [
+      "Storage Racks",
+      "Industrial Structures",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9973,
+    "title": "Resonance Effects in Earthquake Response of Structures",
+    "domain": "142",
+    "description": "Investigate resonance phenomena when structural periods match dominant ground motion frequencies and design mitigation strategies.",
+    "keywords": [
+      "Resonance",
+      "Period Matching",
+      "Dynamic Response"
+    ]
+  },
+  {
+    "id": 9974,
+    "title": "Seismic Retrofit Using Carbon Fiber Reinforced Polymers",
+    "domain": "142",
+    "description": "Design CFRP strengthening systems for seismic upgrade of deficient RC columns and beam-column joints.",
+    "keywords": [
+      "CFRP",
+      "Seismic Retrofit",
+      "Composite Materials"
+    ]
+  },
+  {
+    "id": 9975,
+    "title": "Subduction Zone Earthquake Ground Motion Characteristics",
+    "domain": "142",
+    "description": "Characterize long-duration ground motions from subduction zone earthquakes and their effects on structural response.",
+    "keywords": [
+      "Subduction Earthquakes",
+      "Long-Duration Ground Motion",
+      "Megathrust Events"
+    ]
+  },
+  {
+    "id": 9976,
+    "title": "Seismic Analysis of Floating Foundations on Expansive Soils",
+    "domain": "142",
+    "description": "Design shallow floating foundations on expansive clays considering both seismic and swelling/shrinkage effects.",
+    "keywords": [
+      "Floating Foundations",
+      "Expansive Soils",
+      "Foundation Design"
+    ]
+  },
+  {
+    "id": 9977,
+    "title": "Energy Dissipation Capacity of Structural Fuse Elements",
+    "domain": "142",
+    "description": "Design replaceable structural fuses as sacrificial elements to concentrate earthquake damage in designated locations.",
+    "keywords": [
+      "Structural Fuses",
+      "Energy Dissipation",
+      "Replaceable Elements"
+    ]
+  },
+  {
+    "id": 9978,
+    "title": "Seismic Vulnerability of Non-Structural Building Components",
+    "domain": "142",
+    "description": "Assess seismic vulnerability of mechanical, electrical, and plumbing systems and design anchorage to prevent failure.",
+    "keywords": [
+      "Non-Structural Components",
+      "Anchorage Design",
+      "MEP Systems"
+    ]
+  },
+  {
+    "id": 9979,
+    "title": "Basin Effects on Seismic Ground Motion Amplification",
+    "domain": "142",
+    "description": "Model sedimentary basin effects on ground motion amplification and duration using 2D/3D wave propagation analysis.",
+    "keywords": [
+      "Basin Effects",
+      "Ground Amplification",
+      "Wave Propagation"
+    ]
+  },
+  {
+    "id": 9980,
+    "title": "Seismic Design of Cross-Laminated Timber Buildings",
+    "domain": "142",
+    "description": "Design multi-story CLT buildings with appropriate connection details and lateral load resisting systems for seismic zones.",
+    "keywords": [
+      "Cross-Laminated Timber",
+      "CLT Structures",
+      "Mass Timber Design"
+    ]
+  },
+  {
+    "id": 9981,
+    "title": "Cyclic Degradation Modeling in Structural Analysis",
+    "domain": "142",
+    "description": "Implement strength and stiffness degradation models for simulating structural component behavior under repeated seismic loading.",
+    "keywords": [
+      "Cyclic Degradation",
+      "Hysteretic Behavior",
+      "Material Modeling"
+    ]
+  },
+  {
+    "id": 9982,
+    "title": "Seismic Response of Dual System Buildings",
+    "domain": "142",
+    "description": "Analyze load distribution between moment frames and shear walls in dual system buildings under seismic excitation.",
+    "keywords": [
+      "Dual Systems",
+      "Load Distribution",
+      "Hybrid Structures"
+    ]
+  },
+  {
+    "id": 9983,
+    "title": "Seismic Isolation of Equipment and Machinery",
+    "domain": "142",
+    "description": "Design isolation systems for critical industrial equipment to prevent damage and ensure operational continuity after earthquakes.",
+    "keywords": [
+      "Equipment Isolation",
+      "Machinery Protection",
+      "Industrial Facilities"
+    ]
+  },
+  {
+    "id": 9984,
+    "title": "Geotechnical Centrifuge Modeling of Seismic Soil Behavior",
+    "domain": "142",
+    "description": "Design and conduct centrifuge model tests to study seismic soil-foundation-structure interaction at proper stress levels.",
+    "keywords": [
+      "Centrifuge Modeling",
+      "Physical Modeling",
+      "Soil Dynamics"
+    ]
+  },
+  {
+    "id": 9985,
+    "title": "Seismic Design of Reinforced Masonry Structures",
+    "domain": "142",
+    "description": "Design reinforced masonry shear walls with optimized reinforcement patterns for ductile seismic performance.",
+    "keywords": [
+      "Reinforced Masonry",
+      "Masonry Shear Walls",
+      "Seismic Design"
+    ]
+  },
+  {
+    "id": 9986,
+    "title": "P-Delta Effects in Seismic Analysis of Tall Buildings",
+    "domain": "142",
+    "description": "Account for second-order P-Delta effects in nonlinear seismic analysis and design stability measures for slender structures.",
+    "keywords": [
+      "P-Delta Effects",
+      "Geometric Nonlinearity",
+      "Stability Analysis"
+    ]
+  },
+  {
+    "id": 9987,
+    "title": "Seismic Response of Cable-Stayed Bridge Systems",
+    "domain": "142",
+    "description": "Analyze dynamic behavior of cable-stayed bridges considering cable-deck-tower interaction under seismic loading.",
+    "keywords": [
+      "Cable-Stayed Bridges",
+      "Cable Dynamics",
+      "Bridge Engineering"
+    ]
+  },
+  {
+    "id": 9988,
+    "title": "Seismic Strengthening Using Engineered Cementitious Composites",
+    "domain": "142",
+    "description": "Design retrofit solutions using high-ductility ECC materials for enhancing seismic performance of concrete structures.",
+    "keywords": [
+      "ECC Materials",
+      "Engineered Composites",
+      "Seismic Strengthening"
+    ]
+  },
+  {
+    "id": 9989,
+    "title": "Directivity Effects in Seismic Ground Motions",
+    "domain": "142",
+    "description": "Characterize forward directivity and fling-step effects in ground motions and their impact on structural response.",
+    "keywords": [
+      "Forward Directivity",
+      "Fling-Step",
+      "Ground Motion Characteristics"
+    ]
+  },
+  {
+    "id": 9990,
+    "title": "Seismic Performance of Suspended Ceiling Systems",
+    "domain": "142",
+    "description": "Design seismically robust ceiling systems with appropriate bracing and clearances to prevent collapse.",
+    "keywords": [
+      "Ceiling Systems",
+      "Non-Structural Elements",
+      "Seismic Bracing"
+    ]
+  },
+  {
+    "id": 9991,
+    "title": "Artificial Neural Networks for Seismic Damage Prediction",
+    "domain": "142",
+    "description": "Develop neural network models for rapid seismic damage assessment of buildings using structural and ground motion parameters.",
+    "keywords": [
+      "Neural Networks",
+      "Damage Prediction",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 9992,
+    "title": "Seismic Design of Composite Steel-Concrete Structures",
+    "domain": "142",
+    "description": "Design composite beam-column systems with optimized connection details for ductile seismic performance.",
+    "keywords": [
+      "Composite Structures",
+      "Steel-Concrete Systems",
+      "Connection Design"
+    ]
+  },
+  {
+    "id": 9993,
+    "title": "Vertical Ground Motion Effects on Seismic Response",
+    "domain": "142",
+    "description": "Evaluate effects of vertical ground motion components on structural elements, particularly cantilevers and long spans.",
+    "keywords": [
+      "Vertical Ground Motion",
+      "Three-Dimensional Analysis",
+      "Seismic Response"
+    ]
+  },
+  {
+    "id": 9994,
+    "title": "Seismic Evaluation of Unreinforced Masonry Parapets",
+    "domain": "142",
+    "description": "Assess out-of-plane stability of unreinforced masonry parapets and design anchoring systems to prevent collapse.",
+    "keywords": [
+      "Masonry Parapets",
+      "Out-of-Plane Behavior",
+      "Anchoring Systems"
+    ]
+  },
+  {
+    "id": 9995,
+    "title": "Seismic Response of Structures on Sloping Ground",
+    "domain": "142",
+    "description": "Analyze seismic behavior of buildings on sloping sites considering asymmetric foundation conditions and soil-structure interaction.",
+    "keywords": [
+      "Sloping Ground",
+      "Asymmetric Foundations",
+      "Site Conditions"
+    ]
+  },
+  {
+    "id": 9996,
+    "title": "Bayesian Updating of Seismic Fragility Functions",
+    "domain": "142",
+    "description": "Apply Bayesian methods to update fragility functions using post-earthquake damage observations and structural monitoring data.",
+    "keywords": [
+      "Bayesian Methods",
+      "Fragility Update",
+      "Data Integration"
+    ]
+  },
+  {
+    "id": 9997,
+    "title": "Seismic Design of Reinforced Concrete Corbels and Brackets",
+    "domain": "142",
+    "description": "Design short cantilever corbels and brackets with adequate shear-friction reinforcement for seismic loading conditions.",
+    "keywords": [
+      "Corbels",
+      "Shear-Friction",
+      "Reinforcement Design"
+    ]
+  },
+  {
+    "id": 9998,
+    "title": "Regional Seismic Loss Estimation for Urban Areas",
+    "domain": "142",
+    "description": "Develop scenario-based seismic loss models for urban regions considering building inventory, hazard, and socioeconomic factors.",
+    "keywords": [
+      "Loss Estimation",
+      "Urban Seismology",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "id": 9999,
+    "title": "Seismic Response Control Using Hybrid Damping Systems",
+    "domain": "142",
+    "description": "Design hybrid damping systems combining passive and active control devices for optimal seismic response reduction.",
+    "keywords": [
+      "Hybrid Control",
+      "Damping Systems",
+      "Active-Passive Control"
+    ]
+  },
+
+  // domain 143
+  {
+    "id": 10000,
+    "title": "Adaptive Traffic Signal Control System Design",
+    "domain": "143",
+    "description": "Develop adaptive traffic signal control algorithms that optimize signal timing based on real-time traffic flow and congestion patterns.",
+    "keywords": [
+      "Adaptive Control",
+      "Traffic Signals",
+      "Real-Time Optimization"
+    ]
+  },
+  {
+    "id": 10001,
+    "title": "Roundabout Capacity Analysis and Design Optimization",
+    "domain": "143",
+    "description": "Analyze traffic capacity of roundabouts and optimize geometric design parameters to maximize throughput and safety.",
+    "keywords": [
+      "Roundabout Design",
+      "Capacity Analysis",
+      "Geometric Optimization"
+    ]
+  },
+  {
+    "id": 10002,
+    "title": "Pedestrian Crossing Safety Enhancement Strategies",
+    "domain": "143",
+    "description": "Design enhanced pedestrian crossing facilities including refuge islands, signalization, and visibility improvements to reduce accidents.",
+    "keywords": [
+      "Pedestrian Safety",
+      "Crossing Design",
+      "Safety Enhancement"
+    ]
+  },
+  {
+    "id": 10003,
+    "title": "Bike Lane Network Planning for Urban Areas",
+    "domain": "143",
+    "description": "Plan comprehensive bicycle lane networks with consideration of connectivity, safety, and integration with public transit systems.",
+    "keywords": [
+      "Bike Lanes",
+      "Cycling Infrastructure",
+      "Network Planning"
+    ]
+  },
+  {
+    "id": 10004,
+    "title": "Traffic Microsimulation Modeling Using VISSIM",
+    "domain": "143",
+    "description": "Develop detailed traffic microsimulation models to evaluate intersection performance and test operational improvements.",
+    "keywords": [
+      "Microsimulation",
+      "VISSIM",
+      "Traffic Modeling"
+    ]
+  },
+  {
+    "id": 10005,
+    "title": "Park-and-Ride Facility Location Optimization",
+    "domain": "143",
+    "description": "Optimize locations and capacity of park-and-ride facilities to maximize transit ridership and reduce urban congestion.",
+    "keywords": [
+      "Park-and-Ride",
+      "Facility Location",
+      "Transit Planning"
+    ]
+  },
+  {
+    "id": 10006,
+    "title": "Congestion Pricing Scheme Design and Impact Analysis",
+    "domain": "143",
+    "description": "Design congestion pricing systems and analyze impacts on traffic patterns, revenue generation, and equity considerations.",
+    "keywords": [
+      "Congestion Pricing",
+      "Demand Management",
+      "Traffic Economics"
+    ]
+  },
+  {
+    "id": 10007,
+    "title": "Bus Rapid Transit Corridor Design",
+    "domain": "143",
+    "description": "Design dedicated BRT corridors with optimized station spacing, vehicle specifications, and signal priority systems.",
+    "keywords": [
+      "Bus Rapid Transit",
+      "BRT Design",
+      "Transit Corridors"
+    ]
+  },
+  {
+    "id": 10008,
+    "title": "Traffic Safety Audit and Collision Analysis",
+    "domain": "143",
+    "description": "Conduct comprehensive traffic safety audits identifying high-risk locations and develop countermeasures to reduce collisions.",
+    "keywords": [
+      "Safety Audit",
+      "Collision Analysis",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "id": 10009,
+    "title": "Intelligent Transportation Systems Architecture Design",
+    "domain": "143",
+    "description": "Design integrated ITS architecture incorporating traffic management, traveler information, and connected vehicle technologies.",
+    "keywords": [
+      "ITS Architecture",
+      "Intelligent Transportation",
+      "System Integration"
+    ]
+  },
+  {
+    "id": 10010,
+    "title": "Highway Weaving Section Capacity Evaluation",
+    "domain": "143",
+    "description": "Analyze traffic operations in freeway weaving sections and design geometric improvements to enhance capacity and safety.",
+    "keywords": [
+      "Weaving Sections",
+      "Freeway Operations",
+      "Capacity Analysis"
+    ]
+  },
+  {
+    "id": 10011,
+    "title": "Shared Mobility Service Integration Planning",
+    "domain": "143",
+    "description": "Develop frameworks for integrating ride-sharing, bike-sharing, and scooter-sharing services with existing transportation networks.",
+    "keywords": [
+      "Shared Mobility",
+      "Multimodal Integration",
+      "Mobility Services"
+    ]
+  },
+  {
+    "id": 10012,
+    "title": "Traffic Signal Coordination for Arterial Roads",
+    "domain": "143",
+    "description": "Design coordinated signal timing plans for arterial corridors to create green waves and minimize stops and delays.",
+    "keywords": [
+      "Signal Coordination",
+      "Arterial Roads",
+      "Green Wave"
+    ]
+  },
+  {
+    "id": 10013,
+    "title": "Parking Demand Forecasting and Management Strategies",
+    "domain": "143",
+    "description": "Forecast parking demand using land use and travel behavior data and develop management strategies including pricing and supply.",
+    "keywords": [
+      "Parking Demand",
+      "Parking Management",
+      "Demand Forecasting"
+    ]
+  },
+  {
+    "id": 10014,
+    "title": "Traffic Impact Assessment for New Developments",
+    "domain": "143",
+    "description": "Assess traffic impacts of proposed developments and design mitigation measures including road improvements and TDM strategies.",
+    "keywords": [
+      "Traffic Impact",
+      "Development Review",
+      "Impact Assessment"
+    ]
+  },
+  {
+    "id": 10015,
+    "title": "Complete Streets Design for Urban Contexts",
+    "domain": "143",
+    "description": "Design complete streets accommodating all users including pedestrians, cyclists, transit riders, and motorists safely.",
+    "keywords": [
+      "Complete Streets",
+      "Multimodal Design",
+      "Urban Streets"
+    ]
+  },
+  {
+    "id": 10016,
+    "title": "Dynamic Lane Management System Implementation",
+    "domain": "143",
+    "description": "Design dynamic lane management systems with reversible lanes and variable lane assignments based on traffic demand.",
+    "keywords": [
+      "Dynamic Lanes",
+      "Lane Management",
+      "Traffic Control"
+    ]
+  },
+  {
+    "id": 10017,
+    "title": "School Zone Safety Improvements and Traffic Calming",
+    "domain": "143",
+    "description": "Design traffic calming measures and enhanced signage for school zones to improve student safety during peak periods.",
+    "keywords": [
+      "School Zones",
+      "Traffic Calming",
+      "Child Safety"
+    ]
+  },
+  {
+    "id": 10018,
+    "title": "Travel Demand Modeling Using Four-Step Process",
+    "domain": "143",
+    "description": "Develop regional travel demand models incorporating trip generation, distribution, mode choice, and route assignment.",
+    "keywords": [
+      "Travel Demand",
+      "Four-Step Model",
+      "Transportation Planning"
+    ]
+  },
+  {
+    "id": 10019,
+    "title": "Smart Parking System with Real-Time Availability",
+    "domain": "143",
+    "description": "Design smart parking systems using sensors and mobile apps to guide drivers to available spaces and reduce search time.",
+    "keywords": [
+      "Smart Parking",
+      "Real-Time Information",
+      "Parking Guidance"
+    ]
+  },
+  {
+    "id": 10020,
+    "title": "Transit-Oriented Development Planning and Design",
+    "domain": "143",
+    "description": "Plan mixed-use developments around transit stations to promote walkability and reduce automobile dependence.",
+    "keywords": [
+      "TOD",
+      "Transit-Oriented Development",
+      "Land Use Planning"
+    ]
+  },
+  {
+    "id": 10021,
+    "title": "Queue Length Detection and Management Systems",
+    "domain": "143",
+    "description": "Implement queue detection systems at signalized intersections and develop adaptive strategies to manage overflow.",
+    "keywords": [
+      "Queue Detection",
+      "Traffic Management",
+      "Congestion Control"
+    ]
+  },
+  {
+    "id": 10022,
+    "title": "Pedestrian Level of Service Analysis for Sidewalks",
+    "domain": "143",
+    "description": "Evaluate pedestrian level of service on sidewalks considering width, flow, and obstructions to ensure adequate capacity.",
+    "keywords": [
+      "Pedestrian LOS",
+      "Sidewalk Design",
+      "Walkability"
+    ]
+  },
+  {
+    "id": 10023,
+    "title": "Automated Vehicle Integration into Traffic Networks",
+    "domain": "143",
+    "description": "Analyze impacts of automated vehicles on traffic flow and develop infrastructure requirements for mixed autonomy traffic.",
+    "keywords": [
+      "Automated Vehicles",
+      "Autonomous Driving",
+      "Future Mobility"
+    ]
+  },
+  {
+    "id": 10024,
+    "title": "Freight Traffic Management and Truck Route Planning",
+    "domain": "143",
+    "description": "Design dedicated truck routes and develop freight traffic management strategies to separate heavy vehicles from passenger traffic.",
+    "keywords": [
+      "Freight Traffic",
+      "Truck Routes",
+      "Goods Movement"
+    ]
+  },
+  {
+    "id": 10025,
+    "title": "Variable Speed Limit Systems for Highway Safety",
+    "domain": "143",
+    "description": "Design variable speed limit systems that adjust posted speeds based on weather, congestion, and incident conditions.",
+    "keywords": [
+      "Variable Speed Limits",
+      "Highway Safety",
+      "Adaptive Control"
+    ]
+  },
+  {
+    "id": 10026,
+    "title": "Intersection Conflict Point Analysis and Mitigation",
+    "domain": "143",
+    "description": "Identify and analyze vehicle-vehicle and vehicle-pedestrian conflict points at intersections to design safety improvements.",
+    "keywords": [
+      "Conflict Points",
+      "Intersection Safety",
+      "Safety Analysis"
+    ]
+  },
+  {
+    "id": 10027,
+    "title": "Public Transit Scheduling and Frequency Optimization",
+    "domain": "143",
+    "description": "Optimize transit service schedules and frequencies to balance passenger demand, operating costs, and service reliability.",
+    "keywords": [
+      "Transit Scheduling",
+      "Service Frequency",
+      "Operations Optimization"
+    ]
+  },
+  {
+    "id": 10028,
+    "title": "Traffic Incident Management and Response Planning",
+    "domain": "143",
+    "description": "Develop incident management plans with rapid response protocols to minimize traffic disruption from crashes and breakdowns.",
+    "keywords": [
+      "Incident Management",
+      "Emergency Response",
+      "Traffic Operations"
+    ]
+  },
+  {
+    "id": 10029,
+    "title": "Bicycle Intersection Design for Enhanced Safety",
+    "domain": "143",
+    "description": "Design protected bicycle intersections with separate signal phases and physical separation from vehicle traffic.",
+    "keywords": [
+      "Bicycle Safety",
+      "Intersection Design",
+      "Protected Intersections"
+    ]
+  },
+  {
+    "id": 10030,
+    "title": "Ramp Metering Strategy Development and Evaluation",
+    "domain": "143",
+    "description": "Design ramp metering systems to regulate freeway entrance flows and maintain optimal mainline traffic conditions.",
+    "keywords": [
+      "Ramp Metering",
+      "Freeway Management",
+      "Access Control"
+    ]
+  },
+  {
+    "id": 10031,
+    "title": "Mobility-as-a-Service Platform Design",
+    "domain": "143",
+    "description": "Develop integrated MaaS platforms combining multiple transportation modes into unified user experience with single payment.",
+    "keywords": [
+      "MaaS",
+      "Mobility Platform",
+      "Service Integration"
+    ]
+  },
+  {
+    "id": 10032,
+    "title": "Traffic Flow Theory Application to Bottleneck Analysis",
+    "domain": "143",
+    "description": "Apply fundamental traffic flow relationships to analyze bottleneck formation and develop strategies to increase throughput.",
+    "keywords": [
+      "Traffic Flow Theory",
+      "Bottleneck Analysis",
+      "Capacity Management"
+    ]
+  },
+  {
+    "id": 10033,
+    "title": "Pedestrianization Strategy for City Centers",
+    "domain": "143",
+    "description": "Design pedestrian-only zones in urban cores with consideration of access for deliveries, emergency vehicles, and transit.",
+    "keywords": [
+      "Pedestrianization",
+      "Car-Free Zones",
+      "Urban Design"
+    ]
+  },
+  {
+    "id": 10034,
+    "title": "Connected Vehicle Technology Implementation Planning",
+    "domain": "143",
+    "description": "Plan deployment of V2V and V2I communication systems to enable cooperative traffic management and safety applications.",
+    "keywords": [
+      "Connected Vehicles",
+      "V2V Communication",
+      "V2I Systems"
+    ]
+  },
+  {
+    "id": 10035,
+    "title": "Traffic Data Collection and Quality Assessment",
+    "domain": "143",
+    "description": "Design traffic monitoring programs using various technologies and develop data quality assurance procedures.",
+    "keywords": [
+      "Data Collection",
+      "Traffic Monitoring",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "id": 10036,
+    "title": "Multi-Modal Level of Service Evaluation",
+    "domain": "143",
+    "description": "Evaluate level of service for all transportation modes including vehicles, transit, bicycles, and pedestrians at facilities.",
+    "keywords": [
+      "Multi-Modal LOS",
+      "Service Quality",
+      "Performance Metrics"
+    ]
+  },
+  {
+    "id": 10037,
+    "title": "Traffic Calming Design for Residential Neighborhoods",
+    "domain": "143",
+    "description": "Design traffic calming measures including speed humps, chicanes, and narrowing to reduce vehicle speeds in residential areas.",
+    "keywords": [
+      "Traffic Calming",
+      "Residential Streets",
+      "Speed Reduction"
+    ]
+  },
+  {
+    "id": 10038,
+    "title": "Express Lane and HOV Lane Operations Analysis",
+    "domain": "143",
+    "description": "Analyze operational performance of express and HOV lanes and optimize eligibility criteria and pricing strategies.",
+    "keywords": [
+      "Express Lanes",
+      "HOV Lanes",
+      "Managed Lanes"
+    ]
+  },
+  {
+    "id": 10039,
+    "title": "Pedestrian Crossing Behavior and Compliance Studies",
+    "domain": "143",
+    "description": "Conduct behavioral studies of pedestrian crossing patterns and design interventions to improve compliance with signals.",
+    "keywords": [
+      "Pedestrian Behavior",
+      "Crossing Compliance",
+      "Behavioral Studies"
+    ]
+  },
+  {
+    "id": 10040,
+    "title": "Travel Time Reliability Analysis and Improvement",
+    "domain": "143",
+    "description": "Analyze travel time reliability on corridors and develop strategies to reduce variability and improve predictability.",
+    "keywords": [
+      "Travel Time Reliability",
+      "Performance Measurement",
+      "Reliability Analysis"
+    ]
+  },
+  {
+    "id": 10041,
+    "title": "Microtransit Service Design and Route Optimization",
+    "domain": "143",
+    "description": "Design on-demand microtransit services with dynamic routing algorithms to provide flexible public transportation.",
+    "keywords": [
+      "Microtransit",
+      "On-Demand Transit",
+      "Dynamic Routing"
+    ]
+  },
+  {
+    "id": 10042,
+    "title": "Road Diet Implementation and Traffic Reallocation",
+    "domain": "143",
+    "description": "Design road diet configurations reducing travel lanes while adding bicycle facilities and wider sidewalks.",
+    "keywords": [
+      "Road Diet",
+      "Lane Reduction",
+      "Street Redesign"
+    ]
+  },
+  {
+    "id": 10043,
+    "title": "Traffic Signal Timing Optimization Using AI",
+    "domain": "143",
+    "description": "Develop artificial intelligence algorithms to optimize traffic signal timing based on predicted traffic patterns.",
+    "keywords": [
+      "AI Optimization",
+      "Signal Timing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 10044,
+    "title": "Curbside Management Strategy for Urban Areas",
+    "domain": "143",
+    "description": "Design dynamic curbside management strategies balancing competing demands from parking, loading, transit, and ride-hailing.",
+    "keywords": [
+      "Curbside Management",
+      "Urban Curbs",
+      "Space Allocation"
+    ]
+  },
+  {
+    "id": 10045,
+    "title": "Origin-Destination Matrix Estimation from Traffic Counts",
+    "domain": "143",
+    "description": "Estimate origin-destination matrices using traffic count data and optimize for network assignment applications.",
+    "keywords": [
+      "OD Matrix",
+      "Matrix Estimation",
+      "Traffic Analysis"
+    ]
+  },
+  {
+    "id": 10046,
+    "title": "Blind Spot Detection Systems for Large Vehicles",
+    "domain": "143",
+    "description": "Design and evaluate blind spot warning systems for trucks and buses to reduce turning and merging collisions.",
+    "keywords": [
+      "Blind Spot Detection",
+      "Heavy Vehicles",
+      "Safety Systems"
+    ]
+  },
+  {
+    "id": 10047,
+    "title": "Electric Vehicle Charging Infrastructure Planning",
+    "domain": "143",
+    "description": "Plan optimal locations and capacity for EV charging stations considering demand, grid constraints, and accessibility.",
+    "keywords": [
+      "EV Charging",
+      "Electric Vehicles",
+      "Infrastructure Planning"
+    ]
+  },
+  {
+    "id": 10048,
+    "title": "Traffic Noise Modeling and Mitigation Design",
+    "domain": "143",
+    "description": "Model traffic noise propagation and design mitigation measures including barriers, berms, and quiet pavement.",
+    "keywords": [
+      "Traffic Noise",
+      "Noise Barriers",
+      "Acoustic Design"
+    ]
+  },
+  {
+    "id": 10049,
+    "title": "Shared Space Design for Urban Intersections",
+    "domain": "143",
+    "description": "Design shared space intersections with minimal traffic control devices relying on user negotiation and courtesy.",
+    "keywords": [
+      "Shared Space",
+      "Urban Design",
+      "Traffic Psychology"
+    ]
+  },
+  {
+    "id": 10050,
+    "title": "Transit Signal Priority System Implementation",
+    "domain": "143",
+    "description": "Design transit signal priority systems that extend green time or provide early green for approaching buses.",
+    "keywords": [
+      "Transit Priority",
+      "Signal Priority",
+      "Bus Operations"
+    ]
+  },
+  {
+    "id": 10051,
+    "title": "Vulnerable Road User Detection Technology Evaluation",
+    "domain": "143",
+    "description": "Evaluate detection technologies for pedestrians and cyclists at intersections to enhance safety systems.",
+    "keywords": [
+      "Vulnerable Users",
+      "Detection Systems",
+      "Safety Technology"
+    ]
+  },
+  {
+    "id": 10052,
+    "title": "Highway Capacity Manual Analysis Procedures",
+    "domain": "143",
+    "description": "Apply HCM methodologies to analyze capacity and level of service for various facility types including urban streets.",
+    "keywords": [
+      "Highway Capacity Manual",
+      "HCM Analysis",
+      "Capacity Evaluation"
+    ]
+  },
+  {
+    "id": 10053,
+    "title": "Last-Mile Delivery Optimization for Urban Logistics",
+    "domain": "143",
+    "description": "Optimize last-mile delivery routes and develop micro-hub strategies to reduce congestion from delivery vehicles.",
+    "keywords": [
+      "Last-Mile Delivery",
+      "Urban Logistics",
+      "Delivery Optimization"
+    ]
+  },
+  {
+    "id": 10054,
+    "title": "Work Zone Traffic Management and Control Plans",
+    "domain": "143",
+    "description": "Design temporary traffic control plans for construction work zones ensuring safety and maintaining traffic flow.",
+    "keywords": [
+      "Work Zones",
+      "Traffic Control",
+      "Construction Safety"
+    ]
+  },
+  {
+    "id": 10055,
+    "title": "Pedestrian Bridge and Tunnel Design for Busy Corridors",
+    "domain": "143",
+    "description": "Design grade-separated pedestrian facilities for high-volume corridors balancing accessibility and safety.",
+    "keywords": [
+      "Pedestrian Bridges",
+      "Grade Separation",
+      "Pedestrian Infrastructure"
+    ]
+  },
+  {
+    "id": 10056,
+    "title": "Traffic Performance Measures Dashboard Development",
+    "domain": "143",
+    "description": "Develop real-time traffic performance dashboards visualizing key metrics including congestion, incidents, and travel times.",
+    "keywords": [
+      "Performance Dashboards",
+      "Traffic Monitoring",
+      "Data Visualization"
+    ]
+  },
+  {
+    "id": 10057,
+    "title": "Autonomous Shuttle Service for Campus Environments",
+    "domain": "143",
+    "description": "Design autonomous shuttle services for university campuses or business parks with dedicated routes and stops.",
+    "keywords": [
+      "Autonomous Shuttles",
+      "Campus Transit",
+      "Driverless Vehicles"
+    ]
+  },
+  {
+    "id": 10058,
+    "title": "Road User Charging Systems Design and Implementation",
+    "domain": "143",
+    "description": "Design distance-based or vehicle-type-based road charging systems using automatic vehicle identification technology.",
+    "keywords": [
+      "Road Charging",
+      "User Fees",
+      "Tolling Systems"
+    ]
+  },
+  {
+    "id": 10059,
+    "title": "Traffic Safety Countermeasure Effectiveness Evaluation",
+    "domain": "143",
+    "description": "Evaluate before-after safety performance of implemented countermeasures using crash modification factors.",
+    "keywords": [
+      "Safety Countermeasures",
+      "Effectiveness Evaluation",
+      "Crash Reduction"
+    ]
+  },
+  {
+    "id": 10060,
+    "title": "Multimodal Transportation Hub Design",
+    "domain": "143",
+    "description": "Design integrated multimodal hubs connecting buses, trains, bicycles, and pedestrian facilities with seamless transfers.",
+    "keywords": [
+      "Multimodal Hubs",
+      "Transit Centers",
+      "Intermodal Facilities"
+    ]
+  },
+  {
+    "id": 10061,
+    "title": "Bicycle Boulevard Network Design and Implementation",
+    "domain": "143",
+    "description": "Design low-stress bicycle boulevards on residential streets with traffic calming and priority treatments for cyclists.",
+    "keywords": [
+      "Bicycle Boulevards",
+      "Low-Stress Networks",
+      "Cycling Infrastructure"
+    ]
+  },
+  {
+    "id": 10062,
+    "title": "Real-Time Traffic Prediction Using Deep Learning",
+    "domain": "143",
+    "description": "Develop deep learning models for short-term traffic prediction using historical and real-time sensor data.",
+    "keywords": [
+      "Traffic Prediction",
+      "Deep Learning",
+      "Predictive Analytics"
+    ]
+  },
+  {
+    "id": 10063,
+    "title": "Emergency Vehicle Preemption System Design",
+    "domain": "143",
+    "description": "Design signal preemption systems that provide green lights for emergency vehicles to reduce response times.",
+    "keywords": [
+      "Emergency Preemption",
+      "Signal Control",
+      "Emergency Services"
+    ]
+  },
+  {
+    "id": 10064,
+    "title": "Pedestrian Scramble Crossing Analysis and Design",
+    "domain": "143",
+    "description": "Analyze pedestrian scramble crossings allowing diagonal movements and optimize signal timing for efficiency.",
+    "keywords": [
+      "Scramble Crossings",
+      "Diagonal Crossings",
+      "Pedestrian Signals"
+    ]
+  },
+  {
+    "id": 10065,
+    "title": "Transportation Demand Management Program Development",
+    "domain": "143",
+    "description": "Develop comprehensive TDM programs including carpooling, flex schedules, and incentives to reduce peak hour travel.",
+    "keywords": [
+      "TDM Programs",
+      "Demand Management",
+      "Travel Reduction"
+    ]
+  },
+  {
+    "id": 10066,
+    "title": "Accessible Pedestrian Signal Design for Visually Impaired",
+    "domain": "143",
+    "description": "Design accessible pedestrian signals with audible and tactile features for safe crossing by visually impaired users.",
+    "keywords": [
+      "Accessible Signals",
+      "APS Design",
+      "Universal Design"
+    ]
+  },
+  {
+    "id": 10067,
+    "title": "Traffic Assignment Modeling for Network Planning",
+    "domain": "143",
+    "description": "Develop traffic assignment models distributing trips across networks using equilibrium or stochastic methods.",
+    "keywords": [
+      "Traffic Assignment",
+      "Network Modeling",
+      "Route Choice"
+    ]
+  },
+  {
+    "id": 10068,
+    "title": "Speed Zone Study and Posted Speed Limit Determination",
+    "domain": "143",
+    "description": "Conduct speed studies and determine appropriate posted speed limits based on 85th percentile speeds and safety factors.",
+    "keywords": [
+      "Speed Studies",
+      "Speed Limits",
+      "Speed Management"
+    ]
+  },
+  {
+    "id": 10069,
+    "title": "Light Rail Transit Station Area Planning",
+    "domain": "143",
+    "description": "Plan station area development for light rail systems maximizing walkability, density, and transit access.",
+    "keywords": [
+      "Light Rail",
+      "Station Planning",
+      "Transit Development"
+    ]
+  },
+  {
+    "id": 10070,
+    "title": "Traffic Conflict Technique for Safety Analysis",
+    "domain": "143",
+    "description": "Apply traffic conflict observation methods as surrogate safety measures to identify hazardous locations.",
+    "keywords": [
+      "Traffic Conflicts",
+      "Surrogate Safety",
+      "Observational Studies"
+    ]
+  },
+  {
+    "id": 10071,
+    "title": "Mobility Data Analytics Platform Development",
+    "domain": "143",
+    "description": "Develop analytics platforms processing GPS, mobile, and sensor data to generate mobility insights and metrics.",
+    "keywords": [
+      "Mobility Analytics",
+      "Big Data",
+      "Data Platform"
+    ]
+  },
+  {
+    "id": 10072,
+    "title": "Protected Left-Turn Phase Optimization",
+    "domain": "143",
+    "description": "Analyze need for protected left-turn phases and optimize phase sequences to balance safety and efficiency.",
+    "keywords": [
+      "Left-Turn Phasing",
+      "Signal Phasing",
+      "Intersection Control"
+    ]
+  },
+  {
+    "id": 10073,
+    "title": "Floating Car Data Analysis for Travel Time Estimation",
+    "domain": "143",
+    "description": "Analyze floating car data from GPS-equipped vehicles to estimate corridor travel times and identify bottlenecks.",
+    "keywords": [
+      "Floating Car Data",
+      "Travel Time",
+      "Probe Data"
+    ]
+  },
+  {
+    "id": 10074,
+    "title": "Carpool Lane Enforcement Strategy Development",
+    "domain": "143",
+    "description": "Develop enforcement strategies for HOV lanes using automated detection and violation processing systems.",
+    "keywords": [
+      "HOV Enforcement",
+      "Carpool Lanes",
+      "Automated Enforcement"
+    ]
+  },
+  {
+    "id": 10075,
+    "title": "Vision Zero Action Plan Development",
+    "domain": "143",
+    "description": "Develop comprehensive Vision Zero plans targeting elimination of traffic fatalities through engineering and policy measures.",
+    "keywords": [
+      "Vision Zero",
+      "Traffic Safety",
+      "Safety Planning"
+    ]
+  },
+  {
+    "id": 10076,
+    "title": "Truck Parking Demand Analysis and Facility Planning",
+    "domain": "143",
+    "description": "Analyze truck parking demand along freight corridors and plan adequate rest area and parking facilities.",
+    "keywords": [
+      "Truck Parking",
+      "Freight Planning",
+      "Rest Areas"
+    ]
+  },
+  {
+    "id": 10077,
+    "title": "Crosswalk Lighting Design for Nighttime Visibility",
+    "domain": "143",
+    "description": "Design enhanced lighting systems for crosswalks improving pedestrian visibility during nighttime hours.",
+    "keywords": [
+      "Crosswalk Lighting",
+      "Pedestrian Visibility",
+      "Safety Lighting"
+    ]
+  },
+  {
+    "id": 10078,
+    "title": "Activity-Based Travel Demand Modeling",
+    "domain": "143",
+    "description": "Develop activity-based models simulating individual travel choices and daily activity patterns for demand forecasting.",
+    "keywords": [
+      "Activity-Based Model",
+      "Travel Behavior",
+      "Microsimulation"
+    ]
+  },
+  {
+    "id": 10079,
+    "title": "Neighborhood Greenway Design for Active Transportation",
+    "domain": "143",
+    "description": "Design neighborhood greenways prioritizing bicyclists and pedestrians on low-traffic residential streets.",
+    "keywords": [
+      "Greenways",
+      "Active Transportation",
+      "Neighborhood Streets"
+    ]
+  },
+  {
+    "id": 10080,
+    "title": "Corridor Travel Time Index Calculation and Monitoring",
+    "domain": "143",
+    "description": "Calculate travel time indices for corridors to monitor congestion trends and evaluate improvement projects.",
+    "keywords": [
+      "Travel Time Index",
+      "Congestion Monitoring",
+      "Performance Measurement"
+    ]
+  },
+  {
+    "id": 10081,
+    "title": "Dedicated Short-Range Communication System Design",
+    "domain": "143",
+    "description": "Design DSRC infrastructure for vehicle-to-infrastructure communication enabling safety and mobility applications.",
+    "keywords": [
+      "DSRC",
+      "Vehicle Communication",
+      "ITS Infrastructure"
+    ]
+  },
+  {
+    "id": 10082,
+    "title": "Bicycle and Pedestrian Counting Program Implementation",
+    "domain": "143",
+    "description": "Implement automated counting programs for bicycles and pedestrians to track active transportation trends.",
+    "keywords": [
+      "Active Transportation Counts",
+      "Bicycle Counting",
+      "Pedestrian Monitoring"
+    ]
+  },
+  {
+    "id": 10083,
+    "title": "Traffic Responsive Ramp Metering Algorithm Development",
+    "domain": "143",
+    "description": "Develop responsive ramp metering algorithms that adjust rates based on real-time mainline traffic conditions.",
+    "keywords": [
+      "Responsive Metering",
+      "Ramp Control",
+      "Adaptive Systems"
+    ]
+  },
+  {
+    "id": 10084,
+    "title": "Age-Friendly Street Design for Elderly Mobility",
+    "domain": "143",
+    "description": "Design streets accommodating elderly users with longer crossing times, seating, and enhanced visibility features.",
+    "keywords": [
+      "Age-Friendly Design",
+      "Elderly Mobility",
+      "Accessible Streets"
+    ]
+  },
+   {
+    "id": 10085,
+    "title": "Dynamic Message Sign Content Optimization",
+    "domain": "143",
+    "description": "Optimize dynamic message sign content and placement strategies to effectively communicate traveler information.",
+    "keywords": [
+      "Dynamic Message Signs",
+      "Traveler Information",
+      "Communication Strategy"
+]
+},
+{
+"id": 10086,
+"title": "Transit Network Redesign for Service Efficiency",
+"domain": "143",
+"description": "Redesign transit networks optimizing route structures and frequencies to improve coverage and ridership efficiency.",
+"keywords": [
+"Transit Redesign",
+"Network Optimization",
+"Route Planning"
+]
+},
+{
+"id": 10087,
+"title": "Wrong-Way Driving Detection and Prevention Systems",
+"domain": "143",
+"description": "Design detection systems and countermeasures to prevent wrong-way driving incidents on freeways and ramps.",
+"keywords": [
+"Wrong-Way Driving",
+"Detection Systems",
+"Highway Safety"
+]
+},
+{
+"id": 10088,
+"title": "Curb Ramp Design Compliance with ADA Standards",
+"domain": "143",
+"description": "Design compliant curb ramps meeting ADA requirements for slope, width, and detectable warning surfaces.",
+"keywords": [
+"Curb Ramps",
+"ADA Compliance",
+"Accessibility Design"
+]
+},
+{
+"id": 10089,
+"title": "Traffic Operations Center Design and Workflow",
+"domain": "143",
+"description": "Design traffic operations centers with optimized workflows, technology integration, and operator interfaces.",
+"keywords": [
+"Operations Center",
+"Traffic Management",
+"Control Room Design"
+]
+},
+{
+"id": 10090,
+"title": "Motorcycle Safety Enhancement Strategies",
+"domain": "143",
+"description": "Develop safety strategies for motorcyclists including roadway design features and awareness campaigns.",
+"keywords": [
+"Motorcycle Safety",
+"Two-Wheeler Safety",
+"Vulnerable Users"
+]
+},
+{
+"id": 10091,
+"title": "Signal Warrant Analysis for New Traffic Signals",
+"domain": "143",
+"description": "Conduct traffic signal warrant studies to determine justification for installing new traffic control signals.",
+"keywords": [
+"Signal Warrants",
+"Traffic Control",
+"Intersection Analysis"
+]
+},
+{
+"id": 10092,
+"title": "Platooning Technology Impact on Highway Capacity",
+"domain": "143",
+"description": "Analyze capacity impacts of truck platooning technology and develop operational strategies for implementation.",
+"keywords": [
+"Vehicle Platooning",
+"Truck Technology",
+"Capacity Analysis"
+]
+},
+{
+"id": 10093,
+"title": "Bicycle Parking Facility Design and Capacity Planning",
+"domain": "143",
+"description": "Design bicycle parking facilities with adequate capacity, security features, and convenient access to destinations.",
+"keywords": [
+"Bicycle Parking",
+"Bike Facilities",
+"End-of-Trip Facilities"
+]
+},
+{
+"id": 10094,
+"title": "Reversible Lane Operations Planning and Control",
+"domain": "143",
+"description": "Plan reversible lane systems for commuter corridors with appropriate gates, signs, and operational protocols.",
+"keywords": [
+"Reversible Lanes",
+"Contraflow Operations",
+"Lane Management"
+]
+},
+{
+"id": 10095,
+"title": "School Bus Route Optimization and Safety Analysis",
+"domain": "143",
+"description": "Optimize school bus routes minimizing travel times while ensuring safe stop locations and crossing facilities.",
+"keywords": [
+"School Bus Routes",
+"Route Optimization",
+"Student Safety"
+]
+},
+{
+"id": 10096,
+"title": "Traffic Simulation for Special Event Planning",
+"domain": "143",
+"description": "Develop traffic simulation models for special events to plan ingress/egress routes and temporary traffic control.",
+"keywords": [
+"Special Events",
+"Event Traffic",
+"Simulation Planning"
+]
+},
+{
+"id": 10097,
+"title": "Pedestrian Countdown Signal Timing Optimization",
+"domain": "143",
+"description": "Optimize pedestrian countdown timer displays and clearance intervals to improve crossing safety and compliance.",
+"keywords": [
+"Countdown Signals",
+"Pedestrian Timing",
+"Clearance Intervals"
+]
+},
+{
+"id": 10098,
+"title": "Freight-Efficient Corridor Design and Operations",
+"domain": "143",
+"description": "Design dedicated freight corridors with truck-optimized geometry, signalization, and information systems.",
+"keywords": [
+"Freight Corridors",
+"Truck Operations",
+"Goods Movement"
+]
+},
+{
+"id": 10099,
+"title": "Mobile Application for Real-Time Transit Information",
+"domain": "143",
+"description": "Develop mobile applications providing real-time transit arrival predictions, service alerts, and trip planning.",
+"keywords": [
+"Transit Apps",
+"Real-Time Information",
+"Mobile Technology"
+]
+},
+{
+"id": 10100,
+"title": "Longitudinal Rumble Strip Design for Highway Safety",
+"domain": "143",
+"description": "Design centerline and edge line rumble strips to alert drowsy or distracted drivers preventing run-off-road crashes.",
+"keywords": [
+"Rumble Strips",
+"Highway Safety",
+"Pavement Markings"
+]
+},
+{
+"id": 10101,
+"title": "Equity Analysis for Transportation Investments",
+"domain": "143",
+"description": "Conduct equity analyses evaluating distribution of transportation benefits and burdens across demographic groups.",
+"keywords": [
+"Transportation Equity",
+"Environmental Justice",
+"Social Impact"
+]
+},
+{
+"id": 10102,
+"title": "Leading Pedestrian Interval Implementation Study",
+"domain": "143",
+"description": "Evaluate effectiveness of leading pedestrian intervals giving pedestrians head start at intersections.",
+"keywords": [
+"Leading Pedestrian Interval",
+"LPI",
+"Pedestrian Priority"
+]
+},
+{
+"id": 10103,
+"title": "Carbon Emission Reduction Through Traffic Management",
+"domain": "143",
+"description": "Develop traffic management strategies to reduce vehicle emissions including signal optimization and speed management.",
+"keywords": [
+"Carbon Emissions",
+"Environmental Impact",
+"Sustainable Mobility"
+]
+},
+{
+"id": 10104,
+"title": "Automated Traffic Enforcement System Deployment",
+"domain": "143",
+"description": "Plan deployment of automated enforcement for red lights and speeding with site selection and legal frameworks.",
+"keywords": [
+"Automated Enforcement",
+"Red Light Cameras",
+"Speed Cameras"
+]
+},
+{
+"id": 10105,
+"title": "Intersection Sight Distance Analysis and Improvement",
+"domain": "143",
+"description": "Analyze sight distance at intersections and design improvements removing obstructions to ensure safe gaps.",
+"keywords": [
+"Sight Distance",
+"Intersection Safety",
+"Visibility Analysis"
+]
+},
+{
+"id": 10106,
+"title": "Mobility Hub Design Integrating Multiple Modes",
+"domain": "143",
+"description": "Design mobility hubs providing bike-share, car-share, scooters, and transit connections with unified branding.",
+"keywords": [
+"Mobility Hubs",
+"Mode Integration",
+"Shared Mobility"
+]
+},
+{
+"id": 10107,
+"title": "Traffic Data Fusion from Multiple Sources",
+"domain": "143",
+"description": "Develop data fusion algorithms combining loop detectors, cameras, GPS probes, and crowdsourced data for traffic state estimation.",
+"keywords": [
+"Data Fusion",
+"Multi-Source Data",
+"Traffic Estimation"
+]
+},
+{
+"id": 10108,
+"title": "Pavement Marking Retroreflectivity Management",
+"domain": "143",
+"description": "Develop management programs for pavement markings ensuring adequate retroreflectivity for nighttime visibility.",
+"keywords": [
+"Pavement Markings",
+"Retroreflectivity",
+"Marking Management"
+]
+},
+{
+"id": 10109,
+"title": "Micromobility Device Regulation and Integration",
+"domain": "143",
+"description": "Develop regulations for e-scooters and e-bikes including parking, speed limits, and facility requirements.",
+"keywords": [
+"Micromobility",
+"E-Scooters",
+"Regulatory Framework"
+]
+},
+{
+"id": 10110,
+"title": "Transit Stop Consolidation Analysis",
+"domain": "143",
+"description": "Analyze bus stop spacing and consolidate stops to improve travel times while maintaining accessibility.",
+"keywords": [
+"Stop Consolidation",
+"Bus Stops",
+"Transit Operations"
+]
+},
+{
+"id": 10111,
+"title": "Diverging Diamond Interchange Design and Analysis",
+"domain": "143",
+"description": "Design diverging diamond interchanges optimizing traffic flow with crossover movements reducing conflict points.",
+"keywords": [
+"Diverging Diamond",
+"DDI",
+"Interchange Design"
+]
+},
+{
+"id": 10112,
+"title": "Public Engagement Strategy for Transportation Projects",
+"domain": "143",
+"description": "Develop comprehensive public engagement programs for transportation projects using multiple outreach methods.",
+"keywords": [
+"Public Engagement",
+"Community Outreach",
+"Stakeholder Involvement"
+]
+},
+{
+"id": 10113,
+"title": "Traffic Sign Visibility and Placement Optimization",
+"domain": "143",
+"description": "Optimize traffic sign placement, size, and retroreflectivity for maximum driver comprehension and response time.",
+"keywords": [
+"Traffic Signs",
+"Sign Visibility",
+"Sign Placement"
+]
+},
+{
+"id": 10114,
+"title": "Cooperative Adaptive Cruise Control System Evaluation",
+"domain": "143",
+"description": "Evaluate impacts of cooperative adaptive cruise control on traffic flow stability and highway capacity.",
+"keywords": [
+"Adaptive Cruise Control",
+"CACC",
+"Vehicle Automation"
+]
+},
+{
+"id": 10115,
+"title": "Driveway Access Management and Spacing Standards",
+"domain": "143",
+"description": "Develop access management standards for driveway spacing and design to reduce conflict points on arterials.",
+"keywords": [
+"Access Management",
+"Driveway Design",
+"Arterial Operations"
+]
+},
+{
+"id": 10116,
+"title": "Bicycle Level of Traffic Stress Network Analysis",
+"domain": "143",
+"description": "Analyze bicycle network stress levels identifying low-stress routes and barriers to create connected networks.",
+"keywords": [
+"Traffic Stress",
+"Bicycle Networks",
+"LTS Analysis"
+]
+},
+{
+"id": 10117,
+"title": "Queue Warning Systems for Highway Approaches",
+"domain": "143",
+"description": "Design queue warning systems detecting slow traffic and alerting approaching drivers to reduce rear-end collisions.",
+"keywords": [
+"Queue Warning",
+"Highway Safety",
+"Warning Systems"
+]
+},
+{
+"id": 10118,
+"title": "Carsharing Service Feasibility and Location Planning",
+"domain": "143",
+"description": "Conduct feasibility studies for carsharing services and optimize vehicle station locations for maximum utilization.",
+"keywords": [
+"Carsharing",
+"Shared Vehicles",
+"Location Planning"
+]
+},
+{
+"id": 10119,
+"title": "Arterial Performance Measurement and Benchmarking",
+"domain": "143",
+"description": "Establish performance measurement programs for arterials tracking speed, delay, and reliability metrics.",
+"keywords": [
+"Arterial Performance",
+"Performance Metrics",
+"Benchmarking"
+]
+},
+{
+"id": 10120,
+"title": "Emergency Evacuation Route Planning and Modeling",
+"domain": "143",
+"description": "Develop emergency evacuation plans with optimized routes and traffic control strategies for disaster scenarios.",
+"keywords": [
+"Evacuation Planning",
+"Emergency Routes",
+"Disaster Response"
+]
+},
+{
+"id": 10121,
+"title": "Smart Crosswalk with LED Lighting and Detection",
+"domain": "143",
+"description": "Design smart crosswalks with LED-illuminated markings and pedestrian detection to enhance visibility and safety.",
+"keywords": [
+"Smart Crosswalks",
+"LED Systems",
+"Pedestrian Detection"
+]
+},
+{
+"id": 10122,
+"title": "Trip Generation Rate Analysis for Mixed-Use Development",
+"domain": "143",
+"description": "Analyze trip generation characteristics of mixed-use developments considering internal capture and mode share.",
+"keywords": [
+"Trip Generation",
+"Mixed-Use Development",
+"Travel Behavior"
+]
+},
+{
+"id": 10123,
+"title": "Variable Message Sign Coordination Strategy",
+"domain": "143",
+"description": "Develop coordinated messaging strategies across VMS network providing consistent traveler information.",
+"keywords": [
+"VMS Coordination",
+"Message Strategy",
+"Information Systems"
+]
+},
+{
+"id": 10124,
+"title": "Pedestrian Safety at Mid-Block Crossing Locations",
+"domain": "143",
+"description": "Design mid-block crossing facilities with enhanced visibility, signage, and potential signals for pedestrian safety.",
+"keywords": [
+"Mid-Block Crossings",
+"Pedestrian Safety",
+"Crossing Design"
+]
+},
+{
+"id": 10125,
+"title": "Travel Time Prediction Using Neural Networks",
+"domain": "143",
+"description": "Develop neural network models for travel time prediction incorporating weather, incidents, and temporal patterns.",
+"keywords": [
+"Neural Networks",
+"Travel Time Prediction",
+"AI Applications"
+]
+},
+{
+"id": 10126,
+"title": "Cycle Track Design with Physical Separation",
+"domain": "143",
+"description": "Design physically separated cycle tracks using barriers, planters, or grade separation for enhanced cyclist safety.",
+"keywords": [
+"Cycle Tracks",
+"Protected Bike Lanes",
+"Physical Separation"
+]
+},
+{
+"id": 10127,
+"title": "Transportation Network Company Impact Assessment",
+"domain": "143",
+"description": "Assess impacts of ride-hailing services on traffic congestion, transit ridership, and curbside demand.",
+"keywords": [
+"Ride-Hailing",
+"TNC Impact",
+"Mobility Services"
+]
+},
+{
+"id": 10128,
+"title": "Wildlife Crossing Structure Planning and Design",
+"domain": "143",
+"description": "Design wildlife crossing structures including overpasses and underpasses to reduce vehicle-animal collisions.",
+"keywords": [
+"Wildlife Crossings",
+"Ecological Design",
+"Animal Safety"
+]
+},
+{
+"id": 10129,
+"title": "Intersection Turning Movement Count Analysis",
+"domain": "143",
+"description": "Conduct turning movement counts and analyze intersection operations for capacity and timing optimization.",
+"keywords": [
+"Turning Movements",
+"Count Studies",
+"Intersection Analysis"
+]
+},
+{
+"id": 10130,
+"title": "Active Traffic Management System Implementation",
+"domain": "143",
+"description": "Implement active traffic management with variable speed limits, lane control, and dynamic routing guidance.",
+"keywords": [
+"Active Traffic Management",
+"ATM Systems",
+"Dynamic Control"
+]
+},
+{
+"id": 10131,
+"title": "Transit Fare Structure Optimization Analysis",
+"domain": "143",
+"description": "Analyze and optimize transit fare structures balancing revenue, ridership, and equity considerations.",
+"keywords": [
+"Fare Structure",
+"Transit Pricing",
+"Revenue Optimization"
+]
+},
+{
+"id": 10132,
+"title": "Vulnerable Population Mobility Needs Assessment",
+"domain": "143",
+"description": "Assess transportation needs of vulnerable populations including elderly, disabled, and low-income communities.",
+"keywords": [
+"Vulnerable Populations",
+"Mobility Access",
+"Social Equity"
+]
+},
+{
+"id": 10133,
+"title": "Toll Plaza Queueing Analysis and Configuration Design",
+"domain": "143",
+"description": "Analyze toll plaza queueing behavior and optimize booth configurations and electronic toll collection lanes.",
+"keywords": [
+"Toll Plazas",
+"Queueing Analysis",
+"Toll Collection"
+]
+},
+{
+"id": 10134,
+"title": "Narrow Traffic Lane Implementation and Safety Study",
+"domain": "143",
+"description": "Evaluate safety impacts of implementing narrow traffic lanes to accommodate additional bicycle or parking facilities.",
+"keywords": [
+"Narrow Lanes",
+"Lane Width",
+"Safety Evaluation"
+]
+},
+{
+"id": 10135,
+"title": "Bluetooth Travel Time Data Collection System",
+"domain": "143",
+"description": "Deploy Bluetooth sensors for anonymous travel time data collection and corridor performance monitoring.",
+"keywords": [
+"Bluetooth Sensors",
+"Travel Time Collection",
+"MAC Address Detection"
+]
+},
+{
+"id": 10136,
+"title": "Freeway Service Patrol Program Design",
+"domain": "143",
+"description": "Design freeway service patrol programs providing incident assistance to reduce clearance times and secondary crashes.",
+"keywords": [
+"Service Patrol",
+"Incident Response",
+"Highway Assistance"
+]
+},
+{
+"id": 10137,
+"title": "Automated Bike Counter Data Analysis and Trends",
+"domain": "143",
+"description": "Analyze automated bicycle counter data to identify usage patterns, trends, and seasonal variations.",
+"keywords": [
+"Bike Counters",
+"Data Analysis",
+"Cycling Trends"
+]
+},
+{
+"id": 10138,
+"title": "Road Weather Information System Design",
+"domain": "143",
+"description": "Design road weather information systems providing real-time conditions to maintenance crews and travelers.",
+"keywords": [
+"Weather Information",
+"RWIS",
+"Road Conditions"
+]
+},
+{
+"id": 10139,
+"title": "Green Light Optimal Speed Advisory System",
+"domain": "143",
+"description": "Develop connected vehicle applications advising drivers of optimal speeds to reach green lights on arterials.",
+"keywords": [
+"Speed Advisory",
+"GLOSA",
+"Connected Vehicles"
+]
+},
+{
+"id": 10140,
+"title": "Pedestrian Refuge Island Design and Placement",
+"domain": "143",
+"description": "Design pedestrian refuge islands for wide crossings providing safe waiting areas between travel lanes.",
+"keywords": [
+"Refuge Islands",
+"Pedestrian Safety",
+"Crossing Design"
+]
+},
+{
+"id": 10141,
+"title": "Autonomous Vehicle Testing Corridor Development",
+"domain": "143",
+"description": "Develop testing corridors for autonomous vehicles with dedicated infrastructure and communication systems.",
+"keywords": [
+"AV Testing",
+"Testing Corridors",
+"Autonomous Infrastructure"
+]
+},
+{
+"id": 10142,
+"title": "Traffic Calming Evaluation Using Before-After Studies",
+"domain": "143",
+"description": "Conduct before-after studies evaluating effectiveness of traffic calming measures on speeds and safety.",
+"keywords": [
+"Traffic Calming Evaluation",
+"Before-After Studies",
+"Effectiveness Analysis"
+]
+},
+{
+"id": 10143,
+"title": "Integrated Corridor Management System Design",
+"domain": "143",
+"description": "Design integrated corridor management coordinating freeway, arterial, and transit operations for optimal network performance.",
+"keywords": [
+"Corridor Management",
+"ICM",
+"Network Coordination"
+]
+},
+{
+"id": 10144,
+"title": "Pedestrian Desire Line Analysis and Path Design",
+"domain": "143",
+"description": "Analyze pedestrian desire lines and design formalized paths aligned with natural walking patterns.",
+"keywords": [
+"Desire Lines",
+"Pedestrian Paths",
+"Walking Behavior"
+]
+},
+{
+"id": 10145,
+"title": "Dynamic Truck Parking Information System",
+"domain": "143",
+"description": "Develop real-time truck parking availability information systems guiding drivers to open rest area spaces.",
+"keywords": [
+"Truck Parking Information",
+"Rest Areas",
+"Real-Time Availability"
+]
+},
+{
+"id": 10146,
+"title": "Multi-Criteria Evaluation of Transportation Alternatives",
+"domain": "143",
+"description": "Conduct multi-criteria analysis evaluating transportation alternatives across cost, mobility, safety, and environmental factors.",
+"keywords": [
+"Multi-Criteria Analysis",
+"Alternative Evaluation",
+"Decision Making"
+]
+},
+{
+"id": 10147,
+"title": "Bicycle Signal Timing and Detection Design",
+"domain": "143",
+"description": "Design bicycle-specific signal timing and detection systems providing adequate clearance and safe phasing.",
+"keywords": [
+"Bicycle Signals",
+"Cycle Detection",
+"Signal Timing"
+]
+},
+{
+"id": 10148,
+"title": "High-Visibility Crosswalk Marking Design Standards",
+"domain": "143",
+"description": "Develop standards for high-visibility crosswalk markings using ladder or continental patterns for enhanced detection.",
+"keywords": [
+"High-Visibility Markings",
+"Crosswalk Design",
+"Marking Standards"
+]
+},
+{
+"id": 10149,
+"title": "Transit On-Time Performance Analysis and Improvement",
+"domain": "143",
+"description": "Analyze transit on-time performance identifying delay sources and implementing schedule reliability improvements.",
+"keywords": [
+"On-Time Performance",
+"Transit Reliability",
+"Schedule Adherence"
+]
+},
+{
+"id": 10150,
+"title": "Automated Vehicle Safety Validation Methodology",
+"domain": "143",
+"description": "Develop methodologies for validating automated vehicle safety performance in diverse operational scenarios.",
+"keywords": [
+"AV Safety",
+"Safety Validation",
+"Testing Methodology"
+]
+},
+{
+"id": 10151,
+"title": "Urban Freight Consolidation Center Planning",
+"domain": "143",
+"description": "Plan urban consolidation centers for freight delivery optimizing last-mile logistics and reducing truck trips.",
+"keywords": [
+"Freight Consolidation",
+"Urban Logistics",
+"Distribution Centers"
+]
+},
+{
+"id": 10152,
+"title": "Intersection Channelization Design for Safety",
+"domain": "143",
+"description": "Design intersection channelization using islands and markings to guide traffic and reduce conflict points.",
+"keywords": [
+"Channelization",
+"Intersection Design",
+"Traffic Guidance"
+]
+},
+{
+"id": 10153,
+"title": "Crowdsourced Traffic Data Quality Assessment",
+"domain": "143",
+"description": "Evaluate quality and reliability of crowdsourced traffic data from mobile apps and connected vehicles.",
+"keywords": [
+"Crowdsourced Data",
+"Data Quality",
+"Data Validation"
+]
+},
+{
+"id": 10154,
+"title": "Pedestrian Overpass Utilization Study",
+"domain": "143",
+"description": "Study pedestrian compliance rates for overpasses and identify factors affecting utilization versus at-grade crossing.",
+"keywords": [
+"Pedestrian Overpasses",
+"Utilization Study",
+"Compliance Analysis"
+]
+},
+{
+"id": 10155,
+"title": "Transportation Asset Management System Development",
+"domain": "143",
+"description": "Develop asset management systems tracking condition and lifecycle of traffic signals, signs, and markings.",
+"keywords": [
+"Asset Management",
+"Infrastructure Management",
+"Lifecycle Planning"
+]
+},
+{
+"id": 10156,
+"title": "Raised Intersection Design for Traffic Calming",
+"domain": "143",
+"description": "Design raised intersection platforms creating traffic calming effect while maintaining drainage and accessibility.",
+"keywords": [
+"Raised Intersections",
+"Traffic Calming",
+"Vertical Deflection"
+]
+},
+{
+"id": 10157,
+"title": "Connected Vehicle Pilot Deployment and Evaluation",
+"domain": "143",
+"description": "Deploy connected vehicle technologies in pilot corridors and evaluate safety and mobility benefits.",
+"keywords": [
+"Connected Vehicle Pilot",
+"V2X Technology",
+"Pilot Evaluation"
+]
+},
+{
+"id": 10158,
+"title": "Bus Stop Design for Accessibility and Comfort",
+"domain": "143",
+"description": "Design bus stops with shelters, seating, lighting, and accessibility features ensuring passenger comfort.",
+"keywords": [
+"Bus Stop Design",
+"Transit Amenities",
+"Passenger Comfort"
+]
+},
+{
+"id": 10159,
+"title": "Traffic Impact Fee Calculation Methodology",
+"domain": "143",
+"description": "Develop methodologies for calculating traffic impact fees from new developments based on trip generation.",
+"keywords": [
+"Impact Fees",
+"Development Fees",
+"Fee Calculation"
+]
+},
+{
+"id": 10160,
+"title": "Wayfinding Signage System for Multimodal Facilities",
+"domain": "143",
+"description": "Design comprehensive wayfinding signage systems for multimodal transportation facilities guiding all user types.",
+"keywords": [
+"Wayfinding",
+"Signage Design",
+"Multimodal Navigation"
+]
+},
+{
+"id": 10161,
+"title": "Adaptive Traffic Control Using Reinforcement Learning",
+"domain": "143",
+"description": "Develop reinforcement learning algorithms for adaptive traffic control learning optimal policies from traffic patterns.",
+"keywords": [
+"Reinforcement Learning",
+"Adaptive Control",
+"AI Traffic Control"
+]
+},
+{
+"id": 10162,
+"title": "Bicycle Box Design at Signalized Intersections",
+"domain": "143",
+"description": "Design bicycle boxes providing advanced stop lines for cyclists improving visibility and left-turn movements.",
+"keywords": [
+"Bicycle Boxes",
+"Advanced Stop Lines",
+"Cyclist Priority"
+]
+},
+{
+"id": 10163,
+"title": "Transit Stop Amenity Standards Development",
+"domain": "143",
+"description": "Develop standards for transit stop amenities including shelters, benches, and lighting based on ridership levels.",
+"keywords": [
+"Transit Standards",
+"Stop Amenities",
+"Service Standards"
+]
+},
+{
+"id": 10164,
+"title": "Median U-Turn Intersection Design and Operations",
+"domain": "143",
+"description": "Design median U-turn intersections restricting left turns and providing designated U-turn locations.",
+"keywords": [
+"Median U-Turns",
+"MUT Design",
+"Restricted Crossings"
+]
+},
+{
+"id": 10165,
+"title": "Parking Occupancy Prediction Using Machine Learning",
+"domain": "143",
+"description": "Develop machine learning models predicting parking occupancy to guide drivers and optimize pricing.",
+"keywords": [
+"Parking Prediction",
+"Occupancy Modeling",
+"Machine Learning"
+]
+},
+{
+"id": 10166,
+"title": "Bicycle Safety Education Program Development",
+"domain": "143",
+"description": "Develop comprehensive bicycle safety education programs targeting cyclists and motorists for shared road use.",
+"keywords": [
+"Safety Education",
+"Bicycle Training",
+"Public Awareness"
+]
+},
+{
+"id": 10167,
+"title": "Travel Behavior Survey Design and Implementation",
+"domain": "143",
+"description": "Design household travel surveys collecting comprehensive data on travel patterns, mode choice, and demographics.",
+"keywords": [
+"Travel Surveys",
+"Behavior Studies",
+"Data Collection"
+]
+},
+{
+"id": 10168,
+"title": "Traffic Signal Retiming Program for Network Efficiency",
+"domain": "143",
+"description": "Develop systematic signal retiming programs updating timing plans across networks for improved coordination.",
+"keywords": [
+"Signal Retiming",
+"Network Optimization",
+"Timing Updates"
+]
+},
+{
+"id": 10169,
+"title": "Autonomous Intersection Management System Design",
+"domain": "143",
+"description": "Design intersection management systems for autonomous vehicles using reservation-based protocols without signals.",
+"keywords": [
+"Autonomous Intersections",
+"AIM Systems",
+"Future Infrastructure"
+]
+},
+{
+"id": 10170,
+"title": "Slow Zones Implementation for Urban Safety",
+"domain": "143",
+"description": "Implement slow zones with reduced speed limits and enforcement in high-pedestrian urban areas.",
+"keywords": [
+"Slow Zones",
+"Speed Reduction",
+"Urban Safety"
+]
+},
+{
+"id": 10171,
+"title": "Transit Accessibility Analysis for Service Coverage",
+"domain": "143",
+"description": "Analyze transit accessibility using GIS measuring population coverage within walking distance of stops.",
+"keywords": [
+"Transit Accessibility",
+"Service Coverage",
+"GIS Analysis"
+]
+},
+{
+"id": 10172,
+"title": "Contraflow Bicycle Lane Design on One-Way Streets",
+"domain": "143",
+"description": "Design contraflow bicycle lanes allowing two-way bicycle traffic on one-way streets for network connectivityRetryPContinueEdit.",
+"keywords": [
+"Contraflow Lanes",
+"One-Way Streets",
+"Bicycle Connectivity"
+]
+},
+{
+"id": 10173,
+"title": "Traffic Noise Impact Assessment and Mitigation",
+"domain": "143",
+"description": "Assess traffic noise impacts on adjacent land uses and design mitigation measures including barriers and pavement.",
+"keywords": [
+"Noise Assessment",
+"Traffic Noise",
+"Mitigation Measures"
+]
+},
+{
+"id": 10174,
+"title": "Pedestrian Crossing Distance Reduction Strategies",
+"domain": "143",
+"description": "Design curb extensions and crossing islands to reduce pedestrian exposure distance at crossings.",
+"keywords": [
+"Crossing Distance",
+"Curb Extensions",
+"Pedestrian Exposure"
+]
+},
+{
+"id": 10175,
+"title": "Transit Ridership Forecasting Using Statistical Models",
+"domain": "143",
+"description": "Develop statistical models forecasting transit ridership based on service characteristics and land use patterns.",
+"keywords": [
+"Ridership Forecasting",
+"Statistical Models",
+"Demand Prediction"
+]
+},
+{
+"id": 10176,
+"title": "Bicycle Sharrow Marking Effectiveness Study",
+"domain": "143",
+"description": "Evaluate effectiveness of shared lane markings (sharrows) on cyclist positioning and driver behavior.",
+"keywords": [
+"Sharrow Markings",
+"Shared Lanes",
+"Effectiveness Study"
+]
+},
+{
+"id": 10177,
+"title": "Transportation Greenhouse Gas Emission Inventory",
+"domain": "143",
+"description": "Develop greenhouse gas emission inventories for transportation sectors identifying reduction strategies.",
+"keywords": [
+"GHG Emissions",
+"Emission Inventory",
+"Climate Action"
+]
+},
+{
+"id": 10178,
+"title": "Right Turn on Red Safety Analysis and Policy",
+"domain": "143",
+"description": "Analyze safety impacts of right turn on red and develop policies for restricting movements at high-risk locations.",
+"keywords": [
+"Right Turn on Red",
+"Turn Restrictions",
+"Safety Policy"
+]
+},
+{
+"id": 10179,
+"title": "Mobility Data Privacy Protection Framework",
+"domain": "143",
+"description": "Develop frameworks protecting privacy in mobility data collection while maintaining analytical utility.",
+"keywords": [
+"Data Privacy",
+"Mobility Data",
+"Privacy Protection"
+]
+},
+{
+"id": 10180,
+"title": "Transit Fleet Electrification Planning and Analysis",
+"domain": "143",
+"description": "Plan transit fleet electrification including charging infrastructure, route assignments, and cost-benefit analysis.",
+"keywords": [
+"Electric Buses",
+"Fleet Electrification",
+"Transit Sustainability"
+]
+},
+{
+"id": 10181,
+"title": "Parking Pricing Elasticity Analysis",
+"domain": "143",
+"description": "Analyze demand elasticity for parking pricing to optimize rates balancing revenue and occupancy targets.",
+"keywords": [
+"Parking Pricing",
+"Demand Elasticity",
+"Price Optimization"
+]
+},
+{
+"id": 10182,
+"title": "Pedestrian Hybrid Beacon Installation Warrants",
+"domain": "143",
+"description": "Develop warrant criteria for pedestrian hybrid beacons at mid-block and uncontrolled crossing locations.",
+"keywords": [
+"Hybrid Beacons",
+"HAWK Signals",
+"Installation Warrants"
+]
+},
+{
+"id": 10183,
+"title": "Travel Demand Forecasting for Mega Events",
+"domain": "143",
+"description": "Forecast travel demand for mega events developing transportation management plans for attendee movements.",
+"keywords": [
+"Event Planning",
+"Demand Forecasting",
+"Mega Events"
+]
+},
+{
+"id": 10184,
+"title": "Autonomous Shuttle Last-Mile Connectivity Service",
+"domain": "143",
+"description": "Design autonomous shuttle services connecting transit stations to employment centers for last-mile connectivity.",
+"keywords": [
+"Last-Mile Service",
+"Autonomous Shuttles",
+"Transit Connectivity"
+]
+},
+{
+"id": 10185,
+"title": "Variable Lane Assignment for Peak Direction Flow",
+"domain": "143",
+"description": "Design variable lane assignment systems allocating more lanes to peak direction during commute periods.",
+"keywords": [
+"Variable Lanes",
+"Peak Direction",
+"Lane Allocation"
+]
+},
+{
+"id": 10186,
+"title": "Pedestrian Scramble Phase Efficiency Analysis",
+"domain": "143",
+"description": "Analyze operational efficiency of exclusive pedestrian phases versus concurrent phasing at busy intersections.",
+"keywords": [
+"Pedestrian Phases",
+"Phase Efficiency",
+"Signal Operations"
+]
+},
+{
+"id": 10187,
+"title": "Mobility Performance Metrics Dashboard for Cities",
+"domain": "143",
+"description": "Develop city-wide mobility dashboards tracking key performance indicators across all transportation modes.",
+"keywords": [
+"Performance Metrics",
+"Mobility Dashboard",
+"KPI Tracking"
+]
+},
+{
+"id": 10188,
+"title": "Driver Distraction Reduction Infrastructure Design",
+"domain": "143",
+"description": "Design roadway infrastructure reducing driver distractions through improved signage clarity and information presentation.",
+"keywords": [
+"Driver Distraction",
+"Infrastructure Design",
+"Cognitive Load"
+]
+},
+// domain 144
+{
+    "id": 10189,
+    "title": "TETRA Network Coverage Planning and Optimization",
+    "domain": "144",
+    "description": "Design and optimize TETRA radio network coverage for public safety agencies ensuring reliable communication across service areas.",
+    "keywords": [
+      "TETRA Network",
+      "Coverage Planning",
+      "Radio Network Design"
+    ]
+  },
+  {
+    "id": 10190,
+    "title": "Emergency Services Interoperability Gateway Design",
+    "domain": "144",
+    "description": "Design interoperability gateways connecting different public safety communication systems for multi-agency coordination.",
+    "keywords": [
+      "Interoperability",
+      "Gateway Systems",
+      "Multi-Agency Communication"
+    ]
+  },
+  {
+    "id": 10191,
+    "title": "TETRA Base Station Site Selection and Deployment",
+    "domain": "144",
+    "description": "Conduct site surveys and select optimal locations for TETRA base stations considering terrain, coverage, and interference.",
+    "keywords": [
+      "Base Station Placement",
+      "Site Selection",
+      "Network Deployment"
+    ]
+  },
+  {
+    "id": 10192,
+    "title": "Public Safety LTE Network Architecture Design",
+    "domain": "144",
+    "description": "Design dedicated LTE networks for public safety providing broadband data services complementing voice communications.",
+    "keywords": [
+      "Public Safety LTE",
+      "Broadband Network",
+      "PS-LTE Architecture"
+    ]
+  },
+  {
+    "id": 10193,
+    "title": "TETRA Encryption and Security Protocol Implementation",
+    "domain": "144",
+    "description": "Implement end-to-end encryption and security protocols for TETRA networks protecting sensitive public safety communications.",
+    "keywords": [
+      "TETRA Encryption",
+      "Security Protocols",
+      "Communication Security"
+    ]
+  },
+  {
+    "id": 10194,
+    "title": "Emergency Call Handling System Optimization",
+    "domain": "144",
+    "description": "Optimize emergency call handling systems reducing response times and improving dispatcher efficiency in control centers.",
+    "keywords": [
+      "Call Handling",
+      "Dispatch Systems",
+      "Response Optimization"
+    ]
+  },
+  {
+    "id": 10195,
+    "title": "TETRA Direct Mode Operation Design for Remote Areas",
+    "domain": "144",
+    "description": "Design direct mode operation capabilities for TETRA enabling terminal-to-terminal communication without infrastructure.",
+    "keywords": [
+      "Direct Mode",
+      "DMO",
+      "Off-Network Communication"
+    ]
+  },
+  {
+    "id": 10196,
+    "title": "Computer-Aided Dispatch System Integration",
+    "domain": "144",
+    "description": "Integrate CAD systems with radio networks, GPS tracking, and mapping tools for coordinated emergency response.",
+    "keywords": [
+      "CAD Systems",
+      "System Integration",
+      "Dispatch Technology"
+    ]
+  },
+  {
+    "id": 10197,
+    "title": "TETRA Frequency Planning and Interference Analysis",
+    "domain": "144",
+    "description": "Conduct frequency planning for TETRA networks analyzing interference patterns and optimizing channel allocation.",
+    "keywords": [
+      "Frequency Planning",
+      "Interference Analysis",
+      "Spectrum Management"
+    ]
+  },
+  {
+    "id": 10198,
+    "title": "Emergency Services Mobile Data Terminal Design",
+    "domain": "144",
+    "description": "Design mobile data terminals for emergency vehicles providing real-time information access and communication capabilities.",
+    "keywords": [
+      "Mobile Data Terminals",
+      "MDT Design",
+      "Vehicle Technology"
+    ]
+  },
+  {
+    "id": 10199,
+    "title": "TETRA Network Capacity Analysis and Dimensioning",
+    "domain": "144",
+    "description": "Analyze traffic patterns and dimension TETRA network capacity to handle peak loads during major incidents.",
+    "keywords": [
+      "Capacity Planning",
+      "Network Dimensioning",
+      "Traffic Analysis"
+    ]
+  },
+  {
+    "id": 10200,
+    "title": "Public Safety Answering Point Modernization",
+    "domain": "144",
+    "description": "Modernize PSAP facilities with Next Generation 911 capabilities including text, video, and data reception.",
+    "keywords": [
+      "PSAP Modernization",
+      "NG911",
+      "Emergency Centers"
+    ]
+  },
+  {
+    "id": 10201,
+    "title": "TETRA Trunking System Configuration and Management",
+    "domain": "144",
+    "description": "Configure and manage TETRA trunking systems optimizing resource allocation and call priority mechanisms.",
+    "keywords": [
+      "Trunked Radio",
+      "System Configuration",
+      "Resource Management"
+    ]
+  },
+  {
+    "id": 10202,
+    "title": "Emergency Alert System Design and Integration",
+    "domain": "144",
+    "description": "Design emergency alert systems integrating multiple channels including sirens, mobile alerts, and broadcast media.",
+    "keywords": [
+      "Emergency Alerts",
+      "Warning Systems",
+      "Public Notification"
+    ]
+  },
+  {
+    "id": 10203,
+    "title": "TETRA Indoor Coverage Solutions for Critical Buildings",
+    "domain": "144",
+    "description": "Design indoor coverage solutions for hospitals, schools, and government buildings ensuring reliable TETRA reception.",
+    "keywords": [
+      "Indoor Coverage",
+      "Building Penetration",
+      "DAS Systems"
+    ]
+  },
+  {
+    "id": 10204,
+    "title": "First Responder Communication Training Simulator",
+    "domain": "144",
+    "description": "Develop training simulators for first responders practicing radio communication protocols in emergency scenarios.",
+    "keywords": [
+      "Training Simulators",
+      "Communication Training",
+      "Emergency Procedures"
+    ]
+  },
+  {
+    "id": 10205,
+    "title": "TETRA Network Redundancy and Resilience Design",
+    "domain": "144",
+    "description": "Design redundant TETRA network architectures with failover capabilities ensuring continuous operation during failures.",
+    "keywords": [
+      "Network Redundancy",
+      "Resilience Design",
+      "Failover Systems"
+    ]
+  },
+  {
+    "id": 10206,
+    "title": "Radio Over IP Gateway Implementation for TETRA",
+    "domain": "144",
+    "description": "Implement Radio over IP gateways extending TETRA network connectivity using broadband infrastructure.",
+    "keywords": [
+      "RoIP Gateway",
+      "IP Integration",
+      "Network Extension"
+    ]
+  },
+  {
+    "id": 10207,
+    "title": "Emergency Services GPS/AVL Tracking System",
+    "domain": "144",
+    "description": "Deploy automatic vehicle location systems tracking emergency vehicles in real-time for optimal dispatch and coordination.",
+    "keywords": [
+      "AVL Systems",
+      "GPS Tracking",
+      "Vehicle Location"
+    ]
+  },
+  {
+    "id": 10208,
+    "title": "TETRA Air Interface Encryption Key Management",
+    "domain": "144",
+    "description": "Develop key management systems for TETRA air interface encryption ensuring secure key distribution and rotation.",
+    "keywords": [
+      "Key Management",
+      "Encryption Keys",
+      "Security Management"
+    ]
+  },
+  {
+    "id": 10209,
+    "title": "Multi-Agency Incident Command Communication Platform",
+    "domain": "144",
+    "description": "Design unified communication platforms for multi-agency incident command supporting voice, data, and video.",
+    "keywords": [
+      "Incident Command",
+      "Multi-Agency Platform",
+      "Unified Communications"
+    ]
+  },
+  {
+    "id": 10210,
+    "title": "TETRA Network Performance Monitoring and Optimization",
+    "domain": "144",
+    "description": "Implement monitoring systems tracking TETRA network KPIs and automatically optimizing performance parameters.",
+    "keywords": [
+      "Performance Monitoring",
+      "Network Optimization",
+      "KPI Tracking"
+    ]
+  },
+  {
+    "id": 10211,
+    "title": "Emergency Services Body-Worn Camera Integration",
+    "domain": "144",
+    "description": "Integrate body-worn cameras with communication systems providing real-time video streaming to command centers.",
+    "keywords": [
+      "Body-Worn Cameras",
+      "Video Integration",
+      "Real-Time Streaming"
+    ]
+  },
+  {
+    "id": 10212,
+    "title": "TETRA Talk Group Management and Hierarchy Design",
+    "domain": "144",
+    "description": "Design talk group structures and management systems supporting organizational hierarchies and dynamic group formation.",
+    "keywords": [
+      "Talk Groups",
+      "Group Management",
+      "Communication Hierarchy"
+    ]
+  },
+  {
+    "id": 10213,
+    "title": "Public Safety Drone Communication Link Design",
+    "domain": "144",
+    "description": "Design communication links for public safety drones providing command/control and real-time video transmission.",
+    "keywords": [
+      "Drone Communications",
+      "UAV Links",
+      "Aerial Surveillance"
+    ]
+  },
+  {
+    "id": 10214,
+    "title": "TETRA Gateway to Satellite Communication Systems",
+    "domain": "144",
+    "description": "Implement gateways connecting TETRA networks to satellite systems for remote area and disaster recovery communications.",
+    "keywords": [
+      "Satellite Gateway",
+      "Satellite Integration",
+      "Remote Communications"
+    ]
+  },
+  {
+    "id": 10215,
+    "title": "Emergency Operations Center Technology Design",
+    "domain": "144",
+    "description": "Design technology systems for emergency operations centers including video walls, mapping, and communication integration.",
+    "keywords": [
+      "EOC Design",
+      "Operations Centers",
+      "Command Technology"
+    ]
+  },
+  {
+    "id": 10216,
+    "title": "TETRA Subscriber Management System Development",
+    "domain": "144",
+    "description": "Develop subscriber management systems handling user authentication, authorization, and service provisioning for TETRA.",
+    "keywords": [
+      "Subscriber Management",
+      "User Authentication",
+      "Service Provisioning"
+    ]
+  },
+  {
+    "id": 10217,
+    "title": "Public Safety Mesh Network Design for Disasters",
+    "domain": "144",
+    "description": "Design self-healing mesh networks for public safety providing communication when infrastructure is damaged or unavailable.",
+    "keywords": [
+      "Mesh Networks",
+      "Disaster Communications",
+      "Self-Healing Networks"
+    ]
+  },
+  {
+    "id": 10218,
+    "title": "TETRA Radio Terminal Specifications and Procurement",
+    "domain": "144",
+    "description": "Develop technical specifications for TETRA radio terminals meeting public safety operational requirements.",
+    "keywords": [
+      "Radio Terminals",
+      "Terminal Specifications",
+      "Procurement Standards"
+    ]
+  },
+  {
+    "id": 10219,
+    "title": "Emergency Services Text-to-911 Implementation",
+    "domain": "144",
+    "description": "Implement text-to-911 capabilities enabling SMS emergency reporting for hearing impaired and situational needs.",
+    "keywords": [
+      "Text-to-911",
+      "SMS Emergency",
+      "Accessible Communication"
+    ]
+  },
+  {
+    "id": 10220,
+    "title": "TETRA Network Migration and Upgrade Planning",
+    "domain": "144",
+    "description": "Plan migration strategies for upgrading legacy TETRA networks to enhanced features while maintaining service continuity.",
+    "keywords": [
+      "Network Migration",
+      "System Upgrades",
+      "Technology Transition"
+    ]
+  },
+  {
+    "id": 10221,
+    "title": "Critical Communications Cybersecurity Framework",
+    "domain": "144",
+    "description": "Develop cybersecurity frameworks protecting public safety communication systems from cyber threats and attacks.",
+    "keywords": [
+      "Cybersecurity",
+      "Threat Protection",
+      "Security Framework"
+    ]
+  },
+  {
+    "id": 10222,
+    "title": "TETRA Emergency Call Priority and Preemption",
+    "domain": "144",
+    "description": "Configure emergency call priority mechanisms and preemption schemes ensuring critical communications access network resources.",
+    "keywords": [
+      "Call Priority",
+      "Emergency Preemption",
+      "Resource Allocation"
+    ]
+  },
+  {
+    "id": 10223,
+    "title": "Public Safety Communication Center Ergonomics",
+    "domain": "144",
+    "description": "Design ergonomic workstations and environments for dispatch centers reducing operator fatigue and improving performance.",
+    "keywords": [
+      "Ergonomic Design",
+      "Dispatch Centers",
+      "Operator Workstations"
+    ]
+  },
+  {
+    "id": 10224,
+    "title": "TETRA Network Coverage Prediction Modeling",
+    "domain": "144",
+    "description": "Develop propagation models predicting TETRA signal coverage in complex urban and rural environments.",
+    "keywords": [
+      "Coverage Prediction",
+      "Propagation Modeling",
+      "Signal Prediction"
+    ]
+  },
+  {
+    "id": 10225,
+    "title": "Emergency Services Social Media Monitoring Platform",
+    "domain": "144",
+    "description": "Develop platforms monitoring social media for emergency situations and public safety intelligence gathering.",
+    "keywords": [
+      "Social Media Monitoring",
+      "Intelligence Gathering",
+      "Situational Awareness"
+    ]
+  },
+  {
+    "id": 10226,
+    "title": "TETRA Packet Data Service Configuration",
+    "domain": "144",
+    "description": "Configure TETRA packet data services supporting applications like database queries and status messaging.",
+    "keywords": [
+      "Packet Data",
+      "Data Services",
+      "TETRA Data"
+    ]
+  },
+  {
+    "id": 10227,
+    "title": "Public Safety Broadband Core Network Design",
+    "domain": "144",
+    "description": "Design core network infrastructure for public safety broadband systems with appropriate QoS and priority mechanisms.",
+    "keywords": [
+      "Core Network",
+      "Broadband Infrastructure",
+      "QoS Design"
+    ]
+  },
+  {
+    "id": 10228,
+    "title": "TETRA Radio Programming and Fleet Management",
+    "domain": "144",
+    "description": "Develop systems for over-the-air radio programming and fleet management reducing maintenance overhead.",
+    "keywords": [
+      "Radio Programming",
+      "Fleet Management",
+      "OTAP Systems"
+    ]
+  },
+  {
+    "id": 10229,
+    "title": "Emergency Medical Dispatch Protocol Automation",
+    "domain": "144",
+    "description": "Automate emergency medical dispatch protocols providing structured call-taking and pre-arrival instructions.",
+    "keywords": [
+      "EMD Protocols",
+      "Dispatch Automation",
+      "Medical Emergency"
+    ]
+  },
+  {
+    "id": 10230,
+    "title": "TETRA Repeater Network Design for Coverage Extension",
+    "domain": "144",
+    "description": "Design repeater networks extending TETRA coverage into tunnels, valleys, and remote areas.",
+    "keywords": [
+      "Repeater Networks",
+      "Coverage Extension",
+      "Signal Amplification"
+    ]
+  },
+  {
+    "id": 10231,
+    "title": "Public Safety Cloud Communication Platform",
+    "domain": "144",
+    "description": "Develop cloud-based communication platforms for public safety offering scalability and disaster recovery capabilities.",
+    "keywords": [
+      "Cloud Platform",
+      "Cloud Communications",
+      "Scalable Systems"
+    ]
+  },
+  {
+    "id": 10232,
+    "title": "TETRA Network Quality of Service Analysis",
+    "domain": "144",
+    "description": "Analyze QoS metrics for TETRA networks including call setup time, audio quality, and service availability.",
+    "keywords": [
+      "Quality of Service",
+      "QoS Analysis",
+      "Performance Metrics"
+    ]
+  },
+  {
+    "id": 10233,
+    "title": "Emergency Vehicle Signal Preemption Integration",
+    "domain": "144",
+    "description": "Integrate emergency vehicle communication systems with traffic signal preemption for faster response times.",
+    "keywords": [
+      "Signal Preemption",
+      "Emergency Vehicles",
+      "Traffic Integration"
+    ]
+  },
+  {
+    "id": 10234,
+    "title": "TETRA SIM Card Management and Security",
+    "domain": "144",
+    "description": "Implement secure SIM card management for TETRA terminals including issuance, provisioning, and lifecycle management.",
+    "keywords": [
+      "SIM Management",
+      "Card Security",
+      "Authentication"
+    ]
+  },
+  {
+    "id": 10235,
+    "title": "Multi-Modal Emergency Communication Dashboard",
+    "domain": "144",
+    "description": "Develop unified dashboards displaying communication status across radio, phone, data, and video channels.",
+    "keywords": [
+      "Communication Dashboard",
+      "Multi-Modal Display",
+      "Status Monitoring"
+    ]
+  },
+  {
+    "id": 10236,
+    "title": "TETRA Location-Based Services Implementation",
+    "domain": "144",
+    "description": "Implement location-based services for TETRA networks providing automatic location identification for emergency calls.",
+    "keywords": [
+      "Location Services",
+      "Automatic Location",
+      "Position Tracking"
+    ]
+  },
+  {
+    "id": 10237,
+    "title": "Public Safety Radio Interoperability Testing",
+    "domain": "144",
+    "description": "Conduct interoperability testing ensuring different radio systems can communicate effectively during joint operations.",
+    "keywords": [
+      "Interoperability Testing",
+      "System Testing",
+      "Multi-System Communication"
+    ]
+  },
+  {
+    "id": 10238,
+    "title": "TETRA Network Disaster Recovery Planning",
+    "domain": "144",
+    "description": "Develop disaster recovery plans for TETRA networks including mobile base stations and emergency power systems.",
+    "keywords": [
+      "Disaster Recovery",
+      "Business Continuity",
+      "Emergency Planning"
+    ]
+  },
+  {
+    "id": 10239,
+    "title": "Emergency Services Unified Communications Platform",
+    "domain": "144",
+    "description": "Design unified communications platforms integrating voice, video, messaging, and collaboration tools for public safety.",
+    "keywords": [
+      "Unified Communications",
+      "Integrated Platform",
+      "Multi-Media Communication"
+    ]
+  },
+  {
+    "id": 10240,
+    "title": "TETRA Network Load Balancing and Traffic Management",
+    "domain": "144",
+    "description": "Implement load balancing algorithms distributing traffic across TETRA base stations for optimal resource utilization.",
+    "keywords": [
+      "Load Balancing",
+      "Traffic Management",
+      "Resource Optimization"
+    ]
+  },
+  {
+    "id": 10241,
+    "title": "Public Safety Mobile Broadband Application Development",
+    "domain": "144",
+    "description": "Develop mission-critical applications for public safety broadband including database access and field reporting.",
+    "keywords": [
+      "Mobile Applications",
+      "Broadband Apps",
+      "Field Technology"
+    ]
+  },
+  {
+    "id": 10242,
+    "title": "TETRA Radio Interference Detection and Mitigation",
+    "domain": "144",
+    "description": "Develop systems detecting and mitigating radio interference affecting TETRA network performance.",
+    "keywords": [
+      "Interference Detection",
+      "Signal Quality",
+      "Mitigation Strategies"
+    ]
+  },
+  {
+    "id": 10243,
+    "title": "Emergency Services Incident Recording System",
+    "domain": "144",
+    "description": "Implement comprehensive incident recording systems capturing all communications and CAD data for review and evidence.",
+    "keywords": [
+      "Incident Recording",
+      "Communication Logging",
+      "Evidence Management"
+    ]
+  },
+  {
+    "id": 10244,
+    "title": "TETRA Gateway to P25 System Interoperability",
+    "domain": "144",
+    "description": "Design gateways enabling interoperability between TETRA and P25 radio systems for cross-border operations.",
+    "keywords": [
+      "P25 Gateway",
+      "System Interoperability",
+      "Cross-Standard Communication"
+    ]
+  },
+  {
+    "id": 10245,
+    "title": "Public Safety Situational Awareness Platform",
+    "domain": "144",
+    "description": "Develop platforms integrating multiple data sources providing comprehensive situational awareness for emergency operations.",
+    "keywords": [
+      "Situational Awareness",
+      "Data Integration",
+      "Common Operating Picture"
+    ]
+  },
+  {
+    "id": 10246,
+    "title": "TETRA Dual-Mode Terminal Configuration for Coverage",
+    "domain": "144",
+    "description": "Configure dual-mode TETRA terminals supporting both trunked and direct modes for seamless coverage transitions.",
+    "keywords": [
+      "Dual-Mode Terminals",
+      "Mode Switching",
+      "Seamless Coverage"
+    ]
+  },
+  {
+    "id": 10247,
+    "title": "Emergency Services Voice Quality Enhancement",
+    "domain": "144",
+    "description": "Implement voice quality enhancement technologies including noise cancellation and audio processing for clear communications.",
+    "keywords": [
+      "Voice Quality",
+      "Audio Enhancement",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "id": 10248,
+    "title": "TETRA Base Station Power Budget Analysis",
+    "domain": "144",
+    "description": "Conduct power budget analysis for TETRA base stations optimizing transmit power and receiver sensitivity.",
+    "keywords": [
+      "Power Budget",
+      "Link Budget",
+      "RF Design"
+    ]
+  },
+  {
+    "id": 10249,
+    "title": "Public Safety Communication Analytics Platform",
+    "domain": "144",
+    "description": "Develop analytics platforms analyzing communication patterns, call volumes, and system usage for optimization.",
+    "keywords": [
+      "Communication Analytics",
+      "Usage Analysis",
+      "Performance Analytics"
+    ]
+  },
+  {
+    "id": 10250,
+    "title": "TETRA Network Synchronization Design",
+    "domain": "144",
+    "description": "Design network synchronization systems ensuring timing accuracy across TETRA infrastructure for seamless handovers.",
+    "keywords": [
+      "Network Synchronization",
+      "Timing Systems",
+      "Clock Distribution"
+    ]
+  },
+  // domain 145
+  
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
