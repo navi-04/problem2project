@@ -76824,7 +76824,4495 @@ const PROBLEMS_DATA = {
     ]
   },
   // domain 145
+   {
+    "id": 10252,
+    "title": "Interactive Dashboard Design for Business Intelligence",
+    "domain": "145",
+    "description": "Design interactive dashboards with dynamic filters and drill-down capabilities for comprehensive business intelligence visualization.",
+    "keywords": [
+      "Interactive Dashboards",
+      "Business Intelligence",
+      "Data Exploration"
+    ]
+  },
+  {
+    "id": 10253,
+    "title": "Geospatial Data Visualization Using Heat Maps",
+    "domain": "145",
+    "description": "Create heat map visualizations displaying spatial data patterns and density distributions across geographic regions.",
+    "keywords": [
+      "Heat Maps",
+      "Geospatial Visualization",
+      "Spatial Analysis"
+    ]
+  },
+  {
+    "id": 10254,
+    "title": "Time Series Data Animation for Trend Analysis",
+    "domain": "145",
+    "description": "Develop animated visualizations showing temporal patterns and trends in time series data over extended periods.",
+    "keywords": [
+      "Time Series Animation",
+      "Temporal Visualization",
+      "Trend Analysis"
+    ]
+  },
+  {
+    "id": 10255,
+    "title": "Network Graph Visualization for Relationship Mapping",
+    "domain": "145",
+    "description": "Design network graph visualizations displaying complex relationships and connections between entities in datasets.",
+    "keywords": [
+      "Network Graphs",
+      "Relationship Mapping",
+      "Graph Visualization"
+    ]
+  },
+  {
+    "id": 10256,
+    "title": "Infographic Design for Statistical Report Communication",
+    "domain": "145",
+    "description": "Create compelling infographics translating statistical reports and complex data into accessible visual narratives.",
+    "keywords": [
+      "Infographic Design",
+      "Statistical Communication",
+      "Visual Storytelling"
+    ]
+  },
+  {
+    "id": 10257,
+    "title": "Real-Time Streaming Data Visualization Platform",
+    "domain": "145",
+    "description": "Develop platforms visualizing real-time streaming data with automatic updates and responsive chart rendering.",
+    "keywords": [
+      "Real-Time Visualization",
+      "Streaming Data",
+      "Live Dashboards"
+    ]
+  },
+  {
+    "id": 10258,
+    "title": "3D Data Visualization for Scientific Datasets",
+    "domain": "145",
+    "description": "Create three-dimensional visualizations for complex scientific datasets enabling spatial understanding and exploration.",
+    "keywords": [
+      "3D Visualization",
+      "Scientific Data",
+      "Volumetric Rendering"
+    ]
+  },
+  {
+    "id": 10259,
+    "title": "Color Palette Selection for Data Accessibility",
+    "domain": "145",
+    "description": "Design color palettes for data visualizations ensuring accessibility for colorblind users and maintaining visual clarity.",
+    "keywords": [
+      "Color Theory",
+      "Accessibility",
+      "Color Blindness"
+    ]
+  },
+  {
+    "id": 10260,
+    "title": "Choropleth Map Design for Regional Data Display",
+    "domain": "145",
+    "description": "Create choropleth maps using graduated colors to represent statistical data across geographic regions and boundaries.",
+    "keywords": [
+      "Choropleth Maps",
+      "Regional Data",
+      "Thematic Mapping"
+    ]
+  },
+  {
+    "id": 10261,
+    "title": "Sankey Diagram for Flow and Transfer Visualization",
+    "domain": "145",
+    "description": "Design Sankey diagrams illustrating flow quantities and transfers between different states or categories.",
+    "keywords": [
+      "Sankey Diagrams",
+      "Flow Visualization",
+      "Transfer Diagrams"
+    ]
+  },
+  {
+    "id": 10262,
+    "title": "Responsive Data Visualization for Mobile Devices",
+    "domain": "145",
+    "description": "Develop responsive visualizations adapting to various screen sizes while maintaining readability and interactivity.",
+    "keywords": [
+      "Responsive Design",
+      "Mobile Visualization",
+      "Cross-Platform"
+    ]
+  },
+  {
+    "id": 10263,
+    "title": "Financial Data Dashboard with Performance Metrics",
+    "domain": "145",
+    "description": "Create financial dashboards displaying KPIs, trends, and performance metrics with drill-down capabilities for detailed analysis.",
+    "keywords": [
+      "Financial Dashboards",
+      "Performance Metrics",
+      "KPI Visualization"
+    ]
+  },
+  {
+    "id": 10264,
+    "title": "Hierarchical Data Visualization Using Treemaps",
+    "domain": "145",
+    "description": "Design treemap visualizations representing hierarchical data structures with nested rectangles proportional to values.",
+    "keywords": [
+      "Treemaps",
+      "Hierarchical Data",
+      "Space-Filling Visualization"
+    ]
+  },
+  {
+    "id": 10265,
+    "title": "Data Storytelling Through Sequential Visualization",
+    "domain": "145",
+    "description": "Develop sequential visualizations guiding viewers through data narratives with progressive disclosure and context.",
+    "keywords": [
+      "Data Storytelling",
+      "Sequential Visualization",
+      "Narrative Design"
+    ]
+  },
+  {
+    "id": 10266,
+    "title": "Parallel Coordinates Plot for Multivariate Analysis",
+    "domain": "145",
+    "description": "Create parallel coordinates plots visualizing multivariate data and revealing patterns across multiple dimensions.",
+    "keywords": [
+      "Parallel Coordinates",
+      "Multivariate Data",
+      "Dimensional Analysis"
+    ]
+  },
+  {
+    "id": 10267,
+    "title": "Animated Infographics for Social Media Engagement",
+    "domain": "145",
+    "description": "Design animated infographics optimized for social media platforms maximizing engagement and information retention.",
+    "keywords": [
+      "Animated Infographics",
+      "Social Media",
+      "Motion Graphics"
+    ]
+  },
+  {
+    "id": 10268,
+    "title": "Box Plot Design for Statistical Distribution Display",
+    "domain": "145",
+    "description": "Create box plot visualizations showing statistical distributions, quartiles, and outliers in datasets.",
+    "keywords": [
+      "Box Plots",
+      "Statistical Distribution",
+      "Quartile Visualization"
+    ]
+  },
+  {
+    "id": 10269,
+    "title": "Interactive Timeline Visualization for Historical Data",
+    "domain": "145",
+    "description": "Develop interactive timelines displaying historical events and data with zoom, pan, and detail-on-demand features.",
+    "keywords": [
+      "Timeline Visualization",
+      "Historical Data",
+      "Interactive Timeline"
+    ]
+  },
+  {
+    "id": 10270,
+    "title": "Radar Chart Design for Multi-Dimensional Comparison",
+    "domain": "145",
+    "description": "Design radar charts comparing multiple variables across different categories or entities in a circular format.",
+    "keywords": [
+      "Radar Charts",
+      "Spider Charts",
+      "Multi-Dimensional Comparison"
+    ]
+  },
+  {
+    "id": 10271,
+    "title": "Data Visualization Performance Optimization",
+    "domain": "145",
+    "description": "Optimize visualization rendering performance for large datasets using aggregation, sampling, and efficient rendering techniques.",
+    "keywords": [
+      "Performance Optimization",
+      "Large Datasets",
+      "Rendering Efficiency"
+    ]
+  },
+  {
+    "id": 10272,
+    "title": "Scatter Plot Matrix for Correlation Analysis",
+    "domain": "145",
+    "description": "Create scatter plot matrices displaying pairwise relationships and correlations among multiple variables.",
+    "keywords": [
+      "Scatter Plot Matrix",
+      "Correlation Analysis",
+      "Pairwise Comparison"
+    ]
+  },
+  {
+    "id": 10273,
+    "title": "Circular Visualization Design for Cyclical Data",
+    "domain": "145",
+    "description": "Design circular visualizations representing cyclical or periodic data patterns using radial layouts.",
+    "keywords": [
+      "Circular Visualization",
+      "Cyclical Data",
+      "Radial Charts"
+    ]
+  },
+  {
+    "id": 10274,
+    "title": "Small Multiples Design for Comparative Analysis",
+    "domain": "145",
+    "description": "Create small multiples layouts displaying multiple related charts enabling easy comparison across categories.",
+    "keywords": [
+      "Small Multiples",
+      "Comparative Visualization",
+      "Trellis Plots"
+    ]
+  },
+  {
+    "id": 10275,
+    "title": "Word Cloud Generation from Text Data",
+    "domain": "145",
+    "description": "Generate word clouds visualizing text frequency and importance through size and color variations.",
+    "keywords": [
+      "Word Clouds",
+      "Text Visualization",
+      "Frequency Analysis"
+    ]
+  },
+  {
+    "id": 10276,
+    "title": "Waterfall Chart Design for Sequential Change Display",
+    "domain": "145",
+    "description": "Design waterfall charts illustrating cumulative effects of sequential positive and negative values.",
+    "keywords": [
+      "Waterfall Charts",
+      "Sequential Change",
+      "Cumulative Visualization"
+    ]
+  },
+  {
+    "id": 10277,
+    "title": "Gauge Chart Design for KPI Monitoring",
+    "domain": "145",
+    "description": "Create gauge chart visualizations displaying KPI performance against targets with visual indicators.",
+    "keywords": [
+      "Gauge Charts",
+      "KPI Monitoring",
+      "Performance Indicators"
+    ]
+  },
+  {
+    "id": 10278,
+    "title": "D3.js Custom Visualization Development",
+    "domain": "145",
+    "description": "Develop custom interactive visualizations using D3.js library with transitions, animations, and user interactions.",
+    "keywords": [
+      "D3.js",
+      "Custom Visualizations",
+      "JavaScript Charts"
+    ]
+  },
+  {
+    "id": 10279,
+    "title": "Infographic Design System and Style Guide",
+    "domain": "145",
+    "description": "Develop comprehensive design systems and style guides ensuring consistency across infographic productions.",
+    "keywords": [
+      "Design Systems",
+      "Style Guides",
+      "Brand Consistency"
+    ]
+  },
+  {
+    "id": 10280,
+    "title": "Violin Plot Design for Distribution Comparison",
+    "domain": "145",
+    "description": "Create violin plots combining box plots with kernel density estimation for rich distribution visualization.",
+    "keywords": [
+      "Violin Plots",
+      "Distribution Comparison",
+      "Density Visualization"
+    ]
+  },
+  {
+    "id": 10281,
+    "title": "Bubble Chart Design for Three-Variable Display",
+    "domain": "145",
+    "description": "Design bubble charts displaying three variables simultaneously using position and bubble size.",
+    "keywords": [
+      "Bubble Charts",
+      "Three-Variable Display",
+      "Multivariate Visualization"
+    ]
+  },
+  {
+    "id": 10282,
+    "title": "Data Visualization Accessibility Standards Implementation",
+    "domain": "145",
+    "description": "Implement accessibility standards ensuring visualizations are perceivable, operable, and understandable for all users.",
+    "keywords": [
+      "Accessibility Standards",
+      "WCAG Compliance",
+      "Inclusive Design"
+    ]
+  },
+  {
+    "id": 10283,
+    "title": "Streamgraph Visualization for Stacked Time Series",
+    "domain": "145",
+    "description": "Create streamgraph visualizations displaying stacked time series data with flowing, organic shapes.",
+    "keywords": [
+      "Streamgraphs",
+      "Stacked Area Charts",
+      "Time Series Visualization"
+    ]
+  },
+  {
+    "id": 10284,
+    "title": "Executive Summary Dashboard Design",
+    "domain": "145",
+    "description": "Design executive-level dashboards presenting high-level insights and critical metrics with minimal clutter.",
+    "keywords": [
+      "Executive Dashboards",
+      "Summary Visualization",
+      "High-Level Metrics"
+    ]
+  },
+  {
+    "id": 10285,
+    "title": "Isotype Design for Pictorial Data Representation",
+    "domain": "145",
+    "description": "Create isotype visualizations using repeated pictorial symbols to represent quantities and comparisons.",
+    "keywords": [
+      "Isotype",
+      "Pictorial Charts",
+      "Symbol-Based Visualization"
+    ]
+  },
+  {
+    "id": 10286,
+    "title": "Contour Plot Design for Continuous Data Fields",
+    "domain": "145",
+    "description": "Design contour plots representing continuous two-dimensional data fields with isolines connecting equal values.",
+    "keywords": [
+      "Contour Plots",
+      "Isoline Maps",
+      "Continuous Fields"
+    ]
+  },
+  {
+    "id": 10287,
+    "title": "Data Visualization User Testing and Iteration",
+    "domain": "145",
+    "description": "Conduct user testing for visualizations gathering feedback and iterating designs for improved comprehension.",
+    "keywords": [
+      "User Testing",
+      "Usability Evaluation",
+      "Iterative Design"
+    ]
+  },
+  {
+    "id": 10288,
+    "title": "Sunburst Diagram for Hierarchical Part-to-Whole",
+    "domain": "145",
+    "description": "Create sunburst diagrams displaying hierarchical data in concentric rings showing part-to-whole relationships.",
+    "keywords": [
+      "Sunburst Diagrams",
+      "Hierarchical Visualization",
+      "Radial Tree"
+    ]
+  },
+  {
+    "id": 10289,
+    "title": "Bullet Graph Design for Performance Comparison",
+    "domain": "145",
+    "description": "Design bullet graphs providing compact performance comparisons against targets and historical benchmarks.",
+    "keywords": [
+      "Bullet Graphs",
+      "Performance Comparison",
+      "Compact Visualization"
+    ]
+  },
+  {
+    "id": 10290,
+    "title": "Tableau Dashboard Development and Publishing",
+    "domain": "145",
+    "description": "Develop interactive Tableau dashboards with calculated fields, parameters, and actions for business analytics.",
+    "keywords": [
+      "Tableau",
+      "BI Dashboards",
+      "Interactive Analytics"
+    ]
+  },
+  {
+    "id": 10291,
+    "title": "Dendrogram Visualization for Cluster Analysis",
+    "domain": "145",
+    "description": "Create dendrogram visualizations representing hierarchical clustering results and relationships between clusters.",
+    "keywords": [
+      "Dendrograms",
+      "Cluster Analysis",
+      "Hierarchical Clustering"
+    ]
+  },
+  {
+    "id": 10292,
+    "title": "Motion Chart Design for Dynamic Data Exploration",
+    "domain": "145",
+    "description": "Design motion charts animating data changes over time enabling pattern discovery through movement.",
+    "keywords": [
+      "Motion Charts",
+      "Dynamic Visualization",
+      "Animated Scatter Plots"
+    ]
+  },
+  {
+    "id": 10293,
+    "title": "Data Journalism Visualization Standards",
+    "domain": "145",
+    "description": "Develop visualization standards for data journalism ensuring accuracy, transparency, and ethical data representation.",
+    "keywords": [
+      "Data Journalism",
+      "Ethical Visualization",
+      "Journalism Standards"
+    ]
+  },
+  {
+    "id": 10294,
+    "title": "Icicle Chart Design for Hierarchical Data",
+    "domain": "145",
+    "description": "Create icicle charts displaying hierarchical data using horizontal stacked rectangles showing parent-child relationships.",
+    "keywords": [
+      "Icicle Charts",
+      "Hierarchical Layout",
+      "Tree Visualization"
+    ]
+  },
+  {
+    "id": 10295,
+    "title": "Power BI Report Design and Data Modeling",
+    "domain": "145",
+    "description": "Design Power BI reports with optimized data models, DAX calculations, and interactive visualizations.",
+    "keywords": [
+      "Power BI",
+      "Data Modeling",
+      "DAX Formulas"
+    ]
+  },
+  {
+    "id": 10296,
+    "title": "Slope Chart Design for Change Visualization",
+    "domain": "145",
+    "description": "Design slope charts showing changes between two time points or states with connecting lines emphasizing trends.",
+    "keywords": [
+      "Slope Charts",
+      "Change Visualization",
+      "Before-After Comparison"
+    ]
+  },
+  {
+    "id": 10297,
+    "title": "Animated Data Map for Geographic Trends",
+    "domain": "145",
+    "description": "Create animated maps showing geographic data changes over time with smooth transitions and temporal controls.",
+    "keywords": [
+      "Animated Maps",
+      "Geographic Trends",
+      "Temporal Mapping"
+    ]
+  },
+  {
+    "id": 10298,
+    "title": "Heatmap Calendar Visualization for Activity Patterns",
+    "domain": "145",
+    "description": "Design calendar heatmaps displaying activity patterns across days, weeks, and months using color intensity.",
+    "keywords": [
+      "Calendar Heatmaps",
+      "Activity Patterns",
+      "Temporal Heatmaps"
+    ]
+  },
+  {
+    "id": 10299,
+    "title": "Chord Diagram for Relationship Flow Visualization",
+    "domain": "145",
+    "description": "Create chord diagrams showing flows and relationships between entities arranged in a circular layout.",
+    "keywords": [
+      "Chord Diagrams",
+      "Flow Visualization",
+      "Circular Networks"
+    ]
+  },
+  {
+    "id": 10300,
+    "title": "Data Visualization Documentation and Best Practices",
+    "domain": "145",
+    "description": "Develop comprehensive documentation and best practice guidelines for creating effective and accurate data visualizations.",
+    "keywords": [
+      "Documentation",
+      "Best Practices",
+      "Visualization Guidelines"
+    ]
+  },
+  // domain 146
+  {
+    "id": 10301,
+    "title": "Parallel Algorithm Design for Large-Scale Simulations",
+    "domain": "146",
+    "description": "Design and implement parallel algorithms optimizing computational efficiency for large-scale scientific simulations on HPC clusters.",
+    "keywords": [
+      "Parallel Algorithms",
+      "Large-Scale Simulation",
+      "Algorithm Optimization"
+    ]
+  },
+  {
+    "id": 10302,
+    "title": "GPU Acceleration for Computational Fluid Dynamics",
+    "domain": "146",
+    "description": "Implement GPU-accelerated solvers for computational fluid dynamics problems using CUDA or OpenCL frameworks.",
+    "keywords": [
+      "GPU Acceleration",
+      "CFD",
+      "CUDA Programming"
+    ]
+  },
+  {
+    "id": 10303,
+    "title": "MPI-Based Distributed Memory Programming",
+    "domain": "146",
+    "description": "Develop distributed memory parallel programs using MPI for solving complex scientific problems across multiple nodes.",
+    "keywords": [
+      "MPI Programming",
+      "Distributed Computing",
+      "Message Passing"
+    ]
+  },
+  {
+    "id": 10304,
+    "title": "Molecular Dynamics Simulation Optimization",
+    "domain": "146",
+    "description": "Optimize molecular dynamics simulations for biomolecular systems using parallel computing techniques and force field calculations.",
+    "keywords": [
+      "Molecular Dynamics",
+      "Biomolecular Simulation",
+      "MD Optimization"
+    ]
+  },
+  {
+    "id": 10305,
+    "title": "Load Balancing Strategies for HPC Applications",
+    "domain": "146",
+    "description": "Implement dynamic load balancing algorithms ensuring optimal resource utilization across heterogeneous computing resources.",
+    "keywords": [
+      "Load Balancing",
+      "Resource Optimization",
+      "Task Distribution"
+    ]
+  },
+  {
+    "id": 10306,
+    "title": "Quantum Chemistry Calculations on Supercomputers",
+    "domain": "146",
+    "description": "Perform large-scale quantum chemistry calculations using ab initio methods on supercomputing infrastructure.",
+    "keywords": [
+      "Quantum Chemistry",
+      "Ab Initio Methods",
+      "Electronic Structure"
+    ]
+  },
+  {
+    "id": 10307,
+    "title": "Climate Model Parallelization and Scalability",
+    "domain": "146",
+    "description": "Parallelize global climate models achieving scalability across thousands of processors for long-term forecasting.",
+    "keywords": [
+      "Climate Modeling",
+      "Parallelization",
+      "Scalability Analysis"
+    ]
+  },
+  {
+    "id": 10308,
+    "title": "OpenMP Shared Memory Programming for Multi-Core",
+    "domain": "146",
+    "description": "Develop shared memory parallel programs using OpenMP directives optimizing performance on multi-core processors.",
+    "keywords": [
+      "OpenMP",
+      "Shared Memory",
+      "Multi-Core Programming"
+    ]
+  },
+  {
+    "id": 10309,
+    "title": "Finite Element Method Solver Optimization",
+    "domain": "146",
+    "description": "Optimize finite element solvers for structural mechanics and heat transfer using sparse matrix techniques and iterative methods.",
+    "keywords": [
+      "Finite Element Method",
+      "Solver Optimization",
+      "Sparse Matrices"
+    ]
+  },
+  {
+    "id": 10310,
+    "title": "HPC Cluster Architecture Design and Configuration",
+    "domain": "146",
+    "description": "Design high-performance computing cluster architectures with optimal network topology, storage, and cooling systems.",
+    "keywords": [
+      "Cluster Architecture",
+      "HPC Infrastructure",
+      "System Design"
+    ]
+  },
+  {
+    "id": 10311,
+    "title": "Computational Genomics Pipeline Development",
+    "domain": "146",
+    "description": "Develop scalable computational pipelines for genome assembly, alignment, and variant calling on HPC systems.",
+    "keywords": [
+      "Computational Genomics",
+      "Bioinformatics Pipeline",
+      "Genome Analysis"
+    ]
+  },
+  {
+    "id": 10312,
+    "title": "Hybrid CPU-GPU Programming Models",
+    "domain": "146",
+    "description": "Implement hybrid programming models combining CPU and GPU resources for optimal performance in scientific applications.",
+    "keywords": [
+      "Hybrid Computing",
+      "CPU-GPU Integration",
+      "Heterogeneous Computing"
+    ]
+  },
+  {
+    "id": 10313,
+    "title": "Performance Profiling and Bottleneck Analysis",
+    "domain": "146",
+    "description": "Conduct performance profiling using tools like VTune and TAU identifying computational bottlenecks in HPC applications.",
+    "keywords": [
+      "Performance Profiling",
+      "Bottleneck Analysis",
+      "Code Optimization"
+    ]
+  },
+  {
+    "id": 10314,
+    "title": "Monte Carlo Simulation Parallelization",
+    "domain": "146",
+    "description": "Parallelize Monte Carlo simulations for statistical physics and financial modeling achieving near-linear speedup.",
+    "keywords": [
+      "Monte Carlo Methods",
+      "Parallel Simulation",
+      "Statistical Computing"
+    ]
+  },
+  {
+    "id": 10315,
+    "title": "Scientific Workflow Management Systems",
+    "domain": "146",
+    "description": "Develop workflow management systems orchestrating complex scientific computations across distributed HPC resources.",
+    "keywords": [
+      "Workflow Management",
+      "Job Scheduling",
+      "Pipeline Orchestration"
+    ]
+  },
+  {
+    "id": 10316,
+    "title": "Fast Fourier Transform Implementation on GPUs",
+    "domain": "146",
+    "description": "Implement optimized FFT algorithms on GPUs for signal processing and spectral analysis applications.",
+    "keywords": [
+      "Fast Fourier Transform",
+      "GPU Computing",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": 10317,
+    "title": "Particle-in-Cell Simulation for Plasma Physics",
+    "domain": "146",
+    "description": "Develop particle-in-cell simulations modeling plasma dynamics using parallel computing techniques.",
+    "keywords": [
+      "Particle-in-Cell",
+      "Plasma Physics",
+      "Particle Simulation"
+    ]
+  },
+  {
+    "id": 10318,
+    "title": "High-Performance Linear Algebra Libraries",
+    "domain": "146",
+    "description": "Optimize linear algebra operations using BLAS, LAPACK, and ScaLAPACK libraries for matrix computations.",
+    "keywords": [
+      "Linear Algebra",
+      "BLAS",
+      "Matrix Operations"
+    ]
+  },
+  {
+    "id": 10319,
+    "title": "Checkpoint-Restart Mechanisms for Fault Tolerance",
+    "domain": "146",
+    "description": "Implement checkpoint-restart mechanisms ensuring fault tolerance in long-running HPC simulations.",
+    "keywords": [
+      "Checkpoint-Restart",
+      "Fault Tolerance",
+      "Resilience"
+    ]
+  },
+  {
+    "id": 10320,
+    "title": "N-Body Simulation Optimization Techniques",
+    "domain": "146",
+    "description": "Optimize N-body simulations for astrophysics and molecular dynamics using tree algorithms and particle mesh methods.",
+    "keywords": [
+      "N-Body Simulation",
+      "Gravitational Systems",
+      "Barnes-Hut Algorithm"
+    ]
+  },
+  {
+    "id": 10321,
+    "title": "Compiler Optimization Flags for HPC Applications",
+    "domain": "146",
+    "description": "Evaluate and apply compiler optimization flags maximizing performance of scientific computing applications.",
+    "keywords": [
+      "Compiler Optimization",
+      "Performance Tuning",
+      "Code Generation"
+    ]
+  },
+  {
+    "id": 10322,
+    "title": "Distributed File System for Scientific Data Storage",
+    "domain": "146",
+    "description": "Design distributed file systems like Lustre or GPFS for efficient parallel I/O in HPC environments.",
+    "keywords": [
+      "Distributed File Systems",
+      "Parallel I/O",
+      "Data Storage"
+    ]
+  },
+  {
+    "id": 10323,
+    "title": "Spectral Methods for Partial Differential Equations",
+    "domain": "146",
+    "description": "Implement spectral methods solving partial differential equations with high accuracy for fluid dynamics applications.",
+    "keywords": [
+      "Spectral Methods",
+      "PDE Solvers",
+      "Numerical Analysis"
+    ]
+  },
+  {
+    "id": 10324,
+    "title": "Container-Based HPC Environment Deployment",
+    "domain": "146",
+    "description": "Deploy containerized HPC applications using Singularity or Docker ensuring reproducibility and portability.",
+    "keywords": [
+      "Container Technology",
+      "Singularity",
+      "Application Deployment"
+    ]
+  },
+  {
+    "id": 10325,
+    "title": "Adaptive Mesh Refinement for Multiscale Problems",
+    "domain": "146",
+    "description": "Implement adaptive mesh refinement techniques dynamically adjusting resolution for multiscale physical phenomena.",
+    "keywords": [
+      "Adaptive Mesh Refinement",
+      "Multiscale Modeling",
+      "Dynamic Meshing"
+    ]
+  },
+  {
+    "id": 10326,
+    "title": "Quantum Circuit Simulation on Classical Hardware",
+    "domain": "146",
+    "description": "Simulate quantum circuits on classical supercomputers for quantum algorithm development and validation.",
+    "keywords": [
+      "Quantum Simulation",
+      "Quantum Computing",
+      "Circuit Simulation"
+    ]
+  },
+  {
+    "id": 10327,
+    "title": "Machine Learning Model Training on HPC Clusters",
+    "domain": "146",
+    "description": "Distribute deep learning model training across HPC clusters using frameworks like Horovod and distributed TensorFlow.",
+    "keywords": [
+      "Distributed Training",
+      "Deep Learning",
+      "Model Parallelism"
+    ]
+  },
+  {
+    "id": 10328,
+    "title": "FPGA Acceleration for Scientific Computing",
+    "domain": "146",
+    "description": "Design FPGA-based accelerators for specific scientific computing tasks achieving energy-efficient performance.",
+    "keywords": [
+      "FPGA Acceleration",
+      "Hardware Design",
+      "Custom Computing"
+    ]
+  },
+  {
+    "id": 10329,
+    "title": "Job Scheduling Algorithms for HPC Workloads",
+    "domain": "146",
+    "description": "Develop job scheduling algorithms optimizing resource allocation and minimizing wait times in HPC batch systems.",
+    "keywords": [
+      "Job Scheduling",
+      "Resource Management",
+      "Batch Systems"
+    ]
+  },
+  {
+    "id": 10330,
+    "title": "Domain Decomposition Methods for Parallel Computing",
+    "domain": "146",
+    "description": "Implement domain decomposition techniques partitioning problems spatially for efficient parallel solution.",
+    "keywords": [
+      "Domain Decomposition",
+      "Parallel Methods",
+      "Spatial Partitioning"
+    ]
+  },
+  {
+    "id": 10331,
+    "title": "Computational Astrophysics Simulation Framework",
+    "domain": "146",
+    "description": "Develop simulation frameworks for astrophysical phenomena including star formation and galaxy evolution.",
+    "keywords": [
+      "Computational Astrophysics",
+      "Cosmological Simulation",
+      "Star Formation"
+    ]
+  },
+  {
+    "id": 10332,
+    "title": "Memory Optimization Techniques for Cache Efficiency",
+    "domain": "146",
+    "description": "Apply memory optimization techniques improving cache utilization and reducing memory bandwidth bottlenecks.",
+    "keywords": [
+      "Memory Optimization",
+      "Cache Efficiency",
+      "Data Locality"
+    ]
+  },
+  {
+    "id": 10333,
+    "title": "Lattice Boltzmann Method for Fluid Simulations",
+    "domain": "146",
+    "description": "Implement lattice Boltzmann methods for complex fluid flow simulations with intricate boundary conditions.",
+    "keywords": [
+      "Lattice Boltzmann",
+      "Fluid Simulation",
+      "Mesoscopic Methods"
+    ]
+  },
+  {
+    "id": 10334,
+    "title": "Energy-Efficient Computing for Green HPC",
+    "domain": "146",
+    "description": "Develop energy-efficient algorithms and power management strategies reducing HPC environmental impact.",
+    "keywords": [
+      "Energy Efficiency",
+      "Green Computing",
+      "Power Management"
+    ]
+  },
+  {
+    "id": 10335,
+    "title": "Stochastic Differential Equation Solvers",
+    "domain": "146",
+    "description": "Develop numerical solvers for stochastic differential equations in computational finance and biology applications.",
+    "keywords": [
+      "Stochastic Equations",
+      "SDE Solvers",
+      "Numerical Methods"
+    ]
+  },
+  {
+    "id": 10336,
+    "title": "InfiniBand Network Configuration for Low Latency",
+    "domain": "146",
+    "description": "Configure InfiniBand networks achieving ultra-low latency communication for tightly coupled HPC applications.",
+    "keywords": [
+      "InfiniBand",
+      "Network Configuration",
+      "Low-Latency Communication"
+    ]
+  },
+  {
+    "id": 10337,
+    "title": "Computational Chemistry Reaction Pathway Analysis",
+    "domain": "146",
+    "description": "Compute reaction pathways and transition states using quantum mechanical methods on HPC systems.",
+    "keywords": [
+      "Reaction Pathways",
+      "Transition States",
+      "Computational Chemistry"
+    ]
+  },
+  {
+    "id": 10338,
+    "title": "Vectorization Techniques for SIMD Processing",
+    "domain": "146",
+    "description": "Apply vectorization techniques leveraging SIMD instructions for improved computational throughput.",
+    "keywords": [
+      "Vectorization",
+      "SIMD",
+      "Instruction-Level Parallelism"
+    ]
+  },
+  {
+    "id": 10339,
+    "title": "Benchmark Suite Development for HPC Systems",
+    "domain": "146",
+    "description": "Develop comprehensive benchmark suites evaluating performance of HPC systems across various workloads.",
+    "keywords": [
+      "Benchmarking",
+      "Performance Evaluation",
+      "System Testing"
+    ]
+  },
+  {
+    "id": 10340,
+    "title": "Multi-Physics Coupling in Complex Simulations",
+    "domain": "146",
+    "description": "Implement coupled multi-physics simulations integrating fluid dynamics, heat transfer, and structural mechanics.",
+    "keywords": [
+      "Multi-Physics",
+      "Coupled Simulation",
+      "Integrated Modeling"
+    ]
+  },
+  {
+    "id": 10341,
+    "title": "Numerical Weather Prediction Model Optimization",
+    "domain": "146",
+    "description": "Optimize numerical weather prediction models achieving faster-than-real-time forecasting on HPC systems.",
+    "keywords": [
+      "Weather Prediction",
+      "Atmospheric Modeling",
+      "Forecast Optimization"
+    ]
+  },
+  {
+    "id": 10342,
+    "title": "Sparse Matrix-Vector Multiplication Optimization",
+    "domain": "146",
+    "description": "Optimize sparse matrix-vector multiplication kernels for iterative solvers in scientific computing.",
+    "keywords": [
+      "Sparse Matrices",
+      "Matrix-Vector Product",
+      "Kernel Optimization"
+    ]
+  },
+  {
+    "id": 10343,
+    "title": "Computational Materials Science Simulations",
+    "domain": "146",
+    "description": "Perform first-principles calculations for materials properties using density functional theory on supercomputers.",
+    "keywords": [
+      "Materials Science",
+      "DFT Calculations",
+      "Electronic Properties"
+    ]
+  },
+  {
+    "id": 10344,
+    "title": "Task-Based Parallel Programming with Charm++",
+    "domain": "146",
+    "description": "Develop task-based parallel applications using Charm++ runtime system with automatic load balancing.",
+    "keywords": [
+      "Task Parallelism",
+      "Charm++",
+      "Runtime Systems"
+    ]
+  },
+  {
+    "id": 10345,
+    "title": "High-Order Finite Difference Schemes",
+    "domain": "146",
+    "description": "Implement high-order accurate finite difference schemes for wave propagation and seismic imaging.",
+    "keywords": [
+      "Finite Differences",
+      "High-Order Methods",
+      "Numerical Accuracy"
+    ]
+  },
+  {
+    "id": 10346,
+    "title": "Radiation Transport Simulation in Nuclear Engineering",
+    "domain": "146",
+    "description": "Simulate neutron and photon transport in nuclear reactors using Monte Carlo methods on HPC clusters.",
+    "keywords": [
+      "Radiation Transport",
+      "Nuclear Engineering",
+      "Neutron Transport"
+    ]
+  },
+  {
+    "id": 10347,
+    "title": "Auto-Tuning Framework for Performance Optimization",
+    "domain": "146",
+    "description": "Develop auto-tuning frameworks automatically optimizing code parameters for target HPC architectures.",
+    "keywords": [
+      "Auto-Tuning",
+      "Automatic Optimization",
+      "Performance Portability"
+    ]
+  },
+  {
+    "id": 10348,
+    "title": "Computational Electromagnetics Using FDTD Method",
+    "domain": "146",
+    "description": "Implement finite-difference time-domain methods for electromagnetic wave propagation and antenna design.",
+    "keywords": [
+      "Electromagnetics",
+      "FDTD Method",
+      "Wave Propagation"
+    ]
+  },
+  {
+    "id": 10349,
+    "title": "Parallel I/O Performance Optimization with MPI-IO",
+    "domain": "146",
+    "description": "Optimize parallel I/O operations using MPI-IO and collective buffering techniques for large datasets.",
+    "keywords": [
+      "Parallel I/O",
+      "MPI-IO",
+      "I/O Optimization"
+    ]
+  },
+  {
+    "id": 10350,
+    "title": "Computational Drug Discovery Workflows",
+    "domain": "146",
+    "description": "Develop high-throughput virtual screening workflows for drug discovery using molecular docking simulations.",
+    "keywords": [
+      "Drug Discovery",
+      "Molecular Docking",
+      "Virtual Screening"
+    ]
+  },
+  {
+    "id": 10351,
+    "title": "Discontinuous Galerkin Methods for Conservation Laws",
+    "domain": "146",
+    "description": "Implement discontinuous Galerkin finite element methods solving hyperbolic conservation laws.",
+    "keywords": [
+      "Discontinuous Galerkin",
+      "Conservation Laws",
+      "Finite Elements"
+    ]
+  },
+  {
+    "id": 10352,
+    "title": "HPC System Monitoring and Telemetry",
+    "domain": "146",
+    "description": "Implement comprehensive monitoring systems tracking compute, memory, network, and power metrics across HPC infrastructure.",
+    "keywords": [
+      "System Monitoring",
+      "Telemetry",
+      "Resource Tracking"
+    ]
+  },
+  {
+    "id": 10353,
+    "title": "Multigrid Methods for Elliptic PDEs",
+    "domain": "146",
+    "description": "Develop multigrid solvers achieving optimal computational complexity for elliptic partial differential equations.",
+    "keywords": [
+      "Multigrid Methods",
+      "PDE Solvers",
+      "Iterative Methods"
+    ]
+  },
+  {
+    "id": 10354,
+    "title": "Quantum Molecular Dynamics Simulations",
+    "domain": "146",
+    "description": "Perform ab initio molecular dynamics simulations combining quantum mechanics with classical dynamics.",
+    "keywords": [
+      "Quantum Dynamics",
+      "Ab Initio MD",
+      "Molecular Simulation"
+    ]
+  },
+  {
+    "id": 10355,
+    "title": "Network Topology Optimization for HPC Clusters",
+    "domain": "146",
+    "description": "Optimize network topologies including fat-tree and dragonfly designs for efficient MPI communication patterns.",
+    "keywords": [
+      "Network Topology",
+      "Interconnect Design",
+      "Communication Optimization"
+    ]
+  },
+  {
+    "id": 10356,
+    "title": "Computational Neuroscience Brain Simulation",
+    "domain": "146",
+    "description": "Simulate large-scale neural networks modeling brain connectivity and neuronal dynamics on supercomputers.",
+    "keywords": [
+      "Computational Neuroscience",
+      "Brain Simulation",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": 10357,
+    "title": "Preconditioner Development for Iterative Solvers",
+    "domain": "146",
+    "description": "Develop efficient preconditioners accelerating convergence of iterative methods for large sparse systems.",
+    "keywords": [
+      "Preconditioners",
+      "Iterative Solvers",
+      "Convergence Acceleration"
+    ]
+  },
+  {
+    "id": 10358,
+    "title": "Turbulence Modeling with Large Eddy Simulation",
+    "domain": "146",
+    "description": "Implement large eddy simulation techniques for turbulent flow modeling in complex geometries.",
+    "keywords": [
+      "Turbulence Modeling",
+      "Large Eddy Simulation",
+      "CFD"
+    ]
+  },
+  {
+    "id": 10359,
+    "title": "GPU Memory Management for Large-Scale Problems",
+    "domain": "146",
+    "description": "Optimize GPU memory management strategies handling datasets exceeding device memory capacity.",
+    "keywords": [
+      "GPU Memory",
+      "Memory Management",
+      "Data Transfer"
+    ]
+  },
+  {
+    "id": 10360,
+    "title": "Seismic Wave Propagation Simulation",
+    "domain": "146",
+    "description": "Simulate seismic wave propagation in heterogeneous media for earthquake engineering and exploration geophysics.",
+    "keywords": [
+      "Seismic Simulation",
+      "Wave Propagation",
+      "Geophysics"
+    ]
+  },
+  {
+    "id": 10361,
+    "title": "Asynchronous Parallel Computing Models",
+    "domain": "146",
+    "description": "Implement asynchronous computing models reducing synchronization overhead in parallel applications.",
+    "keywords": [
+      "Asynchronous Computing",
+      "Parallel Models",
+      "Synchronization"
+    ]
+  },
+  {
+    "id": 10362,
+    "title": "Computational Protein Folding Prediction",
+    "domain": "146",
+    "description": "Predict protein structures using molecular dynamics and enhanced sampling techniques on HPC systems.",
+    "keywords": [
+      "Protein Folding",
+      "Structure Prediction",
+      "Molecular Modeling"
+    ]
+  },
+  {
+    "id": 10363,
+    "title": "Performance Portability with SYCL and Kokkos",
+    "domain": "146",
+    "description": "Develop performance-portable applications using SYCL or Kokkos targeting diverse HPC architectures.",
+    "keywords": [
+      "Performance Portability",
+      "SYCL",
+      "Kokkos"
+    ]
+  },
+  {
+    "id": 10364,
+    "title": "Combustion Simulation with Chemical Kinetics",
+    "domain": "146",
+    "description": "Simulate combustion processes incorporating detailed chemical kinetics and turbulent flow interactions.",
+    "keywords": [
+      "Combustion Simulation",
+      "Chemical Kinetics",
+      "Reactive Flow"
+    ]
+  },
+  {
+    "id": 10365,
+    "title": "HPC System Procurement and Total Cost of Ownership",
+    "domain": "146",
+    "description": "Analyze total cost of ownership for HPC systems including hardware, facilities, personnel, and operational costs.",
+    "keywords": [
+      "TCO Analysis",
+      "System Procurement",
+      "Cost Optimization"
+    ]
+  },
+  // domain 147
   
+  {
+    "id": 10366,
+    "title": "Long-Term Digital Preservation Strategy Development",
+    "domain": "147",
+    "description": "Develop comprehensive digital preservation strategies ensuring long-term accessibility and authenticity of digital assets over decades.",
+    "keywords": [
+      "Preservation Strategy",
+      "Long-Term Access",
+      "Digital Sustainability"
+    ]
+  },
+  {
+    "id": 10367,
+    "title": "OAIS Reference Model Implementation",
+    "domain": "147",
+    "description": "Implement Open Archival Information System reference model for managing digital repository architecture and workflows.",
+    "keywords": [
+      "OAIS Model",
+      "Repository Architecture",
+      "Archival Standards"
+    ]
+  },
+  {
+    "id": 10368,
+    "title": "Digital Asset Metadata Schema Design",
+    "domain": "147",
+    "description": "Design comprehensive metadata schemas capturing descriptive, technical, and preservation information for digital objects.",
+    "keywords": [
+      "Metadata Schema",
+      "Digital Asset Management",
+      "Information Architecture"
+    ]
+  },
+  {
+    "id": 10369,
+    "title": "File Format Migration and Normalization",
+    "domain": "147",
+    "description": "Develop migration strategies converting obsolete file formats to sustainable preservation formats without information loss.",
+    "keywords": [
+      "Format Migration",
+      "File Normalization",
+      "Format Preservation"
+    ]
+  },
+  {
+    "id": 10370,
+    "title": "Checksum Verification and Fixity Checking Systems",
+    "domain": "147",
+    "description": "Implement automated fixity checking systems using checksums and hash algorithms detecting digital content corruption.",
+    "keywords": [
+      "Fixity Checking",
+      "Checksum Verification",
+      "Data Integrity"
+    ]
+  },
+  {
+    "id": 10371,
+    "title": "Digital Repository Platform Deployment",
+    "domain": "147",
+    "description": "Deploy digital repository platforms like DSpace, Fedora, or Archivematica for institutional archival management.",
+    "keywords": [
+      "Digital Repository",
+      "Platform Deployment",
+      "Archival Systems"
+    ]
+  },
+  {
+    "id": 10372,
+    "title": "Emulation Strategies for Obsolete Software",
+    "domain": "147",
+    "description": "Develop emulation environments preserving access to digital content requiring obsolete software and operating systems.",
+    "keywords": [
+      "Emulation",
+      "Legacy Software",
+      "Access Preservation"
+    ]
+  },
+  {
+    "id": 10373,
+    "title": "Trusted Digital Repository Certification",
+    "domain": "147",
+    "description": "Prepare institutional repositories for trusted digital repository certification meeting ISO 16363 standards.",
+    "keywords": [
+      "TDR Certification",
+      "ISO 16363",
+      "Repository Trust"
+    ]
+  },
+  {
+    "id": 10374,
+    "title": "Born-Digital Archives Processing Workflows",
+    "domain": "147",
+    "description": "Design workflows for processing born-digital archival collections including appraisal, arrangement, and description.",
+    "keywords": [
+      "Born-Digital Archives",
+      "Digital Processing",
+      "Archival Workflows"
+    ]
+  },
+  {
+    "id": 10375,
+    "title": "Digital Preservation Risk Assessment",
+    "domain": "147",
+    "description": "Conduct risk assessments identifying preservation threats including format obsolescence, media degradation, and technological dependencies.",
+    "keywords": [
+      "Risk Assessment",
+      "Preservation Planning",
+      "Threat Analysis"
+    ]
+  },
+  {
+    "id": 10376,
+    "title": "Persistent Identifier Systems Implementation",
+    "domain": "147",
+    "description": "Implement persistent identifier systems like DOI, Handle, or ARK ensuring permanent linkage to digital resources.",
+    "keywords": [
+      "Persistent Identifiers",
+      "DOI",
+      "Resource Linking"
+    ]
+  },
+  {
+    "id": 10377,
+    "title": "Web Archiving Crawler Configuration",
+    "domain": "147",
+    "description": "Configure web crawlers capturing and preserving websites, social media, and dynamic web content for archival purposes.",
+    "keywords": [
+      "Web Archiving",
+      "Web Crawling",
+      "Website Preservation"
+    ]
+  },
+  {
+    "id": 10378,
+    "title": "Digital Forensics for Archival Processing",
+    "domain": "147",
+    "description": "Apply digital forensics techniques for forensically sound acquisition and processing of born-digital archival materials.",
+    "keywords": [
+      "Digital Forensics",
+      "Forensic Acquisition",
+      "Chain of Custody"
+    ]
+  },
+  {
+    "id": 10379,
+    "title": "Preservation Metadata Extraction and Management",
+    "domain": "147",
+    "description": "Extract and manage PREMIS preservation metadata documenting technical characteristics and preservation actions.",
+    "keywords": [
+      "PREMIS Metadata",
+      "Metadata Extraction",
+      "Preservation Information"
+    ]
+  },
+  {
+    "id": 10380,
+    "title": "Digital Asset Rights Management Systems",
+    "domain": "147",
+    "description": "Implement rights management systems tracking intellectual property, licensing, and access permissions for digital collections.",
+    "keywords": [
+      "Rights Management",
+      "Access Control",
+      "Intellectual Property"
+    ]
+  },
+  {
+    "id": 10381,
+    "title": "Storage Media Lifecycle Management",
+    "domain": "147",
+    "description": "Manage storage media lifecycle including migration schedules, redundancy strategies, and obsolescence monitoring.",
+    "keywords": [
+      "Media Management",
+      "Storage Lifecycle",
+      "Media Migration"
+    ]
+  },
+  {
+    "id": 10382,
+    "title": "Audio-Visual Archive Digitization Workflows",
+    "domain": "147",
+    "description": "Design digitization workflows for audio-visual materials ensuring high-quality preservation masters and access derivatives.",
+    "keywords": [
+      "AV Digitization",
+      "Audio-Visual Archives",
+      "Digitization Standards"
+    ]
+  },
+  {
+    "id": 10383,
+    "title": "Linked Data for Archival Description",
+    "domain": "147",
+    "description": "Implement linked data technologies enhancing archival descriptions with semantic relationships and external vocabularies.",
+    "keywords": [
+      "Linked Data",
+      "Semantic Web",
+      "Archival Description"
+    ]
+  },
+  {
+    "id": 10384,
+    "title": "Cloud Storage Solutions for Digital Preservation",
+    "domain": "147",
+    "description": "Evaluate and implement cloud storage solutions for digital preservation considering vendor lock-in and sustainability.",
+    "keywords": [
+      "Cloud Storage",
+      "Cloud Preservation",
+      "Storage Solutions"
+    ]
+  },
+  {
+    "id": 10385,
+    "title": "Digital Collection Access System Design",
+    "domain": "147",
+    "description": "Design user-friendly access systems enabling discovery, viewing, and download of preserved digital collections.",
+    "keywords": [
+      "Access Systems",
+      "Collection Discovery",
+      "User Interface"
+    ]
+  },
+  {
+    "id": 10386,
+    "title": "Archival Content Management System Integration",
+    "domain": "147",
+    "description": "Integrate content management systems with preservation repositories enabling seamless workflows from creation to preservation.",
+    "keywords": [
+      "CMS Integration",
+      "System Integration",
+      "Workflow Automation"
+    ]
+  },
+  {
+    "id": 10387,
+    "title": "Digital Preservation Policy Framework Development",
+    "domain": "147",
+    "description": "Develop institutional policies governing digital preservation responsibilities, selection criteria, and retention schedules.",
+    "keywords": [
+      "Preservation Policy",
+      "Policy Framework",
+      "Institutional Governance"
+    ]
+  },
+  {
+    "id": 10388,
+    "title": "Optical Character Recognition for Document Archives",
+    "domain": "147",
+    "description": "Apply OCR technologies creating searchable text from scanned documents and improving archival accessibility.",
+    "keywords": [
+      "OCR",
+      "Text Recognition",
+      "Document Processing"
+    ]
+  },
+  {
+    "id": 10389,
+    "title": "Digital Preservation Cost Modeling",
+    "domain": "147",
+    "description": "Develop cost models estimating total cost of ownership for digital preservation infrastructure and operations.",
+    "keywords": [
+      "Cost Modeling",
+      "TCO Analysis",
+      "Budget Planning"
+    ]
+  },
+  {
+    "id": 10390,
+    "title": "Geospatial Data Archiving Standards",
+    "domain": "147",
+    "description": "Implement preservation standards for geospatial data including GIS datasets, satellite imagery, and cartographic materials.",
+    "keywords": [
+      "Geospatial Archives",
+      "GIS Preservation",
+      "Spatial Data"
+    ]
+  },
+  {
+    "id": 10391,
+    "title": "Email Archive Management and Preservation",
+    "domain": "147",
+    "description": "Develop systems for capturing, processing, and preserving institutional email archives with privacy considerations.",
+    "keywords": [
+      "Email Archiving",
+      "Email Preservation",
+      "Communication Archives"
+    ]
+  },
+  {
+    "id": 10392,
+    "title": "Digital Preservation Audit and Compliance",
+    "domain": "147",
+    "description": "Conduct preservation audits verifying compliance with institutional policies and archival standards.",
+    "keywords": [
+      "Preservation Audit",
+      "Compliance Testing",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "id": 10393,
+    "title": "Machine Learning for Archival Description",
+    "domain": "147",
+    "description": "Apply machine learning techniques automating archival description, classification, and subject indexing.",
+    "keywords": [
+      "Machine Learning",
+      "Automated Description",
+      "Classification"
+    ]
+  },
+  {
+    "id": 10394,
+    "title": "Digital Preservation Training Program Development",
+    "domain": "147",
+    "description": "Develop training programs building digital preservation competencies among archival and library staff.",
+    "keywords": [
+      "Training Programs",
+      "Professional Development",
+      "Capacity Building"
+    ]
+  },
+  {
+    "id": 10395,
+    "title": "Distributed Digital Preservation Networks",
+    "domain": "147",
+    "description": "Participate in distributed preservation networks like LOCKSS ensuring redundancy and geographic distribution.",
+    "keywords": [
+      "Distributed Preservation",
+      "LOCKSS",
+      "Network Redundancy"
+    ]
+  },
+  {
+    "id": 10396,
+    "title": "Database Preservation and Migration Strategies",
+    "domain": "147",
+    "description": "Develop strategies preserving database content, structure, and functionality for long-term access and reuse.",
+    "keywords": [
+      "Database Preservation",
+      "Data Migration",
+      "Database Archiving"
+    ]
+  },
+  {
+    "id": 10397,
+    "title": "3D Object Digitization and Preservation",
+    "domain": "147",
+    "description": "Digitize and preserve 3D objects using photogrammetry, laser scanning, and appropriate file formats.",
+    "keywords": [
+      "3D Digitization",
+      "3D Preservation",
+      "Object Scanning"
+    ]
+  },
+  {
+    "id": 10398,
+    "title": "Social Media Archive Collection and Curation",
+    "domain": "147",
+    "description": "Develop methodologies for collecting, curating, and preserving social media content for archival purposes.",
+    "keywords": [
+      "Social Media Archives",
+      "Content Collection",
+      "Web 2.0 Preservation"
+    ]
+  },
+  {
+    "id": 10399,
+    "title": "Digital Preservation Readiness Assessment",
+    "domain": "147",
+    "description": "Assess institutional readiness for digital preservation including infrastructure, policies, and staff capabilities.",
+    "keywords": [
+      "Readiness Assessment",
+      "Capacity Evaluation",
+      "Institutional Planning"
+    ]
+  },
+  {
+    "id": 10400,
+    "title": "Preservation Action Registry Development",
+    "domain": "147",
+    "description": "Develop registries documenting preservation actions, tools, and outcomes for institutional knowledge management.",
+    "keywords": [
+      "Action Registry",
+      "Preservation Documentation",
+      "Knowledge Management"
+    ]
+  },
+  {
+    "id": 10401,
+    "title": "Compressed File Format Preservation Strategies",
+    "domain": "147",
+    "description": "Develop strategies for preserving compressed archives ensuring long-term decompression capability and data integrity.",
+    "keywords": [
+      "Compressed Archives",
+      "Format Preservation",
+      "Data Compression"
+    ]
+  },
+  {
+    "id": 10402,
+    "title": "Digital Archive User Behavior Analytics",
+    "domain": "147",
+    "description": "Analyze user interaction patterns with digital archives informing interface design and content prioritization.",
+    "keywords": [
+      "User Analytics",
+      "Behavior Analysis",
+      "Usage Patterns"
+    ]
+  },
+  {
+    "id": 10403,
+    "title": "Encrypted Content Preservation Challenges",
+    "domain": "147",
+    "description": "Address preservation challenges for encrypted digital content balancing security requirements with long-term access.",
+    "keywords": [
+      "Encryption",
+      "Secure Preservation",
+      "Access Management"
+    ]
+  },
+  {
+    "id": 10404,
+    "title": "Scientific Data Repository Implementation",
+    "domain": "147",
+    "description": "Implement repositories for scientific research data ensuring FAIR principles and discipline-specific metadata standards.",
+    "keywords": [
+      "Research Data",
+      "Scientific Repository",
+      "FAIR Principles"
+    ]
+  },
+  {
+    "id": 10405,
+    "title": "Digital Preservation Workflow Automation",
+    "domain": "147",
+    "description": "Automate preservation workflows including ingest, validation, metadata extraction, and format identification.",
+    "keywords": [
+      "Workflow Automation",
+      "Process Automation",
+      "Preservation Pipelines"
+    ]
+  },
+  {
+    "id": 10406,
+    "title": "Archival Collection Appraisal and Selection",
+    "domain": "147",
+    "description": "Develop appraisal criteria and selection policies determining what digital materials merit long-term preservation.",
+    "keywords": [
+      "Appraisal",
+      "Selection Criteria",
+      "Collection Development"
+    ]
+  },
+  {
+    "id": 10407,
+    "title": "Digital Preservation Metrics and Reporting",
+    "domain": "147",
+    "description": "Establish metrics measuring preservation system effectiveness and generate reports for stakeholders.",
+    "keywords": [
+      "Preservation Metrics",
+      "Performance Reporting",
+      "Measurement"
+    ]
+  },
+  {
+    "id": 10408,
+    "title": "Legacy Media Recovery and Transfer",
+    "domain": "147",
+    "description": "Recover data from obsolete media including floppy disks, optical discs, and magnetic tapes before degradation.",
+    "keywords": [
+      "Media Recovery",
+      "Legacy Media",
+      "Data Transfer"
+    ]
+  },
+  {
+    "id": 10409,
+    "title": "Preservation-Quality Image Standards",
+    "domain": "147",
+    "description": "Establish image capture and storage standards ensuring preservation quality for digitized visual materials.",
+    "keywords": [
+      "Image Standards",
+      "Quality Control",
+      "Digital Imaging"
+    ]
+  },
+  {
+    "id": 10410,
+    "title": "Archival Information Package Design",
+    "domain": "147",
+    "description": "Design standardized archival information packages (AIPs) structuring preserved content with metadata and documentation.",
+    "keywords": [
+      "AIP Design",
+      "Information Packages",
+      "Package Structure"
+    ]
+  },
+  {
+    "id": 10411,
+    "title": "Video Game Preservation Methodologies",
+    "domain": "147",
+    "description": "Develop methodologies preserving video games including software, hardware, and documentation for cultural heritage.",
+    "keywords": [
+      "Game Preservation",
+      "Interactive Media",
+      "Cultural Heritage"
+    ]
+  },
+  {
+    "id": 10412,
+    "title": "Digital Archive Disaster Recovery Planning",
+    "domain": "147",
+    "description": "Develop disaster recovery plans ensuring business continuity and data recovery for digital preservation systems.",
+    "keywords": [
+      "Disaster Recovery",
+      "Business Continuity",
+      "Backup Strategies"
+    ]
+  },
+  {
+    "id": 10413,
+    "title": "Character Encoding Preservation Strategies",
+    "domain": "147",
+    "description": "Address character encoding preservation ensuring multilingual text remains readable across systems and time.",
+    "keywords": [
+      "Character Encoding",
+      "Text Preservation",
+      "Multilingual Support"
+    ]
+  },
+  {
+    "id": 10414,
+    "title": "Digital Provenance Tracking Systems",
+    "domain": "147",
+    "description": "Implement systems tracking digital object provenance documenting custody, transformations, and authenticity.",
+    "keywords": [
+      "Provenance Tracking",
+      "Chain of Custody",
+      "Authenticity"
+    ]
+  },
+  {
+    "id": 10415,
+    "title": "Open Source Preservation Tool Development",
+    "domain": "147",
+    "description": "Develop open source tools addressing specific digital preservation challenges and community needs.",
+    "keywords": [
+      "Open Source Tools",
+      "Tool Development",
+      "Community Software"
+    ]
+  },
+  {
+    "id": 10416,
+    "title": "Artificial Intelligence Ethics in Archives",
+    "domain": "147",
+    "description": "Address ethical considerations when applying AI technologies to archival materials including bias and privacy.",
+    "keywords": [
+      "AI Ethics",
+      "Archival Ethics",
+      "Algorithmic Bias"
+    ]
+  },
+  {
+    "id": 10417,
+    "title": "Digital Exhibition Platform Development",
+    "domain": "147",
+    "description": "Develop platforms creating virtual exhibitions from preserved digital collections with storytelling features.",
+    "keywords": [
+      "Digital Exhibitions",
+      "Virtual Displays",
+      "Public Engagement"
+    ]
+  },
+  {
+    "id": 10418,
+    "title": "Personal Digital Archive Management Tools",
+    "domain": "147",
+    "description": "Develop tools enabling individuals to manage personal digital archives including photos, documents, and correspondence.",
+    "keywords": [
+      "Personal Archives",
+      "Individual Preservation",
+      "Personal Digital Assets"
+    ]
+  },
+  {
+    "id": 10419,
+    "title": "Blockchain for Digital Preservation Authentication",
+    "domain": "147",
+    "description": "Explore blockchain technologies for establishing immutable records of digital object authenticity and provenance.",
+    "keywords": [
+      "Blockchain",
+      "Authentication",
+      "Distributed Ledger"
+    ]
+  },
+  {
+    "id": 10420,
+    "title": "Multi-Format Container File Design",
+    "domain": "147",
+    "description": "Design container formats bundling multiple file types with metadata for comprehensive preservation packages.",
+    "keywords": [
+      "Container Formats",
+      "File Packaging",
+      "Format Design"
+    ]
+  },
+  {
+    "id": 10421,
+    "title": "Digital Archive Sustainability Planning",
+    "domain": "147",
+    "description": "Develop sustainability plans ensuring long-term viability of digital preservation programs through funding and governance.",
+    "keywords": [
+      "Sustainability Planning",
+      "Program Sustainability",
+      "Long-Term Funding"
+    ]
+  },
+  {
+    "id": 10422,
+    "title": "Collaborative Digital Preservation Networks",
+    "domain": "147",
+    "description": "Establish collaborative networks sharing preservation infrastructure, expertise, and resources across institutions.",
+    "keywords": [
+      "Collaborative Networks",
+      "Resource Sharing",
+      "Institutional Partnerships"
+    ]
+  },
+  // domain 148
+  {
+    "id": 10423,
+    "title": "Web Application Penetration Testing Methodology",
+    "domain": "148",
+    "description": "Conduct comprehensive penetration testing of web applications identifying vulnerabilities including injection, XSS, and authentication flaws.",
+    "keywords": [
+      "Web Application Testing",
+      "OWASP Top 10",
+      "Vulnerability Assessment"
+    ]
+  },
+  {
+    "id": 10424,
+    "title": "Network Infrastructure Security Assessment",
+    "domain": "148",
+    "description": "Perform network penetration testing identifying vulnerabilities in routers, switches, firewalls, and network protocols.",
+    "keywords": [
+      "Network Security",
+      "Infrastructure Testing",
+      "Network Scanning"
+    ]
+  },
+  {
+    "id": 10425,
+    "title": "Wireless Network Security Audit",
+    "domain": "148",
+    "description": "Assess wireless network security testing WPA/WPA2/WPA3 implementations, rogue access points, and wireless encryption.",
+    "keywords": [
+      "Wireless Security",
+      "WiFi Penetration",
+      "Wireless Audit"
+    ]
+  },
+  {
+    "id": 10426,
+    "title": "SQL Injection Vulnerability Analysis",
+    "domain": "148",
+    "description": "Identify and exploit SQL injection vulnerabilities in web applications demonstrating data exfiltration and manipulation risks.",
+    "keywords": [
+      "SQL Injection",
+      "Database Security",
+      "Injection Attacks"
+    ]
+  },
+  {
+    "id": 10427,
+    "title": "Social Engineering Attack Simulation",
+    "domain": "148",
+    "description": "Conduct authorized social engineering tests including phishing campaigns, vishing, and physical security breaches.",
+    "keywords": [
+      "Social Engineering",
+      "Phishing Simulation",
+      "Human Factor Testing"
+    ]
+  },
+  {
+    "id": 10428,
+    "title": "Mobile Application Security Testing",
+    "domain": "148",
+    "description": "Perform security assessment of mobile applications testing for insecure data storage, weak cryptography, and API vulnerabilities.",
+    "keywords": [
+      "Mobile Security",
+      "App Testing",
+      "OWASP MASVS"
+    ]
+  },
+  {
+    "id": 10429,
+    "title": "Active Directory Security Assessment",
+    "domain": "148",
+    "description": "Evaluate Active Directory security identifying misconfigurations, privilege escalation paths, and domain compromise vectors.",
+    "keywords": [
+      "Active Directory",
+      "Domain Security",
+      "Windows Security"
+    ]
+  },
+  {
+    "id": 10430,
+    "title": "Cloud Infrastructure Penetration Testing",
+    "domain": "148",
+    "description": "Assess cloud environment security testing AWS, Azure, or GCP configurations for misconfigurations and vulnerabilities.",
+    "keywords": [
+      "Cloud Security",
+      "Cloud Penetration",
+      "Infrastructure Testing"
+    ]
+  },
+  {
+    "id": 10431,
+    "title": "Red Team Operations and Adversary Simulation",
+    "domain": "148",
+    "description": "Conduct red team exercises simulating advanced persistent threats and evaluating organizational detection and response capabilities.",
+    "keywords": [
+      "Red Teaming",
+      "Adversary Simulation",
+      "APT Emulation"
+    ]
+  },
+  {
+    "id": 10432,
+    "title": "API Security Testing and Exploitation",
+    "domain": "148",
+    "description": "Test RESTful and GraphQL APIs for authentication bypass, injection vulnerabilities, and data exposure issues.",
+    "keywords": [
+      "API Security",
+      "API Testing",
+      "REST Security"
+    ]
+  },
+  {
+    "id": 10433,
+    "title": "Password Cracking and Hash Analysis",
+    "domain": "148",
+    "description": "Perform password strength analysis using dictionary attacks, rainbow tables, and GPU-accelerated cracking techniques.",
+    "keywords": [
+      "Password Cracking",
+      "Hash Analysis",
+      "Credential Testing"
+    ]
+  },
+  {
+    "id": 10434,
+    "title": "IoT Device Security Assessment",
+    "domain": "148",
+    "description": "Evaluate IoT device security testing firmware, communication protocols, and embedded system vulnerabilities.",
+    "keywords": [
+      "IoT Security",
+      "Device Testing",
+      "Embedded Systems"
+    ]
+  },
+  {
+    "id": 10435,
+    "title": "Exploit Development for Known Vulnerabilities",
+    "domain": "148",
+    "description": "Develop proof-of-concept exploits for identified vulnerabilities demonstrating impact and risk to stakeholders.",
+    "keywords": [
+      "Exploit Development",
+      "PoC Creation",
+      "Vulnerability Exploitation"
+    ]
+  },
+  {
+    "id": 10436,
+    "title": "Cross-Site Scripting Attack Vectors",
+    "domain": "148",
+    "description": "Identify and exploit XSS vulnerabilities including reflected, stored, and DOM-based XSS in web applications.",
+    "keywords": [
+      "Cross-Site Scripting",
+      "XSS",
+      "Client-Side Attacks"
+    ]
+  },
+  {
+    "id": 10437,
+    "title": "Privilege Escalation Testing on Linux Systems",
+    "domain": "148",
+    "description": "Identify and exploit privilege escalation vulnerabilities in Linux systems including SUID binaries and kernel exploits.",
+    "keywords": [
+      "Privilege Escalation",
+      "Linux Security",
+      "Post-Exploitation"
+    ]
+  },
+  {
+    "id": 10438,
+    "title": "Security Testing Report Documentation",
+    "domain": "148",
+    "description": "Prepare comprehensive penetration testing reports documenting findings, risk ratings, and remediation recommendations.",
+    "keywords": [
+      "Report Writing",
+      "Documentation",
+      "Finding Presentation"
+    ]
+  },
+  {
+    "id": 10439,
+    "title": "Buffer Overflow Exploitation Techniques",
+    "domain": "148",
+    "description": "Identify and exploit buffer overflow vulnerabilities in compiled applications demonstrating code execution risks.",
+    "keywords": [
+      "Buffer Overflow",
+      "Memory Corruption",
+      "Binary Exploitation"
+    ]
+  },
+  {
+    "id": 10440,
+    "title": "Web Application Firewall Bypass Techniques",
+    "domain": "148",
+    "description": "Test web application firewall effectiveness using evasion techniques and bypass methods for security validation.",
+    "keywords": [
+      "WAF Bypass",
+      "Evasion Techniques",
+      "Security Controls"
+    ]
+  },
+  {
+    "id": 10441,
+    "title": "Container Security Assessment",
+    "domain": "148",
+    "description": "Evaluate Docker and Kubernetes security testing container images, orchestration configurations, and runtime security.",
+    "keywords": [
+      "Container Security",
+      "Docker Testing",
+      "Kubernetes Security"
+    ]
+  },
+  {
+    "id": 10442,
+    "title": "SCADA and Industrial Control System Testing",
+    "domain": "148",
+    "description": "Assess industrial control system security testing SCADA protocols, PLCs, and OT network segmentation.",
+    "keywords": [
+      "SCADA Security",
+      "ICS Testing",
+      "Industrial Security"
+    ]
+  },
+  {
+    "id": 10443,
+    "title": "Authentication and Session Management Testing",
+    "domain": "148",
+    "description": "Test authentication mechanisms and session management for weaknesses including token predictability and session fixation.",
+    "keywords": [
+      "Authentication Testing",
+      "Session Security",
+      "Access Control"
+    ]
+  },
+  {
+    "id": 10444,
+    "title": "Metasploit Framework for Penetration Testing",
+    "domain": "148",
+    "description": "Utilize Metasploit framework for vulnerability exploitation, payload delivery, and post-exploitation activities.",
+    "keywords": [
+      "Metasploit",
+      "Exploitation Framework",
+      "Automated Exploitation"
+    ]
+  },
+  {
+    "id": 10445,
+    "title": "DNS Security and Cache Poisoning Tests",
+    "domain": "148",
+    "description": "Test DNS infrastructure security including cache poisoning, zone transfer vulnerabilities, and DNSSEC implementation.",
+    "keywords": [
+      "DNS Security",
+      "Cache Poisoning",
+      "DNS Testing"
+    ]
+  },
+  {
+    "id": 10446,
+    "title": "Man-in-the-Middle Attack Demonstration",
+    "domain": "148",
+    "description": "Demonstrate MITM attacks on network communications testing SSL/TLS implementation and certificate validation.",
+    "keywords": [
+      "MITM Attacks",
+      "Network Interception",
+      "SSL/TLS Testing"
+    ]
+  },
+  {
+    "id": 10447,
+    "title": "Thick Client Application Security Testing",
+    "domain": "148",
+    "description": "Assess thick client application security testing local storage, communication protocols, and client-side logic.",
+    "keywords": [
+      "Thick Client",
+      "Desktop Application",
+      "Client Testing"
+    ]
+  },
+  {
+    "id": 10448,
+    "title": "Burp Suite Advanced Web Testing Techniques",
+    "domain": "148",
+    "description": "Utilize Burp Suite for advanced web application testing including custom extensions and automated scanning.",
+    "keywords": [
+      "Burp Suite",
+      "Web Proxy",
+      "Testing Tools"
+    ]
+  },
+  {
+    "id": 10449,
+    "title": "Lateral Movement Techniques in Enterprise Networks",
+    "domain": "148",
+    "description": "Demonstrate lateral movement techniques including pass-the-hash, Kerberos attacks, and pivoting through compromised systems.",
+    "keywords": [
+      "Lateral Movement",
+      "Network Pivoting",
+      "Post-Exploitation"
+    ]
+  },
+  {
+    "id": 10450,
+    "title": "Source Code Security Review",
+    "domain": "148",
+    "description": "Conduct manual source code review identifying security vulnerabilities in application code before deployment.",
+    "keywords": [
+      "Code Review",
+      "Static Analysis",
+      "Secure Coding"
+    ]
+  },
+  {
+    "id": 10451,
+    "title": "Physical Penetration Testing of Facilities",
+    "domain": "148",
+    "description": "Test physical security controls including access systems, surveillance, and social engineering at physical locations.",
+    "keywords": [
+      "Physical Security",
+      "Facility Testing",
+      "Physical Penetration"
+    ]
+  },
+  {
+    "id": 10452,
+    "title": "VPN and Remote Access Security Assessment",
+    "domain": "148",
+    "description": "Evaluate VPN security testing encryption protocols, authentication mechanisms, and configuration vulnerabilities.",
+    "keywords": [
+      "VPN Security",
+      "Remote Access",
+      "Encryption Testing"
+    ]
+  },
+  {
+    "id": 10453,
+    "title": "Ransomware Attack Simulation",
+    "domain": "148",
+    "description": "Conduct controlled ransomware simulations testing backup recovery, incident response, and security controls effectiveness.",
+    "keywords": [
+      "Ransomware Simulation",
+      "Attack Simulation",
+      "Recovery Testing"
+    ]
+  },
+  {
+    "id": 10454,
+    "title": "OSINT for Security Reconnaissance",
+    "domain": "148",
+    "description": "Gather open-source intelligence on target organizations identifying exposed information and attack surfaces.",
+    "keywords": [
+      "OSINT",
+      "Reconnaissance",
+      "Information Gathering"
+    ]
+  },
+  {
+    "id": 10455,
+    "title": "Firewall Rule Set Analysis and Testing",
+    "domain": "148",
+    "description": "Analyze firewall configurations testing rule effectiveness, bypass techniques, and policy compliance.",
+    "keywords": [
+      "Firewall Testing",
+      "Rule Analysis",
+      "Access Control"
+    ]
+  },
+  {
+    "id": 10456,
+    "title": "Command Injection Vulnerability Exploitation",
+    "domain": "148",
+    "description": "Identify and exploit command injection vulnerabilities in web applications and system interfaces.",
+    "keywords": [
+      "Command Injection",
+      "OS Command Execution",
+      "Injection Flaws"
+    ]
+  },
+  {
+    "id": 10457,
+    "title": "Certificate and PKI Security Assessment",
+    "domain": "148",
+    "description": "Evaluate public key infrastructure security testing certificate validation, key management, and trust relationships.",
+    "keywords": [
+      "PKI Security",
+      "Certificate Testing",
+      "Cryptographic Security"
+    ]
+  },
+  {
+    "id": 10458,
+    "title": "File Upload Vulnerability Testing",
+    "domain": "148",
+    "description": "Test file upload functionality for unrestricted uploads, path traversal, and malicious file execution vulnerabilities.",
+    "keywords": [
+      "File Upload",
+      "Upload Vulnerabilities",
+      "Web Security"
+    ]
+  },
+  {
+    "id": 10459,
+    "title": "LDAP Injection and Directory Service Testing",
+    "domain": "148",
+    "description": "Test LDAP implementations for injection vulnerabilities and directory service misconfigurations.",
+    "keywords": [
+      "LDAP Injection",
+      "Directory Services",
+      "Authentication Testing"
+    ]
+  },
+  {
+    "id": 10460,
+    "title": "XML External Entity (XXE) Attack Testing",
+    "domain": "148",
+    "description": "Identify and exploit XXE vulnerabilities in XML parsers for data exfiltration and server-side request forgery.",
+    "keywords": [
+      "XXE",
+      "XML Security",
+      "Parser Vulnerabilities"
+    ]
+  },
+  {
+    "id": 10461,
+    "title": "Server-Side Request Forgery (SSRF) Exploitation",
+    "domain": "148",
+    "description": "Identify SSRF vulnerabilities allowing attackers to make requests from vulnerable servers to internal resources.",
+    "keywords": [
+      "SSRF",
+      "Server-Side Attacks",
+      "Internal Network Access"
+    ]
+  },
+  {
+    "id": 10462,
+    "title": "Deserialization Vulnerability Assessment",
+    "domain": "148",
+    "description": "Test for insecure deserialization vulnerabilities in Java, .NET, and Python applications leading to remote code execution.",
+    "keywords": [
+      "Deserialization",
+      "Object Injection",
+      "Code Execution"
+    ]
+  },
+  {
+    "id": 10463,
+    "title": "Business Logic Vulnerability Identification",
+    "domain": "148",
+    "description": "Identify business logic flaws in applications allowing unauthorized actions, price manipulation, or workflow bypass.",
+    "keywords": [
+      "Business Logic",
+      "Logic Flaws",
+      "Application Testing"
+    ]
+  },
+  {
+    "id": 10464,
+    "title": "Kerberos Authentication Security Testing",
+    "domain": "148",
+    "description": "Test Kerberos authentication security including ticket attacks, golden tickets, and delegation abuse.",
+    "keywords": [
+      "Kerberos",
+      "Authentication Protocols",
+      "Ticket Attacks"
+    ]
+  },
+  {
+    "id": 10465,
+    "title": "Race Condition and Time-of-Check Vulnerabilities",
+    "domain": "148",
+    "description": "Identify and exploit race condition vulnerabilities in concurrent systems and applications.",
+    "keywords": [
+      "Race Conditions",
+      "TOCTOU",
+      "Concurrency Issues"
+    ]
+  },
+  {
+    "id": 10466,
+    "title": "GraphQL API Security Assessment",
+    "domain": "148",
+    "description": "Test GraphQL APIs for introspection exposure, query complexity attacks, and authorization bypass vulnerabilities.",
+    "keywords": [
+      "GraphQL Security",
+      "API Testing",
+      "Query Attacks"
+    ]
+  },
+  {
+    "id": 10467,
+    "title": "OAuth and OpenID Connect Security Testing",
+    "domain": "148",
+    "description": "Test OAuth 2.0 and OpenID Connect implementations for authorization flaws and token vulnerabilities.",
+    "keywords": [
+      "OAuth Security",
+      "OpenID Connect",
+      "Authorization Testing"
+    ]
+  },
+  {
+    "id": 10468,
+    "title": "NoSQL Injection Attack Techniques",
+    "domain": "148",
+    "description": "Identify and exploit NoSQL injection vulnerabilities in MongoDB, CouchDB, and other NoSQL databases.",
+    "keywords": [
+      "NoSQL Injection",
+      "Database Security",
+      "NoSQL Testing"
+    ]
+  },
+  {
+    "id": 10469,
+    "title": "WebSocket Security Assessment",
+    "domain": "148",
+    "description": "Test WebSocket implementations for authentication bypass, message tampering, and cross-site WebSocket hijacking.",
+    "keywords": [
+      "WebSocket Security",
+      "Real-Time Communication",
+      "Protocol Testing"
+    ]
+  },
+  {
+    "id": 10470,
+    "title": "Subdomain Takeover Vulnerability Detection",
+    "domain": "148",
+    "description": "Identify subdomain takeover vulnerabilities caused by dangling DNS records and unclaimed cloud resources.",
+    "keywords": [
+      "Subdomain Takeover",
+      "DNS Security",
+      "Cloud Resources"
+    ]
+  },
+  {
+    "id": 10471,
+    "title": "Server-Side Template Injection Testing",
+    "domain": "148",
+    "description": "Identify SSTI vulnerabilities in templating engines leading to remote code execution and information disclosure.",
+    "keywords": [
+      "Template Injection",
+      "SSTI",
+      "Server-Side Attacks"
+    ]
+  },
+  {
+    "id": 10472,
+    "title": "JWT Token Security Analysis",
+    "domain": "148",
+    "description": "Analyze JSON Web Token implementations testing for algorithm confusion, weak secrets, and token manipulation.",
+    "keywords": [
+      "JWT Security",
+      "Token Analysis",
+      "Authentication Tokens"
+    ]
+  },
+  {
+    "id": 10473,
+    "title": "Memory Dump Analysis for Credential Extraction",
+    "domain": "148",
+    "description": "Extract credentials and sensitive data from memory dumps using tools like Mimikatz and Volatility.",
+    "keywords": [
+      "Memory Analysis",
+      "Credential Dumping",
+      "Forensic Techniques"
+    ]
+  },
+  {
+    "id": 10474,
+    "title": "CORS Misconfiguration Testing",
+    "domain": "148",
+    "description": "Test Cross-Origin Resource Sharing configurations for overly permissive policies allowing unauthorized access.",
+    "keywords": [
+      "CORS",
+      "Cross-Origin",
+      "Access Control"
+    ]
+  },
+  {
+    "id": 10475,
+    "title": "Bluetooth Security Assessment",
+    "domain": "148",
+    "description": "Test Bluetooth implementations for pairing vulnerabilities, eavesdropping, and device impersonation attacks.",
+    "keywords": [
+      "Bluetooth Security",
+      "Wireless Testing",
+      "BLE Security"
+    ]
+  },
+  {
+    "id": 10476,
+    "title": "Supply Chain Attack Simulation",
+    "domain": "148",
+    "description": "Simulate supply chain attacks testing third-party dependency security and software integrity verification.",
+    "keywords": [
+      "Supply Chain",
+      "Dependency Security",
+      "Third-Party Risk"
+    ]
+  },
+  {
+    "id": 10477,
+    "title": "Automated Vulnerability Scanning Integration",
+    "domain": "148",
+    "description": "Integrate automated scanning tools like Nessus, OpenVAS, and Qualys into penetration testing workflows.",
+    "keywords": [
+      "Vulnerability Scanning",
+      "Automated Tools",
+      "Security Assessment"
+    ]
+  },
+  {
+    "id": 10478,
+    "title": "HTTP Request Smuggling Attack Testing",
+    "domain": "148",
+    "description": "Identify HTTP request smuggling vulnerabilities exploiting inconsistencies in request parsing between systems.",
+    "keywords": [
+      "Request Smuggling",
+      "HTTP Security",
+      "Protocol Vulnerabilities"
+    ]
+  },
+  {
+    "id": 10479,
+    "title": "Cloud Storage Bucket Security Assessment",
+    "domain": "148",
+    "description": "Test cloud storage configurations identifying publicly accessible buckets and insecure permissions in S3, Azure Blob, and GCS.",
+    "keywords": [
+      "Cloud Storage",
+      "Bucket Security",
+      "Data Exposure"
+    ]
+  },
+  {
+    "id": 10480,
+    "title": "Browser Extension Security Analysis",
+    "domain": "148",
+    "description": "Analyze browser extensions for malicious code, excessive permissions, and data exfiltration capabilities.",
+    "keywords": [
+      "Browser Extensions",
+      "Extension Security",
+      "Privacy Analysis"
+    ]
+  },
+  {
+    "id": 10481,
+    "title": "Multi-Factor Authentication Bypass Techniques",
+    "domain": "148",
+    "description": "Test MFA implementations for bypass vulnerabilities including session handling flaws and backup code weaknesses.",
+    "keywords": [
+      "MFA Bypass",
+      "Two-Factor Authentication",
+      "Authentication Security"
+    ]
+  },
+  {
+    "id": 10482,
+    "title": "CI/CD Pipeline Security Testing",
+    "domain": "148",
+    "description": "Assess CI/CD pipeline security testing for injection vulnerabilities, credential exposure, and build manipulation.",
+    "keywords": [
+      "CI/CD Security",
+      "Pipeline Testing",
+      "DevSecOps"
+    ]
+  },
+  {
+    "id": 10483,
+    "title": "Smart Contract Security Audit",
+    "domain": "148",
+    "description": "Audit blockchain smart contracts identifying reentrancy, integer overflow, and access control vulnerabilities.",
+    "keywords": [
+      "Smart Contracts",
+      "Blockchain Security",
+      "Contract Audit"
+    ]
+  },
+  {
+    "id": 10484,
+    "title": "Email Security and SPF/DKIM/DMARC Testing",
+    "domain": "148",
+    "description": "Test email security configurations including SPF, DKIM, and DMARC implementation to prevent spoofing.",
+    "keywords": [
+      "Email Security",
+      "Anti-Spoofing",
+      "Email Authentication"
+    ]
+  },
+  {
+    "id": 10485,
+    "title": "RFID and NFC Security Assessment",
+    "domain": "148",
+    "description": "Test RFID and NFC implementations for cloning vulnerabilities, eavesdropping, and replay attacks.",
+    "keywords": [
+      "RFID Security",
+      "NFC Testing",
+      "Contactless Security"
+    ]
+  },
+  {
+    "id": 10486,
+    "title": "Cryptographic Implementation Weakness Testing",
+    "domain": "148",
+    "description": "Identify weak cryptographic implementations including deprecated algorithms, weak keys, and improper randomness.",
+    "keywords": [
+      "Cryptography Testing",
+      "Encryption Analysis",
+      "Crypto Weaknesses"
+    ]
+  },
+  {
+    "id": 10487,
+    "title": "Backup and Recovery System Security Testing",
+    "domain": "148",
+    "description": "Test backup system security including access controls, encryption, and recovery procedure effectiveness.",
+    "keywords": [
+      "Backup Security",
+      "Recovery Testing",
+      "Data Protection"
+    ]
+  },
+  {
+    "id": 10488,
+    "title": "Zero-Day Vulnerability Discovery Techniques",
+    "domain": "148",
+    "description": "Apply fuzzing, code analysis, and reverse engineering techniques discovering previously unknown vulnerabilities.",
+    "keywords": [
+      "Zero-Day Discovery",
+      "Vulnerability Research",
+      "Exploit Development"
+    ]
+  },
+  {
+    "id": 10489,
+    "title": "Penetration Testing Methodology Development",
+    "domain": "148",
+    "description": "Develop standardized penetration testing methodologies aligned with PTES, OWASP, and industry frameworks.",
+    "keywords": [
+      "Testing Methodology",
+      "PTES",
+      "Standard Frameworks"
+    ]
+  },
+  {
+    "id": 10490,
+    "title": "Adversarial Machine Learning Attack Testing",
+    "domain": "148",
+    "description": "Test machine learning models for adversarial attacks including model poisoning and evasion techniques.",
+    "keywords": [
+      "ML Security",
+      "Adversarial Attacks",
+      "Model Testing"
+    ]
+  },
+  {
+    "id": 10491,
+    "title": "Log Analysis for Attack Detection Validation",
+    "domain": "148",
+    "description": "Analyze security logs validating detection capabilities and identifying gaps in monitoring and alerting.",
+    "keywords": [
+      "Log Analysis",
+      "Detection Validation",
+      "SIEM Testing"
+    ]
+  },
+  {
+    "id": 10492,
+    "title": "Serverless Architecture Security Assessment",
+    "domain": "148",
+    "description": "Test serverless functions and architectures for injection vulnerabilities, over-privileged permissions, and misconfigurations.",
+    "keywords": [
+      "Serverless Security",
+      "Function Testing",
+      "Cloud Functions"
+    ]
+  },
+  {
+    "id": 10493,
+    "title": "Payment Gateway Security Testing",
+    "domain": "148",
+    "description": "Assess payment processing security testing PCI DSS compliance, transaction tampering, and sensitive data exposure.",
+    "keywords": [
+      "Payment Security",
+      "PCI DSS",
+      "Transaction Testing"
+    ]
+  },
+  {
+    "id": 10494,
+    "title": "Security Control Effectiveness Evaluation",
+    "domain": "148",
+    "description": "Evaluate effectiveness of deployed security controls including IDS/IPS, DLP, and endpoint protection systems.",
+    "keywords": [
+      "Control Testing",
+      "Security Validation",
+      "Defense Evaluation"
+    ]
+  },
+  {
+    "id": 10495,
+    "title": "Insider Threat Scenario Testing",
+    "domain": "148",
+    "description": "Simulate insider threat scenarios testing data exfiltration controls and privileged user monitoring.",
+    "keywords": [
+      "Insider Threats",
+      "Privilege Testing",
+      "Data Loss Prevention"
+    ]
+  },
+  {
+    "id": 10496,
+    "title": "Vulnerability Disclosure Program Management",
+    "domain": "148",
+    "description": "Establish and manage responsible vulnerability disclosure programs including bug bounty coordination.",
+    "keywords": [
+      "Disclosure Program",
+      "Bug Bounty",
+      "Responsible Disclosure"
+    ]
+  },
+  {
+    "id": 10497,
+    "title": "Purple Team Exercise Coordination",
+    "domain": "148",
+    "description": "Coordinate purple team exercises combining offensive and defensive teams to improve detection and response capabilities.",
+    "keywords": [
+      "Purple Team",
+      "Collaborative Testing",
+      "Defense Improvement"
+    ]
+  },
+  {
+    "id": 10498,
+    "title": "Compliance-Driven Security Testing",
+    "domain": "148",
+    "description": "Conduct security testing aligned with compliance requirements including HIPAA, GDPR, and SOC 2.",
+    "keywords": [
+      "Compliance Testing",
+      "Regulatory Requirements",
+      "Audit Support"
+    ]
+  },
+  {
+    "id": 10499,
+    "title": "Post-Exploitation Data Exfiltration Techniques",
+    "domain": "148",
+    "description": "Demonstrate data exfiltration methods testing DLP controls and network monitoring effectiveness.",
+    "keywords": [
+      "Data Exfiltration",
+      "Post-Exploitation",
+      "DLP Testing"
+    ]
+  },
+  {
+    "id": 10500,
+    "title": "Penetration Testing Tool Development",
+    "domain": "148",
+    "description": "Develop custom penetration testing tools and scripts addressing specific testing scenarios and automation needs.",
+    "keywords": [
+      "Tool Development",
+      "Custom Scripts",
+      "Testing Automation"
+    ]
+  },
+  // domain 149
+  {
+    "id": 10500,
+    "title": "Blockchain for End-to-End Supply Chain Visibility",
+    "domain": "149",
+    "description": "Develop a blockchain-based platform that ensures transparent, tamper-proof recording of goods movement across the supply chain.",
+    "keywords": [
+      "Blockchain",
+      "Supply Chain Visibility",
+      "Transparency"
+    ]
+  },
+  {
+    "id": 10501,
+    "title": "IoT-Enabled Smart Containers for Real-Time Cargo Tracking",
+    "domain": "149",
+    "description": "Design IoT-enabled containers that provide real-time data on location, temperature, and security status during transportation.",
+    "keywords": [
+      "IoT",
+      "Cargo Tracking",
+      "Smart Containers"
+    ]
+  },
+  {
+    "id": 10502,
+    "title": "AI-Driven Predictive Supply Chain Monitoring",
+    "domain": "149",
+    "description": "Implement AI algorithms to predict supply chain delays and optimize logistics operations through real-time tracking data.",
+    "keywords": [
+      "AI",
+      "Predictive Monitoring",
+      "Logistics"
+    ]
+  },
+  {
+    "id": 10503,
+    "title": "RFID-Based Warehouse Asset Tracking System",
+    "domain": "149",
+    "description": "Develop an RFID solution for tracking warehouse assets, enabling automated check-ins, checkouts, and inventory reconciliation.",
+    "keywords": [
+      "RFID",
+      "Asset Tracking",
+      "Warehouse Management"
+    ]
+  },
+  {
+    "id": 10504,
+    "title": "Digital Twin for Supply Chain Visibility",
+    "domain": "149",
+    "description": "Create a digital twin of the supply chain to simulate, monitor, and optimize operations in real-time.",
+    "keywords": [
+      "Digital Twin",
+      "Supply Chain",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 10505,
+    "title": "Drone-Assisted Real-Time Delivery Tracking",
+    "domain": "149",
+    "description": "Deploy drones for real-time monitoring and validation of last-mile delivery accuracy and route efficiency.",
+    "keywords": [
+      "Drones",
+      "Last-Mile Delivery",
+      "Real-Time Tracking"
+    ]
+  },
+  {
+    "id": 10506,
+    "title": "GPS-Enabled Fleet Monitoring with AI Analytics",
+    "domain": "149",
+    "description": "Combine GPS tracking with AI analytics to monitor fleet performance, fuel consumption, and route optimization.",
+    "keywords": [
+      "GPS",
+      "Fleet Monitoring",
+      "AI Analytics"
+    ]
+  },
+  {
+    "id": 10507,
+    "title": "Cold Chain Visibility Using Smart Temperature Sensors",
+    "domain": "149",
+    "description": "Develop smart sensors to monitor and record temperature conditions in cold chain logistics for pharmaceuticals and food products.",
+    "keywords": [
+      "Cold Chain",
+      "Temperature Sensors",
+      "Pharma Logistics"
+    ]
+  },
+  {
+    "id": 10508,
+    "title": "AI-Powered Supplier Risk Tracking System",
+    "domain": "149",
+    "description": "Build an AI tool to track supplier performance and identify risks such as delivery delays or quality issues in real time.",
+    "keywords": [
+      "AI",
+      "Supplier Risk",
+      "Performance Tracking"
+    ]
+  },
+  {
+    "id": 10509,
+    "title": "Satellite-Based Cargo Tracking for Global Shipping",
+    "domain": "149",
+    "description": "Integrate satellite tracking technology for uninterrupted cargo monitoring across international shipping routes.",
+    "keywords": [
+      "Satellite Tracking",
+      "Global Shipping",
+      "Cargo Monitoring"
+    ]
+  },
+  {
+    "id": 10510,
+    "title": "IoT and Blockchain Hybrid for Anti-Counterfeit Tracking",
+    "domain": "149",
+    "description": "Develop a hybrid IoT-blockchain system to authenticate products and prevent counterfeit goods in the supply chain.",
+    "keywords": [
+      "IoT",
+      "Blockchain",
+      "Anti-Counterfeit"
+    ]
+  },
+  {
+    "id": 10511,
+    "title": "Smart Pallet Tracking Using Embedded RFID Tags",
+    "domain": "149",
+    "description": "Design smart pallets with RFID tags for automated tracking, enabling real-time warehouse and shipping visibility.",
+    "keywords": [
+      "Smart Pallets",
+      "RFID",
+      "Logistics Tracking"
+    ]
+  },
+  {
+    "id": 10512,
+    "title": "AI-Enhanced Port Operations Visibility",
+    "domain": "149",
+    "description": "Use AI to analyze port operation data, providing real-time visibility of cargo flow and reducing congestion.",
+    "keywords": [
+      "AI",
+      "Port Operations",
+      "Supply Chain Visibility"
+    ]
+  },
+  {
+    "id": 10513,
+    "title": "Blockchain Smart Contracts for Shipment Validation",
+    "domain": "149",
+    "description": "Implement smart contracts to automate shipment validation and payments upon delivery confirmation.",
+    "keywords": [
+      "Blockchain",
+      "Smart Contracts",
+      "Shipment Validation"
+    ]
+  },
+  {
+    "id": 10514,
+    "title": "Edge Computing for Supply Chain Tracking",
+    "domain": "149",
+    "description": "Deploy edge computing to process tracking data near the source, reducing latency in supply chain monitoring.",
+    "keywords": [
+      "Edge Computing",
+      "Real-Time Processing",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": 10515,
+    "title": "Digital Freight Tracking Platform with Predictive Analytics",
+    "domain": "149",
+    "description": "Create a digital platform that integrates GPS, IoT, and predictive analytics to monitor freight movement end-to-end.",
+    "keywords": [
+      "Freight Tracking",
+      "Predictive Analytics",
+      "IoT"
+    ]
+  },
+  {
+    "id": 10516,
+    "title": "Smart Labels with NFC for Package Tracking",
+    "domain": "149",
+    "description": "Introduce NFC-enabled smart labels that allow consumers and logistics providers to track package location and condition.",
+    "keywords": [
+      "Smart Labels",
+      "NFC",
+      "Package Tracking"
+    ]
+  },
+  {
+    "id": 10517,
+    "title": "Predictive Maintenance Visibility for Logistics Vehicles",
+    "domain": "149",
+    "description": "Integrate IoT sensors into logistics vehicles to monitor component health and predict failures before breakdowns.",
+    "keywords": [
+      "Predictive Maintenance",
+      "Logistics Vehicles",
+      "IoT Sensors"
+    ]
+  },
+  {
+    "id": 10518,
+    "title": "AR Dashboards for Real-Time Supply Chain Tracking",
+    "domain": "149",
+    "description": "Develop AR-enabled dashboards for managers to visualize real-time tracking data across the supply chain.",
+    "keywords": [
+      "AR Dashboards",
+      "Real-Time Tracking",
+      "Visualization"
+    ]
+  },
+  {
+    "id": 10519,
+    "title": "Cloud-Based Supply Chain Data Integration System",
+    "domain": "149",
+    "description": "Build a cloud system that integrates tracking data from multiple stakeholders into a unified supply chain visibility platform.",
+    "keywords": [
+      "Cloud",
+      "Data Integration",
+      "Supply Chain Visibility"
+    ]
+  },
+  {
+    "id": 10520,
+    "title": "IoT-Based Smart Pallet Tracking",
+    "domain": "149",
+    "description": "Design IoT-enabled pallets that provide real-time visibility into location, weight, and handling conditions of goods.",
+    "keywords": [
+      "IoT",
+      "Smart Pallets",
+      "Real-Time Tracking"
+    ]
+  },
+  {
+    "id": 10521,
+    "title": "Satellite-Powered Global Shipment Tracking",
+    "domain": "149",
+    "description": "Integrate satellite communication systems for uninterrupted global visibility of shipments in remote or oceanic regions.",
+    "keywords": [
+      "Satellite Tracking",
+      "Global Shipments",
+      "Remote Visibility"
+    ]
+  },
+  {
+    "id": 10522,
+    "title": "AI-Powered Supply Chain Risk Alerts",
+    "domain": "149",
+    "description": "Use AI to monitor disruptions and automatically trigger alerts with shipment tracking updates in high-risk zones.",
+    "keywords": [
+      "AI",
+      "Risk Alerts",
+      "Disruption Tracking"
+    ]
+  },
+  {
+    "id": 10523,
+    "title": "Digital Twins for Warehouse Asset Tracking",
+    "domain": "149",
+    "description": "Develop digital twin models of warehouses to track asset flows, improve space utilization, and simulate real-time movement.",
+    "keywords": [
+      "Digital Twin",
+      "Warehouse Tracking",
+      "Asset Flow"
+    ]
+  },
+  {
+    "id": 10524,
+    "title": "Drone-Enabled Last-Mile Tracking",
+    "domain": "149",
+    "description": "Implement drones for real-time package tracking and delivery confirmation in last-mile logistics networks.",
+    "keywords": [
+      "Drones",
+      "Last-Mile Delivery",
+      "Package Tracking"
+    ]
+  },
+  {
+    "id": 10525,
+    "title": "IoT-Enabled Shipment Condition Monitoring",
+    "domain": "149",
+    "description": "Develop an IoT system that continuously monitors temperature, humidity, and vibration of goods in transit for quality assurance.",
+    "keywords": [
+      "IoT",
+      "Shipment Tracking",
+      "Condition Monitoring"
+    ]
+  },
+  {
+    "id": 10526,
+    "title": "Blockchain for Multi-Tier Supply Chain Transparency",
+    "domain": "149",
+    "description": "Create a blockchain framework to track raw material sourcing and verify authenticity across all tiers of the supply chain.",
+    "keywords": [
+      "Blockchain",
+      "Transparency",
+      "Multi-Tier Supply Chain"
+    ]
+  },
+  {
+    "id": 10527,
+    "title": "Digital Twin for Real-Time Logistics Optimization",
+    "domain": "149",
+    "description": "Design a digital twin system that models supply chain logistics and dynamically adjusts routes and schedules in real time.",
+    "keywords": [
+      "Digital Twin",
+      "Logistics Optimization",
+      "Real-Time Tracking"
+    ]
+  },
+  {
+    "id": 10528,
+    "title": "RFID-Based Automated Warehouse Tracking",
+    "domain": "149",
+    "description": "Implement an RFID system to automate item tracking in warehouses, reducing errors and enhancing inventory visibility.",
+    "keywords": [
+      "RFID",
+      "Warehouse Tracking",
+      "Inventory Visibility"
+    ]
+  },
+  {
+    "id": 10529,
+    "title": "AI-Powered Predictive Alerts for Supply Chain Disruptions",
+    "domain": "149",
+    "description": "Develop an AI platform that predicts potential supply chain disruptions and sends proactive alerts to stakeholders.",
+    "keywords": [
+      "AI",
+      "Predictive Alerts",
+      "Supply Chain Disruptions"
+    ]
+  },
+  {
+    "id": 10530,
+    "title": "Satellite-Based Cargo Tracking for Remote Regions",
+    "domain": "149",
+    "description": "Use satellite communication to enable real-time cargo tracking in remote areas with limited network coverage.",
+    "keywords": [
+      "Satellite Tracking",
+      "Cargo Monitoring",
+      "Remote Visibility"
+    ]
+  },
+  {
+    "id": 10531,
+    "title": "Secure Data Sharing Across Supply Chain Networks",
+    "domain": "149",
+    "description": "Create a secure digital framework for data sharing between suppliers, manufacturers, and retailers without exposing sensitive information.",
+    "keywords": [
+      "Data Security",
+      "Supply Chain Network",
+      "Secure Sharing"
+    ]
+  },
+  {
+    "id": 10532,
+    "title": "Drone-Based Last-Mile Delivery Tracking",
+    "domain": "149",
+    "description": "Integrate drones into last-mile delivery systems with live GPS tracking for faster and transparent delivery updates.",
+    "keywords": [
+      "Drone Delivery",
+      "Last-Mile Tracking",
+      "GPS Monitoring"
+    ]
+  },
+  {
+    "id": 10533,
+    "title": "Machine Learning for Demand-Supply Forecasting",
+    "domain": "149",
+    "description": "Develop ML models that predict demand patterns and supply fluctuations to optimize procurement and inventory management.",
+    "keywords": [
+      "Machine Learning",
+      "Demand Forecasting",
+      "Supply Optimization"
+    ]
+  },
+  {
+    "id": 10534,
+    "title": "Digital Customs Clearance Tracking",
+    "domain": "149",
+    "description": "Implement a digital system to provide real-time tracking of customs clearance for international shipments.",
+    "keywords": [
+      "Customs Clearance",
+      "Digital Tracking",
+      "Global Trade"
+    ]
+  },
+  {
+    "id": 10535,
+    "title": "End-to-End Cold Chain Visibility",
+    "domain": "149",
+    "description": "Develop a digital platform that ensures real-time tracking of temperature-sensitive goods across the entire cold chain.",
+    "keywords": [
+      "Cold Chain",
+      "End-to-End Visibility",
+      "Real-Time Tracking"
+    ]
+  },
+  {
+    "id": 10536,
+    "title": "5G-Powered Real-Time Freight Tracking",
+    "domain": "149",
+    "description": "Leverage 5G networks for ultra-fast, low-latency tracking of freight vehicles across long-distance routes.",
+    "keywords": [
+      "5G",
+      "Freight Tracking",
+      "Real-Time Monitoring"
+    ]
+  },
+  {
+    "id": 10537,
+    "title": "AI-Driven Supplier Risk Visibility",
+    "domain": "149",
+    "description": "Use AI to analyze supplier risk profiles and monitor potential disruptions through real-time tracking data.",
+    "keywords": [
+      "AI",
+      "Supplier Risk",
+      "Supply Chain Visibility"
+    ]
+  },
+  {
+    "id": 10538,
+    "title": "Smart Contracts for Automated Shipment Tracking",
+    "domain": "149",
+    "description": "Deploy blockchain-based smart contracts to automate verification and tracking of shipment milestones.",
+    "keywords": [
+      "Smart Contracts",
+      "Blockchain",
+      "Shipment Tracking"
+    ]
+  },
+  {
+    "id": 10539,
+    "title": "Geofencing for Real-Time Vehicle Route Compliance",
+    "domain": "149",
+    "description": "Implement geofencing systems to ensure delivery vehicles remain on approved routes and trigger alerts on deviations.",
+    "keywords": [
+      "Geofencing",
+      "Vehicle Tracking",
+      "Route Compliance"
+    ]
+  },
+  {
+    "id": 10540,
+    "title": "Digital Twin for Global Supply Chain Tracking",
+    "domain": "149",
+    "description": "Create a digital twin of global supply networks to simulate and track goods movement in real-time.",
+    "keywords": [
+      "Digital Twin",
+      "Global Supply Chain",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 10541,
+    "title": "Blockchain-Enabled Pharmaceutical Supply Visibility",
+    "domain": "149",
+    "description": "Implement blockchain systems to track pharmaceutical products, ensuring authenticity and preventing counterfeit drugs.",
+    "keywords": [
+      "Blockchain",
+      "Pharma Supply Chain",
+      "Counterfeit Prevention"
+    ]
+  },
+  {
+    "id": 10542,
+    "title": "AR Interfaces for Real-Time Warehouse Tracking",
+    "domain": "149",
+    "description": "Develop AR-based applications to visualize warehouse inventory movement in real time using digital overlays.",
+    "keywords": [
+      "Augmented Reality",
+      "Warehouse Tracking",
+      "Inventory Management"
+    ]
+  },
+  {
+    "id": 10543,
+    "title": "GPS-Integrated Multi-Modal Shipment Tracking",
+    "domain": "149",
+    "description": "Design a GPS-enabled tracking system that integrates air, sea, rail, and road shipments into a single visibility platform.",
+    "keywords": [
+      "GPS Tracking",
+      "Multi-Modal Transport",
+      "Shipment Visibility"
+    ]
+  },
+  {
+    "id": 10544,
+    "title": "Cybersecurity for Digital Supply Chain Tracking",
+    "domain": "149",
+    "description": "Develop cybersecurity measures to protect sensitive tracking data in digital supply chain systems.",
+    "keywords": [
+      "Cybersecurity",
+      "Supply Chain Data",
+      "Digital Security"
+    ]
+  },
+  {
+    "id": 10545,
+    "title": "AI-Enhanced Last-Mile Delivery Visibility",
+    "domain": "149",
+    "description": "Use AI algorithms to predict delivery times and optimize visibility in last-mile logistics operations.",
+    "keywords": [
+      "AI",
+      "Last-Mile Delivery",
+      "Visibility"
+    ]
+  },
+  {
+    "id": 10546,
+    "title": "Cloud-Based Global Shipment Dashboard",
+    "domain": "149",
+    "description": "Build a centralized cloud dashboard for tracking and monitoring global shipments across multiple carriers.",
+    "keywords": [
+      "Cloud Platform",
+      "Shipment Dashboard",
+      "Global Visibility"
+    ]
+  },
+  {
+    "id": 10547,
+    "title": "IoT-Based Container Security Tracking",
+    "domain": "149",
+    "description": "Deploy IoT-enabled smart locks and sensors on containers for tamper-proof real-time security tracking.",
+    "keywords": [
+      "IoT",
+      "Container Tracking",
+      "Security Monitoring"
+    ]
+  },
+  {
+    "id": 10548,
+    "title": "Predictive Analytics for Port Congestion Tracking",
+    "domain": "149",
+    "description": "Apply predictive analytics to track port congestion and estimate shipment delays before they occur.",
+    "keywords": [
+      "Predictive Analytics",
+      "Port Congestion",
+      "Delay Estimation"
+    ]
+  },
+  {
+    "id": 10549,
+    "title": "AI Chatbots for Real-Time Supply Chain Tracking Queries",
+    "domain": "149",
+    "description": "Develop AI-powered chatbots that provide stakeholders with real-time answers to supply chain tracking queries.",
+    "keywords": [
+      "AI Chatbots",
+      "Tracking Queries",
+      "Real-Time Updates"
+    ]
+  },
+  {
+    "id": 10550,
+    "title": "Smart Wearables for Workforce Tracking in Warehouses",
+    "domain": "149",
+    "description": "Introduce smart wearables for warehouse workers to track movement, safety, and productivity in real time.",
+    "keywords": [
+      "Smart Wearables",
+      "Workforce Tracking",
+      "Warehouse Visibility"
+    ]
+  },
+  {
+    "id": 10551,
+    "title": "Real-Time Fleet Maintenance Tracking",
+    "domain": "149",
+    "description": "Implement a fleet monitoring system that tracks vehicle health and predicts maintenance needs in real time.",
+    "keywords": [
+      "Fleet Tracking",
+      "Real-Time Maintenance",
+      "Vehicle Health"
+    ]
+  },
+  {
+    "id": 10552,
+    "title": "Digital Tracking for Cross-Border E-Commerce",
+    "domain": "149",
+    "description": "Develop a tracking system tailored for cross-border e-commerce shipments, integrating customs and logistics updates.",
+    "keywords": [
+      "E-Commerce",
+      "Cross-Border Tracking",
+      "Digital Visibility"
+    ]
+  },
+  {
+    "id": 10553,
+    "title": "AI-Powered Sustainability Tracking in Supply Chains",
+    "domain": "149",
+    "description": "Use AI models to track carbon emissions and energy usage across supply chain logistics for sustainability reporting.",
+    "keywords": [
+      "AI",
+      "Sustainability",
+      "Carbon Tracking"
+    ]
+  },
+  {
+    "id": 10554,
+    "title": "Blockchain for Ethical Supply Chain Tracking",
+    "domain": "149",
+    "description": "Design blockchain-based tracking to verify ethical sourcing of raw materials across global supply chains.",
+    "keywords": [
+      "Blockchain",
+      "Ethical Sourcing",
+      "Supply Chain Visibility"
+    ]
+  },
+  {
+    "id": 10555,
+    "title": "Smart Packaging with QR-Based Tracking",
+    "domain": "149",
+    "description": "Introduce smart packaging that uses QR codes for customers to track product journey and verify authenticity.",
+    "keywords": [
+      "Smart Packaging",
+      "QR Tracking",
+      "Product Authenticity"
+    ]
+  },
+  {
+    "id": 10556,
+    "title": "AI-Enhanced ETA Prediction for Global Shipping",
+    "domain": "149",
+    "description": "Develop AI tools that analyze shipping data and external conditions to predict accurate estimated arrival times.",
+    "keywords": [
+      "AI",
+      "ETA Prediction",
+      "Global Shipping"
+    ]
+  },
+  {
+    "id": 10557,
+    "title": "Robotic Process Automation for Tracking Updates",
+    "domain": "149",
+    "description": "Implement RPA bots to automate the collection and distribution of shipment tracking updates across platforms.",
+    "keywords": [
+      "RPA",
+      "Automation",
+      "Tracking Updates"
+    ]
+  },
+  {
+    "id": 10558,
+    "title": "Real-Time Tracking of Reverse Logistics",
+    "domain": "149",
+    "description": "Create a digital tracking platform for returned goods in reverse logistics to improve visibility and reduce delays.",
+    "keywords": [
+      "Reverse Logistics",
+      "Real-Time Tracking",
+      "Returns Management"
+    ]
+  },
+  {
+    "id": 10559,
+    "title": "IoT-Enabled Hazardous Material Transport Tracking",
+    "domain": "149",
+    "description": "Develop IoT systems that track hazardous material transport in real time and send alerts during emergencies.",
+    "keywords": [
+      "IoT",
+      "Hazardous Materials",
+      "Transport Tracking"
+    ]
+  },
+  {
+    "id": 10560,
+    "title": "AI-Powered Fraud Detection in Supply Chain Tracking",
+    "domain": "149",
+    "description": "Integrate AI models to detect anomalies and fraud attempts in shipment and logistics tracking data.",
+    "keywords": [
+      "AI",
+      "Fraud Detection",
+      "Supply Chain Security"
+    ]
+  },
+  {
+    "id": 10561,
+    "title": "Voice-Activated Tracking Interfaces",
+    "domain": "149",
+    "description": "Create voice-activated digital interfaces that allow supply chain managers to query shipment statuses hands-free.",
+    "keywords": [
+      "Voice Interfaces",
+      "Tracking Queries",
+      "Digital Supply Chain"
+    ]
+  },
+  {
+    "id": 10562,
+    "title": "5G-Enabled Smart Port Tracking Systems",
+    "domain": "149",
+    "description": "Leverage 5G connectivity to track cargo handling and container movement within smart ports.",
+    "keywords": [
+      "5G",
+      "Smart Ports",
+      "Cargo Tracking"
+    ]
+  },
+  {
+    "id": 10563,
+    "title": "AI Optimization for Supply Chain Route Tracking",
+    "domain": "149",
+    "description": "Use AI algorithms to optimize transportation routes and track efficiency in real time.",
+    "keywords": [
+      "AI",
+      "Route Optimization",
+      "Tracking Efficiency"
+    ]
+  },
+  {
+    "id": 10564,
+    "title": "Global Supply Chain Tracking Interoperability Standards",
+    "domain": "149",
+    "description": "Develop interoperability standards to integrate different tracking systems across international supply chains.",
+    "keywords": [
+      "Interoperability",
+      "Global Supply Chain",
+      "Tracking Standards"
+    ]
+  },
+  {
+    "id": 10565,
+    "title": "Blockchain for Agricultural Supply Chain Tracking",
+    "domain": "149",
+    "description": "Apply blockchain-based tracking to agricultural goods, ensuring visibility from farm to consumer.",
+    "keywords": [
+      "Blockchain",
+      "Agriculture",
+      "Farm-to-Consumer Tracking"
+    ]
+  },
+  {
+    "id": 10566,
+    "title": "AI for Real-Time Driver Behavior Tracking",
+    "domain": "149",
+    "description": "Use AI models to monitor and analyze driver behavior in logistics fleets for safety and efficiency improvements.",
+    "keywords": [
+      "AI",
+      "Driver Behavior",
+      "Fleet Tracking"
+    ]
+  },
+  {
+    "id": 10567,
+    "title": "Smart Blockchain Tokens for Package Tracking",
+    "domain": "149",
+    "description": "Introduce blockchain tokens to uniquely track packages and verify their authenticity across supply chains.",
+    "keywords": [
+      "Blockchain Tokens",
+      "Package Tracking",
+      "Digital Authentication"
+    ]
+  },
+  {
+    "id": 10568,
+    "title": "IoT and Cloud Integration for Unified Supply Chain Tracking",
+    "domain": "149",
+    "description": "Combine IoT sensors and cloud computing to create a unified platform for global supply chain visibility.",
+    "keywords": [
+      "IoT",
+      "Cloud Computing",
+      "Unified Tracking"
+    ]
+  },
+  // domain 150
+  {
+    "id": 10569,
+    "title": "AI-Driven Systemic Risk Prediction in Interbank Lending Networks",
+    "domain": "150",
+    "description": "Develop a network graph model using Graph Neural Networks (GNNs) to predict cascade defaults and systemic failure risk across a financial ecosystem.",
+    "keywords": [
+      "Systemic Risk",
+      "Network Analysis",
+      "GNN",
+      "Banking"
+    ]
+  },
+  {
+    "id": 10570,
+    "title": "Real-Time Stress Testing Model for Liquidity Risk in Corporate Treasuries",
+    "domain": "150",
+    "description": "Build a dynamic simulation model to stress-test a corporation's cash flow and liquidity position under high-frequency market shock scenarios.",
+    "keywords": [
+      "Liquidity Risk",
+      "Stress Testing",
+      "VaR",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 10571,
+    "title": "Machine Learning for High-Frequency Trading Fraud Detection",
+    "domain": "150",
+    "description": "Implement a classification algorithm to detect manipulative trading behaviors (e.g., wash trading, spoofing) in real-time market data streams.",
+    "keywords": [
+      "Fraud Detection",
+      "HFT",
+      "Anomaly Detection",
+      "Compliance"
+    ]
+  },
+  {
+    "id": 10572,
+    "title": "Predictive Modeling of Corporate Bond Default Probability (PD) using ESG Data",
+    "domain": "150",
+    "description": "Create a survival analysis model to incorporate Environmental, Social, and Governance (ESG) scores alongside traditional financials to refine corporate credit risk (PD) forecasts.",
+    "keywords": [
+      "Credit Risk",
+      "ESG",
+      "Default Prediction",
+      "Survival Analysis"
+    ]
+  },
+  {
+    "id": 10573,
+    "title": "Optimizing Capital Allocation via Reinforcement Learning for VaR Minimization",
+    "domain": "150",
+    "description": "Design a Reinforcement Learning (RL) agent to dynamically adjust a portfolio's capital allocation to minimize Value-at-Risk (VaR) based on real-time market signals.",
+    "keywords": [
+      "Portfolio Optimization",
+      "RL",
+      "VaR",
+      "Capital Management"
+    ]
+  },
+  {
+    "id": 10574,
+    "title": "Scenario Generation Model for Climate Transition Risk Impact on DCF Valuation",
+    "domain": "150",
+    "description": "Develop a model to generate forward-looking, sector-specific climate policy scenarios and quantify their impact on Discounted Cash Flow (DCF) valuations.",
+    "keywords": [
+      "Climate Risk",
+      "DCF",
+      "Scenario Analysis",
+      "ESG"
+    ]
+  },
+  {
+    "id": 10575,
+    "title": "NLP-Based Market Sentiment Analysis for Volatility Forecasting",
+    "domain": "150",
+    "description": "Utilize Natural Language Processing (NLP) on financial news and social media to derive a market sentiment index for forecasting short-term asset volatility.",
+    "keywords": [
+      "Volatility",
+      "NLP",
+      "Market Sentiment",
+      "Time Series"
+    ]
+  },
+  {
+    "id": 10576,
+    "title": "Monte Carlo Simulation for Pension Fund Asset-Liability Management (ALM)",
+    "domain": "150",
+    "description": "Implement a Monte Carlo simulation framework to model the future solvency and required contribution rates for a defined-benefit pension fund.",
+    "keywords": [
+      "Monte Carlo",
+      "ALM",
+      "Pension Modeling",
+      "Solvency"
+    ]
+  },
+  {
+    "id": 10577,
+    "title": "Modeling the Impact of Interest Rate Hikes on Commercial Real Estate (CRE) Values",
+    "domain": "150",
+    "description": "Construct a financial model to assess the sensitivity and potential loss in value for a portfolio of CRE assets under various interest rate shock scenarios.",
+    "keywords": [
+      "Real Estate",
+      "Interest Rate Risk",
+      "Sensitivity Analysis",
+      "Forecasting"
+    ]
+  },
+  {
+    "id": 10578,
+    "title": "Developing an Automated Treasury Hedging Strategy with Options",
+    "domain": "150",
+    "description": "Create an optimization model to determine the minimum-cost options portfolio necessary to hedge against foreign exchange (FX) and commodity price risk for a global firm.",
+    "keywords": [
+      "Hedging",
+      "Optimization",
+      "FX Risk",
+      "Derivatives"
+    ]
+  },
+  {
+    "id": 10579,
+    "title": "Predicting Mortgage Default Risk Using Geospatial and Demographic Data",
+    "domain": "150",
+    "description": "Develop a credit risk model that integrates property-specific geospatial and neighborhood demographic data to improve mortgage default prediction accuracy.",
+    "keywords": [
+      "Credit Risk",
+      "Geospatial Data",
+      "Default Prediction",
+      "GIS"
+    ]
+  },
+  {
+    "id": 10580,
+    "title": "Modeling Operational Risk Loss Distributions with Bayesian Statistics",
+    "domain": "150",
+    "description": "Use Bayesian methods to estimate the frequency and severity distribution of operational loss events for regulatory capital calculation (Basel).",
+    "keywords": [
+      "Operational Risk",
+      "Bayesian",
+      "Loss Distribution",
+      "Basel"
+    ]
+  },
+  {
+    "id": 10581,
+    "title": "Forecasting Private Equity Fund Returns Using Macroeconomic Indicators",
+    "domain": "150",
+    "description": "Develop a forecasting model that uses leading macroeconomic indicators (e.g., GDP growth, interest rates) to predict future returns of private equity investment funds.",
+    "keywords": [
+      "Private Equity",
+      "Macroeconomics",
+      "Forecasting",
+      "LP Modeling"
+    ]
+  },
+  {
+    "id": 10582,
+    "title": "Design of a Dynamic Loan Portfolio Stress Testing and Resilience Model",
+    "domain": "150",
+    "description": "Implement a model that dynamically assesses the impact of severe macroeconomic downturns (e.g., high unemployment) on the capital adequacy of a bank's retail loan portfolio.",
+    "keywords": [
+      "Loan Portfolio",
+      "Stress Testing",
+      "Capital Adequacy",
+      "Resilience"
+    ]
+  },
+  {
+    "id": 10583,
+    "title": "ML-Based Model for Predicting Mergers & Acquisitions (M&A) Success Rates",
+    "domain": "150",
+    "description": "Train a machine learning classifier on historical deal data to predict the probability of a proposed merger or acquisition transaction achieving its stated financial synergy targets.",
+    "keywords": [
+      "M&A",
+      "Predictive Analytics",
+      "Synergy",
+      "Valuation"
+    ]
+  },
+  {
+    "id": 10584,
+    "title": "Quantifying Systemic Risk Exposure from Cryptocurrency Market Volatility",
+    "domain": "150",
+    "description": "Develop a model to measure the spillover effects and systemic risk that volatility in major cryptocurrency markets poses to regulated financial institutions.",
+    "keywords": [
+      "Crypto Risk",
+      "Systemic Risk",
+      "Volatility",
+      "Contagion"
+    ]
+  },
+  {
+    "id": 10585,
+    "title": "Optimizing Working Capital Management with Predictive Demand Forecasting",
+    "domain": "150",
+    "description": "Create a financial planning model that uses ML-driven demand forecasts to dynamically optimize inventory, accounts receivable, and accounts payable levels.",
+    "keywords": [
+      "Working Capital",
+      "Forecasting",
+      "Optimization",
+      "Inventory"
+    ]
+  },
+  {
+    "id": 10586,
+    "title": "Developing a Perpetual Growth Rate Model from Industry-Specific ROE/ROIC",
+    "domain": "150",
+    "description": "Build a financial model to derive a more defensible and dynamic long-term perpetual growth rate for DCF analysis based on industry-specific Return on Equity (ROE) and ROIC forecasts.",
+    "keywords": [
+      "DCF Valuation",
+      "Perpetual Growth",
+      "ROE",
+      "ROIC"
+    ]
+  },
+  {
+    "id": 10587,
+    "title": "Credit Scoring Model for Small and Medium Enterprises (SME) using Transaction Data",
+    "domain": "150",
+    "description": "Develop an alternative credit scoring model for SMEs that leverages real-time bank transaction and payment processing data rather than traditional financial statements.",
+    "keywords": [
+      "SME Credit",
+      "Alternative Data",
+      "Credit Scoring",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "id": 10588,
+    "title": "Modeling the Financial Impact of Cyberattack Scenarios on Operational Costs",
+    "domain": "150",
+    "description": "Create a financial model to quantify the direct and indirect costs (e.g., regulatory fines, business interruption) associated with major cyberattack scenarios.",
+    "keywords": [
+      "Operational Risk",
+      "Cyber Risk",
+      "Cost Modeling",
+      "Insurance"
+    ]
+  },
+  {
+    "id": 10589,
+    "title": "Predictive Model for Real-Time FX Volatility Spikes",
+    "domain": "150",
+    "description": "Use a GARCH-type or LSTM model on high-frequency data to predict sudden, short-lived spikes in foreign exchange (FX) market volatility for proprietary trading.",
+    "keywords": [
+      "FX Volatility",
+      "GARCH",
+      "LSTM",
+      "High-Frequency"
+    ]
+  },
+  {
+    "id": 10590,
+    "title": "Scenario Analysis for Geopolitical Risk Impact on Global Supply Chain Financing",
+    "domain": "150",
+    "description": "Construct a multi-region financial model to assess the exposure of supply chain financing facilities to geopolitical instability events (e.g., trade wars, sanctions).",
+    "keywords": [
+      "Geopolitical Risk",
+      "Supply Chain Finance",
+      "Scenario Analysis",
+      "Exposure"
+    ]
+  },
+  {
+    "id": 10591,
+    "title": "Building a Corporate Liquidation and Recovery Waterfall Model",
+    "domain": "150",
+    "description": "Develop a waterfall model to simulate asset liquidation and debt recovery rates for different classes of creditors under a corporate bankruptcy scenario.",
+    "keywords": [
+      "Bankruptcy",
+      "Recovery Rate",
+      "Waterfall Model",
+      "Liquidation"
+    ]
+  },
+  {
+    "id": 10592,
+    "title": "Predicting Customer Churn and Lifetime Value (CLV) in Subscription Services",
+    "domain": "150",
+    "description": "Create an LTV model that uses ML to predict customer churn risk and forecast the total lifetime financial value of a customer cohort.",
+    "keywords": [
+      "CLV",
+      "Churn Prediction",
+      "Subscription Model",
+      "LTV"
+    ]
+  },
+  {
+    "id": 10593,
+    "title": "Dynamic Pricing Model for Credit Card APR Based on Real-Time Risk Profile",
+    "domain": "150",
+    "description": "Develop an optimization model to dynamically adjust a credit card's Annual Percentage Rate (APR) based on the cardholder's real-time spending behavior and credit utilization risk.",
+    "keywords": [
+      "Dynamic Pricing",
+      "Credit Risk",
+      "Optimization",
+      "APR"
+    ]
+  },
+  {
+    "id": 10594,
+    "title": "NLP-Based Extraction of Risk Factors from Annual Financial Filings (10-K)",
+    "domain": "150",
+    "description": "Use NLP to automatically parse and quantify emerging or changing risk factor narratives from corporate financial reports like the 10-K or 20-F.",
+    "keywords": [
+      "NLP",
+      "Risk Factors",
+      "Regulatory Filings",
+      "10-K"
+    ]
+  },
+  {
+    "id": 10595,
+    "title": "Modeling the Financial Viability of Carbon Capture and Storage (CCS) Projects",
+    "domain": "150",
+    "description": "Build a project finance model to assess the financial feasibility, IRR, and payback period for a large-scale CCS project under varying carbon price scenarios.",
+    "keywords": [
+      "Project Finance",
+      "CCS",
+      "IRR",
+      "Green Finance"
+    ]
+  },
+  {
+    "id": 10596,
+    "title": "Quantifying Model Risk in VaR and Expected Shortfall (ES) Calculations",
+    "domain": "150",
+    "description": "Develop a framework to assess and quantify the uncertainty (model risk) associated with the choice of model parameters and distributions in calculating market risk metrics (VaR and ES).",
+    "keywords": [
+      "Model Risk",
+      "VaR",
+      "ES",
+      "Quantitative Finance"
+    ]
+  },
+  {
+    "id": 10597,
+    "title": "Forecasting Insurance Claim Severity using Generalized Linear Models (GLMs)",
+    "domain": "150",
+    "description": "Apply GLMs to a property and casualty dataset to accurately forecast the severity of future insurance claims based on historical loss experience and claim characteristics.",
+    "keywords": [
+      "Insurance",
+      "GLM",
+      "Claim Severity",
+      "Actuarial"
+    ]
+  },
+  {
+    "id": 10598,
+    "title": "Optimizing Portfolio Rebalancing Frequency with Transaction Cost Modeling",
+    "domain": "150",
+    "description": "Create a simulation model that balances portfolio tracking error (risk) with transaction costs to determine the optimal rebalancing frequency for an indexed portfolio.",
+    "keywords": [
+      "Portfolio Management",
+      "Transaction Cost",
+      "Optimization",
+      "Indexing"
+    ]
+  },
+  {
+    "id": 10599,
+    "title": "Modeling the Financial Impact of Blockchain Adoption on Cross-Border Payments",
+    "domain": "150",
+    "description": "Build a financial model to forecast the cost savings and revenue generation potential for a bank resulting from the adoption of a blockchain-based cross-border payment system.",
+    "keywords": [
+      "Blockchain",
+      "Payment Systems",
+      "Cost-Benefit Analysis",
+      "FinTech"
+    ]
+  },
+  {
+    "id": 10600,
+    "title": "Predictive Model for Sovereign Debt Default based on IMF and Macro Indicators",
+    "domain": "150",
+    "description": "Develop a multi-factor ML model to predict the probability of sovereign debt default using government budget data, IMF indices, and key macroeconomic variables.",
+    "keywords": [
+      "Sovereign Risk",
+      "Default Prediction",
+      "Macro Indicators",
+      "ML"
+    ]
+  },
+  {
+    "id": 10601,
+    "title": "Valuation Model for Early-Stage SaaS Company using Revenue Multiples and Cohort Analysis",
+    "domain": "150",
+    "description": "Design a comprehensive valuation model for a young Software as a Service (SaaS) company, focusing on key metrics like Annual Recurring Revenue (ARR), Churn, and Customer Cohort analysis.",
+    "keywords": [
+      "SaaS Valuation",
+      "ARR",
+      "LTV",
+      "Financial Modeling"
+    ]
+  },
+  {
+    "id": 10602,
+    "title": "Stress Testing Corporate Debt Covenants Under Recession Scenarios",
+    "domain": "150",
+    "description": "Build a financial model to simulate a recessionary environment and determine the probability that a highly leveraged company will breach its debt covenants (e.g., Debt/EBITDA).",
+    "keywords": [
+      "Debt Modeling",
+      "Stress Testing",
+      "Covenants",
+      "Leveraged Finance"
+    ]
+  },
+  {
+    "id": 10603,
+    "title": "ML Model for Predicting Mortgage Prepayment Risk",
+    "domain": "150",
+    "description": "Train a machine learning model to accurately forecast the likelihood of mortgage holders prepaying their loan based on interest rate curves and borrower characteristics.",
+    "keywords": [
+      "Mortgage Risk",
+      "Prepayment",
+      "ML",
+      "Housing Market"
+    ]
+  },
+  {
+    "id": 10604,
+    "title": "Financial Model for Evaluating Renewable Energy Power Purchase Agreements (PPAs)",
+    "domain": "150",
+    "description": "Develop a financial model to analyze the cost-effectiveness and risk profile of long-term PPAs for corporate clients, incorporating energy price volatility.",
+    "keywords": [
+      "Renewable Energy",
+      "PPA",
+      "Project Finance",
+      "Energy Risk"
+    ]
+  },
+  {
+    "id": 10605,
+    "title": "Optimizing IPO Valuation Range using Peer-Set Comparable Analysis",
+    "domain": "150",
+    "description": "Create a financial modeling tool that automates the selection of comparable public companies and applies various valuation multiples to generate an optimal IPO price range.",
+    "keywords": [
+      "IPO Valuation",
+      "Comps Analysis",
+      "Multiples",
+      "WACC"
+    ]
+  },
+  {
+    "id": 10606,
+    "title": "Quantifying Exposure to Supply Chain Disruptions via Input-Output Modeling",
+    "domain": "150",
+    "description": "Use economic input-output models to quantify a company's financial exposure to upstream and downstream supply chain disruptions across various sectors.",
+    "keywords": [
+      "Supply Chain Risk",
+      "Input-Output",
+      "Exposure Modeling",
+      "Economic"
+    ]
+  },
+  {
+    "id": 10607,
+    "title": "Developing a Bayesian VAR Model for Macroeconomic Forecasting in Financial Decisions",
+    "domain": "150",
+    "description": "Implement a Bayesian Vector Autoregression (VAR) model to forecast key macroeconomic variables (e.g., CPI, GDP) for use as inputs in bank capital models.",
+    "keywords": [
+      "Bayesian",
+      "VAR",
+      "Macro Forecasting",
+      "Econometrics"
+    ]
+  },
+  {
+    "id": 10608,
+    "title": "Modeling the Financial Impact of AI Automation on Corporate Labor Costs",
+    "domain": "150",
+    "description": "Build a corporate financial model to forecast the long-term changes in labor costs and capital expenditures resulting from the phased adoption of AI and automation technologies.",
+    "keywords": [
+      "AI Impact",
+      "Cost Modeling",
+      "Labor Productivity",
+      "CapEx"
+    ]
+  },
+  {
+    "id": 10609,
+    "title": "Predicting Stock Market Bubbles Using Fractal Analysis and Technical Indicators",
+    "domain": "150",
+    "description": "Develop a model that uses methods like multifractal analysis and technical indicators to identify and predict the formation and bursting of speculative bubbles in asset classes.",
+    "keywords": [
+      "Market Bubbles",
+      "Fractal Analysis",
+      "Technical Analysis",
+      "Forecasting"
+    ]
+  },
+  {
+    "id": 10610,
+    "title": "GNN Model for Portfolio Optimization based on Asset Relationship Networks",
+    "domain": "150",
+    "description": "Utilize a Graph Neural Network (GNN) to model the complex, non-linear relationships between assets and optimize portfolio weights based on network-level risk.",
+    "keywords": [
+      "GNN",
+      "Portfolio Optimization",
+      "Asset Correlation",
+      "Network"
+    ]
+  },
+  {
+    "id": 10611,
+    "title": "Credit Default Swap (CDS) Pricing Model with Counterparty Credit Risk",
+    "domain": "150",
+    "description": "Develop a model to price CDS contracts that accurately incorporates the default risk of the counterparty (protection seller) in addition to the reference entity.",
+    "keywords": [
+      "CDS Pricing",
+      "Counterparty Risk",
+      "Derivatives",
+      "CVA"
+    ]
+  },
+  {
+    "id": 10612,
+    "title": "Quantifying and Modeling Reputational Risk using NLP of Media Coverage",
+    "domain": "150",
+    "description": "Use NLP and sentiment analysis on news media coverage to create a quantifiable score for reputational risk and model its correlation with market performance.",
+    "keywords": [
+      "Reputational Risk",
+      "NLP",
+      "Sentiment Analysis",
+      "Market"
+    ]
+  },
+  {
+    "id": 10613,
+    "title": "LBO Model for Private Equity Acquisition of a Healthcare Company",
+    "domain": "150",
+    "description": "Create a detailed Leveraged Buyout (LBO) model to determine the maximum debt capacity, required equity contribution, and expected IRR for a private equity acquisition.",
+    "keywords": [
+      "LBO",
+      "Private Equity",
+      "IRR",
+      "Financial Modeling"
+    ]
+  },
+  {
+    "id": 10614,
+    "title": "Developing a Real-Time Foreign Exchange (FX) Transaction Cost Model",
+    "domain": "150",
+    "description": "Build a high-frequency model that estimates the implicit transaction costs (market impact, spread) for large-volume FX trades across different liquidity venues.",
+    "keywords": [
+      "FX Trading",
+      "Transaction Cost",
+      "Market Microstructure",
+      "Liquidity"
+    ]
+  },
+  {
+    "id": 10615,
+    "title": "Financial Modeling of New Product Launch R&D and Profitability",
+    "domain": "150",
+    "description": "Develop a corporate finance model to forecast the required R&D spending, market penetration, and long-term profitability of a major new product line.",
+    "keywords": [
+      "R&D Modeling",
+      "New Product",
+      "Forecasting",
+      "Corporate Finance"
+    ]
+  },
+  {
+    "id": 10616,
+    "title": "ML-Based Model for Predicting Bank Failure/Distress",
+    "domain": "150",
+    "description": "Train an ML classification model to predict the probability of a bank entering distress (e.g., needing a bailout or failing) based on regulatory and financial ratios.",
+    "keywords": [
+      "Bank Risk",
+      "Failure Prediction",
+      "Z-Score",
+      "Financial Ratios"
+    ]
+  },
+  {
+    "id": 10617,
+    "title": "Optimizing Retail Lease Agreement NPV with Monte Carlo Rent Scenarios",
+    "domain": "150",
+    "description": "Use Monte Carlo simulation to model the Net Present Value (NPV) of a retail property lease, accounting for uncertain future rent escalations, breaks, and inflation.",
+    "keywords": [
+      "Real Estate",
+      "NPV",
+      "Monte Carlo",
+      "Lease Modeling"
+    ]
+  },
+  {
+    "id": 10618,
+    "title": "Modeling the Financial Impact of GDPR/Privacy Regulation Fines",
+    "domain": "150",
+    "description": "Construct a financial model to estimate the worst-case and expected financial loss from fines and litigation due to non-compliance with major data privacy regulations.",
+    "keywords": [
+      "Regulatory Risk",
+      "Compliance",
+      "Operational Risk",
+      "GDPR"
+    ]
+  },
+  {
+    "id": 10619,
+    "title": "Predictive Model for Commodity Price Volatility using Global Inventory Levels",
+    "domain": "150",
+    "description": "Develop a time series model (e.g., ARIMA) to forecast the volatility of a key commodity price (e.g., Oil, Copper) using global inventory and demand data.",
+    "keywords": [
+      "Commodity Risk",
+      "Volatility",
+      "Time Series",
+      "Inventory"
+    ]
+  },
+  {
+    "id": 10620,
+    "title": "DCF Valuation of a Startup with Negative Cash Flow and High Growth",
+    "domain": "150",
+    "description": "Build a robust DCF valuation model for a high-growth startup, focusing on the treatment of negative cash flows, terminal value assumptions, and WACC adjustments.",
+    "keywords": [
+      "DCF Valuation",
+      "Startup Finance",
+      "Terminal Value",
+      "High-Growth"
+    ]
+  },
+  {
+    "id": 10621,
+    "title": "Dynamic Portfolio Hedging Strategy Using Volatility Derivatives (VIX Options)",
+    "domain": "150",
+    "description": "Design a quantitative strategy to dynamically adjust portfolio hedges using options or futures on the Volatility Index (VIX) to mitigate tail risk during market downturns.",
+    "keywords": [
+      "Hedging",
+      "VIX",
+      "Tail Risk",
+      "Quantitative Strategy"
+    ]
+  },
+  {
+    "id": 10622,
+    "title": "Modeling the Financial Viability of New Toll Road Infrastructure Projects",
+    "domain": "150",
+    "description": "Develop a project finance model for a toll road, forecasting cash flows based on traffic volume scenarios, construction costs, and debt service obligations.",
+    "keywords": [
+      "Infrastructure Finance",
+      "Project Finance",
+      "IRR",
+      "Cash Flow"
+    ]
+  },
+  {
+    "id": 10623,
+    "title": "ML-Based Credit Risk Migration Matrix Forecasting",
+    "domain": "150",
+    "description": "Use machine learning to forecast changes in the credit rating (migration) of a corporate bond portfolio across rating buckets over a one-year horizon.",
+    "keywords": [
+      "Credit Migration",
+      "ML",
+      "Transition Matrix",
+      "Portfolio Risk"
+    ]
+  },
+  {
+    "id": 10624,
+    "title": "Financial Model for Private Credit Fund NAV Calculation and Fee Structure",
+    "domain": "150",
+    "description": "Build a model to accurately calculate the Net Asset Value (NAV) of a private credit fund, incorporating debt valuation, illiquidity, and complex incentive/management fee structures.",
+    "keywords": [
+      "Private Credit",
+      "NAV",
+      "Fee Structure",
+      "Fund Administration"
+    ]
+  },
+  {
+    "id": 10625,
+    "title": "Developing a WACC Model for a Multi-National Corporation with Varying Debt Costs",
+    "domain": "150",
+    "description": "Create a Weighted Average Cost of Capital (WACC) model that correctly weights and aggregates the cost of debt from multiple subsidiaries across different tax and interest rate regimes.",
+    "keywords": [
+      "WACC",
+      "Multi-National",
+      "Cost of Capital",
+      "Corporate Finance"
+    ]
+  },
+  {
+    "id": 10626,
+    "title": "Quantifying the Risk of Model Drift in Production ML Credit Scoring Models",
+    "domain": "150",
+    "description": "Develop a monitoring and backtesting framework to detect and quantify \"model drift\" in a live ML credit scoring system due to changing economic conditions.",
+    "keywords": [
+      "Model Drift",
+      "ML Operations",
+      "Backtesting",
+      "Risk Monitoring"
+    ]
+  },
+  {
+    "id": 10627,
+    "title": "Modeling the Financial Impact of Tariffs and Trade Barriers on Cost of Goods Sold (COGS)",
+    "domain": "150",
+    "description": "Build a cost accounting model to dynamically forecast the change in COGS for manufacturers based on sudden imposition or removal of key import/export tariffs.",
+    "keywords": [
+      "Trade Risk",
+      "COGS",
+      "Scenario Analysis",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": 10628,
+    "title": "Optimizing Bank Reserve Requirements with Liquidity Coverage Ratio (LCR) Modeling",
+    "domain": "150",
+    "description": "Create an optimization model to determine the minimum composition of high-quality liquid assets (HQLA) required to meet regulatory LCR requirements efficiently.",
+    "keywords": [
+      "LCR",
+      "Basel",
+      "Liquidity Optimization",
+      "Banking"
+    ]
+  },
+  {
+    "id": 10629,
+    "title": "Predictive Model for Initial Public Offering (IPO) Underpricing/Pop",
+    "domain": "150",
+    "description": "Use ML algorithms to predict the degree of underpricing (or \"pop\")—the first-day jump—for upcoming IPOs based on market sentiment and deal characteristics.",
+    "keywords": [
+      "IPO Underpricing",
+      "Predictive Analytics",
+      "ECM",
+      "Market"
+    ]
+  },
+  {
+    "id": 10630,
+    "title": "Modeling the Financial C-Suite Compensation Structure for Risk Alignment",
+    "domain": "150",
+    "description": "Design a financial model that ties CEO and CFO incentive compensation (bonuses, equity) to long-term risk-adjusted metrics like RAROC rather than short-term profits.",
+    "keywords": [
+      "Compensation Model",
+      "Risk Alignment",
+      "RAROC",
+      "Governance"
+    ]
+  },
+  {
+    "id": 10631,
+    "title": "Stress Testing Portfolio Returns under Hyperinflation Scenarios",
+    "domain": "150",
+    "description": "Develop a simulation to model the collapse in real (inflation-adjusted) returns for a fixed-income and equity portfolio under a prolonged hyperinflationary economic regime.",
+    "keywords": [
+      "Hyperinflation",
+      "Stress Testing",
+      "Real Returns",
+      "Portfolio Risk"
+    ]
+  },
+  {
+    "id": 10632,
+    "title": "Predictive Model for Health Insurance Claims Cost Based on Patient Behavior",
+    "domain": "150",
+    "description": "Use ML to forecast the annual claims cost for individuals in an insurance pool based on anonymized behavioral and medical history data.",
+    "keywords": [
+      "Insurance Pricing",
+      "ML",
+      "Claims Forecasting",
+      "Health Risk"
+    ]
+  },
+  {
+    "id": 10633,
+    "title": "Financial Model for Quantifying Technical Debt and ROI of Modernization",
+    "domain": "150",
+    "description": "Build a model that assigns a financial cost (technical debt) to outdated software/systems and forecasts the ROI of major IT modernization projects.",
+    "keywords": [
+      "Technical Debt",
+      "ROI",
+      "IT Finance",
+      "CapEx"
+    ]
+  },
+  {
+    "id": 10634,
+    "title": "Modeling the Impact of Negative Interest Rates on Bank Profitability",
+    "domain": "150",
+    "description": "Construct a sensitivity analysis model for a commercial bank to quantify the contraction in Net Interest Margin (NIM) and overall profitability under a negative interest rate policy.",
+    "keywords": [
+      "Interest Rate Risk",
+      "NIM",
+      "Negative Rates",
+      "Banking"
+    ]
+  },
+  {
+    "id": 10635,
+    "title": "NLP-Based Model for Automated Valuation of Intangible Assets",
+    "domain": "150",
+    "description": "Develop an NLP model to analyze patent filings, trademarks, and research documents to derive a quantitative estimate of a company's intangible asset value.",
+    "keywords": [
+      "Intangible Assets",
+      "Valuation",
+      "NLP",
+      "Patent Analysis"
+    ]
+  },
+  {
+    "id": 10636,
+    "title": "Quantifying Financial Exposure to Water Scarcity Risk in Agriculture",
+    "domain": "150",
+    "description": "Develop a regional financial model to assess the revenue and cost risk exposure of agriculture-focused financial institutions to localized water scarcity events.",
+    "keywords": [
+      "ESG Risk",
+      "Water Scarcity",
+      "Agricultural Finance",
+      "Exposure"
+    ]
+  },
+  {
+    "id": 10637,
+    "title": "Optimizing Tax Strategy using Monte Carlo Simulation of Future Tax Law",
+    "domain": "150",
+    "description": "Use Monte Carlo simulation to model the NPV of a multinational's tax strategy, incorporating the uncertainty and possible changes in global tax legislation.",
+    "keywords": [
+      "Tax Modeling",
+      "Monte Carlo",
+      "Optimization",
+      "NPV"
+    ]
+  },
+  {
+    "id": 10638,
+    "title": "Predicting Option Price Volatility Surfaces with Deep Learning",
+    "domain": "150",
+    "description": "Implement a deep learning network to model and forecast the complex, non-linear volatility surface for equity options, improving pricing and hedging accuracy.",
+    "keywords": [
+      "Options Pricing",
+      "Volatility Surface",
+      "Deep Learning",
+      "Hedging"
+    ]
+  },
+  {
+    "id": 10639,
+    "title": "Financial Model for Infrastructure Asset Life Cycle Management",
+    "domain": "150",
+    "description": "Create a financial planning model to optimize the long-term maintenance and replacement schedule (life cycle) for public infrastructure to minimize total cost of ownership (TCO).",
+    "keywords": [
+      "Infrastructure TCO",
+      "Life Cycle Costing",
+      "Optimization",
+      "CapEx"
+    ]
+  },
+  {
+    "id": 10640,
+    "title": "ML-Based Anomaly Detection for Anti-Money Laundering (AML) Transaction Monitoring",
+    "domain": "150",
+    "description": "Deploy an unsupervised ML model to identify new and evolving patterns of money laundering and financial crime that bypass existing rule-based AML systems.",
+    "keywords": [
+      "AML",
+      "Anomaly Detection",
+      "ML",
+      "Financial Crime"
+    ]
+  },
+  {
+    "id": 10641,
+    "title": "Modeling the Financial Viability of Carbon Offset Projects (Forestry)",
+    "domain": "150",
+    "description": "Develop a project finance model for a forestry-based carbon offset project, accounting for uncertain carbon credit prices, land costs, and biological risks.",
+    "keywords": [
+      "Carbon Finance",
+      "Offsets",
+      "Project Finance",
+      "ESG"
+    ]
+  },
+  {
+    "id": 10642,
+    "title": "Predictive Model for Credit Card Balance Transfer Success Rate",
+    "domain": "150",
+    "description": "Create a logistic regression model to predict the probability of a customer successfully paying off a balance transfer offer, helping to set optimal offer terms.",
+    "keywords": [
+      "Credit Marketing",
+      "Predictive Modeling",
+      "Balance Transfer",
+      "Risk"
+    ]
+  },
+  {
+    "id": 10643,
+    "title": "Sensitivity Analysis of Pension Fund Discount Rate Choice on PBO",
+    "domain": "150",
+    "description": "Build a financial model to perform detailed sensitivity analysis on how small changes in the discount rate assumption impact a corporation's Pension Benefit Obligation (PBO).",
+    "keywords": [
+      "Pension Accounting",
+      "PBO",
+      "Discount Rate",
+      "Sensitivity"
+    ]
+  },
+  {
+    "id": 10644,
+    "title": "Developing a Corporate Venture Capital (CVC) Portfolio Valuation Model",
+    "domain": "150",
+    "description": "Create a specialized valuation model for a CVC arm, blending public market comps, DCF, and LBO methodologies for private, strategic startup investments.",
+    "keywords": [
+      "CVC",
+      "Portfolio Valuation",
+      "Startup Finance",
+      "LBO"
+    ]
+  },
+  {
+    "id": 10645,
+    "title": "ML-Based Model for Predicting Corporate Tax Evasion Risk",
+    "domain": "150",
+    "description": "Use machine learning on public financial data and regulatory filings to predict which companies are most likely to engage in aggressive or illegal tax evasion schemes.",
+    "keywords": [
+      "Tax Risk",
+      "ML",
+      "Compliance",
+      "Regulatory Risk"
+    ]
+  },
+  {
+    "id": 10646,
+    "title": "Quantifying Risk of Retail Theft/Shrinkage on Store EBITDA",
+    "domain": "150",
+    "description": "Construct a financial model for a retail chain to quantify the direct and indirect impact of retail theft/shrinkage on store-level EBITDA and inventory write-offs.",
+    "keywords": [
+      "Operational Risk",
+      "Retail Finance",
+      "EBITDA",
+      "Loss Modeling"
+    ]
+  },
+  {
+    "id": 10647,
+    "title": "Optimizing Bond Portfolio Duration and Convexity for Yield Curve Shocks",
+    "domain": "150",
+    "description": "Design an optimization model to select bond weights that minimize portfolio loss under various scenarios of upward or downward shifts and twists of the yield curve.",
+    "keywords": [
+      "Fixed Income",
+      "Duration",
+      "Convexity",
+      "Optimization"
+    ]
+  },
+  {
+    "id": 10648,
+    "title": "Financial Model for Post-Merger Integration EBITDA Synergies Tracking",
+    "domain": "150",
+    "description": "Develop a model to track and forecast the realization of cost and revenue synergies (EBITDA impact) following a major corporate merger over a three-year period.",
+    "keywords": [
+      "M&A Integration",
+      "Synergies",
+      "EBITDA Modeling",
+      "Tracking"
+    ]
+  },
+  {
+    "id": 10649,
+    "title": "Predictive Model for Loan Loss Provisioning based on Macroeconomic Cycle",
+    "domain": "150",
+    "description": "Create a forward-looking model to estimate required loan loss provisions (e.g., CECL) by linking historical losses to the current stage of the macroeconomic business cycle.",
+    "keywords": [
+      "Loan Loss",
+      "CECL",
+      "IFRS9",
+      "Macro Cycle"
+    ]
+  },
+  {
+    "id": 10650,
+    "title": "Modeling the Financial Impact of Labor Strikes on Production and Revenue",
+    "domain": "150",
+    "description": "Build a corporate financial model to quantify the revenue loss and increased operational costs resulting from potential or ongoing labor strikes at a production facility.",
+    "keywords": [
+      "Operational Risk",
+      "Labor Relations",
+      "Revenue Modeling",
+      "Forecasting"
+    ]
+  },
+
 
 
         // Note: In a real implementation, this array would contain 2000+ problems
