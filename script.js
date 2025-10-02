@@ -894,11 +894,17 @@ class Problem2Project {
         let sorted = [...this.problems];
         
         switch(sortBy) {
-            case 'title':
+            case 'title-asc':
                 sorted.sort((a, b) => a.title.localeCompare(b.title));
                 break;
-            case 'keywords':
-                sorted.sort((a, b) => b.keywords.length - a.keywords.length);
+            case 'title-desc':
+                sorted.sort((a, b) => b.title.localeCompare(a.title));
+                break;
+            case 'keywords-desc':
+                sorted.sort((a, b) => b.keywords.length - a.keywords.length); // Most to Least
+                break;
+            case 'keywords-asc':
+                sorted.sort((a, b) => a.keywords.length - b.keywords.length); // Least to Most
                 break;
             default: // relevance
                 // Keep original order for relevance
@@ -1196,14 +1202,22 @@ class Problem2Project {
         const cards = Array.from(grid.children);
         
         cards.sort((a, b) => {
-            if (sortBy === 'name') {
+            if (sortBy === 'name-asc') {
                 const nameA = a.querySelector('h3').textContent;
                 const nameB = b.querySelector('h3').textContent;
                 return nameA.localeCompare(nameB);
-            } else if (sortBy === 'problems') {
+            } else if (sortBy === 'name-desc') {
+                const nameA = a.querySelector('h3').textContent;
+                const nameB = b.querySelector('h3').textContent;
+                return nameB.localeCompare(nameA);
+            } else if (sortBy === 'problems-desc') {
                 const countA = parseInt(a.querySelector('[id^="count-"]')?.textContent || '0');
                 const countB = parseInt(b.querySelector('[id^="count-"]')?.textContent || '0');
-                return countB - countA;
+                return countB - countA; // High to Low
+            } else if (sortBy === 'problems-asc') {
+                const countA = parseInt(a.querySelector('[id^="count-"]')?.textContent || '0');
+                const countB = parseInt(b.querySelector('[id^="count-"]')?.textContent || '0');
+                return countA - countB; // Low to High
             }
             return 0;
         });

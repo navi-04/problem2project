@@ -499,8 +499,10 @@
                 </div>
                 <div class="flex gap-3 sm:gap-4">
                     <select id="sort-categories" class="flex-1 sm:flex-none px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-base">
-                        <option value="name">Sort by Name</option>
-                        <option value="problems">Sort by Problem Count</option>
+                        <option value="name-asc">📝 Name A→Z</option>
+                        <option value="name-desc">📝 Name Z→A</option>
+                        <option value="problems-desc">🔢 Count ↓ High</option>
+                        <option value="problems-asc">🔢 Count ↑ Low</option>
                     </select>
                     <button id="view-toggle" class="px-4 sm:px-6 py-3 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-xl transition-colors">
                         <i class="fas fa-th-large"></i>
@@ -546,9 +548,11 @@
                            class="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent">
                 </div>
                 <select id="problems-sort" class="px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500">
-                    <option value="relevance">Sort by Relevance</option>
-                    <option value="title">Sort by Title</option>
-                    <option value="keywords">Sort by Keywords</option>
+                    <option value="relevance">⭐ Relevance</option>
+                    <option value="title-asc">📄 Title A→Z</option>
+                    <option value="title-desc">📄 Title Z→A</option>
+                    <option value="keywords-desc">🏷️ Tags ↓ Most</option>
+                    <option value="keywords-asc">🏷️ Tags ↑ Least</option>
                 </select>
                 <div class="flex gap-2">
                     <button id="grid-view" class="px-4 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors">
