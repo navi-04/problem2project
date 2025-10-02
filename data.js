@@ -108,10 +108,10 @@ const DOMAINS = {
         shortName: "Civil & Environment",
         description: "Infrastructure, environmental engineering, sustainability",
         icon: "fas fa-building",
-        color: "teal",
-        gradient: "from-teal-50 to-emerald-100",
-        iconGradient: "from-teal-500 to-emerald-600",
-        textColor: "teal-600",
+        color: "coral",
+        gradient: "from-coral-50 to-orange-100",
+        iconGradient: "from-coral-500 to-orange-600",
+        textColor: "coral-600",
         category: "civil"
     },
     "11": {
@@ -141,10 +141,10 @@ const DOMAINS = {
         shortName: "Business & Entrepreneurship",
         description: "Startup challenges, business models, market analysis",
         icon: "fas fa-chart-bar",
-        color: "blue",
-        gradient: "from-blue-50 to-cyan-100",
-        iconGradient: "from-blue-500 to-cyan-600",
-        textColor: "blue-600",
+        color: "gold",
+        gradient: "from-gold-50 to-yellow-100",
+        iconGradient: "from-gold-500 to-yellow-600",
+        textColor: "gold-600",
         category: "business"
     },
     "14": {
@@ -163,10 +163,10 @@ const DOMAINS = {
         shortName: "Internet of Things",
         description: "Connected devices, sensor networks, smart systems",
         icon: "fas fa-wifi",
-        color: "emerald",
-        gradient: "from-emerald-50 to-green-100",
-        iconGradient: "from-emerald-500 to-green-600",
-        textColor: "emerald-600",
+        color: "lime",
+        gradient: "from-lime-50 to-green-100",
+        iconGradient: "from-lime-500 to-green-600",
+        textColor: "lime-600",
         category: "iot"
     },
     "16": {
@@ -185,10 +185,10 @@ const DOMAINS = {
         shortName: "Energy & Sustainability",
         description: "Renewable energy, green tech, environmental solutions",
         icon: "fas fa-solar-panel",
-        color: "lime",
-        gradient: "from-lime-50 to-green-100",
-        iconGradient: "from-lime-500 to-green-600",
-        textColor: "lime-600",
+        color: "sage",
+        gradient: "from-sage-50 to-green-100",
+        iconGradient: "from-sage-500 to-green-600",
+        textColor: "sage-600",
         category: "energy"
     },
     "18": {
@@ -207,10 +207,10 @@ const DOMAINS = {
         shortName: "Legal & Policy",
         description: "Legal tech, policy analysis, regulatory challenges",
         icon: "fas fa-gavel",
-        color: "gray",
-        gradient: "from-gray-50 to-slate-100",
-        iconGradient: "from-gray-500 to-slate-600",
-        textColor: "gray-600",
+        color: "maroon",
+        gradient: "from-maroon-50 to-red-100",
+        iconGradient: "from-maroon-500 to-red-600",
+        textColor: "maroon-600",
         category: "legal"
     },
     "20": {
@@ -274,10 +274,10 @@ const DOMAINS = {
         shortName: "Materials Science",
         description: "Advanced materials, nanotechnology, composites",
         icon: "fas fa-cube",
-        color: "stone",
-        gradient: "from-stone-50 to-gray-100",
-        iconGradient: "from-stone-500 to-gray-600",
-        textColor: "stone-600",
+        color: "ruby",
+        gradient: "from-ruby-50 to-red-100",
+        iconGradient: "from-ruby-500 to-red-600",
+        textColor: "ruby-600",
         category: "materials"
     },
     "26": {
@@ -329,10 +329,10 @@ const DOMAINS = {
         shortName: "Climate Science & Weather",
         description: "Climate modeling, weather prediction, atmospheric science",
         icon: "fas fa-cloud-sun",
-        color: "sky",
-        gradient: "from-sky-50 to-cyan-100",
-        iconGradient: "from-sky-500 to-cyan-600",
-        textColor: "sky-600",
+        color: "cyan",
+        gradient: "from-cyan-50 to-sky-100",
+        iconGradient: "from-cyan-500 to-sky-600",
+        textColor: "cyan-600",
         category: "climate"
     },
     "31": {
@@ -373,10 +373,10 @@ const DOMAINS = {
         shortName: "AI Ethics",
         description: "Bias detection, fairness, transparency, and responsible AI development",
         icon: "fas fa-balance-scale",
-        color: "teal",
-        gradient: "from-teal-50 to-cyan-100",
-        iconGradient: "from-teal-500 to-cyan-600",
-        textColor: "teal-600",
+        color: "mint",
+        gradient: "from-mint-50 to-green-100",
+        iconGradient: "from-mint-500 to-green-600",
+        textColor: "mint-600",
         category: "ai-ethics"
     },
     "35": {
@@ -560,10 +560,10 @@ const DOMAINS = {
         shortName: "Cybersecurity",
         description: "Threat detection, cyber defense, and security analytics",
         icon: "fas fa-shield-alt",
-        color: "gray",
-        gradient: "from-gray-50 to-slate-100",
-        iconGradient: "from-gray-500 to-slate-600",
-        textColor: "gray-600",
+        color: "platinum",
+        gradient: "from-platinum-50 to-blue-100",
+        iconGradient: "from-platinum-500 to-blue-600",
+        textColor: "platinum-600",
         category: "security"
     },
     "52": {
@@ -571,10 +571,10 @@ const DOMAINS = {
         shortName: "Database & Big Data",
         description: "Database design, data warehousing, and big data analytics",
         icon: "fas fa-database",
-        color: "stone",
-        gradient: "from-stone-50 to-gray-100",
-        iconGradient: "from-stone-500 to-gray-600",
-        textColor: "stone-600",
+        color: "navy",
+        gradient: "from-navy-50 to-blue-100",
+        iconGradient: "from-navy-500 to-blue-600",
+        textColor: "navy-600",
         category: "data"
     },
     "53": {
@@ -648,10 +648,10 @@ const DOMAINS = {
     shortName: "Bioinformatics",
     description: "Genomics, proteomics, and computational biology analysis",
     icon: "fas fa-chart-line",
-    color: "teal",
-    gradient: "from-teal-50 to-green-100",
-    iconGradient: "from-teal-500 to-green-600",
-    textColor: "teal-600",
+    color: "seafoam",
+    gradient: "from-seafoam-50 to-green-100",
+    iconGradient: "from-seafoam-500 to-green-600",
+    textColor: "seafoam-600",
     category: "life-sciences"
 },
 "60": {
@@ -824,10 +824,10 @@ const DOMAINS = {
     shortName: "AgeTech",
     description: "Senior care, health monitoring, and independent living technology",
     icon: "fas fa-user-friends",
-    color: "teal",
-    gradient: "from-teal-50 to-cyan-100",
-    iconGradient: "from-teal-500 to-cyan-600",
-    textColor: "teal-600",
+    color: "lavender",
+    gradient: "from-lavender-50 to-purple-100",
+    iconGradient: "from-lavender-500 to-purple-600",
+    textColor: "lavender-600",
     category: "senior-care"
 },
 "76": {
@@ -945,10 +945,10 @@ const DOMAINS = {
     shortName: "Waste Management",
     description: "Recycling systems, waste reduction, and circular economy solutions",
     icon: "fas fa-recycle",
-    color: "teal",
-    gradient: "from-teal-50 to-green-100",
-    iconGradient: "from-teal-500 to-green-600",
-    textColor: "teal-600",
+    color: "forest",
+    gradient: "from-forest-50 to-green-100",
+    iconGradient: "from-forest-500 to-green-600",
+    textColor: "forest-600",
     category: "sustainability"
 },
 "87": {
@@ -967,10 +967,10 @@ const DOMAINS = {
     shortName: "Mining Technology",
     description: "Extraction methods, mining automation, and resource processing",
     icon: "fas fa-hammer",
-    color: "stone",
-    gradient: "from-stone-50 to-gray-100",
-    iconGradient: "from-stone-500 to-gray-600",
-    textColor: "stone-600",
+    color: "bronze",
+    gradient: "from-bronze-50 to-orange-100",
+    iconGradient: "from-bronze-500 to-orange-600",
+    textColor: "bronze-600",
     category: "engineering"
 },
 "89": {
@@ -1088,10 +1088,10 @@ const DOMAINS = {
     shortName: "Printing Technology",
     description: "Digital printing, publishing systems, and print technology",
     icon: "fas fa-print",
-    color: "gray",
-    gradient: "from-gray-50 to-stone-100",
-    iconGradient: "from-gray-500 to-stone-600",
-    textColor: "gray-600",
+    color: "magenta",
+    gradient: "from-magenta-50 to-pink-100",
+    iconGradient: "from-magenta-500 to-pink-600",
+    textColor: "magenta-600",
     category: "media"
 },
 "100": {
@@ -1220,10 +1220,10 @@ const DOMAINS = {
     shortName: "Population Studies",
     description: "Demographic analysis, population modeling, and social statistics",
     icon: "fas fa-users",
-    color: "teal",
-    gradient: "from-teal-50 to-cyan-100",
-    iconGradient: "from-teal-500 to-cyan-600",
-    textColor: "teal-600",
+    color: "peach",
+    gradient: "from-peach-50 to-orange-100",
+    iconGradient: "from-peach-500 to-orange-600",
+    textColor: "peach-600",
     category: "social"
 },
 "112": {
@@ -1275,10 +1275,10 @@ const DOMAINS = {
     shortName: "Food Traceability",
     description: "Blockchain, sensors, and digital platforms for tracking food from farm-to-fork to ensure safety and prevent outbreaks.",
     icon: "fas fa-clipboard-check",
-    color: "teal",
-    gradient: "from-teal-50 to-cyan-100",
-    iconGradient: "from-teal-500 to-cyan-600",
-    textColor: "teal-600",
+    color: "turquoise",
+    gradient: "from-turquoise-50 to-cyan-100",
+    iconGradient: "from-turquoise-500 to-cyan-600",
+    textColor: "turquoise-600",
     category: "food"
 },
 117: {
@@ -1319,10 +1319,10 @@ const DOMAINS = {
     shortName: "Tribology",
     description: "The science and engineering of friction, wear, and lubrication in moving parts and machine elements.",
     icon: "fas fa-oil-can",
-    color: "gray",
-    gradient: "from-gray-50 to-slate-100",
-    iconGradient: "from-gray-500 to-slate-600",
-    textColor: "gray-600",
+    color: "copper",
+    gradient: "from-copper-50 to-orange-100",
+    iconGradient: "from-copper-500 to-orange-600",
+    textColor: "copper-600",
     category: "mechanical"
 },
 121: {
@@ -1550,10 +1550,10 @@ const DOMAINS = {
     shortName: "Structural Eng.",
     description: "Design and analysis of civil structures to withstand loads and environmental conditions, ensuring safety and durability.",
     icon: "fas fa-archway",
-    color: "gray",
-    gradient: "from-gray-50 to-slate-100",
-    iconGradient: "from-gray-500 to-slate-600",
-    textColor: "gray-600",
+    color: "steel",
+    gradient: "from-steel-50 to-blue-100",
+    iconGradient: "from-steel-500 to-blue-600",
+    textColor: "steel-600",
     category: "civil"
 },
 142: {
@@ -1572,10 +1572,10 @@ const DOMAINS = {
     shortName: "Traffic Eng.",
     description: "Designing, managing, and optimizing traffic flow using smart signals, sensor data, and urban planning.",
     icon: "fas fa-traffic-light",
-    color: "teal",
-    gradient: "from-teal-50 to-green-100",
-    iconGradient: "from-teal-500 to-green-600",
-    textColor: "teal-600",
+    color: "crimson",
+    gradient: "from-crimson-50 to-red-100",
+    iconGradient: "from-crimson-500 to-red-600",
+    textColor: "crimson-600",
     category: "transportation"
 },
 144: {
