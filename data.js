@@ -4450,6 +4450,7 @@ const PROBLEMS_DATA = {
             "description": "Develop a suite that attempts to solve or approximate integer solutions for Diophantine equations with visual explanations.",
             "keywords": ["Number Theory", "Diophantine Equations", "Algebra", "Mathematical Problem Solving"]
         },
+        
 // PHYSICS (Domain 3) - 70+ problems
 {
             "id": 201,
@@ -24601,6 +24602,114 @@ const PROBLEMS_DATA = {
     "description": "Develop a hiring platform governed by DAOs where freelancers are matched with employers using token incentives.",
     "keywords": ["DAOs", "Token Economics", "Web3 Applications"]
   },
+   {
+    "id": 92,
+    "title": "Scalability Solution for High-Volume Decentralized Exchanges (DEXs)",
+    "domain": "33",
+    "description": "Develop a Layer 2 or sharding solution to significantly increase the transaction throughput and reduce gas fees for order matching and settlement on a high-frequency Decentralized Exchange (DEX).",
+    "keywords": [
+      "Layer 2",
+      "DEX",
+      "Scalability",
+      "Sharding"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Decentralized Identity (DID) System for Cross-Platform Web3 Authentication",
+    "domain": "33",
+    "description": "Design and implement a self-sovereign Decentralized Identity (DID) protocol that allows users to securely control and use a single identity across multiple blockchains and Web2 services.",
+    "keywords": [
+      "DID",
+      "Self-Sovereign Identity",
+      "Authentication",
+      "Zero-Knowledge Proofs"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Oracle Mechanism for Reliable Off-Chain ESG Data Integration in DeFi",
+    "domain": "33",
+    "description": "Create a robust and verifiable oracle network that securely feeds validated Environmental, Social, and Governance (ESG) data from external sources onto the blockchain for use in Decentralized Finance (DeFi) green lending protocols.",
+    "keywords": [
+      "Oracle",
+      "ESG Data",
+      "DeFi",
+      "Verifiability"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Security Model to Mitigate Flash Loan Attacks in Lending Protocols",
+    "domain": "33",
+    "description": "Develop and test a security architecture for DeFi lending protocols that uses pre-transaction state checking and governance mechanisms to prevent and detect malicious Flash Loan exploits.",
+    "keywords": [
+      "Flash Loans",
+      "DeFi Security",
+      "Exploits",
+      "Smart Contract Audit"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Design and Governance of a Decentralized Autonomous Organization (DAO) Treasury Management System",
+    "domain": "33",
+    "description": "Propose a structured system for DAOs to manage large, multi-asset treasuries, including mechanisms for risk-adjusted asset allocation, voting, and transparent fund utilization.",
+    "keywords": [
+      "DAO",
+      "Treasury Management",
+      "Governance",
+      "Multi-Sig"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Cross-Chain Interoperability Protocol for NFT Asset Transfer and Royalty Enforcement",
+    "domain": "33",
+    "description": "Build a secure protocol that enables seamless Non-Fungible Token (NFT) transfer between incompatible blockchains while ensuring the automatic and enforceable distribution of creator royalties on the destination chain.",
+    "keywords": [
+      "NFT",
+      "Cross-Chain",
+      "Interoperability",
+      "Royalties"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Tokenomics Model to Incentivize Sustainable DePIN (Decentralized Physical Infrastructure Networks) Participation",
+    "domain": "33",
+    "description": "Develop a dynamic tokenomics framework that uses variable emission rates and staking requirements to incentivize long-term, high-quality hardware contribution and resource provision in a DePIN project.",
+    "keywords": [
+      "Tokenomics",
+      "DePIN",
+      "Incentives",
+      "Staking"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Privacy-Preserving Data Sharing Layer for Healthcare Records using Blockchain",
+    "domain": "33",
+    "description": "Implement a distributed ledger technology (DLT) solution that allows patients to control access to their encrypted healthcare records, enabling research institutions to query aggregated data without exposing individual identities (e.g., Homomorphic Encryption).",
+    "keywords": [
+      "Privacy",
+      "Healthcare",
+      "Homomorphic Encryption",
+      "DLT"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Regulatory-Compliant KYC/AML Framework for Decentralized Finance (DeFi) Applications",
+    "domain": "33",
+    "description": "Propose a technical and legal framework using soul-bound tokens or zero-knowledge proofs to enable Know-Your-Customer (KYC) and Anti-Money Laundering (AML) compliance in a way that respects user pseudonymity in permissioned DeFi pools.",
+    "keywords": [
+      "KYC",
+      "AML",
+      "DeFi Regulation",
+      "Soul-Bound Tokens"
+    ]
+  },
 
   //domain-34
     {
@@ -24953,6 +25062,174 @@ const PROBLEMS_DATA = {
         "description": "Design translation AI that avoids cultural or gender biases, ensuring inclusivity in multilingual communication.",
         "keywords": ["Bias Detection", "Fairness", "Responsible AI"]
     },
+    {
+    "id": 187,
+    "title": "Developing a Counterfactual Explainer for Deep Learning Credit Scoring Models",
+    "domain": "34",
+    "description": "Create a robust XAI method that provides counterfactual explanations (e.g., 'If your income was $5,000 higher, your loan would have been approved') for decisions made by non-linear deep learning credit models.",
+    "keywords": [
+      "XAI",
+      "Counterfactuals",
+      "Deep Learning",
+      "Credit Risk"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Quantifying Model Uncertainty and Confidence for High-Stakes Clinical Diagnostics",
+    "domain": "34",
+    "description": "Implement Bayesian or uncertainty quantification techniques to provide human-interpretable confidence intervals alongside AI predictions in medical diagnostic systems.",
+    "keywords": [
+      "Uncertainty Quantification",
+      "Bayesian ML",
+      "Medical AI",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Framework for Detecting and Mitigating Data Drift in Production Recommendation Engines",
+    "domain": "34",
+    "description": "Design an MLOps monitoring pipeline to automatically detect when training data and live input data distributions diverge ('data drift') and trigger model retraining to maintain predictive integrity.",
+    "keywords": [
+      "MLOps",
+      "Data Drift",
+      "Monitoring",
+      "Recommendation Systems"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Developing Local Interpretability Methods for Graph Neural Networks (GNNs)",
+    "domain": "34",
+    "description": "Create a GNN-specific XAI method (e.g., node feature importance) to explain why a GNN classified a specific entity (e.g., a bank in a network) with a high-risk label.",
+    "keywords": [
+      "GNN",
+      "Local Interpretability",
+      "Network Analysis",
+      "XAI"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Measuring Causal Impact vs. Correlation in AI Feature Importance Rankings",
+    "domain": "34",
+    "description": "Develop a framework that distinguishes genuine causal factors from mere statistical correlations when analyzing feature importance (e.g., using SHAP or LIME) in predictive models.",
+    "keywords": [
+      "Causal Inference",
+      "Feature Importance",
+      "SHAP",
+      "Trustworthy AI"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Privacy-Preserving Explanations for Federated Learning Models",
+    "domain": "34",
+    "description": "Develop an XAI technique that generates model explanations (e.g., global feature importance) without requiring access to the sensitive local training data sets in a federated learning environment.",
+    "keywords": [
+      "Federated Learning",
+      "Privacy-Preserving AI",
+      "XAI",
+      "Security"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "User Interface Design for Explaining Complex AI Outputs to Non-Technical Stakeholders",
+    "domain": "34",
+    "description": "Design and prototype a dashboard or UI that translates technical model explanations (like partial dependence plots) into actionable, narrative-based insights for business users or regulators.",
+    "keywords": [
+      "User Interface",
+      "Visualization",
+      "Human-Centered AI",
+      "Communication"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Developing a Consistency Metric for Explanations across Model Versions",
+    "domain": "34",
+    "description": "Create a metric to quantify the stability of model explanations across subsequent versions of an AI model, ensuring that changes in prediction rationale are intentional and not spurious.",
+    "keywords": [
+      "Model Monitoring",
+      "Explanation Consistency",
+      "MLOps",
+      "Stability"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Framework for Adversarial Robustness Testing of Production AI Systems",
+    "domain": "34",
+    "description": "Build a testing suite to systematically identify and measure the vulnerability of an image classification or NLP model to small, malicious perturbations (adversarial attacks) in the input data.",
+    "keywords": [
+      "Adversarial Attacks",
+      "Robustness",
+      "Security",
+      "Testing"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Explainable Reinforcement Learning (XRL) for Autonomous Financial Trading Agents",
+    "domain": "34",
+    "description": "Develop XRL methods to explain the rationale behind the actions and policy decisions of a Reinforcement Learning agent engaged in high-stakes financial trading.",
+    "keywords": [
+      "XRL",
+      "Reinforcement Learning",
+      "Financial Trading",
+      "Policy Explanation"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Automated Generation of Documentation for Model Cards and Data Sheets",
+    "domain": "34",
+    "description": "Create an automated tool that pulls metadata, performance metrics, and XAI insights from an MLOps pipeline to generate standardized 'Model Cards' for regulatory compliance and transparency.",
+    "keywords": [
+      "Model Cards",
+      "Documentation",
+      "Compliance",
+      "Transparency"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Benchmarking and Evaluation of Explainability Methods for Time-Series Forecasting",
+    "domain": "34",
+    "description": "Design a study to compare the fidelity, stability, and computational cost of various XAI techniques (e.g., LIME, SHAP, attention mechanisms) when applied to multivariate time-series forecasting models.",
+    "keywords": [
+      "Time-Series",
+      "Benchmarking",
+      "Fidelity",
+      "Evaluation"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Developing an Audit Trail for AI Decisions in Regulated Environments",
+    "domain": "34",
+    "description": "Implement a verifiable, tamper-proof logging mechanism (e.g., using DLT) to track and store all model inputs, outputs, and generated explanations for every regulatory-significant AI decision.",
+    "keywords": [
+      "Auditability",
+      "Regulatory Compliance",
+      "DLT",
+      "Verifiability"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Establishing a 'Recourse' System based on Explainable AI for Loan Denials",
+    "domain": "34",
+    "description": "Design a system where a loan applicant can review the counterfactual explanation for their denial and submit targeted, verified new information (e.g., updated employment proof) to trigger an immediate, automated re-evaluation.",
+    "keywords": [
+      "Recourse",
+      "Fairness",
+      "Loan Decision",
+      "Counterfactuals"
+    ]
+  }, 
 
     // domain 35
   {
@@ -25657,6 +25934,114 @@ const PROBLEMS_DATA = {
     "description": "Design synthetic biology-driven bioreactors for enhanced production of biomolecules.",
     "keywords": ["Bioreactors", "Synthetic Biology", "Biomanufacturing", "Optimization"]
   },
+  {
+    "id": 387,
+    "title": "Engineering a Self-Destruct Mechanism for Biosafety in Engineered Microbes",
+    "domain": "36",
+    "description": "Design a genetic circuit (kill switch) in a bacterium (e.g., E. coli) that is highly reliable, non-leaky, and triggers the cell's demise only upon escape from a controlled environment or lack of a specific synthetic metabolite.",
+    "keywords": [
+      "Biosafety",
+      "Genetic Circuit",
+      "Kill Switch",
+      "Environmental Sensing"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Optimizing Yeast for High-Yield Production of Sustainable Jet Fuel Precursors",
+    "domain": "36",
+    "description": "Use metabolic engineering and CRISPR/Cas9 to modify the yeast (S. cerevisiae) pathway to significantly increase the efficiency and yield of a specific long-chain alcohol or fatty acid suitable for conversion into sustainable aviation fuel.",
+    "keywords": [
+      "Metabolic Engineering",
+      "Biofuel",
+      "Yeast",
+      "CRISPR"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "Developing an RNA-Based Logic Gate for Targeted Cancer Cell Therapy",
+    "domain": "36",
+    "description": "Design a synthetic RNA circuit (e.g., an AND gate) that only activates the expression of a cytotoxic protein when detecting two distinct, co-expressed cancer-specific mRNA markers, minimizing off-target toxicity.",
+    "keywords": [
+      "RNA Circuit",
+      "Gene Therapy",
+      "Cancer Targeting",
+      "Logic Gate"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "Creating a Microbial Biosensor for Real-Time Detection of Waterborne Pathogens",
+    "domain": "36",
+    "description": "Engineer a bacterium to act as a living biosensor, exhibiting a visible color change or fluorescence signal when concentrations of a target waterborne pathogen (e.g., Salmonella) exceed a safe threshold.",
+    "keywords": [
+      "Biosensor",
+      "Environmental Monitoring",
+      "Pathogen Detection",
+      "Microbiology"
+    ]
+  },
+  {
+    "id": 391,
+    "title": "Cell-Free Protein Synthesis System for Rapid On-Site Drug Manufacturing",
+    "domain": "36",
+    "description": "Develop and optimize a robust, lyophilized (freeze-dried) cell-free system capable of synthesizing therapeutic proteins (e.g., antibodies) rapidly and cheaply at the point of need, outside of traditional bioreactors.",
+    "keywords": [
+      "Cell-Free Synthesis",
+      "Biomanufacturing",
+      "Therapeutics",
+      "Point-of-Care"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "Predictive Modeling of Gene Circuit Performance Across Variable Environmental Conditions",
+    "domain": "36",
+    "description": "Build a computational model (e.g., agent-based or dynamic) to accurately predict the expression levels and stability of a synthetic gene circuit in response to fluctuating factors like temperature, pH, and nutrient availability.",
+    "keywords": [
+      "Computational Biology",
+      "Gene Circuit Modeling",
+      "Biophysics",
+      "Predictive Design"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "Engineering Plant Microbiomes to Enhance Carbon Sequestration and Crop Resilience",
+    "domain": "36",
+    "description": "Modify the plant root-associated microbiome using synthetic bacteria to increase the depth and stability of carbon fixation in the soil while simultaneously enhancing the plant's drought and pest resistance.",
+    "keywords": [
+      "Microbiome Engineering",
+      "Carbon Sequestration",
+      "Agriculture",
+      "Plant Resilience"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "Development of Next-Generation DNA Data Storage and Retrieval Systems",
+    "domain": "36",
+    "description": "Innovate a scalable, high-density system that utilizes synthetic DNA molecules for digital data storage, focusing on efficient enzymatic writing (synthesis) and rapid, error-free reading (sequencing) protocols.",
+    "keywords": [
+      "DNA Data Storage",
+      "Molecular Computing",
+      "Scalability",
+      "Biotechnology"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "In Vivo Diagnostic System Using Engineered Mammalian Cells",
+    "domain": "36",
+    "description": "Create a genetically engineered mammalian cell that, when implanted, can continuously monitor a specific biomarker in the bloodstream (e.g., glucose, inflammation markers) and release a reporter molecule or drug in response.",
+    "keywords": [
+      "In Vivo Diagnostics",
+      "Mammalian Cell Engineering",
+      "Biomarker Sensing",
+      "Theranostics"
+    ]
+  },
   // domain 37
   {
     "id": 3501,
@@ -26007,6 +26392,66 @@ const PROBLEMS_DATA = {
     "domain": "37",
     "description": "Develop efficient recycling systems for water, air, and waste in long-duration space habitats.",
     "keywords": ["Life Support", "Space Habitats", "Recycling Systems", "Sustainability"]
+  },
+  {
+    "id": 396,
+    "title": "Autonomous Repair and Inspection System for Deep-Space Vehicles",
+    "domain": "37",
+    "description": "Develop an AI-driven robotic system capable of identifying structural micro-fractures, diagnosing systems failures, and autonomously executing repairs or component replacements on spacecraft beyond immediate human reach.",
+    "keywords": [
+      "Autonomous Robotics",
+      "Deep Space",
+      "In-Orbit Servicing",
+      "AI Diagnostics"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "Closed-Loop Life Support System for Long-Duration Mars Habitats",
+    "domain": "37",
+    "description": "Design a highly efficient, regenerative (closed-loop) Bioregenerative Life Support System (BLSS) that minimizes resupply mass by recycling over 98% of air, water, and human waste, potentially utilizing algae or synthetic biology.",
+    "keywords": [
+      "Life Support",
+      "Closed-Loop",
+      "BLSS",
+      "Synthetic Biology"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "In-Situ Resource Utilization (ISRU) for Lunar Oxygen and Propellant Production",
+    "domain": "37",
+    "description": "Develop and prototype a robust method for extracting usable oxygen from lunar regolith (soil) or synthesizing hydrogen-based propellants using locally sourced materials and solar power, to enable sustainable Moon bases.",
+    "keywords": [
+      "ISRU",
+      "Lunar Exploration",
+      "Propellant Production",
+      "Resource Extraction"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "High-Efficiency, Compact Power Source for Interstellar Probes",
+    "domain": "37",
+    "description": "Research and design a next-generation Radioisotope Thermoelectric Generator (RTG) or a small-scale fusion power system that significantly increases power-to-mass ratio for powering scientific instruments on missions beyond the solar system.",
+    "keywords": [
+      "Propulsion",
+      "RTG",
+      "Deep Space Power",
+      "Fusion Technology"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "Quantum Key Distribution (QKD) Network for Interplanetary Communications",
+    "domain": "37",
+    "description": "Establish a secure communication protocol utilizing Quantum Key Distribution (QKD) between Earth and orbiting satellites/lunar bases to provide tamper-proof encryption against future quantum computing attacks.",
+    "keywords": [
+      "QKD",
+      "Quantum Communications",
+      "Security",
+      "Interplanetary Network"
+    ]
   },
   // domain 38
   {
@@ -26359,6 +26804,90 @@ const PROBLEMS_DATA = {
     "description": "Design AI systems to plan and optimize emergency evacuations for nuclear plant incidents.",
     "keywords": ["AI", "Emergency Planning", "Nuclear Safety", "Automation"]
   },
+   {
+    "id": 486,
+    "title": "Modeling and Simulation of Molten Salt Reactor (MSR) Fuel Dynamics and Fission Product Removal",
+    "domain": "38",
+    "description": "Develop a high-fidelity computational fluid dynamics (CFD) model to simulate the complex, non-linear behavior of circulating molten salt fuel mixtures and optimize the continuous chemical extraction of fission products to maintain reactivity.",
+    "keywords": [
+      "MSR",
+      "CFD",
+      "Fuel Dynamics",
+      "Reactor Simulation"
+    ]
+  },
+  {
+    "id": 487,
+    "title": "Autonomous Radiation Hardened Robotics for Nuclear Facility Decommissioning",
+    "domain": "38",
+    "description": "Design a robotic system equipped with AI-driven vision and navigation that can operate within high-radiation environments to perform safe, remote cutting, dismantling, and waste packaging during reactor decommissioning projects.",
+    "keywords": [
+      "Robotics",
+      "Decommissioning",
+      "Radiation Hardened",
+      "AI Navigation"
+    ]
+  },
+  {
+    "id": 488,
+    "title": "Advanced Non-Destructive Assay (NDA) for Spent Nuclear Fuel Characterization",
+    "domain": "38",
+    "description": "Develop a novel, non-contact method utilizing machine learning on gamma-ray or neutron spectroscopy data to accurately determine the composition, burnup, and residual fissile content of spent fuel assemblies for safeguards and waste management.",
+    "keywords": [
+      "NDA",
+      "Spent Fuel",
+      "Safeguards",
+      "Spectroscopy"
+    ]
+  },
+  {
+    "id": 489,
+    "title": "Optimizing Tritium Breeding Ratio (TBR) in Fusion Reactor Blankets",
+    "domain": "38",
+    "description": "Design and simulate advanced blanket concepts using lithium-containing materials to achieve a Tritium Breeding Ratio (TBR) significantly greater than 1.05 while optimizing heat removal and structural integrity in a magnetically confined fusion device (e.g., Tokamak).",
+    "keywords": [
+      "Fusion Technology",
+      "Tritium Breeding",
+      "Blanket Design",
+      "Tokamak"
+    ]
+  },
+  {
+    "id": 490,
+    "title": "Sensor Development for Continuous Monitoring of High-Temperature Reactor Core Integrity",
+    "domain": "38",
+    "description": "Develop extremely durable, high-temperature sensors (e.g., fiber optics or wireless acoustic sensors) capable of surviving reactor core conditions to provide real-time data on component strain, material degradation, and cooling channel blockages.",
+    "keywords": [
+      "Sensor Technology",
+      "Core Monitoring",
+      "High Temperature",
+      "Material Science"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "Predictive Modeling of Nuclear Waste Canister Corrosion and Geologic Repository Longevity",
+    "domain": "38",
+    "description": "Create a long-term simulation model (over 10,000 years) to predict the corrosion rates of engineered barrier system materials (e.g., copper, stainless steel) within a deep geologic repository under various geological and hydrological scenarios.",
+    "keywords": [
+      "Waste Management",
+      "Corrosion Modeling",
+      "Geologic Repository",
+      "Long-Term Simulation"
+    ]
+  },
+  {
+    "id": 492,
+    "title": "Small Modular Reactor (SMR) Economic and Deployment Optimization Model",
+    "domain": "38",
+    "description": "Build a financial and logistical model to optimize the manufacturing, construction, and deployment schedule for a fleet of factory-built Small Modular Reactors (SMRs), focusing on minimizing levelized cost of electricity (LCOE) and site preparation time.",
+    "keywords": [
+      "SMR",
+      "LCOE",
+      "Deployment Optimization",
+      "Nuclear Economics"
+    ]
+  },
   //domain-39
   {
   "id": 3601,
@@ -26710,6 +27239,102 @@ const PROBLEMS_DATA = {
   "description": "Design nanoparticles that can cross the blood-brain barrier, enabling effective delivery of drugs for neurological disorders.",
   "keywords": ["Nanoparticles", "Nanomedicine", "Molecular Assembly"]
 },
+{
+    "id": 493,
+    "title": "Developing Self-Assembling Nanobots for Targeted Drug Delivery in Tumors",
+    "domain": "39",
+    "description": "Design a system where inert, modular nanoparticles injected intravenously can recognize specific biomarkers on a tumor surface and spontaneously assemble into an active structure to encapsulate and release a therapeutic payload.",
+    "keywords": [
+      "Nanomedicine",
+      "Self-Assembly",
+      "Targeted Delivery",
+      "Oncology"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "Mass Production and Scalability of Graphene Quantum Dots for Next-Gen Displays",
+    "domain": "39",
+    "description": "Develop a cost-effective, high-throughput chemical vapor deposition (CVD) or electrochemical method for synthesizing high-purity, uniform graphene quantum dots (GQDs) to replace traditional heavy-metal quantum dots in display technology.",
+    "keywords": [
+      "Quantum Dots",
+      "Graphene",
+      "Mass Production",
+      "Display Technology"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "Nanosensor Array for Real-Time Monitoring of Air and Water Pollutants",
+    "domain": "39",
+    "description": "Create a compact, highly selective sensor array utilizing functionalized carbon nanotubes or metallic nanoparticles to simultaneously detect trace levels (parts per trillion) of multiple organic and heavy metal pollutants in complex environmental samples.",
+    "keywords": [
+      "Nanosensors",
+      "Environmental Monitoring",
+      "Carbon Nanotubes",
+      "Trace Detection"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "Nanomaterial-Enhanced Thermoelectric Generators for Waste Heat Recovery",
+    "domain": "39",
+    "description": "Develop composite materials incorporating silicon nanowires or bismuth telluride nanostructures to significantly increase the ZT figure of merit in thermoelectric devices, improving efficiency for converting industrial waste heat into usable electricity.",
+    "keywords": [
+      "Thermoelectrics",
+      "Waste Heat Recovery",
+      "Nanomaterials",
+      "Energy Conversion"
+    ]
+  },
+  {
+    "id": 497,
+    "title": "High-Density, Non-Volatile Memory Storage Using Molecular Switches",
+    "domain": "39",
+    "description": "Design a solid-state memory device utilizing addressable molecular switches (e.g., rotaxanes) embedded in a nanoscale matrix to achieve storage densities orders of magnitude greater than current NAND flash technology.",
+    "keywords": [
+      "Molecular Electronics",
+      "Non-Volatile Memory",
+      "Nanofabrication",
+      "Data Storage"
+    ]
+  },
+  {
+    "id": 498,
+    "title": "Developing Nanoparticle-Based Additives to Prevent Concrete Degradation and Corrosion",
+    "domain": "39",
+    "description": "Engineer functionalized silica or alumina nanoparticles to be mixed into cement that can self-seal micro-cracks upon formation or sequester corrosive ions (e.g., chlorides), dramatically extending the lifespan of critical infrastructure.",
+    "keywords": [
+      "Nanocomposites",
+      "Self-Healing Materials",
+      "Infrastructure",
+      "Corrosion Prevention"
+    ]
+  },
+  {
+    "id": 499,
+    "title": "Nano-Scale Heat Management and Cooling Systems for Microprocessors",
+    "domain": "39",
+    "description": "Design a microfluidic or solid-state thermal management system utilizing nanoscale phase-change materials or superlattice thin films to efficiently dissipate localized hot spots in high-performance computing chips.",
+    "keywords": [
+      "Thermal Management",
+      "Microprocessors",
+      "Nanofluidics",
+      "Superlattices"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "Ethical and Ecotoxicological Risk Assessment of Emerging Nanomaterials",
+    "domain": "39",
+    "description": "Establish a standardized in-vitro and in-vivo testing protocol to rapidly and accurately evaluate the long-term environmental fate, bioaccumulation, and potential toxicity of novel engineered nanoparticles before widespread commercialization.",
+    "keywords": [
+      "Ecotoxicology",
+      "Risk Assessment",
+      "Nanomaterial Safety",
+      "Regulation"
+    ]
+  },
 //domain-40
   { "id": 3651,
      "title": "Automated Print Quality Analyzer", 
@@ -27164,6 +27789,42 @@ const PROBLEMS_DATA = {
     "domain": "41",
     "description": "Develop a centralized biomass heating system for rural communities to reduce reliance on fossil fuels.",
     "keywords": ["Biomass", "Energy Efficiency", "Smart Grid"]
+  },
+  {
+    "id": 598,
+    "title": "Predictive Modeling of Distributed Energy Resource (DER) Curtailment Risk in the Grid",
+    "domain": "41",
+    "description": "Develop a machine learning model to forecast the probability and duration of curtailment events (power reduction) for solar and wind Distributed Energy Resources (DERs) based on real-time grid congestion, load forecasts, and weather data, optimizing operator dispatch.",
+    "keywords": [
+      "DER",
+      "Curtailment",
+      "Grid Stability",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 599,
+    "title": "Design of a Long-Duration, Seasonal Energy Storage System (e.g., Green Hydrogen)",
+    "domain": "41",
+    "description": "Engineer a complete system design and techno-economic model for a large-scale, long-duration energy storage solution (e.g., using electrolytic green hydrogen or compressed air) capable of storing and dispatching renewable energy across seasonal cycles.",
+    "keywords": [
+      "Long-Duration Storage",
+      "Green Hydrogen",
+      "Techno-Economics",
+      "Seasonal Storage"
+    ]
+  },
+  {
+    "id": 600,
+    "title": "Optimizing Hybrid Offshore Wind and Wave Energy Farm Layouts",
+    "domain": "41",
+    "description": "Create an optimization algorithm that determines the ideal spatial arrangement (layout) of both offshore wind turbines and wave energy converters to maximize total energy capture while minimizing wake effects, cable costs, and maintenance access.",
+    "keywords": [
+      "Offshore Energy",
+      "Optimization",
+      "Hybrid Systems",
+      "Wave Energy"
+    ]
   },
 //domain- 42
   {
@@ -27868,6 +28529,138 @@ const PROBLEMS_DATA = {
     "description": "Create a floating desalination unit powered by wave energy to provide fresh water for coastal and island communities.",
     "keywords": ["Ocean Energy", "Offshore Systems", "Marine Engineering"]
   },
+  {
+    "id": 690,
+    "title": "Autonomous Underwater Vehicle (AUV) Swarm Navigation and Collision Avoidance",
+    "domain": "43",
+    "description": "Develop a decentralized control system and robust communication protocol for a large swarm of AUVs to execute synchronized, large-area surveys (e.g., seabed mapping) while maintaining formation and avoiding collisions in complex, dynamic underwater environments.",
+    "keywords": [
+      "AUV Swarm",
+      "Autonomous Navigation",
+      "Decentralized Control",
+      "Acoustic Communication"
+    ]
+  },
+  {
+    "id": 691,
+    "title": "Modeling and Mitigation of Propeller-Induced Noise for Marine Mammal Protection",
+    "domain": "43",
+    "description": "Use Computational Fluid Dynamics (CFD) and acoustic modeling to analyze the noise signatures generated by ship propellers and design optimized hull forms or propeller geometries to significantly reduce underwater radiated noise for environmental compliance.",
+    "keywords": [
+      "Acoustic Modeling",
+      "CFD",
+      "Environmental Impact",
+      "Propeller Design"
+    ]
+  },
+  {
+    "id": 692,
+    "title": "High-Efficiency, Modular Wave Energy Converter (WEC) Design",
+    "domain": "43",
+    "description": "Design a highly reliable, cost-effective Wave Energy Converter (WEC) that can be mass-produced in a modular format and is capable of stable operation and high power take-off (PTO) efficiency across a wide range of ocean conditions.",
+    "keywords": [
+      "Wave Energy",
+      "Renewable Energy",
+      "WEC",
+      "Power Take-Off"
+    ]
+  },
+  {
+    "id": 693,
+    "title": "Development of Self-Healing, Anti-Fouling Coatings for Marine Structures",
+    "domain": "43",
+    "description": "Engineer a durable, non-toxic polymer or composite coating that actively releases mild biocides or employs a self-healing mechanism to prevent biofouling (e.g., barnacle growth) on ships and offshore infrastructure for extended periods.",
+    "keywords": [
+      "Anti-Fouling",
+      "Material Science",
+      "Self-Healing",
+      "Marine Coatings"
+    ]
+  },
+  {
+    "id": 694,
+    "title": "Advanced Corrosion Monitoring and Prediction for Subsea Pipelines",
+    "domain": "43",
+    "description": "Develop a combination of embedded nanosensors and machine learning algorithms to continuously monitor external and internal corrosion rates in subsea oil/gas or hydrogen pipelines, accurately predicting points of potential failure.",
+    "keywords": [
+      "Corrosion",
+      "Subsea Pipelines",
+      "Nanosensors",
+      "Predictive Maintenance"
+    ]
+  },
+  {
+    "id": 695,
+    "title": "Modeling and Stabilization of Floating Offshore Wind Turbine (FOWT) Platforms",
+    "domain": "43",
+    "description": "Create a numerical model to simulate the complex hydrodynamic and aerodynamic loads on various FOWT platform designs (e.g., spar-buoy, semi-submersible) and optimize the mooring system for stability and minimal motion in extreme weather.",
+    "keywords": [
+      "Offshore Wind",
+      "FOWT",
+      "Hydrodynamics",
+      "Mooring System"
+    ]
+  },
+  {
+    "id": 696,
+    "title": "Deep-Ocean Habitat Design for Long-Term Human Scientific Occupation",
+    "domain": "43",
+    "description": "Design a closed-loop, structurally sound, and pressure-resistant habitat capable of supporting a crew of four researchers for a minimum of 90 days at abyssal depths (e.g., 2,000 meters) with autonomous life support.",
+    "keywords": [
+      "Deep Sea Exploration",
+      "Habitat Design",
+      "Life Support",
+      "Pressure Vessels"
+    ]
+  },
+  {
+    "id": 697,
+    "title": "AI-Driven Ship Route Optimization for Fuel Efficiency and Emissions Reduction",
+    "domain": "43",
+    "description": "Develop a machine learning model that integrates real-time oceanographic data (currents, waves), weather forecasts, and hydrodynamic vessel characteristics to calculate the dynamically optimal route to minimize bunker fuel consumption and GHG emissions.",
+    "keywords": [
+      "Ship Routing",
+      "AI Optimization",
+      "Fuel Efficiency",
+      "Marine Logistics"
+    ]
+  },
+  {
+    "id": 698,
+    "title": "Real-Time Tracking and Characterization of Marine Debris Using Satellite and AUV Data Fusion",
+    "domain": "43",
+    "description": "Integrate data from multi-spectral satellite imagery and onboard AUV sensors using computer vision to map, track, and classify different types of plastic pollution (micro and macroplastics) in coastal and open ocean areas.",
+    "keywords": [
+      "Marine Debris",
+      "Remote Sensing",
+      "Data Fusion",
+      "Computer Vision"
+    ]
+  },
+  {
+    "id": 699,
+    "title": "Acoustic Tomography System for Mapping Subsea Geologic Hazards",
+    "domain": "43",
+    "description": "Develop an advanced active/passive acoustic tomography array and processing algorithm to create high-resolution 3D images of the sub-seafloor geology, accurately locating and characterizing risks like methane hydrates or unstable sediment layers.",
+    "keywords": [
+      "Acoustic Tomography",
+      "Geophysics",
+      "Subsea Mapping",
+      "Hazard Detection"
+    ]
+  },
+  {
+    "id": 700,
+    "title": "Modeling and Control of Dynamic Positioning (DP) Systems in Shallow Water",
+    "domain": "43",
+    "description": "Create a robust control system that uses non-linear modeling (e.g., using Kalman filters) to maintain the precise position and heading of offshore vessels (e.g., drillships) in complex shallow water environments with strong and variable current/wave effects.",
+    "keywords": [
+      "Dynamic Positioning",
+      "Control Systems",
+      "Shallow Water",
+      "Hydrodynamics"
+    ]
+  },
   //domain-44
   {
     "id": 3851,
@@ -28219,6 +29012,66 @@ const PROBLEMS_DATA = {
     "description": "Victims often lose medical records during disasters. This project builds a cloud-based, secure, and AI-driven system that provides instant access to patient health data for emergency responders.",
     "keywords": ["First Aid Technology", "Emergency Systems", "Disaster Recovery"]
   },
+   {
+    "id": 796,
+    "title": "Real-Time AI-Driven Damage Assessment from Satellite and Drone Imagery",
+    "domain": "44",
+    "description": "Develop a high-speed computer vision model (e.g., using deep learning segmentation) to automatically analyze post-disaster satellite and drone imagery, classifying damage levels of buildings, infrastructure, and roads within minutes of image capture.",
+    "keywords": [
+      "AI Damage Assessment",
+      "Remote Sensing",
+      "Computer Vision",
+      "Disaster Informatics"
+    ]
+  },
+  {
+    "id": 797,
+    "title": "Optimizing Evacuation Routing and Shelter Allocation under Dynamic Conditions",
+    "domain": "44",
+    "description": "Create a multi-objective optimization algorithm that dynamically calculates the fastest and safest evacuation routes and allocates displaced populations to shelters, updating in real-time based on road closures, flood levels, and changing shelter capacity.",
+    "keywords": [
+      "Evacuation Modeling",
+      "Optimization",
+      "Logistics",
+      "Dynamic Routing"
+    ]
+  },
+  {
+    "id": 798,
+    "title": "Predictive Model for Post-Disaster Infectious Disease Outbreak Risk",
+    "domain": "44",
+    "description": "Build a predictive epidemiological model that integrates data on water sanitation status, population density in temporary shelters, and climate variables (e.g., temperature) to forecast the localized risk of specific post-disaster infectious disease outbreaks (e.g., cholera).",
+    "keywords": [
+      "Epidemiology",
+      "Risk Prediction",
+      "Public Health",
+      "Modeling"
+    ]
+  },
+  {
+    "id": 799,
+    "title": "NLP for Filtering and Prioritizing Aid Requests from Social Media Streams",
+    "domain": "44",
+    "description": "Implement a Natural Language Processing (NLP) pipeline to ingest high-volume, unstructured data from social media during an emergency, filtering for actionable requests (e.g., 'Need insulin at X address') and classifying them by urgency and type of assistance required.",
+    "keywords": [
+      "NLP",
+      "Social Media Analysis",
+      "Information Extraction",
+      "Crisis Communication"
+    ]
+  },
+  {
+    "id": 800,
+    "title": "Design of a Decentralized Mesh Communication Network for Infrastructure Collapse",
+    "domain": "44",
+    "description": "Develop a robust, ad-hoc mesh networking protocol that utilizes portable, low-power devices (e.g., LoRa or satellite links) to establish a functioning communications channel for first responders and survivors when cellular and internet infrastructure is completely destroyed.",
+    "keywords": [
+      "Mesh Network",
+      "Communication Technology",
+      "First Response",
+      "Infrastructure Resilience"
+    ]
+  },
   //domain-45
   {
     "id": 3901,
@@ -28569,6 +29422,162 @@ const PROBLEMS_DATA = {
     "domain": "45",
     "description": "Create a fan engagement tool that analyzes athlete social media presence and correlates it with ticket sales and sponsorship value.",
     "keywords": ["Fan Engagement", "Sports Data", "Performance Analytics"]
+  },
+   {
+    "id": 878,
+    "title": "Predictive Modeling of Non-Contact Injury Risk Using Wearable Biometric Data",
+    "domain": "45",
+    "description": "Develop a machine learning model that integrates longitudinal data from wearables (heart rate variability, sleep quality, training load) to predict the probability of non-contact musculoskeletal injuries in athletes within the next 48 hours.",
+    "keywords": [
+      "Injury Prediction",
+      "Wearables",
+      "Machine Learning",
+      "Load Management"
+    ]
+  },
+  {
+    "id": 879,
+    "title": "Real-Time Optimization of Training Regimens via Reinforcement Learning",
+    "domain": "45",
+    "description": "Create a Reinforcement Learning (RL) agent that continuously adapts an athlete's next training session (volume, intensity, recovery) based on real-time performance metrics and physiological markers to maximize peak performance gains.",
+    "keywords": [
+      "Reinforcement Learning",
+      "Training Optimization",
+      "Adaptive Coaching",
+      "Peak Performance"
+    ]
+  },
+  {
+    "id": 880,
+    "title": "AI-Driven Kinematic Analysis for Automated Sports Technique Correction",
+    "domain": "45",
+    "description": "Develop a computer vision system that uses markerless motion capture to analyze an athlete's biomechanics (e.g., golf swing, pitching motion) and provides immediate, specific feedback on technique errors relative to an optimal benchmark.",
+    "keywords": [
+      "Computer Vision",
+      "Biomechanics",
+      "Kinematics",
+      "Motion Capture"
+    ]
+  },
+  {
+    "id": 881,
+    "title": "Quantifying Psychological Momentum and its Impact on Game Outcomes",
+    "domain": "45",
+    "description": "Design a statistical model that uses high-frequency event data (e.g., points scored, possession changes) and player emotion metrics (e.g., NLP from in-game audio) to quantify psychological momentum and forecast its effect on the probability of victory.",
+    "keywords": [
+      "Momentum Modeling",
+      "Sports Psychology",
+      "NLP",
+      "Predictive Analytics"
+    ]
+  },
+  {
+    "id": 882,
+    "title": "Developing a Smart Textile for Continuous Core Body Temperature Monitoring",
+    "domain": "45",
+    "description": "Engineer a textile-integrated nanosensor and data acquisition system capable of accurately and non-invasively monitoring an athlete's core body temperature in high-humidity or extreme heat conditions to prevent heat stroke.",
+    "keywords": [
+      "Smart Textiles",
+      "Nanosensors",
+      "Physiological Monitoring",
+      "Heat Stress"
+    ]
+  },
+  {
+    "id": 883,
+    "title": "Modeling the Fatigue Impact on Decision-Making Accuracy in Team Sports",
+    "domain": "45",
+    "description": "Use player tracking data (distance covered, sprint metrics) and video analysis of in-game choices (e.g., pass selection) to build a model quantifying how physical fatigue degrades the quality and risk profile of an athlete's decision-making.",
+    "keywords": [
+      "Decision Making",
+      "Fatigue Modeling",
+      "Team Sports Analytics",
+      "Video Analysis"
+    ]
+  },
+  {
+    "id": 884,
+    "title": "Optimizing Equipment Design (e.g., Running Shoe Sole) via Simulation and ML",
+    "domain": "45",
+    "description": "Utilize Finite Element Analysis (FEA) and machine learning to iteratively design and simulate the optimal material composition and geometry of a piece of sports equipment (e.g., shoe midsole) to maximize energy return and minimize impact stress.",
+    "keywords": [
+      "FEA",
+      "Equipment Design",
+      "Material Optimization",
+      "Biomechanics"
+    ]
+  },
+  {
+    "id": 885,
+    "title": "Predicting Referee Bias and Call Consistency using Multi-Angle Video Data",
+    "domain": "45",
+    "description": "Develop a computer vision system to analyze referee viewing angles and reaction times for close calls, combined with player/team historical data, to model and predict the influence of non-objective factors (bias, home field) on officiating consistency.",
+    "keywords": [
+      "Officiating Analytics",
+      "Bias Detection",
+      "Computer Vision",
+      "Game Theory"
+    ]
+  },
+  {
+    "id": 886,
+    "title": "AI-Generated Personalized Recovery Protocols using Genetic Data",
+    "domain": "45",
+    "description": "Create a prescriptive analytics system that combines an athlete's daily training load and recovery biomarkers with individual genetic predisposition data (e.g., muscle fiber type, inflammation markers) to generate personalized, time-sensitive recovery plans.",
+    "keywords": [
+      "Personalized Medicine",
+      "Genetics",
+      "Recovery",
+      "Prescriptive Analytics"
+    ]
+  },
+  {
+    "id": 887,
+    "title": "Advanced Set Play Prediction and Counter-Strategy Generation",
+    "domain": "45",
+    "description": "Train a Markov chain or deep learning model on historical game logs to predict the opponent's most likely offensive or defensive action during set plays (e.g., corner kicks, free throws) and output the optimal counter-strategy in real-time.",
+    "keywords": [
+      "Strategy Optimization",
+      "Set Play Analysis",
+      "Markov Chain",
+      "Predictive Modeling"
+    ]
+  },
+  {
+    "id": 888,
+    "title": "Developing a High-Resolution Smart Floor System for Movement Analysis",
+    "domain": "45",
+    "description": "Design a pressure-sensitive, capacitive floor system capable of measuring ground reaction forces and center of pressure shifts with high temporal and spatial resolution for detailed analysis of balance, agility, and gait in clinical and training settings.",
+    "keywords": [
+      "Smart Surfaces",
+      "Gait Analysis",
+      "Biophysics",
+      "Ground Reaction Forces"
+    ]
+  },
+  {
+    "id": 889,
+    "title": "Quantifying the Intrinsic Value of Player Synergy and Team Chemistry",
+    "domain": "45",
+    "description": "Develop a metric and model that measures the non-linear increase in performance when specific combinations of players are on the field together ('team chemistry'), going beyond simple additive individual statistics.",
+    "keywords": [
+      "Team Chemistry",
+      "Synergy Metrics",
+      "Network Analysis",
+      "Player Valuation"
+    ]
+  },
+  {
+    "id": 890,
+    "title": "VR/AR-Based Cognitive Training System for Improving Visual Acuity and Reaction Time",
+    "domain": "45",
+    "description": "Create an immersive Virtual Reality (VR) or Augmented Reality (AR) training platform that utilizes biofeedback and customized cognitive load scenarios to improve an athlete's peripheral awareness, decision speed, and reaction time in sport-specific situations.",
+    "keywords": [
+      "VR Training",
+      "Cognitive Performance",
+      "Reaction Time",
+      "Biofeedback"
+    ]
   },
   //domain -46
     {
@@ -29272,6 +30281,126 @@ const PROBLEMS_DATA = {
         "description": "Design a system that uses sensors and AI to detect early signs of spoilage in perishable food, alerting consumers or retailers before waste occurs.",
         "keywords": ["Food Safety", "Food Sensors", "Food Preservation"]
     },
+    {
+    "id": 891,
+    "title": "Developing AI Models for Predicting Shelf-Life and Spoilage in Fresh Produce",
+    "domain": "47",
+    "description": "Create a machine learning model that integrates sensor data (temperature, humidity, gas composition) with visual features (color, texture changes) to accurately predict the remaining shelf-life and risk of microbial spoilage for various fresh fruits and vegetables.",
+    "keywords": [
+      "Shelf-Life Prediction",
+      "AI",
+      "Food Spoilage",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": 892,
+    "title": "Precision Fermentation System for High-Yield, Sustainable Protein Production",
+    "domain": "47",
+    "description": "Optimize a precision fermentation process using engineered microorganisms (e.g., yeast or fungi) to produce a specific functional protein (e.g., casein or whey) with the nutritional profile and texture necessary for dairy or meat alternatives.",
+    "keywords": [
+      "Precision Fermentation",
+      "Alternative Protein",
+      "Synthetic Biology",
+      "Bioreactors"
+    ]
+  },
+  {
+    "id": 893,
+    "title": "Creation of Edible Nanosensors for Real-Time Contaminant Detection",
+    "domain": "47",
+    "description": "Engineer food-safe nanoparticles or microcapsules that can be incorporated into food packaging or directly onto food surfaces to provide a visible color change or electronic signal upon detecting specific bacterial contaminants (e.g., E. coli, Salmonella) or toxins.",
+    "keywords": [
+      "Nanosensors",
+      "Food Safety",
+      "Contaminant Detection",
+      "Packaging"
+    ]
+  },
+  {
+    "id": 894,
+    "title": "Personalized Nutrition Recommender based on Gut Microbiome Analysis",
+    "domain": "47",
+    "description": "Develop a data-driven system that uses an individual's gut microbiome sequencing data and dietary logs to generate highly personalized food recommendations aimed at optimizing metabolic health, energy levels, or immune response.",
+    "keywords": [
+      "Personalized Nutrition",
+      "Microbiome",
+      "Data Analytics",
+      "Metabolic Health"
+    ]
+  },
+  {
+    "id": 895,
+    "title": "Sustainable Cultivation and Scaling of Macroalgae (Seaweed) for Food Ingredients",
+    "domain": "47",
+    "description": "Design highly efficient, automated vertical farming or offshore aquaculture systems for the large-scale cultivation and harvesting of specific macroalgae species to extract functional ingredients, bioplastics, or feed additives.",
+    "keywords": [
+      "Aquaculture",
+      "Seaweed",
+      "Sustainable Sourcing",
+      "Vertical Farming"
+    ]
+  },
+  {
+    "id": 896,
+    "title": "Developing Novel Encapsulation Techniques to Preserve Nutrient Bioavailability",
+    "domain": "47",
+    "description": "Design and test encapsulation methods (e.g., liposomes, hydrogels) to protect sensitive nutrients (e.g., Vitamin C, Omega-3 fatty acids) from degradation during food processing, storage, and digestion, maximizing their bioavailability.",
+    "keywords": [
+      "Encapsulation",
+      "Bioavailability",
+      "Nutrient Preservation",
+      "Food Processing"
+    ]
+  },
+  {
+    "id": 897,
+    "title": "Optimizing 3D Food Printing for Customized Textures and Nutritional Density",
+    "domain": "47",
+    "description": "Develop specialized food 'inks' and a 3D printing protocol capable of precisely fabricating customized food structures with controlled texture, hardness, and varied nutrient concentrations for dysphagia patients or personalized dietary needs.",
+    "keywords": [
+      "3D Printing",
+      "Customization",
+      "Food Engineering",
+      "Texture Analysis"
+    ]
+  },
+  {
+    "id": 898,
+    "title": "AI-Based Traceability and Counterfeit Detection in Global Food Supply Chains",
+    "domain": "47",
+    "description": "Implement a blockchain-based traceability system combined with AI image recognition or spectroscopic data analysis to verify the origin and authenticity of high-value food products (e.g., olive oil, premium meat) to combat counterfeiting.",
+    "keywords": [
+      "Food Traceability",
+      "Blockchain",
+      "Counterfeit Detection",
+      "Supply Chain Security"
+    ]
+  },
+  {
+    "id": 899,
+    "title": "Reducing Aflatoxin Contamination in Crops using Genetic and Storage Solutions",
+    "domain": "47",
+    "description": "Investigate gene editing or CRISPR techniques to enhance crop resistance to fungal pathogens that produce aflatoxins, and concurrently develop smart storage technologies that actively monitor and mitigate fungal growth post-harvest.",
+    "keywords": [
+      "Aflatoxin",
+      "Food Contamination",
+      "CRISPR",
+      "Post-Harvest Technology"
+    ]
+  },
+  {
+    "id": 900,
+    "title": "Modeling the Climate Impact of Food Production and Developing Low-Emissions Alternatives",
+    "domain": "47",
+    "description": "Create a comprehensive Life Cycle Assessment (LCA) model for various food commodities (e.g., beef, plant-based milk) to quantify their GHG emissions, water usage, and land footprint, and use the data to optimize the development of more sustainable substitutes.",
+    "keywords": [
+      "LCA",
+      "Sustainability",
+      "GHG Emissions",
+      "Food Systems"
+    ]
+  },
     //domain -48
     {
         "id": 4051,
@@ -29623,6 +30752,54 @@ const PROBLEMS_DATA = {
         "description": "Build an analytics suite that aggregates data from apps, wearables, and therapy sessions to provide insights and personalized recommendations for users.",
         "keywords": ["Mental Health Analytics", "Digital Therapy", "Wellness Technology"]
     },
+     {
+    "id": 997,
+    "title": "Developing an AI Model for Personalized Micro-Intervention Timing",
+    "domain": "48",
+    "description": "Create a machine learning model that integrates passive physiological data (wearable heart rate, sleep metrics) with in-app usage patterns to predict momentary high-risk states and deliver optimally timed, personalized therapeutic 'micro-interventions' (e.g., CBT prompts) to prevent distress escalation.",
+    "keywords": [
+      "Personalized Intervention",
+      "Predictive Modeling",
+      "Wearables",
+      "CBT"
+    ]
+  },
+  {
+    "id": 998,
+    "title": "VR/AR Biofeedback System for Anxiety and Phobia Exposure Therapy",
+    "domain": "48",
+    "description": "Design an immersive Virtual Reality (VR) or Augmented Reality (AR) platform that dynamically adjusts the intensity of exposure scenarios (e.g., social situations, heights) based on the user's real-time physiological stress response (e.g., galvanic skin response, heart rate) via biofeedback.",
+    "keywords": [
+      "VR Therapy",
+      "Biofeedback",
+      "Exposure Therapy",
+      "Anxiety"
+    ]
+  },
+  {
+    "id": 999,
+    "title": "NLP-Based Tool for Detecting Suicidality and Crisis Escalation in Text Chat",
+    "domain": "48",
+    "description": "Develop a high-precision Natural Language Processing (NLP) algorithm, trained on ethically sourced crisis data, to identify subtle linguistic indicators of suicidal ideation, self-harm risk, or rapid psychological distress escalation in text-based therapeutic or helpline conversations.",
+    "keywords": [
+      "NLP",
+      "Suicide Prevention",
+      "Crisis Detection",
+      "Ethical AI"
+    ]
+  },
+  {
+    "id": 1000,
+    "title": "Quantifying and Tracking the Efficacy of Digital Therapeutics (DTx)",
+    "domain": "48",
+    "description": "Establish a standardized framework and data pipeline for objectively measuring the long-term clinical efficacy and adherence rates of a Digital Therapeutic (DTx) application, ensuring data privacy while providing evidence comparable to traditional pharmacological trials.",
+    "keywords": [
+      "Digital Therapeutics (DTx)",
+      "Clinical Efficacy",
+      "Measurement Framework",
+      "Adherence"
+    ]
+  },
 //domain-49
     {
         "id": 4101,
@@ -29974,7 +31151,127 @@ const PROBLEMS_DATA = {
         "description": "Build a system that extracts opinions and reviews from multilingual sources, providing aggregated sentiment analysis across regions and languages.",
         "keywords": ["Sentiment Analysis", "Text Mining", "Language Models"]
     },
-    //domain50
+     {
+    "id": 1076,
+    "title": "Zero-Shot Relation Extraction for Low-Resource Specialized Domains",
+    "domain": "49",
+    "description": "Develop a few-shot or zero-shot Natural Language Processing (NLP) model capable of accurately identifying and extracting complex relationships (e.g., 'Drug A treats Disease B') from unstructured text in specialized domains (e.g., patent law, niche science) where labeled training data is scarce.",
+    "keywords": [
+      "Zero-Shot Learning",
+      "Relation Extraction",
+      "Low-Resource NLP",
+      "Domain Adaptation"
+    ]
+  },
+  {
+    "id": 1077,
+    "title": "Quantifying and Mitigating Hallucination in Large Language Models (LLMs)",
+    "domain": "49",
+    "description": "Create a metric and a post-generation filtering mechanism to automatically detect and quantify factual inaccuracies ('hallucinations') produced by LLMs, especially when summarizing verified source documents, and prompt the model for self-correction.",
+    "keywords": [
+      "LLM Hallucination",
+      "Factual Consistency",
+      "Evaluation Metrics",
+      "Model Safety"
+    ]
+  },
+  {
+    "id": 1078,
+    "title": "Multilingual Abstractive Summarization for Crisis and Emergency Reports",
+    "domain": "49",
+    "description": "Develop a neural network model to generate concise, abstractive summaries of emergency and disaster reports published across multiple low- and high-resource languages, ensuring critical details are preserved regardless of the source language.",
+    "keywords": [
+      "Abstractive Summarization",
+      "Multilingual NLP",
+      "Crisis Management",
+      "Cross-Lingual"
+    ]
+  },
+  {
+    "id": 1079,
+    "title": "Developing Speech-to-Text for Highly Code-Switched Conversations",
+    "domain": "49",
+    "description": "Create a robust speech recognition model capable of accurately transcribing spontaneous conversations where speakers frequently switch between two or more languages (code-switching) mid-sentence, a common occurrence in bilingual communities.",
+    "keywords": [
+      "Speech-to-Text",
+      "Code-Switching",
+      "Acoustic Modeling",
+      "Bilingual NLP"
+    ]
+  },
+  {
+    "id": 1080,
+    "title": "Using NLP to Model Cognitive Load and Comprehension Difficulty in Technical Manuals",
+    "domain": "49",
+    "description": "Design an NLP model that analyzes the syntactic complexity, vocabulary density, and coherence of technical documentation (e.g., repair manuals) to predict the cognitive load placed on a human reader and suggest readability improvements.",
+    "keywords": [
+      "Readability",
+      "Cognitive Load",
+      "Technical Documentation",
+      "Text Simplification"
+    ]
+  },
+  {
+    "id": 1081,
+    "title": "Automated Legal Contract Review for Anomaly and Risk Detection",
+    "domain": "49",
+    "description": "Build an NLP system that can parse complex legal agreements, identify and flag clauses that deviate significantly from a standard template, or contain high-risk language (e.g., ambiguous indemnity clauses).",
+    "keywords": [
+      "Legal Tech",
+      "Contract Analysis",
+      "Anomaly Detection",
+      "Information Extraction"
+    ]
+  },
+  {
+    "id": 1082,
+    "title": "Creating Synthetic Text Data to Augment Training for Low-Frequency Events",
+    "domain": "49",
+    "description": "Develop a generative model (e.g., using LLMs with constraints) to synthesize realistic, high-quality labeled text examples for rare or low-frequency events (e.g., specific types of financial fraud reports) to balance highly skewed classification datasets.",
+    "keywords": [
+      "Data Augmentation",
+      "Generative Models",
+      "Synthetic Data",
+      "Imbalanced Data"
+    ]
+  },
+  {
+    "id": 1083,
+    "title": "Personalized Dialogue Generation for Empathetic Conversational AI",
+    "domain": "49",
+    "description": "Train a dialogue system that uses short-term memory of a user's communication style and emotional state (detected via sentiment/tone analysis) to generate responses that are not only helpful but also highly personalized and appropriately empathetic.",
+    "keywords": [
+      "Conversational AI",
+      "Dialogue Systems",
+      "Empathy Modeling",
+      "Personalization"
+    ]
+  },
+  {
+    "id": 1084,
+    "title": "Developing an Explanation Generation Module for NLP Classification Decisions",
+    "domain": "49",
+    "description": "Implement an XAI (Explainable AI) module that can provide human-readable justification (e.g., 'The document was classified as positive because of the phrases 'highly successful' and 'record-breaking growth') for an NLP model's classification output.",
+    "keywords": [
+      "Explainable AI (XAI)",
+      "Classification",
+      "Justification Generation",
+      "Interpretability"
+    ]
+  },
+  {
+    "id": 1085,
+    "title": "Domain-Specific Pre-training for Historical or Archaic Language Text",
+    "domain": "49",
+    "description": "Develop a specialized pre-training methodology for language models using vast corpora of historical documents (e.g., 18th-century manuscripts) to overcome vocabulary drift and achieve high accuracy in tasks like named entity recognition and semantic search on archaic text.",
+    "keywords": [
+      "Pre-training",
+      "Historical Text",
+      "Archaic Language",
+      "Named Entity Recognition"
+    ]
+  },
+    //domain 50
     {
         "id": 4151,
         "title": "Real-Time Object Detection for Autonomous Vehicles",
@@ -30325,6 +31622,78 @@ const PROBLEMS_DATA = {
         "description": "Create a vision system that classifies artwork styles, detects forgeries, and assists in art curation using pattern recognition and image classification techniques.",
         "keywords": ["Image Classification", "Pattern Recognition", "Visual AI", "Image Recognition"]
     },
+    {
+    "id": 1086,
+    "title": "Zero-Shot Object Detection in High-Variability Aerial and Satellite Imagery",
+    "domain": "50",
+    "description": "Develop a zero-shot or few-shot object detection model capable of localizing and classifying rare or novel objects (e.g., specific types of construction equipment, newly built temporary shelters) in high-resolution aerial and satellite images without extensive re-labeling.",
+    "keywords": [
+      "Zero-Shot Learning",
+      "Object Detection",
+      "Remote Sensing",
+      "Few-Shot"
+    ]
+  },
+  {
+    "id": 1087,
+    "title": "Real-Time 3D Reconstruction and Volumetric Change Detection from Monocular Video",
+    "domain": "50",
+    "description": "Create a computer vision pipeline that uses a single moving camera (monocular video) to perform real-time Simultaneous Localization and Mapping (SLAM) and generate a dense 3D model of a scene, enabling the accurate measurement of volumetric changes (e.g., monitoring stockpile erosion).",
+    "keywords": [
+      "3D Reconstruction",
+      "SLAM",
+      "Monocular Vision",
+      "Volumetric Analysis"
+    ]
+  },
+  {
+    "id": 1088,
+    "title": "Adversarial Attack Robustness for Medical Image Segmentation Models",
+    "domain": "50",
+    "description": "Develop and test novel defense mechanisms or training methodologies to harden deep learning models used for critical tasks like tumor segmentation in MRI/CT scans against subtle, malicious pixel perturbations (adversarial attacks).",
+    "keywords": [
+      "Adversarial Attacks",
+      "Robustness",
+      "Medical Imaging",
+      "Image Segmentation"
+    ]
+  },
+  {
+    "id": 1089,
+    "title": "Developing Explainable AI (XAI) for Industrial Defect Inspection",
+    "domain": "50",
+    "description": "Create an XAI framework for a computer vision model used in manufacturing quality control (e.g., PCB or weld inspection) that not only detects a defect but also generates a visual heatmap or justification explaining *why* a specific region was classified as anomalous or faulty.",
+    "keywords": [
+      "Explainable AI (XAI)",
+      "Quality Control",
+      "Defect Detection",
+      "Industrial Vision"
+    ]
+  },
+  {
+    "id": 1090,
+    "title": "Low-Light Image Enhancement and Denoising via Physics-Informed Deep Learning",
+    "domain": "50",
+    "description": "Implement a deep learning model that incorporates physical priors (e.g., noise distribution, illumination models) to perform superior image enhancement and denoising in extremely low-light conditions without introducing artificial artifacts or losing fine detail.",
+    "keywords": [
+      "Low-Light Enhancement",
+      "Denoising",
+      "Deep Learning",
+      "Physics-Informed"
+    ]
+  },
+  {
+    "id": 1091,
+    "title": "High-Fidelity Synthesis of Realistic Textures and Materials for Virtual Worlds",
+    "domain": "50",
+    "description": "Develop a generative model (e.g., using diffusion models) that can synthesize new, tileable, physically-based rendered (PBR) texture maps (color, normal, roughness, metallic) from a single input image or a short text prompt for use in gaming and metaverse applications.",
+    "keywords": [
+      "Generative AI",
+      "Texture Synthesis",
+      "PBR",
+      "Computer Graphics"
+    ]
+  },
     //domain 51
     {
         "id": 4201,
@@ -30676,6 +32045,102 @@ const PROBLEMS_DATA = {
         "description": "Develop a system that audits network and application configurations to ensure compliance with security policies and standards automatically.",
         "keywords": ["Security Protocols", "Information Security", "Security Analytics"]
     },
+    {
+    "id": 1092,
+    "title": "Developing Autonomous Moving Target Defense (MTD) for Cloud Workloads",
+    "domain": "51",
+    "description": "Create an automated system that utilizes Moving Target Defense (MTD) by rapidly and continuously randomizing key attack surfaces (e.g., IP addresses, operating system versions, network topologies) for critical cloud-based microservices to thwart persistent attackers.",
+    "keywords": [
+      "MTD",
+      "Cloud Security",
+      "Automation",
+      "Attack Surface Reduction"
+    ]
+  },
+  {
+    "id": 1093,
+    "title": "AI-Driven Detection of Zero-Day Exploits in Binary Code",
+    "domain": "51",
+    "description": "Develop a deep learning model that performs static and dynamic analysis on previously unseen binary code to identify structural and behavioral anomalies indicative of zero-day vulnerabilities or exploits before they are publicly disclosed.",
+    "keywords": [
+      "Zero-Day",
+      "AI Security",
+      "Binary Analysis",
+      "Vulnerability Research"
+    ]
+  },
+  {
+    "id": 1094,
+    "title": "Quantifying and Mitigating Supply Chain Risk in Software Dependencies",
+    "domain": "51",
+    "description": "Build a framework to continuously analyze the full dependency graph of a software project (Software Bill of Materials - SBOM), scoring external libraries for hidden malware, known vulnerabilities, and 'trust' based on contributor history.",
+    "keywords": [
+      "Supply Chain Security",
+      "SBOM",
+      "Dependency Analysis",
+      "Risk Quantification"
+    ]
+  },
+  {
+    "id": 1095,
+    "title": "Developing a Decentralized and Uncensorable Secure Communication Protocol",
+    "domain": "51",
+    "description": "Design a new end-to-end encrypted communication protocol utilizing decentralized ledger technology (DLT) or mesh networking to ensure message delivery and integrity even if traditional internet infrastructure or centralized services are compromised or censored by state actors.",
+    "keywords": [
+      "Information Warfare",
+      "Decentralization",
+      "Censorship Resistance",
+      "Secure Communication"
+    ]
+  },
+  {
+    "id": 1096,
+    "title": "Machine Learning for Automated Phishing Campaign Detection and Takedown",
+    "domain": "51",
+    "description": "Implement a machine learning pipeline that monitors domain registration, email traffic, and web content to rapidly identify, classify, and automatically initiate the takedown process for novel phishing and credential harvesting campaigns.",
+    "keywords": [
+      "Phishing Detection",
+      "ML Security",
+      "Threat Intelligence",
+      "Takedown Automation"
+    ]
+  },
+  {
+    "id": 1097,
+    "title": "Detecting Deepfake Audio/Video Used in Social Engineering Attacks",
+    "domain": "51",
+    "description": "Develop a real-time forensic model that analyzes subtle inconsistencies (e.g., spectral noise, lip synchronization errors) in audio and video feeds to detect highly realistic, AI-generated 'deepfakes' used in high-level social engineering or CEO fraud schemes.",
+    "keywords": [
+      "Deepfake Detection",
+      "Forensics",
+      "Social Engineering",
+      "Media Integrity"
+    ]
+  },
+  {
+    "id": 1098,
+    "title": "Secure Quantum-Resistant Cryptographic Primitives Implementation",
+    "domain": "51",
+    "description": "Implement and benchmark one or more NIST-standardized Post-Quantum Cryptography (PQC) algorithms (e.g., lattice-based cryptography) into existing enterprise communication protocols (e.g., TLS/SSH) to secure systems against future quantum computer attacks.",
+    "keywords": [
+      "Post-Quantum Cryptography (PQC)",
+      "Quantum Security",
+      "Cryptography",
+      "Implementation"
+    ]
+  },
+  {
+    "id": 1099,
+    "title": "Modeling Adversarial Behavior for Cyber Defense Game Theory",
+    "domain": "51",
+    "description": "Create a game-theoretic model that simulates the interaction between blue (defender) and red (attacker) teams, predicting the attacker's optimal next steps and allowing the defender to choose resource allocations that minimize expected loss.",
+    "keywords": [
+      "Game Theory",
+      "Cyber Defense",
+      "Adversarial Modeling",
+      "Resource Optimization"
+    ]
+  },
     //domain 52
 
     {
