@@ -1431,3 +1431,4 @@ window.closeModal = () => {
     const app = window.problem2project || new Problem2Project();
     app.closeModal();
 };
+
