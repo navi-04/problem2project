@@ -606,8 +606,8 @@ class Problem2Project {
                 <div class="flex items-start justify-between">
                     <div class="flex-1">
                         <div class="flex items-center space-x-3 mb-3">
-                            <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
-                                <i class="fas fa-lightbulb text-white text-sm"></i>
+                            <div class="w-28 h-28 flex items-center justify-center">
+                                <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                             </div>
                             <div>
                                 <h3 class="text-xl font-bold text-gray-900 dark:text-gray-100">${problem.title}</h3>
@@ -636,8 +636,8 @@ class Problem2Project {
             card.className = 'problem-card group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 dark:border-gray-700 hover:border-blue-200 dark:hover:border-blue-500 hover:-translate-y-1';
             card.innerHTML = `
                 <div class="flex items-start justify-between mb-4">
-                    <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center">
-                        <i class="fas fa-lightbulb text-white"></i>
+                    <div class="w-28 h-28 flex items-center justify-center">
+                        <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                     </div>
                     <div class="flex space-x-1">
                         <button class="bookmark-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400 dark:text-gray-500'}" data-problem-id="${problem.id}">

@@ -1483,7 +1483,7 @@ const DOMAINS = {
     name: "Spectroscopy / Analytical Instrumentation",
     shortName: "Spectroscopy",
     description: "Studying the interaction of matter with electromagnetic radiation for chemical analysis and material characterization.",
-    icon: "fas fa-lightbulb",
+    icon: "fas fa-microscope",
     color: "indigo",
     gradient: "from-indigo-50 to-purple-100",
     iconGradient: "from-indigo-500 to-purple-600",
