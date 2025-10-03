@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>About - Problem2Project | Discover Innovation Opportunities</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -85,8 +85,8 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="index.html" class="flex items-center space-x-2">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-28 h-28 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                         </div>
                         <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
                     </a>
@@ -133,24 +133,23 @@
                         <span class="text-gray-800">Problem2Project</span>
                     </h1>
                     <p class="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-600 mb-6 sm:mb-8 max-w-3xl mx-auto leading-relaxed px-4 sm:px-0">
-                        Empowering innovation through open-source problem discovery. 
-                        Connecting brilliant minds with meaningful challenges across diverse domains.
+                        Driving innovation by uncovering opportunities and linking brilliant minds to impactful challenges across diverse fields
                     </p>
                 </div>
 
                 <!-- Stats -->
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16 animate-fade-in-up animation-delay-300 px-4 sm:px-0">
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-blue-600">1000+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-blue-600" id="total-problems-about">2000+</div>
                         <div class="text-sm sm:text-base text-gray-600">Problems</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600">20+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600" id="total-domains-about">82+</div>
                         <div class="text-sm sm:text-base text-gray-600">Domains</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-xl sm:text-2xl md:text-3xl font-bold text-purple-600">Open Source</div>
-                        <div class="text-sm sm:text-base text-gray-600">Community</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-purple-600" id="total-keywords-about">500+</div>
+                        <div class="text-sm sm:text-base text-gray-600">Keywords</div>
                     </div>
                     <div class="text-center">
                         <div class="text-2xl sm:text-3xl font-bold text-pink-600">Global</div>
@@ -175,7 +174,7 @@
                             We believe that the most groundbreaking inventions start with clearly defined problems.
                         </p>
                         <p class="text-base sm:text-lg text-gray-600 mb-6 sm:mb-8 leading-relaxed">
-                            Our platform democratizes access to diverse problem statements across 20+ domains, 
+                            Our platform democratizes access to diverse problem statements across 150+ domains, 
                             fostering a collaborative ecosystem where researchers, entrepreneurs, and innovators 
                             can discover opportunities that align with their expertise and passion.
                         </p>
@@ -206,7 +205,9 @@
                         <div class="relative">
                             <div class="bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl p-8 text-white">
                                 <div class="text-center mb-6">
-                                    <i class="fas fa-lightbulb text-4xl mb-4 opacity-80"></i>
+                                    <div class="w-28 h-28 mx-auto mb-4 flex items-center justify-center bg-white rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 cursor-pointer">
+                                        <img src="p2plogo.png" alt="Problem2Project Logo" class="w-24 h-24 object-contain">
+                                    </div>
                                     <h3 class="text-2xl font-bold">Innovation Journey</h3>
                                 </div>
                                 
@@ -257,7 +258,8 @@
                         Platform <span class="text-blue-600">Features</span>
                     </h2>
                     <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                        Discover powerful tools and features designed to accelerate your innovation journey.
+                        Explore our comprehensive suite of tools designed to help you discover, organize, 
+                        and solve real-world problems across diverse domains.
                     </p>
                 </div>
 
@@ -279,10 +281,10 @@
                         <div class="w-12 h-12 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                             <i class="fas fa-layer-group text-white text-xl"></i>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">20+ Domain Categories</h3>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">150+ Domain Categories</h3>
                         <p class="text-gray-600 leading-relaxed">
-                            Explore challenges across diverse fields including AI/ML, healthcare, sustainability, 
-                            robotics, and many more specialized domains.
+                            Explore challenges across diverse fields including programming, AI/ML, healthcare, 
+                            sustainability, robotics, finance, biotechnology, and many more specialized domains.
                         </p>
                     </div>
 
@@ -303,34 +305,70 @@
                         <div class="w-12 h-12 bg-gradient-to-br from-orange-500 to-red-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                             <i class="fas fa-share-alt text-white text-xl"></i>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">Collaborative Sharing</h3>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Problem Sharing & Discovery</h3>
                         <p class="text-gray-600 leading-relaxed">
-                            Share problems with your team, collaborate on solutions, and build 
-                            a network of like-minded innovators and researchers.
+                            Share interesting problems with others through direct links, discover random 
+                            challenges, and explore detailed problem descriptions with implementation suggestions.
                         </p>
                     </div>
 
                     <!-- Feature 5 -->
                     <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1000">
                         <div class="w-12 h-12 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                            <i class="fas fa-code-branch text-white text-xl"></i>
+                            <i class="fas fa-users text-white text-xl"></i>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">Open Source Ecosystem</h3>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Collaborative Platform</h3>
                         <p class="text-gray-600 leading-relaxed">
-                            Built on open-source principles with transparent data, community contributions, 
-                            and accessible APIs for researchers and developers.
+                            Connect with like-minded innovators, share insights, and collaborate on solutions 
+                            that drive meaningful change across industries.
                         </p>
                     </div>
 
                     <!-- Feature 6 -->
                     <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1000">
                         <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-rose-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                            <i class="fas fa-chart-line text-white text-xl"></i>
+                            <i class="fas fa-palette text-white text-xl"></i>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-4">Impact Tracking</h3>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Personalized Experience</h3>
                         <p class="text-gray-600 leading-relaxed">
-                            Monitor the real-world impact of solutions developed through our platform 
-                            and celebrate successful innovations with the community.
+                            Enjoy a customizable interface with dark/light theme toggle, mobile-optimized 
+                            design, and intuitive navigation that adapts to your preferences and device.
+                        </p>
+                    </div>
+                    
+                    <!-- Feature 7 - New Feature -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1200 md:col-span-2 lg:col-span-1">
+                        <div class="w-12 h-12 bg-gradient-to-br from-yellow-500 to-amber-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-dice text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Random Discovery</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Discover unexpected innovation opportunities with our random problem generator, 
+                            perfect for brainstorming sessions and expanding your creative horizons.
+                        </p>
+                    </div>
+
+                    <!-- Feature 8 - New Feature -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1400 md:col-span-2 lg:col-span-1">
+                        <div class="w-12 h-12 bg-gradient-to-br from-green-500 to-emerald-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-mobile-alt text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Mobile-First Design</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Access the platform seamlessly on any device with our responsive design, 
+                            featuring mobile-optimized navigation and touch-friendly interactions.
+                        </p>
+                    </div>
+
+                    <!-- Feature 9 - New Feature -->
+                    <div class="card group hover:shadow-xl transition-all duration-300 animate-fade-in-up animation-delay-1600 md:col-span-2 lg:col-span-1">
+                        <div class="w-12 h-12 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                            <i class="fas fa-filter text-white text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Advanced Filtering</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Find exactly what you're looking for with powerful search capabilities, 
+                            keyword-based filtering, and domain-specific problem categorization.
                         </p>
                     </div>
                 </div>
@@ -423,13 +461,13 @@
                 <!-- Brand -->
                 <div class="col-span-1 md:col-span-2">
                     <div class="flex items-center space-x-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-24 h-24 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-24 h-24 object-contain">
                         </div>
                         <span class="text-xl font-bold">Problem2Project</span>
                     </div>
                     <p class="text-gray-400 max-w-md">
-                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                        Driving innovation by uncovering opportunities and linking brilliant minds to impactful challenges across diverse fields
                     </p>
                     <div class="flex space-x-4 mt-6">
                         <a href="https://github.com/Fewinfos" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">
@@ -472,8 +510,7 @@
             <!-- Copyright -->
             <div class="border-t border-gray-800 pt-8 text-center">
                 <p class="text-gray-400">
-                    © 2025 Fewinfos. Open source under MIT License.
-                    Built with ❤️ for innovators worldwide.
+                    © 2025 Fewinfos. All rights reserved.
                 </p>
             </div>
         </div>
@@ -529,29 +566,75 @@
     </script>
 
     <!-- Bottom Navigation for Mobile -->
-    <nav class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 md:hidden z-40">
+    <nav class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 md:hidden z-40 transition-colors duration-300">
         <div class="flex justify-around items-center py-2">
-            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-home text-lg mb-1"></i>
                 <span class="text-xs">Home</span>
             </a>
-            <a href="index.html#categories" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="index.html#categories" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-th-large text-lg mb-1"></i>
                 <span class="text-xs">Explore</span>
             </a>
-            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <button onclick="window.location.href='index.html'" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors relative">
                 <i class="fas fa-bookmark text-lg mb-1"></i>
                 <span class="text-xs">Bookmarks</span>
-            </a>
-            <a href="about.html" class="flex flex-col items-center p-2 text-blue-600 transition-colors">
+            </button>
+            <a href="about.html" class="flex flex-col items-center p-2 text-blue-600 dark:text-blue-400 transition-colors">
                 <i class="fas fa-info-circle text-lg mb-1"></i>
                 <span class="text-xs">About</span>
             </a>
-            <a href="contact.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="contact.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-envelope text-lg mb-1"></i>
                 <span class="text-xs">Contact</span>
             </a>
         </div>
     </nav>
+
+    <!-- Include JavaScript for dynamic problem count -->
+    <script src="data.js"></script>
+    <script>
+        // Update problem count and keyword count dynamically
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                // Load problems data
+                if (typeof loadProblemsData === 'function') {
+                    await loadProblemsData();
+                }
+                
+                // Update total problems count in about page
+                const totalProblemsAbout = document.getElementById('total-problems-about');
+                if (totalProblemsAbout && window.PROBLEMS_DATA && window.PROBLEMS_DATA.problems) {
+                    const count = window.PROBLEMS_DATA.problems.length;
+                    totalProblemsAbout.textContent = `${count}+`;
+                }
+                
+                // Calculate and update total domains count
+                const totalDomainsAbout = document.getElementById('total-domains-about');
+                if (totalDomainsAbout && window.DOMAINS) {
+                    const domainsCount = Object.keys(window.DOMAINS).length;
+                    totalDomainsAbout.textContent = `${domainsCount}+`;
+                }
+                
+                // Calculate and update total keywords count
+                const totalKeywordsAbout = document.getElementById('total-keywords-about');
+                if (totalKeywordsAbout && window.PROBLEMS_DATA && window.PROBLEMS_DATA.problems) {
+                    const keywordSet = new Set();
+                    window.PROBLEMS_DATA.problems.forEach(problem => {
+                        if (problem.keywords && Array.isArray(problem.keywords)) {
+                            problem.keywords.forEach(keyword => {
+                                keywordSet.add(keyword.toLowerCase().trim());
+                            });
+                        }
+                    });
+                    const uniqueKeywordsCount = keywordSet.size;
+                    totalKeywordsAbout.textContent = `${uniqueKeywordsCount}+`;
+                }
+                
+            } catch (error) {
+                console.warn('Could not load dynamic counts:', error);
+            }
+        });
+    </script>
 </body>
 </html>

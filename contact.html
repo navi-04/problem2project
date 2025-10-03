@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Contact - Problem2Project | Get In Touch</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -86,8 +86,8 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="index.html" class="flex items-center space-x-2">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-28 h-28 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                         </div>
                         <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
                     </a>
@@ -151,11 +151,14 @@
                     <div class="animate-slide-in-left">
                         <div class="card p-6 sm:p-8">
                             <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-4 sm:mb-6">Send Us a Message</h2>
-                            <form id="contactForm" class="space-y-4 sm:space-y-6">
+                            <form action="https://api.web3forms.com/submit" method="POST" class="space-y-4 sm:space-y-6">
+                                <input type="hidden" name="access_key" value="64e6f8b6-b103-4ecb-8fe0-f7c84cdc55df">
+                                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
                                 <div class="grid sm:grid-cols-2 gap-4 sm:gap-6">
+                                    
                                     <div>
                                         <label for="firstName" class="block text-sm font-semibold text-gray-700 mb-2">First Name *</label>
-                                        <input type="text" id="firstName" name="firstName" required
+                                        <input type="text" id="firstName" name="name" required
                                                class="input-enhanced w-full focus-ring text-sm sm:text-base">
                                     </div>
                                     <div>
@@ -164,7 +167,6 @@
                                                class="input-enhanced w-full focus-ring">
                                     </div>
                                 </div>
-
                                 <div>
                                     <label for="email" class="block text-sm font-semibold text-gray-700 mb-2">Email Address *</label>
                                     <input type="email" id="email" name="email" required
@@ -198,14 +200,6 @@
                                     <textarea id="message" name="message" rows="6" required
                                               placeholder="Tell us about your inquiry, ideas, or how we can help you..."
                                               class="input-enhanced w-full focus-ring resize-none"></textarea>
-                                </div>
-
-                                <div class="flex items-center">
-                                    <input type="checkbox" id="newsletter" name="newsletter" 
-                                           class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500">
-                                    <label for="newsletter" class="ml-2 text-sm text-gray-600">
-                                        Subscribe to our newsletter for updates and insights
-                                    </label>
                                 </div>
 
                                 <button type="submit" class="w-full btn-primary">
@@ -245,7 +239,7 @@
                                         </div>
                                         <div>
                                             <h4 class="font-semibold text-gray-900">Email</h4>
-                                            <p class="text-gray-600">fewinfos@gmail.com</p>
+                                            <p class="text-gray-600">problem2project@gmail.com</p>
                                             <p class="text-sm text-gray-500 mt-1">We typically respond within 24 hours</p>
                                         </div>
                                     </div>
@@ -269,13 +263,6 @@
                                         <span class="font-medium text-gray-700">Sunday</span>
                                         <span class="text-gray-600">Closed</span>
                                     </div>
-                                </div>
-
-                                <div class="mt-6 p-4 bg-blue-50 rounded-lg">
-                                    <p class="text-sm text-blue-800">
-                                        <i class="fas fa-info-circle mr-2"></i>
-                                        For urgent technical issues, please use GitHub issues for faster community support.
-                                    </p>
                                 </div>
                             </div>
 
@@ -360,13 +347,13 @@
                 <!-- Brand -->
                 <div class="col-span-1 md:col-span-2">
                     <div class="flex items-center space-x-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-24 h-24 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-24 h-24 object-contain">
                         </div>
                         <span class="text-xl font-bold">Problem2Project</span>
                     </div>
                     <p class="text-gray-400 max-w-md">
-                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                        Driving innovation by uncovering opportunities and linking brilliant minds to impactful challenges across diverse fields
                     </p>
                     <div class="flex space-x-4 mt-6">
                         <a href="https://github.com/Fewinfos" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">
@@ -409,8 +396,7 @@
             <!-- Copyright -->
             <div class="border-t border-gray-800 pt-8 text-center">
                 <p class="text-gray-400">
-                    © 2025 Fewinfos. Open source under MIT License.
-                    Built with ❤️ for innovators worldwide.
+                    © 2025 Fewinfos. All rights reserved.
                 </p>
             </div>
         </div>
@@ -508,25 +494,25 @@
     </script>
 
     <!-- Bottom Navigation for Mobile -->
-    <nav class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 md:hidden z-40">
+    <nav class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 md:hidden z-40 transition-colors duration-300">
         <div class="flex justify-around items-center py-2">
-            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-home text-lg mb-1"></i>
                 <span class="text-xs">Home</span>
             </a>
-            <a href="index.html#categories" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="index.html#categories" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-th-large text-lg mb-1"></i>
                 <span class="text-xs">Explore</span>
             </a>
-            <a href="index.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <button onclick="window.location.href='index.html'" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors relative">
                 <i class="fas fa-bookmark text-lg mb-1"></i>
                 <span class="text-xs">Bookmarks</span>
-            </a>
-            <a href="about.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            </button>
+            <a href="about.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-info-circle text-lg mb-1"></i>
                 <span class="text-xs">About</span>
             </a>
-            <a href="contact.html" class="flex flex-col items-center p-2 text-blue-600 transition-colors">
+            <a href="contact.html" class="flex flex-col items-center p-2 text-blue-600 dark:text-blue-400 transition-colors">
                 <i class="fas fa-envelope text-lg mb-1"></i>
                 <span class="text-xs">Contact</span>
             </a>

@@ -48,7 +48,10 @@ class Problem2Project {
             this.domains = PROBLEMS_DATA.domains;
 
             // Update total problems count
-            document.getElementById('total-problems').textContent = `${this.problems.length}+`;
+            const totalProblemsEl = document.getElementById('total-problems');
+            if (totalProblemsEl) {
+                totalProblemsEl.textContent = `${this.problems.length}+`;
+            }
         } catch (error) {
             console.error('Error loading data:', error);
             throw error;
@@ -57,23 +60,38 @@ class Problem2Project {
 
     generateCategoriesGrid() {
         const categoriesGrid = document.getElementById('categories-grid');
-        if (!categoriesGrid) return;
+        if (!categoriesGrid) {
+            console.warn('Categories grid element not found');
+            return;
+        }
 
-        // Clear existing content
-        categoriesGrid.innerHTML = '';
+        try {
+            // Clear existing content
+            categoriesGrid.innerHTML = '';
 
-        // Generate category cards for all 20 domains
-        Object.entries(DOMAINS).forEach(([domainId, domainInfo]) => {
-            const categoryCard = this.createCategoryCard(domainId, domainInfo);
-            categoriesGrid.appendChild(categoryCard);
-        });
+            // Generate category cards for all 20 domains
+            Object.entries(DOMAINS).forEach(([domainId, domainInfo]) => {
+                const categoryCard = this.createCategoryCard(domainId, domainInfo);
+                if (categoryCard) {
+                    categoriesGrid.appendChild(categoryCard);
+                }
+            });
+        } catch (error) {
+            console.error('Error generating categories grid:', error);
+        }
     }
 
     createCategoryCard(domainId, domainInfo) {
-        const cardDiv = document.createElement('div');
-        cardDiv.className = 'category-card group';
-        cardDiv.setAttribute('data-category', domainInfo.category);
-        cardDiv.setAttribute('data-domain', domainId);
+        if (!domainId || !domainInfo) {
+            console.warn('Invalid domain data:', domainId, domainInfo);
+            return null;
+        }
+        
+        try {
+            const cardDiv = document.createElement('div');
+            cardDiv.className = 'category-card group';
+            cardDiv.setAttribute('data-category', domainInfo.category || '');
+            cardDiv.setAttribute('data-domain', domainId);
 
         cardDiv.innerHTML = `
             <div class="relative overflow-hidden bg-gradient-to-br ${domainInfo.gradient} dark:from-gray-800 dark:to-gray-700 rounded-2xl p-6 h-full cursor-pointer transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-${domainInfo.color}-100 dark:border-gray-600 hover:border-${domainInfo.color}-300 dark:hover:border-${domainInfo.color}-400">
@@ -92,22 +110,28 @@ class Problem2Project {
             </div>
         `;
 
-        // Add click event listener
-        cardDiv.addEventListener('click', () => {
-            this.selectCategory(domainInfo.category, domainId);
-        });
+            // Add click event listener
+            cardDiv.addEventListener('click', () => {
+                this.selectCategory(domainInfo.category, domainId);
+            });
 
-        return cardDiv;
+            return cardDiv;
+        } catch (error) {
+            console.error('Error creating category card for domain:', domainId, error);
+            return null;
+        }
     }
 
     hideLoadingScreen() {
         const loadingScreen = document.getElementById('loading-screen');
-        setTimeout(() => {
-            loadingScreen.style.opacity = '0';
+        if (loadingScreen) {
             setTimeout(() => {
-                loadingScreen.style.display = 'none';
-            }, 500);
-        }, 1500);
+                loadingScreen.style.opacity = '0';
+                setTimeout(() => {
+                    loadingScreen.style.display = 'none';
+                }, 500);
+            }, 1500);
+        }
     }
 
     setupEventListeners() {
@@ -342,10 +366,19 @@ class Problem2Project {
             this.toggleTheme();
         });
 
-        // Theme toggle for mobile
+        // Theme toggle for mobile (in top navbar)
         const themeToggleMobile = document.getElementById('theme-toggle-mobile');
         themeToggleMobile?.addEventListener('click', () => {
             this.toggleTheme();
+        });
+
+        // Search toggle for mobile (in top navbar)
+        const searchToggleMobile = document.getElementById('search-toggle-mobile');
+        const searchOverlay = document.getElementById('search-overlay');
+        const globalSearch = document.getElementById('global-search');
+        searchToggleMobile?.addEventListener('click', () => {
+            searchOverlay?.classList.remove('hidden');
+            globalSearch?.focus();
         });
 
         // Bookmarks dropdown for desktop
@@ -414,6 +447,7 @@ class Problem2Project {
     }
 
     updateProblemCounts() {
+        // Update domain-specific problem counts
         Object.keys(this.domains).forEach(domainId => {
             const count = this.problems.filter(p => p.domain === domainId).length;
             const countElement = document.getElementById(`count-${domainId}`);
@@ -421,6 +455,28 @@ class Problem2Project {
                 countElement.textContent = `${count} problems`;
             }
         });
+        
+        // Update total domains count
+        const totalDomainsElement = document.getElementById('total-domains-about');
+        if (totalDomainsElement && window.DOMAINS) {
+            const domainsCount = Object.keys(window.DOMAINS).length;
+            totalDomainsElement.textContent = `${domainsCount}+`;
+        }
+        
+        // Update total keyword count in index page
+        const totalKeywordsElement = document.getElementById('total-keywords-about');
+        if (totalKeywordsElement && this.allProblems) {
+            const keywordSet = new Set();
+            this.allProblems.forEach(problem => {
+                if (problem.keywords && Array.isArray(problem.keywords)) {
+                    problem.keywords.forEach(keyword => {
+                        keywordSet.add(keyword.toLowerCase().trim());
+                    });
+                }
+            });
+            const uniqueKeywordsCount = keywordSet.size;
+            totalKeywordsElement.textContent = `${uniqueKeywordsCount}+`;
+        }
     }
 
     selectCategory(category, domain) {
@@ -550,8 +606,8 @@ class Problem2Project {
                 <div class="flex items-start justify-between">
                     <div class="flex-1">
                         <div class="flex items-center space-x-3 mb-3">
-                            <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center">
-                                <i class="fas fa-lightbulb text-white text-sm"></i>
+                            <div class="w-28 h-28 flex items-center justify-center">
+                                <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                             </div>
                             <div>
                                 <h3 class="text-xl font-bold text-gray-900 dark:text-gray-100">${problem.title}</h3>
@@ -580,8 +636,8 @@ class Problem2Project {
             card.className = 'problem-card group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 dark:border-gray-700 hover:border-blue-200 dark:hover:border-blue-500 hover:-translate-y-1';
             card.innerHTML = `
                 <div class="flex items-start justify-between mb-4">
-                    <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center">
-                        <i class="fas fa-lightbulb text-white"></i>
+                    <div class="w-28 h-28 flex items-center justify-center">
+                        <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                     </div>
                     <div class="flex space-x-1">
                         <button class="bookmark-btn p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors ${isBookmarked ? 'text-yellow-500' : 'text-gray-400 dark:text-gray-500'}" data-problem-id="${problem.id}">
@@ -838,11 +894,17 @@ class Problem2Project {
         let sorted = [...this.problems];
         
         switch(sortBy) {
-            case 'title':
+            case 'title-asc':
                 sorted.sort((a, b) => a.title.localeCompare(b.title));
                 break;
-            case 'keywords':
-                sorted.sort((a, b) => b.keywords.length - a.keywords.length);
+            case 'title-desc':
+                sorted.sort((a, b) => b.title.localeCompare(a.title));
+                break;
+            case 'keywords-desc':
+                sorted.sort((a, b) => b.keywords.length - a.keywords.length); // Most to Least
+                break;
+            case 'keywords-asc':
+                sorted.sort((a, b) => a.keywords.length - b.keywords.length); // Least to Most
                 break;
             default: // relevance
                 // Keep original order for relevance
@@ -1035,12 +1097,13 @@ class Problem2Project {
     }
 
     toggleTheme() {
-        const html = document.documentElement;
-        const themeToggle = document.getElementById('theme-toggle');
-        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
-        const currentTheme = localStorage.getItem('theme');
+        try {
+            const html = document.documentElement;
+            const themeToggle = document.getElementById('theme-toggle');
+            const themeToggleMobile = document.getElementById('theme-toggle-mobile');
+            const currentTheme = localStorage.getItem('theme');
         
-        if (currentTheme === 'dark') {
+            if (currentTheme === 'dark') {
             html.classList.remove('dark');
             localStorage.setItem('theme', 'light');
             // Update desktop button
@@ -1051,49 +1114,75 @@ class Problem2Project {
             if (themeToggleMobile) {
                 themeToggleMobile.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
             }
-        } else {
-            html.classList.add('dark');
-            localStorage.setItem('theme', 'dark');
-            // Update desktop button
-            if (themeToggle) {
-                themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            } else {
+                html.classList.add('dark');
+                try {
+                    localStorage.setItem('theme', 'dark');
+                } catch (e) {
+                    console.warn('Could not save theme preference');
+                }
+                // Update desktop button
+                if (themeToggle) {
+                    themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+                }
+                // Update mobile button
+                if (themeToggleMobile) {
+                    themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+                }
             }
-            // Update mobile button
-            if (themeToggleMobile) {
-                themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
-            }
+        } catch (error) {
+            console.error('Error toggling theme:', error);
         }
     }
 
     initializeTheme() {
-        const html = document.documentElement;
-        const themeToggle = document.getElementById('theme-toggle');
-        const themeToggleMobile = document.getElementById('theme-toggle-mobile');
-        const savedTheme = localStorage.getItem('theme');
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        try {
+            const html = document.documentElement;
+            const themeToggle = document.getElementById('theme-toggle');
+            const themeToggleMobile = document.getElementById('theme-toggle-mobile');
+            
+            let savedTheme = null;
+            try {
+                savedTheme = localStorage.getItem('theme');
+            } catch (e) {
+                console.warn('localStorage not available for theme storage');
+            }
+            
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         
-        if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-            html.classList.add('dark');
-            localStorage.setItem('theme', 'dark');
-            // Update desktop button
-            if (themeToggle) {
-                themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+            if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+                html.classList.add('dark');
+                try {
+                    localStorage.setItem('theme', 'dark');
+                } catch (e) {
+                    console.warn('Could not save theme preference');
+                }
+                // Update desktop button
+                if (themeToggle) {
+                    themeToggle.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+                }
+                // Update mobile button
+                if (themeToggleMobile) {
+                    themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
+                }
+            } else {
+                html.classList.remove('dark');
+                try {
+                    localStorage.setItem('theme', 'light');
+                } catch (e) {
+                    console.warn('Could not save theme preference');
+                }
+                // Update desktop button
+                if (themeToggle) {
+                    themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+                }
+                // Update mobile button
+                if (themeToggleMobile) {
+                    themeToggleMobile.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
+                }
             }
-            // Update mobile button
-            if (themeToggleMobile) {
-                themeToggleMobile.innerHTML = '<i class="fas fa-sun text-yellow-400"></i>';
-            }
-        } else {
-            html.classList.remove('dark');
-            localStorage.setItem('theme', 'light');
-            // Update desktop button
-            if (themeToggle) {
-                themeToggle.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
-            }
-            // Update mobile button
-            if (themeToggleMobile) {
-                themeToggleMobile.innerHTML = '<i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>';
-            }
+        } catch (error) {
+            console.error('Error initializing theme:', error);
         }
     }
 
@@ -1113,14 +1202,22 @@ class Problem2Project {
         const cards = Array.from(grid.children);
         
         cards.sort((a, b) => {
-            if (sortBy === 'name') {
+            if (sortBy === 'name-asc') {
                 const nameA = a.querySelector('h3').textContent;
                 const nameB = b.querySelector('h3').textContent;
                 return nameA.localeCompare(nameB);
-            } else if (sortBy === 'problems') {
+            } else if (sortBy === 'name-desc') {
+                const nameA = a.querySelector('h3').textContent;
+                const nameB = b.querySelector('h3').textContent;
+                return nameB.localeCompare(nameA);
+            } else if (sortBy === 'problems-desc') {
                 const countA = parseInt(a.querySelector('[id^="count-"]')?.textContent || '0');
                 const countB = parseInt(b.querySelector('[id^="count-"]')?.textContent || '0');
-                return countB - countA;
+                return countB - countA; // High to Low
+            } else if (sortBy === 'problems-asc') {
+                const countA = parseInt(a.querySelector('[id^="count-"]')?.textContent || '0');
+                const countB = parseInt(b.querySelector('[id^="count-"]')?.textContent || '0');
+                return countA - countB; // Low to High
             }
             return 0;
         });
@@ -1284,7 +1381,16 @@ class Problem2Project {
 
 // Initialize the application when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    window.problem2project = new Problem2Project();
+    try {
+        window.problem2project = new Problem2Project();
+    } catch (error) {
+        console.error('Failed to initialize Problem2Project application:', error);
+        // Hide loading screen even if initialization fails
+        const loadingScreen = document.getElementById('loading-screen');
+        if (loadingScreen) {
+            loadingScreen.style.display = 'none';
+        }
+    }
 });
 
 // Global functions for backward compatibility
@@ -1325,3 +1431,4 @@ window.closeModal = () => {
     const app = window.problem2project || new Problem2Project();
     app.closeModal();
 };
+

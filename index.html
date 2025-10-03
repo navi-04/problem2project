@@ -163,6 +163,25 @@
                 -webkit-backdrop-filter: blur(16px);
                 box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
             }
+            
+            .dark nav.fixed.bottom-0 {
+                box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+            }
+            
+            /* Mobile navigation item spacing */
+            nav.fixed.bottom-0 .flex {
+                gap: 0.5rem; /* Normal spacing for 5 items */
+            }
+            
+            nav.fixed.bottom-0 a,
+            nav.fixed.bottom-0 button {
+                padding: 0.5rem 0.375rem; /* Normal padding */
+                min-width: 48px; /* Ensure touch target size */
+            }
+            
+            nav.fixed.bottom-0 .text-xs {
+                font-size: 0.75rem; /* Normal text size */
+            }
         }
         
         /* Mobile navigation improvements */
@@ -177,6 +196,42 @@
                 font-size: 16px;
                 border-radius: 8px;
                 margin: 4px 0;
+            }
+            
+            /* Mobile theme toggle in top navbar */
+            #theme-toggle-mobile,
+            #search-toggle-mobile {
+                min-width: 44px;
+                min-height: 44px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            #theme-toggle-mobile i,
+            #search-toggle-mobile i {
+                transition: all 0.3s ease;
+            }
+            
+            #theme-toggle-mobile:active {
+                transform: scale(0.95);
+            }
+            
+            #theme-toggle-mobile:active i {
+                transform: rotate(180deg);
+            }
+            
+            /* Theme toggle visual feedback */
+            @media (hover: none) and (pointer: coarse) {
+                #theme-toggle-mobile:active,
+                #search-toggle-mobile:active {
+                    background-color: rgba(59, 130, 246, 0.1);
+                }
+                
+                .dark #theme-toggle-mobile:active,
+                .dark #search-toggle-mobile:active {
+                    background-color: rgba(59, 130, 246, 0.2);
+                }
             }
         }
         
@@ -220,13 +275,23 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="/" class="flex items-center space-x-2">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-28 h-28 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
                         </div>
                         <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
                     </a>
                 </div>
                 
+                <!-- Mobile theme toggle and search -->
+                <div class="flex items-center space-x-2 md:hidden">
+                    <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+                        <i class="fas fa-search text-gray-600 dark:text-gray-400"></i>
+                    </button>
+                    <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+                        <i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>
+                    </button>
+                </div>
+
                 <!-- Desktop menu -->
                 <div class="hidden md:flex md:items-center md:space-x-8">
                     <a href="#home" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 px-3 py-2 transition-all duration-300">Home</a>
@@ -322,26 +387,26 @@
     </button>
 
     <!-- Bottom Navigation for Mobile -->
-    <nav class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 md:hidden z-40">
+    <nav class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 md:hidden z-40 transition-colors duration-300">
         <div class="flex justify-around items-center py-2">
-            <a href="#home" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="#home" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-home text-lg mb-1"></i>
                 <span class="text-xs">Home</span>
             </a>
-            <a href="#categories" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="#categories" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-th-large text-lg mb-1"></i>
                 <span class="text-xs">Explore</span>
             </a>
-            <button id="bookmarks-toggle-mobile-bottom" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors relative">
+            <button id="bookmarks-toggle-mobile-bottom" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors relative">
                 <i class="fas fa-bookmark text-lg mb-1"></i>
                 <span class="text-xs">Bookmarks</span>
                 <span id="bookmarks-count-mobile-bottom" class="absolute -top-1 -right-1 px-1.5 py-0.5 bg-blue-600 text-white text-xs rounded-full hidden">0</span>
             </button>
-            <a href="about.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="about.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-info-circle text-lg mb-1"></i>
                 <span class="text-xs">About</span>
             </a>
-            <a href="contact.html" class="flex flex-col items-center p-2 text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="contact.html" class="flex flex-col items-center p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                 <i class="fas fa-envelope text-lg mb-1"></i>
                 <span class="text-xs">Contact</span>
             </a>
@@ -372,7 +437,7 @@
                     <span class="text-gray-800 dark:text-gray-200">Opportunities</span>
                 </h1>
                 <p class="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed px-4 sm:px-0">
-                    Explore curated problem statements across 32+ domains. From AI to sustainability, 
+                    Explore curated problem statements across 10371+ domains. From AI to sustainability, 
                     find challenges that matter and drive meaningful innovation.
                 </p>
                 
@@ -398,11 +463,11 @@
                         <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Problems</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600">32+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-indigo-600" id="total-domains-about">82+</div>
                         <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Domains</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-2xl sm:text-3xl font-bold text-purple-600">500+</div>
+                        <div class="text-2xl sm:text-3xl font-bold text-purple-600" id="total-keywords-about">500+</div>
                         <div class="text-sm sm:text-base text-gray-600 dark:text-gray-400">Keywords</div>
                     </div>
                     <div class="text-center">
@@ -434,8 +499,10 @@
                 </div>
                 <div class="flex gap-3 sm:gap-4">
                     <select id="sort-categories" class="flex-1 sm:flex-none px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent text-base">
-                        <option value="name">Sort by Name</option>
-                        <option value="problems">Sort by Problem Count</option>
+                        <option value="name-asc">📝 Name A→Z</option>
+                        <option value="name-desc">📝 Name Z→A</option>
+                        <option value="problems-desc">🔢 Count ↓ High</option>
+                        <option value="problems-asc">🔢 Count ↑ Low</option>
                     </select>
                     <button id="view-toggle" class="px-4 sm:px-6 py-3 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-xl transition-colors">
                         <i class="fas fa-th-large"></i>
@@ -481,9 +548,11 @@
                            class="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent">
                 </div>
                 <select id="problems-sort" class="px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-xl focus:ring-2 focus:ring-blue-500">
-                    <option value="relevance">Sort by Relevance</option>
-                    <option value="title">Sort by Title</option>
-                    <option value="keywords">Sort by Keywords</option>
+                    <option value="relevance">⭐ Relevance</option>
+                    <option value="title-asc">📄 Title A→Z</option>
+                    <option value="title-desc">📄 Title Z→A</option>
+                    <option value="keywords-desc">🏷️ Tags ↓ Most</option>
+                    <option value="keywords-asc">🏷️ Tags ↑ Least</option>
                 </select>
                 <div class="flex gap-2">
                     <button id="grid-view" class="px-4 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors">
@@ -535,8 +604,8 @@
                     <i class="fas fa-arrow-left text-gray-600 dark:text-gray-400"></i>
                 </button>
                 <div class="flex items-center space-x-2 sm:space-x-3 min-w-0 flex-1">
-                    <div class="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center flex-shrink-0">
-                        <i class="fas fa-lightbulb text-white text-sm sm:text-lg"></i>
+                    <div class="w-32 h-32 sm:w-36 sm:h-36 flex items-center justify-center flex-shrink-0">
+                        <img src="p2plogo.png" alt="Problem2Project Logo" class="w-32 h-32 sm:w-36 sm:h-36 object-contain">
                     </div>
                     <div class="min-w-0 flex-1">
                         <h1 id="modalTitle" class="text-lg sm:text-2xl font-bold text-gray-900 dark:text-gray-100 truncate"></h1>
@@ -748,16 +817,18 @@
                     <!-- Contact Form -->
                     <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8">
                         <h3 class="text-2xl font-bold text-white mb-6">Get In Touch</h3>
-                        <form id="contactForm" class="space-y-4">
-                            <div>
+                        <form action="https://api.web3forms.com/submit" method="POST">
+                           <input type="hidden" name="access_key" value="64e6f8b6-b103-4ecb-8fe0-f7c84cdc55df">
+                            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+                            <div class="mb-4">
                                 <input type="text" name="name" placeholder="Your Name" required
                                        class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent">
                             </div>
-                            <div>
+                            <div class="mb-4">
                                 <input type="email" name="email" placeholder="Your Email" required
                                        class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent">
                             </div>
-                            <div>
+                            <div class="mb-6">
                                 <textarea name="message" rows="4" placeholder="Your Message" required
                                           class="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-xl text-white placeholder-white/70 focus:ring-2 focus:ring-white/50 focus:border-transparent resize-none"></textarea>
                             </div>
@@ -774,7 +845,7 @@
                                 <i class="fas fa-envelope text-2xl text-white"></i>
                             </div>
                             <h4 class="text-xl font-semibold text-white mb-2">Email Us</h4>
-                            <p class="text-blue-100">fewinfos@gmail.com</p>
+                            <p class="text-blue-100">problem2project@gmail.com</p>
                         </div>
                     </div>
                 </div>
@@ -789,13 +860,13 @@
                 <!-- Brand -->
                 <div class="col-span-1 md:col-span-2">
                     <div class="flex items-center space-x-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
-                            <i class="fas fa-lightbulb text-white text-sm"></i>
+                        <div class="w-24 h-24 flex items-center justify-center">
+                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-24 h-24 object-contain">
                         </div>
                         <span class="text-xl font-bold">Problem2Project</span>
                     </div>
                     <p class="text-gray-400 dark:text-gray-500 max-w-md">
-                        Empowering innovation through open-source problem discovery. Join thousands of innovators working on meaningful challenges.
+                        Driving innovation by uncovering opportunities and linking brilliant minds to impactful challenges across diverse fields
                     </p>
                     <div class="flex space-x-4 mt-6">
                         <a href="https://github.com/Fewinfos" target="_blank" rel="noopener noreferrer" class="text-gray-400 dark:text-gray-500 hover:text-white transition-colors">
@@ -838,8 +909,7 @@
             <!-- Copyright -->
             <div class="border-t border-gray-800 dark:border-gray-700 pt-8 text-center">
                 <p class="text-gray-400 dark:text-gray-500">
-                    © 2025 Fewinfos. Open source under MIT License.
-                    Built with ❤️ for innovators worldwide.
+                    © 2025 Fewinfos. All rights reserved.
                 </p>
             </div>
         </div>
