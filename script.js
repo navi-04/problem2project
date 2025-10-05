@@ -1,3 +1,250 @@
+// Problem2Project - Advanced SEO & Performance Optimized Application
+// World-class optimization for Google rankings and user experience
+
+// Performance & SEO Optimization Class
+class OptimizationManager {
+    constructor() {
+        this.metrics = {};
+        this.userSession = {};
+        this.performanceObserver = null;
+        this.init();
+    }
+
+    init() {
+        this.initPerformanceTracking();
+        this.initUserTracking();
+        this.initEngagementTracking();
+        this.initSearchTracking();
+    }
+
+    // Core Web Vitals tracking for Google ranking factors
+    initPerformanceTracking() {
+        // Track Largest Contentful Paint (LCP)
+        if ('PerformanceObserver' in window) {
+            this.performanceObserver = new PerformanceObserver((list) => {
+                const entries = list.getEntries();
+                entries.forEach((entry) => {
+                    if (entry.entryType === 'largest-contentful-paint') {
+                        this.metrics.lcp = entry.startTime;
+                        this.sendMetric('LCP', entry.startTime);
+                    }
+                    if (entry.entryType === 'first-input') {
+                        this.metrics.fid = entry.processingStart - entry.startTime;
+                        this.sendMetric('FID', this.metrics.fid);
+                    }
+                });
+            });
+            
+            try {
+                this.performanceObserver.observe({ entryTypes: ['largest-contentful-paint', 'first-input'] });
+            } catch (e) {
+                // Fallback for older browsers
+                console.log('Performance observer not fully supported');
+            }
+        }
+
+        // Track Cumulative Layout Shift (CLS)
+        let clsValue = 0;
+        let clsEntries = [];
+        if ('PerformanceObserver' in window) {
+            const clsObserver = new PerformanceObserver((list) => {
+                for (const entry of list.getEntries()) {
+                    if (!entry.hadRecentInput) {
+                        clsValue += entry.value;
+                        clsEntries.push(entry);
+                    }
+                }
+                this.metrics.cls = clsValue;
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'CLS', {
+                        event_category: 'Web Vitals',
+                        value: Math.round(clsValue * 1000),
+                        non_interaction: true
+                    });
+                }
+            });
+            
+            try {
+                clsObserver.observe({ entryTypes: ['layout-shift'] });
+            } catch (e) {
+                console.log('Layout shift observer not supported');
+            }
+        }
+    }
+
+    // Advanced user behavior tracking
+    initUserTracking() {
+        this.userSession = {
+            startTime: Date.now(),
+            pageViews: 1,
+            interactions: 0,
+            scrollDepth: 0,
+            timeOnPage: 0,
+            returningUser: this.isReturningUser(),
+            device: this.getDeviceInfo(),
+            source: this.getTrafficSource()
+        };
+
+        // Track scroll depth for engagement
+        let maxScroll = 0;
+        window.addEventListener('scroll', () => {
+            const scrollPercent = Math.round((window.scrollY + window.innerHeight) / document.body.offsetHeight * 100);
+            if (scrollPercent > maxScroll) {
+                maxScroll = scrollPercent;
+                this.userSession.scrollDepth = maxScroll;
+                
+                // Track milestone scroll depths
+                if ([25, 50, 75, 90].includes(maxScroll)) {
+                    this.trackEvent('scroll_depth', 'engagement', `${maxScroll}%`);
+                }
+            }
+        });
+
+        // Track time on page
+        setInterval(() => {
+            this.userSession.timeOnPage = Math.round((Date.now() - this.userSession.startTime) / 1000);
+        }, 1000);
+
+        // Track page visibility
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden) {
+                this.trackEvent('page_hidden', 'engagement', this.userSession.timeOnPage);
+            } else {
+                this.trackEvent('page_visible', 'engagement', this.userSession.timeOnPage);
+            }
+        });
+    }
+
+    // Advanced engagement tracking
+    initEngagementTracking() {
+        // Track clicks with heatmap data
+        document.addEventListener('click', (e) => {
+            this.userSession.interactions++;
+            const elementInfo = {
+                tag: e.target.tagName,
+                class: e.target.className,
+                id: e.target.id,
+                text: e.target.textContent?.substring(0, 50) || '',
+                x: e.clientX,
+                y: e.clientY
+            };
+            
+            this.trackEvent('click', 'interaction', JSON.stringify(elementInfo));
+        });
+
+        // Track form interactions
+        document.addEventListener('input', (e) => {
+            if (e.target.type === 'search' || e.target.classList.contains('search')) {
+                this.trackEvent('search_input', 'search', e.target.value.length);
+            }
+        });
+
+        // Track sharing activities
+        document.addEventListener('click', (e) => {
+            if (e.target.classList.contains('share-btn')) {
+                this.trackEvent('share_attempt', 'social', 'problem_share');
+            }
+            if (e.target.classList.contains('bookmark-btn')) {
+                this.trackEvent('bookmark_toggle', 'engagement', 'problem_bookmark');
+            }
+        });
+    }
+
+    // Search behavior tracking for SEO insights
+    initSearchTracking() {
+        let searchTimeout;
+        document.addEventListener('input', (e) => {
+            if (e.target.type === 'search') {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    const searchTerm = e.target.value.trim();
+                    if (searchTerm.length > 2) {
+                        this.trackEvent('search_performed', 'search', searchTerm);
+                        this.trackSearchTerm(searchTerm);
+                    }
+                }, 500);
+            }
+        });
+    }
+
+    // Utility methods
+    sendMetric(name, value) {
+        if (typeof gtag !== 'undefined') {
+            gtag('event', name, {
+                event_category: 'Web Vitals',
+                value: Math.round(value),
+                non_interaction: true
+            });
+        }
+    }
+
+    trackEvent(action, category, label, value = 1) {
+        if (typeof gtag !== 'undefined') {
+            gtag('event', action, {
+                event_category: category,
+                event_label: label,
+                value: value,
+                custom_parameter_1: this.userSession.device,
+                custom_parameter_2: this.userSession.source
+            });
+        }
+    }
+
+    trackSearchTerm(term) {
+        const searches = JSON.parse(localStorage.getItem('p2p_searches') || '[]');
+        searches.push({
+            term: term,
+            timestamp: Date.now(),
+            session: this.userSession.startTime
+        });
+        
+        // Keep only last 100 searches
+        if (searches.length > 100) {
+            searches.splice(0, searches.length - 100);
+        }
+        
+        localStorage.setItem('p2p_searches', JSON.stringify(searches));
+    }
+
+    isReturningUser() {
+        const lastVisit = localStorage.getItem('p2p_last_visit');
+        localStorage.setItem('p2p_last_visit', Date.now());
+        return !!lastVisit;
+    }
+
+    getDeviceInfo() {
+        const width = window.innerWidth;
+        if (width < 768) return 'mobile';
+        if (width < 1024) return 'tablet';
+        return 'desktop';
+    }
+
+    getTrafficSource() {
+        const referrer = document.referrer;
+        const urlParams = new URLSearchParams(window.location.search);
+        
+        if (urlParams.get('utm_source')) return urlParams.get('utm_source');
+        if (referrer.includes('google')) return 'google';
+        if (referrer.includes('bing')) return 'bing';
+        if (referrer.includes('facebook')) return 'facebook';
+        if (referrer.includes('twitter')) return 'twitter';
+        if (referrer === '') return 'direct';
+        return 'referral';
+    }
+
+    // Session summary for analytics
+    getSessionSummary() {
+        return {
+            ...this.userSession,
+            metrics: this.metrics,
+            timestamp: Date.now()
+        };
+    }
+}
+
+// Initialize optimization manager
+const optimizationManager = new OptimizationManager();
+
 // Problem2Project - Modern JavaScript Application
 // Enhanced functionality for problem discovery and exploration
 
@@ -9,7 +256,15 @@ class Problem2Project {
         this.currentView = 'grid';
         this.domains = {};
         this.bookmarkedProblems = this.getBookmarkedProblems();
-        this.ignoreNextHashChange = false; // Flag to prevent automatic reopening
+        this.ignoreNextHashChange = false;
+        
+        // SEO & Performance enhancements
+        this.searchIndex = new Map(); // For faster search
+        this.intersectionObserver = null; // For lazy loading
+        this.lastSearchTerm = '';
+        this.searchResults = [];
+        this.pageLoadTime = Date.now();
+        
         this.init();
     }
 
@@ -17,14 +272,28 @@ class Problem2Project {
         try {
             // Initialize theme first
             this.initializeTheme();
+            
+            // Track page load performance
+            optimizationManager.trackEvent('page_load_start', 'performance', 'init');
+            
             // Load problems data using the data manager
             await loadProblemsData();
             this.loadData();
+            
+            // Build search index for performance
+            this.buildSearchIndex();
+            
             this.generateCategoriesGrid();
             this.setupEventListeners();
             this.updateProblemCounts();
             this.hideLoadingScreen();
             this.setupIntersectionObserver();
+            this.setupLazyLoading();
+            
+            // Track successful initialization
+            const loadTime = Date.now() - this.pageLoadTime;
+            optimizationManager.trackEvent('page_load_complete', 'performance', `${loadTime}ms`);
+            
             // Initialize bookmarks with a small delay to ensure DOM is ready
             setTimeout(() => {
                 this.updateBookmarkCounts();
@@ -437,6 +706,8 @@ class Problem2Project {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
                     entry.target.classList.add('animate-fade-in-up');
+                    // Track element visibility for engagement
+                    optimizationManager.trackEvent('element_viewed', 'engagement', entry.target.className);
                 }
             });
         }, observerOptions);
@@ -444,6 +715,155 @@ class Problem2Project {
         document.querySelectorAll('.category-card, .problem-card').forEach(el => {
             observer.observe(el);
         });
+        
+        this.intersectionObserver = observer;
+    }
+
+    // SEO & Performance Optimization Methods
+    buildSearchIndex() {
+        // Create optimized search index for instant search
+        this.searchIndex.clear();
+        
+        this.allProblems.forEach((problem, index) => {
+            const searchText = [
+                problem.title,
+                problem.description,
+                problem.domain,
+                problem.tags?.join(' ') || '',
+                problem.keywords?.join(' ') || ''
+            ].join(' ').toLowerCase();
+            
+            // Split into keywords for better matching
+            const keywords = searchText.split(/\s+/).filter(word => word.length > 2);
+            
+            keywords.forEach(keyword => {
+                if (!this.searchIndex.has(keyword)) {
+                    this.searchIndex.set(keyword, []);
+                }
+                this.searchIndex.get(keyword).push(index);
+            });
+        });
+        
+        console.log(`Search index built with ${this.searchIndex.size} keywords`);
+    }
+
+    setupLazyLoading() {
+        // Implement lazy loading for images and content
+        if ('IntersectionObserver' in window) {
+            const lazyImageObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        if (img.dataset.src) {
+                            img.src = img.dataset.src;
+                            img.classList.remove('lazy-load');
+                            img.classList.add('loaded');
+                            lazyImageObserver.unobserve(img);
+                        }
+                    }
+                });
+            });
+
+            // Observe all lazy images
+            document.querySelectorAll('img[data-src]').forEach(img => {
+                lazyImageObserver.observe(img);
+            });
+        }
+    }
+
+    optimizedSearch(query) {
+        // High-performance search using the index
+        if (query.length < 2) return this.allProblems;
+        
+        const searchTerms = query.toLowerCase().split(/\s+/).filter(term => term.length > 1);
+        const scoreMap = new Map();
+        
+        searchTerms.forEach(term => {
+            // Exact matches
+            if (this.searchIndex.has(term)) {
+                this.searchIndex.get(term).forEach(index => {
+                    scoreMap.set(index, (scoreMap.get(index) || 0) + 3);
+                });
+            }
+            
+            // Partial matches
+            for (const [keyword, indices] of this.searchIndex.entries()) {
+                if (keyword.includes(term) && keyword !== term) {
+                    indices.forEach(index => {
+                        scoreMap.set(index, (scoreMap.get(index) || 0) + 1);
+                    });
+                }
+            }
+        });
+        
+        // Sort by relevance score
+        const sortedResults = Array.from(scoreMap.entries())
+            .sort((a, b) => b[1] - a[1])
+            .map(([index]) => this.allProblems[index]);
+        
+        // Track search performance
+        optimizationManager.trackEvent('search_performed', 'search', `${query} (${sortedResults.length} results)`);
+        
+        return sortedResults;
+    }
+
+    trackProblemView(problem) {
+        // Enhanced problem view tracking
+        optimizationManager.trackEvent('problem_viewed', 'content', problem.domain);
+        optimizationManager.trackEvent('problem_detail', 'engagement', `ID:${problem.id}`);
+        
+        // Track problem popularity
+        const views = JSON.parse(localStorage.getItem('p2p_problem_views') || '{}');
+        views[problem.id] = (views[problem.id] || 0) + 1;
+        localStorage.setItem('p2p_problem_views', JSON.stringify(views));
+        
+        // Update page title for SEO
+        document.title = `${problem.title} - Problem2Project Innovation Opportunity`;
+        
+        // Update meta description dynamically
+        let metaDesc = document.querySelector('meta[name="description"]');
+        if (metaDesc) {
+            metaDesc.content = `${problem.description.substring(0, 150)}... | Explore this innovation opportunity on Problem2Project.`;
+        }
+    }
+
+    enhanceSearchExperience() {
+        // Implement search suggestions and autocomplete
+        const searchInput = document.querySelector('input[type="search"]');
+        if (searchInput) {
+            let searchTimeout;
+            
+            searchInput.addEventListener('input', (e) => {
+                clearTimeout(searchTimeout);
+                const query = e.target.value.trim();
+                
+                searchTimeout = setTimeout(() => {
+                    if (query.length > 1) {
+                        this.showSearchSuggestions(query);
+                        this.performOptimizedSearch(query);
+                    } else {
+                        this.hideSearchSuggestions();
+                    }
+                }, 150); // Debounce for performance
+            });
+        }
+    }
+
+    performOptimizedSearch(query) {
+        // Use optimized search method
+        const results = this.optimizedSearch(query);
+        this.searchResults = results;
+        this.problems = results;
+        this.renderProblems();
+        
+        // Update URL for SEO
+        const url = new URL(window.location);
+        if (query) {
+            url.searchParams.set('search', query);
+        } else {
+            url.searchParams.delete('search');
+        }
+        window.history.pushState({}, '', url);
     }
 
     updateProblemCounts() {
