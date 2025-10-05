@@ -1,0 +1,83 @@
+# Robots.txt for Problem2Project - SEO Optimized
+# https://problem2project.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap location (Critical for SEO)
+Sitemap: https://problem2project.com/sitemap.xml
+
+# Crawl optimization
+Crawl-delay: 1
+
+# Priority pages for indexing
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+
+# Assets and resources
+Allow: /styles.css
+Allow: /script.js
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.json$
+
+# Block sensitive directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /*.tmp$
+Disallow: /*.log$
+Disallow: /*.bak$
+
+# Enhanced crawling for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# AI and content scrapers (adjust as needed)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Block aggressive crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+# SEO tools (allow for monitoring)
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MozBot
+Allow: /

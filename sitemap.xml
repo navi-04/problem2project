@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://problem2project.com/</loc>
+        <lastmod>2025-10-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://problem2project.com/og-image.jpg</image:loc>
+            <image:title>Problem2Project - Innovation Opportunities Platform</image:title>
+            <image:caption>Discover 2000+ innovation opportunities across 32+ domains</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- About Page -->
+    <url>
+        <loc>https://problem2project.com/about.html</loc>
+        <lastmod>2025-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://problem2project.com/about-og-image.jpg</image:loc>
+            <image:title>About Problem2Project</image:title>
+            <image:caption>Learn about our mission to connect innovators with challenges</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Contact Page -->
+    <url>
+        <loc>https://problem2project.com/contact.html</loc>
+        <lastmod>2025-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://problem2project.com/contact-og-image.jpg</image:loc>
+            <image:title>Contact Problem2Project</image:title>
+            <image:caption>Get in touch for partnerships and collaborations</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
