@@ -24,6 +24,11 @@
         }
     </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='pGrad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%234F46E5'/%3E%3Cstop offset='100%25' style='stop-color:%236366F1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='url(%23pGrad)'/%3E%3Ctext x='50' y='70' font-family='Arial,sans-serif' font-size='60' font-weight='bold' text-anchor='middle' fill='white'%3EP%3C/text%3E%3C/svg%3E" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='pGrad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%234F46E5'/%3E%3Cstop offset='100%25' style='stop-color:%236366F1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='url(%23pGrad)'/%3E%3Ctext x='50' y='70' font-family='Arial,sans-serif' font-size='60' font-weight='bold' text-anchor='middle' fill='white'%3EP%3C/text%3E%3C/svg%3E">
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -275,20 +280,20 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="/" class="flex items-center space-x-2">
-                        <div class="w-28 h-28 flex items-center justify-center">
-                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-28 h-28 object-contain">
+                        <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-sm"></i>
                         </div>
-                        <span class="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
+                        <span class="text-lg sm:text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Problem2Project</span>
                     </a>
                 </div>
                 
                 <!-- Mobile theme toggle and search -->
                 <div class="flex items-center space-x-2 md:hidden">
-                    <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
-                        <i class="fas fa-search text-gray-600 dark:text-gray-400"></i>
+                    <button id="search-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" title="Search">
+                        <i class="fas fa-search text-gray-600 dark:text-gray-400 text-lg"></i>
                     </button>
-                    <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
-                        <i class="fas fa-moon text-gray-600 dark:text-gray-400"></i>
+                    <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" title="Toggle theme">
+                        <i class="fas fa-moon text-gray-600 dark:text-gray-400 text-lg"></i>
                     </button>
                 </div>
 
@@ -604,8 +609,8 @@
                     <i class="fas fa-arrow-left text-gray-600 dark:text-gray-400"></i>
                 </button>
                 <div class="flex items-center space-x-2 sm:space-x-3 min-w-0 flex-1">
-                    <div class="w-32 h-32 sm:w-36 sm:h-36 flex items-center justify-center flex-shrink-0">
-                        <img src="p2plogo.png" alt="Problem2Project Logo" class="w-32 h-32 sm:w-36 sm:h-36 object-contain">
+                    <div class="w-10 h-10 sm:w-12 sm:h-12 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <i class="fas fa-lightbulb text-white text-lg sm:text-xl"></i>
                     </div>
                     <div class="min-w-0 flex-1">
                         <h1 id="modalTitle" class="text-lg sm:text-2xl font-bold text-gray-900 dark:text-gray-100 truncate"></h1>
@@ -860,8 +865,8 @@
                 <!-- Brand -->
                 <div class="col-span-1 md:col-span-2">
                     <div class="flex items-center space-x-2 mb-4">
-                        <div class="w-24 h-24 flex items-center justify-center">
-                            <img src="p2plogo.png" alt="Problem2Project Logo" class="w-24 h-24 object-contain">
+                        <div class="w-10 h-10 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-lightbulb text-white text-lg"></i>
                         </div>
                         <span class="text-xl font-bold">Problem2Project</span>
                     </div>
@@ -900,7 +905,7 @@
                             <i class="fas fa-globe mr-1"></i>Organization
                         </a></li>
                         <li><a href="https://www.whatsapp.com/channel/0029VbAmTrTEawdoha6lOS2I" target="_blank" rel="noopener noreferrer" class="text-gray-400 dark:text-gray-500 hover:text-white transition-colors">
-                            <i class="fab fa-whatsapp mr-1"></i>WhatsApp Channel
+                            <i class="fab fa-whatsapp mr-1"></i>WhatsApp
                         </a></li>
                     </ul>
                 </div>
@@ -909,7 +914,7 @@
             <!-- Copyright -->
             <div class="border-t border-gray-800 dark:border-gray-700 pt-8 text-center">
                 <p class="text-gray-400 dark:text-gray-500">
-                    © 2025 Fewinfos. All rights reserved.
+                    © 2025 Fewinfos. All rights reserved. 
                 </p>
             </div>
         </div>
