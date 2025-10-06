@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GN295BVR3D"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-GN295BVR3D');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -185,39 +194,6 @@
             }
         ]
     }
-    </script>
-    
-    <!-- Google Analytics 4 & Performance Tracking -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'GA_MEASUREMENT_ID', {
-            page_title: 'Problem2Project - Innovation Opportunities',
-            page_location: window.location.href,
-            send_page_view: true,
-            cookie_flags: 'SameSite=Strict;Secure'
-        });
-        
-        // Core Web Vitals tracking for Google ranking factors
-        function sendToAnalytics(metric) {
-            gtag('event', metric.name, {
-                event_category: 'Web Vitals',
-                event_label: metric.id,
-                value: Math.round(metric.name === 'CLS' ? metric.value * 1000 : metric.value),
-                non_interaction: true
-            });
-        }
-        
-        // User engagement tracking
-        function trackEngagement(action, category, label) {
-            gtag('event', action, {
-                event_category: category,
-                event_label: label,
-                value: 1
-            });
-        }
     </script>
     
     <style>
